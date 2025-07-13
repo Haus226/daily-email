@@ -1,0 +1,29 @@
+name: Daily Cat Fact Email
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Runs daily at 1:00 UTC (~9AM Malaysia)
+  workflow_dispatch:      # Manual trigger button
+
+jobs:
+  send-fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send Cat Fact Email
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python main.py
