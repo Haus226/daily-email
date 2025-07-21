@@ -3,6 +3,7 @@ import smtplib
 import random
 from email.mime.text import MIMEText
 import os
+import datetime
 
 
 def get_joke():
@@ -10,16 +11,16 @@ def get_joke():
         r = requests.get("https://official-joke-api.appspot.com/random_joke", timeout=5)
         joke = r.json()
         return f"🃏 Joke of the Day:\n\n{joke['setup']}\n{joke['punchline']}"
-    except:
-        return "😿 Failed to fetch a joke."
+    except Exception as e:
+        return f"😿 Failed to fetch a joke. Error: {e}"
 
 
 def get_cat_fact():
     try: 
-        r = requests.get("https://api.tangdouz.com/lzs.php", timeout=5)
-        return f"🐱 Cat Fact:\n\n{r.text.strip()}"
-    except:
-        return "😿 Failed to fetch a cat fact."
+        r = requests.get("https://meowfacts.herokuapp.com/", timeout=5)
+        return f"🐱 Cat Fact:\n\n{r.json()['data'][0]}"
+    except Exception as e:
+        return f"😿 Failed to fetch a cat fact. Error: {e}"
 
 
 def get_quote():
@@ -27,8 +28,8 @@ def get_quote():
         r = requests.get("https://zenquotes.io/api/random", timeout=5)
         data = r.json()[0]
         return f"💡 Quote of the Day:\n\n“{data['q']}”\n— {data['a']}"
-    except:
-        return "😿 Failed to fetch a quote."
+    except Exception as e:
+        return f"😿 Failed to fetch a quote. Error: {e}"
 
 
 def send_email(content):
@@ -49,10 +50,19 @@ def send_email(content):
         s.send_message(msg)
     print("✅ Email sent successfully!")
 
+def get_content_by_day():
+    day = datetime.now().strftime("%A")
+
+    if day == "Monday":
+        return get_cat_fact()
+    elif day == "Tuesday":
+        return get_joke()
+    elif day == "Wednesday":
+        return get_quote()
+    else:
+        choice = random.choice([get_cat_fact, get_joke, get_quote])
+        return choice()
 
 if __name__ == "__main__":
-    # Randomly select one type of message
-    choices = [get_joke, get_cat_fact, get_quote]
-    chosen = random.choice(choices)
-    message = chosen()
-    send_email(message)
+    content = get_content_by_day()
+    send_email(content)
