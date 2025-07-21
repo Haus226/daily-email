@@ -3,7 +3,7 @@ import smtplib
 import random
 from email.mime.text import MIMEText
 import os
-import datetime
+from datetime import datetime
 
 
 def get_joke():
