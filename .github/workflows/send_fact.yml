@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Needed to push back to repo
+          fetch-depth: 0             # Get full history
+          ref: main                  # Make sure we're on the main branch
 
       - name: Set up Python
         uses: actions/setup-python@v5

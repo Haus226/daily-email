@@ -50,9 +50,9 @@ def send_email(content):
 def get_content_by_day():
     day = datetime.now().strftime("%A")
 
-    if day == "Monday":
+    if day == "Mda":
         return get_cat_fact()
-    elif day == "Tuesday":
+    elif day == "Monday":
         return get_quote()
     elif day == "Wednesday":
         return get_joke()
