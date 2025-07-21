@@ -1,4 +1,4 @@
-name: Daily Cat Fact Email
+name: Daily Email
 
 on:
   schedule:
