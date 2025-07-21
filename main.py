@@ -18,19 +18,17 @@ def get_joke():
 def get_cat_fact():
     try: 
         r = requests.get("https://meowfacts.herokuapp.com/", timeout=5)
-        return f"🐱 Cat Fact:\n\n{r.json()['data'][0]}"
+        return f"🐱 Cat Fact of the Day:\n\n{r.json()['data'][0]}"
     except Exception as e:
         return f"😿 Failed to fetch a cat fact. Error: {e}"
 
 
 def get_quote():
-    try:
-        r = requests.get("https://zenquotes.io/api/random", timeout=5)
-        data = r.json()[0]
-        return f"💡 Quote of the Day:\n\n“{data['q']}”\n— {data['a']}"
-    except Exception as e:
-        return f"😿 Failed to fetch a quote. Error: {e}"
-
+    with open('quotes.txt', 'r', encoding='utf-8') as file:
+        quotes = file.readlines()
+    with open("quotes.txt", "w", encoding='utf-8') as file:
+        file.writelines(quotes[1:])
+    return f"💬 Quote of the Day:\n\n{quotes[0]}"
 
 def send_email(content):
     sender = os.getenv("SENDER_EMAIL")
@@ -48,7 +46,6 @@ def send_email(content):
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(sender, password)
         s.send_message(msg)
-    print("✅ Email sent successfully!")
 
 def get_content_by_day():
     day = datetime.now().strftime("%A")
@@ -56,9 +53,9 @@ def get_content_by_day():
     if day == "Monday":
         return get_cat_fact()
     elif day == "Tuesday":
-        return get_joke()
-    elif day == "Wednesday":
         return get_quote()
+    elif day == "Wednesday":
+        return get_joke()
     else:
         choice = random.choice([get_cat_fact, get_joke, get_quote])
         return choice()
