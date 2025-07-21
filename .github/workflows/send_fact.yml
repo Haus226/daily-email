@@ -33,9 +33,11 @@ jobs:
         run: python main.py
 
       - name: Update quotes.txt
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add quotes.txt
-          git commit -m "Update quotes.txt"
-          git push
+          git commit -m "Update quotes.txt" || echo "Nothing to commit"
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
