@@ -5,6 +5,7 @@ on:
     - cron: '0 1 * * *'  # Runs daily at 1:00 UTC (~9AM Malaysia)
   workflow_dispatch:      # Manual trigger button
 
+# This workflow requires write permissions to the repository to update quotes.txt
 permissions:
   contents: write
 
