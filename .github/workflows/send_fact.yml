@@ -5,6 +5,9 @@ on:
     - cron: '0 1 * * *'  # Runs daily at 1:00 UTC (~9AM Malaysia)
   workflow_dispatch:      # Manual trigger button
 
+permissions:
+  contents: write
+
 jobs:
   send-fact:
     runs-on: ubuntu-latest
@@ -37,11 +40,8 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
 
-
       - name: Update quotes.txt
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git add quotes.txt
           git commit -m "Update quotes.txt" || echo "Nothing to commit"
-          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+          git push
