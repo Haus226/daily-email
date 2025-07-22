@@ -1,9 +1,7 @@
 import requests
 import smtplib
-import random
 from email.mime.text import MIMEText
 import os
-from datetime import datetime
 
 def get_joke():
     try:
@@ -51,7 +49,7 @@ def send_email(content):
         s.send_message(msg)
 
 def get_daily_content():
-    return get_cat_fact() + "\n" + get_joke() + "\n" + get_quote()
+    return get_cat_fact() + get_joke() + get_quote()
 
 if __name__ == "__main__":
     content = get_daily_content()
