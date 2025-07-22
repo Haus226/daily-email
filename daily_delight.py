@@ -34,7 +34,7 @@ def get_quote():
 def send_email(content):
     sender = os.getenv("SENDER_EMAIL")
     password = os.getenv("SENDER_PASSWORD")
-    recipient = os.getenv("RECIPIENT_EMAIL")
+    recipient = os.getenv("DELIGHT_EMAIL")
 
     if not all([sender, password, recipient]):
         raise EnvironmentError("Missing SENDER_EMAIL, SENDER_PASSWORD, or RECIPIENT_EMAIL in environment variables.")
