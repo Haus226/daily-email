@@ -21,6 +21,11 @@ jobs:
           fetch-depth: 0             # Get full history
           ref: main                  # Make sure we're on the main branch
 
+      - name: Log time in UTC and MYT
+        run: |
+          echo "UTC now: $(date -u)"
+          echo "MYT now: $(TZ=Asia/Kuala_Lumpur date)"
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -37,7 +42,7 @@ jobs:
 
         run: python daily_delight.py
 
-      - name: Send Delight Email
+      - name: Send Digest Email
         env:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}

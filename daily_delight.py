@@ -4,6 +4,22 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
 
+def get_affirmation():
+    try:
+        r = requests.get("https://www.affirmations.dev/", timeout=5)
+        return r.json().get("affirmation", "You are amazing and capable!")
+    except Exception:
+        return "You are amazing and capable!"
+
+
+def get_fun_fact():
+    try:
+        r = requests.get("https://uselessfacts.jsph.pl/api/v2/facts/random?language=en", timeout=5)
+        return f"<h2>🧠 Fun Fact</h2><p>{r.json()['text']}</p>"
+    except Exception as e:
+        return f"<h2>🧠 Fun Fact</h2><p>😿 Failed to fetch a fun fact. Error: {e}</p>"
+
+
 def get_joke():
     try:
         r = requests.get("https://official-joke-api.appspot.com/random_joke", timeout=5)
@@ -63,15 +79,33 @@ def send_email(content_html):
         s.send_message(msg)
 
 def run():
-    return "<html><body>" + get_cat_fact() + get_joke() + get_quote() + "</body></html>"
+    affirmation = get_affirmation()
+    return f"""
+    <html>
+    <body>
+        <div style="font-family:Arial,sans-serif;padding:20px;max-width:600px;margin:auto;">
+            <h1 style="text-align:center;">🌟 Daily Delight 🌟</h1>
+            <h2 style="text-align:center; font-size:1.2em;">🌈 {affirmation}</h2>
+            <hr>
+            {get_cat_fact()}
+            <hr>
+            {get_joke()}
+            <hr>
+            {get_quote()}
+            <hr>
+            {get_fun_fact()}
+        </div>
+    </body>
+    </html>
+    """
 
 def demo():
     content = run()
-    with open("preview.html", "w", encoding="utf-8") as f:
+    with open("delight_preview.html", "w", encoding="utf-8") as f:
         f.write(content)
 
 
 if __name__ == "__main__":
     content = run()
-    # send_email(content)
-    demo()
+    send_email(content)
+    # demo()

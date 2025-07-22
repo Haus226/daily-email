@@ -27,7 +27,7 @@ def fetch_apod(results):
         logging.info("📥 [APOD] Title: %s", title)
         logging.info("🖼️ [APOD] Image URL: %s", image_url)
 
-        html = f"<h2>✨ Astronomy Picture of the Day</h2><p><b>{title}</b><br><img src='{image_url}' width='500'><br>{explanation}</p>"
+        html = f"<h2>✨ Astronomy Picture of the Day</h2><center><b>{title}</b><br><img src='{image_url}' width='500'></center><br>{explanation}</p>"
         results["apod"] = html
         logging.info("✅ [APOD] Successfully fetched.")
     except Exception as e:
@@ -60,8 +60,8 @@ def fetch_eo(results):
 
         html = (
             "<h2>🌍 NASA Earth Observatory - Image of the Day</h2>"
-            f"<p><b>{title}</b> <br>"
-            f"<img src='{image_url}' width='500'><br>"
+            f"<center><b>{title}</b><br>"
+            f"<img src='{image_url}' width='500'></center><br>"
             f"{explanation}<a href='{link}' target='_blank'>[Read more]</a></p>"
         )
 
@@ -178,7 +178,9 @@ def run():
     for t in threads:
         t.join()
 
-    content = "<html><body>" + "<hr>".join([
+    content = '<html><body style="font-family:Arial,sans-serif;max-width:600px;margin:auto;padding:20px"> \
+    <h1 style="text-align:center">📰 Daily Digest</h1> \
+    <hr>' + "<hr>".join([
         results.get("apod", ""),
         results.get("eo", ""),
         results.get("hn", ""),
@@ -190,7 +192,7 @@ def run():
 def demo():
     logging.info("Generating local preview...")
     content = run()
-    with open("preview.html", "w", encoding="utf-8") as f:
+    with open("digest_preview.html", "w", encoding="utf-8") as f:
         f.write(content)
     logging.info("📄 Preview saved to 'preview.html'")
 
