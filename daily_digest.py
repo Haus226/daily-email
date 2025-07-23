@@ -105,6 +105,10 @@ def fetch_paperswithcode(results):
         papers = soup.find_all('div', class_='col-lg-9 item-content')
 
         html = "<h2>📚 Daily Papers With Code Trending</h2><ul>"
+        if not papers:
+            logging.warning("⚠️ [PwC] No papers found.")
+            results["pwc"] = "<h2>🚫 No papers found</h2>"
+            return
         for idx, paper in enumerate(papers, 1):
             title_tag = paper.find('h1').find('a')
             title = title_tag.text.strip() if title_tag else "Untitled"
