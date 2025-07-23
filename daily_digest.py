@@ -13,7 +13,7 @@ def fetch_apod(results):
     url = "https://apod.nasa.gov/apod/astropix.html"
     logging.info("🚀 [APOD] Starting to fetch Astronomy Picture of the Day")
     try:
-        res = requests.get(url)
+        res = requests.get(url, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
 
         title_tag = soup.find_all("center")[1].find("b")
@@ -39,7 +39,7 @@ def fetch_eo(results):
     url = "https://earthobservatory.nasa.gov/topic/image-of-the-day"
     logging.info("🚀 [EO] Starting to fetch Earth Observatory Image of the Day")
     try:
-        res = requests.get(url)
+        res = requests.get(url, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
 
         # Find first card under the landing section
@@ -75,7 +75,7 @@ def fetch_eo(results):
 def fetch_hackernews(results):
     logging.info("🚀 [HN] Starting to fetch Hacker News")
     try:
-        res = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json").json()
+        res = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json", timeout=10).json()
         top_stories = res[:10]
         html = "<h2>🔥 Hacker News Top 10</h2><ol>"
         for idx, sid in enumerate(top_stories, 1):
@@ -100,7 +100,7 @@ def fetch_paperswithcode(results):
     logging.info("🚀 [PwC] Starting to fetch Papers with Code")
     try:
         url = "https://paperswithcode.com/"
-        res = requests.get(url)
+        res = requests.get(url, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
         papers = soup.find_all('div', class_='col-lg-9 item-content')
 
@@ -171,10 +171,10 @@ def run():
 
     # Run all fetches concurrently
     threads = [
-        threading.Thread(target=fetch_apod, args=(results,)),
-        threading.Thread(target=fetch_hackernews, args=(results,)),
-        threading.Thread(target=fetch_paperswithcode, args=(results,)),
-        threading.Thread(target=fetch_eo, args=(results,))
+        threading.Thread(target=fetch_apod, args=(results,), name="Astronomy"),
+        threading.Thread(target=fetch_hackernews, args=(results,), name="HackerNews"),
+        threading.Thread(target=fetch_paperswithcode, args=(results,), name="PapersWithCode"),
+        threading.Thread(target=fetch_eo, args=(results,), name="EarthObservatory")
     ]
 
     for t in threads:
@@ -190,6 +190,7 @@ def run():
         results.get("hn", ""),
         results.get("pwc", "")
     ]) + "</body></html>"
+    logging.info("📄 Digest content generated successfully.")
     return content
 
 
@@ -201,7 +202,9 @@ def demo():
     logging.info("📄 Preview saved to 'preview.html'")
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+    logging.basicConfig(level=logging.INFO, 
+                        filename=".log",
+                        format="%(levelname)s   %(asctime)s [%(filename)s:%(lineno)d:%(funcName)s:%(threadName)s] %(message)s")
     content = run()
     send_email("📅 Daily Digest", content)
     # demo()
