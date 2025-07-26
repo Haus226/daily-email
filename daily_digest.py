@@ -257,6 +257,6 @@ def demo():
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, 
                         format="%(levelname)s   %(asctime)s [%(filename)s:%(lineno)d:%(funcName)s:%(threadName)s] %(message)s")
-    # content = run()
-    # send_email("📅 Daily Digest", content)
-    demo()
+    content = run()
+    send_email("📅 Daily Digest", content)
+    # demo()
