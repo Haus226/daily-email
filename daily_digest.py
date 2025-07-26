@@ -95,7 +95,7 @@ def fetch_hackernews(results):
         logging.error(f"❌ [HN] Failed: {e}")
         results["hn"] = "<h2>🚫 Failed to load Hacker News</h2>"
 
-
+# Deprecated: fetch_paperswithcode is now using the new URL
 def fetch_paperswithcode(results):
     logging.info("🚀 [PwC] Starting to fetch Papers with Code")
     try:
@@ -141,6 +141,59 @@ def fetch_paperswithcode(results):
         logging.error(f"❌ [PwC] Failed: {e}")
         results["pwc"] = "<h2>🚫 Failed to load Papers With Code</h2>"
 
+def fetch_hf_papers(results):
+    logging.info("🚀 [HF] Starting to fetch Hugging Face Papers")
+    try:
+        url = "https://huggingface.co/papers/trending"
+        res = requests.get(url, timeout=10)
+        soup = BeautifulSoup(res.text, "html.parser")
+        papers = soup.find_all('article', class_='relative overflow-hidden rounded-xl border')[:10]
+
+        html = "<h2>📚 Hugging Face Papers Trending Top 10</h2><ul>"
+        if not papers:
+            logging.warning("⚠️ [HF] No papers found.")
+            results["hf"] = "<h2>🚫 No papers found</h2>"
+            return
+        for idx, paper in enumerate(papers, 1):
+            title_tag = paper.find('h3').find('a')
+            title = title_tag.text.strip() if title_tag else "Untitled"
+            paper_link = f"https://huggingface.co{title_tag['href']}" if title_tag else "#"
+            
+            logging.info("📥 [HF #%d] %s", idx, title)
+            logging.info("🔗 [HF #%d] Page URL: %s", idx, paper_link)
+            res = requests.get(paper_link, timeout=10)
+            paper_soup = BeautifulSoup(res.text, "html.parser")
+            logging.info("🔗 [HF #%d] Fetching paper details...", idx)
+            github_link_tag = paper_soup.find('a', class_='btn inline-flex h-9 items-center', href=lambda href: href.startswith("https://github.com"))
+            github_link = github_link_tag['href'] if github_link_tag else None
+            if github_link:
+                logging.info("🔗 [HF #%d] GitHub: %s", idx, github_link)
+            pdf_link = "https://arxiv.org/" + title_tag["href"].replace("papers/", "pdf/")
+
+            abstract_tag = paper_soup.find('p', class_='text-blue-700 dark:text-blue-400')
+            abstract = abstract_tag.text.strip() if abstract_tag else "(No abstract available)"
+            
+            html += f"""
+            <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin-bottom: 16px; font-family: sans-serif;">
+            <div style="font-size: 16px; font-weight: bold; color: #333; margin-bottom: 8px;">
+                <a href="{paper_link}" target="_blank" style="text-decoration: none; color: #1a0dab;">{title}</a>
+                <hr>
+                {'<span style=";"><a href="' + github_link + '" target="_blank" style="color: #28a745;">[GitHub]</a></span>' if github_link else ''}
+                <span style="margin-left: 5px;"><a href="{pdf_link}" target="_blank" style="color: #007bff;">[PDF]</a></span>
+            </div>
+            <div style="font-size: 14px; color: #555; line-height: 1.5;">
+                {abstract}
+            </div>
+            </div>
+            """
+            logging.info("📄 [HF #%d] Done 🧾", idx)
+
+        html += "</ul>"
+        results["hf"] = html
+        logging.info("🎉 [HF] All done.")
+    except Exception as e:
+        logging.error(f"❌ [HF] Failed: {e}")
+        results["hf"] = "<h2>🚫 Failed to load Hugging Face Papers</h2>"
 
 def send_email(subject, body):
     logging.info("📧 Sending email")
@@ -173,7 +226,7 @@ def run():
     threads = [
         threading.Thread(target=fetch_apod, args=(results,), name="Astronomy"),
         threading.Thread(target=fetch_hackernews, args=(results,), name="HackerNews"),
-        threading.Thread(target=fetch_paperswithcode, args=(results,), name="PapersWithCode"),
+        threading.Thread(target=fetch_hf_papers, args=(results,), name="HuggingFacePapers"),
         threading.Thread(target=fetch_eo, args=(results,), name="EarthObservatory")
     ]
 
@@ -188,7 +241,7 @@ def run():
         results.get("apod", ""),
         results.get("eo", ""),
         results.get("hn", ""),
-        results.get("pwc", "")
+        results.get("hf", "")
     ]) + "</body></html>"
     logging.info("📄 Digest content generated successfully.")
     return content
@@ -204,6 +257,6 @@ def demo():
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, 
                         format="%(levelname)s   %(asctime)s [%(filename)s:%(lineno)d:%(funcName)s:%(threadName)s] %(message)s")
-    content = run()
-    send_email("📅 Daily Digest", content)
-    # demo()
+    # content = run()
+    # send_email("📅 Daily Digest", content)
+    demo()
