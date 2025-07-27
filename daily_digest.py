@@ -6,6 +6,16 @@ from bs4 import BeautifulSoup
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import os
+from typing import List, Dict, TypedDict
+from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor
+
+class PaperInfo(TypedDict):
+    paper_link: str
+    pdf_link: str
+    github_link: str | None
+    abstract: str
+    tags: List[str]  # Only this field is a list
 
 # ---------------------------------
 
@@ -95,105 +105,148 @@ def fetch_hackernews(results):
         logging.error(f"❌ [HN] Failed: {e}")
         results["hn"] = "<h2>🚫 Failed to load Hacker News</h2>"
 
-# Deprecated: fetch_paperswithcode is now using the new URL
-def fetch_paperswithcode(results):
-    logging.info("🚀 [PwC] Starting to fetch Papers with Code")
+# # Deprecated: fetch_paperswithcode is now using the new URL
+# def fetch_paperswithcode(results):
+#     logging.info("🚀 [PwC] Starting to fetch Papers with Code")
+#     try:
+#         url = "https://paperswithcode.com/"
+#         res = requests.get(url, timeout=10)
+#         soup = BeautifulSoup(res.text, "html.parser")
+#         papers = soup.find_all('div', class_='col-lg-9 item-content')
+
+#         html = "<h2>📚 Daily Papers With Code Trending</h2><ul>"
+#         if not papers:
+#             logging.warning("⚠️ [PwC] No papers found.")
+#             results["pwc"] = "<h2>🚫 No papers found</h2>"
+#             return
+#         for idx, paper in enumerate(papers, 1):
+#             title_tag = paper.find('h1').find('a')
+#             title = title_tag.text.strip() if title_tag else "Untitled"
+#             paper_link = f"https://paperswithcode.com{title_tag['href']}" if title_tag else "#"
+#             logging.info("📥 [PwC #%d] %s", idx, title)
+#             logging.info("🔗 [PwC #%d] Page URL: %s", idx, paper_link)
+
+#             github_link_tag = paper.find('span', class_='item-github-link')
+#             github_link = github_link_tag.find('a')['href'] if github_link_tag and github_link_tag.find('a') else None
+#             if github_link:
+#                 logging.info("🔗 [PwC #%d] GitHub: %s", idx, github_link)
+
+#             abstract_tag = paper.find('p', class_='item-strip-abstract')
+#             abstract = abstract_tag.text.strip() if abstract_tag else "(No abstract available)"
+
+#             html += "<li style='margin-bottom: 1em;'>"
+#             html += f"<b><a href='{paper_link}' target='_blank'>{title}</a>"
+#             if github_link:
+#                 html += f" &nbsp; <a href='{github_link}' target='_blank'>[GitHub]</a>"
+#             html += "</b><br>"
+#             html += f"<p style='margin: 0.2em 0;'>{abstract}</p>"
+#             html += "</li>"
+
+#             logging.info("📄 [PwC #%d] Done 🧾", idx)
+
+#         html += "</ul>"
+#         results["pwc"] = html
+#         logging.info("🎉 [PwC] All done.")
+#     except Exception as e:
+#         logging.error(f"❌ [PwC] Failed: {e}")
+#         results["pwc"] = "<h2>🚫 Failed to load Papers With Code</h2>"
+
+def run_hf(results: dict):
+    urls = [
+        f"https://huggingface.co/papers/date/{datetime.now().strftime('%Y-%m-%d')}",
+        f"https://huggingface.co/papers/week/{datetime.now().strftime('%G-W%V')}",
+        f"https://huggingface.co/papers/month/{datetime.now().strftime('%Y-%m')}",
+        "https://huggingface.co/papers/trending"
+    ]
+
+    visited_links = {}
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        executor.map(lambda url: fetch_hf_papers(url, visited_links), urls)
+
+    # Build HTML
+    html = f"<h2>📚 Hugging Face ({len(visited_links.keys())} Papers)</h2><br>"
+    for title, info in visited_links.items():
+        tags_html = "".join([
+            f'<span style="background-color:#eee;border-radius:4px;padding:2px 6px;margin-right:6px;font-size:12px;color:#444;">{tag}</span>'
+            for tag in sorted(info["tags"])
+        ])
+        github_html = f'<span><a href="{info["github_link"]}" target="_blank" style="color: #28a745;">[GitHub]</a></span>' if info.get("github_link") else ''
+        html += f"""
+        <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin-bottom: 16px; font-family: sans-serif;">
+            <div style="font-size: 16px; font-weight: bold; color: #333; margin-bottom: 8px;">
+                <a href="{info['paper_link']}" target="_blank" style="text-decoration: none; color: #1a0dab;">{title}</a>
+                <br>
+                {tags_html}
+                <hr>
+                {github_html}
+                <span style="margin-left: 5px;"><a href="{info['pdf_link']}" target="_blank" style="color: #007bff;">[PDF]</a></span>
+            </div>
+            <div style="font-size: 14px; color: #555; line-height: 1.5;">
+                {info['abstract']}
+            </div>
+        </div>
+        """
+    results["hf"] = html
+
+def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo]):
+    total_papers = 0
+    url_type = url.split("/")[4]
+    match url_type:
+        case "date":
+            papers_type = "DAILY"
+            logging.info(f"🚀 [HF_{papers_type}] Starting to fetch Hugging Face Daily Papers")
+        case "week":
+            papers_type = "WEEKLY"
+            logging.info(f"🚀 [HF_{papers_type}] Starting to fetch Hugging Face Weekly Papers")
+        case "month":
+            papers_type = "MONTHLY"
+            logging.info(f"🚀 [HF_{papers_type}] Starting to fetch Hugging Face Monthly Papers")
+        case "trending":
+            papers_type = "TRENDING"
+            logging.info(f"🚀 [HF_{papers_type}] Starting to fetch Hugging Face Trending Papers")
     try:
-        url = "https://paperswithcode.com/"
         res = requests.get(url, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
-        papers = soup.find_all('div', class_='col-lg-9 item-content')
 
-        html = "<h2>📚 Daily Papers With Code Trending</h2><ul>"
+        papers = soup.find_all('article', class_='relative overflow-hidden rounded-xl border' if papers_type == "TRENDING" 
+                               else "relative flex flex-col overflow-hidden rounded-xl border")[:9]
+
         if not papers:
-            logging.warning("⚠️ [PwC] No papers found.")
-            results["pwc"] = "<h2>🚫 No papers found</h2>"
-            return
-        for idx, paper in enumerate(papers, 1):
-            title_tag = paper.find('h1').find('a')
-            title = title_tag.text.strip() if title_tag else "Untitled"
-            paper_link = f"https://paperswithcode.com{title_tag['href']}" if title_tag else "#"
-            logging.info("📥 [PwC #%d] %s", idx, title)
-            logging.info("🔗 [PwC #%d] Page URL: %s", idx, paper_link)
-
-            github_link_tag = paper.find('span', class_='item-github-link')
-            github_link = github_link_tag.find('a')['href'] if github_link_tag and github_link_tag.find('a') else None
-            if github_link:
-                logging.info("🔗 [PwC #%d] GitHub: %s", idx, github_link)
-
-            abstract_tag = paper.find('p', class_='item-strip-abstract')
-            abstract = abstract_tag.text.strip() if abstract_tag else "(No abstract available)"
-
-            html += "<li style='margin-bottom: 1em;'>"
-            html += f"<b><a href='{paper_link}' target='_blank'>{title}</a>"
-            if github_link:
-                html += f" &nbsp; <a href='{github_link}' target='_blank'>[GitHub]</a>"
-            html += "</b><br>"
-            html += f"<p style='margin: 0.2em 0;'>{abstract}</p>"
-            html += "</li>"
-
-            logging.info("📄 [PwC #%d] Done 🧾", idx)
-
-        html += "</ul>"
-        results["pwc"] = html
-        logging.info("🎉 [PwC] All done.")
-    except Exception as e:
-        logging.error(f"❌ [PwC] Failed: {e}")
-        results["pwc"] = "<h2>🚫 Failed to load Papers With Code</h2>"
-
-def fetch_hf_papers(results):
-    logging.info("🚀 [HF] Starting to fetch Hugging Face Papers")
-    try:
-        url = "https://huggingface.co/papers/trending"
-        res = requests.get(url, timeout=10)
-        soup = BeautifulSoup(res.text, "html.parser")
-        papers = soup.find_all('article', class_='relative overflow-hidden rounded-xl border')[:10]
-
-        html = "<h2>📚 Hugging Face Papers Trending Top 10</h2><ul>"
-        if not papers:
-            logging.warning("⚠️ [HF] No papers found.")
-            results["hf"] = "<h2>🚫 No papers found</h2>"
+            logging.warning(f"⚠️ [HF_{papers_type}] No papers found.")
             return
         for idx, paper in enumerate(papers, 1):
             title_tag = paper.find('h3').find('a')
             title = title_tag.text.strip() if title_tag else "Untitled"
+            if title != "Untitled" and title in visited_links.keys():
+                visited_links[title]["tags"].append(papers_type)
+                logging.info(f"🔁 [HF_{papers_type} #%d] Skipping already visited paper: %s", idx, title)
+                continue
+            total_papers += 1
             paper_link = f"https://huggingface.co{title_tag['href']}" if title_tag else "#"
             
-            logging.info("📥 [HF #%d] %s", idx, title)
-            logging.info("🔗 [HF #%d] Page URL: %s", idx, paper_link)
+            logging.info(f"📥 [HF_{papers_type} #%d] %s", idx, title)
+            logging.info(f"🔗 [HF_{papers_type} #%d] Page URL: %s", idx, paper_link)
             res = requests.get(paper_link, timeout=10)
             paper_soup = BeautifulSoup(res.text, "html.parser")
-            logging.info("🔗 [HF #%d] Fetching paper details...", idx)
+            logging.info(f"🔗 [HF_{papers_type} #%d] Fetching paper details...", idx)
             github_link_tag = paper_soup.find('a', class_='btn inline-flex h-9 items-center', href=lambda href: href.startswith("https://github.com"))
             github_link = github_link_tag['href'] if github_link_tag else None
             if github_link:
-                logging.info("🔗 [HF #%d] GitHub: %s", idx, github_link)
+                logging.info(f"🔗 [HF_{papers_type} #%d] GitHub: %s", idx, github_link)
             pdf_link = "https://arxiv.org/" + title_tag["href"].replace("papers/", "pdf/")
 
             abstract_tag = paper_soup.find('p', class_='text-blue-700 dark:text-blue-400')
             abstract = abstract_tag.text.strip() if abstract_tag else "(No abstract available)"
             
-            html += f"""
-            <div style="border: 1px solid #ccc; border-radius: 8px; padding: 12px; margin-bottom: 16px; font-family: sans-serif;">
-            <div style="font-size: 16px; font-weight: bold; color: #333; margin-bottom: 8px;">
-                <a href="{paper_link}" target="_blank" style="text-decoration: none; color: #1a0dab;">{title}</a>
-                <hr>
-                {'<span style=";"><a href="' + github_link + '" target="_blank" style="color: #28a745;">[GitHub]</a></span>' if github_link else ''}
-                <span style="margin-left: 5px;"><a href="{pdf_link}" target="_blank" style="color: #007bff;">[PDF]</a></span>
-            </div>
-            <div style="font-size: 14px; color: #555; line-height: 1.5;">
-                {abstract}
-            </div>
-            </div>
-            """
-            logging.info("📄 [HF #%d] Done 🧾", idx)
-
-        html += "</ul>"
-        results["hf"] = html
-        logging.info("🎉 [HF] All done.")
+            visited_links[title] = {"paper_link": paper_link,
+                                    "pdf_link": pdf_link,
+                                    "abstract": abstract,
+                                    "tags": [papers_type],
+                                    "github_link": github_link}
+            logging.info(f"📄 [HF_{papers_type} #%d] Done🧾", idx)
+        logging.info(f"🎉 [HF_{papers_type}] All done, {total_papers} papers found.")
     except Exception as e:
-        logging.error(f"❌ [HF] Failed: {e}")
-        results["hf"] = "<h2>🚫 Failed to load Hugging Face Papers</h2>"
+        logging.error(f"❌ [HF_{papers_type}] Failed: {e}")
 
 def send_email(subject, body):
     logging.info("📧 Sending email")
@@ -226,12 +279,14 @@ def run():
     threads = [
         threading.Thread(target=fetch_apod, args=(results,), name="Astronomy"),
         threading.Thread(target=fetch_hackernews, args=(results,), name="HackerNews"),
-        threading.Thread(target=fetch_hf_papers, args=(results,), name="HuggingFacePapers"),
         threading.Thread(target=fetch_eo, args=(results,), name="EarthObservatory")
     ]
 
     for t in threads:
         t.start()
+
+    run_hf(results)
+
     for t in threads:
         t.join()
 
@@ -257,6 +312,6 @@ def demo():
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, 
                         format="%(levelname)s   %(asctime)s [%(filename)s:%(lineno)d:%(funcName)s:%(threadName)s] %(message)s")
-    content = run()
-    send_email("📅 Daily Digest", content)
-    # demo()
+    # content = run()
+    # send_email("📅 Daily Digest", content)
+    demo()
