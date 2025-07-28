@@ -178,7 +178,6 @@ def fetch_hackernews(results: Dict[str, str]):
 def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo], 
                     visited_links_lock: threading.Lock,
                     logger: logging.Logger):
-
     total_papers = 0
     url_type = url.split("/")[4]
     match url_type:
@@ -221,7 +220,9 @@ def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo],
                         "abstract": None,
                         "tags": [papers_type],
                         "github_link": None,
-                        "published_date": None
+                        "published_date": None,
+                        "star_cnt":None,
+                        "upvote_cnt":None
                     }
             total_papers += 1
             
@@ -247,7 +248,11 @@ def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo],
 
             github_link_tag = paper_soup.find('a', class_='btn inline-flex h-9 items-center', href=lambda href: href.startswith("https://github.com"))
             github_link = github_link_tag['href'] if github_link_tag else None
+            upvote_tag = paper_soup.find("div", class_="shadow-alternate group flex h-9 cursor-pointer select-none items-center gap-2 rounded-lg border pl-3 pr-3.5 border-gray-300 bg-white dark:bg-gray-850")
+            upvote_cnt = upvote_tag.find("div", class_="font-semibold text-orange-500").text.strip()
+            star_cnt = ""
             if github_link:
+                star_cnt = github_link_tag.find("span").text.strip()
                 logger.info(f"🔗 [HF_{papers_type} #%d] GitHub: %s", idx, github_link)
             pdf_link = "https://arxiv.org/" + title_tag["href"].replace("papers/", "pdf/")
 
@@ -259,7 +264,9 @@ def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo],
                     "pdf_link": pdf_link,
                     "abstract": abstract,
                     "github_link": github_link,
-                    "published_date": published_date
+                    "published_date": published_date,
+                    "upvote_cnt": upvote_cnt,
+                    "star_cnt": star_cnt
                 })
         logger.info(f"📄 [HF_{papers_type} #%d] Done🧾", idx)
         logger.info(f"🎉 [HF_{papers_type}] All done - {total_papers} papers found.")
@@ -304,7 +311,7 @@ def fetch_hf(results: Dict[str, str]):
             f'<span class="tag">{tag}</span>'
             for tag in sorted(info["tags"])
         ])
-        github_html = f'<span><a href="{info["github_link"]}" target="_blank" style="color: #28a745;">[GitHub]</a></span>' if info.get("github_link") else ''
+        github_html = f'<span>🐙<a href="{info["github_link"]}" target="_blank" style="color: #28a745;">GitHub</a></span>' if info.get("github_link") else ''
         published_html = f'<div style="font-size: 12px; color: #999;">Published on:{info.get("published_date", "N/A")}</div>'
         data_tags = " ".join(info["tags"])
         html += f"""
@@ -312,9 +319,18 @@ def fetch_hf(results: Dict[str, str]):
             <h3><a href="{info['paper_link']}" target="_blank">{title}</a></h3>
             {published_html}
             <div class="tags">{tags_html}</div>
-            <div style="margin: 6px 0;">
-                {github_html}
-                <span style="margin-left: 5px;"><a href="{info['pdf_link']}" target="_blank">[PDF]</a></span>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="{info['pdf_link']}" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥{info.get('upvote_cnt', '0')} Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div>{github_html}</div>
+                {f'<span style="color: #ffd700;">⭐{info.get("star_cnt", "0")} Star</span>' if info.get('star_cnt') else ''}
+            </div>
             </div>
             <div class="abstract">
                 {info['abstract']}

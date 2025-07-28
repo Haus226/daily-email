@@ -6,4 +6,6 @@ class PaperInfo(TypedDict):
     github_link: str | None
     abstract: str
     published_date: str
+    star_cnt: str
+    upvote_cnt: str
     tags: List[str]
