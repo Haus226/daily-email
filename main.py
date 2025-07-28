@@ -1,6 +1,6 @@
 import threading
 import os
-from scraper import fetch_apod, fetch_eo, fetch_hackernews, fetch_hf, format_images_of_the_day
+from scraper import fetch_apod, fetch_eo, fetch_hackernews, fetch_hf
 import typing
 from datetime import datetime
 import logging
