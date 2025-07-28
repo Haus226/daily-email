@@ -1,0 +1,952 @@
+
+        <html>
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                max-width: 1000px;
+                margin: auto;
+                padding: 20px;
+                background: #fafafa;
+                color: #333;
+            }
+            h1, h2 {
+                text-align: center;
+            }
+            section.card {
+                background: #fff;
+                padding: 16px;
+                border-radius: 10px;
+                box-shadow: 0 0 5px rgba(0,0,0,0.05);
+                margin: 20px 0;
+            }
+            .tag {
+                display: inline-block;
+                background: #eee;
+                border-radius: 4px;
+                padding: 2px 6px;
+                margin: 2px 6px 6px 0;
+                font-size: 12px;
+                color: #444;
+            }
+            .hf-card {
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                padding: 12px;
+                background: #fff;
+            }
+            .hf-card h3 {
+                font-size: 16px;
+                margin-bottom: 6px;
+            }
+            .hf-card .abstract {
+                font-size: 14px;
+                color: #555;
+                line-height: 1.5;
+            }
+            button {
+                padding: 6px 12px;
+                margin: 4px;
+                border: none;
+                border-radius: 5px;
+                background: #ddd;
+                cursor: pointer;
+            }
+            button:hover {
+                background: #ccc;
+            }
+            button.active {
+                background: #2b6cb0;
+                color: white;
+            }
+
+            @media (max-width: 600px) {
+                .images-row {
+                    flex-direction: column !important;
+                }
+                .images-row > div:first-child {
+                    flex: none !important;
+                    max-width: 150px;
+                    margin: 0 auto 10px auto;
+                }
+            }
+        </style>
+        <script>
+        function sortPapersByDateOnce() {
+            const container = document.getElementById('hf-grid');
+            const cards = Array.from(document.querySelectorAll('.hf-card'));
+            cards.sort((a, b) => {
+                const dateA = new Date(a.dataset.date);
+                const dateB = new Date(b.dataset.date);
+                return dateB - dateA;  // newest first
+            });
+
+            // Clear and append in sorted order
+            container.innerHTML = '';
+            cards.forEach(card => container.appendChild(card));
+        }
+
+        let currentFilterTag = 'ALL';
+        window.onload = () => {
+            sortPapersByDateOnce();
+            filterPapers('ALL');  // optional default
+        };
+
+        function filterPapers(tag) {
+            currentFilterTag = tag;
+            document.querySelectorAll('.hf-card').forEach(card => {
+                const tags = card.dataset.tags.split(" ");
+                card.style.display = (tag === "ALL" || tags.includes(tag)) ? "block" : "none";
+            });
+            updateFilterButtonStyles();
+        }
+
+
+        function updateFilterButtonStyles() {
+            document.querySelectorAll('#hf-filters button[data-tag]').forEach(btn => {
+                    btn.classList.toggle('active', btn.dataset.tag === currentFilterTag);
+            });
+        }
+
+        </script>
+        </head>
+        <body>
+        <h1>📰 Daily Digest</h1>
+        <section class="card">
+        <div style='display: flex; flex-direction: column; gap: 15px; margin-bottom: 30px;'>
+            <!-- Centered: title + media + caption -->
+            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
+                <h3 style='margin: 0; color: #2c5282;'>✨ Collision at Asteroid Dimorphos</h3>
+                <div style="width: 100%; max-width: 600px;">
+                    <video controls style="width: 100%; border-radius: 8px;"><source src="https://apod.nasa.gov/apod/image/2507/DimorphosVideo_DartLuke.mp4"></video>
+                </div>
+                <p style='font-size: 15px; color: #444;'>📌 NASA's Astronomy Picture of the Day</p>
+            </div>
+
+            <!-- Left-aligned explanation that expands fully -->
+            <div style="width: 100%;">
+                <p style='font-size: 16px; line-height: 1.6; margin: 0; text-align: left;'>
+                    <b> Explanation: </b> 
+Why was this collision so strange?
+
+In 2022, to develop Earth-saving technology, NASA deliberately 
+<a href="https://www.nasa.gov/solar-system/darts-small-satellite-companion-takes-flight-ahead-of-impact/">crashed the DART spacecraft</a> into the 
+<a href="https://science.nasa.gov/solar-system/asteroids/">asteroid</a> moonlet Dimorphos.
+
+The hope was that this collision would alter the trajectory of 
+<a href="https://en.wikipedia.org/wiki/Dimorphos">Dimorphos</a> around its parent asteroid 
+<a href="https://science.nasa.gov/solar-system/asteroids/didymos/">Didymos</a> and so demonstrate that similar collisions could, 
+in theory, save the Earth from being hit by (other) hazardous asteroids. 
+
+But <a href="https://iopscience.iop.org/article/10.3847/PSJ/addd1a">analyses of new results</a> show that the effects of the collision are 
+<a href="https://youtu.be/iijreaGHS3c">different than expected</a> -- and we are trying to understand 
+<a href="https://www.dutch.com/cdn/shop/articles/shutterstock_1073296643_360x.jpg">why</a>. 
+
+Featured here is the time lapse video taken by the ejected 
+<a href="https://www.asi.it/en/planets-stars-universe/solar-system-and-beyond/liciacube/">LICIACube</a> camera 
+<a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2021-110C">LUKE</a> showing about 250 seconds of the 
+<a href="ap221005.html">expanding debris field</a> of 
+<a href="https://en.wikipedia.org/wiki/Dimorphos">Dimorphos</a> after the collision, 
+with un-impacted Didymos passing in the foreground. 
+
+In 2026, Europe's 
+<a href="https://www.esa.int/Space_Safety/Hera">Hera</a>
+<a href="https://en.wikipedia.org/wiki/Hera_(space_mission)">mission</a> will reach the asteroids and release 
+three spacecraft to better study the matter.
+                </p>
+            </div>
+        </div>
+        </section>
+        <section class="card">
+        <div style='display: flex; flex-direction: column; gap: 15px;'>
+            <!-- Centered block -->
+            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
+                <h3 style='margin: 0; color: #2d5016;'>🌍 How to Rotate Crops</h3>
+                <div style='width: 100%; max-width: 600px;'>
+                    <img src='https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154601/croproteval_usda_2018_th.jpg' alt='Earth Observatory' style='width: 100%; border-radius: 8px;'>
+                </div>
+                <p style='font-size: 15px; color: #444; margin: 0;'>📌 That’s a key question for many farmers, and new research may make it easier to develop growing season plans. <a href='https://earthobservatory.nasa.gov/images/154601/how-to-rotate-crops' target='_blank'>[Read more]</a></p>
+            </div>
+
+            <!-- Full-width summary block (NOT inside centered container) -->
+            <div style='width: 100%; display: flex; justify-content: center;'>
+                <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
+                    <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d; font-style: italic;'>
+                        🤖 <think><think>
+Okay, the user wants a summary of this article about crop rotation. Let me read through the content first.
+
+The article talks about a study using NASA's Harvest program data from Landsat satellites and machine learning to analyze crop rotation effects. The main points are that crop rotation increases yields, especially in sequences like corn-soybean or soybean-spring wheat by about 8%. However, some rotations, like soybean to winter wheat, reduce yields by 12% because of late planting. They also mention that weather conditions matter. Rainier climates benefit more from rotation due to higher pests and weeds. Wheat residue holds snow better than soybeans or sunflowers, so wheat monoculture might be better in dry areas. Soybeans perform well in warm rotations but less so when preceding corn or wheat because of nitrogen issues. The researchers compared real-world data across countries, not just controlled experiments, and noted that some US farmers still use monoculture.
+
+I need to make sure I include the key findings: positive yield effects, exceptions in certain rotations, weather and residue impacts, the sources (MIT, Stanford, NASA's Harvest), and the satellite data. Also, avoid any explanations or extra stuff. Just the summary points in concise form. Check for irrelevant info, like the images of Kansas or specific researchers' quotes beyond their stated conclusions, but the user said to ignore those. Focus on the main results and implications.
+
+So structure it as: the study used satellite data, found rotation beneficial in certain combinations with variations due to weather, exceptions like soybean to winter wheat, and how nitrogen and climate factors play a role. Mention they aligned with existing wisdom but added new nuances. Also, note the percentage of US farmers doing continuous cropping. Got it. Keep it all in one paragraph, no markdown, straightforward.
+
+Wait, the user said to output only the summary, no explanations. So just list the key points. Let me piece that together without adding any fluff. Make sure to include the institutions, the methods (satellites and machine learning), the main results (percentages), the reasons for exceptions (late planting, nitrogen), and the weather influence (rainier vs dry). Also, mention the comparison with USDA data on monoculture percentages. Yeah, that's all the relevant stuff.
+</think>
+
+A study led by MIT and Stanford researchers, supported by NASA’s Harvest program, used satellite observations and machine learning to analyze crop rotation effects across real-world conditions, revealing that corn and soybean rotations generally increase yields but with notable exceptions. In U.S. fields, corn-soybean and soybean-spring wheat rotations boosted yields by 8%, while winter wheat following soybeans reduced yields by 12%, likely due to delayed planting. Modest gains occurred when corn followed soybeans (2.5%) or winter wheat followed corn (0.9%), with nitrogen dynamics influencing outcomes. Weather impacts showed rotation benefits were greater in rainy conditions due to pest/weed control, whereas dry environments favored wheat monocultures for superior snow retention by residue. Soybean yields rose in warm rotations, but gains declined when preceding corn or wheat due to reduced nitrogen fixation and crop nitrogen needs. The analysis, drawing on Landsat and Cropland Data Layer, highlighted regional variations (e.g., Kansas) and emphasized rotation’s alignment with American agricultural practices despite 18% of corn, 14% of wheat, and 6% of soybean fields being continuously cropped.
+                    </p>
+                </div>
+            </div>
+        </div>
+        </section>
+        <section class="card"><h2>🔥 Hacker News Top 10</h2><ol><li><a href='https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/'>The Geological Sublime</a></li><li><a href='https://huggingface.co/spaces/hesamation/primer-llm-embedding'>LLM Embeddings Explained: A Visual and Intuitive Guide</a></li><li><a href='https://pictiler.com'>Show HN: I made a tool to generate photomosaics with your pictures</a></li><li><a href='https://www.theregister.com/2025/07/25/y2k38_bug_debian/'>Debian switches to 64-bit time for everything</a></li><li><a href='https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds'>Enough AI copilots, we need AI HUDs</a></li><li><a href='https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b'>VPN use surges in UK as new online safety rules kick in</a></li><li><a href='https://arxiv.org/abs/2506.22707'>A Photonic SRAM with Embedded XOR Logic for Ultra-Fast In-Memory Computing</a></li><li><a href='https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance'>SIMD within a register: How I doubled hash table lookup performance</a></li><li><a href='https://github.com/segmentationf4u1t/trae_telemetry_research'>Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork</a></li><li><a href='https://www.dumbpipe.dev/'>Dumb Pipe</a></li></ol></section>
+        <section class="card">
+        <h2>📚 Hugging Face Papers</h2>
+        <div id="hf-filters" style="text-align:center; margin-bottom: 20px;">
+            <button data-tag="ALL" onclick="filterPapers('ALL')">All</button>
+            <button data-tag="DAILY" onclick="filterPapers('DAILY')">Daily</button>
+            <button data-tag="WEEKLY" onclick="filterPapers('WEEKLY')">Weekly</button>
+            <button data-tag="MONTHLY" onclick="filterPapers('MONTHLY')">Monthly</button>
+            <button data-tag="TRENDING" onclick="filterPapers('TRENDING')">Trending</button>
+        </div>
+
+
+        <div id="hf-grid" style="
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        ">
+        
+        <div class="hf-card" data-tags="DAILY WEEKLY" data-date="2025-07-24" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.18553" target="_blank">The Geometry of LLM Quantization: GPTQ as Babai's Nearest Plane
+  Algorithm</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-24</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.18553" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥15 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                (No abstract available)
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="WEEKLY DAILY" data-date="2025-07-21" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.16075" target="_blank">Deep Researcher with Test-Time Diffusion</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-21</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.16075" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥13 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/codelion/optillm/tree/main/optillm/plugins/deep_research" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐2.66k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                The Test-Time Diffusion Deep Researcher (TTD-DR) framework uses a diffusion process with iterative refinement and external information retrieval to generate high-quality research reports, outperforming existing methods.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="WEEKLY DAILY" data-date="2025-07-25" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.19478" target="_blank">MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI
+  Agents</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-25</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.19478" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥11 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                A hierarchical benchmark evaluates GUI automation agents across multiple platforms, emphasizing key skills such as visual grounding, task planning, and efficiency.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="DAILY WEEKLY" data-date="2025-07-24" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.18742" target="_blank">Specification Self-Correction: Mitigating In-Context Reward Hacking
+  Through Test-Time Refinement</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-24</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.18742" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥2 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/vicgalle/specification-self-correction" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐1 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A new framework called Specification Self-Correction allows language models to dynamically correct flawed instructions during inference, reducing reward hacking vulnerabilities.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING MONTHLY" data-date="2025-07-17" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.13334" target="_blank">A Survey of Context Engineering for Large Language Models</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-17</div>
+            <div class="tags"><span class="tag">MONTHLY</span><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.13334" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥205 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/Meirtz/Awesome-Context-Engineering" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐1.22k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                Context Engineering systematically optimizes information payloads for Large Language Models, addressing gaps in generating sophisticated, long-form outputs.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="WEEKLY DAILY" data-date="2025-07-23" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.17596" target="_blank">PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-23</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.17596" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥2 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                PRIX, an end-to-end driving architecture using only camera data, achieves state-of-the-art performance with a Context-aware Recalibration Transformer, outperforming larger multimodal planners in efficiency and scalability.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="DAILY WEEKLY" data-date="2025-07-14" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.10510" target="_blank">Chat with AI: The Surprising Turn of Real-time Video Communication from
+  Human to AI</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-14</div>
+            <div class="tags"><span class="tag">DAILY</span><span class="tag">WEEKLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.10510" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥2 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                Artic addresses latency issues in AI Video Chat by optimizing video streaming and frame rate adaptation to enhance MLLM accuracy and reduce bitrate.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2024-12-17" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2412.13303" target="_blank">FastVLM: Efficient Vision Encoding for Vision Language Models</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2024-12-17</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2412.13303" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥37 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/apple/ml-fastvlm" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐5.14k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                FastVLM, using FastViTHD, optimizes Vision Language Models by scaling image resolution to reduce latency and token count, improving time-to-first-token and maintaining performance.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-01" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.01006" target="_blank">GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable
+  Reinforcement Learning</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-01</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.01006" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥197 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/THUDM/GLM-4.1V-Thinking" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐919 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A vision-language model, GLM-4.1V-Thinking, enhances general-purpose multimodal reasoning through large-scale pre-training and reinforcement learning, achieving state-of-the-art performance across various tasks.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-05-14" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2505.09388" target="_blank">Qwen3 Technical Report</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-05-14</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2505.09388" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥258 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/QwenLM/Qwen3" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐23.5k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                Qwen3, a unified series of large language models, integrates thinking and non-thinking modes, reduces computational resources, and achieves state-of-the-art performance across various tasks and languages.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-24" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.18071" target="_blank">Group Sequence Policy Optimization</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-24</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.18071" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥162 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                (No abstract available)
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-20" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.15061" target="_blank">WebShaper: Agentically Data Synthesizing via Information-Seeking
+  Formalization</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-20</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.15061" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥40 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/Alibaba-NLP/WebWalker" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐5.15k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A formalization-driven framework called WebShaper synthesizes information-seeking datasets using set theory and Knowledge Projections, enhancing the performance of LLM-powered agents on open-ended tasks.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-10" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.07966" target="_blank">Scaling RL to Long Videos</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-10</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.07966" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥141 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/NVlabs/Long-RL" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐542 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A framework for scaling vision-language models to long videos using reinforcement learning, achieving strong performance on various reasoning tasks with a specialized training infrastructure.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-05-28" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2505.22648" target="_blank">WebDancer: Towards Autonomous Information Seeking Agency</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-05-28</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2505.22648" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥23 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐5.15k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                The paper proposes a framework for building end-to-end agentic information seeking agents through a combination of data construction, trajectory sampling, supervised fine-tuning, and reinforcement learning, showcasing its effectiveness on information seeking benchmarks.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY TRENDING" data-date="2025-07-04" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.03724" target="_blank">MemOS: A Memory OS for AI System</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-04</div>
+            <div class="tags"><span class="tag">MONTHLY</span><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.03724" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥134 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/MemTensor/MemOS" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐2.03k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                MemOS is proposed as a memory operating system for Large Language Models to enhance memory management, enabling efficient storage and retrieval, and facilitating continual learning and personalized modeling.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING MONTHLY" data-date="2025-07-03" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.02592" target="_blank">WebSailor: Navigating Super-human Reasoning for Web Agent</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-03</div>
+            <div class="tags"><span class="tag">MONTHLY</span><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.02592" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥99 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/Alibaba-NLP/WebAgent/" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐5.15k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                WebSailor, a post-training methodology involving structured sampling, information obfuscation, and an efficient RL algorithm, enhances LLMs by improving their reasoning capabilities in complex information-seeking tasks to match proprietary agents.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-02" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.01949" target="_blank">Kwai Keye-VL Technical Report</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-02</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.01949" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥123 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/Kwai-Keye/Keye" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐483 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                Kwai Keye-VL, an 8-billion-parameter multimodal foundation model, excels in short-video understanding while maintaining robust general-purpose vision-language abilities through a comprehensive pre- and post-training process, including reinforcement learning and alignment.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2024-03-20" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2403.13372" target="_blank">LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2024-03-20</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2403.13372" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥110 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/hiyouga/LLaMA-Factory" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐55k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-21" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.15846" target="_blank">GUI-G^2: Gaussian Reward Modeling for GUI Grounding</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-21</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.15846" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥118 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/ZJU-REAL/GUI-G2" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐135 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                (No abstract available)
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-05-28" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2505.22636" target="_blank">ObjectClear: Complete Object Removal via Object-Effect Attention</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-05-28</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2505.22636" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥- Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/zjx0101/ObjectClear" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐312 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A novel ObjectClear framework utilizes an object-effect attention mechanism to enhance diffusion-based inpainting for accurate object and effect removal while preserving background details.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-19" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.14683" target="_blank">MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via
+  Context-Aware Multi-Stage Policy Optimization</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-19</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.14683" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥113 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/MiroMindAsia/MiroMind-M1" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐70 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                The MiroMind-M1 series of open-source reasoning language models achieves state-of-the-art performance on mathematical reasoning benchmarks through a two-stage training process and Context-Aware Multi-Stage Policy Optimization.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-15" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.11465" target="_blank">Elevating 3D Models: High-Quality Texture and Geometry Refinement from a
+  Low-Quality Model</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-15</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.11465" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥11 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/ryunuri/Elevate3D" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐95 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                Elevate3D enhances both texture and geometry of low-quality 3D assets using HFS-SDEdit and monocular geometry predictors, achieving superior refinement quality.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-08" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.05964" target="_blank">T-LoRA: Single Image Diffusion Model Customization Without Overfitting</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-08</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.05964" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥110 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/ControlGenAI/T-LoRA" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐110 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                T-LoRA, a timestep-dependent low-rank adaptation framework, enhances diffusion model personalization with a dynamic fine-tuning strategy and orthogonal initialization, achieving better concept fidelity and text alignment in data-limited settings.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-23" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.17744" target="_blank">Yume: An Interactive World Generation Model</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-23</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.17744" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥68 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/stdstu12/YUME" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐176 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A framework for generating and exploring interactive video worlds from images using Masked Video Diffusion Transformer, Anti-Artifact Mechanism, Time Travel Sampling, and model acceleration techniques.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-22" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.16784" target="_blank">Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-22</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.16784" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥108 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/subconscious-systems/TIMRUN" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐23 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A Thread Inference Model (TIM) and its runtime (TIMRUN) enable long-horizon reasoning in LLMs by using reasoning trees and key-value state retention, overcoming context and memory limitations.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-21" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.15852" target="_blank">SeC: Advancing Complex Video Object Segmentation via Progressive Concept
+  Construction</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-21</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.15852" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥34 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/OpenIXCLab/SeC" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐91 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                (No abstract available)
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-17" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.13546" target="_blank">nablaNABLA: Neighborhood Adaptive Block-Level Attention</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-17</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.13546" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥106 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/gen-ai-team/Wan2.1-NABLA" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐12 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                NABLA, a dynamic block-level attention mechanism, improves video diffusion transformers by enhancing computational efficiency without sacrificing generative quality.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-05" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.04009" target="_blank">Easy Dataset: A Unified and Extensible Framework for Synthesizing LLM
+  Fine-Tuning Data from Unstructured Documents</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-05</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.04009" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥35 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/ConardLi/easy-dataset" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐9.76k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A unified framework called Easy Dataset synthesizes fine-tuning data from unstructured documents using a GUI and LLMs, improving domain-specific performance of LLMs while maintaining general knowledge.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-08" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.05566" target="_blank">SingLoRA: Low Rank Adaptation Using a Single Matrix</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-08</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.05566" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥103 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div></div>
+                
+            </div>
+            </div>
+            <div class="abstract">
+                SingLoRA, a reformulated low-rank adaptation method, enhances parameter-efficient fine-tuning by learning a single low-rank matrix update, ensuring stable optimization and reduced parameter count.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-07-17" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.13344" target="_blank">Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos
+  with Spatio-Temporal Diffusion Models</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-17</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.13344" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥50 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/zju3dv/Diffuman4D" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐238 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                A sliding iterative denoising process is proposed to enhance spatio-temporal consistency in 4D diffusion models for high-fidelity view synthesis from sparse-view videos.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="TRENDING" data-date="2025-03-14" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2503.11651" target="_blank">VGGT: Visual Geometry Grounded Transformer</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-03-14</div>
+            <div class="tags"><span class="tag">TRENDING</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2503.11651" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥26 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/facebookresearch/vggt" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐10.2k Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                VGGT, a feed-forward neural network, efficiently infers multiple 3D attributes from single or multiple views, outperforming alternatives and enhancing downstream tasks without post-processing.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-02" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.01951" target="_blank">Test-Time Scaling with Reflective Generative Model</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-02</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.01951" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥96 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/MetaStone-AI/MetaStone-S1" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐81 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                MetaStone-S1, a reflective generative model using a self-supervised process reward model, achieves efficient reasoning and scalable performance with fewer parameters compared to existing models.
+            </div>
+        </div>
+        
+        <div class="hf-card" data-tags="MONTHLY" data-date="2025-07-09" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
+            <h3><a href="https://huggingface.co/papers/2507.07105" target="_blank">4KAgent: Agentic Any Image to 4K Super-Resolution</a></h3>
+            <div style="font-size: 12px; color: #999;">Published on:2025-07-09</div>
+            <div class="tags"><span class="tag">MONTHLY</span></div>
+            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+            <!-- First row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span>📄<a href="https://arxiv.org//pdf/2507.07105" target="_blank">PDF</a></span>
+                <span style="color: #ff6b35;">🔥91 Upvote</span>
+            </div>
+            
+            <!-- Second row -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div><span>🐙<a href="https://github.com/taco-group/4KAgent" target="_blank" style="color: #28a745;">GitHub</a></span></div>
+                <span style="color: #ffd700;">⭐364 Star</span>
+            </div>
+            </div>
+            <div class="abstract">
+                4KAgent, a unified agentic super-resolution system, enhances low-resolution images to 4K using profiling, perception, and restoration agents, achieving state-of-the-art performance across various imaging domains.
+            </div>
+        </div>
+        </div></section>
+        </body></html>
+    

@@ -1,0 +1,4 @@
+INFO     2025-07-28 14:47:40 [scraper.py:99] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-28 14:47:57 [scraper.py:122] 📥 [EO] Title: How to Rotate Crops
+INFO     2025-07-28 14:47:57 [scraper.py:123] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154601/croproteval_usda_2018_th.jpg
+INFO     2025-07-28 14:47:57 [scraper.py:148] ✅ [EO] Successfully fetched.
