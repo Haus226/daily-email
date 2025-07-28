@@ -36,7 +36,7 @@ jobs:
 
       - name: Update content
         env:
-          OPENROUTER_API: ${{ secrrets.OPENROUTER_API }}
+          OPENROUTER_API: ${{ secrets.OPENROUTER_API }}
         run: python main.py
 
       - name: Set up Git config
