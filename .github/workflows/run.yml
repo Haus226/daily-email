@@ -48,6 +48,7 @@ jobs:
         run: |
           git add archive/*.html
           git add logs/**/*.log
+          git add index.html
 
           git commit -m "Update daily archive and logs" || echo "Nothing to commit"
           git push
