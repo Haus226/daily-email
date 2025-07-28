@@ -1,0 +1,4 @@
+INFO     2025-07-28 14:25:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-28 14:25:04 [scraper.py:41] 📥 [APOD] Title: Collision at Asteroid Dimorphos
+INFO     2025-07-28 14:25:04 [scraper.py:42] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/DimorphosVideo_DartLuke.mp4
+INFO     2025-07-28 14:25:04 [scraper.py:57] ✅ [APOD] Successfully fetched.
