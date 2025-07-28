@@ -1,0 +1,55 @@
+name: Daily Digest
+
+on:
+  schedule:
+    - cron: '30 0 * * *'  # Runs daily at 8:30 AM Malaysia Time (UTC+8)
+  workflow_dispatch:      # Manual trigger button
+
+# This workflow requires write permissions to the repository to update quotes.txt
+permissions:
+  contents: write
+
+jobs:
+  send-fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Needed to push back to repo
+          fetch-depth: 0             # Get full history
+          ref: on_vercel                  # Make sure we're on the main branch
+
+      - name: Log time in UTC and MYT
+        run: |
+          echo "UTC now: $(date -u)"
+          echo "MYT now: $(TZ=Asia/Kuala_Lumpur date)"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update content
+        env:
+          OPENROUTER_API: ${{ secrets.OPENROUTER_API }}
+        run: python main.py
+
+      - name: Set up Git config
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+
+      - name: Update archive and logs
+        run: |
+          git add archive/*.html
+          git add logs/**/*.log
+          git add index.html
+
+          git commit -m "Update daily archive and logs" || echo "Nothing to commit"
+          git push
+
