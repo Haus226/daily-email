@@ -42,18 +42,26 @@ def fetch_apod(results: Dict[str, str]):
         logger.info("🖼️ [APOD] Media URL: %s", media_url)
 
         html = f"""
-        <div style='display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;'>
-            <div style='flex: 0 0 200px;'>
-                {media_html}
+        <div style='display: flex; flex-direction: column; gap: 15px; margin-bottom: 30px;'>
+            <!-- Centered: title + media + caption -->
+            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
+                <h3 style='margin: 0; color: #2c5282;'>✨ {title}</h3>
+                <div style="width: 100%; max-width: 600px;">
+                    {media_html}
+                </div>
+                <p style='font-size: 15px; color: #444;'>📌 NASA's Astronomy Picture of the Day</p>
             </div>
-            <div style='flex: 1;'>
-                <h3 style='margin-top: 0; color: #2c5282;'>✨ {title}</h3>
-                <p style='font-size: 16px; line-height: 1.6; margin: 0;'>{explanation}</p>
+
+            <!-- Left-aligned explanation that expands fully -->
+            <div style="width: 100%;">
+                <p style='font-size: 16px; line-height: 1.6; margin: 0; text-align: left;'>
+                    {explanation}
+                </p>
             </div>
         </div>
         """
-        results["apod"] = html
 
+        results["apod"] = html
         logger.info("✅ [APOD] Successfully fetched.")
     except Exception as e:
         logger.error("❌ [APOD] Failed to fetch: %s", e)
@@ -115,41 +123,32 @@ def fetch_eo(results: Dict[str, str]):
         logger.info("🖼️ [EO] Image URL: %s", media_url)
 
         html = f"""
-        <div style='display: flex; flex-direction: column; gap: 20px;'>
-            <!-- Top row with image and description -->
-            <div style='display: flex; gap: 20px; align-items: flex-start;'>
-                <div style='flex: 0 0 200px;'>
+        <div style='display: flex; flex-direction: column; gap: 15px;'>
+            <!-- Centered block -->
+            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
+                <h3 style='margin: 0; color: #2d5016;'>🌍 {title}</h3>
+                <div style='width: 100%; max-width: 600px;'>
                     <img src='{media_url}' alt='Earth Observatory' style='width: 100%; border-radius: 8px;'>
                 </div>
-                <div style='flex: 1;'>
-                    <h3 style='margin-top: 0; color: #2d5016;'>🌍 {title}</h3>
-                    <p style='font-size: 16px; line-height: 1.6; margin: 0;'>{caption}
-                    <a href='{link}' target='_blank'>[Read more]</a></p>
-                </div>
+                <p style='font-size: 15px; color: #444; margin: 0;'>📌 {caption} <a href='{link}' target='_blank'>[Read more]</a></p>
             </div>
-            
-            <!-- Full-width summary row -->
-            <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016;'>
-                <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d; font-style: italic;'>
-                    🤖 {llm_summary}
-                </p>
+
+            <!-- Full-width summary block (NOT inside centered container) -->
+            <div style='width: 100%; display: flex; justify-content: center;'>
+                <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
+                    <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d; font-style: italic;'>
+                        🤖 {llm_summary}
+                    </p>
+                </div>
             </div>
         </div>
         """
+
         results["eo"] = html
         logger.info("✅ [EO] Successfully fetched.")
     except Exception as e:
         logger.error("❌ [EO] Failed to fetch: %s", e)
         results["eo"] = "<h2>🚫 Failed to load EO Image of the Day</h2>"
-
-def format_images_of_the_day(apod_html: str, eo_html: str) -> str:
-    return f"""
-    <section class="card">
-        <h2 style='text-align: center; margin-bottom: 20px;'>📸 Images of the Day</h2>
-        {apod_html}
-        {eo_html}
-    </section>
-    """
 
 def fetch_hackernews(results: Dict[str, str]):
     logger = setup_logger("hackernews")

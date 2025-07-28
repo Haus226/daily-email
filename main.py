@@ -140,7 +140,8 @@ def run() -> str:
         </head>
         <body>
         <h1>📰 Daily Digest</h1>
-        {format_images_of_the_day(results.get("apod", {}), results.get("eo", {}))}
+        <section class="card">{results.get("apod", "")}</section>
+        <section class="card">{results.get("eo", "")}</section>
         <section class="card">{results.get("hn", "")}</section>
         <section class="card">{results.get("hf", "")}</section>
         </body></html>
