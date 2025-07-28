@@ -1,8 +1,8 @@
-name: Daily Email
+name: Daily Digest
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Runs daily at 4:00 UTC (~12PM Malaysia)
+    - cron: '30 0 * * *'  # Runs daily at 8:30 AM Malaysia Time (UTC+8)
   workflow_dispatch:      # Manual trigger button
 
 # This workflow requires write permissions to the repository to update quotes.txt
@@ -19,7 +19,7 @@ jobs:
         with:
           persist-credentials: true  # Needed to push back to repo
           fetch-depth: 0             # Get full history
-          ref: main                  # Make sure we're on the main branch
+          ref: on_vercel                  # Make sure we're on the main branch
 
       - name: Log time in UTC and MYT
         run: |
@@ -34,29 +34,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Send Delight Email
+      - name: Update content
         env:
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
-          DELIGHT_EMAIL: ${{ secrets.DELIGHT_EMAIL }}
-
-        run: python daily_delight.py
-
-      - name: Send Digest Email
-        env:
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
-          DIGEST_EMAIL: ${{ secrets.DIGEST_EMAIL }}
-
-        run: python daily_digest.py
+          OPENROUTER_API: ${{ secrrets.OPENROUTER_API }}
+        run: python main.py
 
       - name: Set up Git config
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
 
-      - name: Update quotes.txt
+      - name: Update archive and logs
         run: |
-          git add quotes.txt
-          git commit -m "Update quotes.txt" || echo "Nothing to commit"
+          git add archive/*.html
+          git add logs/**/*.log
+
+          git commit -m "Update daily archive and logs" || echo "Nothing to commit"
           git push
+
