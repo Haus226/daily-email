@@ -152,7 +152,7 @@ def run() -> str:
 def main():
     logging.info("🚀 Generating local preview...")
     content = run()
-    with open("archive/index.html", "w", encoding="utf-8") as f:
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
     with open(f"archive/{datetime.now().strftime('%Y-%m-%d')}.html", "w", encoding="utf-8") as f:
         f.write(content)
