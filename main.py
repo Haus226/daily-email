@@ -580,7 +580,7 @@ def run():
             </div>
             
             {fetch_cat_fact()}
-            {fetch_tarot_card()}
+            # {fetch_tarot_card()}
             {fetch_joke()}
             {fetch_fun_fact()}
             {fetch_quote()}
