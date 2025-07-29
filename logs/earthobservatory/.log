@@ -14,3 +14,9 @@ INFO     2025-07-29 06:50:02 [scraper.py:129] 📥 [EO] Title: The Enigmatic Ech
 INFO     2025-07-29 06:50:02 [scraper.py:130] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
 INFO     2025-07-29 06:50:02 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-29 10:23:55 [scraper.py:106] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-29 10:23:56 [scraper.py:71] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-29 10:24:09 [scraper.py:129] 📥 [EO] Title: The Enigmatic Echimamish River
+INFO     2025-07-29 10:24:09 [scraper.py:130] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
+INFO     2025-07-29 10:24:09 [scraper.py:155] ✅ [EO] Successfully fetched.
+

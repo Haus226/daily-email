@@ -64,3 +64,36 @@ INFO     2025-07-29 06:49:49 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-07-29 06:49:49 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-07-29 06:49:49 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-07-29 10:23:55 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #1] Pony: An actor-model, capabilities-secure, high-performance programming language
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #1] URL: https://www.ponylang.io/discover/
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #2] Sign in with Google in Chrome
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #2] URL: https://underpassapp.com/news/2025/7/5.html
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #3] I designed my own fast game streaming video codec – PyroWave
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #3] URL: https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #4] Copyparty – Turn almost any device into a file server
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/9001/copyparty
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #5] Tao on “blue team” vs. “red team” LLMs
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #5] URL: https://mathstodon.xyz/@tao/114915604830689046
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #6] Rotring 600 Ballpoint Pen
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #6] URL: https://www.shellshore.com/review-rotring-600-ballpoint-pen/
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-07-29 10:23:56 [scraper.py:171] 📥 [HN #7] Exploiting zero days in abandoned hardware
+INFO     2025-07-29 10:23:56 [scraper.py:172] 🔗 [HN #7] URL: https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/
+INFO     2025-07-29 10:23:56 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-07-29 10:23:57 [scraper.py:171] 📥 [HN #8] Truchet Tiles
+INFO     2025-07-29 10:23:57 [scraper.py:172] 🔗 [HN #8] URL: https://en.wikipedia.org/wiki/Truchet_tiles
+INFO     2025-07-29 10:23:57 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-07-29 10:23:57 [scraper.py:171] 📥 [HN #9] 50x rendering speed improvements in Hologram (Elixir web framework)
+INFO     2025-07-29 10:23:57 [scraper.py:172] 🔗 [HN #9] URL: https://hologram.page/blog/hologram-v0-5-0-released
+INFO     2025-07-29 10:23:57 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-07-29 10:23:57 [scraper.py:171] 📥 [HN #10] Different Clocks
+INFO     2025-07-29 10:23:57 [scraper.py:172] 🔗 [HN #10] URL: https://ianto-cannon.github.io/clock.html
+INFO     2025-07-29 10:23:57 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-07-29 10:23:57 [scraper.py:179] 🎉 [HN] All done.
+
