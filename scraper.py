@@ -277,7 +277,7 @@ def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo],
         logger.info(f"📄 [HF_{papers_type} #%d] Done🧾", idx)
         logger.info(f"🎉 [HF_{papers_type}] All done - {total_papers} papers found.")
     except Exception as e:
-        logger.error(f"❌ [HF_{papers_type}] Failed: {e}")
+        logger.error(f"❌ [HF_{papers_type} #%d] Failed: {e}")
 
 def fetch_hf(results: Dict[str, str]):
     logger = setup_logger("huggingface")
@@ -347,7 +347,7 @@ def fetch_hf(results: Dict[str, str]):
 
     results["hf"] = html
     if len(visited_links.keys()):
-        logger.info(f"✅ [HF] Successfully fetched ({len(visited_links.keys())}) Hugging Face papers.")
+        logger.info("✅ [HF] Successfully fetched (%d) Hugging Face papers.\n", len(visited_links.keys()))
     else:
-        logger.info("❌ [HF] Something wrong, no papers fetched...")
+        logger.info("❌ [HF] Something wrong, no papers fetched...\n")
 
