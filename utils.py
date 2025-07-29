@@ -11,7 +11,8 @@ class PaperInfo(TypedDict):
     star_cnt: str
     upvote_cnt: str
     tags: List[str]
-
+    llm_summary: str
+    
 def setup_logger(name: str, level: int = logging.INFO) -> logging.Logger:
     """
     Set up a logger with the specified name and logging level.

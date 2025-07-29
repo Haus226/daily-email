@@ -23,128 +23,125 @@ def run() -> str:
     for t in threads:
         t.join()
 
-
     content = f"""
-        <html>
-        <head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <style>
-            body {{
-                font-family: Arial, sans-serif;
-                max-width: 1000px;
-                margin: auto;
-                padding: 20px;
-                background: #fafafa;
-                color: #333;
-            }}
-            h1, h2 {{
-                text-align: center;
-            }}
-            section.card {{
-                background: #fff;
-                padding: 16px;
-                border-radius: 10px;
-                box-shadow: 0 0 5px rgba(0,0,0,0.05);
-                margin: 20px 0;
-            }}
-            .tag {{
-                display: inline-block;
-                background: #eee;
-                border-radius: 4px;
-                padding: 2px 6px;
-                margin: 2px 6px 6px 0;
-                font-size: 12px;
-                color: #444;
-            }}
-            .hf-card {{
-                border: 1px solid #ccc;
-                border-radius: 8px;
-                padding: 12px;
-                background: #fff;
-            }}
-            .hf-card h3 {{
-                font-size: 16px;
-                margin-bottom: 6px;
-            }}
-            .hf-card .abstract {{
-                font-size: 14px;
-                color: #555;
-                line-height: 1.5;
-            }}
-            button {{
-                padding: 6px 12px;
-                margin: 4px;
-                border: none;
-                border-radius: 5px;
-                background: #ddd;
-                cursor: pointer;
-            }}
-            button:hover {{
-                background: #ccc;
-            }}
-            button.active {{
-                background: #2b6cb0;
-                color: white;
-            }}
+        <title>Daily Digest</title>
+        <link rel="stylesheet" href="static/style.css">
+    </head>
+    <body>
+        <!-- Header -->
+        <header class="header">
+            <div class="container">
+                <nav class="nav">
+                    <div class="logo">📰 Daily Digest</div>
+                    <ul class="nav-links">
+                        <li><a href="#astronomy">Astronomy</a></li>
+                        <li><a href="#earth">Earth</a></li>
+                        <li><a href="#tech">Tech News</a></li>
+                        <li><a href="#papers">Papers</a></li>
+                    </ul>
+                    <div class="date-badge">{datetime.now().strftime('%a, %b %d, %Y')}</div>
+                </nav>
+            </div>
+        </header>
 
-            @media (max-width: 600px) {{
-                .images-row {{
-                    flex-direction: column !important;
-                }}
-                .images-row > div:first-child {{
-                    flex: none !important;
-                    max-width: 150px;
-                    margin: 0 auto 10px auto;
-                }}
-            }}
-        </style>
-        <script>
-        function sortPapersByDateOnce() {{
-            const container = document.getElementById('hf-grid');
-            const cards = Array.from(document.querySelectorAll('.hf-card'));
-            cards.sort((a, b) => {{
-                const dateA = new Date(a.dataset.date);
-                const dateB = new Date(b.dataset.date);
-                return dateB - dateA;  // newest first
-            }});
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="container">
+                <!-- Hero Section -->
+                <section class="hero">
+                    <h1>Your Daily Tech & Science Digest</h1>
+                    <p>Stay updated with the latest in astronomy, earth sciences, technology news, and cutting-edge research papers</p>
+                </section>
 
-            // Clear and append in sorted order
-            container.innerHTML = '';
-            cards.forEach(card => container.appendChild(card));
-        }}
+                <!-- Content Grid -->
+                <div class="content-grid">
+                    <!-- APOD and Earth Observatory Row -->
+                    <div class="two-column">
+                        <!-- APOD Section -->
+                        <section id="astronomy" class="card apod-card">
+                            <div class="card-header">
+                                <div class="card-icon">✨</div>
+                                <div>
+                                    <h2 class="card-title">Astronomy Picture of the Day</h2>
+                                    <p class="card-subtitle">NASA's daily cosmic wonder</p>
+                                </div>
+                            </div>
+                            <div class="card-content">
+                                {results.get("apod", "<div style='text-align: center; color: #666;'>Failed to load APOD content</div>")}
+                            </div>
+                        </section>
 
-        let currentFilterTag = 'ALL';
-        window.onload = () => {{
-            sortPapersByDateOnce();
-            filterPapers('ALL');  // optional default
-        }};
+                        <!-- Earth Observatory -->
+                        <section id="earth" class="card eo-card">
+                            <div class="card-header">
+                                <div class="card-icon">🌍</div>
+                                <div>
+                                    <h2 class="card-title">Earth Observatory</h2>
+                                    <p class="card-subtitle">Our planet from above</p>
+                                </div>
+                            </div>
+                            <div class="card-content">
+                                {results.get("eo", "<div style='text-align: center; color: #666;'>Failed to load Earth Observatory content</div>")}
+                            </div>
+                        </section>
+                    </div>
 
-        function filterPapers(tag) {{
-            currentFilterTag = tag;
-            document.querySelectorAll('.hf-card').forEach(card => {{
-                const tags = card.dataset.tags.split(" ");
-                card.style.display = (tag === "ALL" || tags.includes(tag)) ? "block" : "none";
-            }});
-            updateFilterButtonStyles();
-        }}
+                    <!-- Hacker News Section -->
+                    <section id="tech" class="card hn-card featured-section">
+                        <div class="card-header">
+                            <div class="card-icon">🔥</div>
+                            <div>
+                                <h2 class="card-title">Hacker News Top 10</h2>
+                                <p class="card-subtitle">What's trending in tech</p>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            {results.get("hn", "<div style='text-align: center; color: #666;'>Failed to load Hacker News content</div>")}
+                        </div>
+                    </section>
 
+                    <!-- Hugging Face Papers -->
+                    <section id="papers" class="card hf-card-container featured-section">
+                        <div class="card-header">
+                            <div class="card-icon">📚</div>
+                            <div>
+                                <h2 class="card-title">Latest Research Papers</h2>
+                                <p class="card-subtitle">Cutting-edge AI & ML research</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Paper Filters -->
+                        <div class="paper-filters" id="hf-filters">
+                            <button class="filter-btn active" data-tag="ALL" onclick="filterPapers('ALL')">All Papers</button>
+                            <button class="filter-btn" data-tag="DAILY" onclick="filterPapers('DAILY')">Daily</button>
+                            <button class="filter-btn" data-tag="WEEKLY" onclick="filterPapers('WEEKLY')">Weekly</button>
+                            <button class="filter-btn" data-tag="MONTHLY" onclick="filterPapers('MONTHLY')">Monthly</button>
+                            <button class="filter-btn" data-tag="TRENDING" onclick="filterPapers('TRENDING')">Trending</button>
+                        </div>
 
-        function updateFilterButtonStyles() {{
-            document.querySelectorAll('#hf-filters button[data-tag]').forEach(btn => {{
-                    btn.classList.toggle('active', btn.dataset.tag === currentFilterTag);
-            }});
-        }}
+                        <!-- Papers Content -->
+                        <div class="card-content">
+                            {results.get("hf", "<div style='text-align: center; color: #666;'>Failed to load research papers</div>")}
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
 
-        </script>
-        </head>
-        <body>
-        <h1>📰 Daily Digest</h1>
-        <section class="card">{results.get("apod", "")}</section>
-        <section class="card">{results.get("eo", "")}</section>
-        <section class="card">{results.get("hn", "")}</section>
-        <section class="card">{results.get("hf", "")}</section>
-        </body></html>
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2025 Daily Digest. Curated with ❤️ for the curious minds.</p>
+            </div>
+        </footer>
+        <script src="static/script.js"></script>
+    </body>
+    </html>
     """
 
     logging.info("📄 Content generated successfully.")
@@ -168,11 +165,8 @@ if __name__ == "__main__":
     os.makedirs("logs/hackernews", exist_ok=True)
     os.makedirs("logs/huggingface", exist_ok=True)
 
-
     main_logging = setup_logger("main")
     # Redirect root logger to main_logging
     logging.root.handlers = main_logging.handlers
-    logging.root.setLevel(main_logging.level)
+    logging.root.setLevel = main_logging.level
     main()
-
-

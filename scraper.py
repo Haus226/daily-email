@@ -65,7 +65,8 @@ def fetch_apod(results: Dict[str, str]):
         logger.info("✅ [APOD] Successfully fetched.\n")
     except Exception as e:
         logger.error("❌ [APOD] Failed to fetch: %s\n", e)
-        results["apod"] = "<h2>🚫 Failed to load APOD</h2>"
+        results["apod"] = "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 Failed to load Astronomy Picture of the Day</div>"
+
 
 def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
     logger.info("🚀 [EO] Starting to fetch LLM Summary")
@@ -155,7 +156,7 @@ def fetch_eo(results: Dict[str, str]):
         logger.info("✅ [EO] Successfully fetched.\n")
     except Exception as e:
         logger.error("❌ [EO] Failed to fetch: %s\n", e)
-        results["eo"] = "<h2>🚫 Failed to load EO Image of the Day</h2>"
+        results["eo"] = "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 Failed to load Earth Observatory</div>"
 
 def fetch_hackernews(results: Dict[str, str]):
     logger = setup_logger("hackernews")
@@ -163,7 +164,7 @@ def fetch_hackernews(results: Dict[str, str]):
     try:
         res = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json", timeout=10).json()
         top_stories = res[:10]
-        html = "<h2>🔥 Hacker News Top 10</h2><ol>"
+        html = "<ol class='hn-list'>"
         for idx, sid in enumerate(top_stories, 1):
             story = requests.get(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json").json()
             title = story.get("title", "(no title)")
@@ -171,7 +172,7 @@ def fetch_hackernews(results: Dict[str, str]):
             logger.info("📥 [HN #%d] %s", idx, title)
             logger.info("🔗 [HN #%d] URL: %s", idx, url)
 
-            html += f"<li><a href='{url}'>{title}</a></li>"
+            html += f"<li><a href='{url}' target='_blank'>{title}</a></li>"
             logger.info("✅ [HN #%d] Done ✅", idx)
 
         html += "</ol>"
@@ -179,7 +180,7 @@ def fetch_hackernews(results: Dict[str, str]):
         logger.info("🎉 [HN] All done.\n")
     except Exception as e:
         logger.error(f"❌ [HN] Failed: {e}\n")
-        results["hn"] = "<h2>🚫 Failed to load Hacker News</h2>"
+        results["hn"] = "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 Failed to load Hacker News</div>"
 
 def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo], 
                     visited_links_lock: threading.Lock,
@@ -262,13 +263,29 @@ def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo],
                 logger.info(f"🔗 [HF_{papers_type} #%d] GitHub: %s", idx, github_link)
             pdf_link = "https://arxiv.org/" + title_tag["href"].replace("papers/", "pdf/")
 
-            abstract_tag = paper_soup.find('p', class_='text-blue-700 dark:text-blue-400')
-            abstract = abstract_tag.text.strip() if abstract_tag else "(No abstract available)"
-            
+            llm_summary_tag = paper_soup.find('p', class_='text-blue-700 dark:text-blue-400')
+            llm_summary = llm_summary_tag.text.strip() if llm_summary_tag else "(No summary available)"
+            abstract_tag = paper_soup.find('div', class_="flex flex-col gap-y-2.5")
+            if abstract_tag:
+                abstract_p = abstract_tag.find("p", class_="text-gray-600")
+                if abstract_p:
+                    # Get the HTML content to preserve links
+                    abstract_html = str(abstract_p.decode_contents()).strip()
+                    # Convert relative links to absolute URLs
+                    abstract = re.sub(
+                        r'href="(/[^"]*)"', 
+                        r'href="https://huggingface.co\1"', 
+                        abstract_html
+                    )
+                else:
+                    abstract = "(No abstract available)"
+            else:
+                abstract = "(No abstract available)"
             with visited_links_lock:
                 visited_links[title].update({
                     "pdf_link": pdf_link,
                     "abstract": abstract,
+                    "llm_summary": llm_summary,
                     "github_link": github_link,
                     "published_date": published_date,
                     "upvote_cnt": upvote_cnt,
@@ -294,60 +311,63 @@ def fetch_hf(results: Dict[str, str]):
         executor.map(lambda url: fetch_hf_papers(url, visited_links, visited_lock, logger), urls)
 
     html = """
-        <h2>📚 Hugging Face Papers</h2>
-        <div id="hf-filters" style="text-align:center; margin-bottom: 20px;">
-            <button data-tag="ALL" onclick="filterPapers('ALL')">All</button>
-            <button data-tag="DAILY" onclick="filterPapers('DAILY')">Daily</button>
-            <button data-tag="WEEKLY" onclick="filterPapers('WEEKLY')">Weekly</button>
-            <button data-tag="MONTHLY" onclick="filterPapers('MONTHLY')">Monthly</button>
-            <button data-tag="TRENDING" onclick="filterPapers('TRENDING')">Trending</button>
-        </div>
-
-
-        <div id="hf-grid" style="
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 16px;
-            margin-top: 20px;
-        ">
+        <div id="hf-grid" class="papers-grid">
         """
-
-    for title, info in visited_links.items():
-        tags_html = "".join([
-            f'<span class="tag">{tag}</span>'
-            for tag in sorted(info["tags"])
-        ])
-        github_html = f'<span>🐙<a href="{info["github_link"]}" target="_blank" style="color: #28a745;">GitHub</a></span>' if info.get("github_link") else ''
-        published_html = f'<div style="font-size: 12px; color: #999;">Published on:{info.get("published_date", "N/A")}</div>'
-        data_tags = " ".join(info["tags"])
-        html += f"""
-        <div class="hf-card" data-tags="{data_tags}" data-date="{info['published_date']}" style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; background: #fff;">
-            <h3><a href="{info['paper_link']}" target="_blank">{title}</a></h3>
-            {published_html}
-            <div class="tags">{tags_html}</div>
-            <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
-            <!-- First row -->
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <span>📄<a href="{info['pdf_link']}" target="_blank">PDF</a></span>
-                <span style="color: #ff6b35;">🔥{info.get('upvote_cnt', '0')} Upvote</span>
-            </div>
-            
-            <!-- Second row -->
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <div>{github_html}</div>
-                {f'<span style="color: #ffd700;">⭐{info.get("star_cnt", "0")} Star</span>' if info.get('star_cnt') else ''}
-            </div>
-            </div>
-            <div class="abstract">
-                {info['abstract']}
-            </div>
-        </div>
-        """
-    html += "</div>"
-
-    results["hf"] = html
     if len(visited_links.keys()):
+        for title, info in visited_links.items():
+            tags_html = "".join([
+                f'<span class="tag">{tag}</span>'
+                for tag in sorted(info["tags"])
+            ])
+            data_tags = " ".join(info["tags"])
+            html += f"""
+                <div class="paper-card hf-card flip-card" data-tags="{data_tags}" data-date="{info['published_date']}" onclick="flipCard(this)">
+                    <div class="flip-card-inner">
+                        <!-- Front of card -->
+                        <div class="flip-card-front">
+                            <div class="paper-header">
+                                <div class="paper-title-date">
+                                    <h3 class="paper-title">
+                                        <a href="{info['paper_link']}" target="_blank" onclick="event.stopPropagation()">{title}</a>
+                                    </h3>
+                                    <div class="paper-date-tags">
+                                        <div class="paper-date">Published: {info.get("published_date", "N/A")}</div>
+                                        <div class="tags">{tags_html}</div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="paper-content">
+                                <div class="paper-links-grid">
+                                    <a href="{info['pdf_link']}" target="_blank" class="link-item pdf-link" onclick="event.stopPropagation()">📄 PDF</a>
+                                    {f'<a href="{info["github_link"]}" target="_blank" class="link-item github-link" onclick="event.stopPropagation()">🐙 GitHub</a>' if info.get("github_link") else '<div class="link-item" style="background: #f5f5f5; color: #999;">No GitHub</div>'}
+                                    <div class="link-item upvote-item">🔥 {info.get('upvote_cnt', '0')}</div>
+                                    <div class="link-item stars-item">⭐ {info.get('star_cnt', '0') if info.get('star_cnt') else '0'}</div>
+                                </div>
+                                
+                                <div class="llm-summary-box">
+                                    <p>
+                                        <strong>🤖 AI Summary:</strong>
+                                        <em style="color: #2d5016;">{info.get('llm_summary', 'No summary available')}</em>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Back of card -->
+                        <div class="flip-card-back">
+                            <h4>📄 Abstract</h4>
+                            <div class="abstract-text">
+                                {info['abstract']}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                """
+        html += "</div>"
         logger.info("✅ [HF] Successfully fetched (%d) Hugging Face papers.\n", len(visited_links.keys()))
     else:
+        html += "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 No Hugging Face papers found</div></div>"
         logger.info("❌ [HF] Something wrong, no papers fetched...\n")
 
+    results["hf"] = html
