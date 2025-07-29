@@ -487,7 +487,7 @@ def get_styles():
         
         .meaning-text, .description-text, .guidance-text {
             margin: 0;
-            color: #2d3436;
+            color: black;
             line-height: 1.5;
         }
         
