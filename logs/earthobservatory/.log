@@ -6,3 +6,11 @@ INFO     2025-07-29 06:42:52 [scraper.py:128] 📥 [EO] Title: The Enigmatic Ech
 INFO     2025-07-29 06:42:52 [scraper.py:129] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
 INFO     2025-07-29 06:42:52 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-29 06:49:47 [scraper.py:106] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-29 06:49:48 [scraper.py:71] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-29 06:50:02 [scraper.py:94] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-29 06:50:02 [scraper.py:96] 🤖 [EO] Cleaned LLM summary: The Echimamish River in Manitoba, Canada, uniquely originates from a beaver-dam-formed pond in flat terrain, flowing east and west from a central split point influenced by beaver activity. Its dual-directional flow, observable in Landsat 9 imagery (May 23, 2025), connects to the Nelson and Hayes Rivers, which drain into Hudson Bay. Geomorphic dynamics and shifting split points complicate scientific analysis, with Rob Sowby’s study suggesting the system remains in transitional formation. Historically significant for Indigenous communities, fur trade routes (via navigable Hayes River), and York Factory (17th century–20th century), it is now part of the Canadian Heritage Rivers System. Current understanding includes unresolved ambiguities in its hydrological evolution due to subtle flow patterns and dynamic beaver-modulated infrastructure.
+INFO     2025-07-29 06:50:02 [scraper.py:129] 📥 [EO] Title: The Enigmatic Echimamish River
+INFO     2025-07-29 06:50:02 [scraper.py:130] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
+INFO     2025-07-29 06:50:02 [scraper.py:155] ✅ [EO] Successfully fetched.
+
