@@ -8,3 +8,8 @@ INFO     2025-07-29 15:22:49 [scraper.py:50] 📥 [APOD] Title: A Helix Nebula D
 INFO     2025-07-29 15:22:49 [scraper.py:51] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg
 INFO     2025-07-29 15:22:49 [scraper.py:74] ✅ [APOD] Successfully fetched.
 
+INFO     2025-07-29 15:26:36 [scraper.py:19] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-29 15:26:36 [scraper.py:50] 📥 [APOD] Title: A Helix Nebula Deep Field
+INFO     2025-07-29 15:26:36 [scraper.py:51] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg
+INFO     2025-07-29 15:26:36 [scraper.py:74] ✅ [APOD] Successfully fetched.
+
