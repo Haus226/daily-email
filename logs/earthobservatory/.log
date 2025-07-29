@@ -1,0 +1,8 @@
+INFO     2025-07-29 06:42:35 [scraper.py:105] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-29 06:42:36 [scraper.py:71] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-29 06:42:52 [scraper.py:93] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-29 06:42:52 [scraper.py:95] 🤖 [EO] LLM summary: the echimamish river in central manitoba originates from a beaver-dam pond and uniquely flows east and west from its midpoint, connecting the nelson river to the west and the hayes river to the east, which discharge into hudson bay. its split flow pattern, shifting due to beaver activity, creates ambiguities in mapping and historical records, described as “baffling” by scientists. the flat terrain masks subtle flow changes, and the river’s dynamic formation may lead to future merging or separation of its basins. culturally significant to indigenous peoples and historically used by fur traders for access to york factory, the waterways are now part of the canadian heritage rivers system.
+INFO     2025-07-29 06:42:52 [scraper.py:128] 📥 [EO] Title: The Enigmatic Echimamish River
+INFO     2025-07-29 06:42:52 [scraper.py:129] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
+INFO     2025-07-29 06:42:52 [scraper.py:154] ✅ [EO] Successfully fetched.
+
