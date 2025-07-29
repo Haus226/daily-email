@@ -37,7 +37,16 @@ def fetch_apod(results: Dict[str, str]):
         explanation_raw = soup.find_all("p")[2].decode_contents()
         hr_pos = explanation_raw.find("<hr/>")
         explanation_raw = explanation_raw[:hr_pos] if hr_pos != -1 else explanation_raw
+        
+        # Fix relative links in explanation
         explanation = explanation_raw.replace("<p> <center>\n", "<br>").replace("\n\n<p>", "").strip()
+        # Convert relative links to absolute URLs for APOD
+        explanation = re.sub(
+            r'href="(?!https?://)([^"]*)"', 
+            r'href="https://apod.nasa.gov/apod/\1"', 
+            explanation
+        )
+        
         logger.info("📥 [APOD] Title: %s", title)
         logger.info("🖼️ [APOD] Media URL: %s", media_url)
 
