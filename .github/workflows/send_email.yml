@@ -2,7 +2,7 @@ name: Daily Email
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Runs daily at 4:00 UTC (~12PM Malaysia)
+    - cron: '0 1 * * *'  # Runs daily at 4:00 UTC (~12PM Malaysia)
   workflow_dispatch:      # Manual trigger button
 
 # This workflow requires write permissions to the repository to update quotes.txt
@@ -39,8 +39,9 @@ jobs:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
           DELIGHT_EMAIL: ${{ secrets.DELIGHT_EMAIL }}
+          OPENROUTER_API: ${{ secrets.OPENROUTER_API }}
 
-        run: python daily_delight.py
+        run: python main.py
 
       - name: Set up Git config
         run: |

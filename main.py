@@ -182,7 +182,7 @@ def fetch_tarot_card():
                 <h3 class="card-name">{name}</h3>
                 
                 <div class="card-image-wrapper">
-                    <img src='{image_url}' alt='{name}' class="tarot-image" />
+                    <img src='https://github.com/Haus226/daily-email/tree/main/{image_url}' alt='{name}' class="tarot-image" />
                 </div>
                 
                 <div class="meaning-section">
