@@ -154,7 +154,7 @@ def fetch_eo(results: Dict[str, str]):
             <div style='width: 100%; display: flex; justify-content: center;'>
                 <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
                     <p style='font-size: 18px; line-height: 1.5; margin: 0; color: #1a3a0d;'>
-                        <span style='font-weight: bold;'>🤖 AI summary:</span>
+                        <span style='font-weight: bold;'>🤖 AI Summary</span>
                         <br>
                         <span style='font-style: italic; font-size: 18px;'>{llm_summary}</span>
                     </p>
