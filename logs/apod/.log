@@ -2,3 +2,7 @@ INFO     2025-07-28 14:47:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astro
 INFO     2025-07-28 14:47:40 [scraper.py:41] 📥 [APOD] Title: Collision at Asteroid Dimorphos
 INFO     2025-07-28 14:47:40 [scraper.py:42] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/DimorphosVideo_DartLuke.mp4
 INFO     2025-07-28 14:47:40 [scraper.py:65] ✅ [APOD] Successfully fetched.
+INFO     2025-07-29 02:56:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-29 02:56:02 [scraper.py:41] 📥 [APOD] Title: Collision at Asteroid Dimorphos
+INFO     2025-07-29 02:56:02 [scraper.py:42] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/DimorphosVideo_DartLuke.mp4
+INFO     2025-07-29 02:56:02 [scraper.py:65] ✅ [APOD] Successfully fetched.
