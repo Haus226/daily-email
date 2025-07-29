@@ -7,9 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 import json
 from dateutil import parser
 import re
-from utils import PaperInfo
+from utils import PaperInfo, setup_logger
 from typing import Dict
-from logger import setup_logger
 import os
 
 OPENROUTER_API = os.getenv("OPENROUTER_API")
@@ -62,9 +61,9 @@ def fetch_apod(results: Dict[str, str]):
         """
 
         results["apod"] = html
-        logger.info("✅ [APOD] Successfully fetched.")
+        logger.info("✅ [APOD] Successfully fetched.\n")
     except Exception as e:
-        logger.error("❌ [APOD] Failed to fetch: %s", e)
+        logger.error("❌ [APOD] Failed to fetch: %s\n", e)
         results["apod"] = "<h2>🚫 Failed to load APOD</h2>"
 
 def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
@@ -145,9 +144,9 @@ def fetch_eo(results: Dict[str, str]):
         """
 
         results["eo"] = html
-        logger.info("✅ [EO] Successfully fetched.")
+        logger.info("✅ [EO] Successfully fetched.\n")
     except Exception as e:
-        logger.error("❌ [EO] Failed to fetch: %s", e)
+        logger.error("❌ [EO] Failed to fetch: %s\n", e)
         results["eo"] = "<h2>🚫 Failed to load EO Image of the Day</h2>"
 
 def fetch_hackernews(results: Dict[str, str]):
@@ -169,9 +168,9 @@ def fetch_hackernews(results: Dict[str, str]):
 
         html += "</ol>"
         results["hn"] = html
-        logger.info("🎉 [HN] All done.")
+        logger.info("🎉 [HN] All done.\n")
     except Exception as e:
-        logger.error(f"❌ [HN] Failed: {e}")
+        logger.error(f"❌ [HN] Failed: {e}\n")
         results["hn"] = "<h2>🚫 Failed to load Hacker News</h2>"
 
 def fetch_hf_papers(url: str, visited_links: Dict[str, PaperInfo], 
@@ -336,7 +335,11 @@ def fetch_hf(results: Dict[str, str]):
             </div>
         </div>
         """
-
     html += "</div>"
+    
     results["hf"] = html
-    logger.info(f"✅ [HF] Successfully fetched ({len(visited_links.keys())}) Hugging Face papers.")
+    if len(visited_links.keys()):
+        logger.info(f"✅ [HF] Successfully fetched ({len(visited_links.keys())}) Hugging Face papers.")
+    else:
+        logger.info("❌ [HF] Something wrong, no papers fetched...")
+

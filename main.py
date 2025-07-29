@@ -4,7 +4,7 @@ from scraper import fetch_apod, fetch_eo, fetch_hackernews, fetch_hf
 import typing
 from datetime import datetime
 import logging
-from logger import setup_logger
+from utils import setup_logger
 
 
 def run() -> str:
