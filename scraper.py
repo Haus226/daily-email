@@ -87,6 +87,7 @@ def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
             })
         )
         llm_summary = res.json().get("choices", [{}])[0].get("message", {}).get("content", "No summary available").strip()
+        logger.info(f"🤖 [EO] LLM summary: {llm_summary}")
     except Exception as e:
         logger.error("❌ [EO] LLM Summary failed: %s", e)
         llm_summary = "No summary available"
@@ -135,8 +136,8 @@ def fetch_eo(results: Dict[str, str]):
             <!-- Full-width summary block (NOT inside centered container) -->
             <div style='width: 100%; display: flex; justify-content: center;'>
                 <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
-                    <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d; font-style: italic;'>
-                        🤖 {llm_summary}
+                    <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d;'>
+                        🤖 <span style='font-style: italic;'>{llm_summary}</span>
                     </p>
                 </div>
             </div>
@@ -336,7 +337,7 @@ def fetch_hf(results: Dict[str, str]):
         </div>
         """
     html += "</div>"
-    
+
     results["hf"] = html
     if len(visited_links.keys()):
         logger.info(f"✅ [HF] Successfully fetched ({len(visited_links.keys())}) Hugging Face papers.")
