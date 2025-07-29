@@ -31,3 +31,36 @@ INFO     2025-07-29 15:15:47 [scraper.py:173] 🔗 [HN #10] URL: https://github.
 INFO     2025-07-29 15:15:47 [scraper.py:176] ✅ [HN #10] Done ✅
 INFO     2025-07-29 15:15:47 [scraper.py:180] 🎉 [HN] All done.
 
+INFO     2025-07-29 15:22:49 [scraper.py:173] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-29 15:22:49 [scraper.py:182] 📥 [HN #1] My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)
+INFO     2025-07-29 15:22:49 [scraper.py:183] 🔗 [HN #1] URL: https://simonwillison.net/2025/Jul/29/space-invaders/
+INFO     2025-07-29 15:22:49 [scraper.py:186] ✅ [HN #1] Done ✅
+INFO     2025-07-29 15:22:49 [scraper.py:182] 📥 [HN #2] Learning Is Slower Than You Think
+INFO     2025-07-29 15:22:49 [scraper.py:183] 🔗 [HN #2] URL: https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think
+INFO     2025-07-29 15:22:49 [scraper.py:186] ✅ [HN #2] Done ✅
+INFO     2025-07-29 15:22:49 [scraper.py:182] 📥 [HN #3] Observable Notebooks 2.0 Technology Preview
+INFO     2025-07-29 15:22:49 [scraper.py:183] 🔗 [HN #3] URL: https://observablehq.com/notebook-kit/
+INFO     2025-07-29 15:22:49 [scraper.py:186] ✅ [HN #3] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #4] Linux Performance Analysis in 60 seconds (2015)
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #4] URL: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #4] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #5] Claude Finds Contradictions in My Thinking
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #5] URL: https://angadh.com/contradictions-1
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #5] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #6] Coverage.py Regex Pragmas
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #6] URL: https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #6] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #7] Project Zero – Policy and Disclosure: 2025 Edition
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #7] URL: https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #7] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #8] Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #8] URL: https://github.com/Danau5tin/terminal-bench-rl
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #8] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #9] Pony: An actor-model, capabilities-secure, high-performance programming language
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #9] URL: https://www.ponylang.io/discover/
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #9] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:182] 📥 [HN #10] Show HN: ELF Injector
+INFO     2025-07-29 15:22:50 [scraper.py:183] 🔗 [HN #10] URL: https://github.com/dillstead/elf_injector
+INFO     2025-07-29 15:22:50 [scraper.py:186] ✅ [HN #10] Done ✅
+INFO     2025-07-29 15:22:50 [scraper.py:190] 🎉 [HN] All done.
+
