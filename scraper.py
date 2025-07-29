@@ -67,6 +67,7 @@ def fetch_apod(results: Dict[str, str]):
         results["apod"] = "<h2>🚫 Failed to load APOD</h2>"
 
 def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
+    logger.info("🚀 [EO] Starting to fetch LLM Summary")
     try:
         res = requests.post(
         url = "https://openrouter.ai/api/v1/chat/completions",
@@ -87,7 +88,11 @@ def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
             })
         )
         llm_summary = res.json().get("choices", [{}])[0].get("message", {}).get("content", "No summary available").strip()
+        if "<think>" in llm_summary:
+            logger.info("🤖 [EO] LLM summary contains <think> tags, cleaning up...")
+            llm_summary = re.sub(r"^(<think>){1,2}(.*?)(</think>){1,2}", "", llm_summary, flags=re.DOTALL).strip()
         logger.info(f"🤖 [EO] LLM summary: {llm_summary}")
+
     except Exception as e:
         logger.error("❌ [EO] LLM Summary failed: %s", e)
         llm_summary = "No summary available"
