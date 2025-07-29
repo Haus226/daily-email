@@ -1,0 +1,20 @@
+INFO     2025-07-29 06:02:28 [scraper.py:99] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-29 06:02:49 [scraper.py:90] 🤖 [EO] LLM summary: <think><think>
+Okay, the user wants me to act as a strict scientific paper summarizer for this article about the Echimamish River. Let me read through the provided text carefully.
+
+First, the main points: The Echimamish River in Manitoba has an unusual source—a pond formed by beaver dams. It flows both east and west from the middle, which is why its Cree name means "water flowing both ways." The river connects the Nelson and Hayes rivers, which empty into Hudson Bay. The article mentions that it's challenging for scientists to study because of the flat terrain and shifting dam locations. There's a study led by Rob Sowby, suggesting the river is in a transitional phase, possibly merging with the Hayes or splitting into basins. Also, its historical and cultural significance includes Indigenous sites, fur trade routes, and York Factory. It's part of the Canadian Heritage Rivers System.
+
+I need to make sure the summary is concise and scientific. The user emphasized ignoring irrelevant info, so I should focus on the hydrological aspects, the research by Sowby, and the cultural importance only if it's relevant. Wait, the user said to ignore unrelevant information. Let me check—since the primary subject is the river's unique characteristics, the cultural and historical parts might be relevant as they show the river's significance, but the user might want just the key scientific facts. The example response includes the cultural part, so maybe it's okay to keep that briefly.
+
+The image caption mentions the date and the Landsat instrument. The main flow is that the river's source is a beaver dam in the middle, causing flows in two directions. The split point can shift, making it hard to determine exactly without ground data. Sowby's study says the river is in limbo, which explains conflicting records. The future might be that it either captures the upper Hayes or splits. Also, the fur trade's use of the river for navigation compared to Nelson River's turbulence. The designation as a heritage river is part of its importance.
+
+Need to avoid explanations, just the summary. So, structure: Location, unique source (beaver dams), flow pattern, satellite data from Landsat 9 on May 2025, scientific findings (dynamic split point, transitional phase, possible future changes), ecological influence, cultural/historical importance with York Factory and heritage system.
+
+Make sure not to use markdown, lists, bullet points. Just a plain text paragraph. Keep it as brief as possible, but cover all key elements without unnecessary details. The user example included all these elements, so I should follow that. Let me put it together concisely.
+</think>
+
+The Echimamish River in central Manitoba, Canada, uniquely originates from a beaver-dam-formed pond and flows both east and west across flat terrain. Spanning 67 km, it connects the Nelson River (west) and Hayes River (east), which both drain into Hudson Bay. Satellite imagery (Landsat 9, May 2025) highlights its dynamic hydrology, but the exact flow-split point remains indeterminate without higher-resolution data and ground observations. Researcher Rob Sowby suggests the river may be in a transitional state, potentially evolving to fully capture the upper Hayes or separate into distinct basins. This ambiguity explains conflicting historical records and its cultural significance to Indigenous communities, fur trade routes, and designation within the Canadian Heritage Rivers System.
+INFO     2025-07-29 06:02:49 [scraper.py:122] 📥 [EO] Title: The Enigmatic Echimamish River
+INFO     2025-07-29 06:02:49 [scraper.py:123] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
+INFO     2025-07-29 06:02:49 [scraper.py:148] ✅ [EO] Successfully fetched.
+
