@@ -2,7 +2,9 @@ name: Daily Digest
 
 on:
   schedule:
-    - cron: '30 0 * * *'  # Runs daily at 8:30 AM Malaysia Time (UTC+8)
+    - cron: '0 0 * * *'    # 08:00 MYT / 00:00 UTC
+    - cron: '0 5 * * *'    # 13:00 MYT / 05:00 UTC
+    - cron: '0 10 * * *'   # 18:00 MYT / 10:00 UTC
   workflow_dispatch:      # Manual trigger button
 
 # This workflow requires write permissions to the repository to update quotes.txt
