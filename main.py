@@ -614,7 +614,6 @@ def demo():
         f.write(content)
 
 if __name__ == "__main__":
-    # content = run()
-    # send_email(content)
+    content = run()
+    send_email(content)
     demo()
-    # fetch_tarot_card()
