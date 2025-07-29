@@ -89,10 +89,11 @@ def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
             })
         )
         llm_summary = res.json().get("choices", [{}])[0].get("message", {}).get("content", "No summary available").strip()
+        logging.info(f"🤖 [EO] LLM Summary fetched successfully: {llm_summary.replace("\n", "")}")
         if "<think>" in llm_summary:
             logger.info("🤖 [EO] LLM summary contains <think> tags, cleaning up...")
             llm_summary = re.sub(r"^(<think>){1,2}(.*?)(</think>){1,2}", "", llm_summary, flags=re.DOTALL).strip()
-        logger.info(f"🤖 [EO] LLM summary: {llm_summary}")
+            logger.info(f"🤖 [EO] Cleaned LLM summary: {llm_summary}")
 
     except Exception as e:
         logger.error("❌ [EO] LLM Summary failed: %s", e)
