@@ -35,8 +35,9 @@ def fetch_apod(results: Dict[str, str]):
             media_html = f'<img src="{media_url}" alt="APOD" style="width: 100%; border-radius: 8px;">'
 
         explanation_raw = soup.find_all("p")[2].decode_contents()
-        explanation = explanation_raw.split("Tomorrow's picture:")[0].replace("<p> <center>\n<b>", "").strip()
-
+        hr_pos = explanation_raw.find("<hr/>")
+        explanation_raw = explanation_raw[:hr_pos] if hr_pos != -1 else explanation_raw
+        explanation = explanation_raw.replace("<p> <center>\n", "<br>").replace("\n\n<p>", "").strip()
         logger.info("📥 [APOD] Title: %s", title)
         logger.info("🖼️ [APOD] Media URL: %s", media_url)
 
