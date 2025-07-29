@@ -153,8 +153,9 @@ def fetch_eo(results: Dict[str, str]):
             <!-- Full-width summary block (NOT inside centered container) -->
             <div style='width: 100%; display: flex; justify-content: center;'>
                 <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
-                    <p style='font-size: 15px; line-height: 1.5; margin: 0; color: #1a3a0d;'>
-                        🤖 <span style='font-style: italic;'>{llm_summary}</span>
+                    <p style='font-size: 18px; line-height: 1.5; margin: 0; color: #1a3a0d;'>
+                        🤖 AI summary: 
+                        <span style='font-style: italic; font-size: 18px;'>{llm_summary}</span>
                     </p>
                 </div>
             </div>
