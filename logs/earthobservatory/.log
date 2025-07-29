@@ -18,3 +18,11 @@ INFO     2025-07-29 06:02:49 [scraper.py:122] 📥 [EO] Title: The Enigmatic Ech
 INFO     2025-07-29 06:02:49 [scraper.py:123] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
 INFO     2025-07-29 06:02:49 [scraper.py:148] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-29 06:18:53 [scraper.py:104] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-29 06:18:54 [scraper.py:70] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-29 06:19:05 [scraper.py:92] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-29 06:19:05 [scraper.py:94] 🤖 [EO] LLM summary: The Echimamish River in central Manitoba, Canada, originates from a beaver-dam-formed pond and uniquely flows both east and west. Its unconventional hydrology, captured by Landsat 9’s OLI-2 on May 23, 2025, splits near Painted Stone Portage due to flat terrain, connecting to the Nelson River (west) and Hayes River (east). Flow dynamics are subtle and variable, with the split point shifting based on beaver activity. Proposed to be a transitional river system, its formation remains unresolved, potentially evolving toward capturing the upper Hayes or separating into distinct basins. Historically significant for Indigenous groups and fur trade routes, it is recognized in Canada’s Heritage Rivers System.
+INFO     2025-07-29 06:19:05 [scraper.py:127] 📥 [EO] Title: The Enigmatic Echimamish River
+INFO     2025-07-29 06:19:05 [scraper.py:128] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
+INFO     2025-07-29 06:19:05 [scraper.py:153] ✅ [EO] Successfully fetched.
+

@@ -31,3 +31,36 @@ INFO     2025-07-29 06:02:30 [scraper.py:165] 🔗 [HN #10] URL: https://www.sci
 INFO     2025-07-29 06:02:30 [scraper.py:168] ✅ [HN #10] Done ✅
 INFO     2025-07-29 06:02:30 [scraper.py:172] 🎉 [HN] All done.
 
+INFO     2025-07-29 06:18:53 [scraper.py:160] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-29 06:18:54 [scraper.py:169] 📥 [HN #1] An engineer's perspective: Why everything feels broken and what can we do
+INFO     2025-07-29 06:18:54 [scraper.py:170] 🔗 [HN #1] URL: https://tushardadlani.com/the-leverage-arbitrage-why-everything-feels-broken
+INFO     2025-07-29 06:18:54 [scraper.py:173] ✅ [HN #1] Done ✅
+INFO     2025-07-29 06:18:54 [scraper.py:169] 📥 [HN #2] Fintech dystopia
+INFO     2025-07-29 06:18:54 [scraper.py:170] 🔗 [HN #2] URL: https://fintechdystopia.com/
+INFO     2025-07-29 06:18:54 [scraper.py:173] ✅ [HN #2] Done ✅
+INFO     2025-07-29 06:18:55 [scraper.py:169] 📥 [HN #3] I designed my own fast game streaming video codec – PyroWave
+INFO     2025-07-29 06:18:55 [scraper.py:170] 🔗 [HN #3] URL: https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+INFO     2025-07-29 06:18:55 [scraper.py:173] ✅ [HN #3] Done ✅
+INFO     2025-07-29 06:18:55 [scraper.py:169] 📥 [HN #4] Sign in with Google in Chrome
+INFO     2025-07-29 06:18:55 [scraper.py:170] 🔗 [HN #4] URL: https://underpassapp.com/news/2025/7/5.html
+INFO     2025-07-29 06:18:55 [scraper.py:173] ✅ [HN #4] Done ✅
+INFO     2025-07-29 06:18:55 [scraper.py:169] 📥 [HN #5] Copyparty – Turn almost any device into a file server
+INFO     2025-07-29 06:18:55 [scraper.py:170] 🔗 [HN #5] URL: https://github.com/9001/copyparty
+INFO     2025-07-29 06:18:55 [scraper.py:173] ✅ [HN #5] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:169] 📥 [HN #6] Tao on “blue team” vs. “red team” LLMs
+INFO     2025-07-29 06:18:56 [scraper.py:170] 🔗 [HN #6] URL: https://mathstodon.xyz/@tao/114915604830689046
+INFO     2025-07-29 06:18:56 [scraper.py:173] ✅ [HN #6] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:169] 📥 [HN #7] Rotring 600 Ballpoint Pen
+INFO     2025-07-29 06:18:56 [scraper.py:170] 🔗 [HN #7] URL: https://www.shellshore.com/review-rotring-600-ballpoint-pen/
+INFO     2025-07-29 06:18:56 [scraper.py:173] ✅ [HN #7] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:169] 📥 [HN #8] Built a rickroll machine that rickrolls you with microservices
+INFO     2025-07-29 06:18:56 [scraper.py:170] 🔗 [HN #8] URL: https://github.com/nabbonoushad/Chaotic-Rickroll-Machine
+INFO     2025-07-29 06:18:56 [scraper.py:173] ✅ [HN #8] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:169] 📥 [HN #9] Different Clocks
+INFO     2025-07-29 06:18:56 [scraper.py:170] 🔗 [HN #9] URL: https://ianto-cannon.github.io/clock.html
+INFO     2025-07-29 06:18:56 [scraper.py:173] ✅ [HN #9] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:169] 📥 [HN #10] NSF plans end to lone U.S. Antarctic research icebreaker
+INFO     2025-07-29 06:18:56 [scraper.py:170] 🔗 [HN #10] URL: https://www.science.org/content/article/nsf-plans-abrupt-end-lone-u-s-antarctic-research-icebreaker
+INFO     2025-07-29 06:18:56 [scraper.py:173] ✅ [HN #10] Done ✅
+INFO     2025-07-29 06:18:56 [scraper.py:177] 🎉 [HN] All done.
+
