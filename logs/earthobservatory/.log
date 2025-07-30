@@ -50,3 +50,11 @@ INFO     2025-07-30 07:31:03 [scraper.py:134] 📥 [EO] Title: Múlajökull Glac
 INFO     2025-07-30 07:31:03 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154613/mulajokullzm_oli_20250614_th.jpg
 INFO     2025-07-30 07:31:03 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-30 10:24:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-30 10:24:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-30 10:24:28 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-30 10:24:28 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The article discusses the Múlajökull surge-type glacier in Iceland, which has surged eight times since 1924 but was in a quiescent, retreating phase in June 2025. Its historical surges created terminal moraines, with the outermost formed 1717–1760 during the Little Ice Age. Retreating ice has exposed drumlins—rare features studied by Neal Iverson, who proposes their formation involves uneven erosion rather than sediment deposition. Colorful lakes between drumlins derive hues from sediment concentration (brown near the glacier due to meltwater, blue farther away) and exceptions like algae growth or distant sediment-fed lakes. Natasha Lee links these colors to sediment dynamics in Icelandic glacial systems.
+INFO     2025-07-30 10:24:28 [scraper.py:134] 📥 [EO] Title: Múlajökull Glacier and Its Palette of Lakes
+INFO     2025-07-30 10:24:28 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154613/mulajokullzm_oli_20250614_th.jpg
+INFO     2025-07-30 10:24:28 [scraper.py:155] ✅ [EO] Successfully fetched.
+

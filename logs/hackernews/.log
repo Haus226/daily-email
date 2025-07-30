@@ -229,3 +229,36 @@ INFO     2025-07-30 07:30:40 [scraper.py:172] 🔗 [HN #10] URL: http://a64.in/p
 INFO     2025-07-30 07:30:40 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-07-30 07:30:40 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-07-30 10:24:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #1] M8.7 earthquake in Western Pacific, tsunami warning issued
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #1] URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #2] Study mode
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #2] URL: https://openai.com/index/chatgpt-study-mode/
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #3] RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #3] URL: https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #4] Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=44725306
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #5] URL-Driven State in HTMX
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #5] URL: https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-07-30 10:24:18 [scraper.py:171] 📥 [HN #6] A major AI training data set contains millions of examples of personal data
+INFO     2025-07-30 10:24:18 [scraper.py:172] 🔗 [HN #6] URL: https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/
+INFO     2025-07-30 10:24:18 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-07-30 10:24:19 [scraper.py:171] 📥 [HN #7] iPhone 16 cameras vs. traditional digital cameras
+INFO     2025-07-30 10:24:19 [scraper.py:172] 🔗 [HN #7] URL: https://candid9.com/phone-camera/
+INFO     2025-07-30 10:24:19 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-07-30 10:24:19 [scraper.py:171] 📥 [HN #8] Sleep all comes down to the mitochondria
+INFO     2025-07-30 10:24:19 [scraper.py:172] 🔗 [HN #8] URL: https://www.science.org/content/blog-post/it-all-comes-down-mitochondria
+INFO     2025-07-30 10:24:19 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-07-30 10:24:19 [scraper.py:171] 📥 [HN #9] Show HN: I built a free backlink exchange marketplace
+INFO     2025-07-30 10:24:19 [scraper.py:172] 🔗 [HN #9] URL: https://launchigniter.com/link-exchange
+INFO     2025-07-30 10:24:19 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-07-30 10:24:19 [scraper.py:171] 📥 [HN #10] Learning basic electronics by building fireflies
+INFO     2025-07-30 10:24:19 [scraper.py:172] 🔗 [HN #10] URL: http://a64.in/posts/learning-basic-electronics-by-building-fireflies/
+INFO     2025-07-30 10:24:19 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-07-30 10:24:19 [scraper.py:179] 🎉 [HN] All done.
+
