@@ -42,3 +42,11 @@ INFO     2025-07-30 05:34:38 [scraper.py:139] 📥 [EO] Title: Múlajökull Glac
 INFO     2025-07-30 05:34:38 [scraper.py:140] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154613/mulajokullzm_oli_20250614_th.jpg
 INFO     2025-07-30 05:34:38 [scraper.py:167] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-30 07:30:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-30 07:30:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-30 07:31:03 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-30 07:31:03 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Múlajökull, a surge-type piedmont glacier in Iceland, flows from Hofsjökull ice cap and has surged eight times since 1924, currently undergoing quiescence and frontal retreat. Glacial surges and retreat left terminal moraines, with the outermost formed between 1717–1760 during the Little Ice Age. Exposed drumlins—uncommon in modern retreating glaciers—indicate erosion-shaped features rather than sediment deposition, aiding studies on glacial evolution. Retreating ice created lakes with color variations (brown near glacier due to sediment, blue farther with less sediment), though some exceptions occur from algae or proglacial stream input.
+INFO     2025-07-30 07:31:03 [scraper.py:134] 📥 [EO] Title: Múlajökull Glacier and Its Palette of Lakes
+INFO     2025-07-30 07:31:03 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154613/mulajokullzm_oli_20250614_th.jpg
+INFO     2025-07-30 07:31:03 [scraper.py:155] ✅ [EO] Successfully fetched.
+
