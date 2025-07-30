@@ -1,6 +1,6 @@
 import threading
 import os
-from scraper import fetch_apod, fetch_eo, fetch_hackernews, fetch_hf
+from scraper import fetch_apod, fetch_eo, fetch_hackernews, fetch_hf, fetch_tarot
 import typing
 from datetime import datetime
 import logging
@@ -12,7 +12,8 @@ def run() -> str:
     threads = [
         threading.Thread(target=fetch_apod, args=(results,), name="Astronomy"),
         threading.Thread(target=fetch_hackernews, args=(results,), name="HackerNews"),
-        threading.Thread(target=fetch_eo, args=(results,), name="EarthObservatory")
+        threading.Thread(target=fetch_eo, args=(results,), name="EarthObservatory"),
+        threading.Thread(target=fetch_tarot, args=(results,), name="Tarot")
     ]
 
     for t in threads:
@@ -41,6 +42,7 @@ def run() -> str:
                     <ul class="nav-links">
                         <li><a href="#astronomy">Astronomy</a></li>
                         <li><a href="#earth">Earth</a></li>
+                        <li><a href="#tarot">Tarot</a></li>
                         <li><a href="#tech">Tech News</a></li>
                         <li><a href="#papers">Papers</a></li>
                     </ul>
@@ -60,35 +62,62 @@ def run() -> str:
 
                 <!-- Content Grid -->
                 <div class="content-grid">
-                    <!-- APOD and Earth Observatory Row -->
-                    <div class="two-column">
+                    <!-- APOD, Earth Observatory, and Tarot Row -->
+                    <div class="three-column">
                         <!-- APOD Section -->
                         <section id="astronomy" class="card apod-card">
-                            <div class="card-header">
-                                <div class="card-icon">✨</div>
-                                <div>
-                                    <h2 class="card-title">Astronomy Picture of the Day</h2>
-                                    <p class="card-subtitle">NASA's daily cosmic wonder</p>
+                            <div class="card-media" id="apod-media"></div>
+                            <div class="card-content-wrapper">
+                                <div class="card-header">
+                                    <div class="card-icon">✨</div>
+                                    <div>
+                                        <h2 class="card-title">Astronomy Picture</h2>
+                                        <p class="card-subtitle">NASA's daily cosmic wonder</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="card-content">
-                                {results.get("apod", "<div style='text-align: center; color: #666;'>Failed to load APOD content</div>")}
+                                <div class="card-content" id="apod-content">
+                                    {results.get("apod", "<div style='text-align: center; color: #666;'>Failed to load APOD content</div>")}
+                                </div>
                             </div>
                         </section>
 
                         <!-- Earth Observatory -->
                         <section id="earth" class="card eo-card">
-                            <div class="card-header">
-                                <div class="card-icon">🌍</div>
-                                <div>
-                                    <h2 class="card-title">Earth Observatory</h2>
-                                    <p class="card-subtitle">Our planet from above</p>
+                            <div class="card-media" id="eo-media"></div>
+                            <div class="card-content-wrapper">
+                                <div class="card-header">
+                                    <div class="card-icon">🌍</div>
+                                    <div>
+                                        <h2 class="card-title">Earth Observatory</h2>
+                                        <p class="card-subtitle">Our planet from above</p>
+                                    </div>
+                                </div>
+                                <div class="card-content" id="eo-content">
+                                    {results.get("eo", "<div style='text-align: center; color: #666;'>Failed to load Earth Observatory content</div>")}
                                 </div>
                             </div>
-                            <div class="card-content">
-                                {results.get("eo", "<div style='text-align: center; color: #666;'>Failed to load Earth Observatory content</div>")}
+                        </section>
+
+                        <!-- Tarot Section -->
+                        <section id="tarot" class="card tarot-card">
+                            <div class="card-media" id="tarot-media"></div>
+                            <div class="card-content-wrapper">
+                                <div class="card-header">
+                                    <div class="card-icon">🔮</div>
+                                    <div>
+                                        <h2 class="card-title">Daily Tarot</h2>
+                                        <p class="card-subtitle">Your mystical guidance</p>
+                                    </div>
+                                </div>
+                                <div class="card-content" id="tarot-content">
+                                    {results.get("tarot", "<div style='text-align: center; color: #666;'>Failed to load Tarot content</div>")}
+                                </div>
                             </div>
                         </section>
+                        
+                        <!-- Navigation Arrows -->
+                        <button class="card-nav prev" onclick="prevCard()" aria-label="Previous card">‹</button>
+                        <button class="card-nav next" onclick="nextCard()" aria-label="Next card">›</button>
                     </div>
 
                     <!-- Hacker News Section -->
@@ -148,13 +177,16 @@ def run() -> str:
     return content
 
 def main():
-    logging.info("🚀 Generating local preview...")
+    # Setup main logger first before any other logging
+    main_logger = setup_logger("main")
+    main_logger.info("🚀 Generating local preview...")
+    
     content = run()
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(content)
     with open(f"archive/{datetime.now().strftime('%Y-%m-%d')}.html", "w", encoding="utf-8") as f:
         f.write(content)
-    logging.info(f"📄 Contents saved to 'index.html' and 'archive/{datetime.now().strftime('%Y-%m-%d')}.html'")
+    main_logger.info(f"📄 Contents saved to 'index.html' and 'archive/{datetime.now().strftime('%Y-%m-%d')}.html'")
 
 if __name__ == "__main__":
     os.makedirs("archive", exist_ok=True)
@@ -163,10 +195,7 @@ if __name__ == "__main__":
     os.makedirs("logs/apod", exist_ok=True)
     os.makedirs("logs/earthobservatory", exist_ok=True)
     os.makedirs("logs/hackernews", exist_ok=True)
+    os.makedirs("logs/tarot", exist_ok=True)
     os.makedirs("logs/huggingface", exist_ok=True)
 
-    main_logging = setup_logger("main")
-    # Redirect root logger to main_logging
-    logging.root.handlers = main_logging.handlers
-    logging.root.setLevel = main_logging.level
     main()

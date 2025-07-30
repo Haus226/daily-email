@@ -10,6 +10,7 @@ import re
 from utils import PaperInfo, setup_logger
 from typing import Dict
 import os
+import random
 
 OPENROUTER_API = os.getenv("OPENROUTER_API")
 
@@ -29,11 +30,7 @@ def fetch_apod(results: Dict[str, str]):
             media_tag = soup.find("video").find("source")
             is_video = True
         media_url = f"https://apod.nasa.gov/apod/{media_tag['src']}" if media_tag else ""
-        if is_video:
-            media_html = f'<video controls style="width: 100%; border-radius: 8px;"><source src="{media_url}"></video>'
-        else:
-            media_html = f'<img src="{media_url}" alt="APOD" style="width: 100%; border-radius: 8px;">'
-
+        
         explanation_raw = soup.find_all("p")[2].decode_contents()
         hr_pos = explanation_raw.find("<hr/>")
         explanation_raw = explanation_raw[:hr_pos] if hr_pos != -1 else explanation_raw
@@ -50,22 +47,20 @@ def fetch_apod(results: Dict[str, str]):
         logger.info("📥 [APOD] Title: %s", title)
         logger.info("🖼️ [APOD] Media URL: %s", media_url)
 
-        html = f"""
-        <div style='display: flex; flex-direction: column; gap: 15px; margin-bottom: 30px;'>
-            <!-- Centered: title + media + caption -->
-            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
-                <h3 style='margin: 0; color: #2c5282;'>✨ {title}</h3>
-                <div style="width: 100%; max-width: 600px;">
-                    {media_html}
-                </div>
-                <p style='font-size: 15px; color: #444;'>📌 NASA's Astronomy Picture of the Day</p>
-            </div>
+        # Create media element for JavaScript to extract
+        if is_video:
+            media_element = f'<video controls class="apod-media-element"><source src="{media_url}"></video>'
+        else:
+            media_element = f'<img src="{media_url}" alt="APOD" class="apod-media-element">'
 
-            <!-- Left-aligned explanation that expands fully -->
-            <div style="width: 100%;">
-                <p style='font-size: 16px; line-height: 1.6; margin: 0; text-align: left;'>
-                    {explanation}
-                </p>
+        html = f"""
+        <div style='display: flex; flex-direction: column; gap: 20px;'>
+            <div style='display: none;'>
+                {media_element}
+            </div>
+            <div>
+                <h3>{title}</h3>
+                <p>{explanation}</p>
             </div>
         </div>
         """
@@ -140,23 +135,16 @@ def fetch_eo(results: Dict[str, str]):
         logger.info("🖼️ [EO] Image URL: %s", media_url)
 
         html = f"""
-        <div style='display: flex; flex-direction: column; gap: 15px;'>
-            <!-- Centered block -->
-            <div style='display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px;'>
-                <h3 style='margin: 0; color: #2d5016;'>🌍 {title}</h3>
-                <div style='width: 100%; max-width: 600px;'>
-                    <img src='{media_url}' alt='Earth Observatory' style='width: 100%; border-radius: 8px;'>
-                </div>
-                <p style='font-size: 15px; color: #444; margin: 0;'>📌 {caption} <a href='{link}' target='_blank'>[Read more]</a></p>
+        <div style='display: flex; flex-direction: column; gap: 20px;'>
+            <div style='display: none;'>
+                <img src='{media_url}' alt='Earth Observatory' class='eo-media-element'>
             </div>
-
-            <!-- Full-width summary block (NOT inside centered container) -->
-            <div style='width: 100%; display: flex; justify-content: center;'>
-                <div style='background: #f0f8f0; padding: 12px; border-radius: 6px; border-left: 4px solid #2d5016; text-align: left; width: 100%;'>
-                    <p style='font-size: 18px; line-height: 1.5; margin: 0; color: #1a3a0d;'>
-                        <span style='font-weight: bold;'>🤖 AI Summary</span>
-                        <br>
-                        <span style='font-style: italic; font-size: 18px;'>{llm_summary}</span>
+            <div>
+                <h3>{title}</h3>
+                <p>{caption} <a href='{link}' target='_blank'>[Read more]</a></p>
+                <div style='background: #f0f8f0; padding: 15px; border-radius: 8px; border-left: 4px solid #2d5016; margin-top: 20px;'>
+                    <p>
+                        <strong>🤖 AI Summary:</strong> {llm_summary}
                     </p>
                 </div>
             </div>
@@ -382,3 +370,90 @@ def fetch_hf(results: Dict[str, str]):
         logger.info("❌ [HF] Something wrong, no papers fetched...\n")
 
     results["hf"] = html
+
+def fetch_tarot(results: Dict[str, str]):
+    logger = setup_logger("tarot")
+    logger.info("🚀 [TAROT] Starting to fetch Tarot Card of the Day")
+    try:
+        # Use date as seed for consistent daily card
+        random.seed(datetime.now().strftime("%Y%m%d"))
+        
+        # Load tarot cards from JSON file
+        with open("tarot.json", "r", encoding="utf-8") as f:
+            cards_data = json.load(f)
+        
+        card = random.choice(cards_data["cards"])
+        name = card["name"]
+        meaning = card["meaning_up"]
+        desc = card.get("desc", "")
+        image_url = card.get("image", "")
+        
+        logger.info("📥 [TAROT] Card: %s", name)
+        
+        # Generate AI guidance - shorter
+        prompt = f"""
+        You are a warm and uplifting tarot advisor. The user has drawn the "{name}" tarot card.
+        Card Meaning: "{meaning}"
+        Card Description: "{desc}"
+        Write a short, encouraging 1-2 sentence daily guidance inspired by this card. Make it supportive and hopeful.
+        Keep it very concise and heartfelt.
+        """
+
+        try:
+            res = requests.post(
+                url="https://openrouter.ai/api/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {OPENROUTER_API}",
+                    "Content-Type": "application/json"
+                },
+                data=json.dumps({
+                    "model": "mistralai/mistral-nemo:free",
+                    "messages": [{"role": "user", "content": prompt}]
+                }),
+                timeout=10
+            )
+            guidance = res.json().get("choices", [{}])[0].get("message", {}).get("content", "Trust in your inner wisdom today.").strip()
+            logger.info("🤖 [TAROT] Guidance generated successfully")
+        except Exception as e:
+            logger.error("❌ [TAROT] Failed to generate guidance: %s", e)
+            guidance = "Trust in your inner wisdom today."
+
+        html = f"""
+        <div style='display: flex; flex-direction: column; gap: 20px;'>
+            <div style='display: none;'>
+                <div class='tarot-card-container tarot-media-element'>
+                    <div class='tarot-card' onclick='this.style.transform = this.style.transform.includes("rotateY(180deg)") ? "rotateY(0deg)" : "rotateY(180deg)"'>
+                        <div>
+                            <div style='font-size: 2.5rem; color: #d4af37; text-align: center; line-height: 1.2;'>
+                                🔮<br>
+                                <span style='font-size: 0.8rem; letter-spacing: 2px; font-weight: normal;'>DAILY TAROT</span><br>
+                                <span style='font-size: 0.6rem; opacity: 0.8;'>Click to Reveal</span>
+                            </div>
+                        </div>
+                        <div>
+                            <img src='https://raw.githubusercontent.com/Haus226/daily-email/refs/heads/main/{image_url}' alt='{name}' />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <h3>{name}</h3>                
+                <div style='background: linear-gradient(135deg, #ffeaa7, #fdcb6e); padding: 5px; border-radius: 12px; border-left: 4px solid #e17055; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);'>
+                    <div style='font-weight: bold; color: #2d3436; margin-bottom: 5px; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 1px;'>✨ Core Meaning</div>
+                    <p style='margin: 0; color: #2d3436; line-height: 1.5; font-size: 1.0rem;'>{meaning}</p>
+                </div>
+                <div style='background: linear-gradient(135deg, #ddd6fe, #c4b5fd); padding: 5px; border-radius: 12px; border-left: 4px solid #8b5cf6; box-shadow: 0 4px 15px rgba(0,0,0,0.1);'>
+                    <div style='font-weight: bold; color: #2d3436; margin-bottom: 5px; font-size: 1.4rem; text-transform: uppercase; letter-spacing: 1px;'>🔍 Daily Guidance</div>
+                    <p style='margin: 0; color: #2d3436; line-height: 1.6; font-size: 1.3rem; font-weight: 500;'>{guidance}</p>
+                </div>
+    
+            </div>
+        </div>
+        """
+        
+        results["tarot"] = html
+        logger.info("✅ [TAROT] Successfully fetched.\n")
+        
+    except Exception as e:
+        logger.error("❌ [TAROT] Failed to fetch: %s\n", e)
+        results["tarot"] = "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 Failed to load Tarot Card of the Day</div>"
