@@ -26,3 +26,11 @@ INFO     2025-07-29 15:30:45 [scraper.py:139] 📥 [EO] Title: The Enigmatic Ech
 INFO     2025-07-29 15:30:45 [scraper.py:140] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154610/echimamish_oli2_20250523_th.jpg
 INFO     2025-07-29 15:30:45 [scraper.py:167] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-30 02:25:34 [scraper.py:116] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-30 02:25:35 [scraper.py:81] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-30 02:25:49 [scraper.py:104] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-30 02:25:49 [scraper.py:106] 🤖 [EO] Cleaned LLM summary: The July 2025 NASA Earth Observatory image, acquired by Landsat 8 on June 14, 2025, highlights Iceland's Múlajökull surge-type glacier, which flows from Hofsjökull ice cap. Surge-type glaciers like Múlajökull experience periodic rapid ice flow (surged eight times since 1924) interspersed with quiescent phases; in 2025, it was retreating. The glacier's historical surges formed terminal moraines, with the outermost dating to 1717–1760, and its retreat revealed a rare drumlin field—elongated hills shaped by glacial erosion, not sediment deposition, as suggested by Neal Iversons research. Varying lake colors between drumlins, noted by Natasha Lee, reflect sediment concentration: proximal brown lakes (high sediment) from meltwater, distal blue lakes (lower sediment), and green exceptions due to algae or brown lakes fed by proglacial streams.
+INFO     2025-07-30 02:25:49 [scraper.py:139] 📥 [EO] Title: Múlajökull Glacier and Its Palette of Lakes
+INFO     2025-07-30 02:25:49 [scraper.py:140] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154613/mulajokullzm_oli_20250614_th.jpg
+INFO     2025-07-30 02:25:49 [scraper.py:167] ✅ [EO] Successfully fetched.
+
