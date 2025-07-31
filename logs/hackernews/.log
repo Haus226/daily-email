@@ -262,3 +262,36 @@ INFO     2025-07-30 10:24:19 [scraper.py:172] 🔗 [HN #10] URL: http://a64.in/p
 INFO     2025-07-30 10:24:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-07-30 10:24:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-07-31 02:24:49 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-31 02:24:49 [scraper.py:171] 📥 [HN #1] Fast
+INFO     2025-07-31 02:24:49 [scraper.py:172] 🔗 [HN #1] URL: https://www.catherinejue.com/fast
+INFO     2025-07-31 02:24:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #2] Ollama's new app
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #2] URL: https://ollama.com/blog/new-app
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #3] Figma will IPO on July 31
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #3] URL: https://www.figma.com/blog/ipo-pricing/
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #4] The math is haunted
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #4] URL: https://overreacted.io/the-math-is-haunted/
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #5] Classic CDE (Common Desktop Environment) Coming to OpenBSD
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #5] URL: https://undeadly.org/cgi?action=article;sid=20250730080301
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #6] Vibe code is legacy code
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #6] URL: https://blog.val.town/vibe-code
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #7] Optician Sans – A free font based on historical eye charts and optotypes
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #7] URL: https://optician-sans.com/
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #8] Early universe's 'little red dots' may be black hole stars
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #8] URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-07-31 02:24:50 [scraper.py:171] 📥 [HN #9] Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India
+INFO     2025-07-31 02:24:50 [scraper.py:172] 🔗 [HN #9] URL: https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai
+INFO     2025-07-31 02:24:50 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-07-31 02:24:51 [scraper.py:171] 📥 [HN #10] Pentagon Pizza Index
+INFO     2025-07-31 02:24:51 [scraper.py:172] 🔗 [HN #10] URL: https://www.pizzint.watch/
+INFO     2025-07-31 02:24:51 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-07-31 02:24:51 [scraper.py:179] 🎉 [HN] All done.
+
