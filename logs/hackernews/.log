@@ -295,3 +295,36 @@ INFO     2025-07-31 02:24:51 [scraper.py:172] 🔗 [HN #10] URL: https://www.piz
 INFO     2025-07-31 02:24:51 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-07-31 02:24:51 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-07-31 05:32:29 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #1] Fast
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #1] URL: https://www.catherinejue.com/fast
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #2] Classic Common Desktop Environment coming to OpenBSD
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #2] URL: https://undeadly.org/cgi?action=article;sid=20250730080301
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #3] Figma will IPO on July 31
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #3] URL: https://www.figma.com/blog/ipo-pricing/
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #4] Ollama's new app
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #4] URL: https://ollama.com/blog/new-app
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #5] Stargate Norway
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #5] URL: https://openai.com/index/introducing-stargate-norway/
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-07-31 05:32:30 [scraper.py:171] 📥 [HN #6] You know what: Microsoft became miserably incompetent in IT
+INFO     2025-07-31 05:32:30 [scraper.py:172] 🔗 [HN #6] URL: https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/
+INFO     2025-07-31 05:32:30 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-07-31 05:32:31 [scraper.py:171] 📥 [HN #7] The math is haunted
+INFO     2025-07-31 05:32:31 [scraper.py:172] 🔗 [HN #7] URL: https://overreacted.io/the-math-is-haunted/
+INFO     2025-07-31 05:32:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-07-31 05:32:31 [scraper.py:171] 📥 [HN #8] Vibe code is legacy code
+INFO     2025-07-31 05:32:31 [scraper.py:172] 🔗 [HN #8] URL: https://blog.val.town/vibe-code
+INFO     2025-07-31 05:32:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-07-31 05:32:31 [scraper.py:171] 📥 [HN #9] Tracking source locations in the Futhark compiler
+INFO     2025-07-31 05:32:31 [scraper.py:172] 🔗 [HN #9] URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html
+INFO     2025-07-31 05:32:31 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-07-31 05:32:31 [scraper.py:171] 📥 [HN #10] 150 years of Hans Christian Andersen
+INFO     2025-07-31 05:32:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen
+INFO     2025-07-31 05:32:31 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-07-31 05:32:31 [scraper.py:179] 🎉 [HN] All done.
+
