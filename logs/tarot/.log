@@ -18,3 +18,8 @@ INFO     2025-07-31 05:32:29 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
 INFO     2025-07-31 05:32:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-07-31 05:32:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-07-31 10:24:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-31 10:24:38 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-31 10:24:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-31 10:24:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

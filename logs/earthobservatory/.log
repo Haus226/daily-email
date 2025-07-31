@@ -70,3 +70,11 @@ INFO     2025-07-31 05:32:53 [scraper.py:134] 📥 [EO] Title: Advanced U.S.-Ind
 INFO     2025-07-31 05:32:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154617/nisarlaunch_photo_th.jpg
 INFO     2025-07-31 05:32:53 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-07-31 10:24:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-07-31 10:24:38 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-07-31 10:24:58 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-07-31 10:24:58 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: NISAR (NASA-ISRO Synthetic Aperture Radar), jointly developed by NASA and ISRO, launched July 30, 2025, from India's Satish Dhawan Space Centre aboard a GSLV rocket. Operating at 747 km altitude, it uses dual radar instruments to produce 3D Earth surface imagery with centimeter-level precision for monitoring ecosystems, ice deformation, crust displacement (linked to seismic and volcanic activity), and disaster management. Equipped to penetrate clouds and function in darkness, the mission will systematically scan land and ice surfaces twice every 12 days. Post-launch communications were established successfully, with a 90-day commissioning phase planned for antenna deployment and system calibration.
+INFO     2025-07-31 10:24:58 [scraper.py:134] 📥 [EO] Title: Advanced U.S.-India Radar Mission Lifts Off
+INFO     2025-07-31 10:24:58 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154617/nisarlaunch_photo_th.jpg
+INFO     2025-07-31 10:24:58 [scraper.py:155] ✅ [EO] Successfully fetched.
+

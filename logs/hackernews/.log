@@ -328,3 +328,36 @@ INFO     2025-07-31 05:32:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.new
 INFO     2025-07-31 05:32:31 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-07-31 05:32:31 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-07-31 10:24:38 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-07-31 10:24:38 [scraper.py:171] 📥 [HN #1] Attention is your scarcest resource (2020)
+INFO     2025-07-31 10:24:38 [scraper.py:172] 🔗 [HN #1] URL: https://www.benkuhn.net/attention/
+INFO     2025-07-31 10:24:38 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-07-31 10:24:38 [scraper.py:171] 📥 [HN #2] Fast
+INFO     2025-07-31 10:24:38 [scraper.py:172] 🔗 [HN #2] URL: https://www.catherinejue.com/fast
+INFO     2025-07-31 10:24:38 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-07-31 10:24:38 [scraper.py:171] 📥 [HN #3] The Math Is Haunted
+INFO     2025-07-31 10:24:38 [scraper.py:172] 🔗 [HN #3] URL: https://overreacted.io/the-math-is-haunted/
+INFO     2025-07-31 10:24:38 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #4] Ollama's new app
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #4] URL: https://ollama.com/blog/new-app
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #5] Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/dipampaul17/AgentGuard
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #6] 150 years of Hans Christian Andersen
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #6] URL: https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #7] Figma will IPO on July 31
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #7] URL: https://www.figma.com/blog/ipo-pricing/
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #8] Tracking source locations in the Futhark compiler
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #8] URL: https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #9] A Quantum Gravimeter for GPS Backup
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #9] URL: https://spectrum.ieee.org/quantum-gravity-sensor
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:171] 📥 [HN #10] Vibe code is legacy code
+INFO     2025-07-31 10:24:39 [scraper.py:172] 🔗 [HN #10] URL: https://blog.val.town/vibe-code
+INFO     2025-07-31 10:24:39 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-07-31 10:24:39 [scraper.py:179] 🎉 [HN] All done.
+
