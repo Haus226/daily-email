@@ -427,3 +427,36 @@ INFO     2025-08-01 05:34:57 [scraper.py:172] 🔗 [HN #10] URL: https://artific
 INFO     2025-08-01 05:34:57 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-01 05:34:57 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-01 10:24:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-01 10:24:34 [scraper.py:171] 📥 [HN #1] Every satellite orbiting earth and who owns them (2023)
+INFO     2025-08-01 10:24:34 [scraper.py:172] 🔗 [HN #1] URL: https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them
+INFO     2025-08-01 10:24:34 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-01 10:24:34 [scraper.py:171] 📥 [HN #2] You might not need tmux
+INFO     2025-08-01 10:24:34 [scraper.py:172] 🔗 [HN #2] URL: https://bower.sh/you-might-not-need-tmux
+INFO     2025-08-01 10:24:34 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #3] Slow
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #3] URL: https://michaelnotebook.com/slow/index.html
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #4] Releasing weights for FLUX.1 Krea
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #4] URL: https://www.krea.ai/blog/flux-krea-open-source-release
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #5] The anti-abundance critique on housing is wrong
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #5] URL: https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #6] PHP-ORT: Machine learning inference for the web
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #6] URL: https://krakjoe.github.io/ort/
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #7] QUIC for the kernel
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #7] URL: https://lwn.net/Articles/1029851/
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #8] MacBook Pro Insomnia
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #8] URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-01 10:24:35 [scraper.py:171] 📥 [HN #9] Ubiquiti launches UniFi OS Server for self-hosting
+INFO     2025-08-01 10:24:35 [scraper.py:172] 🔗 [HN #9] URL: https://lazyadmin.nl/home-network/unifi-os-server/
+INFO     2025-08-01 10:24:35 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-01 10:24:36 [scraper.py:171] 📥 [HN #10] Gemini Embedding: Powering RAG and context engineering
+INFO     2025-08-01 10:24:36 [scraper.py:172] 🔗 [HN #10] URL: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/
+INFO     2025-08-01 10:24:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-01 10:24:36 [scraper.py:179] 🎉 [HN] All done.
+
