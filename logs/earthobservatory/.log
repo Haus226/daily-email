@@ -78,3 +78,9 @@ INFO     2025-07-31 10:24:58 [scraper.py:134] 📥 [EO] Title: Advanced U.S.-Ind
 INFO     2025-07-31 10:24:58 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154617/nisarlaunch_photo_th.jpg
 INFO     2025-07-31 10:24:58 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-01 02:36:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-01 02:36:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-01 02:37:34 [scraper.py:134] 📥 [EO] Title: Monroe Canyon Fire Intensifies
+INFO     2025-08-01 02:37:34 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154620/utahfire_amo_20250728_th.jpg
+INFO     2025-08-01 02:37:34 [scraper.py:155] ✅ [EO] Successfully fetched.
+
