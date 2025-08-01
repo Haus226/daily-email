@@ -84,3 +84,11 @@ INFO     2025-08-01 02:37:34 [scraper.py:134] 📥 [EO] Title: Monroe Canyon Fir
 INFO     2025-08-01 02:37:34 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154620/utahfire_amo_20250728_th.jpg
 INFO     2025-08-01 02:37:34 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-01 05:34:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-01 05:34:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-01 05:35:08 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-01 05:35:08 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Monroe Canyon fire in central Utah, fueled by extreme weather including high winds and low fuel moistures, rapidly expanded from July 25 to July 31, 2025, growing from initial size to 45,964 acres (18,600 hectares) with 11% containment. NASA satellites captured images highlighting active burning areas and smoke plumes, while the USDA Forest Service noted reduced fire intensity near previously treated zones where prescribed burns and thinning occurred, aiding local firefighting containment efforts.
+INFO     2025-08-01 05:35:08 [scraper.py:134] 📥 [EO] Title: Monroe Canyon Fire Intensifies
+INFO     2025-08-01 05:35:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154620/utahfire_amo_20250728_th.jpg
+INFO     2025-08-01 05:35:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+

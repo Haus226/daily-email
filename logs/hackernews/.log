@@ -394,3 +394,36 @@ INFO     2025-08-01 02:36:35 [scraper.py:172] 🔗 [HN #10] URL: https://develop
 INFO     2025-08-01 02:36:35 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-01 02:36:35 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-01 05:34:54 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-01 05:34:55 [scraper.py:171] 📥 [HN #1] Slow
+INFO     2025-08-01 05:34:55 [scraper.py:172] 🔗 [HN #1] URL: https://michaelnotebook.com/slow/index.html
+INFO     2025-08-01 05:34:55 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-01 05:34:55 [scraper.py:171] 📥 [HN #2] Mountain of Ink
+INFO     2025-08-01 05:34:55 [scraper.py:172] 🔗 [HN #2] URL: https://mountainofink.com
+INFO     2025-08-01 05:34:55 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-01 05:34:55 [scraper.py:171] 📥 [HN #3] Releasing weights for FLUX.1 Krea
+INFO     2025-08-01 05:34:55 [scraper.py:172] 🔗 [HN #3] URL: https://www.krea.ai/blog/flux-krea-open-source-release
+INFO     2025-08-01 05:34:55 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #4] The anti-abundance critique on housing is wrong
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #4] URL: https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #5] QUIC for the kernel
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #5] URL: https://lwn.net/Articles/1029851/
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #6] Ubiquiti launches UniFi OS Server for self-hosting
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #6] URL: https://lazyadmin.nl/home-network/unifi-os-server/
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #7] MacBook Pro Insomnia
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #7] URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #8] Gemini Embedding: Powering RAG and context engineering
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #8] URL: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-01 05:34:56 [scraper.py:171] 📥 [HN #9] Show HN: I made a website that makes you cry
+INFO     2025-08-01 05:34:56 [scraper.py:172] 🔗 [HN #9] URL: https://www.cryonceaweek.com
+INFO     2025-08-01 05:34:56 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-01 05:34:57 [scraper.py:171] 📥 [HN #10] LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others
+INFO     2025-08-01 05:34:57 [scraper.py:172] 🔗 [HN #10] URL: https://artificialanalysis.ai/leaderboards/models
+INFO     2025-08-01 05:34:57 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-01 05:34:57 [scraper.py:179] 🎉 [HN] All done.
+
