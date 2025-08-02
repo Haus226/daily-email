@@ -98,3 +98,11 @@ INFO     2025-08-01 10:25:14 [scraper.py:134] 📥 [EO] Title: Monroe Canyon Fir
 INFO     2025-08-01 10:25:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154620/utahfire_amo_20250728_th.jpg
 INFO     2025-08-01 10:25:14 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-02 02:19:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-02 02:19:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-02 02:19:26 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-02 02:19:26 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Iceberg A-23A, calved from Antarctica’s Filchner Ice Shelf ~40 years ago, is fragmenting as it drifts in the southern South Atlantic ~2,400 km north of its origin. After briefly grounding near South Georgia in March 2025, it resumed movement eastward by late May 2025, following currents similar to iceberg A-68A’s 2020 path. Exposure to warm water, waves, and seasonal weather accelerated its disintegration during austral winter, producing named fragments A-23D (159 km²) and A-23E (73 km²), confirmed via Sentinel-1 and NovaSAR-1 radar data. A-23A’s surface area was ~2,510 km² on July 22, 2025, retaining its status as the largest free-drifting iceberg globally despite losses. Increased daylight and northward drift are expected to further hasten calving events.
+INFO     2025-08-02 02:19:26 [scraper.py:134] 📥 [EO] Title: Antarctic Iceberg Downsizes
+INFO     2025-08-02 02:19:26 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154625/sgeorgia_iceberga23a_amo_20250722_th.jpg
+INFO     2025-08-02 02:19:26 [scraper.py:155] ✅ [EO] Successfully fetched.
+
