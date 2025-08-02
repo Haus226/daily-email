@@ -114,3 +114,11 @@ INFO     2025-08-02 05:28:28 [scraper.py:134] 📥 [EO] Title: Antarctic Iceberg
 INFO     2025-08-02 05:28:28 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154625/sgeorgia_iceberga23a_amo_20250722_th.jpg
 INFO     2025-08-02 05:28:28 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-02 10:21:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-02 10:21:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-02 10:21:54 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-02 10:21:54 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The massive iceberg A-23A, calved from Antarctica's Filchner Ice Shelf nearly 40 years prior, drifted northward in the southern South Atlantic Ocean approximately 2,400 kilometers from its origin by mid-2025. After temporarily grounding on the continental shelf near South Georgia in March 2025 and resuming drift by late May, it shed significant ice fragments due to warm water, waves, and seasonal weather. By July 22, 2025, two named fragments, A-23D (159 km²) and A-23E (73 km²), were identified via radar and visible satellite imagery. Despite losing mass, A-23A remained at 2,510 km² as the largest freely drifting iceberg globally, with further breakdown anticipated as it moves northward into longer daylight conditions.
+INFO     2025-08-02 10:21:54 [scraper.py:134] 📥 [EO] Title: Antarctic Iceberg Downsizes
+INFO     2025-08-02 10:21:54 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154625/sgeorgia_iceberga23a_amo_20250722_th.jpg
+INFO     2025-08-02 10:21:54 [scraper.py:155] ✅ [EO] Successfully fetched.
+

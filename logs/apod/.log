@@ -78,3 +78,8 @@ INFO     2025-08-02 05:28:14 [scraper.py:47] 📥 [APOD] Title: Fireflies, Meteo
 INFO     2025-08-02 05:28:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg
 INFO     2025-08-02 05:28:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-02 10:21:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-02 10:21:29 [scraper.py:47] 📥 [APOD] Title: Fireflies, Meteors, and Milky Way
+INFO     2025-08-02 10:21:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg
+INFO     2025-08-02 10:21:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
