@@ -559,3 +559,36 @@ INFO     2025-08-02 10:21:30 [scraper.py:172] 🔗 [HN #10] URL: https://www.qua
 INFO     2025-08-02 10:21:30 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-02 10:21:30 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-03 02:35:01 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-03 02:35:01 [scraper.py:171] 📥 [HN #1] C++26 Reflections adventures and compile-time UML
+INFO     2025-08-03 02:35:01 [scraper.py:172] 🔗 [HN #1] URL: https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
+INFO     2025-08-03 02:35:01 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-03 02:35:01 [scraper.py:171] 📥 [HN #2] Telo MT1
+INFO     2025-08-03 02:35:01 [scraper.py:172] 🔗 [HN #2] URL: https://www.telotrucks.com/
+INFO     2025-08-03 02:35:01 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #3] Helsinki records zero traffic deaths for full year
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #3] URL: https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #4] 6 weeks of Claude Code
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #4] URL: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #5] Remote hosting for your telescope
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #5] URL: https://www.sierra-remote.com/
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #6] Lina Khan points to Figma IPO as vindication of M&A scrutiny
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #6] URL: https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #7] HTML-in-Canvas
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/WICG/html-in-canvas
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #8] LangExtract: Python library for extracting structured data from language models
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/google/langextract
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #9] Ongoing Lean formalisation of the proof of Fermat's Last Theorem
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/ImperialCollegeLondon/FLT
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:171] 📥 [HN #10] Anandtech.com now redirects to its forums
+INFO     2025-08-03 02:35:02 [scraper.py:172] 🔗 [HN #10] URL: https://forums.anandtech.com/
+INFO     2025-08-03 02:35:02 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-03 02:35:02 [scraper.py:179] 🎉 [HN] All done.
+
