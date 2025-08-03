@@ -58,3 +58,8 @@ INFO     2025-08-03 02:35:01 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
 INFO     2025-08-03 02:35:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-03 02:35:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-03 05:32:08 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-03 05:32:08 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-08-03 05:32:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-03 05:32:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

@@ -128,3 +128,11 @@ INFO     2025-08-03 02:35:38 [scraper.py:134] 📥 [EO] Title: Sweeping Vistas A
 INFO     2025-08-03 02:35:38 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154632/iss073e0248539_th.jpg
 INFO     2025-08-03 02:35:38 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-03 05:32:08 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-03 05:32:08 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-03 05:33:10 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-03 05:33:10 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The article describes an astronaut-taken photograph of the Great Salt Lake from the International Space Station on June 13, 2025, showcasing distinct color variations due to salinity differences and algal species. Adjacent features include the Wasatch Range and the Bonneville Salt Flats, remnants of ancient Lake Bonneville, with the lake’s color contrast attributed to a railroad causeway dividing the more saline (red phytoplankton-dominated), northern arm from the less saline (green-blue algae-dominated), southern arm. The broader Great Basin Desert, visible in the image, spans Nevada, Utah, Oregon, California, and Idaho.
+INFO     2025-08-03 05:33:10 [scraper.py:134] 📥 [EO] Title: Sweeping Vistas Above the Great Salt Lake
+INFO     2025-08-03 05:33:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154632/iss073e0248539_th.jpg
+INFO     2025-08-03 05:33:10 [scraper.py:155] ✅ [EO] Successfully fetched.
+
