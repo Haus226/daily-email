@@ -136,3 +136,9 @@ INFO     2025-08-03 05:33:10 [scraper.py:134] 📥 [EO] Title: Sweeping Vistas A
 INFO     2025-08-03 05:33:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154632/iss073e0248539_th.jpg
 INFO     2025-08-03 05:33:10 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-03 10:21:39 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-03 10:21:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-03 10:22:16 [scraper.py:134] 📥 [EO] Title: Sweeping Vistas Above the Great Salt Lake
+INFO     2025-08-03 10:22:16 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154632/iss073e0248539_th.jpg
+INFO     2025-08-03 10:22:16 [scraper.py:155] ✅ [EO] Successfully fetched.
+

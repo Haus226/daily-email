@@ -625,3 +625,36 @@ INFO     2025-08-03 05:32:08 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-08-03 05:32:08 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-03 05:32:08 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-03 10:21:39 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-03 10:21:40 [scraper.py:171] 📥 [HN #1] Twenty Eighth International Obfuscated C Code Contest
+INFO     2025-08-03 10:21:40 [scraper.py:172] 🔗 [HN #1] URL: https://www.ioccc.org/2024/index.html
+INFO     2025-08-03 10:21:40 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-03 10:21:40 [scraper.py:171] 📥 [HN #2] A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop
+INFO     2025-08-03 10:21:40 [scraper.py:172] 🔗 [HN #2] URL: http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
+INFO     2025-08-03 10:21:40 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-03 10:21:40 [scraper.py:171] 📥 [HN #3] Helsinki records zero traffic deaths for full year
+INFO     2025-08-03 10:21:40 [scraper.py:172] 🔗 [HN #3] URL: https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
+INFO     2025-08-03 10:21:40 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-03 10:21:40 [scraper.py:171] 📥 [HN #4] Self-Employed, Self-Exhausted
+INFO     2025-08-03 10:21:40 [scraper.py:172] 🔗 [HN #4] URL: https://theisolationjournals.substack.com/p/self-employed-self-exhausted
+INFO     2025-08-03 10:21:40 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-03 10:21:40 [scraper.py:171] 📥 [HN #5] Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide
+INFO     2025-08-03 10:21:40 [scraper.py:172] 🔗 [HN #5] URL: https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
+INFO     2025-08-03 10:21:40 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:171] 📥 [HN #6] Micron rolls out 276-layer SSD trio for speed, scale, and stability
+INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #6] URL: https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/
+INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:171] 📥 [HN #7] Telo MT1
+INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #7] URL: https://www.telotrucks.com/
+INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:171] 📥 [HN #8] C++26 Reflections adventures and compile-time UML
+INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #8] URL: https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
+INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:171] 📥 [HN #9] People still use our old-fashioned Unix login servers
+INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #9] URL: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
+INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:171] 📥 [HN #10] 6 weeks of Claude Code
+INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #10] URL: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
+INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-03 10:21:41 [scraper.py:179] 🎉 [HN] All done.
+
