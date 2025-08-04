@@ -3989,3 +3989,140 @@ INFO     2025-08-03 10:21:42 [scraper.py:293] 📄 [HF_TRENDING #15] Done🧾
 INFO     2025-08-03 10:21:42 [scraper.py:294] 🎉 [HF_TRENDING] All done - 11 papers found.
 INFO     2025-08-03 10:21:42 [scraper.py:367] ✅ [HF] Successfully fetched (37) Hugging Face papers.
 
+INFO     2025-08-04 02:34:21 [scraper.py:192] 🚀 [HF_DAILY] Starting to fetch Hugging Face Daily Papers
+INFO     2025-08-04 02:34:21 [scraper.py:195] 🚀 [HF_WEEKLY] Starting to fetch Hugging Face Weekly Papers
+INFO     2025-08-04 02:34:21 [scraper.py:198] 🚀 [HF_MONTHLY] Starting to fetch Hugging Face Monthly Papers
+INFO     2025-08-04 02:34:21 [scraper.py:201] 🚀 [HF_TRENDING] Starting to fetch Hugging Face Trending Papers
+INFO     2025-08-04 02:34:22 [scraper.py:235] 📥 [HF_WEEKLY #1] PixNerd: Pixel Neural Field Diffusion
+INFO     2025-08-04 02:34:22 [scraper.py:236] 🔗 [HF_WEEKLY #1] Page URL: https://huggingface.co/papers/2507.23268
+INFO     2025-08-04 02:34:22 [scraper.py:220] 🔁 [HF_DAILY #1] Skipping already visited paper: PixNerd: Pixel Neural Field Diffusion
+INFO     2025-08-04 02:34:22 [scraper.py:235] 📥 [HF_DAILY #2] Multimodal Referring Segmentation: A Survey
+INFO     2025-08-04 02:34:22 [scraper.py:236] 🔗 [HF_DAILY #2] Page URL: https://huggingface.co/papers/2508.00265
+INFO     2025-08-04 02:34:22 [scraper.py:235] 📥 [HF_MONTHLY #1] Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving
+INFO     2025-08-04 02:34:22 [scraper.py:236] 🔗 [HF_MONTHLY #1] Page URL: https://huggingface.co/papers/2507.23726
+INFO     2025-08-04 02:34:22 [scraper.py:239] 🔗 [HF_WEEKLY #1] Fetching paper details...
+ERROR    2025-08-04 02:34:22 [scraper.py:296] ❌ [HF_WEEKLY #%d] Failed: 'NoneType' object has no attribute 'text'
+INFO     2025-08-04 02:34:22 [scraper.py:239] 🔗 [HF_DAILY #2] Fetching paper details...
+INFO     2025-08-04 02:34:22 [scraper.py:293] 📄 [HF_DAILY #2] Done🧾
+INFO     2025-08-04 02:34:22 [scraper.py:294] 🎉 [HF_DAILY] All done - 1 papers found.
+INFO     2025-08-04 02:34:22 [scraper.py:235] 📥 [HF_TRENDING #1] HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D
+  Worlds from Words or Pixels
+INFO     2025-08-04 02:34:22 [scraper.py:236] 🔗 [HF_TRENDING #1] Page URL: https://huggingface.co/papers/2507.21809
+INFO     2025-08-04 02:34:22 [scraper.py:239] 🔗 [HF_MONTHLY #1] Fetching paper details...
+INFO     2025-08-04 02:34:22 [scraper.py:262] 🔗 [HF_MONTHLY #1] GitHub: https://github.com/ByteDance-Seed/Seed-Prover
+INFO     2025-08-04 02:34:22 [scraper.py:235] 📥 [HF_MONTHLY #2] Phi-Ground Tech Report: Advancing Perception in GUI Grounding
+INFO     2025-08-04 02:34:22 [scraper.py:236] 🔗 [HF_MONTHLY #2] Page URL: https://huggingface.co/papers/2507.23779
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_TRENDING #1] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_TRENDING #1] GitHub: https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_TRENDING #2] WebDancer: Towards Autonomous Information Seeking Agency
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_TRENDING #2] Page URL: https://huggingface.co/papers/2505.22648
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_MONTHLY #2] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_MONTHLY #2] GitHub: https://github.com/zhangmiaosen2000/Phi-Ground
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_MONTHLY #3] iLRM: An Iterative Large 3D Reconstruction Model
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_MONTHLY #3] Page URL: https://huggingface.co/papers/2507.23277
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_MONTHLY #3] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_MONTHLY #3] GitHub: https://github.com/Gynjn/iLRM
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_MONTHLY #4] RecGPT Technical Report
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_MONTHLY #4] Page URL: https://huggingface.co/papers/2507.22879
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_TRENDING #2] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_TRENDING #2] GitHub: https://github.com/Alibaba-NLP/WebAgent
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_TRENDING #3] ScreenCoder: Advancing Visual-to-Code Generation for Front-End
+  Automation via Modular Multimodal Agents
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_TRENDING #3] Page URL: https://huggingface.co/papers/2507.22827
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_MONTHLY #4] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_MONTHLY #5] villa-X: Enhancing Latent Action Modeling in Vision-Language-Action
+  Models
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_MONTHLY #5] Page URL: https://huggingface.co/papers/2507.23682
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_TRENDING #3] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_TRENDING #3] GitHub: https://github.com/leigest519/ScreenCoder
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_TRENDING #4] WebShaper: Agentically Data Synthesizing via Information-Seeking
+  Formalization
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_TRENDING #4] Page URL: https://huggingface.co/papers/2507.15061
+INFO     2025-08-04 02:34:23 [scraper.py:239] 🔗 [HF_TRENDING #4] Fetching paper details...
+INFO     2025-08-04 02:34:23 [scraper.py:262] 🔗 [HF_TRENDING #4] GitHub: https://github.com/Alibaba-NLP/WebWalker
+INFO     2025-08-04 02:34:23 [scraper.py:235] 📥 [HF_TRENDING #5] WebSailor: Navigating Super-human Reasoning for Web Agent
+INFO     2025-08-04 02:34:23 [scraper.py:236] 🔗 [HF_TRENDING #5] Page URL: https://huggingface.co/papers/2507.02592
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_TRENDING #5] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_TRENDING #5] GitHub: https://github.com/Alibaba-NLP/WebAgent/
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_TRENDING #6] LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_TRENDING #6] Page URL: https://huggingface.co/papers/2403.13372
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_MONTHLY #5] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_MONTHLY #5] GitHub: https://github.com/microsoft/villa-x/
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_MONTHLY #6] C3: A Bilingual Benchmark for Spoken Dialogue Models Exploring
+  Challenges in Complex Conversations
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_MONTHLY #6] Page URL: https://huggingface.co/papers/2507.22968
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_MONTHLY #6] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_MONTHLY #6] GitHub: https://github.com/step-out/C3
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_MONTHLY #7] Persona Vectors: Monitoring and Controlling Character Traits in Language
+  Models
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_MONTHLY #7] Page URL: https://huggingface.co/papers/2507.21509
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_TRENDING #6] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_TRENDING #6] GitHub: https://github.com/hiyouga/LLaMA-Factory
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_TRENDING #7] X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image
+  Generative Models Great Again
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_TRENDING #7] Page URL: https://huggingface.co/papers/2507.22058
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_MONTHLY #7] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_MONTHLY #7] GitHub: https://github.com/safety-research/persona_vectors/tree/main
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_MONTHLY #8] Scalable Multi-Task Reinforcement Learning for Generalizable Spatial
+  Intelligence in Visuomotor Agents
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_MONTHLY #8] Page URL: https://huggingface.co/papers/2507.23698
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_TRENDING #7] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_TRENDING #7] GitHub: https://github.com/X-Omni-Team/X-Omni
+INFO     2025-08-04 02:34:24 [scraper.py:220] 🔁 [HF_TRENDING #8] Skipping already visited paper: villa-X: Enhancing Latent Action Modeling in Vision-Language-Action
+  Models
+INFO     2025-08-04 02:34:24 [scraper.py:220] 🔁 [HF_TRENDING #9] Skipping already visited paper: Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_TRENDING #10] A Survey of Context Engineering for Large Language Models
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_TRENDING #10] Page URL: https://huggingface.co/papers/2507.13334
+INFO     2025-08-04 02:34:24 [scraper.py:239] 🔗 [HF_MONTHLY #8] Fetching paper details...
+INFO     2025-08-04 02:34:24 [scraper.py:262] 🔗 [HF_MONTHLY #8] GitHub: https://github.com/CraftJarvis/ROCKET-3
+INFO     2025-08-04 02:34:24 [scraper.py:235] 📥 [HF_MONTHLY #9] NeRF Is a Valuable Assistant for 3D Gaussian Splatting
+INFO     2025-08-04 02:34:24 [scraper.py:236] 🔗 [HF_MONTHLY #9] Page URL: https://huggingface.co/papers/2507.23374
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #9] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_MONTHLY #10] TARS: MinMax Token-Adaptive Preference Strategy for Hallucination
+  Reduction in MLLMs
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_MONTHLY #10] Page URL: https://huggingface.co/papers/2507.21584
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_TRENDING #10] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_TRENDING #10] GitHub: https://github.com/Meirtz/Awesome-Context-Engineering
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_TRENDING #11] Qwen3 Technical Report
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_TRENDING #11] Page URL: https://huggingface.co/papers/2505.09388
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #10] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_MONTHLY #10] GitHub: https://github.com/KejiaZhang-Robust/TARS
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_MONTHLY #11] AgroBench: Vision-Language Model Benchmark in Agriculture
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_MONTHLY #11] Page URL: https://huggingface.co/papers/2507.20519
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #11] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_MONTHLY #11] GitHub: https://github.com/dahlian00/AgroBench/tree/main
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_MONTHLY #12] On the Expressiveness of Softmax Attention: A Recurrent Neural Network
+  Perspective
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_MONTHLY #12] Page URL: https://huggingface.co/papers/2507.23632
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_TRENDING #11] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_TRENDING #11] GitHub: https://github.com/QwenLM/Qwen3
+INFO     2025-08-04 02:34:25 [scraper.py:220] 🔁 [HF_TRENDING #12] Skipping already visited paper: Persona Vectors: Monitoring and Controlling Character Traits in Language
+  Models
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_TRENDING #13] One-Minute Video Generation with Test-Time Training
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_TRENDING #13] Page URL: https://huggingface.co/papers/2504.05298
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #12] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_MONTHLY #12] GitHub: https://github.com/gmongaras/On-the-Expressiveness-of-Softmax-Attention-A-Recurrent-Neural-Network-Perspective
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_MONTHLY #13] Beyond Linear Bottlenecks: Spline-Based Knowledge Distillation for
+  Culturally Diverse Art Style Classification
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_MONTHLY #13] Page URL: https://huggingface.co/papers/2507.23436
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_TRENDING #13] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:262] 🔗 [HF_TRENDING #13] GitHub: https://github.com/test-time-training/ttt-video-dit
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_TRENDING #14] Agentic Reinforced Policy Optimization
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_TRENDING #14] Page URL: https://huggingface.co/papers/2507.19849
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #13] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:220] 🔁 [HF_MONTHLY #14] Skipping already visited paper: PixNerd: Pixel Neural Field Diffusion
+INFO     2025-08-04 02:34:25 [scraper.py:235] 📥 [HF_MONTHLY #15] Flow Equivariant Recurrent Neural Networks
+INFO     2025-08-04 02:34:25 [scraper.py:236] 🔗 [HF_MONTHLY #15] Page URL: https://huggingface.co/papers/2507.14793
+INFO     2025-08-04 02:34:25 [scraper.py:239] 🔗 [HF_MONTHLY #15] Fetching paper details...
+INFO     2025-08-04 02:34:25 [scraper.py:293] 📄 [HF_MONTHLY #15] Done🧾
+INFO     2025-08-04 02:34:25 [scraper.py:294] 🎉 [HF_MONTHLY] All done - 14 papers found.
+INFO     2025-08-04 02:34:26 [scraper.py:239] 🔗 [HF_TRENDING #14] Fetching paper details...
+INFO     2025-08-04 02:34:26 [scraper.py:262] 🔗 [HF_TRENDING #14] GitHub: https://github.com/dongguanting/ARPO
+INFO     2025-08-04 02:34:26 [scraper.py:235] 📥 [HF_TRENDING #15] Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving
+INFO     2025-08-04 02:34:26 [scraper.py:236] 🔗 [HF_TRENDING #15] Page URL: https://huggingface.co/papers/2507.06229
+INFO     2025-08-04 02:34:26 [scraper.py:239] 🔗 [HF_TRENDING #15] Fetching paper details...
+INFO     2025-08-04 02:34:26 [scraper.py:262] 🔗 [HF_TRENDING #15] GitHub: https://github.com/OPPO-PersonalAI/Agent-KB
+INFO     2025-08-04 02:34:26 [scraper.py:293] 📄 [HF_TRENDING #15] Done🧾
+INFO     2025-08-04 02:34:26 [scraper.py:294] 🎉 [HF_TRENDING] All done - 12 papers found.
+INFO     2025-08-04 02:34:26 [scraper.py:367] ✅ [HF] Successfully fetched (28) Hugging Face papers.
+

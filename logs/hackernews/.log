@@ -658,3 +658,36 @@ INFO     2025-08-03 10:21:41 [scraper.py:172] 🔗 [HN #10] URL: https://blog.pu
 INFO     2025-08-03 10:21:41 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-03 10:21:41 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-04 02:34:21 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #1] Typed languages are better suited for vibecoding
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #1] URL: https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #2] Modern Node.js Patterns
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #2] URL: https://kashw1n.com/blog/nodejs-2025/
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #3] Writing a good design document
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #3] URL: https://grantslatton.com/how-to-design-document
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #4] Persona vectors: Monitoring and controlling character traits in language models
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #4] URL: https://www.anthropic.com/research/persona-vectors
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #5] So you want to parse a PDF?
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #5] URL: https://eliot-jones.com/2025/8/pdf-parsing-xref
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #6] How to grow almost anything
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #6] URL: https://howtogrowalmostanything.notion.site/htgaa25
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-04 02:34:22 [scraper.py:171] 📥 [HN #7] If you're remote, ramble
+INFO     2025-08-04 02:34:22 [scraper.py:172] 🔗 [HN #7] URL: https://stephango.com/ramblings
+INFO     2025-08-04 02:34:22 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-04 02:34:23 [scraper.py:171] 📥 [HN #8] Life, Work, Death and the Peasant: Family Formation
+INFO     2025-08-04 02:34:23 [scraper.py:172] 🔗 [HN #8] URL: https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/
+INFO     2025-08-04 02:34:23 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-04 02:34:23 [scraper.py:171] 📥 [HN #9] Names are not type safety (2020)
+INFO     2025-08-04 02:34:23 [scraper.py:172] 🔗 [HN #9] URL: https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/
+INFO     2025-08-04 02:34:23 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-04 02:34:23 [scraper.py:171] 📥 [HN #10] Why doctors hate their computers (2018)
+INFO     2025-08-04 02:34:23 [scraper.py:172] 🔗 [HN #10] URL: https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers
+INFO     2025-08-04 02:34:23 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-04 02:34:23 [scraper.py:179] 🎉 [HN] All done.
+

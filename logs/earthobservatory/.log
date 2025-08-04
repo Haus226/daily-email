@@ -142,3 +142,11 @@ INFO     2025-08-03 10:22:16 [scraper.py:134] 📥 [EO] Title: Sweeping Vistas A
 INFO     2025-08-03 10:22:16 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154632/iss073e0248539_th.jpg
 INFO     2025-08-03 10:22:16 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-04 02:34:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-04 02:34:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-04 02:34:40 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-04 02:34:40 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The retreat and thinning of Alaska's Steller Glacier since the 1970s have altered the outflow of Berg Lake, a glacier-dammed lake. Landsat satellite imagery (2003 and 2024) shows the northern edge of the glacier’s terminus receding, abandoning the historic southwestern drainage gorgeway, with vegetation encroaching former flow paths. The lake now drains southward under glacial ice into Lake Ivanov and Starodubtsov Lake. Glaciologist Mauri Pelto links this shift to reduced lake water levels since the mid-1980s and rapid terminus retreat (1 km loss on the western side from 2016–2018). Decades of melting caused over 100-meter thinning near the terminus (1972–1999), driving hydrological reorganization. Berg Lake, which fills seasonally, began draining in late July 2024, affecting regional water levels.
+INFO     2025-08-04 02:34:40 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’s Evolution
+INFO     2025-08-04 02:34:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
+INFO     2025-08-04 02:34:40 [scraper.py:155] ✅ [EO] Successfully fetched.
+
