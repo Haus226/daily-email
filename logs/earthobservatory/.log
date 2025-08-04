@@ -156,3 +156,11 @@ INFO     2025-08-04 05:40:18 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’
 INFO     2025-08-04 05:40:18 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
 INFO     2025-08-04 05:40:18 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-04 10:25:49 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-04 10:25:50 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-04 10:26:10 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-04 10:26:10 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Steller Glacier in Alaska's Chugach Mountains has retreated significantly since the 1970s, altering Berg Lake's drainage pattern. Historical satellite imagery (Landsat 5 TM, 2003) shows Berg Lake drained via a southwest gorge, while recent Landsat 8 OLI data (June 29, 2024) reveals the terminus retreat caused abandonment of this outlet. Vegetation now occupies the former channel, with lake outflow shifting to a southern route beneath glacial ice toward Lake Ivanov and Starodubtsov Lake's southern end. Thinning of the glacier (over 100 m near terminus between 1972-1999) and accelerated retreat (1 km on western side, 2016-2018) drove this change, alongside reduced peak lake levels since the 1980s. Berg Lake continues its annual fill-drain cycle, with discharge in late July 2024 triggering water level rises in connected waterbodies.
+INFO     2025-08-04 10:26:10 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’s Evolution
+INFO     2025-08-04 10:26:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
+INFO     2025-08-04 10:26:10 [scraper.py:155] ✅ [EO] Successfully fetched.
+
