@@ -150,3 +150,9 @@ INFO     2025-08-04 02:34:40 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’
 INFO     2025-08-04 02:34:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
 INFO     2025-08-04 02:34:40 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-04 05:39:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-04 05:39:57 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-04 05:40:18 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’s Evolution
+INFO     2025-08-04 05:40:18 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
+INFO     2025-08-04 05:40:18 [scraper.py:155] ✅ [EO] Successfully fetched.
+

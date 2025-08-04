@@ -103,3 +103,8 @@ INFO     2025-08-04 02:34:22 [scraper.py:47] 📥 [APOD] Title: Milky Way and Ex
 INFO     2025-08-04 02:34:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif
 INFO     2025-08-04 02:34:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-04 05:39:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-04 05:39:57 [scraper.py:47] 📥 [APOD] Title: Blue Arcs Toward Andromeda
+INFO     2025-08-04 05:39:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg
+INFO     2025-08-04 05:39:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
