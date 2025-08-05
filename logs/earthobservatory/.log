@@ -164,3 +164,9 @@ INFO     2025-08-04 10:26:10 [scraper.py:134] 📥 [EO] Title: A Glacial Lake’
 INFO     2025-08-04 10:26:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154628/berglake_oli_20240629_th.jpg
 INFO     2025-08-04 10:26:10 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-05 02:28:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-05 02:28:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-05 02:28:18 [scraper.py:134] 📥 [EO] Title: Dust Engulfs Coastal Peru
+INFO     2025-08-05 02:28:18 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154637/dust_amo_20250731_th.jpg
+INFO     2025-08-05 02:28:18 [scraper.py:155] ✅ [EO] Successfully fetched.
+
