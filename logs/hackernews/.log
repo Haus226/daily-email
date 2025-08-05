@@ -790,3 +790,36 @@ INFO     2025-08-05 02:28:07 [scraper.py:172] 🔗 [HN #10] URL: https://bl.ag/i
 INFO     2025-08-05 02:28:07 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-05 02:28:07 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-05 05:34:27 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #1] Monitor your security cameras with locally processed AI
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #1] URL: https://frigate.video/
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #2] PHP 8.5 Adds Pipe Operator: What it means
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #2] URL: https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #3] Show HN: I spent 6 years building a ridiculous wooden pixel display
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #3] URL: https://benholmen.com/blog/kilopixel/
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #4] Qwen-Image: Crafting with native text rendering
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #4] URL: https://qwenlm.github.io/blog/qwen-image/
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #5] Show HN: I've been building an ERP for manufacturing for the last 3 years
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/crbnos/carbon
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #6] How we made JSON.stringify more than twice as fast
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #6] URL: https://v8.dev/blog/json-stringify
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-05 05:34:28 [scraper.py:171] 📥 [HN #7] AI Turns Drone Footage into Disaster Response Maps in Minutes
+INFO     2025-08-05 05:34:28 [scraper.py:172] 🔗 [HN #7] URL: https://stories.tamu.edu/news/2025/07/28/ai-turns-drone-footage-into-disaster-response-maps-in-minutes/
+INFO     2025-08-05 05:34:28 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-05 05:34:29 [scraper.py:171] 📥 [HN #8] I tried to replace myself with ChatGPT in my English class
+INFO     2025-08-05 05:34:29 [scraper.py:172] 🔗 [HN #8] URL: https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/
+INFO     2025-08-05 05:34:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-05 05:34:29 [scraper.py:171] 📥 [HN #9] Thingino: Open-Source Firmware for IP Cameras
+INFO     2025-08-05 05:34:29 [scraper.py:172] 🔗 [HN #9] URL: https://thingino.com/
+INFO     2025-08-05 05:34:29 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-05 05:34:29 [scraper.py:171] 📥 [HN #10] 3D Line Drawings
+INFO     2025-08-05 05:34:29 [scraper.py:172] 🔗 [HN #10] URL: https://amritkwatra.com/experiments/3d-line-drawings
+INFO     2025-08-05 05:34:29 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-05 05:34:29 [scraper.py:179] 🎉 [HN] All done.
+
