@@ -176,3 +176,9 @@ INFO     2025-08-05 05:34:47 [scraper.py:134] 📥 [EO] Title: Dust Engulfs Coas
 INFO     2025-08-05 05:34:47 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154637/dust_amo_20250731_th.jpg
 INFO     2025-08-05 05:34:47 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-05 10:24:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-05 10:24:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-05 10:24:50 [scraper.py:134] 📥 [EO] Title: Dust Engulfs Coastal Peru
+INFO     2025-08-05 10:24:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154637/dust_amo_20250731_th.jpg
+INFO     2025-08-05 10:24:50 [scraper.py:155] ✅ [EO] Successfully fetched.
+
