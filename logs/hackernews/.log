@@ -856,3 +856,36 @@ INFO     2025-08-05 10:24:35 [scraper.py:172] 🔗 [HN #10] URL: https://lithub.
 INFO     2025-08-05 10:24:35 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-05 10:24:35 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-06 02:26:09 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-06 02:26:09 [scraper.py:171] 📥 [HN #1] Open models by OpenAI
+INFO     2025-08-06 02:26:09 [scraper.py:172] 🔗 [HN #1] URL: https://openai.com/open-models/
+INFO     2025-08-06 02:26:09 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-06 02:26:09 [scraper.py:171] 📥 [HN #2] Kitten TTS: 25MB CPU-Only, Open-Source Voice Model
+INFO     2025-08-06 02:26:09 [scraper.py:172] 🔗 [HN #2] URL: https://algogist.com/kitten-tts-the-25mb-ai-voice-model-thats-about-to-change-everything-runs-on-a-potato/
+INFO     2025-08-06 02:26:09 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #3] Genie 3: A new frontier for world models
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #3] URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #4] Spotting base64 encoded JSON, certificates, and private keys
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #4] URL: https://ergaster.org/til/base64-encoded-json/
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #5] Ollama Turbo
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #5] URL: https://ollama.com/turbo
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #6] Create personal illustrated storybooks in the Gemini app
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #6] URL: https://blog.google/products/gemini/storybooks/
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #7] Consider using Zstandard and/or LZ4 instead of Deflate
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/w3c/png/issues/39
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #8] Claude Opus 4.1
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #8] URL: https://www.anthropic.com/news/claude-opus-4-1
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #9] Scientific fraud has become an 'industry,' analysis finds
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #9] URL: https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:171] 📥 [HN #10] Things that helped me get out of the AI 10x engineer imposter syndrome
+INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #10] URL: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
+INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-06 02:26:10 [scraper.py:179] 🎉 [HN] All done.
+

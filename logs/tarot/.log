@@ -98,3 +98,8 @@ INFO     2025-08-05 10:24:34 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
 INFO     2025-08-05 10:24:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-05 10:24:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-06 02:26:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-06 02:26:09 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-08-06 02:26:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-06 02:26:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
