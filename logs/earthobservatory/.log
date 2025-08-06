@@ -196,3 +196,9 @@ INFO     2025-08-06 05:35:46 [scraper.py:134] 📥 [EO] Title: Widespread Smoke 
 INFO     2025-08-06 05:35:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154641/namblackcarbon_geos5_20250803_th.jpg
 INFO     2025-08-06 05:35:46 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-06 10:24:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-06 10:24:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-06 10:24:45 [scraper.py:134] 📥 [EO] Title: Widespread Smoke from Canadian Fires
+INFO     2025-08-06 10:24:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154641/namblackcarbon_geos5_20250803_th.jpg
+INFO     2025-08-06 10:24:45 [scraper.py:155] ✅ [EO] Successfully fetched.
+
