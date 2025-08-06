@@ -889,3 +889,36 @@ INFO     2025-08-06 02:26:10 [scraper.py:172] 🔗 [HN #10] URL: https://colton.
 INFO     2025-08-06 02:26:10 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-06 02:26:10 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-06 05:35:16 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-06 05:35:16 [scraper.py:171] 📥 [HN #1] Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model
+INFO     2025-08-06 05:35:16 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/KittenML/KittenTTS
+INFO     2025-08-06 05:35:16 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #2] Open models by OpenAI
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #2] URL: https://openai.com/open-models/
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #3] Marines now have an official drone-fighting handbook
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #3] URL: https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #4] The Amaranth hardware description language
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #4] URL: https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #5] Software Rot
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #5] URL: https://permacomputing.net/software_rot/
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #6] Genie 3: A new frontier for world models
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #6] URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #7] I'm Archiving Picocrypt
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/Picocrypt/Picocrypt/issues/134
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-06 05:35:17 [scraper.py:171] 📥 [HN #8] Spotting base64 encoded JSON, certificates, and private keys
+INFO     2025-08-06 05:35:17 [scraper.py:172] 🔗 [HN #8] URL: https://ergaster.org/til/base64-encoded-json/
+INFO     2025-08-06 05:35:17 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-06 05:35:18 [scraper.py:171] 📥 [HN #9] Ollama Turbo
+INFO     2025-08-06 05:35:18 [scraper.py:172] 🔗 [HN #9] URL: https://ollama.com/turbo
+INFO     2025-08-06 05:35:18 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-06 05:35:18 [scraper.py:171] 📥 [HN #10] Create personal illustrated storybooks in the Gemini app
+INFO     2025-08-06 05:35:18 [scraper.py:172] 🔗 [HN #10] URL: https://blog.google/products/gemini/storybooks/
+INFO     2025-08-06 05:35:18 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-06 05:35:18 [scraper.py:179] 🎉 [HN] All done.
+

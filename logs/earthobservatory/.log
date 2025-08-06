@@ -188,3 +188,11 @@ INFO     2025-08-06 02:26:32 [scraper.py:134] 📥 [EO] Title: Widespread Smoke 
 INFO     2025-08-06 02:26:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154641/namblackcarbon_geos5_20250803_th.jpg
 INFO     2025-08-06 02:26:32 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-06 05:35:16 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-06 05:35:17 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-06 05:35:46 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-06 05:35:46 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Wildfire smoke from numerous Canadian fires during July 30 to August 3, 2025, caused hazy skies and poor air quality across the Northwest Territories, Alberta, Saskatchewan, Manitoba, Ontario, and northern U.S. states including the Upper Midwest and Northeast. NASA's GEOS-FP model tracked black carbon (soot) particles, a harmful PM2.5 component, spreading eastward from northern Canada. Air quality warnings were active in multiple Canadian provinces on August 2-3, with visibility dropping to 200 meters in Fort McMurray, Alberta. A high-pressure system forced elevated smoke back to ground level, affecting distant areas like Minnesota, which had a week-long state alert, and prompting outdoor activity restrictions in U.S. Northeast states; Toronto recorded AQHI level 7 (high risk) on August 3. Canada's 2025 fire season had burned over 6.6 million hectares by August 3, exceeding the 25-year average (2.2 million hectares) but remaining below the 2023 record (12.3 million hectares). Active fires included 159 in Manitoba, 81 in Saskatchewan, and 106 in the Northwest Territories, many uncontrollable. Smoke plumes repeatedly crossed the Atlantic toward Europe, with one expected to reach Western Europe between August 5-7, 2025.
+INFO     2025-08-06 05:35:46 [scraper.py:134] 📥 [EO] Title: Widespread Smoke from Canadian Fires
+INFO     2025-08-06 05:35:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154641/namblackcarbon_geos5_20250803_th.jpg
+INFO     2025-08-06 05:35:46 [scraper.py:155] ✅ [EO] Successfully fetched.
+

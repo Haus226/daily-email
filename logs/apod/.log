@@ -133,3 +133,8 @@ INFO     2025-08-06 02:26:09 [scraper.py:47] 📥 [APOD] Title: NGC 6072: A Comp
 INFO     2025-08-06 02:26:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg
 INFO     2025-08-06 02:26:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-06 05:35:16 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-06 05:35:16 [scraper.py:47] 📥 [APOD] Title: Meteor before Galaxy
+INFO     2025-08-06 05:35:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg
+INFO     2025-08-06 05:35:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
