@@ -202,3 +202,11 @@ INFO     2025-08-06 10:24:45 [scraper.py:134] 📥 [EO] Title: Widespread Smoke 
 INFO     2025-08-06 10:24:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154641/namblackcarbon_geos5_20250803_th.jpg
 INFO     2025-08-06 10:24:45 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-07 02:26:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-07 02:26:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-07 02:26:46 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-07 02:26:46 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Heavy snowfall deposited up to 40 centimeters (16 inches) on the Northern Tablelands plateau of New South Wales, Australia, on August 2, 2025, the most significant accumulation in some areas since the mid-1980s. Captured by Landsat 8's Operational Land Imager near Walcha (approximately 300 kilometers north of Sydney) on August 3, the snow caused hazardous conditions including vehicle immobilization, highway closures (such as the Oxley Highway), and structural damage from snow load on trees and carports. The event resulted from a coastal low-pressure system driving moisture inland, producing snow at higher elevations while delivering heavy rain exceeding 100 millimeters (4 inches) in 24 hours at lower elevations, triggering floods, numerous rescues, and coastal winds with gusts over 100 kilometers (60 miles) per hour.
+INFO     2025-08-07 02:26:46 [scraper.py:134] 📥 [EO] Title: Fleeting Glimpse of Rare Snow
+INFO     2025-08-07 02:26:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154644/austsnowzm1_oli_20250803_th.jpg
+INFO     2025-08-07 02:26:46 [scraper.py:155] ✅ [EO] Successfully fetched.
+
