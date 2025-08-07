@@ -210,3 +210,11 @@ INFO     2025-08-07 02:26:46 [scraper.py:134] 📥 [EO] Title: Fleeting Glimpse 
 INFO     2025-08-07 02:26:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154644/austsnowzm1_oli_20250803_th.jpg
 INFO     2025-08-07 02:26:46 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-07 05:33:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-07 05:33:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-07 05:33:49 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-07 05:33:49 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Heavy snowfall, up to 40 centimeters, blanketed the Northern Tablelands of New South Wales, Australia, on August 2, 2025, representing the most significant accumulation since the mid-1980s. Landsat 8 captured the event near Walcha on August 3. The snow, caused by a coastal low-pressure system pushing moisture inland, created hazards including highway closures, stranded vehicles, and structural damage from snow weight. While highlands received snow, lower elevations experienced over 100 millimeters of rain in 24 hours, triggering floods requiring numerous rescues. Coastal areas recorded wind gusts exceeding 100 kilometers per hour.
+INFO     2025-08-07 05:33:49 [scraper.py:134] 📥 [EO] Title: Fleeting Glimpse of Rare Snow
+INFO     2025-08-07 05:33:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154644/austsnowzm1_oli_20250803_th.jpg
+INFO     2025-08-07 05:33:49 [scraper.py:155] ✅ [EO] Successfully fetched.
+

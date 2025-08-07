@@ -988,3 +988,36 @@ INFO     2025-08-07 02:26:33 [scraper.py:172] 🔗 [HN #10] URL: https://www.avi
 INFO     2025-08-07 02:26:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-07 02:26:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-07 05:33:32 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-07 05:33:32 [scraper.py:171] 📥 [HN #1] Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs
+INFO     2025-08-07 05:33:32 [scraper.py:172] 🔗 [HN #1] URL: https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/
+INFO     2025-08-07 05:33:32 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-07 05:33:32 [scraper.py:171] 📥 [HN #2] Claude Code IDE integration for Emacs
+INFO     2025-08-07 05:33:32 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/manzaltu/claude-code-ide.el
+INFO     2025-08-07 05:33:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-07 05:33:32 [scraper.py:171] 📥 [HN #3] Rules by which a great empire may be reduced to a small one (1773)
+INFO     2025-08-07 05:33:32 [scraper.py:172] 🔗 [HN #3] URL: https://founders.archives.gov/documents/Franklin/01-20-02-0213
+INFO     2025-08-07 05:33:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #4] Project Hyperion: Interstellar ship design competition
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #4] URL: https://www.projecthyperion.org
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #5] A candidate giant planet imaged in the habitable zone of α  Cen A
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #5] URL: https://arxiv.org/abs/2508.03814
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #6] Show HN: Rust framework for advanced file recognition and identification
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #6] URL: https://crates.io/crates/magical_rs
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #7] Coursera’s Preview Mode
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #7] URL: https://www.classcentral.com/report/coursera-preview-mode-paywall/
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #8] Mac history echoes in current Mac operating systems
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #8] URL: http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #9] Litestar is worth a look
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #9] URL: https://www.b-list.org/weblog/2025/aug/06/litestar/
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:171] 📥 [HN #10] We replaced passwords with something worse
+INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #10] URL: https://blog.danielh.cc/blog/passwords
+INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-07 05:33:33 [scraper.py:179] 🎉 [HN] All done.
+
