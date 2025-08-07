@@ -1021,3 +1021,36 @@ INFO     2025-08-07 05:33:33 [scraper.py:172] 🔗 [HN #10] URL: https://blog.da
 INFO     2025-08-07 05:33:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-07 05:33:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-07 10:23:37 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-07 10:23:37 [scraper.py:171] 📥 [HN #1] We replaced passwords with something worse
+INFO     2025-08-07 10:23:37 [scraper.py:172] 🔗 [HN #1] URL: https://blog.danielh.cc/blog/passwords
+INFO     2025-08-07 10:23:37 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-07 10:23:37 [scraper.py:171] 📥 [HN #2] Cracking the Vault: How we found zero-day flaws in HashiCorp Vault
+INFO     2025-08-07 10:23:37 [scraper.py:172] 🔗 [HN #2] URL: https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/
+INFO     2025-08-07 10:23:37 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-07 10:23:37 [scraper.py:171] 📥 [HN #3] Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs
+INFO     2025-08-07 10:23:37 [scraper.py:172] 🔗 [HN #3] URL: https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/
+INFO     2025-08-07 10:23:37 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-07 10:23:37 [scraper.py:171] 📥 [HN #4] Claude Code IDE integration for Emacs
+INFO     2025-08-07 10:23:37 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/manzaltu/claude-code-ide.el
+INFO     2025-08-07 10:23:37 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-07 10:23:37 [scraper.py:171] 📥 [HN #5] "I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it."
+INFO     2025-08-07 10:23:37 [scraper.py:172] 🔗 [HN #5] URL: https://leonardo.chiariglione.org/
+INFO     2025-08-07 10:23:37 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:171] 📥 [HN #6] Herbie detects inaccurate expressions and finds more accurate replacements
+INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #6] URL: https://herbie.uwplse.org/
+INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:171] 📥 [HN #7] Debounce
+INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #7] URL: https://developer.mozilla.org/en-US/docs/Glossary/Debounce
+INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:171] 📥 [HN #8] Project Hyperion: Interstellar ship design competition
+INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #8] URL: https://www.projecthyperion.org
+INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:171] 📥 [HN #9] New AI Coding Teammate: Gemini CLI GitHub Actions
+INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #9] URL: https://blog.google/technology/developers/introducing-gemini-cli-github-actions/
+INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:171] 📥 [HN #10] Rules by which a great empire may be reduced to a small one (1773)
+INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #10] URL: https://founders.archives.gov/documents/Franklin/01-20-02-0213
+INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-07 10:23:38 [scraper.py:179] 🎉 [HN] All done.
+

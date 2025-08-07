@@ -153,3 +153,8 @@ INFO     2025-08-07 05:33:32 [scraper.py:47] 📥 [APOD] Title: The Double Clust
 INFO     2025-08-07 05:33:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
 INFO     2025-08-07 05:33:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-07 10:23:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-07 10:23:37 [scraper.py:47] 📥 [APOD] Title: The Double Cluster in Perseus
+INFO     2025-08-07 10:23:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
+INFO     2025-08-07 10:23:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
