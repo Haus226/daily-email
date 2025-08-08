@@ -226,3 +226,11 @@ INFO     2025-08-07 10:23:52 [scraper.py:134] 📥 [EO] Title: Fleeting Glimpse 
 INFO     2025-08-07 10:23:52 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154644/austsnowzm1_oli_20250803_th.jpg
 INFO     2025-08-07 10:23:52 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-08 02:26:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-08 02:26:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-08 02:26:39 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-08 02:26:39 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: A wildland fire ignited on August 5, 2025, in Ribaute, Aude department, southern France, burning 16,000 hectares across 15 municipalities by August 6 amid hot, dry, and windy conditions. The blaze injured over a dozen people, including firefighters, and destroyed dozens of homes in towns including Saint-Laurent-de-la-Cabrerisse. Contained by August 7 at 16,000 hectares, it became France's largest single wildfire in over 50 years, surpassing the 1949 Landes Forest fire.
+INFO     2025-08-08 02:26:39 [scraper.py:134] 📥 [EO] Title: Wildfire Sweeps Through Southern France
+INFO     2025-08-08 02:26:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154654/francefire_tmo_20250806_th.jpg
+INFO     2025-08-08 02:26:39 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -128,3 +128,8 @@ INFO     2025-08-07 10:23:37 [scraper.py:391] 📥 [TAROT] Card: The Tower
 INFO     2025-08-07 10:23:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-07 10:23:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-08 02:26:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-08 02:26:18 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-08-08 02:26:22 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-08 02:26:22 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

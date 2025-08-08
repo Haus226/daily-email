@@ -1054,3 +1054,36 @@ INFO     2025-08-07 10:23:38 [scraper.py:172] 🔗 [HN #10] URL: https://founder
 INFO     2025-08-07 10:23:38 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-07 10:23:38 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-08 02:26:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #1] GPT-5
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #1] URL: https://openai.com/gpt-5/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #2] Historical Tech Tree
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #2] URL: https://www.historicaltechtree.com/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #3] GPT-5: Key characteristics, pricing and system card
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #3] URL: https://simonwillison.net/2025/Aug/7/gpt-5/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #4] Cursor CLI
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #4] URL: https://cursor.com/cli
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #5] Cursed Knowledge
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #5] URL: https://immich.app/cursed-knowledge/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #6] OpenAI's new open-source model is basically Phi-5
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #6] URL: https://www.seangoedecke.com/gpt-oss-is-phi-5/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #7] Flipper Zero dark web firmware bypasses rolling code security
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #7] URL: https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-08 02:26:18 [scraper.py:171] 📥 [HN #8] Vibechart
+INFO     2025-08-08 02:26:18 [scraper.py:172] 🔗 [HN #8] URL: https://www.vibechart.net/
+INFO     2025-08-08 02:26:18 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-08 02:26:19 [scraper.py:171] 📥 [HN #9] GPT-5 for Developers
+INFO     2025-08-08 02:26:19 [scraper.py:172] 🔗 [HN #9] URL: https://openai.com/index/introducing-gpt-5-for-developers
+INFO     2025-08-08 02:26:19 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-08 02:26:19 [scraper.py:171] 📥 [HN #10] Encryption made for police and military radios may be easily cracked
+INFO     2025-08-08 02:26:19 [scraper.py:172] 🔗 [HN #10] URL: https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/
+INFO     2025-08-08 02:26:19 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-08 02:26:19 [scraper.py:179] 🎉 [HN] All done.
+
