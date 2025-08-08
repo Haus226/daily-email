@@ -163,3 +163,8 @@ INFO     2025-08-08 02:26:18 [scraper.py:47] 📥 [APOD] Title: The Double Clust
 INFO     2025-08-08 02:26:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
 INFO     2025-08-08 02:26:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-08 05:33:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-08 05:33:35 [scraper.py:47] 📥 [APOD] Title: Dawn of the Crab
+INFO     2025-08-08 05:33:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg
+INFO     2025-08-08 05:33:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

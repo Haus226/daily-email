@@ -1087,3 +1087,36 @@ INFO     2025-08-08 02:26:19 [scraper.py:172] 🔗 [HN #10] URL: https://www.wir
 INFO     2025-08-08 02:26:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-08 02:26:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-08 05:33:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-08 05:33:35 [scraper.py:171] 📥 [HN #1] GPT-5
+INFO     2025-08-08 05:33:35 [scraper.py:172] 🔗 [HN #1] URL: https://openai.com/gpt-5/
+INFO     2025-08-08 05:33:35 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-08 05:33:35 [scraper.py:171] 📥 [HN #2] GPT-5 leaked system prompt
+INFO     2025-08-08 05:33:35 [scraper.py:172] 🔗 [HN #2] URL: https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7
+INFO     2025-08-08 05:33:35 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-08 05:33:35 [scraper.py:171] 📥 [HN #3] Flipper Zero dark web firmware bypasses rolling code security
+INFO     2025-08-08 05:33:35 [scraper.py:172] 🔗 [HN #3] URL: https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
+INFO     2025-08-08 05:33:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-08 05:33:35 [scraper.py:171] 📥 [HN #4] Writing a storage engine for Postgres: An in-memory table access method (2023)
+INFO     2025-08-08 05:33:35 [scraper.py:172] 🔗 [HN #4] URL: https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html
+INFO     2025-08-08 05:33:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-08 05:33:35 [scraper.py:171] 📥 [HN #5] Historical Tech Tree
+INFO     2025-08-08 05:33:35 [scraper.py:172] 🔗 [HN #5] URL: https://www.historicaltechtree.com/
+INFO     2025-08-08 05:33:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:171] 📥 [HN #6] GPT-5: Key characteristics, pricing and system card
+INFO     2025-08-08 05:33:36 [scraper.py:172] 🔗 [HN #6] URL: https://simonwillison.net/2025/Aug/7/gpt-5/
+INFO     2025-08-08 05:33:36 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:171] 📥 [HN #7] Cursor CLI
+INFO     2025-08-08 05:33:36 [scraper.py:172] 🔗 [HN #7] URL: https://cursor.com/cli
+INFO     2025-08-08 05:33:36 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:171] 📥 [HN #8] OpenAI's new open-source model is basically Phi-5
+INFO     2025-08-08 05:33:36 [scraper.py:172] 🔗 [HN #8] URL: https://www.seangoedecke.com/gpt-oss-is-phi-5/
+INFO     2025-08-08 05:33:36 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:171] 📥 [HN #9] The Paranoid Style in American Politics (1964)
+INFO     2025-08-08 05:33:36 [scraper.py:172] 🔗 [HN #9] URL: https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/
+INFO     2025-08-08 05:33:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:171] 📥 [HN #10] Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?
+INFO     2025-08-08 05:33:36 [scraper.py:172] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=44784619
+INFO     2025-08-08 05:33:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-08 05:33:36 [scraper.py:179] 🎉 [HN] All done.
+
