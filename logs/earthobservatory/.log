@@ -258,3 +258,11 @@ INFO     2025-08-09 05:24:52 [scraper.py:134] 📥 [EO] Title: Bloom Time in the
 INFO     2025-08-09 05:24:52 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154651/bloom_amo_20250805_th.jpg
 INFO     2025-08-09 05:24:52 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-09 10:20:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-09 10:20:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-09 10:20:39 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-09 10:20:39 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Phytoplankton bloom, primarily coccolithophores (Gephyrocapsa huxleyi), occurred in the western Barents Sea and Arctic waters on August 5, 2025, visible as milky turquoise-blue swirls near Bear Island in NASA Aqua satellite imagery. This August bloom follows the typical seasonal pattern where diatoms dominate in spring and coccolithophores proliferate as nutrients deplete and waters warm. The color results from reflective calcium carbonate plates. These blooms sustain marine food webs and influence carbon cycling; researchers study how Atlantic water inflow ("Atlantification") may alter future bloom dynamics and ecosystems.
+INFO     2025-08-09 10:20:39 [scraper.py:134] 📥 [EO] Title: Bloom Time in the Barents Sea
+INFO     2025-08-09 10:20:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154651/bloom_amo_20250805_th.jpg
+INFO     2025-08-09 10:20:39 [scraper.py:155] ✅ [EO] Successfully fetched.
+
