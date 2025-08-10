@@ -168,3 +168,8 @@ INFO     2025-08-10 05:28:07 [scraper.py:391] 📥 [TAROT] Card: The Fool
 INFO     2025-08-10 05:28:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-10 05:28:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-10 10:21:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-10 10:21:21 [scraper.py:391] 📥 [TAROT] Card: The Fool
+INFO     2025-08-10 10:21:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-10 10:21:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

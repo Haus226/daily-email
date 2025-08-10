@@ -280,3 +280,11 @@ INFO     2025-08-10 05:28:19 [scraper.py:134] 📥 [EO] Title: Nighttime Over th
 INFO     2025-08-10 05:28:19 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154648/ISS072-E-896652_th.jpg
 INFO     2025-08-10 05:28:19 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-10 10:21:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-10 10:21:21 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-10 10:21:43 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-10 10:21:43 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: An astronaut on the International Space Station photographed extensive nighttime clouds over the eastern Pacific Ocean near the equator, halfway between Mexico and French Polynesia. The image captures a thunderstorm lightning flash, layers of airglow including a green band from oxygen molecule (O₂) excitation at 130 kilometers altitude and a diffuse red layer from atomic oxygen (O) excitation at 240 kilometers altitude, and star trails caused by the station's orbital motion during a five-second exposure. The photograph was taken with a Nikon Z9 camera at 24mm focal length.
+INFO     2025-08-10 10:21:43 [scraper.py:134] 📥 [EO] Title: Nighttime Over the Eastern Pacific
+INFO     2025-08-10 10:21:43 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154648/ISS072-E-896652_th.jpg
+INFO     2025-08-10 10:21:43 [scraper.py:155] ✅ [EO] Successfully fetched.
+
