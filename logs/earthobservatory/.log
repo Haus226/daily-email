@@ -266,3 +266,11 @@ INFO     2025-08-09 10:20:39 [scraper.py:134] 📥 [EO] Title: Bloom Time in the
 INFO     2025-08-09 10:20:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154651/bloom_amo_20250805_th.jpg
 INFO     2025-08-09 10:20:39 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-10 02:30:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-10 02:30:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-10 02:30:29 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-10 02:30:29 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On March 23, 2025, an astronaut aboard the International Space Station captured a nighttime image over the eastern Pacific Ocean near the equator between Mexico and French Polynesia, showing an extensive cloud deck with lightning. The photo reveals atmospheric airglow layers: a green line from photochemically excited oxygen (O₂) at 130 kilometers altitude and a diffuse red layer from atomic oxygen (O) at 240 kilometers. Star trails resulted from the station's 27,500 km/h orbital motion and a five-second camera exposure. The ISS orbits at 370–460 kilometers, above the airglow layers.
+INFO     2025-08-10 02:30:29 [scraper.py:134] 📥 [EO] Title: Nighttime Over the Eastern Pacific
+INFO     2025-08-10 02:30:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154648/ISS072-E-896652_th.jpg
+INFO     2025-08-10 02:30:29 [scraper.py:155] ✅ [EO] Successfully fetched.
+
