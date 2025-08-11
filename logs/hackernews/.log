@@ -1417,3 +1417,36 @@ INFO     2025-08-11 05:33:01 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-08-11 05:33:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-11 05:33:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-11 10:24:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #1] Vanishing from Hyundai’s data network
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #1] URL: http://techno-fandom.org/~hobbit/cars/ev/offnet.html
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #2] Faster substring search with SIMD in Zig
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #2] URL: https://aarol.dev/posts/zig-simd-substr/
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #3] Cursor's Go-to-Market Playbook: How an AI Coding Assistant Hit $100M+ ARR
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #3] URL: https://www.getcassius.ai/blogs/cursor-go-to-market-playbook-100m-arr-ai-coding-assistant
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #4] Dropbox announces new gen server hardware for higher efficiency and scalability
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #4] URL: https://dropbox.tech/infrastructure/seventh-generation-server-hardware
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #5] Millau Viaduct
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #5] URL: https://www.fosterandpartners.com/projects/millau-viaduct
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-11 10:24:32 [scraper.py:171] 📥 [HN #6] Generic Containers in C: Safe Division Using Maybe
+INFO     2025-08-11 10:24:32 [scraper.py:172] 🔗 [HN #6] URL: https://uecker.codeberg.page/2025-08-10.html
+INFO     2025-08-11 10:24:32 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-11 10:24:33 [scraper.py:171] 📥 [HN #7] The Chrome VRP Panel has decided to award $250k for this report
+INFO     2025-08-11 10:24:33 [scraper.py:172] 🔗 [HN #7] URL: https://issues.chromium.org/issues/412578726
+INFO     2025-08-11 10:24:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-11 10:24:33 [scraper.py:171] 📥 [HN #8] Try and
+INFO     2025-08-11 10:24:33 [scraper.py:172] 🔗 [HN #8] URL: https://ygdp.yale.edu/phenomena/try-and
+INFO     2025-08-11 10:24:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-11 10:24:33 [scraper.py:171] 📥 [HN #9] Basic Social Skills Guide
+INFO     2025-08-11 10:24:33 [scraper.py:172] 🔗 [HN #9] URL: https://www.improveyoursocialskills.com/basic-social-skills-guide
+INFO     2025-08-11 10:24:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-11 10:24:33 [scraper.py:171] 📥 [HN #10] Compiling a Lisp: Lambda lifting
+INFO     2025-08-11 10:24:33 [scraper.py:172] 🔗 [HN #10] URL: https://bernsteinbear.com/blog/compiling-a-lisp-12/
+INFO     2025-08-11 10:24:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-11 10:24:33 [scraper.py:179] 🎉 [HN] All done.
+

@@ -300,3 +300,11 @@ INFO     2025-08-11 05:33:19 [scraper.py:134] 📥 [EO] Title: Lost Towns of the
 INFO     2025-08-11 05:33:19 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154605/quabbin_oli2_20250603_th.jpg
 INFO     2025-08-11 05:33:19 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-11 10:24:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-11 10:24:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-11 10:24:50 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-11 10:24:50 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Quabbin Reservoir in central Massachusetts, one of the largest unfiltered U.S. drinking water supplies, holds 412 billion gallons across 39 square miles and serves 2.7 million people in Greater Boston and western Massachusetts. Constructed between 1930 and 1935 via the Goodnough Dike and Winsor Dam, its seven-year filling displaced over 2,000 residents and submerged four towns (Dana, Enfield, Greenwich, Prescott). Surrounding forests act as natural biofilters, maintaining water clarity by reducing sediment and pollutant runoff. The protected watershed supports diverse wildlife, including black bears, moose, and coyotes. Bald eagle reintroduction efforts beginning in 1982 succeeded, with 88 nesting pairs recorded statewide by 2024. A proposed timber rattlesnake reintroduction on Mount Zion Island faced public opposition due to safety concerns despite the island's uninhabited status.
+INFO     2025-08-11 10:24:50 [scraper.py:134] 📥 [EO] Title: Lost Towns of the Quabbin
+INFO     2025-08-11 10:24:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154605/quabbin_oli2_20250603_th.jpg
+INFO     2025-08-11 10:24:50 [scraper.py:155] ✅ [EO] Successfully fetched.
+
