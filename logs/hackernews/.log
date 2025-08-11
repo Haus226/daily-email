@@ -1351,3 +1351,36 @@ INFO     2025-08-10 10:21:22 [scraper.py:172] 🔗 [HN #10] URL: https://blog.hy
 INFO     2025-08-10 10:21:22 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-10 10:21:22 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-11 02:25:57 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #1] Compiling a Lisp: Lambda Lifting
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #1] URL: https://bernsteinbear.com/blog/compiling-a-lisp-12/
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #2] Try and
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #2] URL: https://ygdp.yale.edu/phenomena/try-and
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #3] GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #3] URL: https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #4] Digital Foundry Leaves IGN, Now Independent
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #4] URL: https://www.digitalfoundry.net/df-direct-special-digital-foundry-leaves-ign-now-fully-independent-so-what-happens-next
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #5] 1910: The year the modern world lost its mind
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #5] URL: https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #6] Fight Chat Control
+INFO     2025-08-11 02:25:58 [scraper.py:172] 🔗 [HN #6] URL: https://fightchatcontrol.eu/
+INFO     2025-08-11 02:25:58 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-11 02:25:58 [scraper.py:171] 📥 [HN #7] Show HN: Bolt – A super-fast, statically-typed scripting language written in C
+INFO     2025-08-11 02:25:59 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/Beariish/bolt
+INFO     2025-08-11 02:25:59 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-11 02:26:00 [scraper.py:171] 📥 [HN #8] Show HN: Engineering.fyi – Search across tech engineering blogs in one place
+INFO     2025-08-11 02:26:00 [scraper.py:172] 🔗 [HN #8] URL: https://engineering.fyi/
+INFO     2025-08-11 02:26:00 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-11 02:26:00 [scraper.py:171] 📥 [HN #9] One Million Screenshots
+INFO     2025-08-11 02:26:00 [scraper.py:172] 🔗 [HN #9] URL: https://onemillionscreenshots.com/?q=random
+INFO     2025-08-11 02:26:00 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-11 02:26:00 [scraper.py:171] 📥 [HN #10] Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”
+INFO     2025-08-11 02:26:00 [scraper.py:172] 🔗 [HN #10] URL: https://mrwint.github.io/winter/writeup/writeup2.html
+INFO     2025-08-11 02:26:00 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-11 02:26:00 [scraper.py:179] 🎉 [HN] All done.
+
