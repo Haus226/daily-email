@@ -178,3 +178,8 @@ INFO     2025-08-11 02:25:57 [scraper.py:391] 📥 [TAROT] Card: Page of Swords
 INFO     2025-08-11 02:26:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-11 02:26:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-11 05:32:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-11 05:32:58 [scraper.py:391] 📥 [TAROT] Card: Page of Swords
+INFO     2025-08-11 05:33:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-11 05:33:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

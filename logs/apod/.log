@@ -208,3 +208,8 @@ INFO     2025-08-11 02:25:58 [scraper.py:47] 📥 [APOD] Title: Zodiacal Road
 INFO     2025-08-11 02:25:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg
 INFO     2025-08-11 02:25:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-11 05:32:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-11 05:32:58 [scraper.py:47] 📥 [APOD] Title: Closest Ever Images Near the Sun
+INFO     2025-08-11 05:32:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/SunPlumes_psp.mp4
+INFO     2025-08-11 05:32:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
