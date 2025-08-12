@@ -223,3 +223,8 @@ INFO     2025-08-12 02:07:54 [scraper.py:47] 📥 [APOD] Title: Closest Ever Ima
 INFO     2025-08-12 02:07:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/SunPlumes_psp.mp4
 INFO     2025-08-12 02:07:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-12 05:24:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-12 05:24:57 [scraper.py:47] 📥 [APOD] Title: Perseids from Perseus
+INFO     2025-08-12 05:24:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg
+INFO     2025-08-12 05:24:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

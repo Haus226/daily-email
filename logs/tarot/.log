@@ -193,3 +193,8 @@ INFO     2025-08-12 02:07:54 [scraper.py:391] 📥 [TAROT] Card: The Moon
 INFO     2025-08-12 02:07:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-12 02:07:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-12 05:24:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-12 05:24:57 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-08-12 05:24:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-12 05:24:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
