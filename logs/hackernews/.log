@@ -1450,3 +1450,36 @@ INFO     2025-08-11 10:24:33 [scraper.py:172] 🔗 [HN #10] URL: https://bernste
 INFO     2025-08-11 10:24:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-11 10:24:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-12 02:07:54 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-12 02:07:54 [scraper.py:171] 📥 [HN #1] Wikipedia loses challenge against Online Safety Act
+INFO     2025-08-12 02:07:54 [scraper.py:172] 🔗 [HN #1] URL: https://www.bbc.com/news/articles/cjr11qqvvwlo
+INFO     2025-08-12 02:07:54 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #2] I tried every todo app and ended up with a .txt file
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #2] URL: https://www.al3rez.com/todo-txt-journey
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #3] GLM-4.5: Agentic, Reasoning, and Coding (Arc) Foundation Models [pdf]
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #3] URL: https://www.arxiv.org/pdf/2508.06471
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #4] GitHub is no longer independent at Microsoft after CEO resignation
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #4] URL: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #5] Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/danterolle/tilf
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #6] Claude Code is all you need
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #6] URL: https://dwyer.co.za/static/claude-code-is-all-you-need.html
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #7] Show HN: Play Pokémon to unlock your Wayland session
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/AdoPi/wlgblock
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #8] OpenSSH Post-Quantum Cryptography
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #8] URL: https://www.openssh.com/pq.html
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-12 02:07:55 [scraper.py:171] 📥 [HN #9] Neki – sharded Postgres by the team behind Vitess
+INFO     2025-08-12 02:07:55 [scraper.py:172] 🔗 [HN #9] URL: https://planetscale.com/blog/announcing-neki
+INFO     2025-08-12 02:07:55 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-12 02:07:56 [scraper.py:171] 📥 [HN #10] Why tail-recursive functions are loops
+INFO     2025-08-12 02:07:56 [scraper.py:172] 🔗 [HN #10] URL: https://kmicinski.com/functional-programming/2025/08/01/loops/
+INFO     2025-08-12 02:07:56 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-12 02:07:56 [scraper.py:179] 🎉 [HN] All done.
+

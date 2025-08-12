@@ -308,3 +308,11 @@ INFO     2025-08-11 10:24:50 [scraper.py:134] 📥 [EO] Title: Lost Towns of the
 INFO     2025-08-11 10:24:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154605/quabbin_oli2_20250603_th.jpg
 INFO     2025-08-11 10:24:50 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-12 02:07:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-12 02:07:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-12 02:08:11 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-12 02:08:11 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: As of August 11, 2025, California experienced 5,362 wildfires burning 374,000 acres, exceeding the five-year average of 4,931 fires and 302,509 acres. The Gifford fire, ignited August 1 northwest of Santa Barbara, was the largest contributor, burning 119,214 acres by August 11 and classified as a megafire. Fueled by dry, gusty conditions and decades-unburned dense brush in Los Padres National Forest, it rapidly spread through mountainous terrain, damaging two structures and prompting evacuations near Santa Maria and San Luis Obispo. Satellite imagery captured extensive smoke over the Central Valley. Fire behavior analysts attributed its vigorous growth to increased atmospheric mixing height (rising from 8,000 to 15,000 feet), enhancing smoke column height and fire intensity. Despite its scale, the Gifford fire remained smaller than California’s top 20 historical fires, all exceeding 192,000 acres. Containment reached 33% with over 4,000 personnel deploying ground and aerial resources.
+INFO     2025-08-12 02:08:11 [scraper.py:134] 📥 [EO] Title: Sprawling Gifford Fire Scorches California
+INFO     2025-08-12 02:08:11 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154658/giffordfire_amo_20250808_th.jpg
+INFO     2025-08-12 02:08:11 [scraper.py:155] ✅ [EO] Successfully fetched.
+
