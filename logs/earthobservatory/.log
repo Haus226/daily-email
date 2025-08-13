@@ -342,3 +342,9 @@ INFO     2025-08-13 05:26:40 [scraper.py:134] 📥 [EO] Title: Browns Canyon Nat
 INFO     2025-08-13 05:26:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154662/brownscanyon_oli_20250614_th.jpg
 INFO     2025-08-13 05:26:40 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-13 10:23:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-13 10:23:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-13 10:23:26 [scraper.py:134] 📥 [EO] Title: Browns Canyon National Monument
+INFO     2025-08-13 10:23:26 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154662/brownscanyon_oli_20250614_th.jpg
+INFO     2025-08-13 10:23:26 [scraper.py:155] ✅ [EO] Successfully fetched.
+
