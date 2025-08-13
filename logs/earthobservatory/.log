@@ -334,3 +334,11 @@ INFO     2025-08-13 02:09:48 [scraper.py:134] 📥 [EO] Title: Browns Canyon Nat
 INFO     2025-08-13 02:09:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154662/brownscanyon_oli_20250614_th.jpg
 INFO     2025-08-13 02:09:48 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-13 05:26:15 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-13 05:26:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-13 05:26:40 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-13 05:26:40 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Browns Canyon National Monument, located in central Colorado's upper Arkansas River Valley between Buena Vista and Salida, spans 34 square miles and has supported human activity for over 10,000 years. Managed jointly by the Bureau of Land Management and U.S. Forest Service, the area is renowned for outdoor recreation like whitewater rafting and its exceptionally dark night skies due to remote mountainous terrain isolating it from urban light pollution. Designated an International Dark Sky Park in 2024 following lighting retrofits, the monument provides optimal conditions for stargazing and observing astronomical events such as the annual Perseid meteor shower.
+INFO     2025-08-13 05:26:40 [scraper.py:134] 📥 [EO] Title: Browns Canyon National Monument
+INFO     2025-08-13 05:26:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154662/brownscanyon_oli_20250614_th.jpg
+INFO     2025-08-13 05:26:40 [scraper.py:155] ✅ [EO] Successfully fetched.
+
