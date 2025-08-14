@@ -1714,3 +1714,36 @@ INFO     2025-08-14 05:25:57 [scraper.py:172] 🔗 [HN #10] URL: https://video.g
 INFO     2025-08-14 05:25:57 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-14 05:25:57 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-14 10:23:10 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-14 10:23:11 [scraper.py:171] 📥 [HN #1] iPhone DevOps
+INFO     2025-08-14 10:23:11 [scraper.py:172] 🔗 [HN #1] URL: https://clearsky.dev/blog/iphone-devops-ssh/
+INFO     2025-08-14 10:23:11 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-14 10:23:11 [scraper.py:171] 📥 [HN #2] 500 Days of Math
+INFO     2025-08-14 10:23:11 [scraper.py:172] 🔗 [HN #2] URL: https://gmays.com/500-days-of-math/
+INFO     2025-08-14 10:23:11 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-14 10:23:11 [scraper.py:171] 📥 [HN #3] Nginx introduces native support for ACME protocol
+INFO     2025-08-14 10:23:11 [scraper.py:172] 🔗 [HN #3] URL: https://blog.nginx.org/blog/native-support-for-acme-protocol
+INFO     2025-08-14 10:23:11 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-14 10:23:11 [scraper.py:171] 📥 [HN #4] PYX: The next step in Python packaging
+INFO     2025-08-14 10:23:11 [scraper.py:172] 🔗 [HN #4] URL: https://astral.sh/blog/introducing-pyx
+INFO     2025-08-14 10:23:11 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-14 10:23:11 [scraper.py:171] 📥 [HN #5] Zenobia Pay – A mission to build an alternative to high-fee card networks
+INFO     2025-08-14 10:23:11 [scraper.py:172] 🔗 [HN #5] URL: https://zenobiapay.com/blog/open-source-payments
+INFO     2025-08-14 10:23:11 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-14 10:23:12 [scraper.py:171] 📥 [HN #6] Funding Open Source like public infrastructure
+INFO     2025-08-14 10:23:12 [scraper.py:172] 🔗 [HN #6] URL: https://dri.es/funding-open-source-like-public-infrastructure
+INFO     2025-08-14 10:23:12 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-14 10:23:12 [scraper.py:171] 📥 [HN #7] Show HN: Yet another memory system for LLMs
+INFO     2025-08-14 10:23:12 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/trvon/yams
+INFO     2025-08-14 10:23:12 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-14 10:23:12 [scraper.py:171] 📥 [HN #8] FFmpeg 8.0 adds Whisper support
+INFO     2025-08-14 10:23:12 [scraper.py:172] 🔗 [HN #8] URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b
+INFO     2025-08-14 10:23:12 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-14 10:23:14 [scraper.py:171] 📥 [HN #9] Convo-Lang: LLM Programming Language and Runtime
+INFO     2025-08-14 10:23:14 [scraper.py:172] 🔗 [HN #9] URL: https://learn.convo-lang.ai/
+INFO     2025-08-14 10:23:14 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-14 10:23:14 [scraper.py:171] 📥 [HN #10] OCaml as my primary language
+INFO     2025-08-14 10:23:14 [scraper.py:172] 🔗 [HN #10] URL: https://xvw.lol/en/articles/why-ocaml.html
+INFO     2025-08-14 10:23:14 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-14 10:23:14 [scraper.py:179] 🎉 [HN] All done.
+
