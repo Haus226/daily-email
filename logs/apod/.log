@@ -248,3 +248,8 @@ INFO     2025-08-13 10:23:13 [scraper.py:47] 📥 [APOD] Title: Trapezium: In th
 INFO     2025-08-13 10:23:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg
 INFO     2025-08-13 10:23:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-14 02:10:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-14 02:10:22 [scraper.py:47] 📥 [APOD] Title: Trapezium: In the Heart of Orion
+INFO     2025-08-14 02:10:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg
+INFO     2025-08-14 02:10:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
