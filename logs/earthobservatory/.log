@@ -372,3 +372,9 @@ INFO     2025-08-14 10:23:27 [scraper.py:134] 📥 [EO] Title: SWOT Spots Tsunam
 INFO     2025-08-14 10:23:27 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154666/kamchatkatsunami_swot_noaa_20250729_th.jpg
 INFO     2025-08-14 10:23:27 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-15 02:10:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-15 02:10:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-15 02:11:05 [scraper.py:134] 📥 [EO] Title: Ash Streams from Klyuchevskaya Sopka
+INFO     2025-08-15 02:11:05 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154670/kluchevskaya_tmo_20250806_th.jpg
+INFO     2025-08-15 02:11:05 [scraper.py:155] ✅ [EO] Successfully fetched.
+

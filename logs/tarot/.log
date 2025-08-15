@@ -233,3 +233,8 @@ INFO     2025-08-14 10:23:10 [scraper.py:391] 📥 [TAROT] Card: The Devil
 INFO     2025-08-14 10:23:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-14 10:23:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-15 02:10:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-15 02:10:54 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-08-15 02:10:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-15 02:10:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

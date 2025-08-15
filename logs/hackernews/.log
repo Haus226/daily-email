@@ -1747,3 +1747,36 @@ INFO     2025-08-14 10:23:14 [scraper.py:172] 🔗 [HN #10] URL: https://xvw.lol
 INFO     2025-08-14 10:23:14 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-14 10:23:14 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-15 02:10:54 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-15 02:10:54 [scraper.py:171] 📥 [HN #1] Blurry rendering of games on Mac
+INFO     2025-08-15 02:10:54 [scraper.py:172] 🔗 [HN #1] URL: https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/
+INFO     2025-08-15 02:10:54 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-15 02:10:54 [scraper.py:171] 📥 [HN #2] Streaming services are driving viewers back to piracy
+INFO     2025-08-15 02:10:54 [scraper.py:172] 🔗 [HN #2] URL: https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy
+INFO     2025-08-15 02:10:54 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-15 02:10:54 [scraper.py:171] 📥 [HN #3] We rewrote the Ghostty GTK application
+INFO     2025-08-15 02:10:54 [scraper.py:172] 🔗 [HN #3] URL: https://mitchellh.com/writing/ghostty-gtk-rewrite
+INFO     2025-08-15 02:10:54 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-15 02:10:54 [scraper.py:171] 📥 [HN #4] Gemma 3 270M: Compact model for hyper-efficient AI
+INFO     2025-08-15 02:10:54 [scraper.py:172] 🔗 [HN #4] URL: https://developers.googleblog.com/en/introducing-gemma-3-270m/
+INFO     2025-08-15 02:10:54 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #5] The secret code behind the CIA's Kryptos puzzle is up for sale
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #5] URL: https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #6] Time to End Roundtripping by Big Pharma
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #6] URL: https://www.cfr.org/blog/time-end-roundtripping-big-pharma
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #7] I used to know how to write in Japanese
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #7] URL: https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #8] I made a real-time C/C++/Rust build visualizer
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #8] URL: https://danielchasehooper.com/posts/syscall-build-snooping/
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #9] Steve Wozniak: Life to me was never about accomplishment, but about happiness
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #9] URL: https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:171] 📥 [HN #10] Show HN: OWhisper – Ollama for realtime speech-to-text
+INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #10] URL: https://docs.hyprnote.com/owhisper/what-is-this
+INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-15 02:10:55 [scraper.py:179] 🎉 [HN] All done.
+
