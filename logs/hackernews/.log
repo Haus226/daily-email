@@ -1813,3 +1813,36 @@ INFO     2025-08-15 05:26:15 [scraper.py:172] 🔗 [HN #10] URL: https://news.ar
 INFO     2025-08-15 05:26:15 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-15 05:26:15 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-15 10:21:56 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-15 10:21:56 [scraper.py:171] 📥 [HN #1] Simulating and Visualising the Central Limit Theorem
+INFO     2025-08-15 10:21:56 [scraper.py:172] 🔗 [HN #1] URL: https://blog.foletta.net/post/2025-07-14-clt/
+INFO     2025-08-15 10:21:56 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #2] UK government states that 'safety' act is about influence over public discourse
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #2] URL: https://bsky.app/profile/tupped.bsky.social/post/3lwgcmswmy222
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #3] Lessons learned from buying an open source repo
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #3] URL: https://www.coplay.dev/blog/lessons-learned-from-buying-an-open-source-repo
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #4] Blurry rendering of games on Mac
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #4] URL: https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #5] Gemma 3 270M: Compact model for hyper-efficient AI
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #5] URL: https://developers.googleblog.com/en/introducing-gemma-3-270m/
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #6] We rewrote the Ghostty GTK application
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #6] URL: https://mitchellh.com/writing/ghostty-gtk-rewrite
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-15 10:21:57 [scraper.py:171] 📥 [HN #7] Why LLMs can't really build software
+INFO     2025-08-15 10:21:57 [scraper.py:172] 🔗 [HN #7] URL: https://zed.dev/blog/why-llms-cant-build-software
+INFO     2025-08-15 10:21:57 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-15 10:21:58 [scraper.py:171] 📥 [HN #8] I used to know how to write in Japanese
+INFO     2025-08-15 10:21:58 [scraper.py:172] 🔗 [HN #8] URL: https://aethermug.com/posts/i-used-to-know-how-to-write-in-japanese
+INFO     2025-08-15 10:21:58 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-15 10:21:58 [scraper.py:171] 📥 [HN #9] Blood oxygen monitoring returning to Apple Watch in the US
+INFO     2025-08-15 10:21:58 [scraper.py:172] 🔗 [HN #9] URL: https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/
+INFO     2025-08-15 10:21:58 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-15 10:21:58 [scraper.py:171] 📥 [HN #10] Making reliable distributed systems in the presence of software errors (2003) [pdf]
+INFO     2025-08-15 10:21:58 [scraper.py:172] 🔗 [HN #10] URL: http://erlang.org/download/armstrong_thesis_2003.pdf
+INFO     2025-08-15 10:21:58 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-15 10:21:58 [scraper.py:179] 🎉 [HN] All done.
+

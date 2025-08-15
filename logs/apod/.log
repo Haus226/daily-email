@@ -273,3 +273,8 @@ INFO     2025-08-15 05:26:13 [scraper.py:47] 📥 [APOD] Title: Moonlight, Plane
 INFO     2025-08-15 05:26:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg
 INFO     2025-08-15 05:26:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-15 10:21:56 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-15 10:21:56 [scraper.py:47] 📥 [APOD] Title: Moonlight, Planets, and Perseids
+INFO     2025-08-15 10:21:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg
+INFO     2025-08-15 10:21:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

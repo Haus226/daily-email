@@ -384,3 +384,9 @@ INFO     2025-08-15 05:26:25 [scraper.py:134] 📥 [EO] Title: Ash Streams from 
 INFO     2025-08-15 05:26:25 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154670/kluchevskaya_tmo_20250806_th.jpg
 INFO     2025-08-15 05:26:25 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-15 10:21:56 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-15 10:21:56 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-15 10:23:12 [scraper.py:134] 📥 [EO] Title: Ash Streams from Klyuchevskaya Sopka
+INFO     2025-08-15 10:23:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154670/kluchevskaya_tmo_20250806_th.jpg
+INFO     2025-08-15 10:23:12 [scraper.py:155] ✅ [EO] Successfully fetched.
+
