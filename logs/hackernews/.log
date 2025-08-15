@@ -1780,3 +1780,36 @@ INFO     2025-08-15 02:10:55 [scraper.py:172] 🔗 [HN #10] URL: https://docs.hy
 INFO     2025-08-15 02:10:55 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-15 02:10:55 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-15 05:26:12 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #1] Blurry rendering of games on Mac
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #1] URL: https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #2] Gemma 3 270M: Compact model for hyper-efficient AI
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #2] URL: https://developers.googleblog.com/en/introducing-gemma-3-270m/
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #3] We rewrote the Ghostty GTK application
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #3] URL: https://mitchellh.com/writing/ghostty-gtk-rewrite
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #4] Progress towards universal Copy/Paste shortcuts on Linux
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #4] URL: https://mark.stosberg.com/universal-copy-paste/
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #5] Time to End Roundtripping by Big Pharma
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #5] URL: https://www.cfr.org/blog/time-end-roundtripping-big-pharma
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #6] Why LLMs can't really build software
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #6] URL: https://zed.dev/blog/why-llms-cant-build-software
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #7] Making reliable distributed systems in the presence of software errors (2003) [pdf]
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #7] URL: http://erlang.org/download/armstrong_thesis_2003.pdf
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-15 05:26:14 [scraper.py:171] 📥 [HN #8] Teenage Engineering's free computer case
+INFO     2025-08-15 05:26:14 [scraper.py:172] 🔗 [HN #8] URL: https://teenage.engineering/store/computer-2
+INFO     2025-08-15 05:26:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-15 05:26:15 [scraper.py:171] 📥 [HN #9] Blood oxygen monitoring returning to Apple Watch in the US
+INFO     2025-08-15 05:26:15 [scraper.py:172] 🔗 [HN #9] URL: https://www.apple.com/newsroom/2025/08/an-update-on-blood-oxygen-for-apple-watch-in-the-us/
+INFO     2025-08-15 05:26:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-15 05:26:15 [scraper.py:171] 📥 [HN #10] The secret code behind the CIA's Kryptos puzzle is up for sale
+INFO     2025-08-15 05:26:15 [scraper.py:172] 🔗 [HN #10] URL: https://news.artnet.com/art-world/cia-kryptos-sculpture-code-auction-2677451
+INFO     2025-08-15 05:26:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-15 05:26:15 [scraper.py:179] 🎉 [HN] All done.
+
