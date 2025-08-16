@@ -248,3 +248,8 @@ INFO     2025-08-15 10:21:56 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacle
 INFO     2025-08-15 10:21:57 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-15 10:21:57 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-16 02:04:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-16 02:04:45 [scraper.py:391] 📥 [TAROT] Card: Two of Cups
+INFO     2025-08-16 02:04:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-16 02:04:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

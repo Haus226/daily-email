@@ -390,3 +390,9 @@ INFO     2025-08-15 10:23:12 [scraper.py:134] 📥 [EO] Title: Ash Streams from 
 INFO     2025-08-15 10:23:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154670/kluchevskaya_tmo_20250806_th.jpg
 INFO     2025-08-15 10:23:12 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-16 02:04:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-16 02:04:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-16 02:04:59 [scraper.py:134] 📥 [EO] Title: Fire Burns Through Olympic Wilderness
+INFO     2025-08-16 02:04:59 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154682/olympicfire_oli_20250812_th.jpg
+INFO     2025-08-16 02:04:59 [scraper.py:155] ✅ [EO] Successfully fetched.
+

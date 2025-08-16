@@ -1846,3 +1846,36 @@ INFO     2025-08-15 10:21:58 [scraper.py:172] 🔗 [HN #10] URL: http://erlang.o
 INFO     2025-08-15 10:21:58 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-15 10:21:58 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-16 02:04:45 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #1] The future of large files in Git is Git
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #1] URL: https://tylercipriani.com/blog/2025/08/15/git-lfs/
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #2] Show HN: Edka – Kubernetes clusters on your own Hetzner account
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #2] URL: https://edka.io
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #3] I accidentally became PureGym’s unofficial Apple Wallet developer
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #3] URL: https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #4] Occult books digitized and put online by Amsterdam’s Ritman Library
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #4] URL: https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #5] Do Things That Don't Scale (2013)
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #5] URL: https://paulgraham.com/ds.html
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-16 02:04:46 [scraper.py:171] 📥 [HN #6] OpenBSD is so fast, I had to modify the program slightly to measure itself
+INFO     2025-08-16 02:04:46 [scraper.py:172] 🔗 [HN #6] URL: https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux
+INFO     2025-08-16 02:04:46 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-16 02:04:47 [scraper.py:171] 📥 [HN #7] Launch HN: Embedder (YC S25) – Claude code for embedded software
+INFO     2025-08-16 02:04:47 [scraper.py:172] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=44915206
+INFO     2025-08-16 02:04:47 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-16 02:04:48 [scraper.py:171] 📥 [HN #8] TextKit 2 – The Promised Land
+INFO     2025-08-16 02:04:48 [scraper.py:172] 🔗 [HN #8] URL: https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/
+INFO     2025-08-16 02:04:48 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-16 02:04:48 [scraper.py:171] 📥 [HN #9] Model intelligence is no longer the constraint for automation
+INFO     2025-08-16 02:04:48 [scraper.py:172] 🔗 [HN #9] URL: https://latentintent.substack.com/p/model-intelligence-is-no-longer-the
+INFO     2025-08-16 02:04:48 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-16 02:04:48 [scraper.py:171] 📥 [HN #10] Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot
+INFO     2025-08-16 02:04:48 [scraper.py:172] 🔗 [HN #10] URL: https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/
+INFO     2025-08-16 02:04:48 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-16 02:04:48 [scraper.py:179] 🎉 [HN] All done.
+
