@@ -1912,3 +1912,36 @@ INFO     2025-08-16 05:24:06 [scraper.py:172] 🔗 [HN #10] URL: https://www.sfc
 INFO     2025-08-16 05:24:06 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-16 05:24:06 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-16 10:19:24 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-16 10:19:24 [scraper.py:171] 📥 [HN #1] Everything I know about good system design
+INFO     2025-08-16 10:19:24 [scraper.py:172] 🔗 [HN #1] URL: https://www.seangoedecke.com/good-system-design/
+INFO     2025-08-16 10:19:24 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-16 10:19:24 [scraper.py:171] 📥 [HN #2] PuTTY has a new website
+INFO     2025-08-16 10:19:24 [scraper.py:172] 🔗 [HN #2] URL: https://putty.software/
+INFO     2025-08-16 10:19:24 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-16 10:19:24 [scraper.py:171] 📥 [HN #3] The future of large files in Git is Git
+INFO     2025-08-16 10:19:24 [scraper.py:172] 🔗 [HN #3] URL: https://tylercipriani.com/blog/2025/08/15/git-lfs/
+INFO     2025-08-16 10:19:24 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-16 10:19:25 [scraper.py:171] 📥 [HN #4] AI is different
+INFO     2025-08-16 10:19:25 [scraper.py:172] 🔗 [HN #4] URL: https://www.antirez.com/news/155
+INFO     2025-08-16 10:19:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-16 10:19:25 [scraper.py:171] 📥 [HN #5] Show HN: Edka – Kubernetes clusters on your own Hetzner account
+INFO     2025-08-16 10:19:25 [scraper.py:172] 🔗 [HN #5] URL: https://edka.io
+INFO     2025-08-16 10:19:25 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:171] 📥 [HN #6] I accidentally became PureGym’s unofficial Apple Wallet developer
+INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #6] URL: https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
+INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:171] 📥 [HN #7] Once Again, Oil States Thwart Agreement on Plastics
+INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #7] URL: https://e360.yale.edu/digest/global-plastics-treaty
+INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:171] 📥 [HN #8] Occult books digitized and put online by Amsterdam’s Ritman Library
+INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #8] URL: https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html
+INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:171] 📥 [HN #9] Deep-Sea Desalination Pulls Fresh Water from the Depths
+INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #9] URL: https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/
+INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:171] 📥 [HN #10] Dokploy is the sweet spot between PaaS and EC2
+INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #10] URL: https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)
+INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-16 10:19:26 [scraper.py:179] 🎉 [HN] All done.
+
