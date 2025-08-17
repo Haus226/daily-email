@@ -1978,3 +1978,36 @@ INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #10] URL: https://aeon.co
 INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-17 02:22:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-17 05:24:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-17 05:24:51 [scraper.py:171] 📥 [HN #1] In one command use 500 open source tools
+INFO     2025-08-17 05:24:51 [scraper.py:172] 🔗 [HN #1] URL: https://www.x-cmd.com/
+INFO     2025-08-17 05:24:51 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-17 05:24:51 [scraper.py:171] 📥 [HN #2] FFmpeg moves to Forgejo
+INFO     2025-08-17 05:24:51 [scraper.py:172] 🔗 [HN #2] URL: https://code.ffmpeg.org/FFmpeg/FFmpeg
+INFO     2025-08-17 05:24:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #3] Visualising how close random GUIDs come to being the same
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #3] URL: https://www.guidsmash.com
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #4] Dev Compass – Programming Philosophy Quiz
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #4] URL: https://treeform.github.io/devcompas/
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #5] An Argument for Increasing TCP's Initial Congestion Window Again
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #5] URL: https://jeclark.net/articles/tcp-initcwnd/?tag=performance
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #6] Dyna – Logic Programming for Machine Learning
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #6] URL: https://dyna.org/
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #7] GDPR meant nothing: chat control ends privacy for the EU [video]
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=3NyUgv6dpJc
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #8] The Raft Consensus Algorithm (2015)
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #8] URL: https://raft.github.io/
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-17 05:24:52 [scraper.py:171] 📥 [HN #9] OpenAI Progress
+INFO     2025-08-17 05:24:52 [scraper.py:172] 🔗 [HN #9] URL: https://progress.openai.com
+INFO     2025-08-17 05:24:52 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-17 05:24:53 [scraper.py:171] 📥 [HN #10] Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move
+INFO     2025-08-17 05:24:53 [scraper.py:172] 🔗 [HN #10] URL: https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/
+INFO     2025-08-17 05:24:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-17 05:24:53 [scraper.py:179] 🎉 [HN] All done.
+
