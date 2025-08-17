@@ -1945,3 +1945,36 @@ INFO     2025-08-16 10:19:26 [scraper.py:172] 🔗 [HN #10] URL: https://nikodun
 INFO     2025-08-16 10:19:26 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-16 10:19:26 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-17 02:22:41 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-17 02:22:42 [scraper.py:171] 📥 [HN #1] FFmpeg moves to Forgejo
+INFO     2025-08-17 02:22:42 [scraper.py:172] 🔗 [HN #1] URL: https://code.ffmpeg.org/FFmpeg/FFmpeg
+INFO     2025-08-17 02:22:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-17 02:22:42 [scraper.py:171] 📥 [HN #2] Dev Compass – Programming Philosophy Quiz
+INFO     2025-08-17 02:22:42 [scraper.py:172] 🔗 [HN #2] URL: https://treeform.github.io/devcompas/
+INFO     2025-08-17 02:22:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-17 02:22:42 [scraper.py:171] 📥 [HN #3] Visualising how close random GUIDs come to being the same
+INFO     2025-08-17 02:22:42 [scraper.py:172] 🔗 [HN #3] URL: https://www.guidsmash.com
+INFO     2025-08-17 02:22:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-17 02:22:42 [scraper.py:171] 📥 [HN #4] Dyna – Logic Programming for Machine Learning
+INFO     2025-08-17 02:22:42 [scraper.py:172] 🔗 [HN #4] URL: https://dyna.org/
+INFO     2025-08-17 02:22:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-17 02:22:42 [scraper.py:171] 📥 [HN #5] GDPR meant nothing: chat control ends privacy for the EU [video]
+INFO     2025-08-17 02:22:42 [scraper.py:172] 🔗 [HN #5] URL: https://www.youtube.com/watch?v=3NyUgv6dpJc
+INFO     2025-08-17 02:22:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:171] 📥 [HN #6] The Raft Consensus Algorithm (2015)
+INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #6] URL: https://raft.github.io/
+INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:171] 📥 [HN #7] Living with Williams Syndrome, the 'opposite of autism' (2014)
+INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #7] URL: https://www.bbc.com/news/health-26888280
+INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:171] 📥 [HN #8] OpenAI Progress
+INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #8] URL: https://progress.openai.com
+INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:171] 📥 [HN #9] Dicing an Onion, the Mathematically Optimal Way
+INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #9] URL: https://pudding.cool/2025/08/onions/
+INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:171] 📥 [HN #10] For Iris Murdoch, morality is about love, not duties and rules
+INFO     2025-08-17 02:22:43 [scraper.py:172] 🔗 [HN #10] URL: https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules
+INFO     2025-08-17 02:22:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-17 02:22:43 [scraper.py:179] 🎉 [HN] All done.
+

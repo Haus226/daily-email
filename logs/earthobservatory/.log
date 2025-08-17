@@ -408,3 +408,11 @@ INFO     2025-08-16 10:19:35 [scraper.py:134] 📥 [EO] Title: Fire Burns Throug
 INFO     2025-08-16 10:19:35 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154682/olympicfire_oli_20250812_th.jpg
 INFO     2025-08-16 10:19:35 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-17 02:22:41 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-17 02:22:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-17 02:22:58 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-17 02:22:58 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On September 4, 2024, an astronaut aboard the International Space Station captured an image over the Indian Ocean showing Earth's atmospheric layers: the troposphere appeared orange and red, the stratosphere white, and the mesosphere blue. The waxing crescent Moon was visible near the top layers, illuminated only on its lower-right edge; camera settings enhanced its brightness, creating a full-Moon illusion. Atmospheric refraction bent light, distorting the Moon's shape as it was positioned behind Earth's atmosphere relative to the station. Ice crystals high in the mesosphere refracted light, forming an arc-shaped partial lunar halo near the Moon. The photograph was taken with a Nikon Z9 camera at 200mm focal length, cropped and enhanced for contrast with lens artifacts removed.
+INFO     2025-08-17 02:22:58 [scraper.py:134] 📥 [EO] Title: A Halo Above the Horizon
+INFO     2025-08-17 02:22:58 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154679/iss071e609049_th.jpg
+INFO     2025-08-17 02:22:58 [scraper.py:155] ✅ [EO] Successfully fetched.
+
