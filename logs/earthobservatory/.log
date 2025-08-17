@@ -422,3 +422,11 @@ INFO     2025-08-17 05:25:06 [scraper.py:134] 📥 [EO] Title: A Halo Above the 
 INFO     2025-08-17 05:25:06 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154679/iss071e609049_th.jpg
 INFO     2025-08-17 05:25:06 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-17 10:20:03 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-17 10:20:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-17 10:20:20 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-17 10:20:20 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On September 4, 2024, an astronaut aboard the International Space Station captured an image over the Indian Ocean showing distinct atmospheric layers: the troposphere appearing orange and red, the stratosphere white, and the mesosphere blue hues. The waxing crescent Moon, positioned behind Earth's atmosphere relative to the ISS, appeared brighter and more full due to camera exposure settings, though only a sliver was illuminated. Atmospheric refraction bent light, distorting the Moon's shape and causing refracted light from high-atmosphere ice crystals to form an arc-shaped partial lunar halo near the Moon.
+INFO     2025-08-17 10:20:20 [scraper.py:134] 📥 [EO] Title: A Halo Above the Horizon
+INFO     2025-08-17 10:20:20 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154679/iss071e609049_th.jpg
+INFO     2025-08-17 10:20:20 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -2011,3 +2011,36 @@ INFO     2025-08-17 05:24:53 [scraper.py:172] 🔗 [HN #10] URL: https://www.neo
 INFO     2025-08-17 05:24:53 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-17 05:24:53 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-17 10:20:03 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-17 10:20:03 [scraper.py:171] 📥 [HN #1] IQ Tests Results for AI
+INFO     2025-08-17 10:20:03 [scraper.py:172] 🔗 [HN #1] URL: https://www.trackingai.org/home
+INFO     2025-08-17 10:20:03 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-17 10:20:03 [scraper.py:171] 📥 [HN #2] Lessons learned from building a sync-engine and reactivity system with SQLite
+INFO     2025-08-17 10:20:03 [scraper.py:172] 🔗 [HN #2] URL: https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
+INFO     2025-08-17 10:20:03 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #3] SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #3] URL: https://marnetto.net/2025/02/20/broderbund-stunts-1
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #4] Node.js can now execute TypeScript files
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #4] URL: https://nodejs.org/en/blog/release/v22.18.0
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #5] LLMs tell bad jokes because they avoid surprises
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #5] URL: https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #6] Dev Compass – Programming Philosophy Quiz
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #6] URL: https://treeform.github.io/devcompas/
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #7] Wan – Open-source alternative to VEO 3
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/Wan-Video/Wan2.2
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-17 10:20:04 [scraper.py:171] 📥 [HN #8] Visualising how close random GUIDs come to being the same
+INFO     2025-08-17 10:20:04 [scraper.py:172] 🔗 [HN #8] URL: https://www.guidsmash.com
+INFO     2025-08-17 10:20:04 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-17 10:20:05 [scraper.py:171] 📥 [HN #9] An Argument for Increasing TCP's Initial Congestion Window Again
+INFO     2025-08-17 10:20:05 [scraper.py:172] 🔗 [HN #9] URL: https://jeclark.net/articles/tcp-initcwnd/?tag=performance
+INFO     2025-08-17 10:20:05 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-17 10:20:05 [scraper.py:171] 📥 [HN #10] OpenAI Progress
+INFO     2025-08-17 10:20:05 [scraper.py:172] 🔗 [HN #10] URL: https://progress.openai.com
+INFO     2025-08-17 10:20:05 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-17 10:20:05 [scraper.py:179] 🎉 [HN] All done.
+
