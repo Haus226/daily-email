@@ -2077,3 +2077,36 @@ INFO     2025-08-18 02:22:59 [scraper.py:172] 🔗 [HN #10] URL: https://blog.de
 INFO     2025-08-18 02:22:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-18 02:22:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-18 05:28:42 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-18 05:28:42 [scraper.py:171] 📥 [HN #1] Clojure Async Flow Guide
+INFO     2025-08-18 05:28:42 [scraper.py:172] 🔗 [HN #1] URL: https://clojure.github.io/core.async/flow-guide.html
+INFO     2025-08-18 05:28:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-18 05:28:42 [scraper.py:171] 📥 [HN #2] A gigantic jet caught on camera: A spritacular moment for NASA astronaut
+INFO     2025-08-18 05:28:42 [scraper.py:172] 🔗 [HN #2] URL: https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/
+INFO     2025-08-18 05:28:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-18 05:28:42 [scraper.py:171] 📥 [HN #3] Google admits anti-competitive conduct involving Google Search in Australia
+INFO     2025-08-18 05:28:42 [scraper.py:172] 🔗 [HN #3] URL: https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia
+INFO     2025-08-18 05:28:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-18 05:28:42 [scraper.py:171] 📥 [HN #4] Claudia – Desktop companion for Claude code
+INFO     2025-08-18 05:28:42 [scraper.py:172] 🔗 [HN #4] URL: https://claudiacode.com/
+INFO     2025-08-18 05:28:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-18 05:28:42 [scraper.py:171] 📥 [HN #5] NUMA Is the New Network: Reshaping Per-Socket Microservice Placement
+INFO     2025-08-18 05:28:42 [scraper.py:172] 🔗 [HN #5] URL: https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement
+INFO     2025-08-18 05:28:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:171] 📥 [HN #6] The Enterprise Experience
+INFO     2025-08-18 05:28:43 [scraper.py:172] 🔗 [HN #6] URL: https://churchofturing.github.io/the-enterprise-experience.html
+INFO     2025-08-18 05:28:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:171] 📥 [HN #7] Llama-Scan: Convert PDFs to Text W Local LLMs
+INFO     2025-08-18 05:28:43 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/ngafar/llama-scan
+INFO     2025-08-18 05:28:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:171] 📥 [HN #8] Show HN: Doxx – Terminal .docx viewer inspired by Glow
+INFO     2025-08-18 05:28:43 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/bgreenwell/doxx
+INFO     2025-08-18 05:28:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:171] 📥 [HN #9] Modifying other people's software
+INFO     2025-08-18 05:28:43 [scraper.py:172] 🔗 [HN #9] URL: https://natkr.com/2025-08-14-modifying-other-peoples-software/
+INFO     2025-08-18 05:28:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:171] 📥 [HN #10] Mangle – a language for deductive database programming
+INFO     2025-08-18 05:28:43 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/google/mangle
+INFO     2025-08-18 05:28:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-18 05:28:43 [scraper.py:179] 🎉 [HN] All done.
+

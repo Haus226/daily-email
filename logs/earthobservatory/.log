@@ -438,3 +438,9 @@ INFO     2025-08-18 02:23:17 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe
 INFO     2025-08-18 02:23:17 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
 INFO     2025-08-18 02:23:17 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-18 05:28:42 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-18 05:28:42 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-18 05:28:53 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe Canyon Fire in a New Light
+INFO     2025-08-18 05:28:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
+INFO     2025-08-18 05:28:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+
