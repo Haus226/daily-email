@@ -2044,3 +2044,36 @@ INFO     2025-08-17 10:20:05 [scraper.py:172] 🔗 [HN #10] URL: https://progres
 INFO     2025-08-17 10:20:05 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-17 10:20:05 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-18 02:22:58 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #1] Clojure Async Flow Guide
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #1] URL: https://clojure.github.io/core.async/flow-guide.html
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #2] Claudia – Desktop companion for Claude code
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #2] URL: https://claudiacode.com/
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #3] Llama-Scan: Convert PDFs to Text W Local LLMs
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/ngafar/llama-scan
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #4] The Enterprise Experience
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #4] URL: https://churchofturing.github.io/the-enterprise-experience.html
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #5] LL3M: Large Language 3D Modelers
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #5] URL: https://threedle.github.io/ll3m/
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-18 02:22:58 [scraper.py:171] 📥 [HN #6] Show HN: Doxx – Terminal .docx viewer inspired by Glow
+INFO     2025-08-18 02:22:58 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/bgreenwell/doxx
+INFO     2025-08-18 02:22:58 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-18 02:22:59 [scraper.py:171] 📥 [HN #7] AI vs. Professional Authors Results
+INFO     2025-08-18 02:22:59 [scraper.py:172] 🔗 [HN #7] URL: http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html
+INFO     2025-08-18 02:22:59 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-18 02:22:59 [scraper.py:171] 📥 [HN #8] Modifying other people's software
+INFO     2025-08-18 02:22:59 [scraper.py:172] 🔗 [HN #8] URL: https://natkr.com/2025-08-14-modifying-other-peoples-software/
+INFO     2025-08-18 02:22:59 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-18 02:22:59 [scraper.py:171] 📥 [HN #9] Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea
+INFO     2025-08-18 02:22:59 [scraper.py:172] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=44932651
+INFO     2025-08-18 02:22:59 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-18 02:22:59 [scraper.py:171] 📥 [HN #10] Derivatives, Gradients, Jacobians and Hessians
+INFO     2025-08-18 02:22:59 [scraper.py:172] 🔗 [HN #10] URL: https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
+INFO     2025-08-18 02:22:59 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-18 02:22:59 [scraper.py:179] 🎉 [HN] All done.
+

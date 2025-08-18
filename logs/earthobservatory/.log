@@ -430,3 +430,11 @@ INFO     2025-08-17 10:20:20 [scraper.py:134] 📥 [EO] Title: A Halo Above the 
 INFO     2025-08-17 10:20:20 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154679/iss071e609049_th.jpg
 INFO     2025-08-17 10:20:20 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-18 02:22:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-18 02:22:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-18 02:23:17 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-18 02:23:17 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In summer 2025 NASA's ER-2 aircraft conducting the GEMx mineral mapping campaign over the western United States opportunistically collected data on the actively burning Monroe Canyon and Dragon Bravo wildfires in Utah and Arizona. Collaborating with the FireSense project the GEMx team used the MASTER instrument to capture infrared imagery through smoke plumes identifying active fire as orange recently burned areas as yellow-green and live vegetation in purple-blue. MASTER data distinguished flaming versus smoldering zones measured fire temperatures and informed fire behavior understanding while AVIRIS-5 mapped fire perimeters. Conditions during the July 30 Monroe Canyon overflight included high temperatures 5 percent humidity and 36 mph wind gusts contributing to fire intensification and pyrocumulus cloud formation. The collected data serves dual purposes improving surface mineral mapping in burned areas for GEMx and advancing wildfire management capabilities for FireSense by providing unprecedented high-resolution observations of active fires.
+INFO     2025-08-18 02:23:17 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe Canyon Fire in a New Light
+INFO     2025-08-18 02:23:17 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
+INFO     2025-08-18 02:23:17 [scraper.py:155] ✅ [EO] Successfully fetched.
+
