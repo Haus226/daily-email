@@ -288,3 +288,8 @@ INFO     2025-08-18 05:28:42 [scraper.py:391] 📥 [TAROT] Card: The High Priest
 INFO     2025-08-18 05:28:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-18 05:28:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-18 10:24:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-18 10:24:05 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-08-18 10:24:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-18 10:24:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

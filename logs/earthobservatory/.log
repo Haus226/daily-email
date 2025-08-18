@@ -444,3 +444,11 @@ INFO     2025-08-18 05:28:53 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe
 INFO     2025-08-18 05:28:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
 INFO     2025-08-18 05:28:53 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-18 10:24:05 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-18 10:24:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-18 10:24:31 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-18 10:24:31 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: NASA's ER-2 aircraft conducted Geological Earth Mapping Experiment (GEMx) mineral mapping flights over the western United States in summer 2025. During the campaign, scientists opportunistically collected data from the active Monroe Canyon and Dragon Bravo wildfires in Utah and Arizona by leveraging collaboration with the FireSense fire management project. Using the MASTER instrument, false-color infrared imagery penetrated smoke to distinguish active fires (bright orange), recently burned areas (yellow-green), and live vegetation (purple/blue), enabling analysis of fire intensity, temperature, and flaming versus smoldering zones. Complementary AVIRIS-5 spectral data aided fire perimeter mapping. Data captured on July 30, 2025, showed fire intensification linked to high temperatures, low humidity (5%), and strong winds (36 mph), with pyrocumulus cloud formation observed later. The joint effort advances research on fire-mineral spectral interactions for post-fire mineral mapping and provides high-resolution wildfire behavior insights for fire management applications.
+INFO     2025-08-18 10:24:31 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe Canyon Fire in a New Light
+INFO     2025-08-18 10:24:31 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
+INFO     2025-08-18 10:24:31 [scraper.py:155] ✅ [EO] Successfully fetched.
+
