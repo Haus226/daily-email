@@ -452,3 +452,11 @@ INFO     2025-08-18 10:24:31 [scraper.py:134] 📥 [EO] Title: Seeing the Monroe
 INFO     2025-08-18 10:24:31 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154673/utahfires_master_20250730_th.jpg
 INFO     2025-08-18 10:24:31 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-19 02:03:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-19 02:03:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-19 02:03:56 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-19 02:03:56 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On May 6, 1896, Samuel Pierpont Langley, Secretary of the Smithsonian Institution, successfully flew Aerodrome No. 5, an unpiloted, engine-driven, heavier-than-air craft, from a houseboat on the Potomac River near Chopawamsic Island, Virginia. Launched via a spring-loaded catapult at 3:05 p.m., the 25-pound aircraft ascended using southerly headwinds to 70–100 feet, maintaining remarkable steadiness for over 90 seconds during a spiraling flight covering more than 3,000 horizontal feet. The flight concluded when the steam engine exhausted its fuel, landing the craft undamaged in the river. Witness Alexander Graham Bell described it as gliding "like a great mechanical bird," confirming the practicality of mechanical flight. This marked the world's first successful flight of its kind.
+INFO     2025-08-19 02:03:56 [scraper.py:134] 📥 [EO] Title: The Potomac Island Where History Took Flight
+INFO     2025-08-19 02:03:56 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154686/potomaclangley_oli2_20240801_th.jpg
+INFO     2025-08-19 02:03:56 [scraper.py:155] ✅ [EO] Successfully fetched.
+

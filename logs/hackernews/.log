@@ -2143,3 +2143,36 @@ INFO     2025-08-18 10:24:07 [scraper.py:172] 🔗 [HN #10] URL: https://www.her
 INFO     2025-08-18 10:24:07 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-18 10:24:07 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-19 02:03:38 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-19 02:03:38 [scraper.py:171] 📥 [HN #1] Shamelessness as a strategy (2019)
+INFO     2025-08-19 02:03:38 [scraper.py:172] 🔗 [HN #1] URL: https://nadia.xyz/shameless
+INFO     2025-08-19 02:03:38 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-19 02:03:38 [scraper.py:171] 📥 [HN #2] X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls
+INFO     2025-08-19 02:03:38 [scraper.py:172] 🔗 [HN #2] URL: https://www.popsci.com/technology/tibetan-prayer-scroll-scans/
+INFO     2025-08-19 02:03:38 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #3] Lab-Grown Salmon Hits the Menu at an Oregon Restaurant as the FDA Greenlights
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #3] URL: https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #4] Croatian freediver held breath for 29 minutes
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #4] URL: https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #5] Obsidian Bases
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #5] URL: https://help.obsidian.md/bases
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #6] XZ Utils Backdoor Still Lurking in Docker Images
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #6] URL: https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #7] Starting game development in JavaScript with no experience
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #7] URL: https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-19 02:03:39 [scraper.py:171] 📥 [HN #8] A minimal tensor processing unit (TPU), inspired by Google's TPU
+INFO     2025-08-19 02:03:39 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/tiny-tpu-v2/tiny-tpu
+INFO     2025-08-19 02:03:39 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-19 02:03:40 [scraper.py:171] 📥 [HN #9] Show HN: Whispering – Open-source, local-first dictation you can trust
+INFO     2025-08-19 02:03:40 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/epicenter-so/epicenter/tree/main/apps/whispering
+INFO     2025-08-19 02:03:40 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-19 02:03:40 [scraper.py:171] 📥 [HN #10] Left to Right Programming
+INFO     2025-08-19 02:03:40 [scraper.py:172] 🔗 [HN #10] URL: https://graic.net/p/left-to-right-programming
+INFO     2025-08-19 02:03:40 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-19 02:03:40 [scraper.py:179] 🎉 [HN] All done.
+
