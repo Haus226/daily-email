@@ -2275,3 +2275,36 @@ INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #10] URL: https://h4x0r.o
 INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-20 02:01:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-20 05:24:10 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #1] AGENTS.md – Open format for guiding coding agents
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #1] URL: https://agents.md/
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #2] Copilot broke audit logs, but Microsoft won't tell customers
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #2] URL: https://pistachioapp.com/blog/copilot-broke-your-audit-log
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #3] How to Draw a Space Invader
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #3] URL: https://muffinman.io/blog/invaders/
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #4] How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #4] URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #5] Tiny microbe challenges the definition of cellular life
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #5] URL: https://nautil.us/a-rogue-new-life-form-1232095/
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-20 05:24:11 [scraper.py:171] 📥 [HN #6] D2 (text to diagram tool) now supports ASCII renders
+INFO     2025-08-20 05:24:11 [scraper.py:172] 🔗 [HN #6] URL: https://d2lang.com/blog/ascii/
+INFO     2025-08-20 05:24:11 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-20 05:24:12 [scraper.py:171] 📥 [HN #7] How I Made Ruby Faster Than Ruby
+INFO     2025-08-20 05:24:12 [scraper.py:172] 🔗 [HN #7] URL: https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster
+INFO     2025-08-20 05:24:12 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-20 05:24:12 [scraper.py:171] 📥 [HN #8] Pre-Sputnik Earth-Orbit Glints
+INFO     2025-08-20 05:24:12 [scraper.py:172] 🔗 [HN #8] URL: https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit
+INFO     2025-08-20 05:24:12 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-20 05:24:12 [scraper.py:171] 📥 [HN #9] The End of Handwriting
+INFO     2025-08-20 05:24:12 [scraper.py:172] 🔗 [HN #9] URL: https://www.wired.com/story/the-end-of-handwriting/
+INFO     2025-08-20 05:24:12 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-20 05:24:12 [scraper.py:171] 📥 [HN #10] Monoid-Augmented FIFOs, Deamortised
+INFO     2025-08-20 05:24:12 [scraper.py:172] 🔗 [HN #10] URL: https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/
+INFO     2025-08-20 05:24:12 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-20 05:24:12 [scraper.py:179] 🎉 [HN] All done.
+
