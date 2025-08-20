@@ -2242,3 +2242,36 @@ INFO     2025-08-19 10:21:46 [scraper.py:172] 🔗 [HN #10] URL: https://linch.s
 INFO     2025-08-19 10:21:46 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-19 10:21:46 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-20 02:01:41 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-20 02:01:42 [scraper.py:171] 📥 [HN #1] AGENTS.md – Open format for guiding coding agents
+INFO     2025-08-20 02:01:42 [scraper.py:172] 🔗 [HN #1] URL: https://agents.md/
+INFO     2025-08-20 02:01:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-20 02:01:42 [scraper.py:171] 📥 [HN #2] Copilot broke audit logs, but Microsoft won't tell customers
+INFO     2025-08-20 02:01:42 [scraper.py:172] 🔗 [HN #2] URL: https://pistachioapp.com/blog/copilot-broke-your-audit-log
+INFO     2025-08-20 02:01:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-20 02:01:42 [scraper.py:171] 📥 [HN #3] How to Draw a Space Invader
+INFO     2025-08-20 02:01:42 [scraper.py:172] 🔗 [HN #3] URL: https://muffinman.io/blog/invaders/
+INFO     2025-08-20 02:01:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-20 02:01:42 [scraper.py:171] 📥 [HN #4] Tiny microbe challenges the definition of cellular life
+INFO     2025-08-20 02:01:42 [scraper.py:172] 🔗 [HN #4] URL: https://nautil.us/a-rogue-new-life-form-1232095/
+INFO     2025-08-20 02:01:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-20 02:01:42 [scraper.py:171] 📥 [HN #5] How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos
+INFO     2025-08-20 02:01:42 [scraper.py:172] 🔗 [HN #5] URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+INFO     2025-08-20 02:01:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:171] 📥 [HN #6] D2 (text to diagram tool) now supports ASCII renders
+INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #6] URL: https://d2lang.com/blog/ascii/
+INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:171] 📥 [HN #7] Drunken Bishop (2023)
+INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #7] URL: https://re.factorcode.org/2023/08/drunken-bishop.html
+INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:171] 📥 [HN #8] Physically Based Rendering in Filament
+INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #8] URL: https://google.github.io/filament/Filament.md.html#overview
+INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:171] 📥 [HN #9] Emacs as your video-trimming tool
+INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #9] URL: https://xenodium.com/emacs-as-your-video-trimming-tool
+INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:171] 📥 [HN #10] Without the futex, it's futile
+INFO     2025-08-20 02:01:43 [scraper.py:172] 🔗 [HN #10] URL: https://h4x0r.org/futex/
+INFO     2025-08-20 02:01:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-20 02:01:43 [scraper.py:179] 🎉 [HN] All done.
+

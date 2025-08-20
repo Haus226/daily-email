@@ -338,3 +338,8 @@ INFO     2025-08-19 10:21:44 [scraper.py:47] 📥 [APOD] Title: Giant Galaxies i
 INFO     2025-08-19 10:21:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg
 INFO     2025-08-19 10:21:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-20 02:01:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-20 02:01:42 [scraper.py:47] 📥 [APOD] Title: Giant Galaxies in Pavo
+INFO     2025-08-20 02:01:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg
+INFO     2025-08-20 02:01:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -474,3 +474,11 @@ INFO     2025-08-19 10:22:15 [scraper.py:134] 📥 [EO] Title: The Potomac Islan
 INFO     2025-08-19 10:22:15 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154686/potomaclangley_oli2_20240801_th.jpg
 INFO     2025-08-19 10:22:15 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-20 02:01:41 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-20 02:01:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-20 02:02:08 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-20 02:02:08 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Mid-August 2025 witnessed intensified wildland fires across Spain and Portugal during extreme heatwave conditions. By August 19, Spain had recorded over 382,000 hectares burned since January, exceeding all previous EFFIS records dating to 2006, while Portugal reported 347,000 hectares burned, ranking second only to 2017. MODIS satellite data captured active fires on August 15, with approximately 20 blazes in Spain (including 12 near Ourense) and 10 large fires in Portugal (notably 39,000 hectares consumed in Trancoso). Smoke emissions reached record levels in Spain and near-record levels in Portugal, contributing to significant black carbon and PM2.5 pollution with health implications. Transboundary smoke affected France, the UK, and Scandinavia, combining with Canadian wildfire smoke. The fires displaced populations and disrupted infrastructure, including the Madrid-Galicia high-speed rail service. Data derived from NASA's FIRMS and EFFIS systems confirmed the unprecedented scale of burning and atmospheric impacts.
+INFO     2025-08-20 02:02:08 [scraper.py:134] 📥 [EO] Title: Smoke Blankets the Iberian Peninsula
+INFO     2025-08-20 02:02:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154691/portugalsmoke_tmo_20250815_th.jpg
+INFO     2025-08-20 02:02:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+
