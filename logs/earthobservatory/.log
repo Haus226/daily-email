@@ -488,3 +488,11 @@ INFO     2025-08-20 05:24:21 [scraper.py:134] 📥 [EO] Title: Smoke Blankets th
 INFO     2025-08-20 05:24:21 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154691/portugalsmoke_tmo_20250815_th.jpg
 INFO     2025-08-20 05:24:21 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-20 10:21:28 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-20 10:21:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-20 10:21:43 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-20 10:21:43 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Wildfires in Spain and Portugal intensified during mid-August 2025 amid extreme heatwave conditions. By August 19, Spanish fires had burned over 382,000 hectares, exceeding all annual totals in the European Forest Fire Information System (EFFIS) records since 2006, with approximately 20 active blazes reported nationally and a dozen near Ourense. Portuguese fires consumed over 347,000 hectares, ranking second only to 2017 in EFFIS data, including a 39,000-hectare fire in Trancoso. Smoke caused record carbon emissions in Spain and near-record levels in Portugal, with particulate matter impacting air quality; plumes spread to France, the UK, and Scandinavia, combining with Canadian wildfire smoke. Thousands of firefighters responded to the blazes, displacing tens of thousands of residents and disrupting infrastructure, including Madrid-Galicia high-speed rail service.
+INFO     2025-08-20 10:21:43 [scraper.py:134] 📥 [EO] Title: Smoke Blankets the Iberian Peninsula
+INFO     2025-08-20 10:21:43 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154691/portugalsmoke_tmo_20250815_th.jpg
+INFO     2025-08-20 10:21:43 [scraper.py:155] ✅ [EO] Successfully fetched.
+
