@@ -2374,3 +2374,36 @@ INFO     2025-08-21 02:00:15 [scraper.py:172] 🔗 [HN #10] URL: https://mackuba
 INFO     2025-08-21 02:00:15 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-21 02:00:15 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-21 05:24:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-21 05:24:35 [scraper.py:171] 📥 [HN #1] Code review can be better
+INFO     2025-08-21 05:24:35 [scraper.py:172] 🔗 [HN #1] URL: https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+INFO     2025-08-21 05:24:35 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-21 05:24:35 [scraper.py:171] 📥 [HN #2] Show HN: I was curious about spherical helix, ended up making this visualization
+INFO     2025-08-21 05:24:35 [scraper.py:172] 🔗 [HN #2] URL: https://visualrambling.space/moving-objects-in-3d/
+INFO     2025-08-21 05:24:35 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-21 05:24:35 [scraper.py:171] 📥 [HN #3] SK hynix dethrones Samsung as world’s top DRAM maker
+INFO     2025-08-21 05:24:35 [scraper.py:172] 🔗 [HN #3] URL: https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834
+INFO     2025-08-21 05:24:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-21 05:24:35 [scraper.py:171] 📥 [HN #4] Epson MX-80 Fonts
+INFO     2025-08-21 05:24:35 [scraper.py:172] 🔗 [HN #4] URL: https://mw.rat.bz/MX-80/
+INFO     2025-08-21 05:24:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-21 05:24:35 [scraper.py:171] 📥 [HN #5] A statistical analysis of Rotten Tomatoes
+INFO     2025-08-21 05:24:35 [scraper.py:172] 🔗 [HN #5] URL: https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable
+INFO     2025-08-21 05:24:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:171] 📥 [HN #6] I've never had a real adversary
+INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #6] URL: https://inoticeiamconfused.substack.com/p/ive-never-had-a-real-adversary
+INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:171] 📥 [HN #7] The Pleasure of Patterns in Art
+INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #7] URL: https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/
+INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:171] 📥 [HN #8] Why are anime catgirls blocking my access to the Linux kernel?
+INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #8] URL: https://lock.cmpxchg8b.com/anubis.html
+INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:171] 📥 [HN #9] Gemma 3 270M re-implemented in pure PyTorch for local tinkering
+INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3
+INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:171] 📥 [HN #10] SimpleIDE
+INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/jamesplotts/simpleide
+INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-21 05:24:36 [scraper.py:179] 🎉 [HN] All done.
+
