@@ -510,3 +510,11 @@ INFO     2025-08-21 05:24:54 [scraper.py:134] 📥 [EO] Title: Hurricane Erin Ro
 INFO     2025-08-21 05:24:54 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154694/hurricaneerineye_tmo_20250818_th.jpg
 INFO     2025-08-21 05:24:54 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-21 10:21:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-21 10:21:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-21 10:21:29 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-21 10:21:29 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Hurricane Erin, the first Atlantic hurricane of the 2025 season, rapidly intensified from Category 1 to Category 5 in just over 24 hours between August 14 and 16, reaching peak sustained winds of 160 mph (260 km/h) northeast of Puerto Rico on August 16. Contributing factors included light wind shear, a compact structure, unusually warm sea surface temperatures, and the storm's swift movement preventing significant ocean cooling. Erin became only the 43rd Atlantic Category 5 hurricane since 1851 records began and the earliest recorded at its location. While avoiding landfall, it brought heavy rain, strong winds, and power outages to Puerto Rico, the Turks and Caicos Islands, and the Bahamas before weakening and paralleling the U.S. East Coast as a Category 2 storm, generating hazardous coastal conditions.
+INFO     2025-08-21 10:21:29 [scraper.py:134] 📥 [EO] Title: Hurricane Erin Roils in the Atlantic
+INFO     2025-08-21 10:21:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154694/hurricaneerineye_tmo_20250818_th.jpg
+INFO     2025-08-21 10:21:29 [scraper.py:155] ✅ [EO] Successfully fetched.
+

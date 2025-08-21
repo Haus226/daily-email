@@ -2407,3 +2407,36 @@ INFO     2025-08-21 05:24:36 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-08-21 05:24:36 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-21 05:24:36 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-21 10:21:12 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-21 10:21:13 [scraper.py:171] 📥 [HN #1] D4d4
+INFO     2025-08-21 10:21:13 [scraper.py:172] 🔗 [HN #1] URL: https://www.nmichaels.org/musings/d4d4/d4d4/
+INFO     2025-08-21 10:21:13 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-21 10:21:13 [scraper.py:171] 📥 [HN #2] Show HN: I replaced vector databases with Git for AI memory (PoC)
+INFO     2025-08-21 10:21:13 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/Growth-Kinetics/DiffMem
+INFO     2025-08-21 10:21:13 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-21 10:21:13 [scraper.py:171] 📥 [HN #3] Code review can be better
+INFO     2025-08-21 10:21:13 [scraper.py:172] 🔗 [HN #3] URL: https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+INFO     2025-08-21 10:21:13 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-21 10:21:13 [scraper.py:171] 📥 [HN #4] To Infinity but Not Beyond
+INFO     2025-08-21 10:21:13 [scraper.py:172] 🔗 [HN #4] URL: https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/
+INFO     2025-08-21 10:21:13 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #5] Show HN: I was curious about spherical helix, ended up making this visualization
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #5] URL: https://visualrambling.space/moving-objects-in-3d/
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #6] Epson MX-80 Fonts
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #6] URL: https://mw.rat.bz/MX-80/
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #7] Data, objects, and how we're railroaded into poor design (2018)
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #7] URL: https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #8] Why are anime catgirls blocking my access to the Linux kernel?
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #8] URL: https://lock.cmpxchg8b.com/anubis.html
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #9] Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #9] URL: https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:171] 📥 [HN #10] Python f-string cheat sheets (2022)
+INFO     2025-08-21 10:21:14 [scraper.py:172] 🔗 [HN #10] URL: https://fstring.help/cheat/
+INFO     2025-08-21 10:21:14 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-21 10:21:14 [scraper.py:179] 🎉 [HN] All done.
+
