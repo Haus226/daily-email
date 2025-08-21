@@ -2341,3 +2341,36 @@ INFO     2025-08-20 10:21:30 [scraper.py:172] 🔗 [HN #10] URL: https://arthi-c
 INFO     2025-08-20 10:21:30 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-20 10:21:30 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-21 02:00:13 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-21 02:00:13 [scraper.py:171] 📥 [HN #1] Code review can be better
+INFO     2025-08-21 02:00:13 [scraper.py:172] 🔗 [HN #1] URL: https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/
+INFO     2025-08-21 02:00:13 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-21 02:00:14 [scraper.py:171] 📥 [HN #2] SK hynix dethrones Samsung as world’s top DRAM maker
+INFO     2025-08-21 02:00:14 [scraper.py:172] 🔗 [HN #2] URL: https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834
+INFO     2025-08-21 02:00:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-21 02:00:14 [scraper.py:171] 📥 [HN #3] Show HN: I was curious about spherical helix, ended up making this visualization
+INFO     2025-08-21 02:00:14 [scraper.py:172] 🔗 [HN #3] URL: https://visualrambling.space/moving-objects-in-3d/
+INFO     2025-08-21 02:00:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-21 02:00:14 [scraper.py:171] 📥 [HN #4] A statistical analysis of Rotten Tomatoes
+INFO     2025-08-21 02:00:14 [scraper.py:172] 🔗 [HN #4] URL: https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable
+INFO     2025-08-21 02:00:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-21 02:00:14 [scraper.py:171] 📥 [HN #5] How to stop feeling lost in tech: the wafflehouse method
+INFO     2025-08-21 02:00:14 [scraper.py:172] 🔗 [HN #5] URL: https://www.yacinemahdid.com/p/how-to-stop-feeling-lost-in-tech
+INFO     2025-08-21 02:00:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-21 02:00:14 [scraper.py:171] 📥 [HN #6] Gemma 3 270M re-implemented in pure PyTorch for local tinkering
+INFO     2025-08-21 02:00:14 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3
+INFO     2025-08-21 02:00:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-21 02:00:15 [scraper.py:171] 📥 [HN #7] Why are anime catgirls blocking my access to the Linux kernel?
+INFO     2025-08-21 02:00:15 [scraper.py:172] 🔗 [HN #7] URL: https://lock.cmpxchg8b.com/anubis.html
+INFO     2025-08-21 02:00:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-21 02:00:15 [scraper.py:171] 📥 [HN #8] Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python
+INFO     2025-08-21 02:00:15 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/plutoprint/plutoprint
+INFO     2025-08-21 02:00:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-21 02:00:15 [scraper.py:171] 📥 [HN #9] Launch HN: Channel3 (YC S25) – A database of every product on the internet
+INFO     2025-08-21 02:00:15 [scraper.py:172] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=44962881
+INFO     2025-08-21 02:00:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-21 02:00:15 [scraper.py:171] 📥 [HN #10] Introduction to AT Protocol
+INFO     2025-08-21 02:00:15 [scraper.py:172] 🔗 [HN #10] URL: https://mackuba.eu/2025/08/20/introduction-to-atproto/
+INFO     2025-08-21 02:00:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-21 02:00:15 [scraper.py:179] 🎉 [HN] All done.
+
