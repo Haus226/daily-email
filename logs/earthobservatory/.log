@@ -534,3 +534,9 @@ INFO     2025-08-22 05:24:30 [scraper.py:134] 📥 [EO] Title: Drought Parches t
 INFO     2025-08-22 05:24:30 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
 INFO     2025-08-22 05:24:30 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-22 10:20:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-22 10:20:51 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-22 10:21:01 [scraper.py:134] 📥 [EO] Title: Drought Parches the Yakima River Basin
+INFO     2025-08-22 10:21:01 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
+INFO     2025-08-22 10:21:01 [scraper.py:155] ✅ [EO] Successfully fetched.
+
