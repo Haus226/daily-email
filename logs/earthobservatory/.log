@@ -526,3 +526,11 @@ INFO     2025-08-22 02:01:23 [scraper.py:134] 📥 [EO] Title: Drought Parches t
 INFO     2025-08-22 02:01:23 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
 INFO     2025-08-22 02:01:23 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-22 05:24:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-22 05:24:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-22 05:24:30 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-22 05:24:30 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Yakima River Basin in south-central Washington, covering over 6,000 square miles, experienced its third consecutive year of drought in 2025. Rainfall was 25-50% below normal, with modest winter snowpack melting early due to warm temperatures, leading to significantly reduced stream runoff. Reservoir levels dropped to 39% capacity by late July 2025, half the typical average, and further declined to 27% by August 21, with individual reservoirs at critically low levels (Keechelus Lake 9%, Cle Elum Lake 7%). Water shortages resulted in junior water rights holders receiving only 40% of entitlements, forcing irrigation districts to curtail water distribution weeks ahead of schedule, impacting agricultural production of hops, apples, and other crops.
+INFO     2025-08-22 05:24:30 [scraper.py:134] 📥 [EO] Title: Drought Parches the Yakima River Basin
+INFO     2025-08-22 05:24:30 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
+INFO     2025-08-22 05:24:30 [scraper.py:155] ✅ [EO] Successfully fetched.
+

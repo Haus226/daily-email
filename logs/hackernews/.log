@@ -2473,3 +2473,36 @@ INFO     2025-08-22 02:01:04 [scraper.py:172] 🔗 [HN #10] URL: https://feyor.s
 INFO     2025-08-22 02:01:04 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-22 02:01:04 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-22 05:24:11 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-22 05:24:11 [scraper.py:171] 📥 [HN #1] Io_uring, kTLS and Rust for zero syscall HTTPS server
+INFO     2025-08-22 05:24:11 [scraper.py:172] 🔗 [HN #1] URL: https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html
+INFO     2025-08-22 05:24:11 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-22 05:24:12 [scraper.py:171] 📥 [HN #2] Control shopping cart wheels with your phone (2021)
+INFO     2025-08-22 05:24:12 [scraper.py:172] 🔗 [HN #2] URL: https://www.begaydocrime.com/
+INFO     2025-08-22 05:24:12 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-22 05:24:12 [scraper.py:171] 📥 [HN #3] DeepSeek-v3.1
+INFO     2025-08-22 05:24:12 [scraper.py:172] 🔗 [HN #3] URL: https://api-docs.deepseek.com/news/news250821
+INFO     2025-08-22 05:24:12 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-22 05:24:12 [scraper.py:171] 📥 [HN #4] Uv format: Code Formatting Comes to uv (experimentally)
+INFO     2025-08-22 05:24:12 [scraper.py:172] 🔗 [HN #4] URL: https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/
+INFO     2025-08-22 05:24:12 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-22 05:24:12 [scraper.py:171] 📥 [HN #5] From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]
+INFO     2025-08-22 05:24:12 [scraper.py:172] 🔗 [HN #5] URL: https://www.fertrevino.com/docs/gpt5_medhelm.pdf
+INFO     2025-08-22 05:24:12 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-22 05:24:12 [scraper.py:171] 📥 [HN #6] Crimes with Python's Pattern Matching (2022)
+INFO     2025-08-22 05:24:12 [scraper.py:172] 🔗 [HN #6] URL: https://www.hillelwayne.com/post/python-abc/
+INFO     2025-08-22 05:24:12 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-22 05:24:13 [scraper.py:171] 📥 [HN #7] Benchmarks for Golang SQLite Drivers
+INFO     2025-08-22 05:24:13 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/cvilsmeier/go-sqlite-bench
+INFO     2025-08-22 05:24:13 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-22 05:24:13 [scraper.py:171] 📥 [HN #8] An interactive guide to SVG paths
+INFO     2025-08-22 05:24:13 [scraper.py:172] 🔗 [HN #8] URL: https://www.joshwcomeau.com/svg/interactive-guide-to-paths/
+INFO     2025-08-22 05:24:13 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-22 05:24:13 [scraper.py:171] 📥 [HN #9] 1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]
+INFO     2025-08-22 05:24:13 [scraper.py:172] 🔗 [HN #9] URL: https://www.youtube.com/watch?v=jHG_I-9a7FY
+INFO     2025-08-22 05:24:13 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-22 05:24:13 [scraper.py:171] 📥 [HN #10] Elegant mathematics bending the future of design
+INFO     2025-08-22 05:24:13 [scraper.py:172] 🔗 [HN #10] URL: https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/
+INFO     2025-08-22 05:24:13 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-22 05:24:13 [scraper.py:179] 🎉 [HN] All done.
+
