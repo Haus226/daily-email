@@ -338,3 +338,8 @@ INFO     2025-08-21 10:21:12 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
 INFO     2025-08-21 10:21:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-21 10:21:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-22 02:01:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-22 02:01:02 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-08-22 02:01:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-22 02:01:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

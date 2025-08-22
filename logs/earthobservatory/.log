@@ -518,3 +518,11 @@ INFO     2025-08-21 10:21:29 [scraper.py:134] 📥 [EO] Title: Hurricane Erin Ro
 INFO     2025-08-21 10:21:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154694/hurricaneerineye_tmo_20250818_th.jpg
 INFO     2025-08-21 10:21:29 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-22 02:01:02 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-22 02:01:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-22 02:01:23 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-22 02:01:23 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Yakima River Basin in south-central Washington, spanning over 6,000 square miles, faced severe drought for the third consecutive year in 2025, with much of the basin receiving only 25-50% of normal rainfall and significantly reduced stream runoff due to low snowpack and early melt. Reservoir storage plummeted to 39% capacity by late July 2025—half the historical average—and further declined to 27% by mid-August, with Keechelus Lake at 9%, Kachess Lake at 34%, and Cle Elum Lake at 7% capacity. These critical water shortages led the Bureau of Reclamation to restrict junior water rights holders to 40% of allocations, prompting irrigation districts like Kittitas and Roza to end water distribution weeks early, severely impacting agricultural production of hops, apples, and other specialty crops.
+INFO     2025-08-22 02:01:23 [scraper.py:134] 📥 [EO] Title: Drought Parches the Yakima River Basin
+INFO     2025-08-22 02:01:23 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
+INFO     2025-08-22 02:01:23 [scraper.py:155] ✅ [EO] Successfully fetched.
+
