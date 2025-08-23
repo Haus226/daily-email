@@ -540,3 +540,9 @@ INFO     2025-08-22 10:21:01 [scraper.py:134] 📥 [EO] Title: Drought Parches t
 INFO     2025-08-22 10:21:01 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154703/washingtondrought_oli_20250729_th.jpg
 INFO     2025-08-22 10:21:01 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-23 01:56:39 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-23 01:56:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-23 01:56:48 [scraper.py:134] 📥 [EO] Title: From Forest to Field in Pará
+INFO     2025-08-23 01:56:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154708/brazil_oli_20240923_th.jpg
+INFO     2025-08-23 01:56:48 [scraper.py:155] ✅ [EO] Successfully fetched.
+
