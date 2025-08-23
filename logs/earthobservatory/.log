@@ -546,3 +546,11 @@ INFO     2025-08-23 01:56:48 [scraper.py:134] 📥 [EO] Title: From Forest to Fi
 INFO     2025-08-23 01:56:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154708/brazil_oli_20240923_th.jpg
 INFO     2025-08-23 01:56:48 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-23 05:21:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-23 05:21:50 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-23 05:22:06 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-23 05:22:06 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Landsat 8 imagery from September 23, 2024, reveals human land use patterns in Pará, Brazil, near the Amazon-Tapajós confluence during the dry season. Santarém functions as a key port for soybean and corn distribution via BR-163 highway, while Belterra shows agricultural expansion into cleared forest patches radiating from rivers and roads. The Tapajós National Forest, spanning over 5,300 square kilometers east of the Tapajós River and west of BR-163, protects biodiverse dense ombrophilous forest under sustainable-use conservation management.
+INFO     2025-08-23 05:22:06 [scraper.py:134] 📥 [EO] Title: From Forest to Field in Pará
+INFO     2025-08-23 05:22:06 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154708/brazil_oli_20240923_th.jpg
+INFO     2025-08-23 05:22:06 [scraper.py:155] ✅ [EO] Successfully fetched.
+
