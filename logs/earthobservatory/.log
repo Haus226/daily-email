@@ -578,3 +578,9 @@ INFO     2025-08-24 05:23:45 [scraper.py:134] 📥 [EO] Title: Kamchatka Peaks P
 INFO     2025-08-24 05:23:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154713/ISS073-E-175791_th.jpg
 INFO     2025-08-24 05:23:45 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-24 10:18:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-24 10:19:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-24 10:19:14 [scraper.py:134] 📥 [EO] Title: Kamchatka Peaks Pierce the Clouds
+INFO     2025-08-24 10:19:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154713/ISS073-E-175791_th.jpg
+INFO     2025-08-24 10:19:14 [scraper.py:155] ✅ [EO] Successfully fetched.
+
