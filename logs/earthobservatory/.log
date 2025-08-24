@@ -570,3 +570,11 @@ INFO     2025-08-24 02:14:34 [scraper.py:134] 📥 [EO] Title: Kamchatka Peaks P
 INFO     2025-08-24 02:14:34 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154713/ISS073-E-175791_th.jpg
 INFO     2025-08-24 02:14:34 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-24 05:23:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-24 05:23:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-24 05:23:45 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-24 05:23:45 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: An astronaut from the International Space Station captured an oblique photograph on May 29, 2025, depicting Russia's Kamchatka Peninsula, highlighting its topography spanning over 350 kilometers. The image shows snow and ice on mountain peaks including Klyuchevskaya Sopka at 4,754 meters, Vulkan Kamen’ at 4,585 meters, and Gora Ostryy Tolbachik at 3,611 meters, part of the Klyuchevskoy Volcanic Group bordered by the Eastern and Central Ranges. Two months later, a magnitude 8.8 earthquake on July 29, 2025, south of the volcanic group coincided with intensified eruptions at Klyuchevskaya Sopka and Krasheninnikova, illustrating how seismic activity can trigger existing volcanic unrest in this tectonically active Ring of Fire region.
+INFO     2025-08-24 05:23:45 [scraper.py:134] 📥 [EO] Title: Kamchatka Peaks Pierce the Clouds
+INFO     2025-08-24 05:23:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154713/ISS073-E-175791_th.jpg
+INFO     2025-08-24 05:23:45 [scraper.py:155] ✅ [EO] Successfully fetched.
+
