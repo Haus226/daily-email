@@ -398,3 +398,8 @@ INFO     2025-08-23 10:18:39 [scraper.py:47] 📥 [APOD] Title: Fishing for the 
 INFO     2025-08-23 10:18:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg
 INFO     2025-08-23 10:18:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-24 02:14:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-24 02:14:19 [scraper.py:47] 📥 [APOD] Title: Fishing for the Moon
+INFO     2025-08-24 02:14:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg
+INFO     2025-08-24 02:14:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
