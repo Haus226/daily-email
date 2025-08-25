@@ -2770,3 +2770,36 @@ INFO     2025-08-25 02:06:03 [scraper.py:172] 🔗 [HN #10] URL: https://www.use
 INFO     2025-08-25 02:06:03 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-25 02:06:03 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-25 05:25:50 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-25 05:25:50 [scraper.py:171] 📥 [HN #1] Git-Annex
+INFO     2025-08-25 05:25:50 [scraper.py:172] 🔗 [HN #1] URL: https://git-annex.branchable.com/
+INFO     2025-08-25 05:25:50 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-25 05:25:51 [scraper.py:171] 📥 [HN #2] Why is choral music harder to appreciate?
+INFO     2025-08-25 05:25:51 [scraper.py:172] 🔗 [HN #2] URL: https://marginalrevolution.com/marginalrevolution/2025/08/why-is-choral-music-harder-to-appreciate.html
+INFO     2025-08-25 05:25:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-25 05:25:51 [scraper.py:171] 📥 [HN #3] Show HN: Sping – An HTTP/TCP latency tool that's easy on the eye
+INFO     2025-08-25 05:25:51 [scraper.py:172] 🔗 [HN #3] URL: https://dseltzer.gitlab.io/sping/docs/
+INFO     2025-08-25 05:25:51 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-25 05:25:51 [scraper.py:171] 📥 [HN #4] Busy beaver hunters reach numbers that overwhelm ordinary math
+INFO     2025-08-25 05:25:51 [scraper.py:172] 🔗 [HN #4] URL: https://www.quantamagazine.org/busy-beaver-hunters-reach-numbers-that-overwhelm-ordinary-math-20250822/
+INFO     2025-08-25 05:25:51 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-25 05:25:51 [scraper.py:171] 📥 [HN #5] The two versions of Parquet
+INFO     2025-08-25 05:25:51 [scraper.py:172] 🔗 [HN #5] URL: https://www.jeronimo.dev/the-two-versions-of-parquet/
+INFO     2025-08-25 05:25:51 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-25 05:25:51 [scraper.py:171] 📥 [HN #6] We put a coding agent in a while loop
+INFO     2025-08-25 05:25:51 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md
+INFO     2025-08-25 05:25:51 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-25 05:25:52 [scraper.py:171] 📥 [HN #7] Is 4chan the perfect Pirate Bay poster child to justify wider UK site-blocking?
+INFO     2025-08-25 05:25:52 [scraper.py:172] 🔗 [HN #7] URL: https://torrentfreak.com/uk-govt-finds-ideal-pirate-bay-poster-boy-to-sell-blocking-of-non-pirate-sites-250824/
+INFO     2025-08-25 05:25:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-25 05:25:52 [scraper.py:171] 📥 [HN #8] From Hackathon to YC
+INFO     2025-08-25 05:25:52 [scraper.py:172] 🔗 [HN #8] URL: https://www.producthunt.com/p/april-yc-s25/from-hackathon-to-yc
+INFO     2025-08-25 05:25:52 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-25 05:25:52 [scraper.py:171] 📥 [HN #9] Trees on city streets cope with drought by drinking from leaky pipes
+INFO     2025-08-25 05:25:52 [scraper.py:172] 🔗 [HN #9] URL: https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/
+INFO     2025-08-25 05:25:52 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-25 05:25:52 [scraper.py:171] 📥 [HN #10] The Unix-Haters Handbook (1994) [pdf]
+INFO     2025-08-25 05:25:52 [scraper.py:172] 🔗 [HN #10] URL: https://simson.net/ref/ugh.pdf
+INFO     2025-08-25 05:25:52 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-25 05:25:52 [scraper.py:179] 🎉 [HN] All done.
+
