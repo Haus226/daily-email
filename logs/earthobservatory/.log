@@ -596,3 +596,11 @@ INFO     2025-08-25 05:26:02 [scraper.py:134] 📥 [EO] Title: A Sea Aswirl With
 INFO     2025-08-25 05:26:02 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154699/norwegianbloommap_pce_20250712_th.jpg
 INFO     2025-08-25 05:26:02 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-25 10:22:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-25 10:22:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-25 10:22:42 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-25 10:22:42 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: NASA's PACE satellite, launched February 2024, uses its hyperspectral Ocean Color Instrument (OCI) to monitor Earth's oceans and atmosphere. OCI extends decades of global chlorophyll-a measurements, serving as a proxy for phytoplankton biomass critical to marine food webs, oxygen production, and the ocean's carbon pump. PACE's July 12, 2025, observations of the southern Norwegian Sea revealed phytoplankton blooms coloring surface waters green and milky blue in natural color imagery, with corresponding chlorophyll-a concentrations showing complex eddy structures. These eddies create distinct ecosystems influencing phytoplankton species composition. OCI's spectral capabilities distinguish phytoplankton types—milky turquoise-blue areas indicate coccolithophores, while greener areas suggest diatoms or other groups—beyond simple chlorophyll detection, enabled by algorithms like MOANA. PACE improves upon the continuous global ocean color record dating to 1997, providing clearer data without sunglint limitations and revolutionizing understanding of ocean ecosystems essential for fisheries, recreation, and atmospheric oxygen.
+INFO     2025-08-25 10:22:42 [scraper.py:134] 📥 [EO] Title: A Sea Aswirl With Chlorophyll
+INFO     2025-08-25 10:22:42 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154699/norwegianbloommap_pce_20250712_th.jpg
+INFO     2025-08-25 10:22:42 [scraper.py:155] ✅ [EO] Successfully fetched.
+
