@@ -2869,3 +2869,36 @@ INFO     2025-08-26 02:02:07 [scraper.py:172] 🔗 [HN #10] URL: https://www.cas
 INFO     2025-08-26 02:02:07 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-26 02:02:07 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-26 05:24:42 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-26 05:24:42 [scraper.py:171] 📥 [HN #1] Google will allow only apps from verified developers to be installed on Android
+INFO     2025-08-26 05:24:42 [scraper.py:172] 🔗 [HN #1] URL: https://9to5google.com/2025/08/25/android-apps-developer-verification/
+INFO     2025-08-26 05:24:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-26 05:24:42 [scraper.py:171] 📥 [HN #2] macOS dotfiles should not go in –/Library/Application Support
+INFO     2025-08-26 05:24:42 [scraper.py:172] 🔗 [HN #2] URL: https://becca.ooo/blog/macos-dotfiles/
+INFO     2025-08-26 05:24:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-26 05:24:42 [scraper.py:171] 📥 [HN #3] Google's Liquid Cooling
+INFO     2025-08-26 05:24:42 [scraper.py:172] 🔗 [HN #3] URL: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+INFO     2025-08-26 05:24:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-26 05:24:42 [scraper.py:171] 📥 [HN #4] The Limits of NTP Accuracy on Linux
+INFO     2025-08-26 05:24:42 [scraper.py:172] 🔗 [HN #4] URL: https://scottstuff.net/posts/2025/05/19/ntp-limits/
+INFO     2025-08-26 05:24:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #5] When a Bug Saved the Company
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #5] URL: https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #6] Show HN: Base, an SQLite database editor for macOS
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #6] URL: https://menial.co.uk/base/
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #7] Capture Checking in Scala
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #7] URL: https://nrinaudo.github.io/articles/capture_checking.html
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #8] A visual introduction to big O notation
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #8] URL: https://samwho.dev/big-o/
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #9] The Annotated Transformer (2022)
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #9] URL: https://nlp.seas.harvard.edu/annotated-transformer/
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:171] 📥 [HN #10] WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi
+INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/MaliosDark/wifi-3d-fusion
+INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-26 05:24:43 [scraper.py:179] 🎉 [HN] All done.
+

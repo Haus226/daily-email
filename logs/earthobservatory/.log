@@ -610,3 +610,9 @@ INFO     2025-08-26 02:02:12 [scraper.py:134] 📥 [EO] Title: Typhoon Kajiki La
 INFO     2025-08-26 02:02:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154716/typhoonkajiki_vir2_20250825_th.jpg
 INFO     2025-08-26 02:02:12 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-26 05:24:42 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-26 05:24:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-26 05:24:55 [scraper.py:134] 📥 [EO] Title: Typhoon Kajiki Lashes Southeast Asia
+INFO     2025-08-26 05:24:55 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154716/typhoonkajiki_vir2_20250825_th.jpg
+INFO     2025-08-26 05:24:55 [scraper.py:155] ✅ [EO] Successfully fetched.
+
