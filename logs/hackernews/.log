@@ -2836,3 +2836,36 @@ INFO     2025-08-25 10:22:29 [scraper.py:172] 🔗 [HN #10] URL: https://dseltze
 INFO     2025-08-25 10:22:29 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-25 10:22:29 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-26 02:02:05 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-26 02:02:05 [scraper.py:171] 📥 [HN #1] Google to require developer verification to install and sideload Android apps
+INFO     2025-08-26 02:02:05 [scraper.py:172] 🔗 [HN #1] URL: https://9to5google.com/2025/08/25/android-apps-developer-verification/
+INFO     2025-08-26 02:02:05 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #2] Google's Liquid Cooling
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #2] URL: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #3] Blacksky grew to millions of users without spending a dollar
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #3] URL: https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #4] The Annotated Transformer
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #4] URL: https://nlp.seas.harvard.edu/annotated-transformer/
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #5] Show HN: Base, an SQLite database editor for macOS
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #5] URL: https://menial.co.uk/base/
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #6] WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/MaliosDark/wifi-3d-fusion
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #7] A visual introduction to big O notation
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #7] URL: https://samwho.dev/big-o/
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-26 02:02:06 [scraper.py:171] 📥 [HN #8] macOS 26 Tahoe's Dead Canary Utility App Icons
+INFO     2025-08-26 02:02:06 [scraper.py:172] 🔗 [HN #8] URL: https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons
+INFO     2025-08-26 02:02:06 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-26 02:02:07 [scraper.py:171] 📥 [HN #9] Study finds gaps in evidence for air-cleaning technologies to prevent infections
+INFO     2025-08-26 02:02:07 [scraper.py:172] 🔗 [HN #9] URL: https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections
+INFO     2025-08-26 02:02:07 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-26 02:02:07 [scraper.py:171] 📥 [HN #10] Turning a Decommissioned iPhone into a UniFi Protect Camera
+INFO     2025-08-26 02:02:07 [scraper.py:172] 🔗 [HN #10] URL: https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera
+INFO     2025-08-26 02:02:07 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-26 02:02:07 [scraper.py:179] 🎉 [HN] All done.
+

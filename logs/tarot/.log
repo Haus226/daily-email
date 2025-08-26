@@ -398,3 +398,8 @@ INFO     2025-08-25 10:22:27 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentac
 INFO     2025-08-25 10:22:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-25 10:22:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-26 02:02:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-26 02:02:05 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-08-26 02:02:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-26 02:02:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
