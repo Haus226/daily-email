@@ -616,3 +616,11 @@ INFO     2025-08-26 05:24:55 [scraper.py:134] 📥 [EO] Title: Typhoon Kajiki La
 INFO     2025-08-26 05:24:55 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154716/typhoonkajiki_vir2_20250825_th.jpg
 INFO     2025-08-26 05:24:55 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-26 10:21:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-26 10:21:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-26 10:21:44 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-26 10:21:44 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Typhoon Kajiki, the 14th named storm of the 2025 Northwest Pacific typhoon season, formed as a tropical depression near the Philippines on August 22, strengthened to Category 2 intensity over the South China Sea, and impacted China's Hainan Island on August 24 before making landfall near Vinh, Vietnam, on August 25. With sustained winds exceeding 160 km/h (100 mph), it caused significant damage including downed trees and flooded homes, prompting large-scale evacuations across Vietnamese provinces, though it weakened after moving inland.
+INFO     2025-08-26 10:21:44 [scraper.py:134] 📥 [EO] Title: Typhoon Kajiki Lashes Southeast Asia
+INFO     2025-08-26 10:21:44 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154716/typhoonkajiki_vir2_20250825_th.jpg
+INFO     2025-08-26 10:21:44 [scraper.py:155] ✅ [EO] Successfully fetched.
+

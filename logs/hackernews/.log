@@ -2902,3 +2902,36 @@ INFO     2025-08-26 05:24:43 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-08-26 05:24:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-26 05:24:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-26 10:21:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-26 10:21:26 [scraper.py:171] 📥 [HN #1] Google will allow only apps from verified developers to be installed on Android
+INFO     2025-08-26 10:21:26 [scraper.py:172] 🔗 [HN #1] URL: https://9to5google.com/2025/08/25/android-apps-developer-verification/
+INFO     2025-08-26 10:21:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-26 10:21:26 [scraper.py:171] 📥 [HN #2] Do I not like Ruby anymore? (2024)
+INFO     2025-08-26 10:21:26 [scraper.py:172] 🔗 [HN #2] URL: https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/
+INFO     2025-08-26 10:21:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-26 10:21:26 [scraper.py:171] 📥 [HN #3] macOS dotfiles should not go in –/Library/Application Support
+INFO     2025-08-26 10:21:26 [scraper.py:172] 🔗 [HN #3] URL: https://becca.ooo/blog/macos-dotfiles/
+INFO     2025-08-26 10:21:26 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-26 10:21:26 [scraper.py:171] 📥 [HN #4] A bug saved the company
+INFO     2025-08-26 10:21:26 [scraper.py:172] 🔗 [HN #4] URL: https://weblog.rogueamoeba.com/2025/08/21/when-a-bug-saved-the-company/
+INFO     2025-08-26 10:21:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-26 10:21:26 [scraper.py:171] 📥 [HN #5] Interactive Map of Paul's First Century Travels in Roman World
+INFO     2025-08-26 10:21:26 [scraper.py:172] 🔗 [HN #5] URL: https://www.intofarlands.com/map-of-pauls-journeys
+INFO     2025-08-26 10:21:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:171] 📥 [HN #6] Will Smith's concert crowds are real, but AI is blurring the lines
+INFO     2025-08-26 10:21:27 [scraper.py:172] 🔗 [HN #6] URL: https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/
+INFO     2025-08-26 10:21:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:171] 📥 [HN #7] Dangerous Advice for Software Engineers
+INFO     2025-08-26 10:21:27 [scraper.py:172] 🔗 [HN #7] URL: https://www.seangoedecke.com/dangerous-advice/
+INFO     2025-08-26 10:21:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:171] 📥 [HN #8] Show HN: I integrated my from-scratch TCP/IP stack into the xv6-riscv OS
+INFO     2025-08-26 10:21:27 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/pandax381/xv6-riscv-net
+INFO     2025-08-26 10:21:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:171] 📥 [HN #9] Google's Liquid Cooling
+INFO     2025-08-26 10:21:27 [scraper.py:172] 🔗 [HN #9] URL: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+INFO     2025-08-26 10:21:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:171] 📥 [HN #10] A visual introduction to big O notation
+INFO     2025-08-26 10:21:27 [scraper.py:172] 🔗 [HN #10] URL: https://samwho.dev/big-o/
+INFO     2025-08-26 10:21:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-26 10:21:27 [scraper.py:179] 🎉 [HN] All done.
+
