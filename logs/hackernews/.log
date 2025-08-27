@@ -2968,3 +2968,36 @@ INFO     2025-08-27 01:58:28 [scraper.py:172] 🔗 [HN #10] URL: https://fortune
 INFO     2025-08-27 01:58:28 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-27 01:58:28 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-27 05:22:49 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-27 05:22:49 [scraper.py:171] 📥 [HN #1] Claude for Chrome
+INFO     2025-08-27 05:22:49 [scraper.py:172] 🔗 [HN #1] URL: https://www.anthropic.com/news/claude-for-chrome
+INFO     2025-08-27 05:22:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-27 05:22:49 [scraper.py:171] 📥 [HN #2] Light pollution prolongs avian activity
+INFO     2025-08-27 05:22:49 [scraper.py:172] 🔗 [HN #2] URL: https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257
+INFO     2025-08-27 05:22:49 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-27 05:22:50 [scraper.py:171] 📥 [HN #3] Gemini 2.5 Flash Image
+INFO     2025-08-27 05:22:50 [scraper.py:172] 🔗 [HN #3] URL: https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+INFO     2025-08-27 05:22:50 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-27 05:22:50 [scraper.py:171] 📥 [HN #4] Dissecting the Apple M1 GPU, the end
+INFO     2025-08-27 05:22:50 [scraper.py:172] 🔗 [HN #4] URL: https://rosenzweig.io/blog/asahi-gpu-part-n.html
+INFO     2025-08-27 05:22:50 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-27 05:22:50 [scraper.py:171] 📥 [HN #5] GNU Artanis – A fast web application framework for Scheme
+INFO     2025-08-27 05:22:50 [scraper.py:172] 🔗 [HN #5] URL: https://artanis.dev/index.html
+INFO     2025-08-27 05:22:50 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-27 05:22:50 [scraper.py:171] 📥 [HN #6] Chinese astronauts make rocket fuel and oxygen in space
+INFO     2025-08-27 05:22:50 [scraper.py:172] 🔗 [HN #6] URL: https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
+INFO     2025-08-27 05:22:50 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-27 05:22:50 [scraper.py:171] 📥 [HN #7] Rv, a new kind of Ruby management tool
+INFO     2025-08-27 05:22:50 [scraper.py:172] 🔗 [HN #7] URL: https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/
+INFO     2025-08-27 05:22:50 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-27 05:22:51 [scraper.py:171] 📥 [HN #8] Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript
+INFO     2025-08-27 05:22:51 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/JakeRoggenbuck/regolith
+INFO     2025-08-27 05:22:51 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-27 05:22:51 [scraper.py:171] 📥 [HN #9] Integer continued fractions for complex numbers
+INFO     2025-08-27 05:22:51 [scraper.py:172] 🔗 [HN #9] URL: https://arxiv.org/abs/2508.15078
+INFO     2025-08-27 05:22:51 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-27 05:22:51 [scraper.py:171] 📥 [HN #10] One universal antiviral to rule them all?
+INFO     2025-08-27 05:22:51 [scraper.py:172] 🔗 [HN #10] URL: https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all
+INFO     2025-08-27 05:22:51 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-27 05:22:51 [scraper.py:179] 🎉 [HN] All done.
+

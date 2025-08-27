@@ -448,3 +448,8 @@ INFO     2025-08-27 01:58:26 [scraper.py:47] 📥 [APOD] Title: A Leaky Solar Pr
 INFO     2025-08-27 01:58:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/LeakySun_Girones.mp4
 INFO     2025-08-27 01:58:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-27 05:22:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-27 05:22:49 [scraper.py:47] 📥 [APOD] Title: WISPIT 2b: Exoplanet Carves Gap in Birth Disk
+INFO     2025-08-27 05:22:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg
+INFO     2025-08-27 05:22:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
