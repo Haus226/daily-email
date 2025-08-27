@@ -624,3 +624,9 @@ INFO     2025-08-26 10:21:44 [scraper.py:134] 📥 [EO] Title: Typhoon Kajiki La
 INFO     2025-08-26 10:21:44 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154716/typhoonkajiki_vir2_20250825_th.jpg
 INFO     2025-08-26 10:21:44 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-27 01:58:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-27 01:58:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-27 01:58:37 [scraper.py:134] 📥 [EO] Title: Rokan River Painted by the Tides
+INFO     2025-08-27 01:58:37 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154720/rokanriverzm_oli_20240623_th.jpg
+INFO     2025-08-27 01:58:37 [scraper.py:155] ✅ [EO] Successfully fetched.
+
