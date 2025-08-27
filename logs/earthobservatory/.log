@@ -636,3 +636,11 @@ INFO     2025-08-27 05:23:04 [scraper.py:134] 📥 [EO] Title: Rokan River Paint
 INFO     2025-08-27 05:23:04 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154720/rokanriverzm_oli_20240623_th.jpg
 INFO     2025-08-27 05:23:04 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-27 10:19:52 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-27 10:19:53 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-27 10:20:07 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-27 10:20:07 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Landsat 8 captured imagery on June 23, 2024, revealing sediment dynamics in the Rokan River estuary on Sumatra, Indonesia, where the river flows into the Strait of Malacca. Tides with a large average range of 5 meters drive powerful currents that redistribute sediment, creating visible patterns near the river mouth and around Halang Island. A significant tidal bore surges upstream, scouring riverbeds and transporting sediment. These tidal forces, likely heightened the day after a full Moon during image acquisition, cause substantial shoreline changes over time, including documented accretion and growth on Halang Island's northern coast.
+INFO     2025-08-27 10:20:07 [scraper.py:134] 📥 [EO] Title: Rokan River Painted by the Tides
+INFO     2025-08-27 10:20:07 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154720/rokanriverzm_oli_20240623_th.jpg
+INFO     2025-08-27 10:20:07 [scraper.py:155] ✅ [EO] Successfully fetched.
+

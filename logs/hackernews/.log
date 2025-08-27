@@ -3001,3 +3001,36 @@ INFO     2025-08-27 05:22:51 [scraper.py:172] 🔗 [HN #10] URL: https://www.cui
 INFO     2025-08-27 05:22:51 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-27 05:22:51 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-27 10:19:52 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-27 10:19:52 [scraper.py:171] 📥 [HN #1] The Therac-25 Incident
+INFO     2025-08-27 10:19:52 [scraper.py:172] 🔗 [HN #1] URL: https://thedailywtf.com/articles/the-therac-25-incident
+INFO     2025-08-27 10:19:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-27 10:19:52 [scraper.py:171] 📥 [HN #2] WebLibre: The Privacy-Focused Browser
+INFO     2025-08-27 10:19:52 [scraper.py:172] 🔗 [HN #2] URL: https://docs.weblibre.eu/
+INFO     2025-08-27 10:19:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-27 10:19:53 [scraper.py:171] 📥 [HN #3] Claude for Chrome
+INFO     2025-08-27 10:19:53 [scraper.py:172] 🔗 [HN #3] URL: https://www.anthropic.com/news/claude-for-chrome
+INFO     2025-08-27 10:19:53 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-27 10:19:53 [scraper.py:171] 📥 [HN #4] Scientist exposes anti-wind groups as oil-funded. Now they want to silence him
+INFO     2025-08-27 10:19:53 [scraper.py:172] 🔗 [HN #4] URL: https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/
+INFO     2025-08-27 10:19:53 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-27 10:19:53 [scraper.py:171] 📥 [HN #5] Malleable Software Will Eat the SaaS World
+INFO     2025-08-27 10:19:53 [scraper.py:172] 🔗 [HN #5] URL: https://www.mdubakov.me/malleable-software-will-eat-the-saas-world/
+INFO     2025-08-27 10:19:53 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-27 10:19:53 [scraper.py:171] 📥 [HN #6] Gemini 2.5 Flash Image
+INFO     2025-08-27 10:19:53 [scraper.py:172] 🔗 [HN #6] URL: https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+INFO     2025-08-27 10:19:53 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-27 10:19:54 [scraper.py:171] 📥 [HN #7] Dissecting the Apple M1 GPU, the end
+INFO     2025-08-27 10:19:54 [scraper.py:172] 🔗 [HN #7] URL: https://rosenzweig.io/blog/asahi-gpu-part-n.html
+INFO     2025-08-27 10:19:54 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-27 10:19:54 [scraper.py:171] 📥 [HN #8] Light pollution prolongs avian activity
+INFO     2025-08-27 10:19:54 [scraper.py:172] 🔗 [HN #8] URL: https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257
+INFO     2025-08-27 10:19:54 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-27 10:19:54 [scraper.py:171] 📥 [HN #9] GNU Artanis – A fast web application framework for Scheme
+INFO     2025-08-27 10:19:54 [scraper.py:172] 🔗 [HN #9] URL: https://artanis.dev/index.html
+INFO     2025-08-27 10:19:54 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-27 10:19:54 [scraper.py:171] 📥 [HN #10] Chinese astronauts make rocket fuel and oxygen in space
+INFO     2025-08-27 10:19:54 [scraper.py:172] 🔗 [HN #10] URL: https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
+INFO     2025-08-27 10:19:54 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-27 10:19:54 [scraper.py:179] 🎉 [HN] All done.
+
