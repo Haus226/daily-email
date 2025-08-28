@@ -438,3 +438,8 @@ INFO     2025-08-28 05:23:09 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
 INFO     2025-08-28 05:23:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-28 05:23:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-28 10:21:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-28 10:21:20 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+ERROR    2025-08-28 10:21:30 [scraper.py:418] ❌ [TAROT] Failed to generate guidance: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=10)
+INFO     2025-08-28 10:21:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
