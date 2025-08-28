@@ -3034,3 +3034,36 @@ INFO     2025-08-27 10:19:54 [scraper.py:172] 🔗 [HN #10] URL: https://www.liv
 INFO     2025-08-27 10:19:54 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-27 10:19:54 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-28 01:57:24 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #1] Yamanot.es: A music box of train station melodies from the JR Yamanote Line
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #1] URL: https://yamanot.es/
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #2] Malicious versions of Nx and some supporting plugins were published
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #3] Altered states of consciousness induced by breathwork accompanied by music
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #3] URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #4] Toyota is recycling old EV batteries to help power Mazda's production line
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #4] URL: https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #5] Google has eliminated 35% of managers overseeing small teams in past year
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #5] URL: https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-28 01:57:25 [scraper.py:171] 📥 [HN #6] About Containers and VMs
+INFO     2025-08-28 01:57:25 [scraper.py:172] 🔗 [HN #6] URL: https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/
+INFO     2025-08-28 01:57:25 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-28 01:57:26 [scraper.py:171] 📥 [HN #7] Unexpected productivity boost of Rust
+INFO     2025-08-28 01:57:26 [scraper.py:172] 🔗 [HN #7] URL: https://lubeno.dev/blog/rusts-productivity-curve
+INFO     2025-08-28 01:57:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-28 01:57:26 [scraper.py:171] 📥 [HN #8] Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone
+INFO     2025-08-28 01:57:26 [scraper.py:172] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=45041185
+INFO     2025-08-28 01:57:26 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-28 01:57:26 [scraper.py:171] 📥 [HN #9] Show HN: Meetup.com and eventribe alternative to small groups
+INFO     2025-08-28 01:57:26 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/polaroi8d/cactoide
+INFO     2025-08-28 01:57:26 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-28 01:57:26 [scraper.py:171] 📥 [HN #10] VIM Master
+INFO     2025-08-28 01:57:26 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/renzorlive/vimmaster
+INFO     2025-08-28 01:57:26 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-28 01:57:26 [scraper.py:179] 🎉 [HN] All done.
+
