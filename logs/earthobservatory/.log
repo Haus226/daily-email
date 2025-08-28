@@ -650,3 +650,11 @@ INFO     2025-08-28 01:57:39 [scraper.py:134] 📥 [EO] Title: Hail Scars Albert
 INFO     2025-08-28 01:57:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154724/alberta_hailscar_tmo_20250824_th.jpg
 INFO     2025-08-28 01:57:39 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-28 05:23:09 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-28 05:23:10 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-28 05:23:32 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-28 05:23:32 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: A severe supercell storm struck southern Alberta, Canada's "hailstorm alley," on August 20, 2025, producing 149 km/h winds and large hail. Satellite imagery revealed a 15 km wide by 200 km long hail damage scar across agricultural land southeast of Calgary, with visible crop flattening (wheat, alfalfa, canola), uprooted trees, and damaged infrastructure. Insurers anticipate significant claims, adding to Alberta's recent hail losses exceeding 6 billion Canadian dollars over five years, including 92 million dollars from a July 2025 event. NASA Langley Research Center is collaborating with reinsurers to enhance hail risk models using satellite-derived storm frequency and distribution data.
+INFO     2025-08-28 05:23:32 [scraper.py:134] 📥 [EO] Title: Hail Scars Alberta Farmland
+INFO     2025-08-28 05:23:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154724/alberta_hailscar_tmo_20250824_th.jpg
+INFO     2025-08-28 05:23:32 [scraper.py:155] ✅ [EO] Successfully fetched.
+

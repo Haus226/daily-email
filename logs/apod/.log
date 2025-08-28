@@ -463,3 +463,8 @@ INFO     2025-08-28 01:57:25 [scraper.py:47] 📥 [APOD] Title: WISPIT 2b: Exopl
 INFO     2025-08-28 01:57:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg
 INFO     2025-08-28 01:57:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-28 05:23:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-28 05:23:10 [scraper.py:47] 📥 [APOD] Title: Galaxies, Stars, and Dust
+INFO     2025-08-28 05:23:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg
+INFO     2025-08-28 05:23:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

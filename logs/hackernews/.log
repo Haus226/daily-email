@@ -3067,3 +3067,36 @@ INFO     2025-08-28 01:57:26 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-08-28 01:57:26 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-28 01:57:26 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-28 05:23:09 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-28 05:23:10 [scraper.py:171] 📥 [HN #1] Altered states of consciousness induced by breathwork accompanied by music
+INFO     2025-08-28 05:23:10 [scraper.py:172] 🔗 [HN #1] URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
+INFO     2025-08-28 05:23:10 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-28 05:23:10 [scraper.py:171] 📥 [HN #2] The Deletion of Docker.io/Bitnami
+INFO     2025-08-28 05:23:10 [scraper.py:172] 🔗 [HN #2] URL: https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon
+INFO     2025-08-28 05:23:10 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-28 05:23:10 [scraper.py:171] 📥 [HN #3] Canaries in the Coal Mine? Recent Employment Effects of AI [pdf]
+INFO     2025-08-28 05:23:10 [scraper.py:172] 🔗 [HN #3] URL: https://digitaleconomy.stanford.edu/wp-content/uploads/2025/08/Canaries_BrynjolfssonChandarChen.pdf
+INFO     2025-08-28 05:23:10 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-28 05:23:10 [scraper.py:171] 📥 [HN #4] Yamanot.es: A music box of train station melodies from the JR Yamanote Line
+INFO     2025-08-28 05:23:10 [scraper.py:172] 🔗 [HN #4] URL: https://yamanot.es/
+INFO     2025-08-28 05:23:10 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #5] Malicious versions of Nx and some supporting plugins were published
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #6] Bookmarks.txt is a concept of keeping URLs in plain text files
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/soulim/bookmarks.txt
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #7] Toyota is recycling old EV batteries to help power Mazda's production line
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #7] URL: https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #8] Nvidia DGX Spark
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #8] URL: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #9] About Containers and VMs
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #9] URL: https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:171] 📥 [HN #10] Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone
+INFO     2025-08-28 05:23:11 [scraper.py:172] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=45041185
+INFO     2025-08-28 05:23:11 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-28 05:23:11 [scraper.py:179] 🎉 [HN] All done.
+
