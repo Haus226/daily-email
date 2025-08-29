@@ -3133,3 +3133,36 @@ INFO     2025-08-28 10:21:22 [scraper.py:172] 🔗 [HN #10] URL: https://www.the
 INFO     2025-08-28 10:21:22 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-28 10:21:22 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-29 01:57:28 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-29 01:57:28 [scraper.py:171] 📥 [HN #1] Python: The Documentary
+INFO     2025-08-29 01:57:28 [scraper.py:172] 🔗 [HN #1] URL: https://lwn.net/Articles/1035537/
+INFO     2025-08-29 01:57:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-29 01:57:28 [scraper.py:171] 📥 [HN #2] Ask HN: The government of my country blocked VPN access. What should I use?
+INFO     2025-08-29 01:57:28 [scraper.py:172] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=45054260
+INFO     2025-08-29 01:57:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #3] Claude Sonnet Will Ship in Xcode
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #3] URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #4] Fuck up my site – Turn any website into beautiful chaos
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #4] URL: https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #5] Some thoughts on LLMs and software development
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #5] URL: https://martinfowler.com/articles/202508-ai-thoughts.html
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #6] The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #6] URL: https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #7] My startup banking story (2023)
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #7] URL: https://mitchellh.com/writing/my-startup-banking-story
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-29 01:57:29 [scraper.py:171] 📥 [HN #8] Uncertain<T>
+INFO     2025-08-29 01:57:29 [scraper.py:172] 🔗 [HN #8] URL: https://nshipster.com/uncertainty/
+INFO     2025-08-29 01:57:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-29 01:57:30 [scraper.py:171] 📥 [HN #9] Expert LSP the official language server implementation for Elixir
+INFO     2025-08-29 01:57:30 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/elixir-lang/expert
+INFO     2025-08-29 01:57:30 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-29 01:57:30 [scraper.py:171] 📥 [HN #10] Building your own CLI coding agent with Pydantic-AI
+INFO     2025-08-29 01:57:30 [scraper.py:172] 🔗 [HN #10] URL: https://martinfowler.com/articles/build-own-coding-agent.html
+INFO     2025-08-29 01:57:30 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-29 01:57:30 [scraper.py:179] 🎉 [HN] All done.
+

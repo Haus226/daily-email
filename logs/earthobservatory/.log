@@ -664,3 +664,9 @@ INFO     2025-08-28 10:21:29 [scraper.py:134] 📥 [EO] Title: Hail Scars Albert
 INFO     2025-08-28 10:21:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154724/alberta_hailscar_tmo_20250824_th.jpg
 INFO     2025-08-28 10:21:29 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-29 01:57:28 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-29 01:57:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-29 01:57:51 [scraper.py:134] 📥 [EO] Title: Five Minutes in Orbit
+INFO     2025-08-29 01:57:51 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
+INFO     2025-08-29 01:57:51 [scraper.py:155] ✅ [EO] Successfully fetched.
+
