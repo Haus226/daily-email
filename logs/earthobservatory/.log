@@ -670,3 +670,11 @@ INFO     2025-08-29 01:57:51 [scraper.py:134] 📥 [EO] Title: Five Minutes in O
 INFO     2025-08-29 01:57:51 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
 INFO     2025-08-29 01:57:51 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-29 05:22:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-29 05:22:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-29 05:23:00 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-29 05:23:00 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On June 22, 2025, an Expedition 73 astronaut captured a 5-minute time-lapse sequence comprising 315 images from the International Space Station orbiting at 8 kilometers per second over the eastern Pacific Ocean and North America. The sequence shows predawn views of Mexico with developed-area lighting illuminating clouds and lightning flashes, followed by U.S. Gulf Coast and southern state lights, approaching sunrise, and atmospheric airglow as diffuse green-orange arcs along the horizon. Celestial observations include a waning crescent Moon (13% illuminated) rising centrally, Venus appearing to the Moon's right, and satellites moving parallel to the horizon before sunrise. The Nikon Z9 images (24mm focal length), enhanced for contrast and artifact removal, were acquired during ISS orbit at approximately 400 kilometers altitude.
+INFO     2025-08-29 05:23:00 [scraper.py:134] 📥 [EO] Title: Five Minutes in Orbit
+INFO     2025-08-29 05:23:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
+INFO     2025-08-29 05:23:00 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -478,3 +478,8 @@ INFO     2025-08-29 01:57:28 [scraper.py:47] 📥 [APOD] Title: Galaxies, Stars,
 INFO     2025-08-29 01:57:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg
 INFO     2025-08-29 01:57:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-29 05:22:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-29 05:22:32 [scraper.py:47] 📥 [APOD] Title: A Dark Veil in Ophiuchus
+INFO     2025-08-29 05:22:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg
+INFO     2025-08-29 05:22:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
