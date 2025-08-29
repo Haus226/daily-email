@@ -3199,3 +3199,36 @@ INFO     2025-08-29 05:22:34 [scraper.py:172] 🔗 [HN #10] URL: https://mcdreea
 INFO     2025-08-29 05:22:34 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-29 05:22:34 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-29 10:20:00 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-29 10:20:00 [scraper.py:171] 📥 [HN #1] Show HN: Vectorless RAG
+INFO     2025-08-29 10:20:00 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb
+INFO     2025-08-29 10:20:00 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-29 10:20:00 [scraper.py:171] 📥 [HN #2] Ask HN: The government of my country blocked VPN access. What should I use?
+INFO     2025-08-29 10:20:00 [scraper.py:172] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=45054260
+INFO     2025-08-29 10:20:00 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #3] Make any site multiplayer in a few lines. Serverless WebRTC matchmaking
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #3] URL: https://oxism.com/trystero/
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #4] Strange CW Keys
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #4] URL: https://sites.google.com/site/oh6dccw/strangecwkeys
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #5] Lucky 13: a look at Debian trixie
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #5] URL: https://lwn.net/Articles/1033474/
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #6] Claude Sonnet will ship in Xcode
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #6] URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #7] PSA: Libxslt is unmaintained and has 5 unpatched security bugs
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #7] URL: https://vuxml.freebsd.org/freebsd/b0a3466f-5efc-11f0-ae84-99047d0a6bcc.html
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-29 10:20:01 [scraper.py:171] 📥 [HN #8] The Synology End Game
+INFO     2025-08-29 10:20:01 [scraper.py:172] 🔗 [HN #8] URL: https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/
+INFO     2025-08-29 10:20:01 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-29 10:20:02 [scraper.py:171] 📥 [HN #9] Some thoughts on LLMs and software development
+INFO     2025-08-29 10:20:02 [scraper.py:172] 🔗 [HN #9] URL: https://martinfowler.com/articles/202508-ai-thoughts.html
+INFO     2025-08-29 10:20:02 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-29 10:20:02 [scraper.py:171] 📥 [HN #10] Fuck up my site – Turn any website into beautiful chaos
+INFO     2025-08-29 10:20:02 [scraper.py:172] 🔗 [HN #10] URL: https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
+INFO     2025-08-29 10:20:02 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-29 10:20:02 [scraper.py:179] 🎉 [HN] All done.
+

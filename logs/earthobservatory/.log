@@ -678,3 +678,9 @@ INFO     2025-08-29 05:23:00 [scraper.py:134] 📥 [EO] Title: Five Minutes in O
 INFO     2025-08-29 05:23:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
 INFO     2025-08-29 05:23:00 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-29 10:20:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-29 10:20:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-29 10:20:37 [scraper.py:134] 📥 [EO] Title: Five Minutes in Orbit
+INFO     2025-08-29 10:20:37 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
+INFO     2025-08-29 10:20:37 [scraper.py:155] ✅ [EO] Successfully fetched.
+
