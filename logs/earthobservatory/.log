@@ -690,3 +690,11 @@ INFO     2025-08-30 01:52:08 [scraper.py:134] 📥 [EO] Title: An Explosive Begi
 INFO     2025-08-30 01:52:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154739/ghana_bosumtwicrater_oli_20241221_th.jpg
 INFO     2025-08-30 01:52:08 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-30 05:21:02 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-30 05:21:03 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-30 05:21:29 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-30 05:21:29 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Lake Bosumtwi in Ghana, a 49-square-kilometer, 70-meter-deep natural lake, formed approximately 1 million years ago from a 1-kilometer-wide asteroid impact, creating one of Earth’s youngest and best-preserved complex craters. Geological evidence, including a raised lobed debris pattern (rampart crater), indicates the impact struck groundwater-saturated terrain, providing insights for interpreting Martian hydrology. The impact fractured the crust, concentrating gold minerals and enabling artisanal mining. Satellite imagery from Landsat 8 reveals significant anthropogenic changes between December 2015 and December 2024: expanded artisanal gold mining, deforestation, and farmland growth near the lake, particularly southwest of the crater. Accompanying ecological shifts include greener lake water in 2024, attributed to increased phytoplankton abundance potentially linked to nutrient runoff from land-use changes. The crater’s steep rim and circular drainage patterns remain well-preserved, contrasting sharply with recent human encroachment.
+INFO     2025-08-30 05:21:29 [scraper.py:134] 📥 [EO] Title: An Explosive Beginning for Lake Bosumtwi
+INFO     2025-08-30 05:21:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154739/ghana_bosumtwicrater_oli_20241221_th.jpg
+INFO     2025-08-30 05:21:29 [scraper.py:155] ✅ [EO] Successfully fetched.
+
