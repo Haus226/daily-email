@@ -498,3 +498,8 @@ INFO     2025-08-30 05:21:03 [scraper.py:47] 📥 [APOD] Title: A Two Percent Mo
 INFO     2025-08-30 05:21:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
 INFO     2025-08-30 05:21:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-30 10:17:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-30 10:17:33 [scraper.py:47] 📥 [APOD] Title: A Two Percent Moon
+INFO     2025-08-30 10:17:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
+INFO     2025-08-30 10:17:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
