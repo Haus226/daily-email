@@ -684,3 +684,9 @@ INFO     2025-08-29 10:20:37 [scraper.py:134] 📥 [EO] Title: Five Minutes in O
 INFO     2025-08-29 10:20:37 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154728/ISS073-E-311214_th.jpg
 INFO     2025-08-29 10:20:37 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-30 01:51:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-30 01:51:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-30 01:52:08 [scraper.py:134] 📥 [EO] Title: An Explosive Beginning for Lake Bosumtwi
+INFO     2025-08-30 01:52:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154739/ghana_bosumtwicrater_oli_20241221_th.jpg
+INFO     2025-08-30 01:52:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+

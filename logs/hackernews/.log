@@ -3232,3 +3232,36 @@ INFO     2025-08-29 10:20:02 [scraper.py:172] 🔗 [HN #10] URL: https://www.fuc
 INFO     2025-08-29 10:20:02 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-29 10:20:02 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-30 01:51:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-30 01:51:51 [scraper.py:171] 📥 [HN #1] Do the simplest thing that could possibly work
+INFO     2025-08-30 01:51:51 [scraper.py:172] 🔗 [HN #1] URL: https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
+INFO     2025-08-30 01:51:51 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-30 01:51:51 [scraper.py:171] 📥 [HN #2] Why Romania excels in international Olympiads
+INFO     2025-08-30 01:51:51 [scraper.py:172] 🔗 [HN #2] URL: https://www.palladiummag.com/2025/08/29/why-romania-excels-in-international-olympiads/
+INFO     2025-08-30 01:51:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-30 01:51:52 [scraper.py:171] 📥 [HN #3] The Theoretical Limitations of Embedding-Based Retrieval
+INFO     2025-08-30 01:51:52 [scraper.py:172] 🔗 [HN #3] URL: https://arxiv.org/abs/2508.21038
+INFO     2025-08-30 01:51:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-30 01:51:52 [scraper.py:171] 📥 [HN #4] John Carmack's arguments against building a custom XR OS at Meta
+INFO     2025-08-30 01:51:52 [scraper.py:172] 🔗 [HN #4] URL: https://twitter.com/ID_AA_Carmack/status/1961172409920491849
+INFO     2025-08-30 01:51:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-30 01:51:52 [scraper.py:171] 📥 [HN #5] Lisp from Nothing, Second Edition
+INFO     2025-08-30 01:51:52 [scraper.py:172] 🔗 [HN #5] URL: http://t3x.org/lfn/index.html
+INFO     2025-08-30 01:51:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-30 01:51:52 [scraper.py:171] 📥 [HN #6] Essential Coding Theory [pdf]
+INFO     2025-08-30 01:51:52 [scraper.py:172] 🔗 [HN #6] URL: https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf
+INFO     2025-08-30 01:51:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-30 01:51:52 [scraper.py:171] 📥 [HN #7] Pentagon Docs: US Wants to "Suppress Dissenting Arguments" Using AI Propaganda
+INFO     2025-08-30 01:51:52 [scraper.py:172] 🔗 [HN #7] URL: https://theintercept.com/2025/08/25/pentagon-military-ai-propaganda-influence/
+INFO     2025-08-30 01:51:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-30 01:51:53 [scraper.py:171] 📥 [HN #8] Grok Code Fast 1
+INFO     2025-08-30 01:51:53 [scraper.py:172] 🔗 [HN #8] URL: https://x.ai/news/grok-code-fast-1
+INFO     2025-08-30 01:51:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-30 01:51:53 [scraper.py:171] 📥 [HN #9] I'm working on implementing a programming language all my own
+INFO     2025-08-30 01:51:53 [scraper.py:172] 🔗 [HN #9] URL: https://eli.li/to-the-surprise-of-literally-no-one-im-working-on-implementing-a-programming-language-all-my-own
+INFO     2025-08-30 01:51:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-30 01:51:53 [scraper.py:171] 📥 [HN #10] Hermes 4
+INFO     2025-08-30 01:51:53 [scraper.py:172] 🔗 [HN #10] URL: https://hermes4.nousresearch.com/
+INFO     2025-08-30 01:51:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-30 01:51:53 [scraper.py:179] 🎉 [HN] All done.
+
