@@ -710,3 +710,11 @@ INFO     2025-08-31 02:03:40 [scraper.py:134] 📥 [EO] Title: Haze Sweeps Over 
 INFO     2025-08-31 02:03:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154744/ISS073-E-3320_th.jpg
 INFO     2025-08-31 02:03:40 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-31 05:21:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-31 05:21:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-31 05:21:49 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-08-31 05:21:49 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On April 30, 2025, an ISS External High-Definition Camera captured an oblique image of Italy and part of France, showing the snowcapped Alps, the haze-obscured Po Valley, and Sicily. The image reveals distinct visual differences between mountain snow and atmospheric clouds/haze, with an ash plume visible from Mount Etna on the horizon despite the ISS being 1,700 kilometers away. Industrial smog accumulates visibly in the Po Valley under stable atmospheric conditions, trapped by surrounding mountains, obscuring the landscape and flowing over the Adriatic Sea toward Greece. Similarly, haze from France's Rhône River Valley exits southward along Italy's west coast, visible as a light-toned mass against the Mediterranean Sea. Previous astronaut observations during Expeditions 6 and 13 confirm this recurring haze phenomenon.
+INFO     2025-08-31 05:21:49 [scraper.py:134] 📥 [EO] Title: Haze Sweeps Over the Mediterranean
+INFO     2025-08-31 05:21:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154744/ISS073-E-3320_th.jpg
+INFO     2025-08-31 05:21:49 [scraper.py:155] ✅ [EO] Successfully fetched.
+

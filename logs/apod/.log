@@ -508,3 +508,8 @@ INFO     2025-08-31 02:03:26 [scraper.py:47] 📥 [APOD] Title: A Two Percent Mo
 INFO     2025-08-31 02:03:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
 INFO     2025-08-31 02:03:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-08-31 05:21:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-31 05:21:32 [scraper.py:47] 📥 [APOD] Title: NGC 7027: The Pillow Planetary Nebula
+INFO     2025-08-31 05:21:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg
+INFO     2025-08-31 05:21:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
