@@ -3397,3 +3397,36 @@ INFO     2025-08-31 05:21:33 [scraper.py:172] 🔗 [HN #10] URL: https://blog.si
 INFO     2025-08-31 05:21:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-31 05:21:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-31 10:17:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #1] Git Diagramming "The Weave"
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #1] URL: https://daverupert.com/2025/08/git-diagramming-the-weave/
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #2] Cognitive load is what matters
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/zakirullin/cognitive-load
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #3] My phone is an ereader now
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #3] URL: https://www.davepagurek.com/blog/minimal-phone/
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #4] My Foray into Vlang
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #4] URL: https://kristun.dev/posts/my-foray-into-vlang/
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #5] Red: A programming language inspired by REBOL
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/red/red
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-31 10:17:52 [scraper.py:171] 📥 [HN #6] Sheafification – The optimal path to mathematical mastery
+INFO     2025-08-31 10:17:52 [scraper.py:172] 🔗 [HN #6] URL: https://sheafification.com/the-fast-track/
+INFO     2025-08-31 10:17:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-31 10:17:53 [scraper.py:171] 📥 [HN #7] What Are Traces and Spans in OpenTelemetry?
+INFO     2025-08-31 10:17:53 [scraper.py:172] 🔗 [HN #7] URL: https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view
+INFO     2025-08-31 10:17:53 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-31 10:17:53 [scraper.py:171] 📥 [HN #8] Running our Docker registry on-prem with Harbor
+INFO     2025-08-31 10:17:53 [scraper.py:172] 🔗 [HN #8] URL: https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/
+INFO     2025-08-31 10:17:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-31 10:17:53 [scraper.py:171] 📥 [HN #9] Bitwig Studio 6 details revealed, and editing gets a big boost
+INFO     2025-08-31 10:17:53 [scraper.py:172] 🔗 [HN #9] URL: https://cdm.link/bitwig-studio-6-details/
+INFO     2025-08-31 10:17:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-31 10:17:53 [scraper.py:171] 📥 [HN #10] You Have to Feel It
+INFO     2025-08-31 10:17:53 [scraper.py:172] 🔗 [HN #10] URL: https://mitchellh.com/writing/feel-it
+INFO     2025-08-31 10:17:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-31 10:17:53 [scraper.py:179] 🎉 [HN] All done.
+
