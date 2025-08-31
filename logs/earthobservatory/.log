@@ -704,3 +704,9 @@ INFO     2025-08-30 10:17:46 [scraper.py:134] 📥 [EO] Title: An Explosive Begi
 INFO     2025-08-30 10:17:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154739/ghana_bosumtwicrater_oli_20241221_th.jpg
 INFO     2025-08-30 10:17:46 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-08-31 02:03:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-08-31 02:03:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-08-31 02:03:40 [scraper.py:134] 📥 [EO] Title: Haze Sweeps Over the Mediterranean
+INFO     2025-08-31 02:03:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154744/ISS073-E-3320_th.jpg
+INFO     2025-08-31 02:03:40 [scraper.py:155] ✅ [EO] Successfully fetched.
+

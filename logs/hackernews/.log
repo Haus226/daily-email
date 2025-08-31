@@ -3331,3 +3331,36 @@ INFO     2025-08-30 10:17:34 [scraper.py:172] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2025-08-30 10:17:34 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-30 10:17:34 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-08-31 02:03:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-08-31 02:03:25 [scraper.py:171] 📥 [HN #1] Are we decentralized yet?
+INFO     2025-08-31 02:03:25 [scraper.py:172] 🔗 [HN #1] URL: https://arewedecentralizedyet.online/
+INFO     2025-08-31 02:03:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-08-31 02:03:26 [scraper.py:171] 📥 [HN #2] Cognitive load is what matters
+INFO     2025-08-31 02:03:26 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/zakirullin/cognitive-load
+INFO     2025-08-31 02:03:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-08-31 02:03:26 [scraper.py:171] 📥 [HN #3] Why did books start being divided into chapters? A new history
+INFO     2025-08-31 02:03:26 [scraper.py:172] 🔗 [HN #3] URL: https://sydneyreviewofbooks.com/reviews/just-a-little-longer
+INFO     2025-08-31 02:03:26 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-08-31 02:03:26 [scraper.py:171] 📥 [HN #4] Hurricane category 6 could be introduced under new storm severity scale
+INFO     2025-08-31 02:03:26 [scraper.py:172] 🔗 [HN #4] URL: https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale
+INFO     2025-08-31 02:03:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-08-31 02:03:26 [scraper.py:171] 📥 [HN #5] The Rise of Hybrid PHP: Blending PHP with Go and Rust
+INFO     2025-08-31 02:03:26 [scraper.py:172] 🔗 [HN #5] URL: https://yekdeveloper.com/p/4-the-rise-of-hybrid-php
+INFO     2025-08-31 02:03:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:171] 📥 [HN #6] A24's Empire of Auteurs
+INFO     2025-08-31 02:03:27 [scraper.py:172] 🔗 [HN #6] URL: https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs
+INFO     2025-08-31 02:03:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:171] 📥 [HN #7] AI models need a virtual machine
+INFO     2025-08-31 02:03:27 [scraper.py:172] 🔗 [HN #7] URL: https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/
+INFO     2025-08-31 02:03:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:171] 📥 [HN #8] Agent Client Protocol (ACP)
+INFO     2025-08-31 02:03:27 [scraper.py:172] 🔗 [HN #8] URL: https://agentclientprotocol.com/overview/introduction
+INFO     2025-08-31 02:03:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:171] 📥 [HN #9] You Have to Feel It
+INFO     2025-08-31 02:03:27 [scraper.py:172] 🔗 [HN #9] URL: https://mitchellh.com/writing/feel-it
+INFO     2025-08-31 02:03:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:171] 📥 [HN #10] Six months into tariffs, businesses have no idea how to price anything
+INFO     2025-08-31 02:03:27 [scraper.py:172] 🔗 [HN #10] URL: https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8
+INFO     2025-08-31 02:03:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-08-31 02:03:27 [scraper.py:179] 🎉 [HN] All done.
+

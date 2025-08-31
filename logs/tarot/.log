@@ -473,3 +473,8 @@ INFO     2025-08-30 10:17:32 [scraper.py:391] 📥 [TAROT] Card: Six of Swords
 INFO     2025-08-30 10:17:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-08-30 10:17:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-08-31 02:03:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-31 02:03:25 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-08-31 02:03:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-31 02:03:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
