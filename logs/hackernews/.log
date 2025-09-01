@@ -3496,3 +3496,36 @@ INFO     2025-09-01 05:25:03 [scraper.py:172] 🔗 [HN #10] URL: https://drb.ie/
 INFO     2025-09-01 05:25:03 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-01 05:25:03 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-01 10:22:11 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-01 10:22:11 [scraper.py:171] 📥 [HN #1] We should have the ability to run any code we want on hardware we own
+INFO     2025-09-01 10:22:11 [scraper.py:172] 🔗 [HN #1] URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+INFO     2025-09-01 10:22:11 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-01 10:22:11 [scraper.py:171] 📥 [HN #2] De-Googling TOTP Authenticator Codes
+INFO     2025-09-01 10:22:11 [scraper.py:172] 🔗 [HN #2] URL: https://imrannazar.com/articles/degoogle-otp
+INFO     2025-09-01 10:22:11 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-01 10:22:11 [scraper.py:171] 📥 [HN #3] National Grid: UK's largest battery storage facility at Tilbury substation
+INFO     2025-09-01 10:22:11 [scraper.py:172] 🔗 [HN #3] URL: https://www.nationalgrid.com/national-grid-connects-uks-largest-battery-storage-facility-tilbury-substation
+INFO     2025-09-01 10:22:11 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #4] C++: Strongly Happens Before?
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #4] URL: https://nekrozqliphort.github.io/posts/happens-b4/
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #5] Eternal Struggle
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #5] URL: https://yoavg.github.io/eternal/
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #6] “This telegram must be closely paraphrased before being communicated to anyone”
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #6] URL: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #7] Nintendo Switch 2 Dock USB-C Compatibility
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #7] URL: https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #8] What Is Complexity in Chess?
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #8] URL: https://lichess.org/@/Toadofsky/blog/what-is-complexity/pKo1swFh
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #9] Lewis and Clark marked their trail with laxatives
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #9] URL: https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:171] 📥 [HN #10] Jujutsu for everyone
+INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #10] URL: https://jj-for-everyone.github.io/
+INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-01 10:22:12 [scraper.py:179] 🎉 [HN] All done.
+
