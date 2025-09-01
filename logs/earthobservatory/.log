@@ -734,3 +734,11 @@ INFO     2025-09-01 02:20:09 [scraper.py:134] 📥 [EO] Title: The First Labor D
 INFO     2025-09-01 02:20:09 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154731/laborday_oli2_20250822_th.jpg
 INFO     2025-09-01 02:20:09 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-01 05:25:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-01 05:25:03 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-01 05:25:18 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-01 05:25:18 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The first Labor Day parade occurred on September 5, 1882, in New York City, organized by the Central Labor Union. Beginning at City Hall Park, it drew 10,000 to 20,000 participants including jewelers, shoemakers, printers, and other trades, parading up Broadway through Union Square to Reservoir Square, followed by speeches and a picnic at Elm Park. This event preceded Labor Day's establishment as a national holiday in 1894.
+INFO     2025-09-01 05:25:18 [scraper.py:134] 📥 [EO] Title: The First Labor Day Parade
+INFO     2025-09-01 05:25:18 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154731/laborday_oli2_20250822_th.jpg
+INFO     2025-09-01 05:25:18 [scraper.py:155] ✅ [EO] Successfully fetched.
+
