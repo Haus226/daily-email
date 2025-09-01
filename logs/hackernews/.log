@@ -3430,3 +3430,36 @@ INFO     2025-08-31 10:17:53 [scraper.py:172] 🔗 [HN #10] URL: https://mitchel
 INFO     2025-08-31 10:17:53 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-08-31 10:17:53 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-01 02:19:42 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #1] We should have the ability to run any code we want on hardware we own
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #1] URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #2] Eternal Struggle
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #2] URL: https://yoavg.github.io/eternal/
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #3] Lewis and Clark marked their trail with laxatives
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #3] URL: https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #4] What brain surgery taught me about the fragile gift of consciousness
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #4] URL: https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #5] “This telegram must be closely paraphrased before being communicated to anyone”
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #5] URL: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #6] Jujutsu for everyone
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #6] URL: https://jj-for-everyone.github.io/
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #7] Nintendo Switch 2 Dock USB-C Compatibility
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #7] URL: https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #8] A Crack in the Cosmos
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #8] URL: https://drb.ie/articles/a-crack-in-the-cosmos/
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-01 02:19:43 [scraper.py:171] 📥 [HN #9] A Linux version of the Procmon Sysinternals tool
+INFO     2025-09-01 02:19:43 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/microsoft/ProcMon-for-Linux
+INFO     2025-09-01 02:19:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-01 02:19:44 [scraper.py:171] 📥 [HN #10] What to do with C++ modules?
+INFO     2025-09-01 02:19:44 [scraper.py:172] 🔗 [HN #10] URL: https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html
+INFO     2025-09-01 02:19:44 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-01 02:19:44 [scraper.py:179] 🎉 [HN] All done.
+
