@@ -764,3 +764,11 @@ INFO     2025-09-02 05:24:16 [scraper.py:134] 📥 [EO] Title: Dark Skies Over t
 INFO     2025-09-02 05:24:16 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154735/greatbasin_vir_20250812_th.jpg
 INFO     2025-09-02 05:24:16 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-02 10:20:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-02 10:20:44 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-02 10:21:04 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-02 10:21:04 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Great Basin National Park in eastern Nevada, situated along US Route 50, is one of the darkest locations in the United States due to its remote location, high elevation, and dry climate, making it ideal for astronomy. Designated an International Dark Sky Park in 2016, it hosts ranger-led astronomy programs and an annual September festival. The park contains the Great Basin Observatory, a research-grade facility operating a 27.5-inch telescope used for studying binary stars and exoplanets. The observatory collaborates with NASA missions like TESS and Kepler, and its data has improved James Webb Space Telescope efficiency by reducing required observation time for exoplanet transits from tens of minutes to minutes. Preservation of dark skies remains critical for ongoing scientific research and public education efforts.
+INFO     2025-09-02 10:21:04 [scraper.py:134] 📥 [EO] Title: Dark Skies Over the Great Basin
+INFO     2025-09-02 10:21:04 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154735/greatbasin_vir_20250812_th.jpg
+INFO     2025-09-02 10:21:04 [scraper.py:155] ✅ [EO] Successfully fetched.
+

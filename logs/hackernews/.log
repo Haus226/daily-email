@@ -3595,3 +3595,36 @@ INFO     2025-09-02 05:23:59 [scraper.py:172] 🔗 [HN #10] URL: https://marc.in
 INFO     2025-09-02 05:23:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-02 05:23:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-02 10:20:44 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-02 10:20:44 [scraper.py:171] 📥 [HN #1] Next.js Is Infuriating
+INFO     2025-09-02 10:20:44 [scraper.py:172] 🔗 [HN #1] URL: https://blog.meca.sh/3lxoty3shjc2z
+INFO     2025-09-02 10:20:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-02 10:20:44 [scraper.py:171] 📥 [HN #2] Collecting All Causal Knowledge
+INFO     2025-09-02 10:20:44 [scraper.py:172] 🔗 [HN #2] URL: https://causenet.org/
+INFO     2025-09-02 10:20:44 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #3] FreeDroidWarn
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/woheller69/FreeDroidWarn
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #4] An LLM is a lossy encyclopedia
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #4] URL: https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #5] Stone Age settlement found under the sea in Denmark
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #5] URL: https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #6] Kazeta: An operating system that brings the console gaming experience of 90s
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #6] URL: https://kazeta.org/
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #7] The day Return became Enter (2023)
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #7] URL: https://aresluna.org/the-day-return-became-enter/
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #8] WinBoat: Run Windows apps on Linux with seamless integration
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/TibixDev/winboat
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-02 10:20:45 [scraper.py:171] 📥 [HN #9] Amazon has mostly sat out the AI talent war
+INFO     2025-09-02 10:20:45 [scraper.py:172] 🔗 [HN #9] URL: https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8
+INFO     2025-09-02 10:20:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-02 10:20:46 [scraper.py:171] 📥 [HN #10] Patrick Winston: How to Speak (2018) [video]
+INFO     2025-09-02 10:20:46 [scraper.py:172] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=Unzc731iCUY
+INFO     2025-09-02 10:20:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-02 10:20:46 [scraper.py:179] 🎉 [HN] All done.
+
