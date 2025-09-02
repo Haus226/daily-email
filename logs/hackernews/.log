@@ -3529,3 +3529,36 @@ INFO     2025-09-01 10:22:12 [scraper.py:172] 🔗 [HN #10] URL: https://jj-for-
 INFO     2025-09-01 10:22:12 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-01 10:22:12 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-02 01:59:32 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-02 01:59:32 [scraper.py:171] 📥 [HN #1] I Miss Using Em Dashes
+INFO     2025-09-02 01:59:32 [scraper.py:172] 🔗 [HN #1] URL: https://bassi.li/articles/i-miss-using-em-dashes
+INFO     2025-09-02 01:59:32 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #2] Patrick Winston: How to Speak (2018) [video]
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #2] URL: https://www.youtube.com/watch?v=Unzc731iCUY
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #3] Amazon has mostly sat out the AI talent war
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #3] URL: https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #4] Implementing a Foil Sticker Effect
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #4] URL: https://www.4rknova.com/blog/2025/08/30/foil-sticker
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #5] The future of 32-bit support in the kernel
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #5] URL: https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #6] The day Return became Enter (2023)
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #6] URL: https://aresluna.org/the-day-return-became-enter/
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #7] Raspberry Pi 5 support (OpenBSD)
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #7] URL: https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #8] Adaptive LLM routing under budget constraints
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #8] URL: https://arxiv.org/abs/2508.21141
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #9] Making Minecraft Spherical
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #9] URL: https://www.bowerbyte.com/posts/blocky-planet/
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:171] 📥 [HN #10] The buyer-pull and seller-push theories of sales
+INFO     2025-09-02 01:59:33 [scraper.py:172] 🔗 [HN #10] URL: https://howtogrow.substack.com/p/the-physics-of-sales
+INFO     2025-09-02 01:59:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-02 01:59:33 [scraper.py:179] 🎉 [HN] All done.
+
