@@ -772,3 +772,11 @@ INFO     2025-09-02 10:21:04 [scraper.py:134] 📥 [EO] Title: Dark Skies Over t
 INFO     2025-09-02 10:21:04 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154735/greatbasin_vir_20250812_th.jpg
 INFO     2025-09-02 10:21:04 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-03 01:51:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-03 01:51:23 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-03 01:51:39 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-03 01:51:39 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Yarlung Zangbo River is the planet's highest-altitude major river, averaging 4,000 meters elevation, and flows through the world's deepest land-based canyon exceeding 6,000 meters. It serves as a textbook braided river, exhibiting substantial channel shifts due to high sediment discharge from adjacent steep mountains, with flooding events frequently remobilizing coarse sediment and preventing vegetation establishment on sandbars, unlike more stable meandering or anabranching rivers. Satellite imagery from 1988 to 2025 documents these dynamic changes. Originating from the Angsi Glacier in the Himalayas, the river flows west to east across the Tibetan Plateau, depositing Himalayan sediment that creates fertile soil. It turns south into India as the Brahmaputra River, later joining the Ganges to form the world's largest delta before emptying into the Indian Ocean.
+INFO     2025-09-03 01:51:39 [scraper.py:134] 📥 [EO] Title: Braided River in Tibet Redraws Its Channels
+INFO     2025-09-03 01:51:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154747/zhanangcounty_oli_20250208_th.jpg
+INFO     2025-09-03 01:51:39 [scraper.py:155] ✅ [EO] Successfully fetched.
+
