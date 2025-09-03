@@ -780,3 +780,11 @@ INFO     2025-09-03 01:51:39 [scraper.py:134] 📥 [EO] Title: Braided River in 
 INFO     2025-09-03 01:51:39 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154747/zhanangcounty_oli_20250208_th.jpg
 INFO     2025-09-03 01:51:39 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-03 05:21:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-03 05:21:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-03 05:21:46 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-03 05:21:46 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Yarlung Zangbo River, flowing at an average elevation of 4,000 meters, is the planet's highest-altitude major river and traverses the world's deepest land canyon exceeding 6,000 meters. It serves as a textbook example of a braided river, characterized by substantial annual channel shifts driven by high sediment discharge from steep adjacent mountains. Frequent flooding remobilizes coarse sediment, preventing vegetation establishment on sandbars, contrasting with meandering or anabranching rivers where sediment accumulations stabilize. Originating from the Angsi Glacier in the Himalayas, the river crosses the Tibetan Plateau through the seismically active Indus-Yarlung suture zone—the collision boundary of the Indian and Eurasian tectonic plates—depositing nutrient-rich Himalayan sediment that supports regional agriculture and ecosystems. It subsequently turns south into India as the Brahmaputra River, eventually merging with the Ganges to form the world's largest delta before discharging into the Indian Ocean. Satellite observations from 1988 to 2025 document these dynamic morphological changes.
+INFO     2025-09-03 05:21:46 [scraper.py:134] 📥 [EO] Title: Braided River in Tibet Redraws Its Channels
+INFO     2025-09-03 05:21:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154747/zhanangcounty_oli_20250208_th.jpg
+INFO     2025-09-03 05:21:46 [scraper.py:155] ✅ [EO] Successfully fetched.
+

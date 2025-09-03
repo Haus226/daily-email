@@ -3661,3 +3661,36 @@ INFO     2025-09-03 01:51:23 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-09-03 01:51:23 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-03 01:51:23 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-03 05:21:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #1] Google can keep its Chrome browser but will be barred from exclusive contracts
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #1] URL: https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #2] %CPU utilization is a lie
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #2] URL: https://www.brendanlong.com/cpu-utilization-is-a-lie.html
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #3] 10-20x Faster LLVM -O0 Back-End – Code Generation
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #3] URL: https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #4] This blog is running on a recycled Google Pixel 5 (2024)
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #4] URL: https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #5] Comic Sans typeball designed to work with the IBM Selectric typewriters
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #5] URL: https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-03 05:21:26 [scraper.py:171] 📥 [HN #6] Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
+INFO     2025-09-03 05:21:26 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/krig/LISP
+INFO     2025-09-03 05:21:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-03 05:21:27 [scraper.py:171] 📥 [HN #7] A staff engineer's journey with Claude Code
+INFO     2025-09-03 05:21:27 [scraper.py:172] 🔗 [HN #7] URL: https://www.sanity.io/blog/first-attempt-will-be-95-garbage
+INFO     2025-09-03 05:21:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-03 05:21:27 [scraper.py:171] 📥 [HN #8] Making a Linux home server sleep on idle and wake on demand (2023)
+INFO     2025-09-03 05:21:27 [scraper.py:172] 🔗 [HN #8] URL: https://dgross.ca/blog/linux-home-server-auto-sleep
+INFO     2025-09-03 05:21:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-03 05:21:27 [scraper.py:171] 📥 [HN #9] Introduction to Ada: a project-based exploration with rosettas
+INFO     2025-09-03 05:21:27 [scraper.py:172] 🔗 [HN #9] URL: https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas
+INFO     2025-09-03 05:21:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-03 05:21:27 [scraper.py:171] 📥 [HN #10] Physically based rendering from first principles
+INFO     2025-09-03 05:21:27 [scraper.py:172] 🔗 [HN #10] URL: https://imadr.me/pbr/
+INFO     2025-09-03 05:21:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-03 05:21:27 [scraper.py:179] 🎉 [HN] All done.
+
