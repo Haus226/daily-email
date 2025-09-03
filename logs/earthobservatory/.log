@@ -788,3 +788,11 @@ INFO     2025-09-03 05:21:46 [scraper.py:134] 📥 [EO] Title: Braided River in 
 INFO     2025-09-03 05:21:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154747/zhanangcounty_oli_20250208_th.jpg
 INFO     2025-09-03 05:21:46 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-03 10:19:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-03 10:19:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-03 10:19:32 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-03 10:19:32 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Yarlung Zangbo River, flowing at an average elevation of 4,000 meters, is Earth's highest-altitude major river and traverses the world's deepest land-based canyon exceeding 6,000 meters. As a braided river system, its channels undergo substantial annual shifts due to high sediment discharge from adjacent steep mountains, with flooding events frequently remobilizing coarse sediment and preventing vegetation establishment on sandbars—distinguishing it from meandering or anabranching rivers. Satellite imagery from Landsat 5, 8, and 9 (1988–2025) in false-color composites documents these dynamic changes. Originating from the Angsi Glacier in the Himalayas, the river crosses the seismically active Indus-Yarlung suture zone where the Indian and Eurasian plates collide, depositing Himalayan sediment that enriches regional agriculture. It subsequently turns south into India as the Brahmaputra River, merging with the Ganges to form the world's largest delta before emptying into the Indian Ocean.
+INFO     2025-09-03 10:19:32 [scraper.py:134] 📥 [EO] Title: Braided River in Tibet Redraws Its Channels
+INFO     2025-09-03 10:19:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154747/zhanangcounty_oli_20250208_th.jpg
+INFO     2025-09-03 10:19:32 [scraper.py:155] ✅ [EO] Successfully fetched.
+

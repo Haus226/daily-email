@@ -3694,3 +3694,36 @@ INFO     2025-09-03 05:21:27 [scraper.py:172] 🔗 [HN #10] URL: https://imadr.m
 INFO     2025-09-03 05:21:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-03 05:21:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-03 10:19:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-03 10:19:15 [scraper.py:171] 📥 [HN #1] Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel
+INFO     2025-09-03 10:19:15 [scraper.py:172] 🔗 [HN #1] URL: https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html
+INFO     2025-09-03 10:19:15 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-03 10:19:15 [scraper.py:171] 📥 [HN #2] Lit: a library for building fast, lightweight web components
+INFO     2025-09-03 10:19:15 [scraper.py:172] 🔗 [HN #2] URL: https://lit.dev
+INFO     2025-09-03 10:19:15 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-03 10:19:15 [scraper.py:171] 📥 [HN #3] Magic Lantern Is Back
+INFO     2025-09-03 10:19:15 [scraper.py:172] 🔗 [HN #3] URL: https://www.magiclantern.fm/forum/index.php?topic=27315.0
+INFO     2025-09-03 10:19:15 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-03 10:19:15 [scraper.py:171] 📥 [HN #4] Finding thousands of exposed Ollama instances using Shodan
+INFO     2025-09-03 10:19:15 [scraper.py:172] 🔗 [HN #4] URL: https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama
+INFO     2025-09-03 10:19:15 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #5] %CPU utilization is a lie
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #5] URL: https://www.brendanlong.com/cpu-utilization-is-a-lie.html
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #6] TPDE-LLVM: Faster LLVM -O0 Back-End
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #6] URL: https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #7] The 16-year odyssey it took to emulate the Pioneer LaserActive
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #7] URL: https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #8] Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/awslabs/amazonq.nvim
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #9] AI is going great for the blind (2023)
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #9] URL: https://robertkingett.com/posts/6230/
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:171] 📥 [HN #10] This blog is running on a recycled Google Pixel 5 (2024)
+INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #10] URL: https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
+INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-03 10:19:16 [scraper.py:179] 🎉 [HN] All done.
+
