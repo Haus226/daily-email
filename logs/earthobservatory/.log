@@ -810,3 +810,9 @@ INFO     2025-09-04 05:22:05 [scraper.py:134] 📥 [EO] Title: B.C. Wildfires Se
 INFO     2025-09-04 05:22:05 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154751/bcfires_amo_20250902_th.jpg
 INFO     2025-09-04 05:22:05 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-04 10:19:41 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-04 10:19:42 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-04 10:19:53 [scraper.py:134] 📥 [EO] Title: B.C. Wildfires Send Smoke Skyward
+INFO     2025-09-04 10:19:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154751/bcfires_amo_20250902_th.jpg
+INFO     2025-09-04 10:19:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+

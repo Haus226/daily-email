@@ -3793,3 +3793,36 @@ INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #10] URL: https://www.sci
 INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-04 05:21:49 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-04 10:19:41 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-04 10:19:42 [scraper.py:171] 📥 [HN #1] 30 minutes with a stranger
+INFO     2025-09-04 10:19:42 [scraper.py:172] 🔗 [HN #1] URL: https://pudding.cool/2025/06/hello-stranger/
+INFO     2025-09-04 10:19:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-04 10:19:42 [scraper.py:171] 📥 [HN #2] The Color of the Future: A history of blue
+INFO     2025-09-04 10:19:42 [scraper.py:172] 🔗 [HN #2] URL: https://www.hopefulmons.com/p/the-color-of-the-future
+INFO     2025-09-04 10:19:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-04 10:19:42 [scraper.py:171] 📥 [HN #3] Polars Cloud and Distributed Polars now available
+INFO     2025-09-04 10:19:42 [scraper.py:172] 🔗 [HN #3] URL: https://pola.rs/posts/polars-cloud-launch/
+INFO     2025-09-04 10:19:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-04 10:19:42 [scraper.py:171] 📥 [HN #4] Étoilé – desktop built on GNUStep
+INFO     2025-09-04 10:19:42 [scraper.py:172] 🔗 [HN #4] URL: http://etoileos.com/
+INFO     2025-09-04 10:19:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-04 10:19:42 [scraper.py:171] 📥 [HN #5] Show HN: A roguelike game that runs inside Notepad++
+INFO     2025-09-04 10:19:42 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/thelowsunoverthemoon/NeuroPriest
+INFO     2025-09-04 10:19:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:171] 📥 [HN #6] AR Fluid Simulation Demo
+INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #6] URL: https://danybittel.ch/fluid
+INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:171] 📥 [HN #7] Neovim Pack
+INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #7] URL: https://neovim.io/doc/user/pack.html#vim.pack
+INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:171] 📥 [HN #8] Claude Code: Now in Beta in Zed
+INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #8] URL: https://zed.dev/blog/claude-code-via-acp
+INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:171] 📥 [HN #9] Melvyn Bragg steps down from presenting In Our Time
+INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #9] URL: https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/
+INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:171] 📥 [HN #10] Reverse engineering Solos smart glasses
+INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #10] URL: https://jfloren.net/b/2025/8/28/0
+INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-04 10:19:43 [scraper.py:179] 🎉 [HN] All done.
+
