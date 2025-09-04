@@ -3727,3 +3727,36 @@ INFO     2025-09-03 10:19:16 [scraper.py:172] 🔗 [HN #10] URL: https://blog.ct
 INFO     2025-09-03 10:19:16 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-03 10:19:16 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-04 01:52:06 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-04 01:52:07 [scraper.py:171] 📥 [HN #1] Evidence that AI is destroying jobs for young people
+INFO     2025-09-04 01:52:07 [scraper.py:172] 🔗 [HN #1] URL: https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying
+INFO     2025-09-04 01:52:07 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-04 01:52:07 [scraper.py:171] 📥 [HN #2] Claude Code: Now in Beta in Zed
+INFO     2025-09-04 01:52:07 [scraper.py:172] 🔗 [HN #2] URL: https://zed.dev/blog/claude-code-via-acp
+INFO     2025-09-04 01:52:07 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-04 01:52:07 [scraper.py:171] 📥 [HN #3] Neovim Pack
+INFO     2025-09-04 01:52:07 [scraper.py:172] 🔗 [HN #3] URL: https://neovim.io/doc/user/pack.html#vim.pack
+INFO     2025-09-04 01:52:07 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-04 01:52:07 [scraper.py:171] 📥 [HN #4] Not paying with cash
+INFO     2025-09-04 01:52:07 [scraper.py:172] 🔗 [HN #4] URL: https://rubenerd.com/not-paying-with-cash/
+INFO     2025-09-04 01:52:07 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-04 01:52:07 [scraper.py:171] 📥 [HN #5] The Bitter Lesson Is Misunderstood
+INFO     2025-09-04 01:52:07 [scraper.py:172] 🔗 [HN #5] URL: https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood
+INFO     2025-09-04 01:52:07 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:171] 📥 [HN #6] ReMarkable Paper Pro Move
+INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #6] URL: https://remarkable.com/products/remarkable-paper/pro-move
+INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:171] 📥 [HN #7] Nuclear: Desktop music player focused on streaming from free sources
+INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/nukeop/nuclear
+INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:171] 📥 [HN #8] Evaluating Agents
+INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #8] URL: https://aunhumano.com/index.php/2025/09/03/on-evaluating-agents/
+INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:171] 📥 [HN #9] What is it like to be a bat?
+INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #9] URL: https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
+INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:171] 📥 [HN #10] VibeVoice: A Frontier Open-Source Text-to-Speech Model
+INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #10] URL: https://microsoft.github.io/VibeVoice/
+INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-04 01:52:08 [scraper.py:179] 🎉 [HN] All done.
+
