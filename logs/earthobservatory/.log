@@ -802,3 +802,11 @@ INFO     2025-09-04 01:52:20 [scraper.py:134] 📥 [EO] Title: B.C. Wildfires Se
 INFO     2025-09-04 01:52:20 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154751/bcfires_amo_20250902_th.jpg
 INFO     2025-09-04 01:52:20 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-04 05:21:47 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-04 05:21:48 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-04 05:22:05 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-04 05:22:05 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In early September 2025, lightning ignited large wildland fires across British Columbia's Cariboo region during warm, dry conditions, with significant smoke observed via NASA MODIS satellite imagery. The Itcha Lake fire burned approximately 17,000 hectares by September 3, while the Beef Trail Creek and Dusty Lake fires covered about 7,800 and 2,800 hectares respectively, prompting evacuations near Beef Trail Creek. British Columbia's 2025 burned area reached 732,000 hectares by late August, slightly exceeding its 10-year average, whereas Saskatchewan and Manitoba reported 2.9 million and 2.1 million hectares burned respectively, substantially surpassing their averages. Canada experienced one of its worst fire seasons on record in 2025, second only to 2023 in total area burned.
+INFO     2025-09-04 05:22:05 [scraper.py:134] 📥 [EO] Title: B.C. Wildfires Send Smoke Skyward
+INFO     2025-09-04 05:22:05 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154751/bcfires_amo_20250902_th.jpg
+INFO     2025-09-04 05:22:05 [scraper.py:155] ✅ [EO] Successfully fetched.
+

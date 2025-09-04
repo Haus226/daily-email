@@ -3760,3 +3760,36 @@ INFO     2025-09-04 01:52:08 [scraper.py:172] 🔗 [HN #10] URL: https://microso
 INFO     2025-09-04 01:52:08 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-04 01:52:08 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-04 05:21:47 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-04 05:21:48 [scraper.py:171] 📥 [HN #1] Étoilé – desktop built on GNUStep
+INFO     2025-09-04 05:21:48 [scraper.py:172] 🔗 [HN #1] URL: http://etoileos.com/
+INFO     2025-09-04 05:21:48 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-04 05:21:48 [scraper.py:171] 📥 [HN #2] Reverse engineering Solos smart glasses
+INFO     2025-09-04 05:21:48 [scraper.py:172] 🔗 [HN #2] URL: https://jfloren.net/b/2025/8/28/0
+INFO     2025-09-04 05:21:48 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-04 05:21:48 [scraper.py:171] 📥 [HN #3] Neovim Pack
+INFO     2025-09-04 05:21:48 [scraper.py:172] 🔗 [HN #3] URL: https://neovim.io/doc/user/pack.html#vim.pack
+INFO     2025-09-04 05:21:48 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-04 05:21:48 [scraper.py:171] 📥 [HN #4] Minesweeper thermodynamics
+INFO     2025-09-04 05:21:48 [scraper.py:172] 🔗 [HN #4] URL: https://oscarcunningham.com/792/minesweeper-thermodynamics/
+INFO     2025-09-04 05:21:48 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-04 05:21:48 [scraper.py:171] 📥 [HN #5] Claude Code: Now in Beta in Zed
+INFO     2025-09-04 05:21:48 [scraper.py:172] 🔗 [HN #5] URL: https://zed.dev/blog/claude-code-via-acp
+INFO     2025-09-04 05:21:48 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:171] 📥 [HN #6] The Bitter Lesson Is Misunderstood
+INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #6] URL: https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood
+INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:171] 📥 [HN #7] AR Fluid Simulation Demo
+INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #7] URL: https://danybittel.ch/fluid
+INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:171] 📥 [HN #8] Nuclear: Desktop music player focused on streaming from free sources
+INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/nukeop/nuclear
+INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:171] 📥 [HN #9] ReMarkable Paper Pro Move
+INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #9] URL: https://remarkable.com/products/remarkable-paper/pro-move
+INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:171] 📥 [HN #10] New knot theory discovery overturns long-held mathematical assumption
+INFO     2025-09-04 05:21:49 [scraper.py:172] 🔗 [HN #10] URL: https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/
+INFO     2025-09-04 05:21:49 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-04 05:21:49 [scraper.py:179] 🎉 [HN] All done.
+
