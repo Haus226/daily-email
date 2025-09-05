@@ -583,3 +583,8 @@ INFO     2025-09-05 01:54:43 [scraper.py:47] 📥 [APOD] Title: NGC 4565: Galaxy
 INFO     2025-09-05 01:54:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg
 INFO     2025-09-05 01:54:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-05 05:22:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-05 05:22:14 [scraper.py:47] 📥 [APOD] Title: 47 Tucanae: Globular Star Cluster
+INFO     2025-09-05 05:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg
+INFO     2025-09-05 05:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

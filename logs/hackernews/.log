@@ -3859,3 +3859,36 @@ INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #10] URL: https://www.bit
 INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-05 01:54:44 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-05 05:22:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-05 05:22:14 [scraper.py:171] 📥 [HN #1] Fil's Unbelievable Garbage Collector
+INFO     2025-09-05 05:22:15 [scraper.py:172] 🔗 [HN #1] URL: https://fil-c.org/fugc
+INFO     2025-09-05 05:22:15 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-05 05:22:15 [scraper.py:171] 📥 [HN #2] What Is the Fourier Transform?
+INFO     2025-09-05 05:22:15 [scraper.py:172] 🔗 [HN #2] URL: https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+INFO     2025-09-05 05:22:15 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-05 05:22:15 [scraper.py:171] 📥 [HN #3] Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC
+INFO     2025-09-05 05:22:15 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/mindbrix/Rasterizer
+INFO     2025-09-05 05:22:15 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-05 05:22:15 [scraper.py:171] 📥 [HN #4] Stripe Launches L1 Blockchain: Tempo
+INFO     2025-09-05 05:22:15 [scraper.py:172] 🔗 [HN #4] URL: https://tempo.xyz
+INFO     2025-09-05 05:22:15 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-05 05:22:15 [scraper.py:171] 📥 [HN #5] Evolving the OCaml Programming Language (2025) [pdf]
+INFO     2025-09-05 05:22:15 [scraper.py:172] 🔗 [HN #5] URL: https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf
+INFO     2025-09-05 05:22:15 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:171] 📥 [HN #6] io_uring is faster than mmap
+INFO     2025-09-05 05:22:16 [scraper.py:172] 🔗 [HN #6] URL: https://www.bitflux.ai/blog/memory-is-slow-part2/
+INFO     2025-09-05 05:22:16 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:171] 📥 [HN #7] LLM Visualization
+INFO     2025-09-05 05:22:16 [scraper.py:172] 🔗 [HN #7] URL: https://bbycroft.net/llm
+INFO     2025-09-05 05:22:16 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:171] 📥 [HN #8] Classic 8×8-pixel B&W Mac patterns
+INFO     2025-09-05 05:22:16 [scraper.py:172] 🔗 [HN #8] URL: https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html
+INFO     2025-09-05 05:22:16 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:171] 📥 [HN #9] Show HN: First Half of "Swimming in Tech Debt" (book about tech debt)
+INFO     2025-09-05 05:22:16 [scraper.py:172] 🔗 [HN #9] URL: https://helpthisbook.com/lou-franco/swimming-in-tech-debt
+INFO     2025-09-05 05:22:16 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:171] 📥 [HN #10] What If OpenDocument Used SQLite?
+INFO     2025-09-05 05:22:16 [scraper.py:172] 🔗 [HN #10] URL: https://www.sqlite.org/affcase1.html
+INFO     2025-09-05 05:22:16 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-05 05:22:16 [scraper.py:179] 🎉 [HN] All done.
+

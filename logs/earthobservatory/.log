@@ -824,3 +824,9 @@ INFO     2025-09-05 01:55:01 [scraper.py:134] 📥 [EO] Title: Summer Heat Linge
 INFO     2025-09-05 01:55:01 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154754/pnwheatwave_geos5_20250903_th.jpg
 INFO     2025-09-05 01:55:01 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-05 05:22:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-05 05:22:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-05 05:22:25 [scraper.py:134] 📥 [EO] Title: Summer Heat Lingers in the West
+INFO     2025-09-05 05:22:25 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154754/pnwheatwave_geos5_20250903_th.jpg
+INFO     2025-09-05 05:22:25 [scraper.py:155] ✅ [EO] Successfully fetched.
+
