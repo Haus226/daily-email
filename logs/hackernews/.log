@@ -3826,3 +3826,36 @@ INFO     2025-09-04 10:19:43 [scraper.py:172] 🔗 [HN #10] URL: https://jfloren
 INFO     2025-09-04 10:19:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-04 10:19:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-05 01:54:43 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-05 01:54:43 [scraper.py:171] 📥 [HN #1] What Is the Fourier Transform?
+INFO     2025-09-05 01:54:43 [scraper.py:172] 🔗 [HN #1] URL: https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+INFO     2025-09-05 01:54:43 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-05 01:54:43 [scraper.py:171] 📥 [HN #2] Stripe Launches L1 Blockchain: Tempo
+INFO     2025-09-05 01:54:43 [scraper.py:172] 🔗 [HN #2] URL: https://tempo.xyz
+INFO     2025-09-05 01:54:43 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-05 01:54:43 [scraper.py:171] 📥 [HN #3] LLM Visualization
+INFO     2025-09-05 01:54:43 [scraper.py:172] 🔗 [HN #3] URL: https://bbycroft.net/llm
+INFO     2025-09-05 01:54:43 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-05 01:54:43 [scraper.py:171] 📥 [HN #4] Classic 8×8-pixel B&W Mac patterns
+INFO     2025-09-05 01:54:43 [scraper.py:172] 🔗 [HN #4] URL: https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html
+INFO     2025-09-05 01:54:43 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #5] WiFi signals can measure heart rate
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #5] URL: https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #6] What If OpenDocument Used SQLite?
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #6] URL: https://www.sqlite.org/affcase1.html
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #7] Fil's Unbelievable Garbage Collector
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #7] URL: https://fil-c.org/fugc
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #8] Atlassian is acquiring The Browser Company
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #8] URL: https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #9] Evolving the OCaml Programming Language (2025)
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #9] URL: https://kcsrk.info/talks#Evolution_Ashoka_2025
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:171] 📥 [HN #10] Memory is slow, Disk is fast – Part 2
+INFO     2025-09-05 01:54:44 [scraper.py:172] 🔗 [HN #10] URL: https://www.bitflux.ai/blog/memory-is-slow-part2/
+INFO     2025-09-05 01:54:44 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-05 01:54:44 [scraper.py:179] 🎉 [HN] All done.
+

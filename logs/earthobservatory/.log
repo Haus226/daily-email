@@ -816,3 +816,11 @@ INFO     2025-09-04 10:19:53 [scraper.py:134] 📥 [EO] Title: B.C. Wildfires Se
 INFO     2025-09-04 10:19:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154751/bcfires_amo_20250902_th.jpg
 INFO     2025-09-04 10:19:53 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-05 01:54:43 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-05 01:54:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-05 01:55:01 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-05 01:55:01 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Western North America experienced unseasonably high temperatures in early September 2025 due to an omega block high-pressure system. Modeled GEOS data showed temperatures approaching 40°C (104°F) across the region on September 3. Ashcroft, British Columbia, set a new Canadian September record at 40.8°C (105.4°F), while Spokane, Washington, tied its daily record at 36.7°C (98°F) with previous days reaching 37.2°C (99°F), the highest September temperature since 1881 records began. This extreme heat followed a drier-than-normal summer, exacerbating large, out-of-control wildfires in British Columbia amid typical seasonal rainfall expectations. Concurrently, a cold front brought significantly cooler temperatures to eastern Prairies and northern Ontario, causing sharp drops and early-season frost.
+INFO     2025-09-05 01:55:01 [scraper.py:134] 📥 [EO] Title: Summer Heat Lingers in the West
+INFO     2025-09-05 01:55:01 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154754/pnwheatwave_geos5_20250903_th.jpg
+INFO     2025-09-05 01:55:01 [scraper.py:155] ✅ [EO] Successfully fetched.
+
