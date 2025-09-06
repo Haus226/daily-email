@@ -598,3 +598,8 @@ INFO     2025-09-06 01:51:49 [scraper.py:47] 📥 [APOD] Title: 47 Tucanae: Glob
 INFO     2025-09-06 01:51:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg
 INFO     2025-09-06 01:51:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-06 05:20:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-06 05:20:19 [scraper.py:47] 📥 [APOD] Title: Sardinia Sunset
+INFO     2025-09-06 05:20:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg
+INFO     2025-09-06 05:20:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

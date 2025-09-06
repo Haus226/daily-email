@@ -3958,3 +3958,36 @@ INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #10] URL: https://codesma
 INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-06 01:51:51 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-06 05:20:19 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-06 05:20:19 [scraper.py:171] 📥 [HN #1] Anthropic agrees to pay $1.5B to settle lawsuit with book authors
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #1] URL: https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-06 05:20:20 [scraper.py:171] 📥 [HN #2] Speeding up Unreal Editor launch by not spawning 38000 tooltips
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #2] URL: https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-06 05:20:20 [scraper.py:171] 📥 [HN #3] Developing a Space Flight Simulator in Clojure
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #3] URL: https://www.wedesoft.de/software/2025/09/05/clojure-game/
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-06 05:20:20 [scraper.py:171] 📥 [HN #4] GLM 4.5 with Claude Code
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #4] URL: https://docs.z.ai/guides/llm/glm-4.5
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-06 05:20:20 [scraper.py:171] 📥 [HN #5] Video Game Blurs (and how the best one works)
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #5] URL: https://blog.frost.kiwi/dual-kawase/
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-06 05:20:20 [scraper.py:171] 📥 [HN #6] Novel hollow-core optical fiber transmits data 45% faster with record low loss
+INFO     2025-09-06 05:20:20 [scraper.py:172] 🔗 [HN #6] URL: https://phys.org/news/2025-09-hollow-core-optical-fiber-transmits.html
+INFO     2025-09-06 05:20:20 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-06 05:20:21 [scraper.py:171] 📥 [HN #7] Making a font of my handwriting
+INFO     2025-09-06 05:20:21 [scraper.py:172] 🔗 [HN #7] URL: https://chameth.com/making-a-font-of-my-handwriting/
+INFO     2025-09-06 05:20:21 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-06 05:20:21 [scraper.py:171] 📥 [HN #8] Purposeful animations
+INFO     2025-09-06 05:20:21 [scraper.py:172] 🔗 [HN #8] URL: https://emilkowal.ski/ui/you-dont-need-animations
+INFO     2025-09-06 05:20:21 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-06 05:20:21 [scraper.py:171] 📥 [HN #9] The Universe Within 12.5 Light Years
+INFO     2025-09-06 05:20:21 [scraper.py:172] 🔗 [HN #9] URL: http://www.atlasoftheuniverse.com/12lys.html
+INFO     2025-09-06 05:20:21 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-06 05:20:21 [scraper.py:171] 📥 [HN #10] Meschers: Geometry Processing of Impossible Objects
+INFO     2025-09-06 05:20:21 [scraper.py:172] 🔗 [HN #10] URL: https://anadodik.github.io/publication/meschers/
+INFO     2025-09-06 05:20:21 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-06 05:20:21 [scraper.py:179] 🎉 [HN] All done.
+
