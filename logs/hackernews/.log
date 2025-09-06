@@ -3925,3 +3925,36 @@ INFO     2025-09-05 10:19:56 [scraper.py:172] 🔗 [HN #10] URL: https://twitter
 INFO     2025-09-05 10:19:56 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-05 10:19:56 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-06 01:51:49 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-06 01:51:49 [scraper.py:171] 📥 [HN #1] Anthropic agrees to pay $1.5B to settle lawsuit with book authors
+INFO     2025-09-06 01:51:49 [scraper.py:172] 🔗 [HN #1] URL: https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+INFO     2025-09-06 01:51:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-06 01:51:50 [scraper.py:171] 📥 [HN #2] The Universe Within 12.5 Light Years
+INFO     2025-09-06 01:51:50 [scraper.py:172] 🔗 [HN #2] URL: http://www.atlasoftheuniverse.com/12lys.html
+INFO     2025-09-06 01:51:50 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-06 01:51:50 [scraper.py:171] 📥 [HN #3] Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025
+INFO     2025-09-06 01:51:50 [scraper.py:172] 🔗 [HN #3] URL: https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952
+INFO     2025-09-06 01:51:50 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-06 01:51:50 [scraper.py:171] 📥 [HN #4] Making a font of my handwriting
+INFO     2025-09-06 01:51:50 [scraper.py:172] 🔗 [HN #4] URL: https://chameth.com/making-a-font-of-my-handwriting/
+INFO     2025-09-06 01:51:50 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-06 01:51:50 [scraper.py:171] 📥 [HN #5] Developing a Space Flight Simulator in Clojure
+INFO     2025-09-06 01:51:50 [scraper.py:172] 🔗 [HN #5] URL: https://www.wedesoft.de/software/2025/09/05/clojure-game/
+INFO     2025-09-06 01:51:50 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:171] 📥 [HN #6] Purposeful animations
+INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #6] URL: https://emilkowal.ski/ui/you-dont-need-animations
+INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:171] 📥 [HN #7] My Own DNS Server at Home – Part 1: IPv4
+INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #7] URL: https://jan.wildeboer.net/2025/08/My-DNS-Part-1/
+INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:171] 📥 [HN #8] GLM 4.5 with Claude Code is a killer combination
+INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #8] URL: https://docs.z.ai/guides/llm/glm-4.5
+INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:171] 📥 [HN #9] MentraOS – open-source Smart glasses OS
+INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/Mentra-Community/MentraOS
+INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:171] 📥 [HN #10] I ditched Docker for Podman
+INFO     2025-09-06 01:51:51 [scraper.py:172] 🔗 [HN #10] URL: https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too
+INFO     2025-09-06 01:51:51 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-06 01:51:51 [scraper.py:179] 🎉 [HN] All done.
+
