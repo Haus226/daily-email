@@ -618,3 +618,8 @@ INFO     2025-09-07 05:20:37 [scraper.py:47] 📥 [APOD] Title: All the Water on
 INFO     2025-09-07 05:20:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg
 INFO     2025-09-07 05:20:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-07 10:17:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-07 10:17:57 [scraper.py:47] 📥 [APOD] Title: All the Water on Planet Earth
+INFO     2025-09-07 10:17:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg
+INFO     2025-09-07 10:17:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

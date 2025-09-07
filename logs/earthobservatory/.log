@@ -870,3 +870,11 @@ INFO     2025-09-07 05:21:00 [scraper.py:134] 📥 [EO] Title: A Northwest Night
 INFO     2025-09-07 05:21:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154757/iss072e806482_th.jpg
 INFO     2025-09-07 05:21:00 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-07 10:17:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-07 10:17:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-07 10:18:15 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-07 10:18:15 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Astronaut photograph from the ISS on March 19, 2025, depicts city lights in western North America including Portland, Seattle, Vancouver, Edmonton, and Calgary, with the Moon rising above Earth's limb. Orbiting at 28,000 km/h, the ISS crew observes approximately 16 moonrises and moonsets daily. Cloud cover obscured the Moon for ground observers in Seattle and Vancouver while blurring city lights compared to clearer regions like Edmonton and Calgary. The aurora visible in the image results from solar particles interacting with Earth's upper atmosphere, typically visible near the poles but observable at lower latitudes during strong solar storms. The Sun entered its current cycle's maximum phase in mid-2024, enabling auroras as far south as central Mexico, with this heightened activity expected to continue through 2025.
+INFO     2025-09-07 10:18:15 [scraper.py:134] 📥 [EO] Title: A Northwest Night Awash in Light
+INFO     2025-09-07 10:18:15 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154757/iss072e806482_th.jpg
+INFO     2025-09-07 10:18:15 [scraper.py:155] ✅ [EO] Successfully fetched.
+
