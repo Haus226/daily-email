@@ -4024,3 +4024,36 @@ INFO     2025-09-06 10:17:13 [scraper.py:172] 🔗 [HN #10] URL: http://www.atla
 INFO     2025-09-06 10:17:13 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-06 10:17:13 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-07 02:00:44 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-07 02:00:44 [scraper.py:171] 📥 [HN #1] A Navajo weaving of an integrated circuit: the 555 timer
+INFO     2025-09-07 02:00:44 [scraper.py:172] 🔗 [HN #1] URL: https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html
+INFO     2025-09-07 02:00:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-07 02:00:44 [scraper.py:171] 📥 [HN #2] Show HN: I recreated Windows XP as my portfolio
+INFO     2025-09-07 02:00:44 [scraper.py:172] 🔗 [HN #2] URL: https://mitchivin.com/
+INFO     2025-09-07 02:00:44 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-07 02:00:44 [scraper.py:171] 📥 [HN #3] How the “Kim” dump exposed North Korea's credential theft playbook
+INFO     2025-09-07 02:00:44 [scraper.py:172] 🔗 [HN #3] URL: https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/
+INFO     2025-09-07 02:00:44 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #4] The math of shuffling cards almost brought down an online poker empire
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #4] URL: https://www.scientificamerican.com/article/how-the-math-of-shuffling-cards-almost-brought-down-an-online-poker-empire/
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #5] Show HN: I'm making an open-source platform for learning Japanese
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #5] URL: https://kanadojo.com
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #6] C++26: Erroneous behaviour
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #6] URL: https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #7] Shipping textures as PNGs is suboptimal
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #7] URL: https://gamesbymason.com/blog/2025/stop-shipping-pngs/
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #8] Braincraft challenge – 1000 neurons, 100 seconds, 10 runs, 2 choices, no reward
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/rougier/braincraft
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-07 02:00:45 [scraper.py:171] 📥 [HN #9] A history of metaphorical brain talk in psychiatry
+INFO     2025-09-07 02:00:45 [scraper.py:172] 🔗 [HN #9] URL: https://www.nature.com/articles/s41380-025-03053-6
+INFO     2025-09-07 02:00:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-07 02:00:46 [scraper.py:171] 📥 [HN #10] The maths you need to start understanding LLMs
+INFO     2025-09-07 02:00:46 [scraper.py:172] 🔗 [HN #10] URL: https://www.gilesthomas.com/2025/09/maths-for-llms
+INFO     2025-09-07 02:00:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-07 02:00:46 [scraper.py:179] 🎉 [HN] All done.
+

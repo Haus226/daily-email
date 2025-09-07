@@ -854,3 +854,11 @@ INFO     2025-09-06 10:17:26 [scraper.py:134] 📥 [EO] Title: Breaking New Grou
 INFO     2025-09-06 10:17:26 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154760/mekele_oli_20250531_th.jpg
 INFO     2025-09-06 10:17:26 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-07 02:00:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-07 02:00:44 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-07 02:01:08 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-07 02:01:08 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Astronauts aboard the International Space Station captured an image of western North America at night on March 19, 2025, showing illuminated urban areas including Portland, Seattle, Vancouver, Edmonton, and Calgary. The photograph also features the Moon rising above Earth's limb and a green aurora resulting from solar particles interacting with the upper atmosphere. The ISS orbit at 28,000 km/h enables approximately 16 daily moonrises, while cloud cover and light pollution obscure ground-based viewing of celestial phenomena. Enhanced solar activity during the current solar maximum phase, ongoing since mid-2024, has expanded visible aurora sightings to lower latitudes.
+INFO     2025-09-07 02:01:08 [scraper.py:134] 📥 [EO] Title: A Northwest Night Awash in Light
+INFO     2025-09-07 02:01:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154757/iss072e806482_th.jpg
+INFO     2025-09-07 02:01:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+
