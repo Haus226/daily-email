@@ -878,3 +878,11 @@ INFO     2025-09-07 10:18:15 [scraper.py:134] 📥 [EO] Title: A Northwest Night
 INFO     2025-09-07 10:18:15 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154757/iss072e806482_th.jpg
 INFO     2025-09-07 10:18:15 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-08 02:00:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-08 02:00:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-08 02:00:53 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-08 02:00:53 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Glaciers in southeastern Alaska's coastal plain are rapidly thinning and retreating, forming expanding proglacial lakes. The Alsek Glacier, which once encircled Prow Knob (a 5-square-kilometer mountain), lost contact with it in summer 2025, transforming the landmass into an island within Alsek Lake. Satellite imagery from Landsat 5 (July 5, 1984) and Landsat 9 (August 6, 2025) shows the glacier has retreated over 3 miles (5 kilometers) since 1984, with Alsek Lake growing from 45 to 75 square kilometers. Separation from Prow Knob occurred between July 13 and August 6, 2025, later than the 2020 estimate based on earlier retreat rates. The glacier's detachment from northern and southern tributaries and the Grand Plateau Glacier accelerated lake expansion, with Alsek Lake and neighboring proglacial lakes more than doubling in size since 1984. Reduced glacial stability post-separation increases calving susceptibility.
+INFO     2025-09-08 02:00:53 [scraper.py:134] 📥 [EO] Title: Alaska’s Brand New Island
+INFO     2025-09-08 02:00:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154764/ak_alsekglacier_oli2_20250806_th.jpg
+INFO     2025-09-08 02:00:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+

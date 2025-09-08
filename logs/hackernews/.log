@@ -4123,3 +4123,36 @@ INFO     2025-09-07 10:17:59 [scraper.py:172] 🔗 [HN #10] URL: https://kanadoj
 INFO     2025-09-07 10:17:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-07 10:17:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-08 02:00:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-08 02:00:34 [scraper.py:171] 📥 [HN #1] Using Claude Code to modernize a forgotten Linux kernel driver
+INFO     2025-09-08 02:00:34 [scraper.py:172] 🔗 [HN #1] URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
+INFO     2025-09-08 02:00:34 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-08 02:00:34 [scraper.py:171] 📥 [HN #2] Pico CSS – Minimal CSS Framework for Semantic HTML
+INFO     2025-09-08 02:00:34 [scraper.py:172] 🔗 [HN #2] URL: https://picocss.com
+INFO     2025-09-08 02:00:34 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-08 02:00:35 [scraper.py:171] 📥 [HN #3] The MacBook has a sensor that knows the exact angle of the screen hinge
+INFO     2025-09-08 02:00:35 [scraper.py:172] 🔗 [HN #3] URL: https://twitter.com/samhenrigold/status/1964428927159382261
+INFO     2025-09-08 02:00:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-08 02:00:35 [scraper.py:171] 📥 [HN #4] The demo scene is dying, but that's alright
+INFO     2025-09-08 02:00:35 [scraper.py:172] 🔗 [HN #4] URL: https://www.datagubbe.se/sceneherit/
+INFO     2025-09-08 02:00:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-08 02:00:35 [scraper.py:171] 📥 [HN #5] GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search
+INFO     2025-09-08 02:00:35 [scraper.py:172] 🔗 [HN #5] URL: https://simonwillison.net/2025/Sep/6/research-goblin/
+INFO     2025-09-08 02:00:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-08 02:00:35 [scraper.py:171] 📥 [HN #6] Analog optical computer for AI inference and combinatorial optimization
+INFO     2025-09-08 02:00:35 [scraper.py:172] 🔗 [HN #6] URL: https://www.nature.com/articles/s41586-025-09430-z
+INFO     2025-09-08 02:00:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-08 02:00:35 [scraper.py:171] 📥 [HN #7] Everything from 1991 Radio Shack ad I now do with my phone (2014)
+INFO     2025-09-08 02:00:35 [scraper.py:172] 🔗 [HN #7] URL: https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/
+INFO     2025-09-08 02:00:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-08 02:00:36 [scraper.py:171] 📥 [HN #8] Esoteric Languages Challenge Coders to Think Way Outside the Box
+INFO     2025-09-08 02:00:36 [scraper.py:172] 🔗 [HN #8] URL: https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin
+INFO     2025-09-08 02:00:36 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-08 02:00:36 [scraper.py:171] 📥 [HN #9] Formatting code should be unnecessary
+INFO     2025-09-08 02:00:36 [scraper.py:172] 🔗 [HN #9] URL: https://maxleiter.com/blog/formatting
+INFO     2025-09-08 02:00:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-08 02:00:36 [scraper.py:171] 📥 [HN #10] Keeping secrets out of logs (2024)
+INFO     2025-09-08 02:00:36 [scraper.py:172] 🔗 [HN #10] URL: https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/
+INFO     2025-09-08 02:00:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-08 02:00:36 [scraper.py:179] 🎉 [HN] All done.
+
