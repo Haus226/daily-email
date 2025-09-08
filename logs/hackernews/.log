@@ -4189,3 +4189,36 @@ INFO     2025-09-08 05:22:50 [scraper.py:172] 🔗 [HN #10] URL: https://www.abo
 INFO     2025-09-08 05:22:50 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-08 05:22:50 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-08 10:21:38 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-08 10:21:39 [scraper.py:171] 📥 [HN #1] Using Claude Code to modernize a 25-year-old kernel driver
+INFO     2025-09-08 10:21:39 [scraper.py:172] 🔗 [HN #1] URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
+INFO     2025-09-08 10:21:39 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-08 10:21:39 [scraper.py:171] 📥 [HN #2] The MacBook has a sensor that knows the exact angle of the screen hinge
+INFO     2025-09-08 10:21:39 [scraper.py:172] 🔗 [HN #2] URL: https://twitter.com/samhenrigold/status/1964428927159382261
+INFO     2025-09-08 10:21:39 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-08 10:21:39 [scraper.py:171] 📥 [HN #3] Show HN: C++ library for reading MacBook lid angle sensor data
+INFO     2025-09-08 10:21:39 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/ufoym/mac-angle
+INFO     2025-09-08 10:21:39 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-08 10:21:39 [scraper.py:171] 📥 [HN #4] Why Is Japan Still Investing in Custom Floating Point Accelerators?
+INFO     2025-09-08 10:21:39 [scraper.py:172] 🔗 [HN #4] URL: https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/
+INFO     2025-09-08 10:21:39 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-08 10:21:39 [scraper.py:171] 📥 [HN #5] Formatting code should be unnecessary
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #5] URL: https://maxleiter.com/blog/formatting
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:171] 📥 [HN #6] GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #6] URL: https://simonwillison.net/2025/Sep/6/research-goblin/
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:171] 📥 [HN #7] Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #7] URL: https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:171] 📥 [HN #8] Show HN: Veena Chromatic Tuner
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #8] URL: https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:171] 📥 [HN #9] Analog optical computer for AI inference and combinatorial optimization
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #9] URL: https://www.nature.com/articles/s41586-025-09430-z
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:171] 📥 [HN #10] Creative Technology: The Sound Blaster
+INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #10] URL: https://www.abortretry.fail/p/the-story-of-creative-technology
+INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-08 10:21:40 [scraper.py:179] 🎉 [HN] All done.
+
