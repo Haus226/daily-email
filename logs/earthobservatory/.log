@@ -906,3 +906,11 @@ INFO     2025-09-09 01:56:46 [scraper.py:134] 📥 [EO] Title: Hurricane Kiko Ne
 INFO     2025-09-09 01:56:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154769/hurricanekiki_vir_20250907_th.jpg
 INFO     2025-09-09 01:56:46 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-09 05:22:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-09 05:22:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-09 05:22:49 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-09 05:22:49 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Hurricane Kiko formed as a tropical depression in the eastern Pacific on August 31, 2025, and intensified to a major Category 3-4 hurricane with peak sustained winds of 145 mph by September 4. By September 7, it weakened to a Category 2 hurricane with 110 mph winds approximately 600 miles east of Hilo, Hawaii, due to cool ocean waters, moderate wind shear, and dry environmental conditions. Forecast to pass north of the Hawaiian Islands on September 9-10 as a tropical storm, it was expected to avoid causing damaging winds or heavy rainfall but would generate dangerous surf and rip currents along east-facing coastal areas.
+INFO     2025-09-09 05:22:49 [scraper.py:134] 📥 [EO] Title: Hurricane Kiko Nears Hawaii
+INFO     2025-09-09 05:22:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154769/hurricanekiki_vir_20250907_th.jpg
+INFO     2025-09-09 05:22:49 [scraper.py:155] ✅ [EO] Successfully fetched.
+
