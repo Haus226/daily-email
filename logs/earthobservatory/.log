@@ -898,3 +898,11 @@ INFO     2025-09-08 10:21:59 [scraper.py:134] 📥 [EO] Title: Alaska’s Brand 
 INFO     2025-09-08 10:21:59 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154764/ak_alsekglacier_oli2_20250806_th.jpg
 INFO     2025-09-08 10:21:59 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-09 01:56:24 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-09 01:56:25 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-09 01:56:46 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-09 01:56:46 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Hurricane Kiko developed from a tropical depression in the eastern Pacific on August 31, 2025, intensified to a major hurricane (peaking as Category 4 with 145 mph winds on September 4), then weakened due to cool sea surface temperatures, moderate vertical wind shear, and a dry environment. By September 7, sustained winds were 110 mph (175 km/h), classifying it as Category 2 while located 600 miles (1,000 km) east of Hilo, Hawaii. Forecasters predicted further weakening to a tropical storm by September 8–10, with the system passing north of the Hawaiian Islands, avoiding direct landfall but posing risks of hazardous surf and rip currents along east-facing coasts.
+INFO     2025-09-09 01:56:46 [scraper.py:134] 📥 [EO] Title: Hurricane Kiko Nears Hawaii
+INFO     2025-09-09 01:56:46 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154769/hurricanekiki_vir_20250907_th.jpg
+INFO     2025-09-09 01:56:46 [scraper.py:155] ✅ [EO] Successfully fetched.
+

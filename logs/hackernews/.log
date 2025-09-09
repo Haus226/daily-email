@@ -4222,3 +4222,36 @@ INFO     2025-09-08 10:21:40 [scraper.py:172] 🔗 [HN #10] URL: https://www.abo
 INFO     2025-09-08 10:21:40 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-08 10:21:40 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-09 01:56:24 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-09 01:56:25 [scraper.py:171] 📥 [HN #1] Signal Secure Backups
+INFO     2025-09-09 01:56:25 [scraper.py:172] 🔗 [HN #1] URL: https://signal.org/blog/introducing-secure-backups/
+INFO     2025-09-09 01:56:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-09 01:56:25 [scraper.py:171] 📥 [HN #2] The Storm Hits the Art Market
+INFO     2025-09-09 01:56:25 [scraper.py:172] 🔗 [HN #2] URL: https://news.artnet.com/market/intelligence-report-storm-2025-2684512
+INFO     2025-09-09 01:56:25 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-09 01:56:25 [scraper.py:171] 📥 [HN #3] iPhone dumbphone
+INFO     2025-09-09 01:56:25 [scraper.py:172] 🔗 [HN #3] URL: https://stopa.io/post/297
+INFO     2025-09-09 01:56:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-09 01:56:25 [scraper.py:171] 📥 [HN #4] Is OOXML Artifically Complex?
+INFO     2025-09-09 01:56:25 [scraper.py:172] 🔗 [HN #4] URL: https://hsu.cy/2025/09/is-ooxml-artificially-complex/
+INFO     2025-09-09 01:56:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #5] Alterego: Thought to Text
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #5] URL: https://www.alterego.io/
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #6] NPM debug and chalk packages compromised
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #6] URL: https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #7] Contracts for C
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #7] URL: https://gustedt.wordpress.com/2025/03/10/contracts-for-c/
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #8] Show HN: Attempt – A CLI for retrying fallible commands
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/MaxBondABE/attempt
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #9] Experimenting with Local LLMs on macOS
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #9] URL: https://blog.6nok.org/experimenting-with-local-llms-on-macos/
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:171] 📥 [HN #10] Tesla market share in US drops to lowest since 2017
+INFO     2025-09-09 01:56:26 [scraper.py:172] 🔗 [HN #10] URL: https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/
+INFO     2025-09-09 01:56:26 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-09 01:56:26 [scraper.py:179] 🎉 [HN] All done.
+

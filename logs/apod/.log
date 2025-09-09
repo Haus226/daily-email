@@ -638,3 +638,8 @@ INFO     2025-09-08 10:21:39 [scraper.py:47] 📥 [APOD] Title: IRAS 04302: Butt
 INFO     2025-09-08 10:21:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg
 INFO     2025-09-08 10:21:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-09 01:56:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-09 01:56:25 [scraper.py:47] 📥 [APOD] Title: IRAS 04302: Butterfly Disk Planet Formation
+INFO     2025-09-09 01:56:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg
+INFO     2025-09-09 01:56:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
