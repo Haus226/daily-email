@@ -658,3 +658,8 @@ INFO     2025-09-10 01:52:40 [scraper.py:47] 📥 [APOD] Title: Up from the Eart
 INFO     2025-09-10 01:52:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg
 INFO     2025-09-10 01:52:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-10 05:22:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-10 05:22:02 [scraper.py:47] 📥 [APOD] Title: The Great Lacerta Nebula
+INFO     2025-09-10 05:22:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg
+INFO     2025-09-10 05:22:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
