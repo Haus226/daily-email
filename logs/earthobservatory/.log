@@ -922,3 +922,11 @@ INFO     2025-09-09 10:20:45 [scraper.py:134] 📥 [EO] Title: Hurricane Kiko Ne
 INFO     2025-09-09 10:20:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154769/hurricanekiki_vir_20250907_th.jpg
 INFO     2025-09-09 10:20:45 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-10 01:52:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-10 01:52:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-10 01:52:59 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-10 01:52:59 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Satellite and ground data reveal the Tarim Basin in western China experiences dusty conditions year-round, averaging 60 dust days annually with seven occurring in September, contrary to the peak spring-summer seasons. Winds transport dust westward across the basin, impeded by surrounding mountain ranges. Northern ridges, part of the Kuqa fold-and-thrust belt, expose colorful sedimentary rock layers from tectonic folding and erosion. Approximately 85% of dust days feature "floating dust" (visibility <10 km, light winds), while the remainder are "blowing dust" (visibility <5 km, moderate winds) or "dust storms" (visibility <1 km, strong winds). Analysis of MISR satellite data indicates larger dust particles dominate in spring, fall, and winter due to strong horizontal winds, whereas summer's hotter temperatures produce finer dust lifted by convection and dust devils.
+INFO     2025-09-10 01:52:59 [scraper.py:134] 📥 [EO] Title: Dust in the “Eye” of the Tarim Basin
+INFO     2025-09-10 01:52:59 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154772/tarim_dust_vir2_20250901_th.jpg
+INFO     2025-09-10 01:52:59 [scraper.py:155] ✅ [EO] Successfully fetched.
+
