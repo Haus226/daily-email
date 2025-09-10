@@ -4387,3 +4387,36 @@ INFO     2025-09-10 05:22:04 [scraper.py:172] 🔗 [HN #10] URL: https://securit
 INFO     2025-09-10 05:22:04 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-10 05:22:04 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-10 10:19:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-10 10:19:51 [scraper.py:171] 📥 [HN #1] I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory
+INFO     2025-09-10 10:19:51 [scraper.py:172] 🔗 [HN #1] URL: https://joshfonseca.com/blogs/animal-crossing-llm
+INFO     2025-09-10 10:19:51 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-10 10:19:51 [scraper.py:171] 📥 [HN #2] A love letter to the CSV format (2024)
+INFO     2025-09-10 10:19:51 [scraper.py:172] 🔗 [HN #2] URL: https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/
+INFO     2025-09-10 10:19:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-10 10:19:51 [scraper.py:171] 📥 [HN #3] iPhone Air
+INFO     2025-09-10 10:19:51 [scraper.py:172] 🔗 [HN #3] URL: https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/
+INFO     2025-09-10 10:19:51 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-10 10:19:51 [scraper.py:171] 📥 [HN #4] E-paper display reaches the realm of LCD screens
+INFO     2025-09-10 10:19:51 [scraper.py:172] 🔗 [HN #4] URL: https://spectrum.ieee.org/e-paper-display-modos
+INFO     2025-09-10 10:19:51 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #5] NASA finds Titan's lakes may be creating vesicles with primitive cell walls
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #5] URL: https://www.sciencedaily.com/releases/2025/08/250831112449.htm
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #6] Claude now has access to a server-side container environment
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #6] URL: https://www.anthropic.com/news/create-files
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #7] All clickwheel iPod games have now been preserved for posterity
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #7] URL: https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #8] We all dodged a bullet
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #8] URL: https://xeiaso.net/notes/2025/we-dodged-a-bullet/
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #9] US High school students' scores fall in reading and math
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #9] URL: https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:171] 📥 [HN #10] Axial twist theory
+INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #10] URL: https://en.wikipedia.org/wiki/Axial_twist_theory
+INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-10 10:19:52 [scraper.py:179] 🎉 [HN] All done.
+
