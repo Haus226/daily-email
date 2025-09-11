@@ -942,3 +942,9 @@ INFO     2025-09-10 10:20:14 [scraper.py:134] 📥 [EO] Title: Dust in the “Ey
 INFO     2025-09-10 10:20:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154772/tarim_dust_vir2_20250901_th.jpg
 INFO     2025-09-10 10:20:14 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-11 01:55:48 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-11 01:55:50 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-11 01:56:00 [scraper.py:134] 📥 [EO] Title: Monsoon Rains Flood Pakistan
+INFO     2025-09-11 01:56:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154781/pakistanflooding_vir2_20250909_th.jpg
+INFO     2025-09-11 01:56:00 [scraper.py:155] ✅ [EO] Successfully fetched.
+

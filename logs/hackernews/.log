@@ -4420,3 +4420,36 @@ INFO     2025-09-10 10:19:52 [scraper.py:172] 🔗 [HN #10] URL: https://en.wiki
 INFO     2025-09-10 10:19:52 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-10 10:19:52 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-11 01:55:48 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #1] KDE launches its own distribution
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #1] URL: https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #2] DOOMscrolling: The Game
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #2] URL: https://ironicsans.ghost.io/doomscrolling-the-game/
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #3] ChatGPT Developer Mode: Full MCP client access
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #3] URL: https://platform.openai.com/docs/guides/developer-mode
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #4] Show HN: Term.everything – Run any GUI app in the terminal
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/mmulet/term.everything
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #5] Pontevedra, Spain declares its entire urban area a "reduced traffic zone"
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #5] URL: https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #6] Court rejects Verizon claim that selling location data without consent is legal
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #6] URL: https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-11 01:55:49 [scraper.py:171] 📥 [HN #7] Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025
+INFO     2025-09-11 01:55:49 [scraper.py:172] 🔗 [HN #7] URL: https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at
+INFO     2025-09-11 01:55:49 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-11 01:55:50 [scraper.py:171] 📥 [HN #8] A polyglot's guide to multiple-dispatch
+INFO     2025-09-11 01:55:50 [scraper.py:172] 🔗 [HN #8] URL: https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/
+INFO     2025-09-11 01:55:50 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-11 01:55:50 [scraper.py:171] 📥 [HN #9] Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts
+INFO     2025-09-11 01:55:50 [scraper.py:172] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=45199648
+INFO     2025-09-11 01:55:50 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-11 01:55:50 [scraper.py:171] 📥 [HN #10] The HackberryPi CM5 handheld computer
+INFO     2025-09-11 01:55:50 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/ZitaoTech/HackberryPiCM5
+INFO     2025-09-11 01:55:50 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-11 01:55:50 [scraper.py:179] 🎉 [HN] All done.
+
