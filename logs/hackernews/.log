@@ -4486,3 +4486,36 @@ INFO     2025-09-11 05:22:54 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-09-11 05:22:54 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-11 05:22:54 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-11 10:19:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #1] Germany is not supporting ChatControl – blocking minority secured
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #1] URL: https://digitalcourage.social/@echo_pbreyer/115184350819592476
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #2] KDE launches its own distribution
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #2] URL: https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #3] DOOMscrolling: The Game
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #3] URL: https://ironicsans.ghost.io/doomscrolling-the-game/
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #4] BCacheFS is being disabled in the openSUSE kernels 6.17+
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #4] URL: https://lwn.net/ml/all/9032de2a-03a7-4f9e-9c8a-8bd81c5d1fc5@suse.cz/
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #5] Show HN: Term.everything – Run any GUI app in the terminal
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/mmulet/term.everything
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-11 10:19:19 [scraper.py:171] 📥 [HN #6] ChatGPT Developer Mode: Full MCP client access
+INFO     2025-09-11 10:19:19 [scraper.py:172] 🔗 [HN #6] URL: https://platform.openai.com/docs/guides/developer-mode
+INFO     2025-09-11 10:19:19 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-11 10:19:20 [scraper.py:171] 📥 [HN #7] Removing yellow stains from fabric with blue light
+INFO     2025-09-11 10:19:20 [scraper.py:172] 🔗 [HN #7] URL: https://phys.org/news/2025-09-yellow-fabric-blue.html
+INFO     2025-09-11 10:19:20 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-11 10:19:20 [scraper.py:171] 📥 [HN #8] Hashed sorting is typically faster than hash tables
+INFO     2025-09-11 10:19:20 [scraper.py:172] 🔗 [HN #8] URL: https://reiner.org/hashed-sorting
+INFO     2025-09-11 10:19:20 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-11 10:19:20 [scraper.py:171] 📥 [HN #9] Court rejects Verizon claim that selling location data without consent is legal
+INFO     2025-09-11 10:19:20 [scraper.py:172] 🔗 [HN #9] URL: https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/
+INFO     2025-09-11 10:19:20 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-11 10:19:20 [scraper.py:171] 📥 [HN #10] Learning lessons from the loss of the Norwegian frigate Helge Ingstad
+INFO     2025-09-11 10:19:20 [scraper.py:172] 🔗 [HN #10] URL: https://www.navylookout.com/learning-the-lessons-the-loss-the-norwegian-frigate-helge-ingstad/
+INFO     2025-09-11 10:19:20 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-11 10:19:20 [scraper.py:179] 🎉 [HN] All done.
+

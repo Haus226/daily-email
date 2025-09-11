@@ -954,3 +954,11 @@ INFO     2025-09-11 05:23:08 [scraper.py:134] 📥 [EO] Title: Monsoon Rains Flo
 INFO     2025-09-11 05:23:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154781/pakistanflooding_vir2_20250909_th.jpg
 INFO     2025-09-11 05:23:08 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-11 10:19:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-11 10:19:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-11 10:19:34 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-11 10:19:34 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: A severe monsoon since late June 2025 caused above-normal rainfall in Pakistan, triggering extensive flooding that affected millions, destroyed infrastructure, submerged 75% of agricultural land, and killed hundreds. The U.N. deemed eastern Punjab's flooding the worst in history, with nationwide monsoon totals 21% above normal and 36% higher in Punjab. By September 4, nearly 4 million people were affected in eastern Punjab, including 2 million evacuated from 4,000 inundated villages. Major cities like Lahore faced submerged housing and roads, while Sindh province braced for further flooding. Crop losses for rice, sugarcane, and cotton were projected significant.
+INFO     2025-09-11 10:19:34 [scraper.py:134] 📥 [EO] Title: Monsoon Rains Flood Pakistan
+INFO     2025-09-11 10:19:34 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154781/pakistanflooding_vir2_20250909_th.jpg
+INFO     2025-09-11 10:19:34 [scraper.py:155] ✅ [EO] Successfully fetched.
+
