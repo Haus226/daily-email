@@ -974,3 +974,11 @@ INFO     2025-09-12 05:22:49 [scraper.py:134] 📥 [EO] Title: Color Along the A
 INFO     2025-09-12 05:22:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154785/anadyr_tmo_20250907_th.jpg
 INFO     2025-09-12 05:22:49 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-12 10:19:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-12 10:20:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-12 10:20:23 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-12 10:20:23 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In northeastern Siberia's subarctic tundra near the Anadyr estuary, vegetation transitions from green to red, yellow, and brown hues in early autumn (September) as decreasing temperatures and daylight hours reduce chlorophyll production, revealing underlying pigments. This shift, observed via MODIS satellite imagery between August and September, occurs earlier in northern latitudes compared to southern regions where peak fall colors may not appear until mid-November. Evergreen shrub pines in the Rarytkin Range retain green patches amid the changing landscape.
+INFO     2025-09-12 10:20:23 [scraper.py:134] 📥 [EO] Title: Color Along the Anadyr
+INFO     2025-09-12 10:20:23 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154785/anadyr_tmo_20250907_th.jpg
+INFO     2025-09-12 10:20:23 [scraper.py:155] ✅ [EO] Successfully fetched.
+

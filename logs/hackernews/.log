@@ -4585,3 +4585,36 @@ INFO     2025-09-12 05:22:04 [scraper.py:172] 🔗 [HN #10] URL: https://lwn.net
 INFO     2025-09-12 05:22:04 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-12 05:22:04 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-12 10:19:59 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-12 10:19:59 [scraper.py:171] 📥 [HN #1] Qwen3-Next
+INFO     2025-09-12 10:19:59 [scraper.py:172] 🔗 [HN #1] URL: https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list
+INFO     2025-09-12 10:19:59 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #2] Examples from The LaTeX Companion book (3rd edition)
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #2] URL: https://ctan.org/pkg/tlc3-examples
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #3] Float Exposed
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #3] URL: https://float.exposed/
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #4] Debian 13, Postgres, and the US time zones
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #4] URL: https://rachelbythebay.com/w/2025/09/11/debtz/
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #5] Top model scores may be skewed by Git history leaks in SWE-bench
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/SWE-bench/SWE-bench/issues/465
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #6] Using Emacs Org-Mode With Databases: A getting-started guide
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #6] URL: https://gitlab.com/ryanprior/emacs-org-data-starter
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-12 10:20:00 [scraper.py:171] 📥 [HN #7] Claude’s memory architecture is the opposite of ChatGPT’s
+INFO     2025-09-12 10:20:00 [scraper.py:172] 🔗 [HN #7] URL: https://www.shloked.com/writing/claude-memory
+INFO     2025-09-12 10:20:00 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-12 10:20:01 [scraper.py:171] 📥 [HN #8] Classic GTK1 GUI Library
+INFO     2025-09-12 10:20:01 [scraper.py:172] 🔗 [HN #8] URL: https://gitlab.com/robinrowe/gtk1
+INFO     2025-09-12 10:20:01 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-12 10:20:01 [scraper.py:171] 📥 [HN #9] Logging in Go with Slog: A Practitioner's Guide
+INFO     2025-09-12 10:20:01 [scraper.py:172] 🔗 [HN #9] URL: https://www.dash0.com/guides/logging-in-go-with-slog
+INFO     2025-09-12 10:20:01 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-12 10:20:01 [scraper.py:171] 📥 [HN #10] Show HN: I made a generative online drum machine with ClojureScript
+INFO     2025-09-12 10:20:01 [scraper.py:172] 🔗 [HN #10] URL: https://dopeloop.ai/beat-maker/
+INFO     2025-09-12 10:20:01 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-12 10:20:01 [scraper.py:179] 🎉 [HN] All done.
+
