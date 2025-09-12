@@ -688,3 +688,8 @@ INFO     2025-09-12 01:51:22 [scraper.py:47] 📥 [APOD] Title: The Umbra of Ear
 INFO     2025-09-12 01:51:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg
 INFO     2025-09-12 01:51:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-12 05:22:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-12 05:22:02 [scraper.py:47] 📥 [APOD] Title: Lunar Eclipse in Two Hemispheres
+INFO     2025-09-12 05:22:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg
+INFO     2025-09-12 05:22:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

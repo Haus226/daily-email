@@ -658,3 +658,8 @@ INFO     2025-09-12 01:51:22 [scraper.py:391] 📥 [TAROT] Card: Seven of Cups
 INFO     2025-09-12 01:51:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-09-12 01:51:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-09-12 05:22:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-12 05:22:02 [scraper.py:391] 📥 [TAROT] Card: Seven of Cups
+INFO     2025-09-12 05:22:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-12 05:22:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

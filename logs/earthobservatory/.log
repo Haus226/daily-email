@@ -968,3 +968,9 @@ INFO     2025-09-12 01:51:32 [scraper.py:134] 📥 [EO] Title: Color Along the A
 INFO     2025-09-12 01:51:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154785/anadyr_tmo_20250907_th.jpg
 INFO     2025-09-12 01:51:32 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-12 05:22:02 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-12 05:22:03 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-12 05:22:49 [scraper.py:134] 📥 [EO] Title: Color Along the Anadyr
+INFO     2025-09-12 05:22:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154785/anadyr_tmo_20250907_th.jpg
+INFO     2025-09-12 05:22:49 [scraper.py:155] ✅ [EO] Successfully fetched.
+
