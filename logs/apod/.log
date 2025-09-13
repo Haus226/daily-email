@@ -703,3 +703,8 @@ INFO     2025-09-13 01:46:38 [scraper.py:47] 📥 [APOD] Title: Lunar Eclipse in
 INFO     2025-09-13 01:46:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg
 INFO     2025-09-13 01:46:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-13 05:20:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-13 05:20:14 [scraper.py:47] 📥 [APOD] Title: Star Trails over One-Mile Radio Telescope
+INFO     2025-09-13 05:20:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg
+INFO     2025-09-13 05:20:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
