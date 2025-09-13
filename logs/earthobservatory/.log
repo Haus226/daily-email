@@ -994,3 +994,9 @@ INFO     2025-09-13 05:20:35 [scraper.py:134] 📥 [EO] Title: Greenland Ice She
 INFO     2025-09-13 05:20:35 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154793/greenlandmelt_oli2_20250821_th.jpg
 INFO     2025-09-13 05:20:35 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-13 10:17:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-13 10:17:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-13 10:17:44 [scraper.py:134] 📥 [EO] Title: Greenland Ice Sheet Gets a Refresh
+INFO     2025-09-13 10:17:44 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154793/greenlandmelt_oli2_20250821_th.jpg
+INFO     2025-09-13 10:17:44 [scraper.py:155] ✅ [EO] Successfully fetched.
+
