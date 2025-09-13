@@ -4618,3 +4618,36 @@ INFO     2025-09-12 10:20:01 [scraper.py:172] 🔗 [HN #10] URL: https://dopeloo
 INFO     2025-09-12 10:20:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-12 10:20:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-13 01:46:38 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #1] UTF-8 is a brilliant design
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #1] URL: https://iamvishnu.com/posts/utf8-is-brilliant-design
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #2] QGIS is a free, open-source, cross platform geographical information system
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/qgis/QGIS
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #3] FFglitch, FFmpeg fork for glitch arch
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #3] URL: https://ffglitch.org/gallery/
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #4] I used standard Emacs extension-points to extend org-mode
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #4] URL: https://edoput.it/2025/04/16/emacs-paradigm-shift.html
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #5] Corporations are trying to hide job openings from US citizens
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #5] URL: https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-13 01:46:38 [scraper.py:171] 📥 [HN #6] Meow: Yet another modal editing on Emacs
+INFO     2025-09-13 01:46:38 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/meow-edit/meow
+INFO     2025-09-13 01:46:38 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-13 01:46:39 [scraper.py:171] 📥 [HN #7] Many hard LeetCode problems are easy constraint problems
+INFO     2025-09-13 01:46:39 [scraper.py:172] 🔗 [HN #7] URL: https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
+INFO     2025-09-13 01:46:39 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-13 01:46:39 [scraper.py:171] 📥 [HN #8] Life, Work, Death and the Peasant: Rent and Extraction
+INFO     2025-09-13 01:46:39 [scraper.py:172] 🔗 [HN #8] URL: https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/
+INFO     2025-09-13 01:46:39 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-13 01:46:39 [scraper.py:171] 📥 [HN #9] Tips for installing Windows 98 in QEMU/UTM
+INFO     2025-09-13 01:46:39 [scraper.py:172] 🔗 [HN #9] URL: https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/
+INFO     2025-09-13 01:46:39 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-13 01:46:39 [scraper.py:171] 📥 [HN #10] The treasury is expanding the Patriot Act to attack Bitcoin self custody
+INFO     2025-09-13 01:46:39 [scraper.py:172] 🔗 [HN #10] URL: https://www.tftc.io/treasury-iexpanding-patriot-act/
+INFO     2025-09-13 01:46:39 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-13 01:46:39 [scraper.py:179] 🎉 [HN] All done.
+
