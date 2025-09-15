@@ -1032,3 +1032,11 @@ INFO     2025-09-15 05:23:53 [scraper.py:134] 📥 [EO] Title: Mapping Kamchatka
 INFO     2025-09-15 05:23:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154776/kamchatka_aria_20250802_th.jpg
 INFO     2025-09-15 05:23:53 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-15 10:20:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-15 10:20:38 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-15 10:21:09 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-15 10:21:09 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Interferometric synthetic aperture radar (InSAR) measured ground displacement following the July 29, 2025, magnitude 8.8 earthquake offshore Russia's Kamchatka Peninsula, revealing over 1 meter of eastward shift concentrated 200 kilometers southwest of the epicenter near the peninsula's southern tip. This technique, which compares satellite radar images pre- and post-event, precisely mapped fault slip patterns undetectable by seismic networks alone, showing minimal movement near the epicenter but significant displacement near the southern tip. InSAR data aids tsunami forecasting, emergency response prioritization, and post-earthquake slip analysis. It also detected magma intrusion at Krasheninnikova volcano on August 2, 2025, preceding its eruption five days later. The newly launched NISAR satellite, operational since July 2025, promises higher-quality, more frequent displacement mapping globally, particularly in forested regions.
+INFO     2025-09-15 10:21:09 [scraper.py:134] 📥 [EO] Title: Mapping Kamchatka Earthquake Displacement
+INFO     2025-09-15 10:21:09 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154776/kamchatka_aria_20250802_th.jpg
+INFO     2025-09-15 10:21:09 [scraper.py:155] ✅ [EO] Successfully fetched.
+
