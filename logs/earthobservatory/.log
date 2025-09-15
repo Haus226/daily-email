@@ -1018,3 +1018,11 @@ INFO     2025-09-14 10:17:13 [scraper.py:134] 📥 [EO] Title: Traversing Buenos
 INFO     2025-09-14 10:17:13 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154789/iss073e0176299_th.jpg
 INFO     2025-09-14 10:17:13 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-15 02:01:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-15 02:01:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-15 02:02:08 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-15 02:02:08 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Interferometric synthetic aperture radar (InSAR) complements seismic networks by precisely mapping ground displacement across large areas following earthquakes, overcoming limitations of sparse seismic coverage. Applied to the July 29, 2025, magnitude 8.8 Kamchatka Peninsula earthquake, InSAR revealed maximum eastward displacement exceeding one meter over 200 kilometers southwest of the epicenter, near the peninsula's southern tip, with minimal movement at the offshore epicenter. This detailed rupture mapping aids tsunami forecasting and emergency response by identifying heavily affected zones. InSAR also detected pre-eruptive magma intrusion at Krasheninnikova volcano, which erupted five days post-earthquake, demonstrating its value for volcanic threat assessment. The upcoming NISAR satellite, launched July 2025, will provide higher-quality, more frequent displacement data for earthquakes, volcanoes, and other geohazards, especially in forested regions where previous satellite coverage was insufficient.
+INFO     2025-09-15 02:02:08 [scraper.py:134] 📥 [EO] Title: Mapping Kamchatka Earthquake Displacement
+INFO     2025-09-15 02:02:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154776/kamchatka_aria_20250802_th.jpg
+INFO     2025-09-15 02:02:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+
