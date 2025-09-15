@@ -1026,3 +1026,9 @@ INFO     2025-09-15 02:02:08 [scraper.py:134] 📥 [EO] Title: Mapping Kamchatka
 INFO     2025-09-15 02:02:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154776/kamchatka_aria_20250802_th.jpg
 INFO     2025-09-15 02:02:08 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-15 05:23:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-15 05:23:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-15 05:23:53 [scraper.py:134] 📥 [EO] Title: Mapping Kamchatka Earthquake Displacement
+INFO     2025-09-15 05:23:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154776/kamchatka_aria_20250802_th.jpg
+INFO     2025-09-15 05:23:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+

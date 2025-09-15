@@ -727,3 +727,8 @@ ERROR    2025-09-14 10:16:42 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneTy
 INFO     2025-09-15 02:01:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2025-09-15 02:01:47 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
 
+INFO     2025-09-15 05:23:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-15 05:23:19 [scraper.py:47] 📥 [APOD] Title: Earth During a Powerful Solar Storm
+INFO     2025-09-15 05:23:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
+INFO     2025-09-15 05:23:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
