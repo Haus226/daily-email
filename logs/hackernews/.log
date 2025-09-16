@@ -4981,3 +4981,36 @@ INFO     2025-09-16 05:22:24 [scraper.py:172] 🔗 [HN #10] URL: https://feddit.
 INFO     2025-09-16 05:22:24 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-16 05:22:24 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-16 10:19:58 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-16 10:19:58 [scraper.py:171] 📥 [HN #1] Hosting a website on a disposable vape
+INFO     2025-09-16 10:19:58 [scraper.py:172] 🔗 [HN #1] URL: https://bogdanthegeek.github.io/blog/projects/vapeserver/
+INFO     2025-09-16 10:19:58 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-16 10:19:58 [scraper.py:171] 📥 [HN #2] "Your" vs. "My" in user interfaces
+INFO     2025-09-16 10:19:58 [scraper.py:172] 🔗 [HN #2] URL: https://adamsilver.io/blog/your-vs-my-in-user-interfaces/
+INFO     2025-09-16 10:19:58 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-16 10:19:58 [scraper.py:171] 📥 [HN #3] IBM Technology Atlas
+INFO     2025-09-16 10:19:58 [scraper.py:172] 🔗 [HN #3] URL: https://www.ibm.com/roadmaps/
+INFO     2025-09-16 10:19:58 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-16 10:19:58 [scraper.py:171] 📥 [HN #4] Learn x86-64 assembly by writing a GUI from scratch (2023)
+INFO     2025-09-16 10:19:58 [scraper.py:172] 🔗 [HN #4] URL: https://gaultier.github.io/blog/x11_x64.html
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-16 10:19:59 [scraper.py:171] 📥 [HN #5] Automating Distro Updates in CI
+INFO     2025-09-16 10:19:59 [scraper.py:172] 🔗 [HN #5] URL: https://paretosecurity.com/blog/automating-distro-updates-in-ci/
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-16 10:19:59 [scraper.py:171] 📥 [HN #6] React is winning by default and slowing innovation
+INFO     2025-09-16 10:19:59 [scraper.py:172] 🔗 [HN #6] URL: https://www.lorenstew.art/blog/react-won-by-default/
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-16 10:19:59 [scraper.py:171] 📥 [HN #7] 60 years after Gemini, newly processed images reveal details
+INFO     2025-09-16 10:19:59 [scraper.py:172] 🔗 [HN #7] URL: https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-16 10:19:59 [scraper.py:171] 📥 [HN #8] William Gibson Reads Neuromancer (2004)
+INFO     2025-09-16 10:19:59 [scraper.py:172] 🔗 [HN #8] URL: http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-16 10:19:59 [scraper.py:171] 📥 [HN #9] macOS Tahoe
+INFO     2025-09-16 10:19:59 [scraper.py:172] 🔗 [HN #9] URL: https://www.apple.com/os/macos/
+INFO     2025-09-16 10:19:59 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-16 10:20:00 [scraper.py:171] 📥 [HN #10] ERP Therapy Sucks
+INFO     2025-09-16 10:20:00 [scraper.py:172] 🔗 [HN #10] URL: https://taylor.town/try-erp
+INFO     2025-09-16 10:20:00 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-16 10:20:00 [scraper.py:179] 🎉 [HN] All done.
+

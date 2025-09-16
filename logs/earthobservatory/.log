@@ -1052,3 +1052,11 @@ INFO     2025-09-16 05:22:50 [scraper.py:134] 📥 [EO] Title: Smoky Skies in th
 INFO     2025-09-16 05:22:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154797/pnwsmoke_tmo_20250913_th.jpg
 INFO     2025-09-16 05:22:50 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-16 10:19:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-16 10:19:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-16 10:20:22 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-16 10:20:22 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On September 13, 2025, NASA's Terra satellite observed smoke from the Lynx Mountain fire in Washington state spreading into British Columbia. By September 15, the fire had burned 7,839 acres and was 22% contained. Research indicates post-fire streamflow increases and elevated nutrient, ion, organic chemical, and metal loads in waterways, with runoff being a key ash transport pathway that scatters light and impacts aquatic ecosystems. A 2019-2021 study found smoke affected 99.3% of North American lakes, with 98.9% experiencing at least 10 smoke days and 89.6% exceeding 30 smoke days annually. As of mid-September 2025, 4.3 million acres had burned across the U.S., approximately 2 million acres below the 10-year average.
+INFO     2025-09-16 10:20:22 [scraper.py:134] 📥 [EO] Title: Smoky Skies in the Pacific Northwest
+INFO     2025-09-16 10:20:22 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154797/pnwsmoke_tmo_20250913_th.jpg
+INFO     2025-09-16 10:20:22 [scraper.py:155] ✅ [EO] Successfully fetched.
+
