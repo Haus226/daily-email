@@ -4915,3 +4915,36 @@ INFO     2025-09-15 10:20:39 [scraper.py:172] 🔗 [HN #10] URL: https://adamhl.
 INFO     2025-09-15 10:20:39 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-15 10:20:39 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-16 01:52:48 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-16 01:52:49 [scraper.py:171] 📥 [HN #1] Hosting a website on a disposable vape
+INFO     2025-09-16 01:52:49 [scraper.py:172] 🔗 [HN #1] URL: https://bogdanthegeek.github.io/blog/projects/vapeserver/
+INFO     2025-09-16 01:52:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-16 01:52:49 [scraper.py:171] 📥 [HN #2] The awe keeps dropping
+INFO     2025-09-16 01:52:49 [scraper.py:172] 🔗 [HN #2] URL: https://morrick.me/archives/10137
+INFO     2025-09-16 01:52:49 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-16 01:52:49 [scraper.py:171] 📥 [HN #3] William Gibson Reads Neuromancer (2004)
+INFO     2025-09-16 01:52:49 [scraper.py:172] 🔗 [HN #3] URL: http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html
+INFO     2025-09-16 01:52:49 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-16 01:52:49 [scraper.py:171] 📥 [HN #4] React is winning by default and slowing innovation
+INFO     2025-09-16 01:52:49 [scraper.py:172] 🔗 [HN #4] URL: https://www.lorenstew.art/blog/react-won-by-default/
+INFO     2025-09-16 01:52:49 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-16 01:52:49 [scraper.py:171] 📥 [HN #5] macOS Tahoe
+INFO     2025-09-16 01:52:49 [scraper.py:172] 🔗 [HN #5] URL: https://www.apple.com/os/macos/
+INFO     2025-09-16 01:52:49 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:171] 📥 [HN #6] Linux phones are more important now than ever
+INFO     2025-09-16 01:52:50 [scraper.py:172] 🔗 [HN #6] URL: https://feddit.org/post/18353777
+INFO     2025-09-16 01:52:50 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:171] 📥 [HN #7] Wanted to spy on my dog, ended up spying on TP-Link
+INFO     2025-09-16 01:52:50 [scraper.py:172] 🔗 [HN #7] URL: https://kennedn.com/blog/posts/tapo/
+INFO     2025-09-16 01:52:50 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:171] 📥 [HN #8] Addendum to GPT-5 system card: GPT-5-Codex
+INFO     2025-09-16 01:52:50 [scraper.py:172] 🔗 [HN #8] URL: https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/
+INFO     2025-09-16 01:52:50 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:171] 📥 [HN #9] GPT-5-Codex
+INFO     2025-09-16 01:52:50 [scraper.py:172] 🔗 [HN #9] URL: https://openai.com/index/introducing-upgrades-to-codex/
+INFO     2025-09-16 01:52:50 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:171] 📥 [HN #10] PayPal to support Ethereum and Bitcoin
+INFO     2025-09-16 01:52:50 [scraper.py:172] 🔗 [HN #10] URL: https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere
+INFO     2025-09-16 01:52:50 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-16 01:52:50 [scraper.py:179] 🎉 [HN] All done.
+

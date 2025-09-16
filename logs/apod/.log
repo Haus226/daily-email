@@ -737,3 +737,8 @@ INFO     2025-09-15 10:20:37 [scraper.py:47] 📥 [APOD] Title: Earth During a P
 INFO     2025-09-15 10:20:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
 INFO     2025-09-15 10:20:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-16 01:52:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-16 01:52:49 [scraper.py:47] 📥 [APOD] Title: Earth During a Powerful Solar Storm
+INFO     2025-09-16 01:52:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
+INFO     2025-09-16 01:52:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
