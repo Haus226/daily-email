@@ -1046,3 +1046,9 @@ INFO     2025-09-16 01:53:02 [scraper.py:134] 📥 [EO] Title: Smoky Skies in th
 INFO     2025-09-16 01:53:02 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154797/pnwsmoke_tmo_20250913_th.jpg
 INFO     2025-09-16 01:53:02 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-16 05:22:23 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-16 05:22:23 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-16 05:22:50 [scraper.py:134] 📥 [EO] Title: Smoky Skies in the Pacific Northwest
+INFO     2025-09-16 05:22:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154797/pnwsmoke_tmo_20250913_th.jpg
+INFO     2025-09-16 05:22:50 [scraper.py:155] ✅ [EO] Successfully fetched.
+
