@@ -5080,3 +5080,36 @@ INFO     2025-09-17 05:22:41 [scraper.py:172] 🔗 [HN #10] URL: https://jdk.jav
 INFO     2025-09-17 05:22:41 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-17 05:22:41 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-17 10:19:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-17 10:19:34 [scraper.py:171] 📥 [HN #1] GNU Midnight Commander
+INFO     2025-09-17 10:19:34 [scraper.py:172] 🔗 [HN #1] URL: https://midnight-commander.org/
+INFO     2025-09-17 10:19:34 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-17 10:19:34 [scraper.py:171] 📥 [HN #2] Notion API importer, with Databases to Bases conversion bounty
+INFO     2025-09-17 10:19:34 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/obsidianmd/obsidian-importer/issues/421
+INFO     2025-09-17 10:19:34 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #3] Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #3] URL: https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #4] The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #5] Murex – An intuitive and content aware shell for a modern command line
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #5] URL: https://murex.rocks/
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #6] Things you can do with a Software Defined Radio (2024)
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #6] URL: https://blinry.org/50-things-with-sdr/
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #7] Tabby – A Terminal for the Modern Age
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/Eugeny/tabby
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-17 10:19:35 [scraper.py:171] 📥 [HN #8] Why We're Building Stategraph: Terraform State as a Distributed Systems Problem
+INFO     2025-09-17 10:19:35 [scraper.py:172] 🔗 [HN #8] URL: https://stategraph.dev/blog/why-stategraph/
+INFO     2025-09-17 10:19:35 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-17 10:19:36 [scraper.py:171] 📥 [HN #9] Doom crash after 2.5 years of real-world runtime confirmed on real hardware
+INFO     2025-09-17 10:19:36 [scraper.py:172] 🔗 [HN #9] URL: https://lenowo.org/viewtopic.php?t=31
+INFO     2025-09-17 10:19:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-17 10:19:36 [scraper.py:171] 📥 [HN #10] DataTables CDN Outage – post incident review
+INFO     2025-09-17 10:19:36 [scraper.py:172] 🔗 [HN #10] URL: https://datatables.net/blog/2025/july-29-outage
+INFO     2025-09-17 10:19:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-17 10:19:36 [scraper.py:179] 🎉 [HN] All done.
+
