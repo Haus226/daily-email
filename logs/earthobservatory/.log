@@ -1060,3 +1060,9 @@ INFO     2025-09-16 10:20:22 [scraper.py:134] 📥 [EO] Title: Smoky Skies in th
 INFO     2025-09-16 10:20:22 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154797/pnwsmoke_tmo_20250913_th.jpg
 INFO     2025-09-16 10:20:22 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-17 01:52:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-17 01:52:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-17 01:52:50 [scraper.py:134] 📥 [EO] Title: Australia’s Howick River
+INFO     2025-09-17 01:52:50 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154800/capemelville_oli2_20250819_th.jpg
+INFO     2025-09-17 01:52:50 [scraper.py:155] ✅ [EO] Successfully fetched.
+

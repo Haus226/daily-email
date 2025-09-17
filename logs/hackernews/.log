@@ -5014,3 +5014,36 @@ INFO     2025-09-16 10:20:00 [scraper.py:172] 🔗 [HN #10] URL: https://taylor.
 INFO     2025-09-16 10:20:00 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-16 10:20:00 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-17 01:52:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #1] Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #1] URL: https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #2] Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #2] URL: https://support.apple.com/en-us/125142
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #3] Things you can do with a Software Defined Radio (2024)
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #3] URL: https://blinry.org/50-things-with-sdr/
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #4] How to make the Framework Desktop run even quieter
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #4] URL: https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #5] Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #5] URL: https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #6] A dumb introduction to z3
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #6] URL: https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #7] Doom crash after 2.5 years of real-world runtime confirmed on real hardware
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #7] URL: https://lenowo.org/viewtopic.php?t=31
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-17 01:52:35 [scraper.py:171] 📥 [HN #8] Waymo has received our pilot permit allowing for commercial operations at SFO
+INFO     2025-09-17 01:52:35 [scraper.py:172] 🔗 [HN #8] URL: https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit
+INFO     2025-09-17 01:52:35 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-17 01:52:36 [scraper.py:171] 📥 [HN #9] In Defense of C++
+INFO     2025-09-17 01:52:36 [scraper.py:172] 🔗 [HN #9] URL: https://dayvster.com/blog/in-defense-of-cpp/
+INFO     2025-09-17 01:52:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-17 01:52:36 [scraper.py:171] 📥 [HN #10] Wait4X allows you to wait for a port or a service to enter the requested state
+INFO     2025-09-17 01:52:36 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/wait4x/wait4x
+INFO     2025-09-17 01:52:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-17 01:52:36 [scraper.py:179] 🎉 [HN] All done.
+
