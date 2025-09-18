@@ -1081,3 +1081,9 @@ INFO     2025-09-18 01:52:55 [scraper.py:134] 📥 [EO] Title: Cooper Creek Repl
 INFO     2025-09-18 01:52:55 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154803/coopercreek_tmo_20250915_th.jpg
 INFO     2025-09-18 01:52:55 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-18 05:21:53 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-18 05:21:54 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-18 05:22:13 [scraper.py:134] 📥 [EO] Title: Cooper Creek Replenishes Lake Eyre
+INFO     2025-09-18 05:22:13 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154803/coopercreek_tmo_20250915_th.jpg
+INFO     2025-09-18 05:22:13 [scraper.py:155] ✅ [EO] Successfully fetched.
+
