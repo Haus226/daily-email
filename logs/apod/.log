@@ -787,3 +787,8 @@ INFO     2025-09-19 01:55:48 [scraper.py:47] 📥 [APOD] Title: Comet C/2025 R2 
 INFO     2025-09-19 01:55:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg
 INFO     2025-09-19 01:55:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-19 05:22:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-19 05:22:13 [scraper.py:47] 📥 [APOD] Title: The NGC 6914 Complex
+INFO     2025-09-19 05:22:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg
+INFO     2025-09-19 05:22:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -1101,3 +1101,11 @@ INFO     2025-09-19 01:56:12 [scraper.py:134] 📥 [EO] Title: Arctic Sea Ice Ti
 INFO     2025-09-19 01:56:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154807/arctic_nsidc_20250910_th.jpg
 INFO     2025-09-19 01:56:12 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-19 05:22:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-19 05:22:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-19 05:22:40 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-19 05:22:40 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On September 10, 2025, Arctic sea ice reached its annual minimum extent of 4.60 million square kilometers (1.78 million square miles), tied with 2008 for the 10th-lowest on satellite record since 1978. This measurement, calculated using a 15% ice concentration threshold, remained below the 1981-2010 average. While not a record low, it aligns with the ongoing downward trend in summer sea ice extent driven by rising global temperatures. Scientists note the past 19 years have consistently seen minimum ice coverage below pre-2007 levels, continuing the long-term decline observed since monitoring began. The 2012 minimum remains the lowest recorded extent.
+INFO     2025-09-19 05:22:40 [scraper.py:134] 📥 [EO] Title: Arctic Sea Ice Ties for 10th-Lowest on Record
+INFO     2025-09-19 05:22:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154807/arctic_nsidc_20250910_th.jpg
+INFO     2025-09-19 05:22:40 [scraper.py:155] ✅ [EO] Successfully fetched.
+

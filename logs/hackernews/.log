@@ -5245,3 +5245,36 @@ INFO     2025-09-19 01:55:50 [scraper.py:172] 🔗 [HN #10] URL: http://tom7.org
 INFO     2025-09-19 01:55:50 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-19 01:55:50 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-19 05:22:13 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-19 05:22:13 [scraper.py:171] 📥 [HN #1] Want to piss off your IT department? Are the links not malicious looking enough?
+INFO     2025-09-19 05:22:13 [scraper.py:172] 🔗 [HN #1] URL: https://phishyurl.com/
+INFO     2025-09-19 05:22:13 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-19 05:22:13 [scraper.py:171] 📥 [HN #2] Playing “Minecraft” without Minecraft (2024)
+INFO     2025-09-19 05:22:13 [scraper.py:172] 🔗 [HN #2] URL: https://lenowo.org/viewtopic.php?t=5
+INFO     2025-09-19 05:22:13 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-19 05:22:13 [scraper.py:171] 📥 [HN #3] David Lynch LA House
+INFO     2025-09-19 05:22:13 [scraper.py:172] 🔗 [HN #3] URL: https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale
+INFO     2025-09-19 05:22:13 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-19 05:22:14 [scraper.py:171] 📥 [HN #4] Apple: SSH and FileVault
+INFO     2025-09-19 05:22:14 [scraper.py:172] 🔗 [HN #4] URL: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+INFO     2025-09-19 05:22:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-19 05:22:14 [scraper.py:171] 📥 [HN #5] The Sagrada Família takes its final shape
+INFO     2025-09-19 05:22:14 [scraper.py:172] 🔗 [HN #5] URL: https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+INFO     2025-09-19 05:22:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-19 05:22:14 [scraper.py:171] 📥 [HN #6] Gemini in Chrome
+INFO     2025-09-19 05:22:14 [scraper.py:172] 🔗 [HN #6] URL: https://gemini.google/overview/gemini-in-chrome/
+INFO     2025-09-19 05:22:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-19 05:22:14 [scraper.py:171] 📥 [HN #7] Tracking trust with Rust in the kernel
+INFO     2025-09-19 05:22:14 [scraper.py:172] 🔗 [HN #7] URL: https://lwn.net/Articles/1034603/
+INFO     2025-09-19 05:22:14 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-19 05:22:14 [scraper.py:171] 📥 [HN #8] U.S. already has the critical minerals it needs, according to new analysis
+INFO     2025-09-19 05:22:14 [scraper.py:172] 🔗 [HN #8] URL: https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows
+INFO     2025-09-19 05:22:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-19 05:22:15 [scraper.py:171] 📥 [HN #9] This map is not upside down
+INFO     2025-09-19 05:22:15 [scraper.py:172] 🔗 [HN #9] URL: https://www.maps.com/this-map-is-not-upside-down/
+INFO     2025-09-19 05:22:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-19 05:22:15 [scraper.py:171] 📥 [HN #10] Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs
+INFO     2025-09-19 05:22:15 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/hiyouga/LLaMA-Factory
+INFO     2025-09-19 05:22:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-19 05:22:15 [scraper.py:179] 🎉 [HN] All done.
+
