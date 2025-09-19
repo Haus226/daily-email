@@ -1093,3 +1093,11 @@ INFO     2025-09-18 10:20:04 [scraper.py:134] 📥 [EO] Title: Cooper Creek Repl
 INFO     2025-09-18 10:20:04 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154803/coopercreek_tmo_20250915_th.jpg
 INFO     2025-09-18 10:20:04 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-19 01:55:48 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-19 01:55:48 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-19 01:56:12 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-19 01:56:12 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Arctic sea ice extent reached its 2025 annual minimum on September 10 at 4.60 million square kilometers (1.78 million square miles), tied with 2008 for the 10th-lowest minimum since satellite records began in 1978. This extent, calculated using the standard 15% ice concentration threshold, remains consistent with the long-term downward trend observed as global temperatures rise, though it did not surpass the 2012 record low. Scientists note that the past 19 years have all exhibited minimum ice coverage below pre-2007 levels, confirming the ongoing decline in Arctic sea ice.
+INFO     2025-09-19 01:56:12 [scraper.py:134] 📥 [EO] Title: Arctic Sea Ice Ties for 10th-Lowest on Record
+INFO     2025-09-19 01:56:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154807/arctic_nsidc_20250910_th.jpg
+INFO     2025-09-19 01:56:12 [scraper.py:155] ✅ [EO] Successfully fetched.
+
