@@ -5278,3 +5278,36 @@ INFO     2025-09-19 05:22:15 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-09-19 05:22:15 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-19 05:22:15 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-19 10:20:19 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-19 10:20:20 [scraper.py:171] 📥 [HN #1] Want to piss off your IT department? Are the links not malicious looking enough?
+INFO     2025-09-19 10:20:20 [scraper.py:172] 🔗 [HN #1] URL: https://phishyurl.com/
+INFO     2025-09-19 10:20:20 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-19 10:20:20 [scraper.py:171] 📥 [HN #2] The Ruliology of Lambdas
+INFO     2025-09-19 10:20:20 [scraper.py:172] 🔗 [HN #2] URL: https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/
+INFO     2025-09-19 10:20:20 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-19 10:20:20 [scraper.py:171] 📥 [HN #3] Rules for creating good-looking user interfaces, from a developer
+INFO     2025-09-19 10:20:20 [scraper.py:172] 🔗 [HN #3] URL: https://weberdominik.com/blog/rules-user-interfaces/
+INFO     2025-09-19 10:20:20 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-19 10:20:20 [scraper.py:171] 📥 [HN #4] Leatherman (vagabond)
+INFO     2025-09-19 10:20:20 [scraper.py:172] 🔗 [HN #4] URL: https://en.wikipedia.org/wiki/Leatherman_(vagabond)
+INFO     2025-09-19 10:20:20 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-19 10:20:21 [scraper.py:171] 📥 [HN #5] David Lynch LA House
+INFO     2025-09-19 10:20:21 [scraper.py:172] 🔗 [HN #5] URL: https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale
+INFO     2025-09-19 10:20:21 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-19 10:20:21 [scraper.py:171] 📥 [HN #6] Gemini in Chrome
+INFO     2025-09-19 10:20:21 [scraper.py:172] 🔗 [HN #6] URL: https://gemini.google/overview/gemini-in-chrome/
+INFO     2025-09-19 10:20:21 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-19 10:20:21 [scraper.py:171] 📥 [HN #7] The Sagrada Família takes its final shape
+INFO     2025-09-19 10:20:21 [scraper.py:172] 🔗 [HN #7] URL: https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+INFO     2025-09-19 10:20:21 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-19 10:20:21 [scraper.py:171] 📥 [HN #8] Apple: SSH and FileVault
+INFO     2025-09-19 10:20:21 [scraper.py:172] 🔗 [HN #8] URL: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+INFO     2025-09-19 10:20:21 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-19 10:20:21 [scraper.py:171] 📥 [HN #9] Count Folke Bernadotte: Sweden's Servant of Peace (2010)
+INFO     2025-09-19 10:20:21 [scraper.py:172] 🔗 [HN #9] URL: https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace
+INFO     2025-09-19 10:20:21 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-19 10:20:22 [scraper.py:171] 📥 [HN #10] iTerm2 Web Browser
+INFO     2025-09-19 10:20:22 [scraper.py:172] 🔗 [HN #10] URL: https://iterm2.com/documentation-web.html
+INFO     2025-09-19 10:20:22 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-19 10:20:22 [scraper.py:179] 🎉 [HN] All done.
+
