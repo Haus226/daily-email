@@ -1121,3 +1121,11 @@ INFO     2025-09-20 01:50:32 [scraper.py:134] 📥 [EO] Title: By the Warm Light
 INFO     2025-09-20 01:50:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154814/ISS073-E-611649_th.jpg
 INFO     2025-09-20 01:50:32 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-20 05:21:02 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-20 05:21:03 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-20 05:21:23 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-20 05:21:23 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: On September 7, 2025, a total lunar eclipse produced a Blood Moon visible across the Eastern Hemisphere, with the Moon appearing orange-red due to Earth's atmosphere scattering shorter blue wavelengths while transmitting longer red and orange wavelengths to the lunar surface. The total eclipse phase lasted one hour and 22 minutes, the longest since November 2022, and was observable by approximately 85% of the global population in Europe, Africa, Asia, and Australia under clear skies. Astronauts aboard the International Space Station captured imagery during the partial phase preceding totality. The next total lunar eclipse occurs on March 3, 2026, visible from the Americas, East Asia, Australia, and the Pacific.
+INFO     2025-09-20 05:21:23 [scraper.py:134] 📥 [EO] Title: By the Warm Light of the Moon
+INFO     2025-09-20 05:21:23 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154814/ISS073-E-611649_th.jpg
+INFO     2025-09-20 05:21:23 [scraper.py:155] ✅ [EO] Successfully fetched.
+

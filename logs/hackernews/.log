@@ -5344,3 +5344,36 @@ INFO     2025-09-20 01:50:34 [scraper.py:172] 🔗 [HN #10] URL: https://starfro
 INFO     2025-09-20 01:50:34 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-20 01:50:34 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-20 05:21:02 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-20 05:21:03 [scraper.py:171] 📥 [HN #1] Less is safer: How Obsidian reduces the risk of supply chain attacks
+INFO     2025-09-20 05:21:03 [scraper.py:172] 🔗 [HN #1] URL: https://obsidian.md/blog/less-is-safer/
+INFO     2025-09-20 05:21:03 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-20 05:21:03 [scraper.py:171] 📥 [HN #2] Things managers do that leaders never would
+INFO     2025-09-20 05:21:03 [scraper.py:172] 🔗 [HN #2] URL: https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon/
+INFO     2025-09-20 05:21:03 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-20 05:21:03 [scraper.py:171] 📥 [HN #3] If all the world were a monorepo
+INFO     2025-09-20 05:21:03 [scraper.py:172] 🔗 [HN #3] URL: https://jtibs.substack.com/p/if-all-the-world-were-a-monorepo
+INFO     2025-09-20 05:21:03 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-20 05:21:03 [scraper.py:171] 📥 [HN #4] Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration
+INFO     2025-09-20 05:21:03 [scraper.py:172] 🔗 [HN #4] URL: https://www.codeintegrity.ai/blog/notion
+INFO     2025-09-20 05:21:03 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-20 05:21:03 [scraper.py:171] 📥 [HN #5] Feedmaker: URL + CSS selectors = RSS feed
+INFO     2025-09-20 05:21:03 [scraper.py:172] 🔗 [HN #5] URL: https://feedmaker.fly.dev
+INFO     2025-09-20 05:21:03 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:171] 📥 [HN #6] Ants that seem to defy biology – They lay eggs that hatch into another species
+INFO     2025-09-20 05:21:04 [scraper.py:172] 🔗 [HN #6] URL: https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/
+INFO     2025-09-20 05:21:04 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:171] 📥 [HN #7] Show HN: WeUseElixir - Elixir project directory
+INFO     2025-09-20 05:21:04 [scraper.py:172] 🔗 [HN #7] URL: https://weuseelixir.com/
+INFO     2025-09-20 05:21:04 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:171] 📥 [HN #8] Internet Archive's big battle with music publishers ends in settlement
+INFO     2025-09-20 05:21:04 [scraper.py:172] 🔗 [HN #8] URL: https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/
+INFO     2025-09-20 05:21:04 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:171] 📥 [HN #9] Ruby Central's Attack on RubyGems [pdf]
+INFO     2025-09-20 05:21:04 [scraper.py:172] 🔗 [HN #9] URL: https://pup-e.com/goodbye-rubygems.pdf
+INFO     2025-09-20 05:21:04 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:171] 📥 [HN #10] A 3D-Printed Business Card Embosser
+INFO     2025-09-20 05:21:04 [scraper.py:172] 🔗 [HN #10] URL: https://www.core77.com/posts/138492/A-3D-Printed-Business-Card-Embosser
+INFO     2025-09-20 05:21:04 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-20 05:21:04 [scraper.py:179] 🎉 [HN] All done.
+
