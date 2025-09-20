@@ -773,3 +773,8 @@ INFO     2025-09-19 10:20:19 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacl
 INFO     2025-09-19 10:20:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-09-19 10:20:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-09-20 01:50:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-20 01:50:31 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-09-20 01:50:35 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-20 01:50:35 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

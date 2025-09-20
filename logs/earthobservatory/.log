@@ -1115,3 +1115,9 @@ INFO     2025-09-19 10:20:34 [scraper.py:134] 📥 [EO] Title: Arctic Sea Ice Ti
 INFO     2025-09-19 10:20:34 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154807/arctic_nsidc_20250910_th.jpg
 INFO     2025-09-19 10:20:34 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-20 01:50:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-20 01:50:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-20 01:50:32 [scraper.py:134] 📥 [EO] Title: By the Warm Light of the Moon
+INFO     2025-09-20 01:50:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154814/ISS073-E-611649_th.jpg
+INFO     2025-09-20 01:50:32 [scraper.py:155] ✅ [EO] Successfully fetched.
+
