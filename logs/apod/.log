@@ -807,3 +807,8 @@ INFO     2025-09-20 05:21:03 [scraper.py:47] 📥 [APOD] Title: Gibbous vs Cresc
 INFO     2025-09-20 05:21:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg
 INFO     2025-09-20 05:21:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-20 10:18:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-20 10:18:03 [scraper.py:47] 📥 [APOD] Title: Gibbous vs Crescent
+INFO     2025-09-20 10:18:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg
+INFO     2025-09-20 10:18:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
