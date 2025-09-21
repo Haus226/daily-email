@@ -1135,3 +1135,9 @@ INFO     2025-09-20 10:18:30 [scraper.py:134] 📥 [EO] Title: By the Warm Light
 INFO     2025-09-20 10:18:30 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154814/ISS073-E-611649_th.jpg
 INFO     2025-09-20 10:18:30 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-21 02:03:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-21 02:03:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-21 02:03:52 [scraper.py:134] 📥 [EO] Title: Mozambique’s Rio Lúrio
+INFO     2025-09-21 02:03:52 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154811/ISS072-E-398003_th.jpg
+INFO     2025-09-21 02:03:52 [scraper.py:155] ✅ [EO] Successfully fetched.
+
