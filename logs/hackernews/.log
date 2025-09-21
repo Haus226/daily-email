@@ -5443,3 +5443,36 @@ INFO     2025-09-21 02:03:41 [scraper.py:172] 🔗 [HN #10] URL: https://neal.fu
 INFO     2025-09-21 02:03:41 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-21 02:03:41 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-21 05:21:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-21 05:21:31 [scraper.py:171] 📥 [HN #1] $2 WeAct Display FS adds a 0.96-inch USB information display to your computer
+INFO     2025-09-21 05:21:31 [scraper.py:172] 🔗 [HN #1] URL: https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/
+INFO     2025-09-21 05:21:31 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-21 05:21:31 [scraper.py:171] 📥 [HN #2] iFixit iPhone Air teardown
+INFO     2025-09-21 05:21:31 [scraper.py:172] 🔗 [HN #2] URL: https://www.ifixit.com/News/113171/iphone-air-teardown
+INFO     2025-09-21 05:21:31 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #3] Ultrasonic Chef's Knife
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #3] URL: https://seattleultrasonics.com/
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #4] The bloat of edge-case first libraries
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #4] URL: https://43081j.com/2025/09/bloat-of-edge-case-libraries
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #5] Hyperion: Minecraft game engine for custom events
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #5] URL: https://hyperion.rs/
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #6] Teen suspect surrenders in 2023 Las Vegas casino cyberattack case
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #6] URL: https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #7] Slavery After Abolition: Revolt on the Amelia
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #7] URL: https://www.historytoday.com/archive/feature/slavery-after-abolition-revolt-amelia
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-21 05:21:32 [scraper.py:171] 📥 [HN #8] Designing NotebookLM
+INFO     2025-09-21 05:21:32 [scraper.py:172] 🔗 [HN #8] URL: https://jasonspielman.com/notebooklm
+INFO     2025-09-21 05:21:32 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-21 05:21:33 [scraper.py:171] 📥 [HN #9] In defence of swap: common misconceptions (2018)
+INFO     2025-09-21 05:21:33 [scraper.py:172] 🔗 [HN #9] URL: https://chrisdown.name/2018/01/02/in-defence-of-swap.html
+INFO     2025-09-21 05:21:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-21 05:21:33 [scraper.py:171] 📥 [HN #10] I’m Not a Robot
+INFO     2025-09-21 05:21:33 [scraper.py:172] 🔗 [HN #10] URL: https://neal.fun/not-a-robot/
+INFO     2025-09-21 05:21:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-21 05:21:33 [scraper.py:179] 🎉 [HN] All done.
+
