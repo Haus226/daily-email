@@ -832,3 +832,8 @@ INFO     2025-09-22 02:03:36 [scraper.py:47] 📥 [APOD] Title: Equinox Sunset
 INFO     2025-09-22 02:03:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg
 INFO     2025-09-22 02:03:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-22 05:23:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-22 05:23:21 [scraper.py:47] 📥 [APOD] Title: Equinox at Saturn
+INFO     2025-09-22 05:23:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
+INFO     2025-09-22 05:23:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

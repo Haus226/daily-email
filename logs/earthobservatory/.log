@@ -1161,3 +1161,11 @@ INFO     2025-09-22 02:04:00 [scraper.py:134] 📥 [EO] Title: Reshaping the For
 INFO     2025-09-22 02:04:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154817/congo_oli_2024_th.jpg
 INFO     2025-09-22 02:04:00 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-22 05:23:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-22 05:23:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-22 05:23:47 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-22 05:23:47 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Congo Basin, the world's second-largest tropical rainforest spanning six countries and 3.7 million square kilometers, has lost over 8% of its forest since 1990. In the Democratic Republic of the Congo, which holds two-thirds of the basin, primary forest loss reached 74,500 square kilometers since 2002, with 2024 recording the highest annual loss on record. Tshopo province near Kisangani, a city of 1.5 million, accounts for over 19,000 square kilometers of loss since 2001, driven primarily by small-scale agriculture and urban energy demand—95% of Kisangani households rely on fuelwood and charcoal. Forest loss patterns reveal caterpillar-shaped clearings along rivers and roads due to shifting cultivation, distinct from the rapid industrial deforestation seen in the Amazon, with national loss rates averaging 0.2–0.3% annually indicating gradual but persistent degradation despite reforestation efforts.
+INFO     2025-09-22 05:23:48 [scraper.py:134] 📥 [EO] Title: Reshaping the Forests Around Kisangani
+INFO     2025-09-22 05:23:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154817/congo_oli_2024_th.jpg
+INFO     2025-09-22 05:23:48 [scraper.py:155] ✅ [EO] Successfully fetched.
+
