@@ -5575,3 +5575,36 @@ INFO     2025-09-22 05:23:23 [scraper.py:172] 🔗 [HN #10] URL: https://www.ope
 INFO     2025-09-22 05:23:23 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-22 05:23:23 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-22 10:21:43 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-22 10:21:44 [scraper.py:171] 📥 [HN #1] M4.6 Earthquake – 2 km ESE of Berkeley, CA
+INFO     2025-09-22 10:21:44 [scraper.py:172] 🔗 [HN #1] URL: https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive
+INFO     2025-09-22 10:21:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-22 10:21:44 [scraper.py:171] 📥 [HN #2] You did this with an AI and you do not understand what you're doing here
+INFO     2025-09-22 10:21:44 [scraper.py:172] 🔗 [HN #2] URL: https://hackerone.com/reports/3340109
+INFO     2025-09-22 10:21:44 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-22 10:21:44 [scraper.py:171] 📥 [HN #3] LinkedIn will soon train AI models with data from European users
+INFO     2025-09-22 10:21:44 [scraper.py:172] 🔗 [HN #3] URL: https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/
+INFO     2025-09-22 10:21:44 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-22 10:21:44 [scraper.py:171] 📥 [HN #4] How I, a beginner developer, read the tutorial you, a developer, wrote for me
+INFO     2025-09-22 10:21:44 [scraper.py:172] 🔗 [HN #4] URL: https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner
+INFO     2025-09-22 10:21:44 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #5] SGI demos from long ago in the browser via WASM
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/sgi-demos
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #6] Tell the EU: Don't Break Encryption with "Chat Control"
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #6] URL: https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #7] Show HN: Software Freelancers Contract Template
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #7] URL: https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #8] Privacy and Security Risks in the eSIM Ecosystem [pdf]
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #8] URL: https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #9] Biconnected components
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #9] URL: https://emi-h.com/articles/bcc.html
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:171] 📥 [HN #10] Metamaterials, AI, and the Road to Invisibility Cloaks
+INFO     2025-09-22 10:21:45 [scraper.py:172] 🔗 [HN #10] URL: https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to
+INFO     2025-09-22 10:21:45 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-22 10:21:45 [scraper.py:179] 🎉 [HN] All done.
+
