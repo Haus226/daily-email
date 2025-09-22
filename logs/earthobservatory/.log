@@ -1153,3 +1153,11 @@ INFO     2025-09-21 10:18:26 [scraper.py:134] 📥 [EO] Title: Mozambique’s Ri
 INFO     2025-09-21 10:18:26 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154811/ISS072-E-398003_th.jpg
 INFO     2025-09-21 10:18:26 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-22 02:03:36 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-22 02:03:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-22 02:04:00 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-22 02:04:00 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Congo Basin, the world's second-largest tropical rainforest spanning 3.7 million square kilometers across six countries, has lost over 8 percent of its forest since 1990, with the Democratic Republic of the Congo (DRC) accounting for 74,500 square kilometers of loss since 2002. In Tshopo province near Kisangani, forest loss exceeds 19,000 square kilometers since 2001, driven primarily by small-scale agriculture and urban fuelwood demand, as 95 percent of households rely on charcoal and wood. Forest loss manifests in linear patterns along rivers and roads due to shifting cultivation and fuelwood harvesting, creating caterpillar-shaped clearings distinct from the rapid industrial deforestation seen in the Amazon or Southeast Asia. Despite annual DRC forest loss averaging 0.2–0.3 percent—below the global tropical mean—it indicates persistent degradation, with recent expansion of coffee, oil palm, and cacao plantations amplifying pressure. Unlike deforestation, this loss includes temporary removal from shifting cultivation, fire, and other factors.
+INFO     2025-09-22 02:04:00 [scraper.py:134] 📥 [EO] Title: Reshaping the Forests Around Kisangani
+INFO     2025-09-22 02:04:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154817/congo_oli_2024_th.jpg
+INFO     2025-09-22 02:04:00 [scraper.py:155] ✅ [EO] Successfully fetched.
+
