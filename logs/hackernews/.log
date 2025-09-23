@@ -5674,3 +5674,36 @@ INFO     2025-09-23 05:22:29 [scraper.py:172] 🔗 [HN #10] URL: https://marcoba
 INFO     2025-09-23 05:22:29 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-23 05:22:29 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-23 10:20:26 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-23 10:20:26 [scraper.py:171] 📥 [HN #1] Nine Things I Learned in Ninety Years
+INFO     2025-09-23 10:20:26 [scraper.py:172] 🔗 [HN #1] URL: http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf
+INFO     2025-09-23 10:20:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-23 10:20:26 [scraper.py:171] 📥 [HN #2] Zoxide: A Better CD Command
+INFO     2025-09-23 10:20:26 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/ajeetdsouza/zoxide
+INFO     2025-09-23 10:20:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-23 10:20:27 [scraper.py:171] 📥 [HN #3] Altoids by the Fistful
+INFO     2025-09-23 10:20:27 [scraper.py:172] 🔗 [HN #3] URL: https://www.scottsmitelli.com/articles/altoids-by-the-fistful/
+INFO     2025-09-23 10:20:27 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-23 10:20:27 [scraper.py:171] 📥 [HN #4] Delete FROM users WHERE location = 'Iran';
+INFO     2025-09-23 10:20:27 [scraper.py:172] 🔗 [HN #4] URL: https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4
+INFO     2025-09-23 10:20:27 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-23 10:20:27 [scraper.py:171] 📥 [HN #5] Qwen3-Omni: Native Omni AI model for text, image and video
+INFO     2025-09-23 10:20:27 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/QwenLM/Qwen3-Omni
+INFO     2025-09-23 10:20:27 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-23 10:20:27 [scraper.py:171] 📥 [HN #6] Themis (European Reusable Rocket) is assembled on launch pad
+INFO     2025-09-23 10:20:27 [scraper.py:172] 🔗 [HN #6] URL: https://phys.org/news/2025-09-themis-pad-fully.html
+INFO     2025-09-23 10:20:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-23 10:20:27 [scraper.py:171] 📥 [HN #7] Fall Foliage Map 2025
+INFO     2025-09-23 10:20:27 [scraper.py:172] 🔗 [HN #7] URL: https://www.explorefall.com/fall-foliage-map
+INFO     2025-09-23 10:20:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-23 10:20:28 [scraper.py:171] 📥 [HN #8] Gamebooks and graph theory (2019)
+INFO     2025-09-23 10:20:28 [scraper.py:172] 🔗 [HN #8] URL: https://notes.atomutek.org/gamebooks-and-graph-theory.html
+INFO     2025-09-23 10:20:28 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-23 10:20:28 [scraper.py:171] 📥 [HN #9] I built a dual RTX 3090 rig for local AI in 2025 (and lessons learned)
+INFO     2025-09-23 10:20:28 [scraper.py:172] 🔗 [HN #9] URL: https://www.llamabuilds.ai/build/portable-25l-nvlinked-dual-3090-llm-rig
+INFO     2025-09-23 10:20:28 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-23 10:20:28 [scraper.py:171] 📥 [HN #10] Cap'n Web: a new RPC system for browsers and web servers
+INFO     2025-09-23 10:20:28 [scraper.py:172] 🔗 [HN #10] URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/
+INFO     2025-09-23 10:20:28 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-23 10:20:28 [scraper.py:179] 🎉 [HN] All done.
+
