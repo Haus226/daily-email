@@ -1175,3 +1175,11 @@ INFO     2025-09-22 10:21:57 [scraper.py:134] 📥 [EO] Title: Reshaping the For
 INFO     2025-09-22 10:21:57 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154817/congo_oli_2024_th.jpg
 INFO     2025-09-22 10:21:57 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-23 01:53:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-23 01:53:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-23 01:53:45 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-23 01:53:45 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The 2025 autumnal equinox occurred on September 22, initiating astronomical fall in the Northern Hemisphere, though seasonal changes were already evident at high latitudes. A Landsat 8 image from September 18 captured yellow-tinged hills above Alaska's Tanana River, reflecting early autumn in Interior Alaska's subarctic climate, where fall is brief between short summers and long winters. Regional vegetation, including black spruce, dwarf birch, and aspen forests on uplands and mosses with berry shrubs in wetlands, thrives during the near-continuous daylight of May-July. Agriculture adapts with hardy crops like grains and legumes. Burned areas southeast of Healy Lake, likely from summer wildfires in fire-prone black spruce stands, remain visible. Autumn colors emerge as declining daylight and cooler temperatures halt chlorophyll production, revealing yellow and red pigments; this progression moves southward through November. Concurrently, the Sun shifts southward daily after the equinox until the December solstice.
+INFO     2025-09-23 01:53:45 [scraper.py:134] 📥 [EO] Title: A Golden Moment for Boreal Forests
+INFO     2025-09-23 01:53:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154821/alaskafall_oli_20250918_th.jpg
+INFO     2025-09-23 01:53:45 [scraper.py:155] ✅ [EO] Successfully fetched.
+
