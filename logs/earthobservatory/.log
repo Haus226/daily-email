@@ -1183,3 +1183,9 @@ INFO     2025-09-23 01:53:45 [scraper.py:134] 📥 [EO] Title: A Golden Moment f
 INFO     2025-09-23 01:53:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154821/alaskafall_oli_20250918_th.jpg
 INFO     2025-09-23 01:53:45 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-23 05:22:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-23 05:22:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-23 05:22:42 [scraper.py:134] 📥 [EO] Title: A Golden Moment for Boreal Forests
+INFO     2025-09-23 05:22:42 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154821/alaskafall_oli_20250918_th.jpg
+INFO     2025-09-23 05:22:42 [scraper.py:155] ✅ [EO] Successfully fetched.
+
