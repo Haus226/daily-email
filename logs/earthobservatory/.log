@@ -1195,3 +1195,11 @@ INFO     2025-09-23 10:20:36 [scraper.py:134] 📥 [EO] Title: A Golden Moment f
 INFO     2025-09-23 10:20:36 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154821/alaskafall_oli_20250918_th.jpg
 INFO     2025-09-23 10:20:36 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-24 01:54:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-24 01:54:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-24 01:55:08 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-24 01:55:08 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Typhoon Ragasa (Nando), forming on September 18, 2025, east of the Philippines, rapidly intensified to Category 5 strength with sustained winds exceeding 145 knots (270 km/h), becoming the strongest typhoon of the 2025 northwest Pacific season. It caused significant damage, floods, landslides, multiple deaths, and displaced tens of thousands in northern Luzon on September 22. As of September 23, Ragasa was tracking west-northwest toward southern Guangdong, China, expected to make landfall on September 24 while maintaining intensity due to favorable conditions including warm sea surface temperatures and low wind shear. Evacuations occurred in China and Vietnam as the storm, the second major typhoon of an otherwise quiet season (only half the usual activity), threatened further impacts before moving into northern Vietnam and Laos.
+INFO     2025-09-24 01:55:08 [scraper.py:134] 📥 [EO] Title: Ragasa Steers Toward China
+INFO     2025-09-24 01:55:08 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154824/typhoonragasa_tmo_20250923_th.jpg
+INFO     2025-09-24 01:55:08 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -5707,3 +5707,36 @@ INFO     2025-09-23 10:20:28 [scraper.py:172] 🔗 [HN #10] URL: https://blog.cl
 INFO     2025-09-23 10:20:28 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-23 10:20:28 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-24 01:54:45 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #1] Baldur's Gate 3 Steam Deck – Native Version
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #1] URL: https://larian.com/support/faqs/steam-deck-native-version_121
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #2] Find SF parking cops
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #2] URL: https://walzr.com/sf-parking/
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #3] MLB approves robot umpires for 2026 as part of challenge system
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #3] URL: https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #4] Libghostty is coming
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #4] URL: https://mitchellh.com/writing/libghostty-is-coming
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #5] Qwen3-VL
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #5] URL: https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-24 01:54:46 [scraper.py:171] 📥 [HN #6] From Rust to reality: The hidden journey of fetch_max
+INFO     2025-09-24 01:54:46 [scraper.py:172] 🔗 [HN #6] URL: https://questdb.com/blog/rust-fetch-max-compiler-journey/
+INFO     2025-09-24 01:54:46 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-24 01:54:47 [scraper.py:171] 📥 [HN #7] NYC Telecom Raid: What's Up with Those Weird SIM Banks?
+INFO     2025-09-24 01:54:47 [scraper.py:172] 🔗 [HN #7] URL: https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/
+INFO     2025-09-24 01:54:47 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-24 01:54:47 [scraper.py:171] 📥 [HN #8] Markov chains are the original language models
+INFO     2025-09-24 01:54:47 [scraper.py:172] 🔗 [HN #8] URL: https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
+INFO     2025-09-24 01:54:47 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-24 01:54:47 [scraper.py:171] 📥 [HN #9] The Top Programming Languages 2025
+INFO     2025-09-24 01:54:47 [scraper.py:172] 🔗 [HN #9] URL: https://spectrum.ieee.org/top-programming-languages-2025
+INFO     2025-09-24 01:54:47 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-24 01:54:47 [scraper.py:171] 📥 [HN #10] Is life a form of computation?
+INFO     2025-09-24 01:54:47 [scraper.py:172] 🔗 [HN #10] URL: https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/
+INFO     2025-09-24 01:54:47 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-24 01:54:47 [scraper.py:179] 🎉 [HN] All done.
+
