@@ -867,3 +867,8 @@ INFO     2025-09-24 05:22:14 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotati
 INFO     2025-09-24 05:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
 INFO     2025-09-24 05:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-24 10:20:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-24 10:20:01 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotating Black Holes Collide
+INFO     2025-09-24 10:20:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
+INFO     2025-09-24 10:20:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
