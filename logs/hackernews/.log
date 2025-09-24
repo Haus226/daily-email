@@ -5740,3 +5740,36 @@ INFO     2025-09-24 01:54:47 [scraper.py:172] 🔗 [HN #10] URL: https://theread
 INFO     2025-09-24 01:54:47 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-24 01:54:47 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-24 05:22:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-24 05:22:14 [scraper.py:171] 📥 [HN #1] Baldur's Gate 3 Steam Deck – Native Version
+INFO     2025-09-24 05:22:14 [scraper.py:172] 🔗 [HN #1] URL: https://larian.com/support/faqs/steam-deck-native-version_121
+INFO     2025-09-24 05:22:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-24 05:22:14 [scraper.py:171] 📥 [HN #2] Find SF parking cops
+INFO     2025-09-24 05:22:14 [scraper.py:172] 🔗 [HN #2] URL: https://walzr.com/sf-parking/
+INFO     2025-09-24 05:22:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-24 05:22:14 [scraper.py:171] 📥 [HN #3] Quadratic memory reductions for Zero-knowledge Proofs
+INFO     2025-09-24 05:22:14 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/logannye/space-efficient-zero-knowledge-proofs
+INFO     2025-09-24 05:22:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-24 05:22:14 [scraper.py:171] 📥 [HN #4] Libghostty is coming
+INFO     2025-09-24 05:22:14 [scraper.py:172] 🔗 [HN #4] URL: https://mitchellh.com/writing/libghostty-is-coming
+INFO     2025-09-24 05:22:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-24 05:22:14 [scraper.py:171] 📥 [HN #5] Qwen3-VL
+INFO     2025-09-24 05:22:14 [scraper.py:172] 🔗 [HN #5] URL: https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+INFO     2025-09-24 05:22:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:171] 📥 [HN #6] Markov chains are the original language models
+INFO     2025-09-24 05:22:15 [scraper.py:172] 🔗 [HN #6] URL: https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
+INFO     2025-09-24 05:22:15 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:171] 📥 [HN #7] From Rust to reality: The hidden journey of fetch_max
+INFO     2025-09-24 05:22:15 [scraper.py:172] 🔗 [HN #7] URL: https://questdb.com/blog/rust-fetch-max-compiler-journey/
+INFO     2025-09-24 05:22:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:171] 📥 [HN #8] Top Programming Languages 2025
+INFO     2025-09-24 05:22:15 [scraper.py:172] 🔗 [HN #8] URL: https://spectrum.ieee.org/top-programming-languages-2025
+INFO     2025-09-24 05:22:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:171] 📥 [HN #9] A webshell and a normal file that have the same MD5
+INFO     2025-09-24 05:22:15 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/phith0n/collision-webshell
+INFO     2025-09-24 05:22:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:171] 📥 [HN #10] Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems
+INFO     2025-09-24 05:22:15 [scraper.py:172] 🔗 [HN #10] URL: https://git.hq.sig7.se/zutty.git
+INFO     2025-09-24 05:22:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-24 05:22:15 [scraper.py:179] 🎉 [HN] All done.
+
