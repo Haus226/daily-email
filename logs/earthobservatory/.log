@@ -1229,3 +1229,9 @@ INFO     2025-09-25 05:23:03 [scraper.py:134] 📥 [EO] Title: A Giant Iceberg�
 INFO     2025-09-25 05:23:03 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154827/iceberga23a_tmo_20250911_th.jpg
 INFO     2025-09-25 05:23:03 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-25 10:20:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-25 10:20:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-25 10:21:03 [scraper.py:134] 📥 [EO] Title: A Giant Iceberg’s Final Drift
+INFO     2025-09-25 10:21:03 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154827/iceberga23a_tmo_20250911_th.jpg
+INFO     2025-09-25 10:21:03 [scraper.py:155] ✅ [EO] Successfully fetched.
+
