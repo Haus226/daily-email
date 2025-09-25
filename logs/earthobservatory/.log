@@ -1215,3 +1215,11 @@ INFO     2025-09-24 10:20:13 [scraper.py:134] 📥 [EO] Title: Ragasa Steers Tow
 INFO     2025-09-24 10:20:13 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154824/typhoonragasa_tmo_20250923_th.jpg
 INFO     2025-09-24 10:20:13 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-25 01:55:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-25 01:55:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-25 01:56:30 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-25 01:56:30 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Observed disintegrating in the South Atlantic in September 2025, Iceberg A-23A's largest fragment measured 1,500 km², marking the end of the world's second-largest floating iceberg after a 39-year existence following its 1986 calving from the Filchner Ice Shelf; warming waters in 'iceberg alley' caused its final breakup after repeated groundings and northward drift.
+INFO     2025-09-25 01:56:30 [scraper.py:134] 📥 [EO] Title: A Giant Iceberg’s Final Drift
+INFO     2025-09-25 01:56:30 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154827/iceberga23a_tmo_20250911_th.jpg
+INFO     2025-09-25 01:56:30 [scraper.py:155] ✅ [EO] Successfully fetched.
+
