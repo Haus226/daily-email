@@ -877,3 +877,8 @@ INFO     2025-09-25 01:55:58 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotati
 INFO     2025-09-25 01:55:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
 INFO     2025-09-25 01:55:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-25 05:22:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-25 05:22:44 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite the Sun
+INFO     2025-09-25 05:22:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
+INFO     2025-09-25 05:22:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
