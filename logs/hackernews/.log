@@ -5971,3 +5971,36 @@ INFO     2025-09-26 05:22:32 [scraper.py:172] 🔗 [HN #10] URL: https://doi.org
 INFO     2025-09-26 05:22:32 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-26 05:22:32 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-26 10:20:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-26 10:20:14 [scraper.py:171] 📥 [HN #1] Show HN: The Little Notebook for Learning Linear Algebra with Python
+INFO     2025-09-26 10:20:14 [scraper.py:172] 🔗 [HN #1] URL: https://little-book-of.github.io/linear-algebra/books/en-US/lab.html
+INFO     2025-09-26 10:20:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-26 10:20:14 [scraper.py:171] 📥 [HN #2] Pop OS is getting beta
+INFO     2025-09-26 10:20:14 [scraper.py:172] 🔗 [HN #2] URL: https://system76.com/pop/pop-beta/
+INFO     2025-09-26 10:20:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #3] Translating a Fortran F-16 Simulator to Unity3D
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #3] URL: https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #4] The great sameness: a comic on how AI makes us more alike
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #4] URL: https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #5] My Deus Ex lipsyncing fix mod
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #5] URL: https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #6] No reachable chess position with more than 218 moves
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #6] URL: https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #7] Improved Gemini 2.5 Flash and Flash-Lite
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #7] URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-26 10:20:15 [scraper.py:171] 📥 [HN #8] A platform-jumping prince – History of Prince of Persia's 1990s Ports
+INFO     2025-09-26 10:20:15 [scraper.py:172] 🔗 [HN #8] URL: https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince
+INFO     2025-09-26 10:20:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-26 10:20:16 [scraper.py:171] 📥 [HN #9] ChatGPT Pulse
+INFO     2025-09-26 10:20:16 [scraper.py:172] 🔗 [HN #9] URL: https://openai.com/index/introducing-chatgpt-pulse/
+INFO     2025-09-26 10:20:16 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-26 10:20:16 [scraper.py:171] 📥 [HN #10] Road to ZK Implementation: Nethermind Client's Path to Proofs
+INFO     2025-09-26 10:20:16 [scraper.py:172] 🔗 [HN #10] URL: https://www.nethermind.io/blog/road-to-zk-implementation-nethermind-clients-path-to-proofs
+INFO     2025-09-26 10:20:16 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-26 10:20:16 [scraper.py:179] 🎉 [HN] All done.
+
