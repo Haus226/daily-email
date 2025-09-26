@@ -887,3 +887,8 @@ INFO     2025-09-25 10:20:45 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite 
 INFO     2025-09-25 10:20:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
 INFO     2025-09-25 10:20:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-26 01:54:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-26 01:54:52 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite the Sun
+INFO     2025-09-26 01:54:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
+INFO     2025-09-26 01:54:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

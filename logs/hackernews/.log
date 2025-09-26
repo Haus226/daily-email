@@ -5905,3 +5905,36 @@ INFO     2025-09-25 10:20:46 [scraper.py:172] 🔗 [HN #10] URL: https://platfor
 INFO     2025-09-25 10:20:46 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-25 10:20:46 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-26 01:54:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-26 01:54:52 [scraper.py:171] 📥 [HN #1] Improved Gemini 2.5 Flash and Flash-Lite
+INFO     2025-09-26 01:54:52 [scraper.py:172] 🔗 [HN #1] URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+INFO     2025-09-26 01:54:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-26 01:54:52 [scraper.py:171] 📥 [HN #2] Ollama Web Search
+INFO     2025-09-26 01:54:52 [scraper.py:172] 🔗 [HN #2] URL: https://ollama.com/blog/web-search
+INFO     2025-09-26 01:54:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-26 01:54:52 [scraper.py:171] 📥 [HN #3] RedoxFS is the default filesystem of Redox OS, inspired by ZFS
+INFO     2025-09-26 01:54:52 [scraper.py:172] 🔗 [HN #3] URL: https://doc.redox-os.org/book/redoxfs.html
+INFO     2025-09-26 01:54:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-26 01:54:52 [scraper.py:171] 📥 [HN #4] ChatGPT Pulse
+INFO     2025-09-26 01:54:52 [scraper.py:172] 🔗 [HN #4] URL: https://openai.com/index/introducing-chatgpt-pulse/
+INFO     2025-09-26 01:54:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #5] The Digital Markets Act: time for a reset
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #5] URL: https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #6] Cloudflare Email Service: private beta
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #6] URL: https://blog.cloudflare.com/email-service/
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #7] Cosmic simulations that once needed supercomputers now run on a laptop
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #7] URL: https://www.sciencedaily.com/releases/2025/09/250918225001.htm
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #8] Brutalita Sans: An Experimental Font and Font Editor
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #8] URL: https://brutalita.com/
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #9] Can a model trained on satellite data really find brambles on the ground?
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #9] URL: https://toao.com/blog/can-we-really-see-brambles-from-space
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:171] 📥 [HN #10] Redis is fast – I'll cache in Postgres
+INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #10] URL: https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
+INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-26 01:54:53 [scraper.py:179] 🎉 [HN] All done.
+
