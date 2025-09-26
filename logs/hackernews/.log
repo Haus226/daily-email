@@ -5938,3 +5938,36 @@ INFO     2025-09-26 01:54:53 [scraper.py:172] 🔗 [HN #10] URL: https://dizzy.z
 INFO     2025-09-26 01:54:53 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-26 01:54:53 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-26 05:22:30 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-26 05:22:30 [scraper.py:171] 📥 [HN #1] My Deus Ex lipsyncing fix mod
+INFO     2025-09-26 05:22:30 [scraper.py:172] 🔗 [HN #1] URL: https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/
+INFO     2025-09-26 05:22:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-26 05:22:30 [scraper.py:171] 📥 [HN #2] Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access
+INFO     2025-09-26 05:22:30 [scraper.py:172] 🔗 [HN #2] URL: https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/
+INFO     2025-09-26 05:22:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-26 05:22:30 [scraper.py:171] 📥 [HN #3] Improved Gemini 2.5 Flash and Flash-Lite
+INFO     2025-09-26 05:22:30 [scraper.py:172] 🔗 [HN #3] URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+INFO     2025-09-26 05:22:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-26 05:22:31 [scraper.py:171] 📥 [HN #4] Redis is fast – I'll cache in Postgres
+INFO     2025-09-26 05:22:31 [scraper.py:172] 🔗 [HN #4] URL: https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
+INFO     2025-09-26 05:22:31 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-26 05:22:31 [scraper.py:171] 📥 [HN #5] ChatGPT Pulse
+INFO     2025-09-26 05:22:31 [scraper.py:172] 🔗 [HN #5] URL: https://openai.com/index/introducing-chatgpt-pulse/
+INFO     2025-09-26 05:22:31 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-26 05:22:31 [scraper.py:171] 📥 [HN #6] Exploit allows for takeover of fleets of Unitree robots
+INFO     2025-09-26 05:22:31 [scraper.py:172] 🔗 [HN #6] URL: https://spectrum.ieee.org/unitree-robot-exploit
+INFO     2025-09-26 05:22:31 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-26 05:22:31 [scraper.py:171] 📥 [HN #7] RedoxFS is the default filesystem of Redox OS, inspired by ZFS
+INFO     2025-09-26 05:22:31 [scraper.py:172] 🔗 [HN #7] URL: https://doc.redox-os.org/book/redoxfs.html
+INFO     2025-09-26 05:22:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-26 05:22:31 [scraper.py:171] 📥 [HN #8] Ollama Web Search
+INFO     2025-09-26 05:22:31 [scraper.py:172] 🔗 [HN #8] URL: https://ollama.com/blog/web-search
+INFO     2025-09-26 05:22:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-26 05:22:32 [scraper.py:171] 📥 [HN #9] The Forklift Certified License
+INFO     2025-09-26 05:22:32 [scraper.py:172] 🔗 [HN #9] URL: https://aria.dog/barks/forklift-certified-license/
+INFO     2025-09-26 05:22:32 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-26 05:22:32 [scraper.py:171] 📥 [HN #10] The effect of H-1B quota on employment and selection of foreign-born labor (2018)
+INFO     2025-09-26 05:22:32 [scraper.py:172] 🔗 [HN #10] URL: https://doi.org/10.1016/j.euroecorev.2018.06.010
+INFO     2025-09-26 05:22:32 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-26 05:22:32 [scraper.py:179] 🎉 [HN] All done.
+
