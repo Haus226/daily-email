@@ -1253,3 +1253,11 @@ INFO     2025-09-26 10:20:26 [scraper.py:134] 📥 [EO] Title: Land of Many Wate
 INFO     2025-09-26 10:20:26 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154830/guyanarivers_oli_20230816_th.jpg
 INFO     2025-09-26 10:20:26 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-27 01:50:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-27 01:50:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-27 01:50:40 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-27 01:50:40 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: As of late September 2025, drought conditions deteriorated in the U.S. Northeast, with extreme drought expanding across northern New England amid persistent dry weather. Approximately 24% of Vermont and 33% of New Hampshire experienced extreme drought—the most extensive since U.S. Drought Monitor records began in 2000—leading to crop damage, reduced streamflow, lowered lake levels, and groundwater shortages. Root zone soil moisture, measured via GRACE-FO satellite data, reached historically low levels (darkest red areas indicating dryness occurring about once every 50 years), severely impacting agricultural productivity across New York, Vermont, New Hampshire, Maine, and West Virginia. Despite short-term forecasts of potential rainfall relief, the outlook for early October predicted continued below-normal precipitation and above-normal temperatures, prolonging drought stress.
+INFO     2025-09-27 01:50:40 [scraper.py:134] 📥 [EO] Title: Drought Worsens Across Northern New England
+INFO     2025-09-27 01:50:40 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154833/nedrought_grc_usdm_20250923_th.jpg
+INFO     2025-09-27 01:50:40 [scraper.py:155] ✅ [EO] Successfully fetched.
+
