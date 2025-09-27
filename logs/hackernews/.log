@@ -6070,3 +6070,36 @@ INFO     2025-09-27 05:20:46 [scraper.py:172] 🔗 [HN #10] URL: https://www.lum
 INFO     2025-09-27 05:20:46 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-27 05:20:46 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-27 10:17:40 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #1] Typst: A Possible LaTeX Replacement
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #1] URL: https://lwn.net/Articles/1037577/
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #2] Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=45372642
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #3] Open Social
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #3] URL: https://overreacted.io/open-social/
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #4] SimpleFold: Folding proteins is simpler than you think
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/apple/ml-simplefold
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #5] Meshtastic 64 – A meshtastic radio for the Commodore 64
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #5] URL: http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-27 10:17:41 [scraper.py:171] 📥 [HN #6] Property-Based Testing of OCaml 5's Runtime System [pdf]
+INFO     2025-09-27 10:17:41 [scraper.py:172] 🔗 [HN #6] URL: https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf
+INFO     2025-09-27 10:17:41 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-27 10:17:42 [scraper.py:171] 📥 [HN #7] Litex: The First Formal Language Learnable in 1-2 Hours
+INFO     2025-09-27 10:17:42 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/litexlang/golitex
+INFO     2025-09-27 10:17:42 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-27 10:17:42 [scraper.py:171] 📥 [HN #8] New math revives geometry's oldest problems
+INFO     2025-09-27 10:17:42 [scraper.py:172] 🔗 [HN #8] URL: https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/
+INFO     2025-09-27 10:17:42 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-27 10:17:42 [scraper.py:171] 📥 [HN #9] Moondream 3 Preview: Frontier-level reasoning at a blazing speed
+INFO     2025-09-27 10:17:42 [scraper.py:172] 🔗 [HN #9] URL: https://moondream.ai/blog/moondream-3-preview
+INFO     2025-09-27 10:17:42 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-27 10:17:42 [scraper.py:171] 📥 [HN #10] The Beauty of Programming (2001)
+INFO     2025-09-27 10:17:42 [scraper.py:172] 🔗 [HN #10] URL: https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming
+INFO     2025-09-27 10:17:42 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-27 10:17:42 [scraper.py:179] 🎉 [HN] All done.
+
