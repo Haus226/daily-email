@@ -907,3 +907,8 @@ INFO     2025-09-27 01:50:12 [scraper.py:47] 📥 [APOD] Title: A SWAN, an ATLAS
 INFO     2025-09-27 01:50:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg
 INFO     2025-09-27 01:50:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-27 05:20:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-27 05:20:44 [scraper.py:47] 📥 [APOD] Title: A Rocket in the Sun
+INFO     2025-09-27 05:20:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG
+INFO     2025-09-27 05:20:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
