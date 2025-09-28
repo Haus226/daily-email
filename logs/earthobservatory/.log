@@ -1283,3 +1283,11 @@ INFO     2025-09-28 02:05:11 [scraper.py:134] 📥 [EO] Title: Winter Transforms
 INFO     2025-09-28 02:05:11 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154838/iss072e575684_th.jpg
 INFO     2025-09-28 02:05:11 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-28 05:21:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-28 05:21:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-28 05:21:53 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-28 05:21:53 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: An astronaut captured the Mississippi River Delta's bird's foot morphology on January 24, 2025, showing sediment-laden plumes extending into the Gulf of Mexico. Recent snowmelt from a Gulf Coast storm likely increased river outflow and sediment dispersion. The delta forms through natural sediment deposition but faces significant alteration from human interventions including levees, channelization for navigation, and sediment diversions to combat land loss. Rising sea levels and erosion accelerate wetland degradation in this dynamic system. The river drains 41% of the United States, supporting agriculture and shipping infrastructure, yet its constrained flow under modern management reduces sediment delivery to sustain deltaic wetlands against subsidence and storm impacts.
+INFO     2025-09-28 05:21:53 [scraper.py:134] 📥 [EO] Title: Winter Transforms the Mississippi River Delta
+INFO     2025-09-28 05:21:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154838/iss072e575684_th.jpg
+INFO     2025-09-28 05:21:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+
