@@ -6103,3 +6103,36 @@ INFO     2025-09-27 10:17:42 [scraper.py:172] 🔗 [HN #10] URL: https://www.bry
 INFO     2025-09-27 10:17:42 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-27 10:17:42 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-28 02:04:48 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #1] A WebGL game where you deliver messages on a tiny planet
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #1] URL: https://messenger.abeto.co/
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #2] How to Set $2,455 on Fire
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #2] URL: https://busd.steviep.xyz/howto
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #3] 'Amazing feat': US man still alive six months after pig kidney transplant
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #3] URL: https://www.nature.com/articles/d41586-025-02851-w
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #4] The Hacker Folk Art of Esoteric Coding
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #4] URL: https://thereader.mitpress.mit.edu/the-hacker-folk-art-of-esoteric-coding/
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #5] SSH3: Faster and rich secure shell using HTTP/3
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/francoismichel/ssh3
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-28 02:04:49 [scraper.py:171] 📥 [HN #6] We reverse-engineered Flash Attention 4
+INFO     2025-09-28 02:04:49 [scraper.py:172] 🔗 [HN #6] URL: https://modal.com/blog/reverse-engineer-flash-attention-4
+INFO     2025-09-28 02:04:49 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-28 02:04:50 [scraper.py:171] 📥 [HN #7] Handy – Free open-source speech-to-text app written in Rust
+INFO     2025-09-28 02:04:50 [scraper.py:172] 🔗 [HN #7] URL: https://handy.computer/
+INFO     2025-09-28 02:04:50 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-28 02:04:50 [scraper.py:171] 📥 [HN #8] I made a public living room and the internet keeps putting weirder stuff in it
+INFO     2025-09-28 02:04:50 [scraper.py:172] 🔗 [HN #8] URL: https://www.theroom.lol
+INFO     2025-09-28 02:04:50 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-28 02:04:50 [scraper.py:171] 📥 [HN #9] A Postmark backdoor that’s downloading emails
+INFO     2025-09-28 02:04:50 [scraper.py:172] 🔗 [HN #9] URL: https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
+INFO     2025-09-28 02:04:50 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-28 02:04:50 [scraper.py:171] 📥 [HN #10] The death of east London's most radical bookshop
+INFO     2025-09-28 02:04:50 [scraper.py:172] 🔗 [HN #10] URL: https://www.the-londoner.co.uk/scarlett-letters-closure-left-wing-bookshop/
+INFO     2025-09-28 02:04:50 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-28 02:04:50 [scraper.py:179] 🎉 [HN] All done.
+

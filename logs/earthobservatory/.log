@@ -1275,3 +1275,11 @@ INFO     2025-09-27 10:18:01 [scraper.py:134] 📥 [EO] Title: Drought Worsens A
 INFO     2025-09-27 10:18:01 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154833/nedrought_grc_usdm_20250923_th.jpg
 INFO     2025-09-27 10:18:01 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-28 02:04:48 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-28 02:04:50 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-28 02:05:11 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-28 02:05:11 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Astronaut photograph from January 24, 2025, depicts the Mississippi River Delta's bird's foot morphology where the river meets the Gulf of Mexico, showing distributary channels, sediment plumes dispersing into ocean waters, marshlands, and barrier islands. Recent snowmelt from an uncommon Gulf Coast storm (January 20-22, 2025) likely increased river outflow, enhancing visible sediment plumes. The river spans approximately 3,770 kilometers, draining 41% of the contiguous United States, and supports agriculture and transportation. Natural delta dynamics involving sediment deposition and channel migration are countered by human interventions including levees, channelization, and sediment diversion projects to combat land loss driven by sea-level rise, erosion, and flood control measures.
+INFO     2025-09-28 02:05:11 [scraper.py:134] 📥 [EO] Title: Winter Transforms the Mississippi River Delta
+INFO     2025-09-28 02:05:11 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154838/iss072e575684_th.jpg
+INFO     2025-09-28 02:05:11 [scraper.py:155] ✅ [EO] Successfully fetched.
+
