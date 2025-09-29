@@ -908,3 +908,8 @@ INFO     2025-09-28 10:18:01 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacl
 INFO     2025-09-28 10:18:03 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-09-28 10:18:03 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-09-29 01:58:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-29 01:58:02 [scraper.py:391] 📥 [TAROT] Card: Eight of Cups
+INFO     2025-09-29 01:58:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-29 01:58:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

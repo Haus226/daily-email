@@ -1299,3 +1299,11 @@ INFO     2025-09-28 10:18:18 [scraper.py:134] 📥 [EO] Title: Winter Transforms
 INFO     2025-09-28 10:18:18 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154838/iss072e575684_th.jpg
 INFO     2025-09-28 10:18:18 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-29 01:58:02 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-29 01:58:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-29 01:58:22 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-29 01:58:22 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Erie Canal, completed in 1825 after eight years of construction, spans 363 miles across New York, connecting Lake Erie to the Hudson River and enabling efficient transport between the U.S. Midwest and Atlantic Ocean. Built by self-taught engineers without formal training, it featured 83 locks, aqueducts, and standardized dimensions (4 ft deep, 40 ft wide), utilizing innovative techniques for excavation and rock blasting. The canal drastically reduced transit times for goods and passengers, recouped construction costs via tolls within a decade, and spurred rapid urbanization—transforming settlements like Rochester and Buffalo into major cities by 1850. Despite multiple enlargements to accommodate larger vessels, commercial traffic declined after the St. Lawrence Seaway opened in the 1950s. Today, the canal primarily serves recreational boaters and forms part of the Erie Canalway National Heritage Corridor, preserving its historical and natural significance.
+INFO     2025-09-29 01:58:22 [scraper.py:134] 📥 [EO] Title: The Erie Canal Turns 200
+INFO     2025-09-29 01:58:22 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154841/eriecanal_blmr_2025_th.jpg
+INFO     2025-09-29 01:58:22 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -932,3 +932,8 @@ INFO     2025-09-28 10:18:01 [scraper.py:47] 📥 [APOD] Title: Leopard Spots on
 INFO     2025-09-28 10:18:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg
 INFO     2025-09-28 10:18:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-29 01:58:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-29 01:58:03 [scraper.py:47] 📥 [APOD] Title: Leopard Spots on Martian Rocks
+INFO     2025-09-29 01:58:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg
+INFO     2025-09-29 01:58:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
