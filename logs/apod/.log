@@ -942,3 +942,8 @@ INFO     2025-09-29 05:24:05 [scraper.py:47] 📥 [APOD] Title: Two Camera Comet
 INFO     2025-09-29 05:24:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
 INFO     2025-09-29 05:24:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-29 10:21:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-29 10:21:31 [scraper.py:47] 📥 [APOD] Title: Two Camera Comets in One Sky
+INFO     2025-09-29 10:21:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
+INFO     2025-09-29 10:21:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
