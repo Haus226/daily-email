@@ -957,3 +957,8 @@ INFO     2025-09-30 05:22:43 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon Bri
 INFO     2025-09-30 05:22:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg
 INFO     2025-09-30 05:22:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-09-30 10:20:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-30 10:20:55 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon Brightens
+INFO     2025-09-30 10:20:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg
+INFO     2025-09-30 10:20:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

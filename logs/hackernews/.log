@@ -6367,3 +6367,36 @@ INFO     2025-09-30 05:22:45 [scraper.py:172] 🔗 [HN #10] URL: https://tasvide
 INFO     2025-09-30 05:22:45 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-09-30 05:22:45 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-09-30 10:20:54 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #1] Disqus Turned My Blog into an Ad Farm – So I Killed It
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #1] URL: https://ryansouthgate.com/goodbye-disqus/
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #2] Can You Use GDPR to Circumvent Bluesky's Adult Content Blocks?
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #2] URL: https://shkspr.mobi/blog/2025/09/can-you-use-gdpr-to-circumvent-blueskys-adult-content-blocks/
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #3] Geolocation and Starlink
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #3] URL: https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #4] Claude Sonnet 4.5
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #4] URL: https://www.anthropic.com/news/claude-sonnet-4-5
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #5] European Union Public Licence (EUPL)
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #5] URL: https://eupl.eu/
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #6] Claude Code 2.0
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #6] URL: https://www.npmjs.com/package/@anthropic-ai/claude-code
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-09-30 10:20:55 [scraper.py:171] 📥 [HN #7] How to create an OS from scratch
+INFO     2025-09-30 10:20:55 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/cfenollosa/os-tutorial
+INFO     2025-09-30 10:20:55 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-09-30 10:20:56 [scraper.py:171] 📥 [HN #8] Safe zero-copy operations in C#
+INFO     2025-09-30 10:20:56 [scraper.py:172] 🔗 [HN #8] URL: https://ssg.dev/safe-zero-copy-operations-in-c/
+INFO     2025-09-30 10:20:56 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-09-30 10:20:56 [scraper.py:171] 📥 [HN #9] Show HN: Devbox – Containers for better dev environments
+INFO     2025-09-30 10:20:56 [scraper.py:172] 🔗 [HN #9] URL: https://devbox.ar0.eu/
+INFO     2025-09-30 10:20:56 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-09-30 10:20:56 [scraper.py:171] 📥 [HN #10] A Look into Intel Xeon 6's Memory Subsystem
+INFO     2025-09-30 10:20:56 [scraper.py:172] 🔗 [HN #10] URL: https://chipsandcheese.com/p/a-look-into-intel-xeon-6s-memory
+INFO     2025-09-30 10:20:56 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-09-30 10:20:56 [scraper.py:179] 🎉 [HN] All done.
+
