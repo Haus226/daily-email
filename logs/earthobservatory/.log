@@ -1319,3 +1319,9 @@ INFO     2025-09-29 10:21:49 [scraper.py:134] 📥 [EO] Title: The Erie Canal Tu
 INFO     2025-09-29 10:21:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154841/eriecanal_blmr_2025_th.jpg
 INFO     2025-09-29 10:21:49 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-30 01:52:39 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-30 01:52:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-30 01:52:48 [scraper.py:134] 📥 [EO] Title: Imelda and Humberto Crowd the Atlantic
+INFO     2025-09-30 01:52:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154845/imeldahumberto_vir_20250928_th.jpg
+INFO     2025-09-30 01:52:48 [scraper.py:155] ✅ [EO] Successfully fetched.
+
