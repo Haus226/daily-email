@@ -1325,3 +1325,11 @@ INFO     2025-09-30 01:52:48 [scraper.py:134] 📥 [EO] Title: Imelda and Humber
 INFO     2025-09-30 01:52:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154845/imeldahumberto_vir_20250928_th.jpg
 INFO     2025-09-30 01:52:48 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-09-30 05:22:43 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-09-30 05:22:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-09-30 05:23:10 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-09-30 05:23:10 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In late September 2025, Tropical Storm Imelda (40 mph) moved north through the Bahamas while Hurricane Humberto, a Category 4 storm with 150 mph winds located 700 miles east of the Bahamas, had previously reached Category 5 strength as the season's second Atlantic hurricane to do so. Imelda brought tropical storm conditions to the central and northwestern Bahamas and heavy rain to Puerto Rico and eastern Cuba, with potential for flash and urban flooding in the Carolinas. Humberto, despite its distance, generated dangerous surf and rip currents affecting the northern Caribbean, Bahamas, Bermuda, and the U.S. East Coast. Forecasters noted possible Fujiwhara Effect interaction between the storms, potentially altering Imelda's track away from the U.S. coast; as of September 29, Imelda was projected to turn east-northeast. No Atlantic hurricanes had made landfall in 2025 at the time of reporting.
+INFO     2025-09-30 05:23:10 [scraper.py:134] 📥 [EO] Title: Imelda and Humberto Crowd the Atlantic
+INFO     2025-09-30 05:23:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154845/imeldahumberto_vir_20250928_th.jpg
+INFO     2025-09-30 05:23:10 [scraper.py:155] ✅ [EO] Successfully fetched.
+
