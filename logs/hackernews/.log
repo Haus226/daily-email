@@ -6433,3 +6433,36 @@ INFO     2025-10-01 02:05:35 [scraper.py:172] 🔗 [HN #10] URL: https://www.bbc
 INFO     2025-10-01 02:05:35 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-01 02:05:35 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-01 05:23:36 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #1] CDC File Transfer
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/google/cdc-file-transfer
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #2] Sora 2
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #2] URL: https://openai.com/index/sora-2/
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #3] The gaslit asset class
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #3] URL: https://blog.dshr.org/2025/09/the-gaslit-asset-class.html
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #4] An informational website about why I went to prison
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #4] URL: https://prison.josh.mn/
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #5] NJ theme park puts animatronic dinosaurs on Facebook Marketplace
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #5] URL: https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-01 05:23:37 [scraper.py:171] 📥 [HN #6] US government shuts down after Democrats refuse to back Republican funding plan
+INFO     2025-10-01 05:23:37 [scraper.py:172] 🔗 [HN #6] URL: https://www.theguardian.com/us-news/2025/oct/01/us-government-shuts-down
+INFO     2025-10-01 05:23:37 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-01 05:23:38 [scraper.py:171] 📥 [HN #7] Imgur pulls out of UK as data watchdog threatens fine
+INFO     2025-10-01 05:23:38 [scraper.py:172] 🔗 [HN #7] URL: https://www.express.co.uk/news/uk/2115228/image-site-imgur-pulls-out
+INFO     2025-10-01 05:23:38 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-01 05:23:38 [scraper.py:171] 📥 [HN #8] Washi: The Japanese paper crafted to last 1000 years [video]
+INFO     2025-10-01 05:23:38 [scraper.py:172] 🔗 [HN #8] URL: https://www.bbc.com/reel/video/p0m4mg2j/washi-the-japanese-paper-crafted-to-last-1-000-years
+INFO     2025-10-01 05:23:38 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-01 05:23:38 [scraper.py:171] 📥 [HN #9] Diff Algorithms
+INFO     2025-10-01 05:23:38 [scraper.py:172] 🔗 [HN #9] URL: https://flo.znkr.io/diff/
+INFO     2025-10-01 05:23:38 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-01 05:23:38 [scraper.py:171] 📥 [HN #10] Blockdiff: We built our own file format for VM disk snapshots
+INFO     2025-10-01 05:23:38 [scraper.py:172] 🔗 [HN #10] URL: https://cognition.ai/blog/blockdiff
+INFO     2025-10-01 05:23:38 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-01 05:23:38 [scraper.py:179] 🎉 [HN] All done.
+

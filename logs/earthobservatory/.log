@@ -1345,3 +1345,11 @@ INFO     2025-10-01 02:05:48 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-10-01 02:05:48 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-10-01 02:05:48 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-10-01 05:23:36 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-10-01 05:23:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-10-01 05:24:04 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-10-01 05:24:04 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In western China's Tarim Basin, Mazartagh (Hongbaishan), a 145-kilometer-long ridge rising 200 meters above the desert, forms a natural Y-shaped barrier where the Hotan River meets it. The ridge's northern side exposes red iron-rich sandstones and mudstones from arid, oxygen-rich environments, while the southern side displays lighter gypsum and calcareous sandstone layers indicative of ancient shallow water settings. Acting as a sand trap, Mazartagh blocks 62 percent of sand movement from northeasterly winds, reducing dune drift potential by 13 percent; this creates extensive sand seas with barchan, compound transverse, and star dunes north of the ridge, while linear dunes dominate southward due to reduced sand supply, though notches allow localized barchan fields. The seasonal Hotan River, sustained by Kunlun Mountain glacial melt, uniquely maintains flow across the Takla Makan Desert to join the Tarim River, carrying white and green nephrite jade that has been harvested from riverbanks for millennia, establishing the area as a Silk Road hub evidenced by eighth-century Tibetan Empire fort ruins.
+INFO     2025-10-01 05:24:04 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-10-01 05:24:04 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-10-01 05:24:04 [scraper.py:155] ✅ [EO] Successfully fetched.
+
