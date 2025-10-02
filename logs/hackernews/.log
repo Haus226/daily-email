@@ -6499,3 +6499,36 @@ INFO     2025-10-01 10:20:43 [scraper.py:172] 🔗 [HN #10] URL: https://www.ora
 INFO     2025-10-01 10:20:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-01 10:20:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-02 01:53:13 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-02 01:53:14 [scraper.py:171] 📥 [HN #1] Cormac McCarthy's personal library
+INFO     2025-10-02 01:53:14 [scraper.py:172] 🔗 [HN #1] URL: https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
+INFO     2025-10-02 01:53:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-02 01:53:14 [scraper.py:171] 📥 [HN #2] F3: Open-source data file format for the future [pdf]
+INFO     2025-10-02 01:53:14 [scraper.py:172] 🔗 [HN #2] URL: https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf
+INFO     2025-10-02 01:53:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-02 01:53:14 [scraper.py:171] 📥 [HN #3] Edge264 – Minimalist, high-performance software decoder for H.264/AVC video
+INFO     2025-10-02 01:53:14 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/tvlabs/edge264
+INFO     2025-10-02 01:53:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-02 01:53:14 [scraper.py:171] 📥 [HN #4] Show HN: Autism Simulator
+INFO     2025-10-02 01:53:14 [scraper.py:172] 🔗 [HN #4] URL: https://autism-simulator.vercel.app/
+INFO     2025-10-02 01:53:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #5] OpenTSLM: Language models that understand time series
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #5] URL: https://www.opentslm.com/
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #6] Building the heap: racking 30 petabytes of hard drives for pretraining
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #6] URL: https://si.inc/posts/the-heap/
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #7] Unix philosophy and filesystem access makes Claude Code amazing
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #7] URL: https://www.alephic.com/writing/the-magic-of-claude-code
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #8] Ask HN: Who is hiring? (October 2025)
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=45438503
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #9] The Company Man
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #9] URL: https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:171] 📥 [HN #10] The biggest semantic mess in Futhark
+INFO     2025-10-02 01:53:15 [scraper.py:172] 🔗 [HN #10] URL: https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html
+INFO     2025-10-02 01:53:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-02 01:53:15 [scraper.py:179] 🎉 [HN] All done.
+
