@@ -963,3 +963,8 @@ INFO     2025-10-02 05:21:35 [scraper.py:391] 📥 [TAROT] Card: Death
 INFO     2025-10-02 05:21:37 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-02 05:21:37 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-02 10:19:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-02 10:19:29 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-10-02 10:19:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-02 10:19:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

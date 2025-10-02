@@ -6565,3 +6565,36 @@ INFO     2025-10-02 05:21:36 [scraper.py:172] 🔗 [HN #10] URL: https://www.ope
 INFO     2025-10-02 05:21:36 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-02 05:21:36 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-02 10:19:29 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #1] F3: Open-source data file format for the future [pdf]
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #1] URL: https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #2] A 3K-year-old copper smelting site could be key to understanding origins of iron
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #2] URL: https://phys.org/news/2025-09-year-copper-smelting-site-key.html
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #3] Cormac McCarthy's personal library
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #3] URL: https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #4] I built ChatGPT with Minecraft redstone [video]
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=VaeI9YgE1o8
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #5] Immich v2.0.0 – First stable release
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/immich-app/immich/discussions/22546
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-02 10:19:30 [scraper.py:171] 📥 [HN #6] Gmail will no longer support checking emails from third-party accounts via POP
+INFO     2025-10-02 10:19:30 [scraper.py:172] 🔗 [HN #6] URL: https://support.google.com/mail/answer/16604719?hl=en
+INFO     2025-10-02 10:19:30 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-02 10:19:31 [scraper.py:171] 📥 [HN #7] Show HN: Autism Simulator
+INFO     2025-10-02 10:19:31 [scraper.py:172] 🔗 [HN #7] URL: https://autism-simulator.vercel.app/
+INFO     2025-10-02 10:19:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-02 10:19:31 [scraper.py:171] 📥 [HN #8] Understanding Cultural Differences: The Michigan Fish Test (2013)
+INFO     2025-10-02 10:19:31 [scraper.py:172] 🔗 [HN #8] URL: http://michael-roberto.blogspot.com/2013/07/understanding-cultural-differences.html
+INFO     2025-10-02 10:19:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-02 10:19:31 [scraper.py:171] 📥 [HN #9] Building the heap: racking 30 petabytes of hard drives for pretraining
+INFO     2025-10-02 10:19:31 [scraper.py:172] 🔗 [HN #9] URL: https://si.inc/posts/the-heap/
+INFO     2025-10-02 10:19:31 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-02 10:19:31 [scraper.py:171] 📥 [HN #10] Keyhive – Local-first access control
+INFO     2025-10-02 10:19:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.inkandswitch.com/keyhive/notebook/
+INFO     2025-10-02 10:19:31 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-02 10:19:31 [scraper.py:179] 🎉 [HN] All done.
+
