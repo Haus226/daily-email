@@ -6664,3 +6664,36 @@ INFO     2025-10-03 05:21:55 [scraper.py:172] 🔗 [HN #10] URL: https://entropi
 INFO     2025-10-03 05:21:55 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-03 05:21:55 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-03 10:19:41 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-03 10:19:41 [scraper.py:171] 📥 [HN #1] Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it
+INFO     2025-10-03 10:19:41 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/triton-lang/triton/pull/7298
+INFO     2025-10-03 10:19:41 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-03 10:19:42 [scraper.py:171] 📥 [HN #2] In Praise of RSS and Controlled Feeds of Information
+INFO     2025-10-03 10:19:42 [scraper.py:172] 🔗 [HN #2] URL: https://blog.burkert.me/posts/in_praise_of_syndication/
+INFO     2025-10-03 10:19:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-03 10:19:42 [scraper.py:171] 📥 [HN #3] FyneDesk: A full desktop environment for Linux written in Go
+INFO     2025-10-03 10:19:42 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/FyshOS/fynedesk
+INFO     2025-10-03 10:19:42 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-03 10:19:42 [scraper.py:171] 📥 [HN #4] How England misplaced its first king
+INFO     2025-10-03 10:19:42 [scraper.py:172] 🔗 [HN #4] URL: https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king
+INFO     2025-10-03 10:19:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-03 10:19:42 [scraper.py:171] 📥 [HN #5] I spent the day teaching seniors how to use an iPhone
+INFO     2025-10-03 10:19:42 [scraper.py:172] 🔗 [HN #5] URL: https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/
+INFO     2025-10-03 10:19:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-03 10:19:42 [scraper.py:171] 📥 [HN #6] Signal Protocol and Post-Quantum Ratchets
+INFO     2025-10-03 10:19:42 [scraper.py:172] 🔗 [HN #6] URL: https://signal.org/blog/spqr/
+INFO     2025-10-03 10:19:42 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-03 10:19:43 [scraper.py:171] 📥 [HN #7] The strangest letter of the alphabet: The rise and fall of yogh
+INFO     2025-10-03 10:19:43 [scraper.py:172] 🔗 [HN #7] URL: https://www.deadlanguagesociety.com/p/history-of-letter-yogh
+INFO     2025-10-03 10:19:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-03 10:19:43 [scraper.py:171] 📥 [HN #8] The Beer Can
+INFO     2025-10-03 10:19:43 [scraper.py:172] 🔗 [HN #8] URL: https://brr.fyi/posts/beer-can
+INFO     2025-10-03 10:19:43 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-03 10:19:43 [scraper.py:171] 📥 [HN #9] Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone
+INFO     2025-10-03 10:19:43 [scraper.py:172] 🔗 [HN #9] URL: https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html
+INFO     2025-10-03 10:19:43 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-03 10:19:43 [scraper.py:171] 📥 [HN #10] You Want Technology with Warts
+INFO     2025-10-03 10:19:43 [scraper.py:172] 🔗 [HN #10] URL: https://entropicthoughts.com/you-want-technology-with-warts
+INFO     2025-10-03 10:19:43 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-03 10:19:43 [scraper.py:179] 🎉 [HN] All done.
+
