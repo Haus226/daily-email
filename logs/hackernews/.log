@@ -6598,3 +6598,36 @@ INFO     2025-10-02 10:19:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.ink
 INFO     2025-10-02 10:19:31 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-02 10:19:31 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-03 01:52:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #1] Signal Protocol and Post-Quantum Ratchets
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #1] URL: https://signal.org/blog/spqr/
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #2] The strangest letter of the alphabet: The rise and fall of yogh
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #2] URL: https://www.deadlanguagesociety.com/p/history-of-letter-yogh
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #3] Babel is why I keep blogging with Emacs
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #3] URL: https://entropicthoughts.com/why-stick-to-emacs-blog
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #4] Researchers develop molecular qubits that communicate at telecom frequencies
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #4] URL: https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #5] Playball – Watch MLB games from a terminal
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/paaatrick/playball
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-03 01:52:52 [scraper.py:171] 📥 [HN #6] We bought the whole GPU, so we're damn well going to use the whole GPU
+INFO     2025-10-03 01:52:52 [scraper.py:172] 🔗 [HN #6] URL: https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main
+INFO     2025-10-03 01:52:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-03 01:52:53 [scraper.py:171] 📥 [HN #7] The history of cataract surgery
+INFO     2025-10-03 01:52:53 [scraper.py:172] 🔗 [HN #7] URL: https://www.asimov.press/p/cataracts
+INFO     2025-10-03 01:52:53 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-03 01:52:53 [scraper.py:171] 📥 [HN #8] OpenAI's H1 2025: $4.3B in income, $13.5B in loss
+INFO     2025-10-03 01:52:53 [scraper.py:172] 🔗 [HN #8] URL: https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025
+INFO     2025-10-03 01:52:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-03 01:52:53 [scraper.py:171] 📥 [HN #9] Apple takes down ICE tracking apps after pressure from DOJ
+INFO     2025-10-03 01:52:53 [scraper.py:172] 🔗 [HN #9] URL: https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi
+INFO     2025-10-03 01:52:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-03 01:52:53 [scraper.py:171] 📥 [HN #10] Pre-Record Your Demos
+INFO     2025-10-03 01:52:53 [scraper.py:172] 🔗 [HN #10] URL: https://www.steveharrison.dev/pre-record-your-demos/
+INFO     2025-10-03 01:52:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-03 01:52:53 [scraper.py:179] 🎉 [HN] All done.
+
