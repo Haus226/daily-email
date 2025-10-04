@@ -6697,3 +6697,36 @@ INFO     2025-10-03 10:19:43 [scraper.py:172] 🔗 [HN #10] URL: https://entropi
 INFO     2025-10-03 10:19:43 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-03 10:19:43 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-04 01:48:26 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-04 01:48:26 [scraper.py:171] 📥 [HN #1] Offline card payments should be possible no later than 1 July 2026
+INFO     2025-10-04 01:48:26 [scraper.py:172] 🔗 [HN #1] URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/
+INFO     2025-10-04 01:48:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-04 01:48:26 [scraper.py:171] 📥 [HN #2] Zig builds are getting faster
+INFO     2025-10-04 01:48:26 [scraper.py:172] 🔗 [HN #2] URL: https://mitchellh.com/writing/zig-builds-getting-faster
+INFO     2025-10-04 01:48:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-04 01:48:27 [scraper.py:171] 📥 [HN #3] Where it's at://
+INFO     2025-10-04 01:48:27 [scraper.py:172] 🔗 [HN #3] URL: https://overreacted.io/where-its-at/
+INFO     2025-10-04 01:48:27 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-04 01:48:27 [scraper.py:171] 📥 [HN #4] Fluid Glass
+INFO     2025-10-04 01:48:27 [scraper.py:172] 🔗 [HN #4] URL: https://chiuhans111.github.io/fluidglass/
+INFO     2025-10-04 01:48:27 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-04 01:48:27 [scraper.py:171] 📥 [HN #5] Discrete Fourier Transform
+INFO     2025-10-04 01:48:27 [scraper.py:172] 🔗 [HN #5] URL: https://nima101.github.io/dft
+INFO     2025-10-04 01:48:27 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-04 01:48:27 [scraper.py:171] 📥 [HN #6] Interstellar Object 3I/Atlas Passed Mars Last Night
+INFO     2025-10-04 01:48:27 [scraper.py:172] 🔗 [HN #6] URL: https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/
+INFO     2025-10-04 01:48:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-04 01:48:27 [scraper.py:171] 📥 [HN #7] AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip
+INFO     2025-10-04 01:48:27 [scraper.py:172] 🔗 [HN #7] URL: https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core
+INFO     2025-10-04 01:48:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-04 01:48:28 [scraper.py:171] 📥 [HN #8] PEP 810 – Explicit lazy imports
+INFO     2025-10-04 01:48:28 [scraper.py:172] 🔗 [HN #8] URL: https://pep-previews--4622.org.readthedocs.build/pep-0810/
+INFO     2025-10-04 01:48:28 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-04 01:48:28 [scraper.py:171] 📥 [HN #9] LoRA Without Regret
+INFO     2025-10-04 01:48:28 [scraper.py:172] 🔗 [HN #9] URL: https://thinkingmachines.ai/blog/lora/
+INFO     2025-10-04 01:48:28 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-04 01:48:28 [scraper.py:171] 📥 [HN #10] Sora Update #1
+INFO     2025-10-04 01:48:28 [scraper.py:172] 🔗 [HN #10] URL: https://blog.samaltman.com/sora-update-number-1
+INFO     2025-10-04 01:48:28 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-04 01:48:28 [scraper.py:179] 🎉 [HN] All done.
+
