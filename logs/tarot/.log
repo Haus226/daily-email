@@ -998,3 +998,8 @@ INFO     2025-10-04 10:17:50 [scraper.py:391] 📥 [TAROT] Card: The Magician
 INFO     2025-10-04 10:17:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-04 10:17:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-05 02:03:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-05 02:03:57 [scraper.py:391] 📥 [TAROT] Card: Page of Cups
+INFO     2025-10-05 02:04:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-05 02:04:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

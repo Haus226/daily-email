@@ -6796,3 +6796,36 @@ INFO     2025-10-04 10:17:52 [scraper.py:172] 🔗 [HN #10] URL: https://en.wiki
 INFO     2025-10-04 10:17:52 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-04 10:17:52 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-05 02:03:57 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-05 02:03:57 [scraper.py:171] 📥 [HN #1] ProofOfThought: LLM-based reasoning using Z3 theorem proving
+INFO     2025-10-05 02:03:57 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/DebarghaG/proofofthought
+INFO     2025-10-05 02:03:57 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-05 02:03:57 [scraper.py:171] 📥 [HN #2] Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4
+INFO     2025-10-05 02:03:57 [scraper.py:172] 🔗 [HN #2] URL: https://arxiv.org/abs/2509.12351
+INFO     2025-10-05 02:03:57 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-05 02:03:57 [scraper.py:171] 📥 [HN #3] A comparison of Ada and Rust, using solutions to the Advent of Code
+INFO     2025-10-05 02:03:57 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md
+INFO     2025-10-05 02:03:57 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-05 02:03:57 [scraper.py:171] 📥 [HN #4] Newton: physics simulation engine built upon NVIDIA Warp
+INFO     2025-10-05 02:03:57 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/newton-physics/newton
+INFO     2025-10-05 02:03:57 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #5] Blog Feeds
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #5] URL: https://blogfeeds.net
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #6] XiangShan Vector Floating-Point Unit Design
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #6] URL: https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #7] Matrix Core Programming on AMD GPUs
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #7] URL: https://salykova.github.io/matrix-cores-cdna
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #8] Microsoft 365 Copilot is a commercial failure
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #8] URL: https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #9] How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #9] URL: https://arxiv.org/abs/2509.19371
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:171] 📥 [HN #10] Show HN: Run – a CLI universal code runner I built while learning Rust
+INFO     2025-10-05 02:03:58 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/Esubaalew/run
+INFO     2025-10-05 02:03:58 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-05 02:03:58 [scraper.py:179] 🎉 [HN] All done.
+
