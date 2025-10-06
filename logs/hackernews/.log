@@ -6928,3 +6928,36 @@ INFO     2025-10-06 01:56:16 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-10-06 01:56:16 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-06 01:56:16 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-06 05:22:49 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-06 05:22:49 [scraper.py:171] 📥 [HN #1] Fire destroys S. Korean government's cloud storage system, no backups available
+INFO     2025-10-06 05:22:49 [scraper.py:172] 🔗 [HN #1] URL: https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936
+INFO     2025-10-06 05:22:49 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #2] Why do LLMs freak out over the seahorse emoji?
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #2] URL: https://vgel.me/posts/seahorse/
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #3] Magic Wormhole: Get things from one computer to another, safely
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #3] URL: https://magic-wormhole.readthedocs.io/en/latest/welcome.html
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #4] Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #4] URL: https://www.srb2.org/
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #5] Celebrating 1 Trillion Web Pages Archived
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #5] URL: https://blog.archive.org/trillion/
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #6] What GPT-OSS leaks about OpenAI's training data
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #6] URL: https://fi-le.net/oss/
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #7] Find Nearby Automated License Plate Readers (ALPR)
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #7] URL: https://deflock.me/
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-06 05:22:50 [scraper.py:171] 📥 [HN #8] The G in GPU is for Graphics damnit
+INFO     2025-10-06 05:22:50 [scraper.py:172] 🔗 [HN #8] URL: https://ut21.github.io/blog/triton.html
+INFO     2025-10-06 05:22:50 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-06 05:22:51 [scraper.py:171] 📥 [HN #9] Rule-Based Expert Systems: The Mycin Experiments (1984)
+INFO     2025-10-06 05:22:51 [scraper.py:172] 🔗 [HN #9] URL: https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm
+INFO     2025-10-06 05:22:51 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-06 05:22:51 [scraper.py:171] 📥 [HN #10] Ken Parker, famed luthier, has died
+INFO     2025-10-06 05:22:51 [scraper.py:172] 🔗 [HN #10] URL: https://kenparkerarchtops.com
+INFO     2025-10-06 05:22:51 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-06 05:22:51 [scraper.py:179] 🎉 [HN] All done.
+
