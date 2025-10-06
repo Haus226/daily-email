@@ -1023,3 +1023,8 @@ INFO     2025-10-06 05:22:49 [scraper.py:391] 📥 [TAROT] Card: Knight of Sword
 INFO     2025-10-06 05:22:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-06 05:22:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-06 10:21:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-06 10:21:44 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-10-06 10:21:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-06 10:21:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

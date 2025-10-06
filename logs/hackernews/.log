@@ -6961,3 +6961,36 @@ INFO     2025-10-06 05:22:51 [scraper.py:172] 🔗 [HN #10] URL: https://kenpark
 INFO     2025-10-06 05:22:51 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-06 05:22:51 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-06 10:21:44 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-06 10:21:44 [scraper.py:171] 📥 [HN #1] Structured Procrastination
+INFO     2025-10-06 10:21:44 [scraper.py:172] 🔗 [HN #1] URL: https://structuredprocrastination.com
+INFO     2025-10-06 10:21:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-06 10:21:45 [scraper.py:171] 📥 [HN #2] Fire destroys S. Korean government's cloud storage system, no backups available
+INFO     2025-10-06 10:21:45 [scraper.py:172] 🔗 [HN #2] URL: https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936
+INFO     2025-10-06 10:21:45 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-06 10:21:45 [scraper.py:171] 📥 [HN #3] Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers
+INFO     2025-10-06 10:21:45 [scraper.py:172] 🔗 [HN #3] URL: https://www.nobelprize.org/prizes/medicine/2025/press-release/
+INFO     2025-10-06 10:21:45 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-06 10:21:45 [scraper.py:171] 📥 [HN #4] Battering RAM – Low-Cost Interposer Attacks on Confidential Computing
+INFO     2025-10-06 10:21:45 [scraper.py:172] 🔗 [HN #4] URL: https://batteringram.eu/
+INFO     2025-10-06 10:21:45 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-06 10:21:45 [scraper.py:171] 📥 [HN #5] Flightcontrol: AWS PaaS
+INFO     2025-10-06 10:21:45 [scraper.py:172] 🔗 [HN #5] URL: https://www.flightcontrol.dev/
+INFO     2025-10-06 10:21:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-06 10:21:45 [scraper.py:171] 📥 [HN #6] Why do LLMs freak out over the seahorse emoji?
+INFO     2025-10-06 10:21:45 [scraper.py:172] 🔗 [HN #6] URL: https://vgel.me/posts/seahorse/
+INFO     2025-10-06 10:21:45 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-06 10:21:46 [scraper.py:171] 📥 [HN #7] Find Nearby Automated License Plate Readers (ALPR)
+INFO     2025-10-06 10:21:46 [scraper.py:172] 🔗 [HN #7] URL: https://deflock.me/
+INFO     2025-10-06 10:21:46 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-06 10:21:46 [scraper.py:171] 📥 [HN #8] Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame
+INFO     2025-10-06 10:21:46 [scraper.py:172] 🔗 [HN #8] URL: https://www.srb2.org/
+INFO     2025-10-06 10:21:46 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-06 10:21:46 [scraper.py:171] 📥 [HN #9] Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer
+INFO     2025-10-06 10:21:46 [scraper.py:172] 🔗 [HN #9] URL: https://demodesk.com/careers
+INFO     2025-10-06 10:21:46 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-06 10:21:46 [scraper.py:171] 📥 [HN #10] Magic Wormhole: Get things from one computer to another, safely
+INFO     2025-10-06 10:21:46 [scraper.py:172] 🔗 [HN #10] URL: https://magic-wormhole.readthedocs.io/en/latest/welcome.html
+INFO     2025-10-06 10:21:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-06 10:21:46 [scraper.py:179] 🎉 [HN] All done.
+
