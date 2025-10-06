@@ -1013,3 +1013,8 @@ INFO     2025-10-05 10:18:06 [scraper.py:391] 📥 [TAROT] Card: Page of Cups
 INFO     2025-10-05 10:18:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-05 10:18:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-06 01:56:15 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-06 01:56:15 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-10-06 01:56:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-06 01:56:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
