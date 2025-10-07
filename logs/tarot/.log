@@ -1038,3 +1038,8 @@ INFO     2025-10-07 05:22:15 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacl
 INFO     2025-10-07 05:22:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-07 05:22:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-07 10:20:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-07 10:20:09 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-07 10:20:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-07 10:20:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

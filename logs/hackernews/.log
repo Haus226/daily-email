@@ -7060,3 +7060,36 @@ INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #10] URL: https://healeyc
 INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-07 05:22:16 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-07 10:20:09 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-07 10:20:09 [scraper.py:171] 📥 [HN #1] Nobel Prize in Physics Awarded to John Clarke, Michel Devoret and John Martinis
+INFO     2025-10-07 10:20:09 [scraper.py:172] 🔗 [HN #1] URL: https://www.nobelprize.org/prizes/physics/2025/popular-information/
+INFO     2025-10-07 10:20:09 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-07 10:20:09 [scraper.py:171] 📥 [HN #2] The least amount of CSS for a decent looking site (2023)
+INFO     2025-10-07 10:20:09 [scraper.py:172] 🔗 [HN #2] URL: https://thecascade.dev/article/least-amount-of-css/
+INFO     2025-10-07 10:20:09 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-07 10:20:09 [scraper.py:171] 📥 [HN #3] Learning a foreign language–before you're born
+INFO     2025-10-07 10:20:09 [scraper.py:172] 🔗 [HN #3] URL: https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born
+INFO     2025-10-07 10:20:09 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-07 10:20:09 [scraper.py:171] 📥 [HN #4] Why did Crunchyroll's subtitles just get worse?
+INFO     2025-10-07 10:20:09 [scraper.py:172] 🔗 [HN #4] URL: https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
+INFO     2025-10-07 10:20:09 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-07 10:20:10 [scraper.py:171] 📥 [HN #5] Apps SDK
+INFO     2025-10-07 10:20:10 [scraper.py:172] 🔗 [HN #5] URL: https://developers.openai.com/apps-sdk/
+INFO     2025-10-07 10:20:10 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-07 10:20:10 [scraper.py:171] 📥 [HN #6] Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
+INFO     2025-10-07 10:20:10 [scraper.py:172] 🔗 [HN #6] URL: https://windscribe.com/blog/the-vpn-relationship-map/
+INFO     2025-10-07 10:20:10 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-07 10:20:10 [scraper.py:171] 📥 [HN #7] Pdoc – Generate API documentation for Python projects
+INFO     2025-10-07 10:20:10 [scraper.py:172] 🔗 [HN #7] URL: https://pdoc.dev/
+INFO     2025-10-07 10:20:10 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-07 10:20:10 [scraper.py:171] 📥 [HN #8] Deloitte to refund the Australian government after using AI in $440k report
+INFO     2025-10-07 10:20:10 [scraper.py:172] 🔗 [HN #8] URL: https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report
+INFO     2025-10-07 10:20:10 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-07 10:20:10 [scraper.py:171] 📥 [HN #9] Removing these 50 objects from orbit would cut danger from space junk in half
+INFO     2025-10-07 10:20:10 [scraper.py:172] 🔗 [HN #9] URL: https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/
+INFO     2025-10-07 10:20:10 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-07 10:20:11 [scraper.py:171] 📥 [HN #10] Kirigami-inspired parachute falls on target
+INFO     2025-10-07 10:20:11 [scraper.py:172] 🔗 [HN #10] URL: https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
+INFO     2025-10-07 10:20:11 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-07 10:20:11 [scraper.py:179] 🎉 [HN] All done.
+
