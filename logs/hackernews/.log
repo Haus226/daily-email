@@ -7027,3 +7027,36 @@ INFO     2025-10-07 01:54:09 [scraper.py:172] 🔗 [HN #10] URL: https://twitter
 INFO     2025-10-07 01:54:09 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-07 01:54:09 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-07 05:22:15 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-07 05:22:15 [scraper.py:171] 📥 [HN #1] The least amount of CSS for a decent looking site (2023)
+INFO     2025-10-07 05:22:15 [scraper.py:172] 🔗 [HN #1] URL: https://thecascade.dev/article/least-amount-of-css/
+INFO     2025-10-07 05:22:15 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-07 05:22:15 [scraper.py:171] 📥 [HN #2] Pdoc – Generate API documentation for Python projects
+INFO     2025-10-07 05:22:15 [scraper.py:172] 🔗 [HN #2] URL: https://pdoc.dev/
+INFO     2025-10-07 05:22:15 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #3] Apps SDK
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #3] URL: https://developers.openai.com/apps-sdk/
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #4] Why did Crunchyroll's subtitles just get worse?
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #4] URL: https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #5] Using Deno as my game engine
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #5] URL: https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #6] Kirigami-inspired parachute falls on target
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #6] URL: https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #7] Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #7] URL: https://windscribe.com/blog/the-vpn-relationship-map/
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #8] What makes 5% of AI agents work in production?
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #8] URL: https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #9] OpenZL: An open source format-aware compression framework
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #9] URL: https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:171] 📥 [HN #10] Compiling a Forth
+INFO     2025-10-07 05:22:16 [scraper.py:172] 🔗 [HN #10] URL: https://healeycodes.com/compiling-a-forth
+INFO     2025-10-07 05:22:16 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-07 05:22:16 [scraper.py:179] 🎉 [HN] All done.
+
