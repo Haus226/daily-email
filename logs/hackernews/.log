@@ -7126,3 +7126,36 @@ INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #10] URL: https://alexiaj
 INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-08 01:53:41 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-08 05:22:43 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #1] Gemini 2.5 Computer Use model
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #1] URL: https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #2] Qualcomm to acquire Arduino
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #2] URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #3] TiVo exiting legacy DVR business
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #3] URL: https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #4] A terminal command that tells you if your USB-C cable is bad
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #4] URL: https://kau.sh/blog/usbi/
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #5] Seeing like a software company
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #5] URL: https://www.seangoedecke.com/seeing-like-a-software-company/
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-08 05:22:44 [scraper.py:171] 📥 [HN #6] The paradoxical efficient market hypothesis (2024)
+INFO     2025-10-08 05:22:44 [scraper.py:172] 🔗 [HN #6] URL: https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html
+INFO     2025-10-08 05:22:44 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-08 05:22:45 [scraper.py:171] 📥 [HN #7] Study of 1M-year-old skull points to earlier origins of modern humans
+INFO     2025-10-08 05:22:45 [scraper.py:172] 🔗 [HN #7] URL: https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans
+INFO     2025-10-08 05:22:45 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-08 05:22:45 [scraper.py:171] 📥 [HN #8] Vibe engineering
+INFO     2025-10-08 05:22:45 [scraper.py:172] 🔗 [HN #8] URL: https://simonwillison.net/2025/Oct/7/vibe-engineering/
+INFO     2025-10-08 05:22:45 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-08 05:22:45 [scraper.py:171] 📥 [HN #9] Global Village Construction Set
+INFO     2025-10-08 05:22:45 [scraper.py:172] 🔗 [HN #9] URL: https://www.opensourceecology.org/gvcs/
+INFO     2025-10-08 05:22:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-08 05:22:45 [scraper.py:171] 📥 [HN #10] IKEA Catalogs 1951-2021
+INFO     2025-10-08 05:22:45 [scraper.py:172] 🔗 [HN #10] URL: https://ikeamuseum.com/en/explore/ikea-catalogue/
+INFO     2025-10-08 05:22:45 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-08 05:22:45 [scraper.py:179] 🎉 [HN] All done.
+
