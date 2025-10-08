@@ -7159,3 +7159,36 @@ INFO     2025-10-08 05:22:45 [scraper.py:172] 🔗 [HN #10] URL: https://ikeamus
 INFO     2025-10-08 05:22:45 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-08 05:22:45 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-08 10:20:17 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-08 10:20:18 [scraper.py:171] 📥 [HN #1] Synology reverses policy banning third-party HDDs after sales allegedly plummet
+INFO     2025-10-08 10:20:18 [scraper.py:172] 🔗 [HN #1] URL: https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/
+INFO     2025-10-08 10:20:18 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-08 10:20:18 [scraper.py:171] 📥 [HN #2] Nobel Prize in Chemistry 2025
+INFO     2025-10-08 10:20:18 [scraper.py:172] 🔗 [HN #2] URL: https://www.nobelprize.org/prizes/chemistry/2025/popular-information/
+INFO     2025-10-08 10:20:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-08 10:20:18 [scraper.py:171] 📥 [HN #3] Working pipe operator today in pure JavaScript
+INFO     2025-10-08 10:20:18 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/irony/aspipes
+INFO     2025-10-08 10:20:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-08 10:20:19 [scraper.py:171] 📥 [HN #4] Qualcomm to acquire Arduino
+INFO     2025-10-08 10:20:19 [scraper.py:172] 🔗 [HN #4] URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+INFO     2025-10-08 10:20:19 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-08 10:20:19 [scraper.py:171] 📥 [HN #5] Gemini 2.5 Computer Use model
+INFO     2025-10-08 10:20:19 [scraper.py:172] 🔗 [HN #5] URL: https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+INFO     2025-10-08 10:20:19 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-08 10:20:19 [scraper.py:171] 📥 [HN #6] Vibe engineering
+INFO     2025-10-08 10:20:19 [scraper.py:172] 🔗 [HN #6] URL: https://simonwillison.net/2025/Oct/7/vibe-engineering/
+INFO     2025-10-08 10:20:19 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-08 10:20:19 [scraper.py:171] 📥 [HN #7] Seeing like a software company
+INFO     2025-10-08 10:20:19 [scraper.py:172] 🔗 [HN #7] URL: https://www.seangoedecke.com/seeing-like-a-software-company/
+INFO     2025-10-08 10:20:19 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-08 10:20:19 [scraper.py:171] 📥 [HN #8] Mathematicians discover prime number pattern in fractal chaos
+INFO     2025-10-08 10:20:19 [scraper.py:172] 🔗 [HN #8] URL: https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/
+INFO     2025-10-08 10:20:19 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-08 10:20:20 [scraper.py:171] 📥 [HN #9] Show HN: Oh Yah – Routine management app I built for my sons
+INFO     2025-10-08 10:20:20 [scraper.py:172] 🔗 [HN #9] URL: https://ohyahapp.com
+INFO     2025-10-08 10:20:20 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-08 10:20:20 [scraper.py:171] 📥 [HN #10] IKEA Catalogs 1951-2021
+INFO     2025-10-08 10:20:20 [scraper.py:172] 🔗 [HN #10] URL: https://ikeamuseum.com/en/explore/ikea-catalogue/
+INFO     2025-10-08 10:20:20 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-08 10:20:20 [scraper.py:179] 🎉 [HN] All done.
+
