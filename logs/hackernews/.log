@@ -7093,3 +7093,36 @@ INFO     2025-10-07 10:20:11 [scraper.py:172] 🔗 [HN #10] URL: https://physics
 INFO     2025-10-07 10:20:11 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-07 10:20:11 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-08 01:53:39 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-08 01:53:39 [scraper.py:171] 📥 [HN #1] Gemini 2.5 Computer Use model
+INFO     2025-10-08 01:53:39 [scraper.py:172] 🔗 [HN #1] URL: https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+INFO     2025-10-08 01:53:39 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-08 01:53:39 [scraper.py:171] 📥 [HN #2] Qualcomm to acquire Arduino
+INFO     2025-10-08 01:53:40 [scraper.py:172] 🔗 [HN #2] URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+INFO     2025-10-08 01:53:40 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-08 01:53:40 [scraper.py:171] 📥 [HN #3] Seeing like a software company
+INFO     2025-10-08 01:53:40 [scraper.py:172] 🔗 [HN #3] URL: https://www.seangoedecke.com/seeing-like-a-software-company/
+INFO     2025-10-08 01:53:40 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-08 01:53:40 [scraper.py:171] 📥 [HN #4] Study of 1M-year-old skull points to earlier origins of modern humans
+INFO     2025-10-08 01:53:40 [scraper.py:172] 🔗 [HN #4] URL: https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans
+INFO     2025-10-08 01:53:40 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-08 01:53:40 [scraper.py:171] 📥 [HN #5] Global Village Construction Set
+INFO     2025-10-08 01:53:40 [scraper.py:172] 🔗 [HN #5] URL: https://www.opensourceecology.org/gvcs/
+INFO     2025-10-08 01:53:40 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:171] 📥 [HN #6] IKEA Catalogs 1951-2021
+INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #6] URL: https://ikeamuseum.com/en/explore/ikea-catalogue/
+INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:171] 📥 [HN #7] An illustrated introduction to linear algebra
+INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #7] URL: https://www.ducktyped.org/p/an-illustrated-introduction-to-linear
+INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:171] 📥 [HN #8] Show HN: I'm building a browser for reverse engineers
+INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #8] URL: https://nullpt.rs/reverse-engineering-browser
+INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:171] 📥 [HN #9] Show HN: Timelinize – Privately organize your own data from everywhere, locally
+INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #9] URL: https://timelinize.com
+INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:171] 📥 [HN #10] Less is more: Recursive reasoning with tiny networks
+INFO     2025-10-08 01:53:41 [scraper.py:172] 🔗 [HN #10] URL: https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html
+INFO     2025-10-08 01:53:41 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-08 01:53:41 [scraper.py:179] 🎉 [HN] All done.
+
