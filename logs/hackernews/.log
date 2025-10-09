@@ -7192,3 +7192,36 @@ INFO     2025-10-08 10:20:20 [scraper.py:172] 🔗 [HN #10] URL: https://ikeamus
 INFO     2025-10-08 10:20:20 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-08 10:20:20 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-09 01:54:50 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-09 01:54:50 [scraper.py:171] 📥 [HN #1] We found a bug in Go's ARM64 compiler
+INFO     2025-10-09 01:54:50 [scraper.py:172] 🔗 [HN #1] URL: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
+INFO     2025-10-09 01:54:50 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-09 01:54:50 [scraper.py:171] 📥 [HN #2] WinBoat: Windows apps on Linux with seamless integration
+INFO     2025-10-09 01:54:50 [scraper.py:172] 🔗 [HN #2] URL: https://www.winboat.app/
+INFO     2025-10-09 01:54:50 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #3] OpenAI, Nvidia fuel $1T AI market with web of circular deals
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #3] URL: https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #4] PWA Browser Scorecards
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #4] URL: https://pwascore.com/
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #5] I played 1k hands of online poker and built a web app with Cursor AI
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #5] URL: https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #6] Show HN: HyprMCP – Analytics, logs and auth for MCP servers
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/hyprmcp/jetski
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #7] A few things to know before stealing my 914 (2022)
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #7] URL: https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #8] Kurt Got Got
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #8] URL: https://fly.io/blog/kurt-got-got/
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-09 01:54:51 [scraper.py:171] 📥 [HN #9] A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator
+INFO     2025-10-09 01:54:51 [scraper.py:172] 🔗 [HN #9] URL: https://larslofgren.com/codesmith-reddit-reputation-attack/
+INFO     2025-10-09 01:54:51 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-09 01:54:52 [scraper.py:171] 📥 [HN #10] Radio Garten
+INFO     2025-10-09 01:54:52 [scraper.py:172] 🔗 [HN #10] URL: https://radio.garden/
+INFO     2025-10-09 01:54:52 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-09 01:54:52 [scraper.py:179] 🎉 [HN] All done.
+
