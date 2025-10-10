@@ -1525,3 +1525,6 @@ INFO     2025-10-10 05:23:02 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-10-10 05:23:02 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-10-10 05:23:02 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-10-10 10:20:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+ERROR    2025-10-10 10:20:48 [scraper.py:157] ❌ [EO] Failed to fetch: HTTPSConnectionPool(host='earthobservatory.nasa.gov', port=443): Max retries exceeded with url: /topic/image-of-the-day (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd68c560340>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
