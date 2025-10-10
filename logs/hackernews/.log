@@ -7291,3 +7291,36 @@ INFO     2025-10-09 10:21:19 [scraper.py:172] 🔗 [HN #10] URL: https://cutiss.
 INFO     2025-10-09 10:21:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-09 10:21:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-10 01:55:28 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-10 01:55:28 [scraper.py:171] 📥 [HN #1] A small number of samples can poison LLMs of any size
+INFO     2025-10-10 01:55:28 [scraper.py:172] 🔗 [HN #1] URL: https://www.anthropic.com/research/small-samples-poison
+INFO     2025-10-10 01:55:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-10 01:55:28 [scraper.py:171] 📥 [HN #2] Python 3.14 is here. How fast is it?
+INFO     2025-10-10 01:55:28 [scraper.py:172] 🔗 [HN #2] URL: https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
+INFO     2025-10-10 01:55:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #3] Show HN: 100% open source, logical multi-master PostgreSQL replication
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/pgEdge/spock
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #4] How to write in Cuneiform, the oldest writing system in the world
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #4] URL: https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #5] A built-in 'off switch' to stop persistent pain
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #5] URL: https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #6] My first contribution to Linux
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #6] URL: https://vkoskiv.com/first-linux-patch/
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #7] Show HN: I've built a tiny hand-held keyboard
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/mafik/keyer
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-10 01:55:29 [scraper.py:171] 📥 [HN #8] Subway Builder: A realistic subway simulation game
+INFO     2025-10-10 01:55:29 [scraper.py:172] 🔗 [HN #8] URL: https://www.subwaybuilder.com/
+INFO     2025-10-10 01:55:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-10 01:55:30 [scraper.py:171] 📥 [HN #9] A beginner's guide to deploying LLMs with AMD on Windows using PyTorch
+INFO     2025-10-10 01:55:30 [scraper.py:172] 🔗 [HN #9] URL: https://gpuopen.com/learn/pytorch-windows-amd-llm-guide/
+INFO     2025-10-10 01:55:30 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-10 01:55:30 [scraper.py:171] 📥 [HN #10] LLMs are mortally terrified of exceptions
+INFO     2025-10-10 01:55:30 [scraper.py:172] 🔗 [HN #10] URL: https://twitter.com/karpathy/status/1976077806443569355
+INFO     2025-10-10 01:55:30 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-10 01:55:30 [scraper.py:179] 🎉 [HN] All done.
+
