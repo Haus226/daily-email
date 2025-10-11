@@ -1542,3 +1542,11 @@ INFO     2025-10-11 05:21:29 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-10-11 05:21:29 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-10-11 05:21:29 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-10-11 10:17:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-10-11 10:17:53 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-10-11 10:18:12 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-10-11 10:18:12 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: The Tarim Basin in western China features Mazartagh, a 145-kilometer-long ridge rising 200 meters above the desert, known as Hongbaishan due to its red-white appearance from space. Composed of iron-rich sandstones and mudstones on the north and gypsum-calcareous sandstone layers on the south, this ridge acts as a natural barrier trapping 62% of sand and reducing dune drift potential by 13%, resulting in accumulated barchan and star dunes north of the ridge while linear dunes dominate the south. The seasonal Hotan River, fed by Kunlun Mountain glacial melt, carries white and green nephrite jade sediments across the Takla Makan Desert, sustaining vegetation along its banks and historically supporting Silk Road jade collection.
+INFO     2025-10-11 10:18:12 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-10-11 10:18:12 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-10-11 10:18:12 [scraper.py:155] ✅ [EO] Successfully fetched.
+

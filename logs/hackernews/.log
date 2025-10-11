@@ -7456,3 +7456,36 @@ INFO     2025-10-11 05:21:18 [scraper.py:172] 🔗 [HN #10] URL: https://wickstr
 INFO     2025-10-11 05:21:18 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-11 05:21:18 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-11 10:17:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-11 10:17:51 [scraper.py:171] 📥 [HN #1] HTML's Best Kept Secret: The Output Tag
+INFO     2025-10-11 10:17:51 [scraper.py:172] 🔗 [HN #1] URL: https://denodell.com/blog/html-best-kept-secret-output-tag
+INFO     2025-10-11 10:17:51 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-11 10:17:51 [scraper.py:171] 📥 [HN #2] AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline
+INFO     2025-10-11 10:17:51 [scraper.py:172] 🔗 [HN #2] URL: https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/
+INFO     2025-10-11 10:17:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-11 10:17:52 [scraper.py:171] 📥 [HN #3] I built physical album cards with NFC tags to teach my son music discovery
+INFO     2025-10-11 10:17:52 [scraper.py:172] 🔗 [HN #3] URL: https://fulghum.io/album-cards
+INFO     2025-10-11 10:17:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-11 10:17:52 [scraper.py:171] 📥 [HN #4] AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025
+INFO     2025-10-11 10:17:52 [scraper.py:172] 🔗 [HN #4] URL: https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025
+INFO     2025-10-11 10:17:52 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-11 10:17:52 [scraper.py:171] 📥 [HN #5] (Re)Introducing the Pebble Appstore
+INFO     2025-10-11 10:17:52 [scraper.py:172] 🔗 [HN #5] URL: https://ericmigi.com/blog/re-introducing-the-pebble-appstore/
+INFO     2025-10-11 10:17:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-11 10:17:52 [scraper.py:171] 📥 [HN #6] How hard do you have to hit a chicken to cook it? (2020)
+INFO     2025-10-11 10:17:52 [scraper.py:172] 🔗 [HN #6] URL: https://james-simon.github.io/blog/chicken-cooking/
+INFO     2025-10-11 10:17:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-11 10:17:52 [scraper.py:171] 📥 [HN #7] Intelligent Search in Rails with Typesense
+INFO     2025-10-11 10:17:52 [scraper.py:172] 🔗 [HN #7] URL: https://avohq.io/blog/intelligent-search-in-rails-with-typesense
+INFO     2025-10-11 10:17:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-11 10:17:53 [scraper.py:171] 📥 [HN #8] Tangled, a Git collaboration platform built on atproto
+INFO     2025-10-11 10:17:53 [scraper.py:172] 🔗 [HN #8] URL: https://blog.tangled.org/intro
+INFO     2025-10-11 10:17:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-11 10:17:53 [scraper.py:171] 📥 [HN #9] Synthetic aperture radar autofocus and calibration
+INFO     2025-10-11 10:17:53 [scraper.py:172] 🔗 [HN #9] URL: https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html
+INFO     2025-10-11 10:17:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-11 10:17:53 [scraper.py:171] 📥 [HN #10] Does our “need for speed” make our wi-fi suck?
+INFO     2025-10-11 10:17:53 [scraper.py:172] 🔗 [HN #10] URL: https://orb.net/blog/does-speed-make-wifi-suck
+INFO     2025-10-11 10:17:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-11 10:17:53 [scraper.py:179] 🎉 [HN] All done.
+

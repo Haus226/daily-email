@@ -1098,3 +1098,8 @@ INFO     2025-10-11 05:21:17 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
 INFO     2025-10-11 05:21:18 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-11 05:21:18 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-11 10:17:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-11 10:17:51 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-10-11 10:17:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-11 10:17:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
