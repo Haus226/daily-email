@@ -1110,3 +1110,8 @@ INFO     2025-10-10 05:22:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
 INFO     2025-10-10 10:20:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2025-10-10 10:20:48 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd68c70a8c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 
+INFO     2025-10-11 01:50:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-11 01:50:32 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-11 01:50:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-11 01:50:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -1528,3 +1528,11 @@ INFO     2025-10-10 05:23:02 [scraper.py:155] ✅ [EO] Successfully fetched.
 INFO     2025-10-10 10:20:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
 ERROR    2025-10-10 10:20:48 [scraper.py:157] ❌ [EO] Failed to fetch: HTTPSConnectionPool(host='earthobservatory.nasa.gov', port=443): Max retries exceeded with url: /topic/image-of-the-day (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd68c560340>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 
+INFO     2025-10-11 01:50:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-10-11 01:50:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-10-11 01:50:56 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-10-11 01:50:56 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In China's Tarim Basin, the 145-kilometer-long Mazartagh ridge (Hongbaishan) forms a natural barrier rising 200 meters above the desert, with iron-rich sandstones and mudstones on its northern side deposited in arid conditions contrasting against southern gypsum and calcareous sandstone layers formed in shallow water. The ridge traps sand, blocking 62 percent of dune movement and reducing north-to-south drift potential by 13 percent, creating distinct dune fields north (barchan, transverse, star dunes) and south (linear dunes) of the structure. The perennial Hotan River, fed by Kunlun Mountain glacial melt, traverses the Takla Makan Desert carrying nephrite jade sediments that supported Silk Road trade, while vegetation persists along its channel despite harsh conditions. Human activity includes ancient jade collection from riverbanks and an eighth-century Tibetan fort overlooking the site.
+INFO     2025-10-11 01:50:56 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-10-11 01:50:56 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-10-11 01:50:56 [scraper.py:155] ✅ [EO] Successfully fetched.
+
