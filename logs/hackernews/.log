@@ -7522,3 +7522,36 @@ INFO     2025-10-12 01:59:11 [scraper.py:172] 🔗 [HN #10] URL: https://ounapuu
 INFO     2025-10-12 01:59:11 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-12 01:59:11 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-12 05:21:22 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-12 05:21:23 [scraper.py:171] 📥 [HN #1] Meta Superintelligence's surprising first paper
+INFO     2025-10-12 05:21:23 [scraper.py:172] 🔗 [HN #1] URL: https://paddedinputs.substack.com/p/meta-superintelligences-surprising
+INFO     2025-10-12 05:21:23 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-12 05:21:23 [scraper.py:171] 📥 [HN #2] Show HN: Rift – A tiling window manager for macOS
+INFO     2025-10-12 05:21:23 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/acsandmann/rift
+INFO     2025-10-12 05:21:23 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-12 05:21:23 [scraper.py:171] 📥 [HN #3] Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]
+INFO     2025-10-12 05:21:23 [scraper.py:172] 🔗 [HN #3] URL: https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf
+INFO     2025-10-12 05:21:23 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #4] Heroin addicts often seem normal
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #4] URL: https://justismills.substack.com/p/heroin-addicts-often-seem-normal
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #5] Is Odin just a more boring C?
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #5] URL: https://dayvster.com/blog/is-odin-just-a-more-boring-c/
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #6] Ask HN: Abandoned/dead projects you think died before their time and why?
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=45553132
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #7] Microsoft only lets you opt out of AI photo scanning 3x a year
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #7] URL: https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #8] LineageOS 23
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #8] URL: https://lineageos.org/Changelog-30/
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #9] China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #9] URL: https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:171] 📥 [HN #10] Google blocks Android hack that let Pixel users enable VoLTE anywhere
+INFO     2025-10-12 05:21:24 [scraper.py:172] 🔗 [HN #10] URL: https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/
+INFO     2025-10-12 05:21:24 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-12 05:21:24 [scraper.py:179] 🎉 [HN] All done.
+
