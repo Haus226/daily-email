@@ -7654,3 +7654,36 @@ INFO     2025-10-13 05:24:09 [scraper.py:172] 🔗 [HN #10] URL: https://www.thi
 INFO     2025-10-13 05:24:09 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-13 05:24:09 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-13 10:23:22 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-13 10:23:22 [scraper.py:171] 📥 [HN #1] Spotlight on pdfly, the Swiss Army knife for PDF files
+INFO     2025-10-13 10:23:22 [scraper.py:172] 🔗 [HN #1] URL: https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html
+INFO     2025-10-13 10:23:22 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-13 10:23:22 [scraper.py:171] 📥 [HN #2] LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives
+INFO     2025-10-13 10:23:22 [scraper.py:172] 🔗 [HN #2] URL: https://arxiv.org/abs/2510.03761
+INFO     2025-10-13 10:23:22 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-13 10:23:22 [scraper.py:171] 📥 [HN #3] Wireguard FPGA
+INFO     2025-10-13 10:23:22 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/chili-chips-ba/wireguard-fpga
+INFO     2025-10-13 10:23:22 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-13 10:23:22 [scraper.py:171] 📥 [HN #4] Tauri binding for Python through Pyo3
+INFO     2025-10-13 10:23:22 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/pytauri/pytauri
+INFO     2025-10-13 10:23:22 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #5] Putting a Dumb Weather Station on the Internet
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #5] URL: https://colincogle.name/blog/byo-weather-station/
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #6] German industrial output falls to 2005 levels as auto sector craters
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #6] URL: https://www.ft.com/content/745fff84-2cbf-491c-b70c-e39bc8edaa39
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #7] Ask HN: What are you working on? (October 2025)
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=45561428
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #8] MicroPythonOS – An Android-like OS for microcontrollers
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #8] URL: https://micropythonos.com
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #9] HTTP3 Explained
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #9] URL: https://http3-explained.haxx.se
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:171] 📥 [HN #10] Show HN: Baby's first international landline
+INFO     2025-10-13 10:23:23 [scraper.py:172] 🔗 [HN #10] URL: https://wip.tf/posts/telefonefix-building-babys-first-international-landline/
+INFO     2025-10-13 10:23:23 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-13 10:23:23 [scraper.py:179] 🎉 [HN] All done.
+
