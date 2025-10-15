@@ -7786,3 +7786,36 @@ INFO     2025-10-14 10:20:58 [scraper.py:172] 🔗 [HN #10] URL: https://retroha
 INFO     2025-10-14 10:20:58 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-14 10:20:58 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-15 01:58:45 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-15 01:58:46 [scraper.py:171] 📥 [HN #1] FSF announces Librephone project
+INFO     2025-10-15 01:58:46 [scraper.py:172] 🔗 [HN #1] URL: https://www.fsf.org/news/librephone-project
+INFO     2025-10-15 01:58:46 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-15 01:58:46 [scraper.py:171] 📥 [HN #2] Beliefs that are true for regular software but false when applied to AI
+INFO     2025-10-15 01:58:46 [scraper.py:172] 🔗 [HN #2] URL: https://boydkane.com/essays/boss
+INFO     2025-10-15 01:58:46 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-15 01:58:46 [scraper.py:171] 📥 [HN #3] How bad can a $2.97 ADC be?
+INFO     2025-10-15 01:58:46 [scraper.py:172] 🔗 [HN #3] URL: https://excamera.substack.com/p/how-bad-can-a-297-adc-be
+INFO     2025-10-15 01:58:46 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-15 01:58:46 [scraper.py:171] 📥 [HN #4] Hacking the Humane AI Pin
+INFO     2025-10-15 01:58:46 [scraper.py:172] 🔗 [HN #4] URL: https://writings.agg.im/posts/hacking_ai_pin/
+INFO     2025-10-15 01:58:46 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #5] How AI hears accents: An audible visualization of accent clusters
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #5] URL: https://accent-explorer.boldvoice.com/
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #6] Unpacking Cloudflare Workers CPU Performance Benchmarks
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #6] URL: https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #7] Surveillance data challenges what we thought we knew about location tracking
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #7] URL: https://www.lighthousereports.com/investigation/surveillance-secrets/
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #8] SmolBSD – build your own minimal BSD system
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #8] URL: https://smolbsd.org
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #9] What Americans die from vs. what the news reports on
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #9] URL: https://ourworldindata.org/does-the-news-reflect-what-we-die-from
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:171] 📥 [HN #10] How to turn liquid glass into a solid interface
+INFO     2025-10-15 01:58:47 [scraper.py:172] 🔗 [HN #10] URL: https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/
+INFO     2025-10-15 01:58:47 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-15 01:58:47 [scraper.py:179] 🎉 [HN] All done.
+
