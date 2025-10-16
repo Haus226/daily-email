@@ -7951,3 +7951,36 @@ INFO     2025-10-16 05:23:22 [scraper.py:172] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2025-10-16 05:23:22 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-16 05:23:22 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-16 10:22:24 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-16 10:22:24 [scraper.py:171] 📥 [HN #1] Liquibase continues to advertise itself as "open source" despite license switch
+INFO     2025-10-16 10:22:24 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/liquibase/liquibase/issues/7374
+INFO     2025-10-16 10:22:24 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-16 10:22:24 [scraper.py:171] 📥 [HN #2] Upcoming Rust language features for kernel development
+INFO     2025-10-16 10:22:24 [scraper.py:172] 🔗 [HN #2] URL: https://lwn.net/Articles/1039073/
+INFO     2025-10-16 10:22:24 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #3] New coding models and integrations
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #3] URL: https://ollama.com/blog/coding-models
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #4] Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #4] URL: https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #5] Claude Haiku 4.5
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #5] URL: https://www.anthropic.com/news/claude-haiku-4-5
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #6] JustSketchMe – Digital Posing Tool
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #6] URL: https://justsketch.me
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #7] Flies keep landing on North Sea oil rigs
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #7] URL: https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-16 10:22:25 [scraper.py:171] 📥 [HN #8] TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)
+INFO     2025-10-16 10:22:25 [scraper.py:172] 🔗 [HN #8] URL: https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free
+INFO     2025-10-16 10:22:25 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-16 10:22:26 [scraper.py:171] 📥 [HN #9] Zed is now available on Windows
+INFO     2025-10-16 10:22:26 [scraper.py:172] 🔗 [HN #9] URL: https://zed.dev/blog/zed-for-windows-is-here
+INFO     2025-10-16 10:22:26 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-16 10:22:26 [scraper.py:171] 📥 [HN #10] Silver Snoopy Award
+INFO     2025-10-16 10:22:26 [scraper.py:172] 🔗 [HN #10] URL: https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/
+INFO     2025-10-16 10:22:26 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-16 10:22:26 [scraper.py:179] 🎉 [HN] All done.
+
