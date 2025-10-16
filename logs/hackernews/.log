@@ -7885,3 +7885,36 @@ INFO     2025-10-15 10:22:19 [scraper.py:172] 🔗 [HN #10] URL: https://excamer
 INFO     2025-10-15 10:22:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-15 10:22:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-16 01:57:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-16 01:57:19 [scraper.py:171] 📥 [HN #1] Apple M5 chip
+INFO     2025-10-16 01:57:19 [scraper.py:172] 🔗 [HN #1] URL: https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+INFO     2025-10-16 01:57:19 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-16 01:57:19 [scraper.py:171] 📥 [HN #2] Claude Haiku 4.5
+INFO     2025-10-16 01:57:19 [scraper.py:172] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-haiku-4-5
+INFO     2025-10-16 01:57:19 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-16 01:57:19 [scraper.py:171] 📥 [HN #3] IRS open sources its fact graph
+INFO     2025-10-16 01:57:19 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/IRS-Public/fact-graph
+INFO     2025-10-16 01:57:19 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-16 01:57:19 [scraper.py:171] 📥 [HN #4] I'm recomming my customers switch to Linux rather that Upgrade to Windows 11
+INFO     2025-10-16 01:57:19 [scraper.py:172] 🔗 [HN #4] URL: https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/
+INFO     2025-10-16 01:57:19 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-16 01:57:19 [scraper.py:171] 📥 [HN #5] Next Steps for the Caddy Project Maintainership
+INFO     2025-10-16 01:57:19 [scraper.py:172] 🔗 [HN #5] URL: https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076
+INFO     2025-10-16 01:57:19 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:171] 📥 [HN #6] Writing an LLM from scratch, part 22 – training our LLM
+INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #6] URL: https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
+INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:171] 📥 [HN #7] ImapGoose
+INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #7] URL: https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/
+INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:171] 📥 [HN #8] Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)
+INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #8] URL: https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch
+INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:171] 📥 [HN #9] I almost got hacked by a 'job interview'
+INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #9] URL: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
+INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:171] 📥 [HN #10] Zed is now available on Windows
+INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #10] URL: https://zed.dev/blog/zed-for-windows-is-here
+INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-16 01:57:20 [scraper.py:179] 🎉 [HN] All done.
+
