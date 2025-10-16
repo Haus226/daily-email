@@ -7918,3 +7918,36 @@ INFO     2025-10-16 01:57:20 [scraper.py:172] 🔗 [HN #10] URL: https://zed.dev
 INFO     2025-10-16 01:57:20 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-16 01:57:20 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-16 05:23:20 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-16 05:23:20 [scraper.py:171] 📥 [HN #1] Apple M5 chip
+INFO     2025-10-16 05:23:20 [scraper.py:172] 🔗 [HN #1] URL: https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+INFO     2025-10-16 05:23:20 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-16 05:23:20 [scraper.py:171] 📥 [HN #2] Claude Haiku 4.5
+INFO     2025-10-16 05:23:20 [scraper.py:172] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-haiku-4-5
+INFO     2025-10-16 05:23:20 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-16 05:23:21 [scraper.py:171] 📥 [HN #3] Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]
+INFO     2025-10-16 05:23:21 [scraper.py:172] 🔗 [HN #3] URL: https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1
+INFO     2025-10-16 05:23:21 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-16 05:23:21 [scraper.py:171] 📥 [HN #4] Free applicatives, the handle pattern, and remote systems
+INFO     2025-10-16 05:23:21 [scraper.py:172] 🔗 [HN #4] URL: https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html
+INFO     2025-10-16 05:23:21 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-16 05:23:21 [scraper.py:171] 📥 [HN #5] Zed is now available on Windows
+INFO     2025-10-16 05:23:21 [scraper.py:172] 🔗 [HN #5] URL: https://zed.dev/blog/zed-for-windows-is-here
+INFO     2025-10-16 05:23:21 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-16 05:23:21 [scraper.py:171] 📥 [HN #6] IRS open sources its fact graph
+INFO     2025-10-16 05:23:21 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/IRS-Public/fact-graph
+INFO     2025-10-16 05:23:21 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-16 05:23:22 [scraper.py:171] 📥 [HN #7] Are hard drives getting better?
+INFO     2025-10-16 05:23:22 [scraper.py:172] 🔗 [HN #7] URL: https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/
+INFO     2025-10-16 05:23:22 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-16 05:23:22 [scraper.py:171] 📥 [HN #8] Writing an LLM from scratch, part 22 – training our LLM
+INFO     2025-10-16 05:23:22 [scraper.py:172] 🔗 [HN #8] URL: https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
+INFO     2025-10-16 05:23:22 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-16 05:23:22 [scraper.py:171] 📥 [HN #9] Retiring Windows 10 and Microsoft's move towards a surveillance state
+INFO     2025-10-16 05:23:22 [scraper.py:172] 🔗 [HN #9] URL: https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/
+INFO     2025-10-16 05:23:22 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-16 05:23:22 [scraper.py:171] 📥 [HN #10] TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task
+INFO     2025-10-16 05:23:22 [scraper.py:172] 🔗 [HN #10] URL: https://arxiv.org/abs/2507.16126
+INFO     2025-10-16 05:23:22 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-16 05:23:22 [scraper.py:179] 🎉 [HN] All done.
+
