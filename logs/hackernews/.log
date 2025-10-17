@@ -7984,3 +7984,36 @@ INFO     2025-10-16 10:22:26 [scraper.py:172] 🔗 [HN #10] URL: https://www.nas
 INFO     2025-10-16 10:22:26 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-16 10:22:26 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-17 01:56:04 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-17 01:56:04 [scraper.py:171] 📥 [HN #1] How I bypassed Amazon's Kindle web DRM
+INFO     2025-10-17 01:56:04 [scraper.py:172] 🔗 [HN #1] URL: https://blog.pixelmelt.dev/kindle-web-drm/
+INFO     2025-10-17 01:56:04 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-17 01:56:04 [scraper.py:171] 📥 [HN #2] America’s semiconductor boom
+INFO     2025-10-17 01:56:04 [scraper.py:172] 🔗 [HN #2] URL: https://www.youtube.com/watch?v=T-jt3qBzJ4A
+INFO     2025-10-17 01:56:04 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #3] Claude Skills
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #3] URL: https://www.anthropic.com/news/skills
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #4] Cloudflare Sandbox SDK
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #4] URL: https://sandbox.cloudflare.com/
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #5] Lead Limited Brain and Language Development in Neanderthals and Other Hominids?
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #5] URL: https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #6] Gemini 3.0 spotted in the wild through A/B testing
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #6] URL: https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #7] A 4k-Room Text Adventure Written by One Human in QBasic No AI
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #7] URL: https://the-ventureweaver.itch.io/tlote4111
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #8] Your data model is your destiny
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #8] URL: https://notes.mtb.xyz/p/your-data-model-is-your-destiny
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #9] DoorDash and Waymo launch autonomous delivery service in Phoenix
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #9] URL: https://about.doordash.com/en-us/news/waymo
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:171] 📥 [HN #10] Codex Is Live in Zed
+INFO     2025-10-17 01:56:05 [scraper.py:172] 🔗 [HN #10] URL: https://zed.dev/blog/codex-is-live-in-zed
+INFO     2025-10-17 01:56:05 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-17 01:56:05 [scraper.py:179] 🎉 [HN] All done.
+
