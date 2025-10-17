@@ -1188,3 +1188,8 @@ INFO     2025-10-17 05:22:59 [scraper.py:391] 📥 [TAROT] Card: King of Wands
 INFO     2025-10-17 05:23:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-17 05:23:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-17 10:21:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-17 10:21:06 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-17 10:21:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-17 10:21:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

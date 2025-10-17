@@ -8050,3 +8050,36 @@ INFO     2025-10-17 05:23:01 [scraper.py:172] 🔗 [HN #10] URL: https://about.d
 INFO     2025-10-17 05:23:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-17 05:23:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-17 10:21:06 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-17 10:21:06 [scraper.py:171] 📥 [HN #1] How I bypassed Amazon's Kindle web DRM
+INFO     2025-10-17 10:21:06 [scraper.py:172] 🔗 [HN #1] URL: https://blog.pixelmelt.dev/kindle-web-drm/
+INFO     2025-10-17 10:21:06 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-17 10:21:06 [scraper.py:171] 📥 [HN #2] Meow.camera
+INFO     2025-10-17 10:21:06 [scraper.py:172] 🔗 [HN #2] URL: https://meow.camera/
+INFO     2025-10-17 10:21:06 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-17 10:21:06 [scraper.py:171] 📥 [HN #3] Reworking Memory Management in CRuby
+INFO     2025-10-17 10:21:06 [scraper.py:172] 🔗 [HN #3] URL: https://railsatscale.com/2025-09-16-reworking-memory-management-in-cruby/
+INFO     2025-10-17 10:21:06 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #4] Claude Skills
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #4] URL: https://www.anthropic.com/news/skills
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #5] Create a Custom Interactive dashboard using SVG
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #5] URL: https://0xmm.in/posts/custom_dash/
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #6] Ring to partner with Flock, a network of cameras used by ICE, feds, and police
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #6] URL: https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #7] Next steps for BPF support in the GNU toolchain
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #7] URL: https://lwn.net/Articles/1039827/
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #8] Gemini 3.0 spotted in the wild through A/B testing
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #8] URL: https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #9] Cloudflare Sandbox SDK
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #9] URL: https://sandbox.cloudflare.com/
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:171] 📥 [HN #10] Your data model is your destiny
+INFO     2025-10-17 10:21:07 [scraper.py:172] 🔗 [HN #10] URL: https://notes.mtb.xyz/p/your-data-model-is-your-destiny
+INFO     2025-10-17 10:21:07 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-17 10:21:07 [scraper.py:179] 🎉 [HN] All done.
+
