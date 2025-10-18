@@ -8149,3 +8149,36 @@ INFO     2025-10-18 05:21:48 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-10-18 05:21:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-18 05:21:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-18 10:18:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-18 10:18:34 [scraper.py:171] 📥 [HN #1] StageConnect: Behringer protocol is open source
+INFO     2025-10-18 10:18:34 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/OpenMixerProject/StageConnect
+INFO     2025-10-18 10:18:34 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-18 10:18:34 [scraper.py:171] 📥 [HN #2] Andrej Karpathy – It will take a decade to work through the issues with agents
+INFO     2025-10-18 10:18:34 [scraper.py:172] 🔗 [HN #2] URL: https://www.dwarkesh.com/p/andrej-karpathy
+INFO     2025-10-18 10:18:34 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #3] New Work by Gary Larson
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #3] URL: https://www.thefarside.com/new-stuff
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #4] AMD's Chiplet APU: An Overview of Strix Halo
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #4] URL: https://chipsandcheese.com/p/amds-chiplet-apu-an-overview-of-strix
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #5] Ruby Blocks
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #5] URL: https://tech.stonecharioteer.com/posts/2025/ruby-blocks/
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #6] The Unix Executable as a Smalltalk Method [pdf]
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #6] URL: https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #7] The pivot
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #7] URL: https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #8] The early Unix history of chown() being restricted to root
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #8] URL: https://utcc.utoronto.ca/~cks/space/blog/unix/ChownRestrictionEarlyHistory
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-18 10:18:35 [scraper.py:171] 📥 [HN #9] Live Stream from the Namib Desert
+INFO     2025-10-18 10:18:35 [scraper.py:172] 🔗 [HN #9] URL: https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html
+INFO     2025-10-18 10:18:35 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-18 10:18:36 [scraper.py:171] 📥 [HN #10] Exploring PostgreSQL 18's new UUIDv7 support
+INFO     2025-10-18 10:18:36 [scraper.py:172] 🔗 [HN #10] URL: https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+INFO     2025-10-18 10:18:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-18 10:18:36 [scraper.py:179] 🎉 [HN] All done.
+
