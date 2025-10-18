@@ -1678,3 +1678,11 @@ INFO     2025-10-18 01:51:37 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-10-18 01:51:37 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-10-18 01:51:37 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-10-18 05:21:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-10-18 05:21:49 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-10-18 05:22:14 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-10-18 05:22:14 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: In China's Tarim Basin, Mazartagh (Hongbaishan) is a 145-kilometer-long, 200-meter-high ridge exhibiting red-white coloration due to iron-rich sandstones and mudstones on its northern side deposited in arid environments, contrasting with gypsum and calcareous sandstone layers on the southern side formed in shallow water. The ridge acts as a natural sand barrier, blocking 62% of sand transport and reducing dune drift potential by 13%, resulting in accumulated sand seas with barchan, transverse, and star dunes to the north, while linear dunes dominate the south due to reduced sand supply; minor sand passage through ridge notches allows localized barchan formation. The seasonal Hotan River, fed by Kunlun Mountain glacial melt, sustains flow across the Takla Makan Desert, supporting riparian vegetation and historically transporting nephrite jade that contributed to Silk Road activity.
+INFO     2025-10-18 05:22:14 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-10-18 05:22:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-10-18 05:22:14 [scraper.py:155] ✅ [EO] Successfully fetched.
+
