@@ -8314,3 +8314,36 @@ INFO     2025-10-20 02:06:19 [scraper.py:172] 🔗 [HN #10] URL: https://www.fac
 INFO     2025-10-20 02:06:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-20 02:06:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-20 05:24:46 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-20 05:24:46 [scraper.py:171] 📥 [HN #1] Entire Linux Network stack diagram (2024)
+INFO     2025-10-20 05:24:46 [scraper.py:172] 🔗 [HN #1] URL: https://zenodo.org/records/14179366
+INFO     2025-10-20 05:24:46 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #2] Introduction to reverse-engineering vintage synth firmware
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #2] URL: https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #3] Novo Nordisk's Canadian Mistake
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #3] URL: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #4] Forth: The programming language that writes itself
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #4] URL: https://ratfactor.com/forth/the_programming_language_that_writes_itself.html
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #5] Doing well in your courses: Andrej's advice for success (2013)
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #5] URL: https://cs.stanford.edu/people/karpathy/advice.html
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #6] Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/Gillou68310/DukeNukemZeroHour
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-20 05:24:47 [scraper.py:171] 📥 [HN #7] QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files
+INFO     2025-10-20 05:24:47 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/wiesmann/QuickDrawViewer
+INFO     2025-10-20 05:24:47 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-20 05:24:48 [scraper.py:171] 📥 [HN #8] Gleam OTP – Fault Tolerant Multicore Programs with Actors
+INFO     2025-10-20 05:24:48 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/gleam-lang/otp
+INFO     2025-10-20 05:24:48 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-20 05:24:48 [scraper.py:171] 📥 [HN #9] Airliner hit by possible space debris
+INFO     2025-10-20 05:24:48 [scraper.py:172] 🔗 [HN #9] URL: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/
+INFO     2025-10-20 05:24:48 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-20 05:24:48 [scraper.py:171] 📥 [HN #10] Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument
+INFO     2025-10-20 05:24:48 [scraper.py:172] 🔗 [HN #10] URL: https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038
+INFO     2025-10-20 05:24:48 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-20 05:24:48 [scraper.py:179] 🎉 [HN] All done.
+
