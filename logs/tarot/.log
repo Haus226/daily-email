@@ -1223,3 +1223,8 @@ INFO     2025-10-19 10:18:26 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
 INFO     2025-10-19 10:18:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-19 10:18:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-20 02:06:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-20 02:06:17 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-10-20 02:06:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-20 02:06:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

@@ -8281,3 +8281,36 @@ INFO     2025-10-19 10:18:27 [scraper.py:172] 🔗 [HN #10] URL: https://devblog
 INFO     2025-10-19 10:18:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-19 10:18:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-20 02:06:17 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-20 02:06:17 [scraper.py:171] 📥 [HN #1] Novo Nordisk's Canadian Mistake
+INFO     2025-10-20 02:06:17 [scraper.py:172] 🔗 [HN #1] URL: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
+INFO     2025-10-20 02:06:17 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #2] Doing well in your courses: Andrej's advice for success (2013)
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #2] URL: https://cs.stanford.edu/people/karpathy/advice.html
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #3] QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/wiesmann/QuickDrawViewer
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #4] Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/Gillou68310/DukeNukemZeroHour
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #5] Airliner hit by possible space debris
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #5] URL: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #6] Dosbian: Boot to DOSBox on Raspberry Pi
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #6] URL: https://cmaiolino.wordpress.com/dosbian/
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-20 02:06:18 [scraper.py:171] 📥 [HN #7] Gleam OTP – Fault Tolerant Multicore Programs with Actors
+INFO     2025-10-20 02:06:18 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/gleam-lang/otp
+INFO     2025-10-20 02:06:18 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-20 02:06:19 [scraper.py:171] 📥 [HN #8] What's Behind the Mysterious Ancient Wall in the Gobi Desert?
+INFO     2025-10-20 02:06:19 [scraper.py:172] 🔗 [HN #8] URL: https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588
+INFO     2025-10-20 02:06:19 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-20 02:06:19 [scraper.py:171] 📥 [HN #9] Compare Single Board Computers
+INFO     2025-10-20 02:06:19 [scraper.py:172] 🔗 [HN #9] URL: https://sbc.compare/
+INFO     2025-10-20 02:06:19 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-20 02:06:19 [scraper.py:171] 📥 [HN #10] Deterministic multithreading is hard (2024)
+INFO     2025-10-20 02:06:19 [scraper.py:172] 🔗 [HN #10] URL: https://www.factorio.com/blog/post/fff-415
+INFO     2025-10-20 02:06:19 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-20 02:06:19 [scraper.py:179] 🎉 [HN] All done.
+
