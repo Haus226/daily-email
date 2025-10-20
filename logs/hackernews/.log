@@ -8347,3 +8347,36 @@ INFO     2025-10-20 05:24:48 [scraper.py:172] 🔗 [HN #10] URL: https://medium.
 INFO     2025-10-20 05:24:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-20 05:24:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-20 10:22:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-20 10:22:15 [scraper.py:171] 📥 [HN #1] DeepSeek OCR
+INFO     2025-10-20 10:22:15 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/deepseek-ai/DeepSeek-OCR
+INFO     2025-10-20 10:22:15 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-20 10:22:15 [scraper.py:171] 📥 [HN #2] Space Elevator
+INFO     2025-10-20 10:22:15 [scraper.py:172] 🔗 [HN #2] URL: https://neal.fun/space-elevator/
+INFO     2025-10-20 10:22:15 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-20 10:22:15 [scraper.py:171] 📥 [HN #3] Docker Systems Status: Full Service Disruption
+INFO     2025-10-20 10:22:15 [scraper.py:172] 🔗 [HN #3] URL: https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c
+INFO     2025-10-20 10:22:15 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-20 10:22:15 [scraper.py:171] 📥 [HN #4] Entire Linux Network stack diagram (2024)
+INFO     2025-10-20 10:22:15 [scraper.py:172] 🔗 [HN #4] URL: https://zenodo.org/records/14179366
+INFO     2025-10-20 10:22:15 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-20 10:22:15 [scraper.py:171] 📥 [HN #5] Major AWS Outage Happening
+INFO     2025-10-20 10:22:15 [scraper.py:172] 🔗 [HN #5] URL: https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/
+INFO     2025-10-20 10:22:15 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:171] 📥 [HN #6] Pointer Pointer
+INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #6] URL: https://pointerpointer.com
+INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:171] 📥 [HN #7] AWS Multiple Services Down in us-east-1
+INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #7] URL: https://health.aws.amazon.com/health/status?ts=20251020
+INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:171] 📥 [HN #8] Introduction to reverse-engineering vintage synth firmware
+INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #8] URL: https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html
+INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:171] 📥 [HN #9] Forth: The programming language that writes itself
+INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #9] URL: https://ratfactor.com/forth/the_programming_language_that_writes_itself.html
+INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:171] 📥 [HN #10] Novo Nordisk's Canadian Mistake
+INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #10] URL: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
+INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-20 10:22:16 [scraper.py:179] 🎉 [HN] All done.
+
