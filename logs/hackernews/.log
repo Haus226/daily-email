@@ -8413,3 +8413,36 @@ INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.tom
 INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-21 01:59:31 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-21 05:23:29 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-21 05:23:29 [scraper.py:171] 📥 [HN #1] 60k kids have avoided peanut allergies due to 2015 advice, study finds
+INFO     2025-10-21 05:23:29 [scraper.py:172] 🔗 [HN #1] URL: https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/
+INFO     2025-10-21 05:23:29 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-21 05:23:30 [scraper.py:171] 📥 [HN #2] AWS multiple services outage in us-east-1
+INFO     2025-10-21 05:23:30 [scraper.py:172] 🔗 [HN #2] URL: https://health.aws.amazon.com/health/status?ts=20251020
+INFO     2025-10-21 05:23:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-21 05:23:30 [scraper.py:171] 📥 [HN #3] Results from blood test for 50 cancers
+INFO     2025-10-21 05:23:30 [scraper.py:172] 🔗 [HN #3] URL: https://www.bbc.com/news/articles/c205g21n1zzo
+INFO     2025-10-21 05:23:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-21 05:23:30 [scraper.py:171] 📥 [HN #4] Intel and AMD standardise ChkTag to bring Memory Safety to x86
+INFO     2025-10-21 05:23:30 [scraper.py:172] 🔗 [HN #4] URL: https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490
+INFO     2025-10-21 05:23:30 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-21 05:23:30 [scraper.py:171] 📥 [HN #5] Building a message queue with only two UNIX signals
+INFO     2025-10-21 05:23:30 [scraper.py:172] 🔗 [HN #5] URL: https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
+INFO     2025-10-21 05:23:30 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-21 05:23:30 [scraper.py:171] 📥 [HN #6] Postman which I thought worked locally on my computer, is down
+INFO     2025-10-21 05:23:30 [scraper.py:172] 🔗 [HN #6] URL: https://status.postman.com
+INFO     2025-10-21 05:23:30 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-21 05:23:31 [scraper.py:171] 📥 [HN #7] A laser pointer at 2B FPS [video]
+INFO     2025-10-21 05:23:31 [scraper.py:172] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=o4TdHrMi6do
+INFO     2025-10-21 05:23:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-21 05:23:31 [scraper.py:171] 📥 [HN #8] Show HN: I'm making a detective game built on Wikipedia
+INFO     2025-10-21 05:23:31 [scraper.py:172] 🔗 [HN #8] URL: https://detective.wiki/
+INFO     2025-10-21 05:23:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-21 05:23:31 [scraper.py:171] 📥 [HN #9] Claude Code on the web
+INFO     2025-10-21 05:23:31 [scraper.py:172] 🔗 [HN #9] URL: https://www.anthropic.com/news/claude-code-on-the-web
+INFO     2025-10-21 05:23:31 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-21 05:23:31 [scraper.py:171] 📥 [HN #10] Production RAG: what I learned from processing 5M+ documents
+INFO     2025-10-21 05:23:31 [scraper.py:172] 🔗 [HN #10] URL: https://blog.abdellatif.io/production-rag-processing-5m-documents
+INFO     2025-10-21 05:23:31 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-21 05:23:31 [scraper.py:179] 🎉 [HN] All done.
+
