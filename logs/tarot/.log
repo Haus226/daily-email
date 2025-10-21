@@ -1238,3 +1238,8 @@ INFO     2025-10-20 10:22:14 [scraper.py:391] 📥 [TAROT] Card: The Moon
 INFO     2025-10-20 10:22:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-20 10:22:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-21 01:59:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-21 01:59:29 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-21 01:59:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-21 01:59:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

@@ -8380,3 +8380,36 @@ INFO     2025-10-20 10:22:16 [scraper.py:172] 🔗 [HN #10] URL: https://www.sci
 INFO     2025-10-20 10:22:16 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-20 10:22:16 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-21 01:59:29 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-21 01:59:30 [scraper.py:171] 📥 [HN #1] Intel and AMD standardise ChkTag to bring Memory Safety to x86
+INFO     2025-10-21 01:59:30 [scraper.py:172] 🔗 [HN #1] URL: https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490
+INFO     2025-10-21 01:59:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-21 01:59:30 [scraper.py:171] 📥 [HN #2] AWS multiple services outage in us-east-1
+INFO     2025-10-21 01:59:30 [scraper.py:172] 🔗 [HN #2] URL: https://health.aws.amazon.com/health/status?ts=20251020
+INFO     2025-10-21 01:59:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-21 01:59:30 [scraper.py:171] 📥 [HN #3] Building a message queue with only two UNIX signals
+INFO     2025-10-21 01:59:30 [scraper.py:172] 🔗 [HN #3] URL: https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
+INFO     2025-10-21 01:59:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-21 01:59:30 [scraper.py:171] 📥 [HN #4] Claude Code on the web
+INFO     2025-10-21 01:59:30 [scraper.py:172] 🔗 [HN #4] URL: https://www.anthropic.com/news/claude-code-on-the-web
+INFO     2025-10-21 01:59:30 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-21 01:59:30 [scraper.py:171] 📥 [HN #5] A laser pointer at 2B FPS [video]
+INFO     2025-10-21 01:59:30 [scraper.py:172] 🔗 [HN #5] URL: https://www.youtube.com/watch?v=o4TdHrMi6do
+INFO     2025-10-21 01:59:30 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:171] 📥 [HN #6] The Rubygems.org takeover
+INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #6] URL: https://lwn.net/SubscriberLink/1040778/77d921001b26d061/
+INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:171] 📥 [HN #7] Production RAG: what I learned from processing 5M+ documents
+INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #7] URL: https://blog.abdellatif.io/production-rag-processing-5m-documents
+INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:171] 📥 [HN #8] BERT is just a single text diffusion step
+INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #8] URL: https://nathan.rs/posts/roberta-diffusion/
+INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:171] 📥 [HN #9] My trick for getting consistent classification from LLMs
+INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #9] URL: https://verdik.substack.com/p/how-to-get-consistent-classification
+INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:171] 📥 [HN #10] Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system
+INFO     2025-10-21 01:59:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent
+INFO     2025-10-21 01:59:31 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-21 01:59:31 [scraper.py:179] 🎉 [HN] All done.
+
