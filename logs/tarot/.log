@@ -1248,3 +1248,8 @@ INFO     2025-10-21 05:23:29 [scraper.py:391] 📥 [TAROT] Card: King of Pentacl
 INFO     2025-10-21 05:23:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-21 05:23:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-21 10:21:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-21 10:21:30 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-21 10:21:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-21 10:21:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

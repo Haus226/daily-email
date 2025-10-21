@@ -8446,3 +8446,36 @@ INFO     2025-10-21 05:23:31 [scraper.py:172] 🔗 [HN #10] URL: https://blog.ab
 INFO     2025-10-21 05:23:31 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-21 05:23:31 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-21 10:21:30 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-21 10:21:30 [scraper.py:171] 📥 [HN #1] Language Support for Marginalia Search
+INFO     2025-10-21 10:21:30 [scraper.py:172] 🔗 [HN #1] URL: https://www.marginalia.nu/log/a_126_multilingual/
+INFO     2025-10-21 10:21:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-21 10:21:30 [scraper.py:171] 📥 [HN #2] AWS multiple services outage in us-east-1
+INFO     2025-10-21 10:21:30 [scraper.py:172] 🔗 [HN #2] URL: https://health.aws.amazon.com/health/status?ts=20251020
+INFO     2025-10-21 10:21:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-21 10:21:31 [scraper.py:171] 📥 [HN #3] AI Weiwei: What I Wish I Had Known About Germany Earlier
+INFO     2025-10-21 10:21:31 [scraper.py:172] 🔗 [HN #3] URL: https://hyperallergic.com/1050197/what-i-wish-i-had-known-about-germany-earlier/
+INFO     2025-10-21 10:21:31 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-21 10:21:31 [scraper.py:171] 📥 [HN #4] Practical Scheme
+INFO     2025-10-21 10:21:31 [scraper.py:172] 🔗 [HN #4] URL: https://practical-scheme.net/index.html#docs
+INFO     2025-10-21 10:21:31 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-21 10:21:31 [scraper.py:171] 📥 [HN #5] Show HN: I'm making a detective game built on Wikipedia
+INFO     2025-10-21 10:21:31 [scraper.py:172] 🔗 [HN #5] URL: https://detective.wiki/
+INFO     2025-10-21 10:21:31 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-21 10:21:31 [scraper.py:171] 📥 [HN #6] A laser pointer at 2B FPS [video]
+INFO     2025-10-21 10:21:31 [scraper.py:172] 🔗 [HN #6] URL: https://www.youtube.com/watch?v=o4TdHrMi6do
+INFO     2025-10-21 10:21:31 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-21 10:21:31 [scraper.py:171] 📥 [HN #7] Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor
+INFO     2025-10-21 10:21:31 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/pleumann/pasta80
+INFO     2025-10-21 10:21:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-21 10:21:32 [scraper.py:171] 📥 [HN #8] Calendar Puzzle "Rhombus"
+INFO     2025-10-21 10:21:32 [scraper.py:172] 🔗 [HN #8] URL: https://praxispuzzles.com/calendar_puzzle_rhombus
+INFO     2025-10-21 10:21:32 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-21 10:21:32 [scraper.py:171] 📥 [HN #9] Bare Metal (The Emacs Essay)
+INFO     2025-10-21 10:21:32 [scraper.py:172] 🔗 [HN #9] URL: https://waxbanks.wordpress.com/2025/08/01/bare-metal-the-emacs-essay/
+INFO     2025-10-21 10:21:32 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-21 10:21:32 [scraper.py:171] 📥 [HN #10] Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system
+INFO     2025-10-21 10:21:32 [scraper.py:172] 🔗 [HN #10] URL: https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent
+INFO     2025-10-21 10:21:32 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-21 10:21:32 [scraper.py:179] 🎉 [HN] All done.
+
