@@ -8545,3 +8545,36 @@ INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #10] URL: https://news.yc
 INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-22 05:24:24 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-22 10:22:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-22 10:22:35 [scraper.py:171] 📥 [HN #1] Greenland Ditches Starlink for French Satellite Service
+INFO     2025-10-22 10:22:35 [scraper.py:172] 🔗 [HN #1] URL: https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service
+INFO     2025-10-22 10:22:35 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-22 10:22:35 [scraper.py:171] 📥 [HN #2] MinIO (apparently) becomes source-only
+INFO     2025-10-22 10:22:35 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/minio/minio/issues/21647
+INFO     2025-10-22 10:22:35 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-22 10:22:35 [scraper.py:171] 📥 [HN #3] Evaluating the Infinity Cache in AMD Strix Halo
+INFO     2025-10-22 10:22:35 [scraper.py:172] 🔗 [HN #3] URL: https://chipsandcheese.com/p/evaluating-the-infinity-cache-in
+INFO     2025-10-22 10:22:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-22 10:22:35 [scraper.py:171] 📥 [HN #4] Show HN: Cadence – A Guitar Theory App
+INFO     2025-10-22 10:22:35 [scraper.py:172] 🔗 [HN #4] URL: https://cadenceguitar.com/
+INFO     2025-10-22 10:22:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #5] The Gypsy Life of Robert Louis Stevenson
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #5] URL: https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #6] Go Subtleties You May Not Know
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #6] URL: https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #7] rlsw – Raylib software OpenGL renderer in less than 5k LOC
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #8] LLMs can get "brain rot"
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #8] URL: https://llm-brain-rot.github.io/
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #9] Show HN: Modshim – A new alternative to monkey-patching in Python
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/joouha/modshim
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:171] 📥 [HN #10] Ask HN: Our AWS account got compromised after their outage
+INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=45657345
+INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-22 10:22:36 [scraper.py:179] 🎉 [HN] All done.
+
