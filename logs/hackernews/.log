@@ -8479,3 +8479,36 @@ INFO     2025-10-21 10:21:32 [scraper.py:172] 🔗 [HN #10] URL: https://www.tom
 INFO     2025-10-21 10:21:32 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-21 10:21:32 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-22 02:02:53 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-22 02:02:53 [scraper.py:171] 📥 [HN #1] "Butt breathing" might soon be a real medical treatment
+INFO     2025-10-22 02:02:53 [scraper.py:172] 🔗 [HN #1] URL: https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/
+INFO     2025-10-22 02:02:53 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #2] Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #2] URL: https://cdb.cr.yp.to/
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #3] rlsw – Raylib software OpenGL renderer in less than 5k LOC
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #4] PoE basics and beyond: What every engineer should know
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #4] URL: https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #5] Replacing a $3000/mo Heroku bill with a $55/mo server
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #5] URL: https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #6] LLMs can get "brain rot"
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #6] URL: https://llm-brain-rot.github.io/
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-22 02:02:54 [scraper.py:171] 📥 [HN #7] Neural audio codecs: how to get audio into LLMs
+INFO     2025-10-22 02:02:54 [scraper.py:172] 🔗 [HN #7] URL: https://kyutai.org/next/codec-explainer
+INFO     2025-10-22 02:02:54 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-22 02:02:55 [scraper.py:171] 📥 [HN #8] Ask HN: Our AWS account got compromised after their outage
+INFO     2025-10-22 02:02:55 [scraper.py:172] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=45657345
+INFO     2025-10-22 02:02:55 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-22 02:02:55 [scraper.py:171] 📥 [HN #9] NASA chief suggests SpaceX may be booted from moon mission
+INFO     2025-10-22 02:02:55 [scraper.py:172] 🔗 [HN #9] URL: https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy
+INFO     2025-10-22 02:02:55 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-22 02:02:55 [scraper.py:171] 📥 [HN #10] ChatGPT Atlas
+INFO     2025-10-22 02:02:55 [scraper.py:172] 🔗 [HN #10] URL: https://chatgpt.com/atlas
+INFO     2025-10-22 02:02:55 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-22 02:02:55 [scraper.py:179] 🎉 [HN] All done.
+
