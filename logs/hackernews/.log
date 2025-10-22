@@ -8512,3 +8512,36 @@ INFO     2025-10-22 02:02:55 [scraper.py:172] 🔗 [HN #10] URL: https://chatgpt
 INFO     2025-10-22 02:02:55 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-22 02:02:55 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-22 05:24:23 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-22 05:24:23 [scraper.py:171] 📥 [HN #1] Evaluating the Infinity Cache in AMD Strix Halo
+INFO     2025-10-22 05:24:23 [scraper.py:172] 🔗 [HN #1] URL: https://chipsandcheese.com/p/evaluating-the-infinity-cache-in
+INFO     2025-10-22 05:24:23 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-22 05:24:23 [scraper.py:171] 📥 [HN #2] Spotify running ICE recruitment ads about "dangerous illegals"
+INFO     2025-10-22 05:24:23 [scraper.py:172] 🔗 [HN #2] URL: https://djmag.com/news/spotify-defends-running-ice-recruitment-ads-about-dangerous-illegals-part-of-us-government
+INFO     2025-10-22 05:24:23 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-22 05:24:23 [scraper.py:171] 📥 [HN #3] rlsw – Raylib software OpenGL renderer in less than 5k LOC
+INFO     2025-10-22 05:24:23 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h
+INFO     2025-10-22 05:24:23 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-22 05:24:23 [scraper.py:171] 📥 [HN #4] Power over Ethernet (PoE) basics and beyond
+INFO     2025-10-22 05:24:23 [scraper.py:172] 🔗 [HN #4] URL: https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/
+INFO     2025-10-22 05:24:23 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #5] OpenBSD 7.8
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #5] URL: https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #6] Show HN: Modshim – A new alternative to monkey-patching in Python
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #6] URL: https://github.com/joouha/modshim
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #7] LLMs can get "brain rot"
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #7] URL: https://llm-brain-rot.github.io/
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #8] Replacing a $3000/mo Heroku bill with a $55/mo server
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #8] URL: https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #9] Show HN: AutoLearn Skills for self-improving agents
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #9] URL: https://www.autolearn.dev
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:171] 📥 [HN #10] Ask HN: Our AWS account got compromised after their outage
+INFO     2025-10-22 05:24:24 [scraper.py:172] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=45657345
+INFO     2025-10-22 05:24:24 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-22 05:24:24 [scraper.py:179] 🎉 [HN] All done.
+

@@ -1756,3 +1756,11 @@ INFO     2025-10-22 02:03:09 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-10-22 02:03:09 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-10-22 02:03:09 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-10-22 05:24:23 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-10-22 05:24:23 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-10-22 05:24:53 [scraper.py:99] 🤖 [EO] LLM summary contains <think> tags, cleaning up...
+INFO     2025-10-22 05:24:53 [scraper.py:101] 🤖 [EO] Cleaned LLM summary: Mazartagh ridge in China's Tarim Basin spans 145 kilometers, rises 200 meters above the desert, and traps sand while blocking dune migration southward under northeasterly winds. Its northern side features iron-rich sandstones and mudstones deposited in arid environments, appearing dark red, while the southern side consists of lighter gypsum and calcareous sandstone layers from shallow water settings. The seasonal Hotan River, fed by Kunlun Mountain glacial meltwater, sustains the only long-distance flow across the Takla Makan Desert, supporting riparian vegetation like poplars despite saline soils. Mazartagh blocks 62% of sand supply and reduces north-south dune drift potential by 13%, creating barchan, transverse, and star dunes to the north and linear dunes to the south, with notches allowing limited barchan formation southward. The ridge influences regional geology, concentrating nephrite jade in the river sediments that historically supported Silk Road trade, and overlooks an eighth-century Tibetan Empire fort site.
+INFO     2025-10-22 05:24:53 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-10-22 05:24:53 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-10-22 05:24:53 [scraper.py:155] ✅ [EO] Successfully fetched.
+
