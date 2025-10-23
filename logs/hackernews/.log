@@ -8578,3 +8578,36 @@ INFO     2025-10-22 10:22:36 [scraper.py:172] 🔗 [HN #10] URL: https://news.yc
 INFO     2025-10-22 10:22:36 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-22 10:22:36 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-23 01:58:06 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-23 01:58:06 [scraper.py:171] 📥 [HN #1] Google flags Immich sites as dangerous
+INFO     2025-10-23 01:58:06 [scraper.py:172] 🔗 [HN #1] URL: https://immich.app/blog/google-flags-immich-as-dangerous
+INFO     2025-10-23 01:58:06 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-23 01:58:07 [scraper.py:171] 📥 [HN #2] Ovi: Twin backbone cross-modal fusion for audio-video generation
+INFO     2025-10-23 01:58:07 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/character-ai/Ovi
+INFO     2025-10-23 01:58:07 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-23 01:58:07 [scraper.py:171] 📥 [HN #3] Willow quantum chip demonstrates verifiable quantum advantage on hardware
+INFO     2025-10-23 01:58:07 [scraper.py:172] 🔗 [HN #3] URL: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+INFO     2025-10-23 01:58:07 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-23 01:58:07 [scraper.py:171] 📥 [HN #4] Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII
+INFO     2025-10-23 01:58:07 [scraper.py:172] 🔗 [HN #4] URL: https://ian.sh/fia
+INFO     2025-10-23 01:58:07 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-23 01:58:07 [scraper.py:171] 📥 [HN #5] Play abstract strategy board games online with friends or against bots
+INFO     2025-10-23 01:58:07 [scraper.py:172] 🔗 [HN #5] URL: https://abstractboardgames.com/
+INFO     2025-10-23 01:58:07 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-23 01:58:07 [scraper.py:171] 📥 [HN #6] JMAP for Calendars, Contacts and Files Now in Stalwart
+INFO     2025-10-23 01:58:07 [scraper.py:172] 🔗 [HN #6] URL: https://stalw.art/blog/jmap-collaboration/
+INFO     2025-10-23 01:58:07 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-23 01:58:08 [scraper.py:171] 📥 [HN #7] Why SSA Compilers?
+INFO     2025-10-23 01:58:08 [scraper.py:172] 🔗 [HN #7] URL: https://mcyoung.xyz/2025/10/21/ssa-1/
+INFO     2025-10-23 01:58:08 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-23 01:58:08 [scraper.py:171] 📥 [HN #8] Scripts I wrote that I use all the time
+INFO     2025-10-23 01:58:08 [scraper.py:172] 🔗 [HN #8] URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+INFO     2025-10-23 01:58:08 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-23 01:58:08 [scraper.py:171] 📥 [HN #9] Element: setHTML() method
+INFO     2025-10-23 01:58:08 [scraper.py:172] 🔗 [HN #9] URL: https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML
+INFO     2025-10-23 01:58:08 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-23 01:58:08 [scraper.py:171] 📥 [HN #10] The first interstellar software update: The hack that saved Voyager 1 [video]
+INFO     2025-10-23 01:58:08 [scraper.py:172] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=p0K7u3B_8rY
+INFO     2025-10-23 01:58:08 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-23 01:58:08 [scraper.py:179] 🎉 [HN] All done.
+

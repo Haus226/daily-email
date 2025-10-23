@@ -1268,3 +1268,8 @@ INFO     2025-10-22 10:22:34 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
 INFO     2025-10-22 10:22:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-22 10:22:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-23 01:58:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-23 01:58:06 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-10-23 01:58:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-23 01:58:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
