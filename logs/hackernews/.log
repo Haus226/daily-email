@@ -8644,3 +8644,36 @@ INFO     2025-10-23 05:23:47 [scraper.py:172] 🔗 [HN #10] URL: https://abstrac
 INFO     2025-10-23 05:23:47 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-23 05:23:47 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-23 10:21:53 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-23 10:21:53 [scraper.py:171] 📥 [HN #1] VST3 audio plugin format is now MIT
+INFO     2025-10-23 10:21:53 [scraper.py:172] 🔗 [HN #1] URL: https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988
+INFO     2025-10-23 10:21:53 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-23 10:21:53 [scraper.py:171] 📥 [HN #2] C64 Blood Money
+INFO     2025-10-23 10:21:53 [scraper.py:172] 🔗 [HN #2] URL: https://lemmings.info/c64-blood-money/
+INFO     2025-10-23 10:21:53 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-23 10:21:53 [scraper.py:171] 📥 [HN #3] Google flags Immich sites as dangerous
+INFO     2025-10-23 10:21:53 [scraper.py:172] 🔗 [HN #3] URL: https://immich.app/blog/google-flags-immich-as-dangerous
+INFO     2025-10-23 10:21:53 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #4] Programming with Less Than Nothing
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #4] URL: https://joshmoody.org/blog/programming-with-less-than-nothing/
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #5] Radios, how do they work? (2024)
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #5] URL: https://lcamtuf.substack.com/p/radios-how-do-they-work
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #6] Scripts I wrote that I use all the time
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #6] URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #7] Run interactive commands in Gemini CLI
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #7] URL: https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #8] Willow quantum chip demonstrates verifiable quantum advantage on hardware
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #8] URL: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-23 10:21:54 [scraper.py:171] 📥 [HN #9] Accessing Max Verstappen's passport and PII through FIA bugs
+INFO     2025-10-23 10:21:54 [scraper.py:172] 🔗 [HN #9] URL: https://ian.sh/fia
+INFO     2025-10-23 10:21:54 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-23 10:21:55 [scraper.py:171] 📥 [HN #10] JMAP for Calendars, Contacts and Files Now in Stalwart
+INFO     2025-10-23 10:21:55 [scraper.py:172] 🔗 [HN #10] URL: https://stalw.art/blog/jmap-collaboration/
+INFO     2025-10-23 10:21:55 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-23 10:21:55 [scraper.py:179] 🎉 [HN] All done.
+
