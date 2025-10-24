@@ -1293,3 +1293,8 @@ INFO     2025-10-24 05:23:06 [scraper.py:391] 📥 [TAROT] Card: Two of Wands
 INFO     2025-10-24 05:23:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-24 05:23:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-24 10:22:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-24 10:22:30 [scraper.py:391] 📥 [TAROT] Card: Two of Wands
+INFO     2025-10-24 10:22:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-24 10:22:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
