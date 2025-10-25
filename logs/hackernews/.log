@@ -8776,3 +8776,36 @@ INFO     2025-10-24 10:22:32 [scraper.py:172] 🔗 [HN #10] URL: https://www.hen
 INFO     2025-10-24 10:22:32 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-24 10:22:32 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-25 01:55:43 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-25 01:55:43 [scraper.py:171] 📥 [HN #1] The Swift SDK for Android
+INFO     2025-10-25 01:55:43 [scraper.py:172] 🔗 [HN #1] URL: https://www.swift.org/blog/nightly-swift-sdk-for-android/
+INFO     2025-10-25 01:55:43 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-25 01:55:43 [scraper.py:171] 📥 [HN #2] Valetudo: Cloud replacement for vacuum robots enabling local-only operation
+INFO     2025-10-25 01:55:43 [scraper.py:172] 🔗 [HN #2] URL: https://valetudo.cloud/
+INFO     2025-10-25 01:55:43 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #3] First shape found that can't pass through itself
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #3] URL: https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #4] I invited strangers to message me through a receipt printer
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #4] URL: https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #5] Harnessing America's Heat Pump Moment
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #5] URL: https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #6] How to make a Smith chart
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #6] URL: https://www.johndcook.com/blog/2025/10/23/smith-chart/
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #7] Compiler optimizations for 5.8ms GPT-OSS-120B inference (not on GPUs)
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #7] URL: https://furiosa.ai/blog/serving-gpt-oss-120b-at-5-8-ms-tpot-with-two-rngd-cards-compiler-optimizations-in-practice
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-25 01:55:44 [scraper.py:171] 📥 [HN #8] Study: MRI contrast agent causes harmful metal buildup in some patients
+INFO     2025-10-25 01:55:44 [scraper.py:172] 🔗 [HN #8] URL: https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/
+INFO     2025-10-25 01:55:44 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-25 01:55:45 [scraper.py:171] 📥 [HN #9] Carmack on Operating Systems (1997)
+INFO     2025-10-25 01:55:45 [scraper.py:172] 🔗 [HN #9] URL: https://rmitz.org/carmack.on.operating.systems.html
+INFO     2025-10-25 01:55:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-25 01:55:45 [scraper.py:171] 📥 [HN #10] Startup plans to cool data centers by converting heat to light
+INFO     2025-10-25 01:55:45 [scraper.py:172] 🔗 [HN #10] URL: https://spectrum.ieee.org/laser-cooling-chips
+INFO     2025-10-25 01:55:45 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-25 01:55:45 [scraper.py:179] 🎉 [HN] All done.
+
