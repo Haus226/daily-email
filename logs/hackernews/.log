@@ -8842,3 +8842,36 @@ INFO     2025-10-25 05:22:04 [scraper.py:172] 🔗 [HN #10] URL: https://www.hea
 INFO     2025-10-25 05:22:04 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-25 05:22:04 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-25 10:18:28 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-25 10:18:28 [scraper.py:171] 📥 [HN #1] The Swift SDK for Android
+INFO     2025-10-25 10:18:28 [scraper.py:172] 🔗 [HN #1] URL: https://www.swift.org/blog/nightly-swift-sdk-for-android/
+INFO     2025-10-25 10:18:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-25 10:18:28 [scraper.py:171] 📥 [HN #2] Unlocking Free WiFi on British Airways
+INFO     2025-10-25 10:18:28 [scraper.py:172] 🔗 [HN #2] URL: https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html
+INFO     2025-10-25 10:18:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #3] People with blindness can read again after retinal implant and special glasses
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #3] URL: https://www.nbcnews.com/health/health-news/tiny-eye-implant-special-glasses-legally-blind-patients-can-read-rcna238488
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #4] Valetudo: Cloud replacement for vacuum robots enabling local-only operation
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #4] URL: https://valetudo.cloud/
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #5] First shape found that can't pass through itself
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #5] URL: https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #6] Context engineering is sleeping on the humble hyperlink
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #6] URL: https://mbleigh.dev/posts/context-engineering-with-links/
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #7] Meet the real screen addicts: the elderly
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #7] URL: https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-25 10:18:29 [scraper.py:171] 📥 [HN #8] Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update
+INFO     2025-10-25 10:18:29 [scraper.py:172] 🔗 [HN #8] URL: https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update
+INFO     2025-10-25 10:18:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-25 10:18:30 [scraper.py:171] 📥 [HN #9] Harnessing America's Heat Pump Moment
+INFO     2025-10-25 10:18:30 [scraper.py:172] 🔗 [HN #9] URL: https://www.heatpumped.org/p/harnessing-america-s-heat-pump-moment
+INFO     2025-10-25 10:18:30 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-25 10:18:30 [scraper.py:171] 📥 [HN #10] Normalize.css
+INFO     2025-10-25 10:18:30 [scraper.py:172] 🔗 [HN #10] URL: https://csstools.github.io/normalize.css/
+INFO     2025-10-25 10:18:30 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-25 10:18:30 [scraper.py:179] 🎉 [HN] All done.
+
