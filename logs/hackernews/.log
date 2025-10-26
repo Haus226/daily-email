@@ -8941,3 +8941,36 @@ INFO     2025-10-26 05:22:50 [scraper.py:172] 🔗 [HN #10] URL: https://d2lang.
 INFO     2025-10-26 05:22:50 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-26 05:22:50 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-26 10:19:00 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-26 10:19:00 [scraper.py:171] 📥 [HN #1] What If Tariffs?
+INFO     2025-10-26 10:19:00 [scraper.py:172] 🔗 [HN #1] URL: https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html
+INFO     2025-10-26 10:19:00 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-26 10:19:00 [scraper.py:171] 📥 [HN #2] Asbestosis
+INFO     2025-10-26 10:19:00 [scraper.py:172] 🔗 [HN #2] URL: https://diamondgeezer.blogspot.com/2025/10/asbestosis.html
+INFO     2025-10-26 10:19:00 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-26 10:19:00 [scraper.py:171] 📥 [HN #3] Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time
+INFO     2025-10-26 10:19:00 [scraper.py:172] 🔗 [HN #3] URL: https://adventofcode.com/2025/about#faq_num_days
+INFO     2025-10-26 10:19:00 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-26 10:19:00 [scraper.py:171] 📥 [HN #4] A worker fell into a nuclear reactor pool
+INFO     2025-10-26 10:19:00 [scraper.py:172] 🔗 [HN #4] URL: https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE
+INFO     2025-10-26 10:19:00 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #5] Pico-Banana-400k
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/apple/pico-banana-400k
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #6] LaserTweezer – Optical Trap
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #6] URL: https://www.gaudi.ch/GaudiLabs/?page_id=578
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #7] The Linux Boot Process: From Power Button to Kernel
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #7] URL: https://www.0xkato.xyz/linux-boot/
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #8] Writing a RISC-V Emulator in Rust
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #8] URL: https://book.rvemu.app/
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #9] Clojure Land – Discover open-source Clojure libraries and frameworks
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #9] URL: https://clojure.land/
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:171] 📥 [HN #10] California invests in battery energy storage, leaving rolling blackouts behind
+INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #10] URL: https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert
+INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-26 10:19:01 [scraper.py:179] 🎉 [HN] All done.
+
