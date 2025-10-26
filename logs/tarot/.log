@@ -1313,3 +1313,8 @@ INFO     2025-10-25 10:18:28 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentac
 INFO     2025-10-25 10:18:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-25 10:18:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-26 02:05:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-26 02:05:09 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-10-26 02:05:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-26 02:05:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
