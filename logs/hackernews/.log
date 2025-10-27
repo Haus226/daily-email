@@ -8974,3 +8974,36 @@ INFO     2025-10-26 10:19:01 [scraper.py:172] 🔗 [HN #10] URL: https://www.lat
 INFO     2025-10-26 10:19:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-26 10:19:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-27 02:09:23 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-27 02:09:23 [scraper.py:171] 📥 [HN #1] Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams
+INFO     2025-10-27 02:09:23 [scraper.py:172] 🔗 [HN #1] URL: https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/
+INFO     2025-10-27 02:09:23 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-27 02:09:23 [scraper.py:171] 📥 [HN #2] Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)
+INFO     2025-10-27 02:09:23 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/dvir-biton/MyraOS
+INFO     2025-10-27 02:09:23 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-27 02:09:23 [scraper.py:171] 📥 [HN #3] Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon
+INFO     2025-10-27 02:09:23 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/rochus-keller/Are-we-fast-yet
+INFO     2025-10-27 02:09:23 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-27 02:09:23 [scraper.py:171] 📥 [HN #4] Sandhill cranes have adopted a Canada gosling
+INFO     2025-10-27 02:09:23 [scraper.py:172] 🔗 [HN #4] URL: https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/
+INFO     2025-10-27 02:09:23 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-27 02:09:23 [scraper.py:171] 📥 [HN #5] A definition of AGI
+INFO     2025-10-27 02:09:23 [scraper.py:172] 🔗 [HN #5] URL: https://arxiv.org/abs/2510.18212
+INFO     2025-10-27 02:09:23 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:171] 📥 [HN #6] You already have a Git server
+INFO     2025-10-27 02:09:24 [scraper.py:172] 🔗 [HN #6] URL: https://maurycyz.com/misc/easy_git/
+INFO     2025-10-27 02:09:24 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:171] 📥 [HN #7] Ken Thompson recalls Unix's rowdy, lock-picking origins
+INFO     2025-10-27 02:09:24 [scraper.py:172] 🔗 [HN #7] URL: https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/
+INFO     2025-10-27 02:09:24 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:171] 📥 [HN #8] NORAD’s Cheyenne Mountain Combat Center, c.1966
+INFO     2025-10-27 02:09:24 [scraper.py:172] 🔗 [HN #8] URL: https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/
+INFO     2025-10-27 02:09:24 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:171] 📥 [HN #9] We Saved $500k per Year by Rolling Our Own "S3"
+INFO     2025-10-27 02:09:24 [scraper.py:172] 🔗 [HN #9] URL: https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143
+INFO     2025-10-27 02:09:24 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:171] 📥 [HN #10] Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot
+INFO     2025-10-27 02:09:24 [scraper.py:172] 🔗 [HN #10] URL: https://sphere.computer/
+INFO     2025-10-27 02:09:24 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-27 02:09:24 [scraper.py:179] 🎉 [HN] All done.
+
