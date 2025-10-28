@@ -9139,3 +9139,36 @@ INFO     2025-10-28 05:25:05 [scraper.py:172] 🔗 [HN #10] URL: https://www.ope
 INFO     2025-10-28 05:25:05 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-28 05:25:05 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-28 10:22:55 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-28 10:22:56 [scraper.py:171] 📥 [HN #1] Poker Tournament for LLMs
+INFO     2025-10-28 10:22:56 [scraper.py:172] 🔗 [HN #1] URL: https://pokerbattle.ai/event
+INFO     2025-10-28 10:22:56 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-28 10:22:56 [scraper.py:171] 📥 [HN #2] Picture gallery: Amiga prototype "Lorraine" at the Amiga 40 event
+INFO     2025-10-28 10:22:56 [scraper.py:172] 🔗 [HN #2] URL: https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html
+INFO     2025-10-28 10:22:56 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-28 10:22:56 [scraper.py:171] 📥 [HN #3] How the brain's activity, energy use and blood flow change as people fall asleep
+INFO     2025-10-28 10:22:56 [scraper.py:172] 🔗 [HN #3] URL: https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/research-shows-coordinated-shift-in-brain-activity-while-asleep
+INFO     2025-10-28 10:22:56 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #4] 10M people watched a YouTuber shim a lock; the lock company sued him – bad idea
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #4] URL: https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #5] Easy RISC-V
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #5] URL: https://dramforever.github.io/easyriscv/
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #6] Complete Digitization of Leonardo da Vinci's Codex Atlanticus
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #6] URL: https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #7] Geometry and Physics of Wrinkling [pdf]
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #7] URL: https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #8] Claude for Excel
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #8] URL: https://www.claude.com/claude-for-excel
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-28 10:22:57 [scraper.py:171] 📥 [HN #9] SATisfying Solutions to Difficult Problems
+INFO     2025-10-28 10:22:57 [scraper.py:172] 🔗 [HN #9] URL: https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/
+INFO     2025-10-28 10:22:57 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-28 10:22:58 [scraper.py:171] 📥 [HN #10] Simplify your code: Functional core, imperative shell
+INFO     2025-10-28 10:22:58 [scraper.py:172] 🔗 [HN #10] URL: https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html
+INFO     2025-10-28 10:22:58 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-28 10:22:58 [scraper.py:179] 🎉 [HN] All done.
+
