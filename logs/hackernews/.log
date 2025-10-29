@@ -9238,3 +9238,36 @@ INFO     2025-10-29 05:25:52 [scraper.py:172] 🔗 [HN #10] URL: https://river.m
 INFO     2025-10-29 05:25:52 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-29 05:25:52 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-29 10:22:24 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-29 10:22:24 [scraper.py:171] 📥 [HN #1] Keep Android Open
+INFO     2025-10-29 10:22:24 [scraper.py:172] 🔗 [HN #1] URL: http://keepandroidopen.org/
+INFO     2025-10-29 10:22:24 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-29 10:22:24 [scraper.py:171] 📥 [HN #2] What we talk about when we talk about sideloading
+INFO     2025-10-29 10:22:24 [scraper.py:172] 🔗 [HN #2] URL: https://f-droid.org/2025/10/28/sideloading.html
+INFO     2025-10-29 10:22:24 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-29 10:22:24 [scraper.py:171] 📥 [HN #3] Who needs Graphviz when you can build it yourself?
+INFO     2025-10-29 10:22:24 [scraper.py:172] 🔗 [HN #3] URL: https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html
+INFO     2025-10-29 10:22:24 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-29 10:22:24 [scraper.py:171] 📥 [HN #4] Tips for stroke-surviving software engineers
+INFO     2025-10-29 10:22:24 [scraper.py:172] 🔗 [HN #4] URL: https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/
+INFO     2025-10-29 10:22:24 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #5] YouTube is taking down videos on performing nonstandard Windows 11 installs
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #5] URL: https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #6] ChatGPT's Atlas: The Browser That's Anti-Web
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #6] URL: https://www.anildash.com//2025/10/22/atlas-anti-web-browser/
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #7] uBlock Origin Lite Apple App Store
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #7] URL: https://apps.apple.com/in/app/ublock-origin-lite/id6745342698
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #8] EuroLLM: LLM made in Europe built to support all 24 official EU languages
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #8] URL: https://eurollm.io/
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #9] Powerful and precise multi-color lasers now fit on a single chip
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #9] URL: https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:171] 📥 [HN #10] Wacl – A Tcl Distribution for WebAssembly
+INFO     2025-10-29 10:22:25 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/ecky-l/wacl
+INFO     2025-10-29 10:22:25 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-29 10:22:25 [scraper.py:179] 🎉 [HN] All done.
+
