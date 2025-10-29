@@ -9172,3 +9172,36 @@ INFO     2025-10-28 10:22:58 [scraper.py:172] 🔗 [HN #10] URL: https://testing
 INFO     2025-10-28 10:22:58 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-28 10:22:58 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-29 02:05:57 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-29 02:05:57 [scraper.py:171] 📥 [HN #1] What we talk about when we talk about sideloading
+INFO     2025-10-29 02:05:57 [scraper.py:172] 🔗 [HN #1] URL: https://f-droid.org/2025/10/28/sideloading.html
+INFO     2025-10-29 02:05:57 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-29 02:05:57 [scraper.py:171] 📥 [HN #2] EuroLLM: LLM made in Europe built to support all 24 official EU languages
+INFO     2025-10-29 02:05:57 [scraper.py:172] 🔗 [HN #2] URL: https://eurollm.io/
+INFO     2025-10-29 02:05:57 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-29 02:05:57 [scraper.py:171] 📥 [HN #3] Generative AI Image Editing Showdown
+INFO     2025-10-29 02:05:57 [scraper.py:172] 🔗 [HN #3] URL: https://genai-showdown.specr.net/image-editing
+INFO     2025-10-29 02:05:57 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-29 02:05:57 [scraper.py:171] 📥 [HN #4] Tinkering is a way to acquire good taste
+INFO     2025-10-29 02:05:57 [scraper.py:172] 🔗 [HN #4] URL: https://seated.ro/blog/tinkering-a-lost-art
+INFO     2025-10-29 02:05:57 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-29 02:05:58 [scraper.py:171] 📥 [HN #5] Project Shadowglass
+INFO     2025-10-29 02:05:58 [scraper.py:172] 🔗 [HN #5] URL: https://shadowglassgame.com
+INFO     2025-10-29 02:05:58 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-29 02:05:58 [scraper.py:171] 📥 [HN #6] Boring is what we wanted
+INFO     2025-10-29 02:05:58 [scraper.py:172] 🔗 [HN #6] URL: https://512pixels.net/2025/10/boring-is-what-we-wanted/
+INFO     2025-10-29 02:05:58 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-29 02:05:58 [scraper.py:171] 📥 [HN #7] Keeping the Internet fast and secure: introducing Merkle Tree Certificates
+INFO     2025-10-29 02:05:58 [scraper.py:172] 🔗 [HN #7] URL: https://blog.cloudflare.com/bootstrap-mtc/
+INFO     2025-10-29 02:05:58 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-29 02:05:58 [scraper.py:171] 📥 [HN #8] Why do some radio towers blink?
+INFO     2025-10-29 02:05:58 [scraper.py:172] 🔗 [HN #8] URL: https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink
+INFO     2025-10-29 02:05:58 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-29 02:05:58 [scraper.py:171] 📥 [HN #9] The AirPods Pro 3 flight problem
+INFO     2025-10-29 02:05:58 [scraper.py:172] 🔗 [HN #9] URL: https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem
+INFO     2025-10-29 02:05:58 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-29 02:05:59 [scraper.py:171] 📥 [HN #10] Mapping the off-target effects of every FDA-approved drug in existence
+INFO     2025-10-29 02:05:59 [scraper.py:172] 🔗 [HN #10] URL: https://www.owlposting.com/p/mapping-the-off-target-effects-of
+INFO     2025-10-29 02:05:59 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-29 02:05:59 [scraper.py:179] 🎉 [HN] All done.
+
