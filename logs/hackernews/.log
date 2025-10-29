@@ -9205,3 +9205,36 @@ INFO     2025-10-29 02:05:59 [scraper.py:172] 🔗 [HN #10] URL: https://www.owl
 INFO     2025-10-29 02:05:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-29 02:05:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-29 05:25:50 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-29 05:25:50 [scraper.py:171] 📥 [HN #1] Keep Android Open
+INFO     2025-10-29 05:25:50 [scraper.py:172] 🔗 [HN #1] URL: http://keepandroidopen.org/
+INFO     2025-10-29 05:25:50 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-29 05:25:50 [scraper.py:171] 📥 [HN #2] What we talk about when we talk about sideloading
+INFO     2025-10-29 05:25:50 [scraper.py:172] 🔗 [HN #2] URL: https://f-droid.org/2025/10/28/sideloading.html
+INFO     2025-10-29 05:25:50 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #3] ChatGPT's Atlas: The Browser That's Anti-Web
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #3] URL: https://www.anildash.com//2025/10/22/atlas-anti-web-browser/
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #4] Tips for stroke-surviving software engineers
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #4] URL: https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #5] EuroLLM: LLM made in Europe built to support all 24 official EU languages
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #5] URL: https://eurollm.io/
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #6] Tinkering is a way to acquire good taste
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #6] URL: https://seated.ro/blog/tinkering-a-lost-art
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #7] Generative AI Image Editing Showdown
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #7] URL: https://genai-showdown.specr.net/image-editing
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #8] Wacl – A Tcl Distribution for WebAssembly
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/ecky-l/wacl
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-29 05:25:51 [scraper.py:171] 📥 [HN #9] Boring is what we wanted
+INFO     2025-10-29 05:25:51 [scraper.py:172] 🔗 [HN #9] URL: https://512pixels.net/2025/10/boring-is-what-we-wanted/
+INFO     2025-10-29 05:25:51 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-29 05:25:52 [scraper.py:171] 📥 [HN #10] Gluing and framing a 9000-piece jigsaw
+INFO     2025-10-29 05:25:52 [scraper.py:172] 🔗 [HN #10] URL: https://river.me/blog/puzzle-glue-9000/
+INFO     2025-10-29 05:25:52 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-29 05:25:52 [scraper.py:179] 🎉 [HN] All done.
+
