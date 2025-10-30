@@ -9337,3 +9337,36 @@ INFO     2025-10-30 05:23:48 [scraper.py:172] 🔗 [HN #10] URL: https://www.os2
 INFO     2025-10-30 05:23:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-30 05:23:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-10-30 10:21:29 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-10-30 10:21:30 [scraper.py:171] 📥 [HN #1] Language Models Are Injective and Hence Invertible
+INFO     2025-10-30 10:21:30 [scraper.py:172] 🔗 [HN #1] URL: https://arxiv.org/abs/2510.15511
+INFO     2025-10-30 10:21:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-10-30 10:21:30 [scraper.py:171] 📥 [HN #2] Uv is the best thing to happen to the Python ecosystem in a decade
+INFO     2025-10-30 10:21:30 [scraper.py:172] 🔗 [HN #2] URL: https://emily.space/posts/251023-uv
+INFO     2025-10-30 10:21:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-10-30 10:21:30 [scraper.py:171] 📥 [HN #3] Tell HN: Azure outage
+INFO     2025-10-30 10:21:30 [scraper.py:172] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=45748661
+INFO     2025-10-30 10:21:30 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-10-30 10:21:30 [scraper.py:171] 📥 [HN #4] Minecraft removing obfuscation in Java Edition
+INFO     2025-10-30 10:21:30 [scraper.py:172] 🔗 [HN #4] URL: https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition
+INFO     2025-10-30 10:21:30 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-10-30 10:21:30 [scraper.py:171] 📥 [HN #5] How ancient people saw themselves
+INFO     2025-10-30 10:21:30 [scraper.py:172] 🔗 [HN #5] URL: https://worldhistory.substack.com/p/how-ancient-people-saw-themselves
+INFO     2025-10-30 10:21:30 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:171] 📥 [HN #6] Spinning Up an Onion Mirror Is Stupid Easy
+INFO     2025-10-30 10:21:31 [scraper.py:172] 🔗 [HN #6] URL: https://flower.codes/2025/10/23/onion-mirror.html
+INFO     2025-10-30 10:21:31 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:171] 📥 [HN #7] Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet
+INFO     2025-10-30 10:21:31 [scraper.py:172] 🔗 [HN #7] URL: https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet
+INFO     2025-10-30 10:21:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:171] 📥 [HN #8] Hello-World iOS App in Assembly
+INFO     2025-10-30 10:21:31 [scraper.py:172] 🔗 [HN #8] URL: https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31
+INFO     2025-10-30 10:21:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:171] 📥 [HN #9] China has added forest the size of Texas since 1990
+INFO     2025-10-30 10:21:31 [scraper.py:172] 🔗 [HN #9] URL: https://e360.yale.edu/digest/china-new-forest-report
+INFO     2025-10-30 10:21:31 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:171] 📥 [HN #10] Carlo Rovelli’s radical perspective on reality
+INFO     2025-10-30 10:21:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/
+INFO     2025-10-30 10:21:31 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-10-30 10:21:31 [scraper.py:179] 🎉 [HN] All done.
+
