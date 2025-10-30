@@ -1400,3 +1400,8 @@ INFO     2025-10-30 02:04:42 [scraper.py:47] 📥 [APOD] Title: No Title Found
 INFO     2025-10-30 02:04:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
 INFO     2025-10-30 02:04:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-10-30 05:23:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-30 05:23:47 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-30 05:23:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-30 05:23:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
