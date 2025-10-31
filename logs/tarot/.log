@@ -1393,3 +1393,8 @@ INFO     2025-10-31 02:01:51 [scraper.py:391] 📥 [TAROT] Card: The Lovers
 INFO     2025-10-31 02:01:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-10-31 02:01:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-10-31 05:25:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-31 05:25:25 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-10-31 05:25:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-31 05:25:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
