@@ -9469,3 +9469,36 @@ INFO     2025-10-31 10:21:27 [scraper.py:172] 🔗 [HN #10] URL: https://www.sam
 INFO     2025-10-31 10:21:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-10-31 10:21:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-01 02:05:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-01 02:05:25 [scraper.py:171] 📥 [HN #1] Show HN: Strange Attractors
+INFO     2025-11-01 02:05:25 [scraper.py:172] 🔗 [HN #1] URL: https://blog.shashanktomar.com/posts/strange-attractors
+INFO     2025-11-01 02:05:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #2] S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/vindar/SARCASM
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #3] Futurelock: A subtle risk in async Rust
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #3] URL: https://rfd.shared.oxide.computer/rfd/0609
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #4] The Last PCB You'll Ever Buy [video]
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=A_IUIyyqw0M
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #5] Introducing architecture variants
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #5] URL: https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #6] Addiction Markets
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #6] URL: https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-01 02:05:26 [scraper.py:171] 📥 [HN #7] A theoretical way to circumvent Android developer verification
+INFO     2025-11-01 02:05:26 [scraper.py:172] 🔗 [HN #7] URL: https://enaix.github.io/2025/10/30/developer-verification.html
+INFO     2025-11-01 02:05:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-01 02:05:27 [scraper.py:171] 📥 [HN #8] Fungus: The Befunge CPU(2015)
+INFO     2025-11-01 02:05:27 [scraper.py:172] 🔗 [HN #8] URL: https://www.bedroomlan.org/hardware/fungus/
+INFO     2025-11-01 02:05:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-01 02:05:27 [scraper.py:171] 📥 [HN #9] My Impressions of the MacBook Pro M4
+INFO     2025-11-01 02:05:27 [scraper.py:172] 🔗 [HN #9] URL: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
+INFO     2025-11-01 02:05:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-01 02:05:27 [scraper.py:171] 📥 [HN #10] Use DuckDB-WASM to query TB of data in browser
+INFO     2025-11-01 02:05:27 [scraper.py:172] 🔗 [HN #10] URL: https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/
+INFO     2025-11-01 02:05:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-01 02:05:27 [scraper.py:179] 🎉 [HN] All done.
+
