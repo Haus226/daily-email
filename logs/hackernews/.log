@@ -9535,3 +9535,36 @@ INFO     2025-11-01 05:22:51 [scraper.py:172] 🔗 [HN #10] URL: https://michael
 INFO     2025-11-01 05:22:51 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-01 05:22:51 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-01 10:19:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-01 10:19:25 [scraper.py:171] 📥 [HN #1] Show HN: Strange Attractors
+INFO     2025-11-01 10:19:25 [scraper.py:172] 🔗 [HN #1] URL: https://blog.shashanktomar.com/posts/strange-attractors
+INFO     2025-11-01 10:19:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-01 10:19:25 [scraper.py:171] 📥 [HN #2] How I stopped worrying and started loving the Assembly
+INFO     2025-11-01 10:19:25 [scraper.py:172] 🔗 [HN #2] URL: https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60
+INFO     2025-11-01 10:19:25 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-01 10:19:25 [scraper.py:171] 📥 [HN #3] S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine
+INFO     2025-11-01 10:19:25 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/vindar/SARCASM
+INFO     2025-11-01 10:19:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-01 10:19:25 [scraper.py:171] 📥 [HN #4] Futurelock: A subtle risk in async Rust
+INFO     2025-11-01 10:19:25 [scraper.py:172] 🔗 [HN #4] URL: https://rfd.shared.oxide.computer/rfd/0609
+INFO     2025-11-01 10:19:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-01 10:19:26 [scraper.py:171] 📥 [HN #5] Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking
+INFO     2025-11-01 10:19:26 [scraper.py:172] 🔗 [HN #5] URL: https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
+INFO     2025-11-01 10:19:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-01 10:19:26 [scraper.py:171] 📥 [HN #6] Myths Programmers Believe about CPU Caches
+INFO     2025-11-01 10:19:26 [scraper.py:172] 🔗 [HN #6] URL: https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+INFO     2025-11-01 10:19:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-01 10:19:26 [scraper.py:171] 📥 [HN #7] Addiction Markets
+INFO     2025-11-01 10:19:26 [scraper.py:172] 🔗 [HN #7] URL: https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
+INFO     2025-11-01 10:19:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-01 10:19:26 [scraper.py:171] 📥 [HN #8] Introducing architecture variants
+INFO     2025-11-01 10:19:26 [scraper.py:172] 🔗 [HN #8] URL: https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
+INFO     2025-11-01 10:19:26 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-01 10:19:26 [scraper.py:171] 📥 [HN #9] Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book
+INFO     2025-11-01 10:19:26 [scraper.py:172] 🔗 [HN #9] URL: https://arxiv.org/abs/2510.21613
+INFO     2025-11-01 10:19:26 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-01 10:19:27 [scraper.py:171] 📥 [HN #10] Nisus Writer: Schrödinger's Word Processor
+INFO     2025-11-01 10:19:27 [scraper.py:172] 🔗 [HN #10] URL: https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/
+INFO     2025-11-01 10:19:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-01 10:19:27 [scraper.py:179] 🎉 [HN] All done.
+
