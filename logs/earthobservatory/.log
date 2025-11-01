@@ -1938,3 +1938,9 @@ INFO     2025-11-01 02:05:49 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-11-01 02:05:49 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-11-01 02:05:49 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-01 05:22:48 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-01 05:22:49 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-01 05:23:09 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-11-01 05:23:09 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-11-01 05:23:09 [scraper.py:155] ✅ [EO] Successfully fetched.
+
