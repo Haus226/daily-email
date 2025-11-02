@@ -9601,3 +9601,36 @@ INFO     2025-11-02 02:08:12 [scraper.py:172] 🔗 [HN #10] URL: https://helix-e
 INFO     2025-11-02 02:08:12 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-02 02:08:12 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-02 05:23:26 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-02 05:23:26 [scraper.py:171] 📥 [HN #1] Visopsys: OS maintained by a single developer since 1997
+INFO     2025-11-02 05:23:26 [scraper.py:172] 🔗 [HN #1] URL: https://visopsys.org/
+INFO     2025-11-02 05:23:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-02 05:23:26 [scraper.py:171] 📥 [HN #2] You Don't Need Anubis
+INFO     2025-11-02 05:23:26 [scraper.py:172] 🔗 [HN #2] URL: https://fxgn.dev/blog/anubis/
+INFO     2025-11-02 05:23:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #3] Pomelli
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #3] URL: https://blog.google/technology/google-labs/pomelli/
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #4] Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/frostyplanet/crossfire-rs
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #5] How I use every Claude Code feature
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #5] URL: https://blog.sshh.io/p/how-i-use-every-claude-code-feature
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #6] Claude Code can debug low-level cryptography
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #6] URL: https://words.filippo.io/claude-debugging/
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #7] Updated practice for review articles and position papers in ArXiv CS category
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #7] URL: https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #8] Anonymous credentials: rate-limit bots and agents without compromising privacy
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #8] URL: https://blog.cloudflare.com/private-rate-limiting/
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-02 05:23:27 [scraper.py:171] 📥 [HN #9] GHC now runs in the browser
+INFO     2025-11-02 05:23:27 [scraper.py:172] 🔗 [HN #9] URL: https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169
+INFO     2025-11-02 05:23:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-02 05:23:28 [scraper.py:171] 📥 [HN #10] LM8560, the eternal chip from the 1980 years
+INFO     2025-11-02 05:23:28 [scraper.py:172] 🔗 [HN #10] URL: https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/
+INFO     2025-11-02 05:23:28 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-02 05:23:28 [scraper.py:179] 🎉 [HN] All done.
+
