@@ -9667,3 +9667,36 @@ INFO     2025-11-02 10:18:53 [scraper.py:172] 🔗 [HN #10] URL: https://ninjasa
 INFO     2025-11-02 10:18:53 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-02 10:18:53 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-03 02:07:13 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #1] Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #1] URL: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #2] Facts about throwing good parties
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #2] URL: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #3] Using FreeBSD to make self-hosting fun again
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #3] URL: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #4] Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #4] URL: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #5] Scents of Arabia: Interdisciplinary approaches to ancient olfactory worlds
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #5] URL: https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-03 02:07:14 [scraper.py:171] 📥 [HN #6] Why don't you use dependent types?
+INFO     2025-11-03 02:07:14 [scraper.py:172] 🔗 [HN #6] URL: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+INFO     2025-11-03 02:07:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-03 02:07:15 [scraper.py:171] 📥 [HN #7] Lisp: Notes on its Past and Future (1980)
+INFO     2025-11-03 02:07:15 [scraper.py:172] 🔗 [HN #7] URL: https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html
+INFO     2025-11-03 02:07:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-03 02:07:15 [scraper.py:171] 📥 [HN #8] Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
+INFO     2025-11-03 02:07:15 [scraper.py:172] 🔗 [HN #8] URL: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+INFO     2025-11-03 02:07:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-03 02:07:15 [scraper.py:171] 📥 [HN #9] Reproducing the AWS Outage Race Condition with a Model Checker
+INFO     2025-11-03 02:07:15 [scraper.py:172] 🔗 [HN #9] URL: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
+INFO     2025-11-03 02:07:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-03 02:07:15 [scraper.py:171] 📥 [HN #10] URLs are state containers
+INFO     2025-11-03 02:07:15 [scraper.py:172] 🔗 [HN #10] URL: https://alfy.blog/2025/10/31/your-url-is-your-state.html
+INFO     2025-11-03 02:07:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-03 02:07:15 [scraper.py:179] 🎉 [HN] All done.
+
