@@ -9700,3 +9700,36 @@ INFO     2025-11-03 02:07:15 [scraper.py:172] 🔗 [HN #10] URL: https://alfy.bl
 INFO     2025-11-03 02:07:15 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-03 02:07:15 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-03 05:25:30 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-03 05:25:30 [scraper.py:171] 📥 [HN #1] Simple trick to increase coverage: Lying to users about signal strength
+INFO     2025-11-03 05:25:30 [scraper.py:172] 🔗 [HN #1] URL: https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/
+INFO     2025-11-03 05:25:30 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-03 05:25:30 [scraper.py:171] 📥 [HN #2] Facts about throwing good parties
+INFO     2025-11-03 05:25:30 [scraper.py:172] 🔗 [HN #2] URL: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+INFO     2025-11-03 05:25:30 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #3] Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #3] URL: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #4] Oxy is Cloudflare's Rust-based next generation proxy framework
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #4] URL: https://blog.cloudflare.com/introducing-oxy/
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #5] Using FreeBSD to make self-hosting fun again
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #5] URL: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #6] When models manipulate manifolds: The geometry of a counting task
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #6] URL: https://transformer-circuits.pub/2025/linebreaks/index.html
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #7] Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #7] URL: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-03 05:25:31 [scraper.py:171] 📥 [HN #8] Why don't you use dependent types?
+INFO     2025-11-03 05:25:31 [scraper.py:172] 🔗 [HN #8] URL: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+INFO     2025-11-03 05:25:31 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-03 05:25:32 [scraper.py:171] 📥 [HN #9] Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
+INFO     2025-11-03 05:25:32 [scraper.py:172] 🔗 [HN #9] URL: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+INFO     2025-11-03 05:25:32 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-03 05:25:33 [scraper.py:171] 📥 [HN #10] How the Mayans were able to accurately predict solar eclipses for centuries
+INFO     2025-11-03 05:25:33 [scraper.py:172] 🔗 [HN #10] URL: https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html
+INFO     2025-11-03 05:25:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-03 05:25:33 [scraper.py:179] 🎉 [HN] All done.
+
