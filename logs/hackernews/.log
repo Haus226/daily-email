@@ -9733,3 +9733,36 @@ INFO     2025-11-03 05:25:33 [scraper.py:172] 🔗 [HN #10] URL: https://phys.or
 INFO     2025-11-03 05:25:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-03 05:25:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-03 10:24:17 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-03 10:24:17 [scraper.py:171] 📥 [HN #1] Tiny electric motor outperforms record holder by 40%
+INFO     2025-11-03 10:24:17 [scraper.py:172] 🔗 [HN #1] URL: https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/
+INFO     2025-11-03 10:24:17 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #2] Oxy is Cloudflare's Rust-based next generation proxy framework (2023)
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #2] URL: https://blog.cloudflare.com/introducing-oxy/
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #3] KaTeX – The fastest math typesetting library for the web
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #3] URL: https://katex.org/
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #4] ECL Runs Maxima in a Browser
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #4] URL: https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #5] Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #5] URL: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #6] The Arduino Uno Q is a weird hybrid SBC
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #6] URL: https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #7] Using FreeBSD to make self-hosting fun again
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #7] URL: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-03 10:24:18 [scraper.py:171] 📥 [HN #8] China intimidated UK university to ditch human rights research, documents show
+INFO     2025-11-03 10:24:18 [scraper.py:172] 🔗 [HN #8] URL: https://www.bbc.com/news/articles/cq50j5vwny6o
+INFO     2025-11-03 10:24:18 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-03 10:24:19 [scraper.py:171] 📥 [HN #9] When models manipulate manifolds: The geometry of a counting task
+INFO     2025-11-03 10:24:19 [scraper.py:172] 🔗 [HN #9] URL: https://transformer-circuits.pub/2025/linebreaks/index.html
+INFO     2025-11-03 10:24:19 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-03 10:24:19 [scraper.py:171] 📥 [HN #10] Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
+INFO     2025-11-03 10:24:19 [scraper.py:172] 🔗 [HN #10] URL: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+INFO     2025-11-03 10:24:19 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-03 10:24:19 [scraper.py:179] 🎉 [HN] All done.
+
