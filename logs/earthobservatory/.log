@@ -1986,3 +1986,10 @@ INFO     2025-11-03 10:25:00 [scraper.py:134] 📥 [EO] Title: A Desert Intersec
 INFO     2025-11-03 10:25:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
 INFO     2025-11-03 10:25:00 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-04 02:02:24 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-04 02:02:25 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+ERROR    2025-11-04 02:11:14 [scraper.py:104] ❌ [EO] LLM Summary failed: Expecting value: line 2521 column 1 (char 13860)
+INFO     2025-11-04 02:11:14 [scraper.py:134] 📥 [EO] Title: A Desert Intersection
+INFO     2025-11-04 02:11:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154848/tarimbasinzm_oli2_20250911_th.jpg
+INFO     2025-11-04 02:11:14 [scraper.py:155] ✅ [EO] Successfully fetched.
+
