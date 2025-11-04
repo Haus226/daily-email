@@ -9832,3 +9832,36 @@ INFO     2025-11-04 05:25:06 [scraper.py:172] 🔗 [HN #10] URL: https://www.air
 INFO     2025-11-04 05:25:06 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-04 05:25:06 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-04 10:23:52 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-04 10:23:52 [scraper.py:171] 📥 [HN #1] You can't cURL a Border
+INFO     2025-11-04 10:23:52 [scraper.py:172] 🔗 [HN #1] URL: https://drobinin.com/posts/you-cant-curl-a-border/
+INFO     2025-11-04 10:23:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-04 10:23:52 [scraper.py:171] 📥 [HN #2] Some software bloat is OK
+INFO     2025-11-04 10:23:52 [scraper.py:172] 🔗 [HN #2] URL: https://waspdev.com/articles/2025-11-04/some-software-bloat-is-ok
+INFO     2025-11-04 10:23:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-04 10:23:52 [scraper.py:171] 📥 [HN #3] Things you can do with diodes
+INFO     2025-11-04 10:23:52 [scraper.py:172] 🔗 [HN #3] URL: https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
+INFO     2025-11-04 10:23:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #4] AI's Dial-Up Era
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #4] URL: https://www.wreflection.com/p/ai-dial-up-era
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #5] My Truck Desk
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #5] URL: https://www.theparisreview.org/blog/2025/10/29/truck-desk/
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #6] When stick figures fought
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #6] URL: https://animationobsessive.substack.com/p/when-stick-figures-fought
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #7] Lessons from interviews on deploying AI Agents in production
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #7] URL: https://mmc.vc/research/state-of-agentic-ai-founders-edition/
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #8] A friendly tour of process memory on Linux
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #8] URL: https://www.0xkato.xyz/linux-process-memory/
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #9] Pain Points of OCaml
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #9] URL: https://quamserena.com/2025-11-03/pain-points-of-ocaml
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:171] 📥 [HN #10] Show HN: Yourshoesmells.com – Find the most smelly boulder gym
+INFO     2025-11-04 10:23:53 [scraper.py:172] 🔗 [HN #10] URL: https://yourshoesmells.com
+INFO     2025-11-04 10:23:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-04 10:23:53 [scraper.py:179] 🎉 [HN] All done.
+
