@@ -9799,3 +9799,36 @@ INFO     2025-11-04 02:02:27 [scraper.py:172] 🔗 [HN #10] URL: https://guestbo
 INFO     2025-11-04 02:02:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-04 02:02:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-04 05:25:04 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #1] Why AC is cheap, but AC repair is a luxury
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #1] URL: https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #2] Things you can do with diodes
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #2] URL: https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #3] AI's Dial-Up Era
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #3] URL: https://www.wreflection.com/p/ai-dial-up-era
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #4] A friendly tour of process memory on Linux
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #4] URL: https://www.0xkato.xyz/linux-process-memory/
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #5] When stick figures fought
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #5] URL: https://animationobsessive.substack.com/p/when-stick-figures-fought
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-04 05:25:05 [scraper.py:171] 📥 [HN #6] An individual can change an organization
+INFO     2025-11-04 05:25:05 [scraper.py:172] 🔗 [HN #6] URL: https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html
+INFO     2025-11-04 05:25:05 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-04 05:25:06 [scraper.py:171] 📥 [HN #7] Guideline has been acquired by Gusto
+INFO     2025-11-04 05:25:06 [scraper.py:172] 🔗 [HN #7] URL: https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition
+INFO     2025-11-04 05:25:06 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-04 05:25:06 [scraper.py:171] 📥 [HN #8] Ask HN: Who is hiring? (November 2025)
+INFO     2025-11-04 05:25:06 [scraper.py:172] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=45800465
+INFO     2025-11-04 05:25:06 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-04 05:25:06 [scraper.py:171] 📥 [HN #9] The Mack Super Pumper was a locomotive engined fire fighter (2018)
+INFO     2025-11-04 05:25:06 [scraper.py:172] 🔗 [HN #9] URL: https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/
+INFO     2025-11-04 05:25:06 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-04 05:25:06 [scraper.py:171] 📥 [HN #10] Linkers (2007)
+INFO     2025-11-04 05:25:06 [scraper.py:172] 🔗 [HN #10] URL: https://www.airs.com/blog/archives/38
+INFO     2025-11-04 05:25:06 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-04 05:25:06 [scraper.py:179] 🎉 [HN] All done.
+
