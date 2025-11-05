@@ -9898,3 +9898,36 @@ INFO     2025-11-05 02:03:49 [scraper.py:172] 🔗 [HN #10] URL: https://terra.l
 INFO     2025-11-05 02:03:49 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-05 02:03:49 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-05 05:25:27 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-05 05:25:28 [scraper.py:171] 📥 [HN #1] Mr Tiff
+INFO     2025-11-05 05:25:28 [scraper.py:172] 🔗 [HN #1] URL: https://inventingthefuture.ghost.io/mr-tiff/
+INFO     2025-11-05 05:25:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-05 05:25:28 [scraper.py:171] 📥 [HN #2] Hypothesis: Property-Based Testing for Python
+INFO     2025-11-05 05:25:28 [scraper.py:172] 🔗 [HN #2] URL: https://hypothesis.readthedocs.io/en/latest/
+INFO     2025-11-05 05:25:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-05 05:25:28 [scraper.py:171] 📥 [HN #3] Asus Announces October Availability of ProArt Display 8K PA32KCX
+INFO     2025-11-05 05:25:28 [scraper.py:172] 🔗 [HN #3] URL: https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/
+INFO     2025-11-05 05:25:28 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-05 05:25:28 [scraper.py:171] 📥 [HN #4] GM Deprecating In-Car App Store for Models as Recent as 2020
+INFO     2025-11-05 05:25:28 [scraper.py:172] 🔗 [HN #4] URL: https://gmauthority.com/blog/2025/11/these-gm-vehicles-can-no-longer-download-apps-through-their-infotainment-system/
+INFO     2025-11-05 05:25:28 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-05 05:25:28 [scraper.py:171] 📥 [HN #5] RISC-V takes first step toward international ISO/IEC standardization
+INFO     2025-11-05 05:25:28 [scraper.py:172] 🔗 [HN #5] URL: https://riscv.org/blog/risc-v-jtc1-pas-submitter/
+INFO     2025-11-05 05:25:28 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:171] 📥 [HN #6] Apple’s Persona technology uses Gaussian splatting to create 3D facial scans
+INFO     2025-11-05 05:25:29 [scraper.py:172] 🔗 [HN #6] URL: https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/
+INFO     2025-11-05 05:25:29 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:171] 📥 [HN #7] This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours
+INFO     2025-11-05 05:25:29 [scraper.py:172] 🔗 [HN #7] URL: https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours
+INFO     2025-11-05 05:25:29 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:171] 📥 [HN #8] Direct File won't happen in 2026, IRS tells states
+INFO     2025-11-05 05:25:29 [scraper.py:172] 🔗 [HN #8] URL: https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/
+INFO     2025-11-05 05:25:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:171] 📥 [HN #9] Bluetui – A TUI for managing Bluetooth on Linux
+INFO     2025-11-05 05:25:29 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/pythops/bluetui
+INFO     2025-11-05 05:25:29 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:171] 📥 [HN #10] Patching 68K Software – SimpleText
+INFO     2025-11-05 05:25:29 [scraper.py:172] 🔗 [HN #10] URL: https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/
+INFO     2025-11-05 05:25:29 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-05 05:25:29 [scraper.py:179] 🎉 [HN] All done.
+
