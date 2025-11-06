@@ -9964,3 +9964,36 @@ INFO     2025-11-05 10:23:06 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-11-05 10:23:06 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-05 10:23:06 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-06 02:03:44 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-06 02:03:44 [scraper.py:171] 📥 [HN #1] Solarpunk is happening in Africa
+INFO     2025-11-06 02:03:44 [scraper.py:172] 🔗 [HN #1] URL: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+INFO     2025-11-06 02:03:44 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-06 02:03:44 [scraper.py:171] 📥 [HN #2] Dillo, a multi-platform graphical web browser
+INFO     2025-11-06 02:03:44 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/dillo-browser/dillo
+INFO     2025-11-06 02:03:44 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #3] ChatGPT terms disallow its use in providing legal and medical advice to others
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #3] URL: https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #4] Recursive macros in C, demystified (once the ugly crying stops)
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #4] URL: https://h4x0r.org/big-mac-ro-attack/
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #5] The state of SIMD in Rust in 2025
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #5] URL: https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #6] New gel restores dental enamel and could revolutionise tooth repair
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #6] URL: https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #7] Firefox profiles: Private, focused spaces for all the ways you browse
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #7] URL: https://blog.mozilla.org/en/firefox/profile-management/
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #8] Why aren't smart people happier?
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #8] URL: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-06 02:03:45 [scraper.py:171] 📥 [HN #9] Ruby and Its Neighbors: Smalltalk
+INFO     2025-11-06 02:03:45 [scraper.py:172] 🔗 [HN #9] URL: https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/
+INFO     2025-11-06 02:03:45 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-06 02:03:46 [scraper.py:171] 📥 [HN #10] A Lost IBM PC/at Model? Analyzing a Newfound Old Bios
+INFO     2025-11-06 02:03:46 [scraper.py:172] 🔗 [HN #10] URL: https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/
+INFO     2025-11-06 02:03:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-06 02:03:46 [scraper.py:179] 🎉 [HN] All done.
+
