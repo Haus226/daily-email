@@ -10030,3 +10030,36 @@ INFO     2025-11-06 05:25:24 [scraper.py:172] 🔗 [HN #10] URL: https://www.the
 INFO     2025-11-06 05:25:24 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-06 05:25:24 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-06 10:23:21 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-06 10:23:22 [scraper.py:171] 📥 [HN #1] What the hell have you built
+INFO     2025-11-06 10:23:22 [scraper.py:172] 🔗 [HN #1] URL: https://wthhyb.sacha.house/
+INFO     2025-11-06 10:23:22 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-06 10:23:22 [scraper.py:171] 📥 [HN #2] Mathematical Exploration and Discovery at Scale
+INFO     2025-11-06 10:23:22 [scraper.py:172] 🔗 [HN #2] URL: https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/
+INFO     2025-11-06 10:23:22 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-06 10:23:22 [scraper.py:171] 📥 [HN #3] Ratatui – App Showcase
+INFO     2025-11-06 10:23:22 [scraper.py:172] 🔗 [HN #3] URL: https://ratatui.rs/showcase/apps/
+INFO     2025-11-06 10:23:22 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #4] Solarpunk is happening in Africa
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #4] URL: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #5] Erlang Meets Idris: Cure Programming Language
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #5] URL: https://cure-lang.org/
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #6] End of Japanese community
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #6] URL: https://support.mozilla.org/en-US/forums/contributors/717446
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #7] Dillo, a multi-platform graphical web browser
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/dillo-browser/dillo
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #8] ChatGPT terms disallow its use in providing legal and medical advice to others
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #8] URL: https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #9] Firefox profiles: Private, focused spaces for all the ways you browse
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #9] URL: https://blog.mozilla.org/en/firefox/profile-management/
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:171] 📥 [HN #10] Recursive macros in C, demystified (once the ugly crying stops)
+INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #10] URL: https://h4x0r.org/big-mac-ro-attack/
+INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-06 10:23:23 [scraper.py:179] 🎉 [HN] All done.
+
