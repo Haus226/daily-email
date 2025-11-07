@@ -10129,3 +10129,36 @@ INFO     2025-11-07 05:24:48 [scraper.py:172] 🔗 [HN #10] URL: https://ras.ac.
 INFO     2025-11-07 05:24:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-07 05:24:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-07 10:22:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-07 10:22:18 [scraper.py:171] 📥 [HN #1] Leaving Meta and PyTorch
+INFO     2025-11-07 10:22:18 [scraper.py:172] 🔗 [HN #1] URL: https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html
+INFO     2025-11-07 10:22:18 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-07 10:22:19 [scraper.py:171] 📥 [HN #2] A Fond Farewell
+INFO     2025-11-07 10:22:19 [scraper.py:172] 🔗 [HN #2] URL: https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac
+INFO     2025-11-07 10:22:19 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-07 10:22:19 [scraper.py:171] 📥 [HN #3] A startup’s quest to store electricity in the ocean
+INFO     2025-11-07 10:22:19 [scraper.py:172] 🔗 [HN #3] URL: https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/
+INFO     2025-11-07 10:22:19 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-07 10:22:19 [scraper.py:171] 📥 [HN #4] Lessons from Growing a Piracy Streaming Site
+INFO     2025-11-07 10:22:19 [scraper.py:172] 🔗 [HN #4] URL: https://prison.josh.mn/lessons
+INFO     2025-11-07 10:22:19 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-07 10:22:19 [scraper.py:171] 📥 [HN #5] You should write an agent
+INFO     2025-11-07 10:22:19 [scraper.py:172] 🔗 [HN #5] URL: https://fly.io/blog/everyone-write-an-agent/
+INFO     2025-11-07 10:22:19 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-07 10:22:19 [scraper.py:171] 📥 [HN #6] Two billion email addresses were exposed
+INFO     2025-11-07 10:22:20 [scraper.py:172] 🔗 [HN #6] URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
+INFO     2025-11-07 10:22:20 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-07 10:22:20 [scraper.py:171] 📥 [HN #7] Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
+INFO     2025-11-07 10:22:20 [scraper.py:172] 🔗 [HN #7] URL: https://moonshotai.github.io/Kimi-K2/thinking.html
+INFO     2025-11-07 10:22:20 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-07 10:22:20 [scraper.py:171] 📥 [HN #8] Text case changes the size of QR codes
+INFO     2025-11-07 10:22:20 [scraper.py:172] 🔗 [HN #8] URL: https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/
+INFO     2025-11-07 10:22:20 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-07 10:22:20 [scraper.py:171] 📥 [HN #9] The Silent Scientist: When Software Research Fails to Reach Its Audience
+INFO     2025-11-07 10:22:20 [scraper.py:172] 🔗 [HN #9] URL: https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/
+INFO     2025-11-07 10:22:20 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-07 10:22:20 [scraper.py:171] 📥 [HN #10] Game design is simple
+INFO     2025-11-07 10:22:20 [scraper.py:172] 🔗 [HN #10] URL: https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
+INFO     2025-11-07 10:22:20 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-07 10:22:20 [scraper.py:179] 🎉 [HN] All done.
+
