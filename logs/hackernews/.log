@@ -10063,3 +10063,36 @@ INFO     2025-11-06 10:23:23 [scraper.py:172] 🔗 [HN #10] URL: https://h4x0r.o
 INFO     2025-11-06 10:23:23 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-06 10:23:23 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-07 02:02:18 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-07 02:02:18 [scraper.py:171] 📥 [HN #1] You should write an agent
+INFO     2025-11-07 02:02:18 [scraper.py:172] 🔗 [HN #1] URL: https://fly.io/blog/everyone-write-an-agent/
+INFO     2025-11-07 02:02:18 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-07 02:02:18 [scraper.py:171] 📥 [HN #2] Scientists find ways to boost memory in aging brains
+INFO     2025-11-07 02:02:18 [scraper.py:172] 🔗 [HN #2] URL: https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html
+INFO     2025-11-07 02:02:18 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-07 02:02:18 [scraper.py:171] 📥 [HN #3] Two billion email addresses were exposed
+INFO     2025-11-07 02:02:18 [scraper.py:172] 🔗 [HN #3] URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
+INFO     2025-11-07 02:02:18 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-07 02:02:18 [scraper.py:171] 📥 [HN #4] Game design is simple
+INFO     2025-11-07 02:02:18 [scraper.py:172] 🔗 [HN #4] URL: https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
+INFO     2025-11-07 02:02:18 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #5] Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #5] URL: https://moonshotai.github.io/Kimi-K2/thinking.html
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #6] Show HN: I scraped 3B Goodreads reviews to train a better recommendation model
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #6] URL: https://book.sv
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #7] Universe's expansion 'is now slowing, not speeding up'
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #7] URL: https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #8] Swift on FreeBSD Preview
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #8] URL: https://forums.swift.org/t/swift-on-freebsd-preview/83064
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #9] Open Source Implementation of Apple's Private Compute Cloud
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/openpcc/openpcc
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:171] 📥 [HN #10] LLMs encode how difficult problems are
+INFO     2025-11-07 02:02:19 [scraper.py:172] 🔗 [HN #10] URL: https://arxiv.org/abs/2510.18147
+INFO     2025-11-07 02:02:19 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-07 02:02:19 [scraper.py:179] 🎉 [HN] All done.
+

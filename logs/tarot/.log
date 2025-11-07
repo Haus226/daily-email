@@ -1493,3 +1493,8 @@ INFO     2025-11-06 10:23:21 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacl
 INFO     2025-11-06 10:23:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-11-06 10:23:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-11-07 02:02:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-07 02:02:18 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-07 02:02:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-07 02:02:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
