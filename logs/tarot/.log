@@ -1508,3 +1508,8 @@ INFO     2025-11-07 10:22:18 [scraper.py:391] 📥 [TAROT] Card: The Last Judgme
 INFO     2025-11-07 10:22:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-11-07 10:22:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-11-08 01:55:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-08 01:55:57 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-08 01:55:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-08 01:55:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
