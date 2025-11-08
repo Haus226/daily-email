@@ -10195,3 +10195,36 @@ INFO     2025-11-08 01:55:59 [scraper.py:172] 🔗 [HN #10] URL: https://news.it
 INFO     2025-11-08 01:55:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-08 01:55:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-08 05:22:53 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-08 05:22:53 [scraper.py:171] 📥 [HN #1] Why is Zig so cool?
+INFO     2025-11-08 05:22:53 [scraper.py:172] 🔗 [HN #1] URL: https://nilostolte.github.io/tech/articles/ZigCool.html
+INFO     2025-11-08 05:22:53 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-08 05:22:53 [scraper.py:171] 📥 [HN #2] Snapchat open-sources Valdi a cross-platform UI framework
+INFO     2025-11-08 05:22:53 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/Snapchat/Valdi
+INFO     2025-11-08 05:22:53 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-08 05:22:53 [scraper.py:171] 📥 [HN #3] Mullvad: Shutting down our search proxy Leta
+INFO     2025-11-08 05:22:53 [scraper.py:172] 🔗 [HN #3] URL: https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta
+INFO     2025-11-08 05:22:53 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #4] Becoming a Compiler Engineer
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #4] URL: https://rona.substack.com/p/becoming-a-compiler-engineer
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #5] Myna: Monospace typeface designed for symbol-heavy programming languages
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/sayyadirfanali/Myna
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #6] How did I get here?
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #6] URL: https://how-did-i-get-here.net/
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #7] Immutable Software Deploys Using ZFS Jails on FreeBSD
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #7] URL: https://conradresearch.com/articles/immutable-software-deploy-zfs-jails
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #8] Why I love OCaml (2023)
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #8] URL: https://mccd.space/posts/ocaml-the-worlds-best/
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-08 05:22:54 [scraper.py:171] 📥 [HN #9] Ruby Solved My Problem
+INFO     2025-11-08 05:22:54 [scraper.py:172] 🔗 [HN #9] URL: https://newsletter.masilotti.com/p/ruby-already-solved-my-problem
+INFO     2025-11-08 05:22:54 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-08 05:22:55 [scraper.py:171] 📥 [HN #10] Can you save on LLM tokens using images instead of text?
+INFO     2025-11-08 05:22:55 [scraper.py:172] 🔗 [HN #10] URL: https://pagewatch.ai/blog/post/llm-text-as-image-tokens/
+INFO     2025-11-08 05:22:55 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-08 05:22:55 [scraper.py:179] 🎉 [HN] All done.
+
