@@ -10294,3 +10294,36 @@ INFO     2025-11-09 02:07:05 [scraper.py:172] 🔗 [HN #10] URL: https://open.sp
 INFO     2025-11-09 02:07:05 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-09 02:07:05 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-09 05:23:04 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-09 05:23:05 [scraper.py:171] 📥 [HN #1] Ironclad – formally verified, real-time capable, Unix-like OS kernel
+INFO     2025-11-09 05:23:05 [scraper.py:172] 🔗 [HN #1] URL: https://ironclad-os.org/
+INFO     2025-11-09 05:23:05 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-09 05:23:05 [scraper.py:171] 📥 [HN #2] Tabloid: The Clickbait Headline Programming Language
+INFO     2025-11-09 05:23:05 [scraper.py:172] 🔗 [HN #2] URL: https://tabloid.vercel.app/
+INFO     2025-11-09 05:23:05 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-09 05:23:05 [scraper.py:171] 📥 [HN #3] Boring Company fined nearly $500K after it dumped drilling fluids into manholes
+INFO     2025-11-09 05:23:05 [scraper.py:172] 🔗 [HN #3] URL: https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html
+INFO     2025-11-09 05:23:05 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-09 05:23:05 [scraper.py:171] 📥 [HN #4] Marko – A declarative, HTML‑based language
+INFO     2025-11-09 05:23:05 [scraper.py:172] 🔗 [HN #4] URL: https://markojs.com/
+INFO     2025-11-09 05:23:05 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-09 05:23:05 [scraper.py:171] 📥 [HN #5] Largest cargo sailboat completes first Atlantic crossing
+INFO     2025-11-09 05:23:05 [scraper.py:172] 🔗 [HN #5] URL: https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/
+INFO     2025-11-09 05:23:05 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:171] 📥 [HN #6] Study identifies weaknesses in how AI systems are evaluated
+INFO     2025-11-09 05:23:06 [scraper.py:172] 🔗 [HN #6] URL: https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+INFO     2025-11-09 05:23:06 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:171] 📥 [HN #7] Control structures in programming languages: from goto to algebraic effects
+INFO     2025-11-09 05:23:06 [scraper.py:172] 🔗 [HN #7] URL: http://xavierleroy.org/control-structures/
+INFO     2025-11-09 05:23:06 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:171] 📥 [HN #8] Open-source communications by bouncing signals off the Moon
+INFO     2025-11-09 05:23:06 [scraper.py:172] 🔗 [HN #8] URL: https://open.space/
+INFO     2025-11-09 05:23:06 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:171] 📥 [HN #9] Syntax and Semantics of Programming Languages (1995)
+INFO     2025-11-09 05:23:06 [scraper.py:172] 🔗 [HN #9] URL: https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/
+INFO     2025-11-09 05:23:06 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:171] 📥 [HN #10] WriterdeckOS
+INFO     2025-11-09 05:23:06 [scraper.py:172] 🔗 [HN #10] URL: https://writerdeckos.com
+INFO     2025-11-09 05:23:06 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-09 05:23:06 [scraper.py:179] 🎉 [HN] All done.
+
