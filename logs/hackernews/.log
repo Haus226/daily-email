@@ -10360,3 +10360,36 @@ INFO     2025-11-09 10:19:01 [scraper.py:172] 🔗 [HN #10] URL: https://www.oii
 INFO     2025-11-09 10:19:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-09 10:19:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-10 02:08:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-10 02:08:25 [scraper.py:171] 📥 [HN #1] Marble Fountain
+INFO     2025-11-10 02:08:25 [scraper.py:172] 🔗 [HN #1] URL: https://willmorrison.net/posts/marble-fountain/
+INFO     2025-11-10 02:08:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-10 02:08:25 [scraper.py:171] 📥 [HN #2] Ask HN: What Are You Working On? (Nov 2025)
+INFO     2025-11-10 02:08:25 [scraper.py:172] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=45869146
+INFO     2025-11-10 02:08:25 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-10 02:08:25 [scraper.py:171] 📥 [HN #3] Show HN: LLM Onestop – Access ChatGPT, Claude, Gemini, and more in one interface
+INFO     2025-11-10 02:08:25 [scraper.py:172] 🔗 [HN #3] URL: https://www.llmonestop.com
+INFO     2025-11-10 02:08:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-10 02:08:25 [scraper.py:171] 📥 [HN #4] Montana becomes first state to enshrine 'right to compute' into law
+INFO     2025-11-10 02:08:25 [scraper.py:172] 🔗 [HN #4] URL: https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/
+INFO     2025-11-10 02:08:25 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-10 02:08:26 [scraper.py:171] 📥 [HN #5] Metabolic and cellular differences between sedentary and active individuals
+INFO     2025-11-10 02:08:26 [scraper.py:172] 🔗 [HN #5] URL: https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you
+INFO     2025-11-10 02:08:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-10 02:08:26 [scraper.py:171] 📥 [HN #6] Drilling down on Uncle Sam's proposed TP-Link ban
+INFO     2025-11-10 02:08:26 [scraper.py:172] 🔗 [HN #6] URL: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
+INFO     2025-11-10 02:08:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-10 02:08:27 [scraper.py:171] 📥 [HN #7] JVM exceptions are weird: a decompiler perspective
+INFO     2025-11-10 02:08:27 [scraper.py:172] 🔗 [HN #7] URL: https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
+INFO     2025-11-10 02:08:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-10 02:08:27 [scraper.py:171] 📥 [HN #8] My Git history was a mess of 'update' and 'fix' – so I made AI clean it up
+INFO     2025-11-10 02:08:27 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/f/git-rewrite-commits
+INFO     2025-11-10 02:08:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-10 02:08:27 [scraper.py:171] 📥 [HN #9] The Manuscripts of Edsger W. Dijkstra
+INFO     2025-11-10 02:08:27 [scraper.py:172] 🔗 [HN #9] URL: https://www.cs.utexas.edu/~EWD/
+INFO     2025-11-10 02:08:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-10 02:08:27 [scraper.py:171] 📥 [HN #10] Building a 2.5kWh battery from disposable vapes to power my workshop [video]
+INFO     2025-11-10 02:08:27 [scraper.py:172] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=dy-wFixuRVU
+INFO     2025-11-10 02:08:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-10 02:08:27 [scraper.py:179] 🎉 [HN] All done.
+
