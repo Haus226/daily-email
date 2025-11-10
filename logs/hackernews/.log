@@ -10393,3 +10393,36 @@ INFO     2025-11-10 02:08:27 [scraper.py:172] 🔗 [HN #10] URL: https://www.you
 INFO     2025-11-10 02:08:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-10 02:08:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-10 05:25:45 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-10 05:25:45 [scraper.py:171] 📥 [HN #1] Open source has a growing problem with LLM generated issues
+INFO     2025-11-10 05:25:45 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/opencontainers/runc/issues/4990
+INFO     2025-11-10 05:25:45 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-10 05:25:45 [scraper.py:171] 📥 [HN #2] 40 years on, Former Nintendo employees reveal what it took to launch the NES
+INFO     2025-11-10 05:25:45 [scraper.py:172] 🔗 [HN #2] URL: https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/
+INFO     2025-11-10 05:25:45 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-10 05:25:45 [scraper.py:171] 📥 [HN #3] Marble Fountain
+INFO     2025-11-10 05:25:45 [scraper.py:172] 🔗 [HN #3] URL: https://willmorrison.net/posts/marble-fountain/
+INFO     2025-11-10 05:25:45 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #4] Ask HN: What Are You Working On? (Nov 2025)
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=45869146
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #5] Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #5] URL: https://rajivm1991.github.io/DroidDock/
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #6] Montana becomes first state to enshrine 'right to compute' into law
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #6] URL: https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #7] We Love Horror Stories
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #7] URL: https://nautil.us/why-we-love-horror-stories-1245342/
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #8] Drilling down on Uncle Sam's proposed TP-Link ban
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #8] URL: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #9] Building a 2.5kWh battery from disposable vapes to power my workshop [video]
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #9] URL: https://www.youtube.com/watch?v=dy-wFixuRVU
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:171] 📥 [HN #10] JVM exceptions are weird: a decompiler perspective
+INFO     2025-11-10 05:25:46 [scraper.py:172] 🔗 [HN #10] URL: https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
+INFO     2025-11-10 05:25:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-10 05:25:46 [scraper.py:179] 🎉 [HN] All done.
+
