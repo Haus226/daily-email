@@ -10492,3 +10492,36 @@ INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #10] URL: https://shop.be
 INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-11 02:04:25 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-11 05:25:21 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-11 05:25:21 [scraper.py:171] 📥 [HN #1] The 'Toy Story' You Remember
+INFO     2025-11-11 05:25:21 [scraper.py:172] 🔗 [HN #1] URL: https://animationobsessive.substack.com/p/the-toy-story-you-remember
+INFO     2025-11-11 05:25:21 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-11 05:25:21 [scraper.py:171] 📥 [HN #2] AI documentation you can talk to, for every repo
+INFO     2025-11-11 05:25:21 [scraper.py:172] 🔗 [HN #2] URL: https://deepwiki.com/
+INFO     2025-11-11 05:25:21 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #3] High-performance 2D graphics rendering on the CPU using sparse strips [pdf]
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/LaurenzV/master-thesis/blob/main/main.pdf
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #4] When Soviet-made cars roamed Singapore roads
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #4] URL: https://remembersingapore.org/2025/10/30/soviet-made-cars-singapore-70s-to-90s/
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #5] Unexpected things that are people
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #5] URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #6] Unix v4 Tape Found
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #6] URL: https://discuss.systems/@ricci/115504720054699983
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #7] The lazy Git UI you didn't know you need
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #7] URL: https://www.bwplotka.dev/2025/lazygit/
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-11 05:25:22 [scraper.py:171] 📥 [HN #8] Time to start de-Appling
+INFO     2025-11-11 05:25:22 [scraper.py:172] 🔗 [HN #8] URL: https://heatherburns.tech/2025/11/10/time-to-start-de-appling/
+INFO     2025-11-11 05:25:22 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-11 05:25:23 [scraper.py:171] 📥 [HN #9] Writing your own BEAM
+INFO     2025-11-11 05:25:23 [scraper.py:172] 🔗 [HN #9] URL: https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html
+INFO     2025-11-11 05:25:23 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-11 05:25:23 [scraper.py:171] 📥 [HN #10] Hiring a developer as a small indie studio in 2025
+INFO     2025-11-11 05:25:23 [scraper.py:172] 🔗 [HN #10] URL: https://www.ballardgames.com/tales/hiring-dev-2025/
+INFO     2025-11-11 05:25:23 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-11 05:25:23 [scraper.py:179] 🎉 [HN] All done.
+
