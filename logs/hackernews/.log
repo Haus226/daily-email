@@ -10459,3 +10459,36 @@ INFO     2025-11-10 10:24:40 [scraper.py:172] 🔗 [HN #10] URL: https://www.you
 INFO     2025-11-10 10:24:40 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-10 10:24:40 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-11 02:04:23 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-11 02:04:24 [scraper.py:171] 📥 [HN #1] I hate screenshots of text
+INFO     2025-11-11 02:04:24 [scraper.py:172] 🔗 [HN #1] URL: https://parkscomputing.com/page/i-hate-screenshots-of-text
+INFO     2025-11-11 02:04:24 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-11 02:04:24 [scraper.py:171] 📥 [HN #2] High-performance 2D graphics rendering on the CPU using sparse strips [pdf]
+INFO     2025-11-11 02:04:24 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/LaurenzV/master-thesis/blob/main/main.pdf
+INFO     2025-11-11 02:04:24 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-11 02:04:24 [scraper.py:171] 📥 [HN #3] Unexpected things that are people
+INFO     2025-11-11 02:04:24 [scraper.py:172] 🔗 [HN #3] URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people
+INFO     2025-11-11 02:04:24 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-11 02:04:24 [scraper.py:171] 📥 [HN #4] Writing your own BEAM
+INFO     2025-11-11 02:04:24 [scraper.py:172] 🔗 [HN #4] URL: https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html
+INFO     2025-11-11 02:04:24 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-11 02:04:24 [scraper.py:171] 📥 [HN #5] The lazy Git UI you didn't know you need
+INFO     2025-11-11 02:04:24 [scraper.py:172] 🔗 [HN #5] URL: https://www.bwplotka.dev/2025/lazygit/
+INFO     2025-11-11 02:04:24 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:171] 📥 [HN #6] Spatial intelligence is AI’s next frontier
+INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #6] URL: https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
+INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:171] 📥 [HN #7] Unix v4 Tape Found
+INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #7] URL: https://discuss.systems/@ricci/115504720054699983
+INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:171] 📥 [HN #8] The physics of news, rumors, and opinions
+INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #8] URL: https://arxiv.org/abs/2510.15053
+INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:171] 📥 [HN #9] Dependent types and how to get rid of them
+INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #9] URL: https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased
+INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:171] 📥 [HN #10] Toucan Wireless Split Keyboard with Touchpad
+INFO     2025-11-11 02:04:25 [scraper.py:172] 🔗 [HN #10] URL: https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad
+INFO     2025-11-11 02:04:25 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-11 02:04:25 [scraper.py:179] 🎉 [HN] All done.
+
