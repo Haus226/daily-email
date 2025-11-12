@@ -10624,3 +10624,36 @@ INFO     2025-11-12 05:25:47 [scraper.py:172] 🔗 [HN #10] URL: https://www.her
 INFO     2025-11-12 05:25:47 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-12 05:25:47 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-12 10:23:23 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-12 10:23:23 [scraper.py:171] 📥 [HN #1] Yann LeCun to depart Meta and launch AI startup focused on 'world models'
+INFO     2025-11-12 10:23:23 [scraper.py:172] 🔗 [HN #1] URL: https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models
+INFO     2025-11-12 10:23:23 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-12 10:23:23 [scraper.py:171] 📥 [HN #2] .NET 10
+INFO     2025-11-12 10:23:23 [scraper.py:172] 🔗 [HN #2] URL: https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
+INFO     2025-11-12 10:23:23 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-12 10:23:23 [scraper.py:171] 📥 [HN #3] Simulating a Planet on the GPU: Part 1 (2022)
+INFO     2025-11-12 10:23:23 [scraper.py:172] 🔗 [HN #3] URL: https://www.patrickcelentano.com/blog/planet-sim-part-1
+INFO     2025-11-12 10:23:23 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #4] X5.1 solar flare, G4 geomagnetic storm watch
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #4] URL: https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #5] Laptops with Stickers
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #5] URL: https://stickertop.art/main/
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #6] I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #6] URL: https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #7] Four strange places to see London's Roman Wall
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #7] URL: https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #8] Bluetooth 6.2 – more responsive, improves security, USB comms, and testing
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #8] URL: https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #9] .NET MAUI is coming to Linux and the browser
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #9] URL: https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:171] 📥 [HN #10] Perkeep – Personal storage system for life
+INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #10] URL: https://perkeep.org/
+INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-12 10:23:24 [scraper.py:179] 🎉 [HN] All done.
+
