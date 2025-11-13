@@ -10657,3 +10657,36 @@ INFO     2025-11-12 10:23:24 [scraper.py:172] 🔗 [HN #10] URL: https://perkeep
 INFO     2025-11-12 10:23:24 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-12 10:23:24 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-13 02:05:38 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #1] Google will allow users to sideload Android apps without verification
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #1] URL: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #2] The last-ever penny will be minted today in Philadelphia
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #2] URL: https://www.cnn.com/2025/11/12/business/last-penny-minted
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #3] Marble: A Multimodal World Model
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #3] URL: https://www.worldlabs.ai/blog/marble-world-model
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #4] Project Euler
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #4] URL: https://projecteuler.net
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #5] Yt-dlp: External JavaScript runtime now required for full YouTube support
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/yt-dlp/yt-dlp/issues/15012
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #6] Steam Machine
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #6] URL: https://store.steampowered.com/sale/steammachine
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-13 02:05:39 [scraper.py:171] 📥 [HN #7] Steam Frame
+INFO     2025-11-13 02:05:39 [scraper.py:172] 🔗 [HN #7] URL: https://store.steampowered.com/sale/steamframe
+INFO     2025-11-13 02:05:39 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-13 02:05:40 [scraper.py:171] 📥 [HN #8] Voyager 1 is a light-day away by November 2026
+INFO     2025-11-13 02:05:40 [scraper.py:172] 🔗 [HN #8] URL: https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432
+INFO     2025-11-13 02:05:40 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-13 02:05:40 [scraper.py:171] 📥 [HN #9] Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React
+INFO     2025-11-13 02:05:40 [scraper.py:172] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=45903161
+INFO     2025-11-13 02:05:40 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-13 02:05:40 [scraper.py:171] 📥 [HN #10] A brief look at FreeBSD
+INFO     2025-11-13 02:05:40 [scraper.py:172] 🔗 [HN #10] URL: https://yorickpeterse.com/articles/a-brief-look-at-freebsd/
+INFO     2025-11-13 02:05:40 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-13 02:05:40 [scraper.py:179] 🎉 [HN] All done.
+
