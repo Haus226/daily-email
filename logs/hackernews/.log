@@ -10690,3 +10690,36 @@ INFO     2025-11-13 02:05:40 [scraper.py:172] 🔗 [HN #10] URL: https://yorickp
 INFO     2025-11-13 02:05:40 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-13 02:05:40 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-13 05:25:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-13 05:25:32 [scraper.py:171] 📥 [HN #1] Google will allow users to sideload Android apps without verification
+INFO     2025-11-13 05:25:32 [scraper.py:172] 🔗 [HN #1] URL: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
+INFO     2025-11-13 05:25:32 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-13 05:25:32 [scraper.py:171] 📥 [HN #2] Steam Machine
+INFO     2025-11-13 05:25:32 [scraper.py:172] 🔗 [HN #2] URL: https://store.steampowered.com/sale/steammachine
+INFO     2025-11-13 05:25:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-13 05:25:32 [scraper.py:171] 📥 [HN #3] Steam Frame
+INFO     2025-11-13 05:25:32 [scraper.py:172] 🔗 [HN #3] URL: https://store.steampowered.com/sale/steamframe
+INFO     2025-11-13 05:25:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-13 05:25:32 [scraper.py:171] 📥 [HN #4] Android 16 QPR1 is being pushed to the Android Open Source Project
+INFO     2025-11-13 05:25:32 [scraper.py:172] 🔗 [HN #4] URL: https://grapheneos.social/@GrapheneOS/115533432439509433
+INFO     2025-11-13 05:25:32 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-13 05:25:32 [scraper.py:171] 📥 [HN #5] The last-ever penny will be minted today in Philadelphia
+INFO     2025-11-13 05:25:32 [scraper.py:172] 🔗 [HN #5] URL: https://www.cnn.com/2025/11/12/business/last-penny-minted
+INFO     2025-11-13 05:25:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:171] 📥 [HN #6] Human Fovea Detector
+INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #6] URL: https://www.shadertoy.com/view/4dsXzM
+INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:171] 📥 [HN #7] Project Euler
+INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #7] URL: https://projecteuler.net
+INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:171] 📥 [HN #8] CollectWise (YC F24) Is Hiring
+INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #8] URL: https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer
+INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:171] 📥 [HN #9] Marble: A Multimodal World Model
+INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #9] URL: https://www.worldlabs.ai/blog/marble-world-model
+INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:171] 📥 [HN #10] Large integer precision error in Bash command output rendering
+INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/anthropics/claude-code/issues/11506
+INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-13 05:25:33 [scraper.py:179] 🎉 [HN] All done.
+
