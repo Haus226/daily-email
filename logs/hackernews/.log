@@ -10723,3 +10723,36 @@ INFO     2025-11-13 05:25:33 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-11-13 05:25:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-13 05:25:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-13 10:23:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-13 10:23:25 [scraper.py:171] 📥 [HN #1] Google will allow users to sideload Android apps without verification
+INFO     2025-11-13 10:23:25 [scraper.py:172] 🔗 [HN #1] URL: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
+INFO     2025-11-13 10:23:25 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-13 10:23:25 [scraper.py:171] 📥 [HN #2] Checkout.com hacked, refuses ransom payment, donates to security labs
+INFO     2025-11-13 10:23:25 [scraper.py:172] 🔗 [HN #2] URL: https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion
+INFO     2025-11-13 10:23:25 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-13 10:23:25 [scraper.py:171] 📥 [HN #3] Steam Machine
+INFO     2025-11-13 10:23:25 [scraper.py:172] 🔗 [HN #3] URL: https://store.steampowered.com/sale/steammachine
+INFO     2025-11-13 10:23:25 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-13 10:23:26 [scraper.py:171] 📥 [HN #4] Steam Frame
+INFO     2025-11-13 10:23:26 [scraper.py:172] 🔗 [HN #4] URL: https://store.steampowered.com/sale/steamframe
+INFO     2025-11-13 10:23:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-13 10:23:26 [scraper.py:171] 📥 [HN #5] Android 16 QPR1 is being pushed to the Android Open Source Project
+INFO     2025-11-13 10:23:26 [scraper.py:172] 🔗 [HN #5] URL: https://grapheneos.social/@GrapheneOS/115533432439509433
+INFO     2025-11-13 10:23:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-13 10:23:26 [scraper.py:171] 📥 [HN #6] The last-ever penny will be minted today in Philadelphia
+INFO     2025-11-13 10:23:26 [scraper.py:172] 🔗 [HN #6] URL: https://www.cnn.com/2025/11/12/business/last-penny-minted
+INFO     2025-11-13 10:23:26 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-13 10:23:26 [scraper.py:171] 📥 [HN #7] Human Fovea Detector
+INFO     2025-11-13 10:23:26 [scraper.py:172] 🔗 [HN #7] URL: https://www.shadertoy.com/view/4dsXzM
+INFO     2025-11-13 10:23:26 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-13 10:23:26 [scraper.py:171] 📥 [HN #8] Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]
+INFO     2025-11-13 10:23:26 [scraper.py:172] 🔗 [HN #8] URL: https://hi.telli.com/eng
+INFO     2025-11-13 10:23:26 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-13 10:23:27 [scraper.py:171] 📥 [HN #9] Continuous Autoregressive Language Models
+INFO     2025-11-13 10:23:27 [scraper.py:172] 🔗 [HN #9] URL: https://arxiv.org/abs/2510.27688
+INFO     2025-11-13 10:23:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-13 10:23:27 [scraper.py:171] 📥 [HN #10] Reverse Engineering Yaesu FT-70D Firmware Encryption
+INFO     2025-11-13 10:23:27 [scraper.py:172] 🔗 [HN #10] URL: https://landaire.net/reversing-yaesu-firmware-encryption/
+INFO     2025-11-13 10:23:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-13 10:23:27 [scraper.py:179] 🎉 [HN] All done.
+
