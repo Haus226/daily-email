@@ -10789,3 +10789,36 @@ INFO     2025-11-14 02:04:06 [scraper.py:172] 🔗 [HN #10] URL: https://typeful
 INFO     2025-11-14 02:04:06 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-14 02:04:06 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-14 05:24:58 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-14 05:24:59 [scraper.py:171] 📥 [HN #1] Nano Banana can be prompt engineered for nuanced AI image generation
+INFO     2025-11-14 05:24:59 [scraper.py:172] 🔗 [HN #1] URL: https://minimaxir.com/2025/11/nano-banana-prompts/
+INFO     2025-11-14 05:24:59 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-14 05:24:59 [scraper.py:171] 📥 [HN #2] Why Fei-Fei Li and Yann LeCun Are Both Betting on "World Models"
+INFO     2025-11-14 05:24:59 [scraper.py:172] 🔗 [HN #2] URL: https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/
+INFO     2025-11-14 05:24:59 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-14 05:24:59 [scraper.py:171] 📥 [HN #3] Disrupting the first reported AI-orchestrated cyber espionage campaign
+INFO     2025-11-14 05:24:59 [scraper.py:172] 🔗 [HN #3] URL: https://www.anthropic.com/news/disrupting-AI-espionage
+INFO     2025-11-14 05:24:59 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-14 05:24:59 [scraper.py:171] 📥 [HN #4] Copyright winter is coming (to Wikipedia?)
+INFO     2025-11-14 05:24:59 [scraper.py:172] 🔗 [HN #4] URL: https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia
+INFO     2025-11-14 05:24:59 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-14 05:24:59 [scraper.py:171] 📥 [HN #5] 650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark
+INFO     2025-11-14 05:24:59 [scraper.py:172] 🔗 [HN #5] URL: https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars
+INFO     2025-11-14 05:24:59 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:171] 📥 [HN #6] Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web
+INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #6] URL: https://www.tweeks.io/onboarding
+INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:171] 📥 [HN #7] OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios
+INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #7] URL: https://openmanet.net/
+INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:171] 📥 [HN #8] Kubernetes Ingress Nginx is retiring
+INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #8] URL: https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/
+INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:171] 📥 [HN #9] Why do voice transcription apps charge monthly when Whisper runs locally?
+INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #9] URL: https://www.lucidvoice.app/
+INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:171] 📥 [HN #10] Why I'm Learning Sumerian
+INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #10] URL: https://mindthenerd.com/why-im-learning-sumerian-and-what-it-taught-me-about-hard-work-burnout-and-the-joy-of-doing-useless-things/
+INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-14 05:25:00 [scraper.py:179] 🎉 [HN] All done.
+

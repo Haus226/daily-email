@@ -1625,3 +1625,8 @@ INFO     2025-11-14 02:04:04 [scraper.py:47] 📥 [APOD] Title: Orion and the Ru
 INFO     2025-11-14 02:04:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg
 INFO     2025-11-14 02:04:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-14 05:24:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-14 05:24:59 [scraper.py:47] 📥 [APOD] Title: Florida Northern Lights
+INFO     2025-11-14 05:24:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg
+INFO     2025-11-14 05:24:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
