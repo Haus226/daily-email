@@ -1608,3 +1608,8 @@ INFO     2025-11-14 05:24:58 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
 INFO     2025-11-14 05:25:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-11-14 05:25:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-11-14 10:23:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-14 10:23:02 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-11-14 10:23:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-14 10:23:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

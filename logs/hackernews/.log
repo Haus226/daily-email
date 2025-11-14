@@ -10822,3 +10822,36 @@ INFO     2025-11-14 05:25:00 [scraper.py:172] 🔗 [HN #10] URL: https://mindthe
 INFO     2025-11-14 05:25:00 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-14 05:25:00 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-14 10:23:02 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #1] RegreSQL: Regression Testing for PostgreSQL Queries
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #1] URL: https://boringsql.com/posts/regresql-testing-queries/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #2] Nano Banana can be prompt engineered for nuanced AI image generation
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #2] URL: https://minimaxir.com/2025/11/nano-banana-prompts/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #3] Show HN: Pegma, the free and open-source version of the classic Peg solitaire
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #3] URL: https://pegma.vercel.app
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #4] What Happened with the CIA and The Paris Review?
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #4] URL: https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #5] Operating Margins
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #5] URL: https://fi-le.net/margin/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #6] Disrupting the first reported AI-orchestrated cyber espionage campaign
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #6] URL: https://www.anthropic.com/news/disrupting-AI-espionage
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #7] Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #7] URL: https://publicdomainreview.org/essay/science-of-sound/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #8] Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #8] URL: https://www.tweeks.io/onboarding
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #9] How to Get a North Korea / Antarctica VPS
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #9] URL: https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:171] 📥 [HN #10] 650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark
+INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #10] URL: https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars
+INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-14 10:23:03 [scraper.py:179] 🎉 [HN] All done.
+
