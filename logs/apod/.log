@@ -1620,3 +1620,8 @@ INFO     2025-11-13 10:23:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
 INFO     2025-11-13 10:23:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
 INFO     2025-11-13 10:23:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-14 02:04:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-14 02:04:04 [scraper.py:47] 📥 [APOD] Title: Orion and the Running Man
+INFO     2025-11-14 02:04:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg
+INFO     2025-11-14 02:04:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
