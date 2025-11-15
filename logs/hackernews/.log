@@ -10855,3 +10855,36 @@ INFO     2025-11-14 10:23:03 [scraper.py:172] 🔗 [HN #10] URL: https://dataeng
 INFO     2025-11-14 10:23:03 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-14 10:23:03 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-15 01:59:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-15 01:59:51 [scraper.py:171] 📥 [HN #1] AI World Clocks
+INFO     2025-11-15 01:59:51 [scraper.py:172] 🔗 [HN #1] URL: https://clocks.brianmoore.com/
+INFO     2025-11-15 01:59:51 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-15 01:59:51 [scraper.py:171] 📥 [HN #2] SSL Configuration Generator
+INFO     2025-11-15 01:59:51 [scraper.py:172] 🔗 [HN #2] URL: https://ssl-config.mozilla.org/
+INFO     2025-11-15 01:59:51 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-15 01:59:51 [scraper.py:171] 📥 [HN #3] Has Google solved two of AI's oldest problems?
+INFO     2025-11-15 01:59:51 [scraper.py:172] 🔗 [HN #3] URL: https://generativehistory.substack.com/p/has-google-quietly-solved-two-of
+INFO     2025-11-15 01:59:51 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-15 01:59:51 [scraper.py:171] 📥 [HN #4] HipKittens: Fast and furious AMD kernels
+INFO     2025-11-15 01:59:51 [scraper.py:172] 🔗 [HN #4] URL: https://hazyresearch.stanford.edu/blog/2025-11-09-hk
+INFO     2025-11-15 01:59:51 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #5] No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #5] URL: https://modzero.com/en/blog/no-leak-no-problem/
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #6] A race condition in Aurora RDS
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #6] URL: https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #7] Structured Outputs on the Claude Developer Platform (API)
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #7] URL: https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #8] 'No One Lives Forever' turns 25 and you still can't buy it legitimately
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #8] URL: https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #9] All praise to the lunch ladies
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #9] URL: https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:171] 📥 [HN #10] Manganese is Lyme disease's double-edge sword
+INFO     2025-11-15 01:59:52 [scraper.py:172] 🔗 [HN #10] URL: https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword
+INFO     2025-11-15 01:59:52 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-15 01:59:52 [scraper.py:179] 🎉 [HN] All done.
+
