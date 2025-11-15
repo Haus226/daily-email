@@ -10921,3 +10921,36 @@ INFO     2025-11-15 05:23:27 [scraper.py:172] 🔗 [HN #10] URL: https://hightou
 INFO     2025-11-15 05:23:27 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-15 05:23:27 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-15 10:19:14 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-15 10:19:14 [scraper.py:171] 📥 [HN #1] Spec-Driven Development: The Waterfall Strikes Back
+INFO     2025-11-15 10:19:14 [scraper.py:172] 🔗 [HN #1] URL: https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html
+INFO     2025-11-15 10:19:14 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-15 10:19:14 [scraper.py:171] 📥 [HN #2] The Internet Is Cool. Thank You, TCP
+INFO     2025-11-15 10:19:14 [scraper.py:172] 🔗 [HN #2] URL: https://cefboud.com/posts/tcp-deep-dive-internals/
+INFO     2025-11-15 10:19:14 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-15 10:19:14 [scraper.py:171] 📥 [HN #3] AI World Clocks
+INFO     2025-11-15 10:19:14 [scraper.py:172] 🔗 [HN #3] URL: https://clocks.brianmoore.com/
+INFO     2025-11-15 10:19:14 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #4] Messing with Scraper Bots
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #4] URL: https://herman.bearblog.dev/messing-with-bots/
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #5] AMD GPUs Go Brrr
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #5] URL: https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #6] So, you want to design your own language? (2017)
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #6] URL: https://cs.lmu.edu/~ray/notes/languagedesignnotes/
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #7] Löb and Möb: Loops in Haskell
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/quchen/articles/blob/master/loeb-moeb.md
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #8] Unofficial Microsoft Teams client for Linux
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/IsmaelMartinez/teams-for-linux
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #9] A new Google model is nearly perfect on automated handwriting recognition
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #9] URL: https://generativehistory.substack.com/p/has-google-quietly-solved-two-of
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:171] 📥 [HN #10] SSL Configuration Generator
+INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #10] URL: https://ssl-config.mozilla.org/
+INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-15 10:19:15 [scraper.py:179] 🎉 [HN] All done.
+
