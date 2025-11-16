@@ -10987,3 +10987,36 @@ INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #10] URL: https://asciima
 INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-16 02:10:07 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-16 05:24:00 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #1] AirPods libreated from Apple's ecosystem
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/kavishdevar/librepods
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #2] IDEmacs: A Visual Studio Code clone for Emacs
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #2] URL: https://codeberg.org/IDEmacs/IDEmacs
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #3] Our investigation into the suspicious pressure on Archive.today
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #3] URL: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #4] libwifi: an 802.11 frame parsing and generation library written in C
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #4] URL: https://libwifi.so/
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #5] Blocking LLM crawlers without JavaScript
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #5] URL: https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-16 05:24:01 [scraper.py:171] 📥 [HN #6] Things that aren't doing the thing
+INFO     2025-11-16 05:24:01 [scraper.py:172] 🔗 [HN #6] URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+INFO     2025-11-16 05:24:01 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-16 05:24:02 [scraper.py:171] 📥 [HN #7] The inconceivable types of Rust: How to make self-borrows safe (2024)
+INFO     2025-11-16 05:24:02 [scraper.py:172] 🔗 [HN #7] URL: https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
+INFO     2025-11-16 05:24:02 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-16 05:24:02 [scraper.py:171] 📥 [HN #8] When UPS charged me a $684 tariff on $355 of vintage computer parts
+INFO     2025-11-16 05:24:02 [scraper.py:172] 🔗 [HN #8] URL: http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html
+INFO     2025-11-16 05:24:02 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-16 05:24:02 [scraper.py:171] 📥 [HN #9] When did people favor composition over inheritance?
+INFO     2025-11-16 05:24:02 [scraper.py:172] 🔗 [HN #9] URL: https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+INFO     2025-11-16 05:24:02 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-16 05:24:02 [scraper.py:171] 📥 [HN #10] Boa: A standard-conforming embeddable JavaScript engine written in Rust
+INFO     2025-11-16 05:24:02 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/boa-dev/boa
+INFO     2025-11-16 05:24:02 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-16 05:24:02 [scraper.py:179] 🎉 [HN] All done.
+
