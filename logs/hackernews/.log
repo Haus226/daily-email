@@ -10954,3 +10954,36 @@ INFO     2025-11-15 10:19:15 [scraper.py:172] 🔗 [HN #10] URL: https://ssl-con
 INFO     2025-11-15 10:19:15 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-15 10:19:15 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-16 02:10:05 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-16 02:10:06 [scraper.py:171] 📥 [HN #1] AirPods libreated from Apple's ecosystem
+INFO     2025-11-16 02:10:06 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/kavishdevar/librepods
+INFO     2025-11-16 02:10:06 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-16 02:10:06 [scraper.py:171] 📥 [HN #2] IDEmacs: A Visual Studio Code clone for Emacs
+INFO     2025-11-16 02:10:06 [scraper.py:172] 🔗 [HN #2] URL: https://codeberg.org/IDEmacs/IDEmacs
+INFO     2025-11-16 02:10:06 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-16 02:10:06 [scraper.py:171] 📥 [HN #3] Our investigation into the suspicious pressure on Archive.today
+INFO     2025-11-16 02:10:06 [scraper.py:172] 🔗 [HN #3] URL: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+INFO     2025-11-16 02:10:06 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-16 02:10:06 [scraper.py:171] 📥 [HN #4] libwifi: an 802.11 frame parsing and generation library written in C
+INFO     2025-11-16 02:10:06 [scraper.py:172] 🔗 [HN #4] URL: https://libwifi.so/
+INFO     2025-11-16 02:10:06 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-16 02:10:06 [scraper.py:171] 📥 [HN #5] When did people favor composition over inheritance?
+INFO     2025-11-16 02:10:06 [scraper.py:172] 🔗 [HN #5] URL: https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+INFO     2025-11-16 02:10:06 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:171] 📥 [HN #6] Blocking LLM crawlers without JavaScript
+INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #6] URL: https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:171] 📥 [HN #7] Things that aren't doing the thing
+INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #7] URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:171] 📥 [HN #8] Boa: A standard-conforming embeddable JavaScript engine written in Rust
+INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/boa-dev/boa
+INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:171] 📥 [HN #9] Transgenerational Epigenetic Inheritance: the story of learned avoidance
+INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #9] URL: https://elifesciences.org/articles/109427
+INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:171] 📥 [HN #10] AsciiMath
+INFO     2025-11-16 02:10:07 [scraper.py:172] 🔗 [HN #10] URL: https://asciimath.org/
+INFO     2025-11-16 02:10:07 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-16 02:10:07 [scraper.py:179] 🎉 [HN] All done.
+
