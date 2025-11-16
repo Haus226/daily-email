@@ -11020,3 +11020,36 @@ INFO     2025-11-16 05:24:02 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-11-16 05:24:02 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-16 05:24:02 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-16 10:19:44 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-16 10:19:45 [scraper.py:171] 📥 [HN #1] AirPods libreated from Apple's ecosystem
+INFO     2025-11-16 10:19:45 [scraper.py:172] 🔗 [HN #1] URL: https://github.com/kavishdevar/librepods
+INFO     2025-11-16 10:19:45 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-16 10:19:45 [scraper.py:171] 📥 [HN #2] Our investigation into the suspicious pressure on Archive.today
+INFO     2025-11-16 10:19:45 [scraper.py:172] 🔗 [HN #2] URL: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+INFO     2025-11-16 10:19:45 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-16 10:19:45 [scraper.py:171] 📥 [HN #3] IDEmacs: A Visual Studio Code clone for Emacs
+INFO     2025-11-16 10:19:45 [scraper.py:172] 🔗 [HN #3] URL: https://codeberg.org/IDEmacs/IDEmacs
+INFO     2025-11-16 10:19:45 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-16 10:19:45 [scraper.py:171] 📥 [HN #4] Hyundai Paywalls Brake Pads replacement on Ioniq 5 N
+INFO     2025-11-16 10:19:45 [scraper.py:172] 🔗 [HN #4] URL: https://www.thedrive.com/news/replacing-brake-pads-on-a-hyundai-ioniq-5-n-requires-a-professional-mechanics-login
+INFO     2025-11-16 10:19:45 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-16 10:19:45 [scraper.py:171] 📥 [HN #5] Things that aren't doing the thing
+INFO     2025-11-16 10:19:45 [scraper.py:172] 🔗 [HN #5] URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+INFO     2025-11-16 10:19:45 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:171] 📥 [HN #6] Bypassing the Branch Predictor
+INFO     2025-11-16 10:19:46 [scraper.py:172] 🔗 [HN #6] URL: https://nicula.xyz/2025/03/10/bypassing-the-branch-predictor.html
+INFO     2025-11-16 10:19:46 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:171] 📥 [HN #7] Writing a DOS Clone in 2019
+INFO     2025-11-16 10:19:46 [scraper.py:172] 🔗 [HN #7] URL: https://medium.com/@andrewimm/writing-a-dos-clone-in-2019-70eac97ec3e1
+INFO     2025-11-16 10:19:46 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:171] 📥 [HN #8] libwifi: an 802.11 frame parsing and generation library written in C
+INFO     2025-11-16 10:19:46 [scraper.py:172] 🔗 [HN #8] URL: https://libwifi.so/
+INFO     2025-11-16 10:19:46 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:171] 📥 [HN #9] Run Nix Based Environments in Kubernetes
+INFO     2025-11-16 10:19:46 [scraper.py:172] 🔗 [HN #9] URL: https://flox.dev/kubernetes/
+INFO     2025-11-16 10:19:46 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:171] 📥 [HN #10] When did people favor composition over inheritance?
+INFO     2025-11-16 10:19:46 [scraper.py:172] 🔗 [HN #10] URL: https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+INFO     2025-11-16 10:19:46 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-16 10:19:46 [scraper.py:179] 🎉 [HN] All done.
+
