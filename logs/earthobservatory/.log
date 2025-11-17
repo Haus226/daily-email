@@ -2234,3 +2234,9 @@ INFO     2025-11-17 05:26:14 [scraper.py:134] 📥 [EO] Title: Antarctic Sea Ice
 INFO     2025-11-17 05:26:14 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154863/antarctic_nsidc_20250917_th.jpg
 INFO     2025-11-17 05:26:14 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-17 10:23:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-17 10:23:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-17 10:24:00 [scraper.py:134] 📥 [EO] Title: Antarctic Sea Ice Saw Its Third-Lowest Maximum
+INFO     2025-11-17 10:24:00 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154863/antarctic_nsidc_20250917_th.jpg
+INFO     2025-11-17 10:24:00 [scraper.py:155] ✅ [EO] Successfully fetched.
+
