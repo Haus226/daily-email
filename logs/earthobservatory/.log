@@ -2222,3 +2222,9 @@ INFO     2025-11-16 10:20:06 [scraper.py:134] 📥 [EO] Title: Puerto Rico From 
 INFO     2025-11-16 10:20:06 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154856/iss071e001042_th.jpg
 INFO     2025-11-16 10:20:06 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-17 02:05:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-17 02:05:11 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-17 02:05:28 [scraper.py:134] 📥 [EO] Title: Antarctic Sea Ice Saw Its Third-Lowest Maximum
+INFO     2025-11-17 02:05:28 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154863/antarctic_nsidc_20250917_th.jpg
+INFO     2025-11-17 02:05:28 [scraper.py:155] ✅ [EO] Successfully fetched.
+
