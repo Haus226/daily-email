@@ -2252,3 +2252,9 @@ INFO     2025-11-18 05:24:56 [scraper.py:134] 📥 [EO] Title: Reservoirs Dwindl
 INFO     2025-11-18 05:24:56 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154868/texas_lakecorpuschristi_oli2_20251011_th.jpg
 INFO     2025-11-18 05:24:56 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-18 10:24:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-18 10:24:21 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-18 10:24:32 [scraper.py:134] 📥 [EO] Title: Reservoirs Dwindle in South Texas
+INFO     2025-11-18 10:24:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154868/texas_lakecorpuschristi_oli2_20251011_th.jpg
+INFO     2025-11-18 10:24:32 [scraper.py:155] ✅ [EO] Successfully fetched.
+
