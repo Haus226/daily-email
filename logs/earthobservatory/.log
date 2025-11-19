@@ -2258,3 +2258,9 @@ INFO     2025-11-18 10:24:32 [scraper.py:134] 📥 [EO] Title: Reservoirs Dwindl
 INFO     2025-11-18 10:24:32 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154868/texas_lakecorpuschristi_oli2_20251011_th.jpg
 INFO     2025-11-18 10:24:32 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-19 02:03:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-19 02:03:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-19 02:03:33 [scraper.py:134] 📥 [EO] Title: Iraq Reservoirs Plunge to Low Levels
+INFO     2025-11-19 02:03:33 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154874/iraq_farmland_oli_20250904_th.jpg
+INFO     2025-11-19 02:03:33 [scraper.py:155] ✅ [EO] Successfully fetched.
+

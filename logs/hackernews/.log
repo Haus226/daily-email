@@ -11251,3 +11251,36 @@ INFO     2025-11-18 10:24:22 [scraper.py:172] 🔗 [HN #10] URL: https://sashach
 INFO     2025-11-18 10:24:22 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-18 10:24:22 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-19 02:03:12 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-19 02:03:13 [scraper.py:171] 📥 [HN #1] Cloudflare outage on November 18, 2025 post mortem
+INFO     2025-11-19 02:03:13 [scraper.py:172] 🔗 [HN #1] URL: https://blog.cloudflare.com/18-november-2025-outage/
+INFO     2025-11-19 02:03:13 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-19 02:03:13 [scraper.py:171] 📥 [HN #2] Rebecca Heineman – from homelessness to porting Doom
+INFO     2025-11-19 02:03:13 [scraper.py:172] 🔗 [HN #2] URL: https://corecursive.com/doomed-to-fail-with-burger-becky/
+INFO     2025-11-19 02:03:13 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-19 02:03:13 [scraper.py:171] 📥 [HN #3] Gemini 3
+INFO     2025-11-19 02:03:13 [scraper.py:172] 🔗 [HN #3] URL: https://blog.google/products/gemini/gemini-3/
+INFO     2025-11-19 02:03:13 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-19 02:03:13 [scraper.py:171] 📥 [HN #4] Google Antigravity
+INFO     2025-11-19 02:03:13 [scraper.py:172] 🔗 [HN #4] URL: https://antigravity.google/
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #5] Blender 5.0
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #5] URL: https://www.blender.org/download/releases/5-0/
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #6] Pebble, Rebble, and a path forward
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #6] URL: https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #7] The code and open-source tools I used to produce a science fiction anthology
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #7] URL: https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #8] Lucent 7 R/E 5ESS Telephone Switch Rescue
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #8] URL: http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #9] Gemini 3 Pro Model Card [pdf]
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #9] URL: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:171] 📥 [HN #10] GitHub: Git operation failures
+INFO     2025-11-19 02:03:14 [scraper.py:172] 🔗 [HN #10] URL: https://www.githubstatus.com/incidents/5q7nmlxz30sk
+INFO     2025-11-19 02:03:14 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-19 02:03:14 [scraper.py:179] 🎉 [HN] All done.
+
