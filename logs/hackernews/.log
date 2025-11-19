@@ -11317,3 +11317,36 @@ INFO     2025-11-19 05:26:08 [scraper.py:172] 🔗 [HN #10] URL: https://compell
 INFO     2025-11-19 05:26:08 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-19 05:26:08 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-19 10:23:53 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-19 10:23:53 [scraper.py:171] 📥 [HN #1] Cloudflare outage on November 18, 2025 post mortem
+INFO     2025-11-19 10:23:53 [scraper.py:172] 🔗 [HN #1] URL: https://blog.cloudflare.com/18-november-2025-outage/
+INFO     2025-11-19 10:23:53 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-19 10:23:53 [scraper.py:171] 📥 [HN #2] Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation
+INFO     2025-11-19 10:23:53 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/tyfeld/MMaDA-Parallel
+INFO     2025-11-19 10:23:53 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #3] Gemini 3
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #3] URL: https://blog.google/products/gemini/gemini-3/
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #4] Exploring the Limits of Large Language Models as Quant Traders
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #4] URL: https://nof1.ai/blog/TechPost1
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #5] Google Antigravity
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #5] URL: https://antigravity.google/
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #6] Show HN: Browser-based interactive 3D Three-Body problem simulator
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #6] URL: https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #7] Even Realities Smart Glasses: G2
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #7] URL: https://www.evenrealities.com/smart-glasses
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-19 10:23:54 [scraper.py:171] 📥 [HN #8] I made a down detector for down detector
+INFO     2025-11-19 10:23:54 [scraper.py:172] 🔗 [HN #8] URL: https://downdetectorsdowndetector.com
+INFO     2025-11-19 10:23:54 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-19 10:23:55 [scraper.py:171] 📥 [HN #9] Pebble, Rebble, and a path forward
+INFO     2025-11-19 10:23:55 [scraper.py:172] 🔗 [HN #9] URL: https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/
+INFO     2025-11-19 10:23:55 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-19 10:23:55 [scraper.py:171] 📥 [HN #10] I wrote a Pong game in a 512-byte boot sector
+INFO     2025-11-19 10:23:55 [scraper.py:172] 🔗 [HN #10] URL: https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/
+INFO     2025-11-19 10:23:55 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-19 10:23:55 [scraper.py:179] 🎉 [HN] All done.
+
