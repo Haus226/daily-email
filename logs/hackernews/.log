@@ -11416,3 +11416,36 @@ INFO     2025-11-20 05:25:14 [scraper.py:172] 🔗 [HN #10] URL: https://www.his
 INFO     2025-11-20 05:25:14 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-20 05:25:14 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-20 10:22:35 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #1] Interactive World History Atlas Since 3000 BC
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #1] URL: http://geacron.com/home-en/
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #2] Basalt Woven Textile
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #2] URL: https://materialdistrict.com/material/basalt-woven-textile/
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #3] Android/Linux Dual Boot
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #3] URL: https://wiki.postmarketos.org/wiki/Dual_Booting/WiP
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #4] CUDA Ontology
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #4] URL: https://jamesakl.com/posts/cuda-ontology/
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #5] Implementation of a Java Processor on a FPGA
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #5] URL: https://mavmatrix.uta.edu/electricaleng_theses/337/
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-20 10:22:36 [scraper.py:171] 📥 [HN #6] Europe is scaling back GDPR and relaxing AI laws
+INFO     2025-11-20 10:22:36 [scraper.py:172] 🔗 [HN #6] URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
+INFO     2025-11-20 10:22:36 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-20 10:22:37 [scraper.py:171] 📥 [HN #7] Loose wire leads to blackout, contact with Francis Scott Key bridge
+INFO     2025-11-20 10:22:37 [scraper.py:172] 🔗 [HN #7] URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx
+INFO     2025-11-20 10:22:37 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-20 10:22:37 [scraper.py:171] 📥 [HN #8] Meta Segment Anything Model 3
+INFO     2025-11-20 10:22:37 [scraper.py:172] 🔗 [HN #8] URL: https://ai.meta.com/sam3/
+INFO     2025-11-20 10:22:37 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-20 10:22:37 [scraper.py:171] 📥 [HN #9] AI is a front for consolidation of resources and power
+INFO     2025-11-20 10:22:37 [scraper.py:172] 🔗 [HN #9] URL: https://www.chrbutler.com/what-ai-is-really-for
+INFO     2025-11-20 10:22:37 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-20 10:22:37 [scraper.py:171] 📥 [HN #10] Researchers discover security vulnerability in WhatsApp
+INFO     2025-11-20 10:22:37 [scraper.py:172] 🔗 [HN #10] URL: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp
+INFO     2025-11-20 10:22:37 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-20 10:22:37 [scraper.py:179] 🎉 [HN] All done.
+
