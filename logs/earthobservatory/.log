@@ -2276,3 +2276,9 @@ INFO     2025-11-19 10:24:05 [scraper.py:134] 📥 [EO] Title: Iraq Reservoirs P
 INFO     2025-11-19 10:24:05 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154874/iraq_farmland_oli_20250904_th.jpg
 INFO     2025-11-19 10:24:05 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-20 02:01:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-20 02:01:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-20 02:01:31 [scraper.py:134] 📥 [EO] Title: Krasheninnikova Remains Restless
+INFO     2025-11-20 02:01:31 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154879/krasheninnikov_oli2_20251114_th.jpg
+INFO     2025-11-20 02:01:31 [scraper.py:155] ✅ [EO] Successfully fetched.
+

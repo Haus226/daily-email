@@ -11350,3 +11350,36 @@ INFO     2025-11-19 10:23:55 [scraper.py:172] 🔗 [HN #10] URL: https://akshatj
 INFO     2025-11-19 10:23:55 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-19 10:23:55 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-20 02:01:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-20 02:01:31 [scraper.py:171] 📥 [HN #1] Verifying your Matrix devices is becoming mandatory
+INFO     2025-11-20 02:01:31 [scraper.py:172] 🔗 [HN #1] URL: https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/
+INFO     2025-11-20 02:01:31 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-20 02:01:31 [scraper.py:171] 📥 [HN #2] Jailbreaking AI Models to Phish Elderly Victims
+INFO     2025-11-20 02:01:31 [scraper.py:172] 🔗 [HN #2] URL: https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish
+INFO     2025-11-20 02:01:31 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-20 02:01:31 [scraper.py:171] 📥 [HN #3] Loose wire leads to blackout, contact with Francis Scott Key bridge
+INFO     2025-11-20 02:01:31 [scraper.py:172] 🔗 [HN #3] URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx
+INFO     2025-11-20 02:01:31 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-20 02:01:31 [scraper.py:171] 📥 [HN #4] Workday to acquire Pipedream
+INFO     2025-11-20 02:01:31 [scraper.py:172] 🔗 [HN #4] URL: https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream
+INFO     2025-11-20 02:01:31 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #5] Researchers discover security vulnerability in WhatsApp
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #5] URL: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #6] Europe is scaling back GDPR and relaxing AI laws
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #6] URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #7] Building more with GPT-5.1-Codex-Max
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #7] URL: https://openai.com/index/gpt-5-1-codex-max/
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #8] Meta Segment Anything Model 3
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #8] URL: https://ai.meta.com/sam3/
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #9] Precise geolocation via Wi-Fi Positioning System
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #9] URL: https://www.amoses.dev/blog/wifi-location/
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:171] 📥 [HN #10] Why CUDA translation wont unlock AMD
+INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #10] URL: https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/
+INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-20 02:01:32 [scraper.py:179] 🎉 [HN] All done.
+
