@@ -11383,3 +11383,36 @@ INFO     2025-11-20 02:01:32 [scraper.py:172] 🔗 [HN #10] URL: https://eliovp.
 INFO     2025-11-20 02:01:32 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-20 02:01:32 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-20 05:25:12 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-20 05:25:12 [scraper.py:171] 📥 [HN #1] Verifying your Matrix devices is becoming mandatory
+INFO     2025-11-20 05:25:12 [scraper.py:172] 🔗 [HN #1] URL: https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/
+INFO     2025-11-20 05:25:12 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #2] A surprise with how '#!' handles its program argument in practice
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #2] URL: https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #3] Loose wire leads to blackout, contact with Francis Scott Key bridge
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #3] URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #4] Europe is scaling back GDPR and relaxing AI laws
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #4] URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #5] Meta Segment Anything Model 3
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #5] URL: https://ai.meta.com/sam3/
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #6] The Complete Work of Charles Darwin Online
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #6] URL: https://darwin-online.org.uk/
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-20 05:25:13 [scraper.py:171] 📥 [HN #7] Researchers discover security vulnerability in WhatsApp
+INFO     2025-11-20 05:25:13 [scraper.py:172] 🔗 [HN #7] URL: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp
+INFO     2025-11-20 05:25:13 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-20 05:25:14 [scraper.py:171] 📥 [HN #8] What really happened with the CIA and The Paris Review?
+INFO     2025-11-20 05:25:14 [scraper.py:172] 🔗 [HN #8] URL: https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/
+INFO     2025-11-20 05:25:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-20 05:25:14 [scraper.py:171] 📥 [HN #9] Building more with GPT-5.1-Codex-Max
+INFO     2025-11-20 05:25:14 [scraper.py:172] 🔗 [HN #9] URL: https://openai.com/index/gpt-5-1-codex-max/
+INFO     2025-11-20 05:25:14 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-20 05:25:14 [scraper.py:171] 📥 [HN #10] What Influence Has the BBC Had on History?
+INFO     2025-11-20 05:25:14 [scraper.py:172] 🔗 [HN #10] URL: https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history
+INFO     2025-11-20 05:25:14 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-20 05:25:14 [scraper.py:179] 🎉 [HN] All done.
+
