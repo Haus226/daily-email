@@ -2294,3 +2294,9 @@ INFO     2025-11-20 10:22:36 [scraper.py:134] 📥 [EO] Title: Krasheninnikova R
 INFO     2025-11-20 10:22:36 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154879/krasheninnikov_oli2_20251114_th.jpg
 INFO     2025-11-20 10:22:36 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-21 02:02:23 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-21 02:02:24 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-21 02:02:25 [scraper.py:134] 📥 [EO] Title: Autumn in the Ozarks
+INFO     2025-11-21 02:02:25 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154883/seasonsarkmis_tmo_20251116_th.jpg
+INFO     2025-11-21 02:02:25 [scraper.py:155] ✅ [EO] Successfully fetched.
+

@@ -1725,3 +1725,8 @@ INFO     2025-11-20 10:22:35 [scraper.py:47] 📥 [APOD] Title: Alnitak, Alnilam
 INFO     2025-11-20 10:22:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg
 INFO     2025-11-20 10:22:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-21 02:02:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-21 02:02:24 [scraper.py:47] 📥 [APOD] Title: Alnitak, Alnilam, Mintaka
+INFO     2025-11-21 02:02:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg
+INFO     2025-11-21 02:02:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
