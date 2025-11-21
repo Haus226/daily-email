@@ -11515,3 +11515,36 @@ INFO     2025-11-21 05:25:56 [scraper.py:172] 🔗 [HN #10] URL: https://wasmgro
 INFO     2025-11-21 05:25:56 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-21 05:25:56 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-21 10:21:37 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-21 10:21:38 [scraper.py:171] 📥 [HN #1] Olmo 3: Charting a path through the model flow to lead open-source AI
+INFO     2025-11-21 10:21:38 [scraper.py:172] 🔗 [HN #1] URL: https://allenai.org/blog/olmo3
+INFO     2025-11-21 10:21:38 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-21 10:21:38 [scraper.py:171] 📥 [HN #2] It's Hard to Build an Oscillator
+INFO     2025-11-21 10:21:38 [scraper.py:172] 🔗 [HN #2] URL: https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator
+INFO     2025-11-21 10:21:38 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-21 10:21:38 [scraper.py:171] 📥 [HN #3] Nano Banana Pro
+INFO     2025-11-21 10:21:38 [scraper.py:172] 🔗 [HN #3] URL: https://blog.google/technology/ai/nano-banana-pro/
+INFO     2025-11-21 10:21:38 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-21 10:21:38 [scraper.py:171] 📥 [HN #4] Android and iPhone users can now share files, starting with the Pixel 10
+INFO     2025-11-21 10:21:38 [scraper.py:172] 🔗 [HN #4] URL: https://blog.google/products/android/quick-share-airdrop/
+INFO     2025-11-21 10:21:38 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-21 10:21:38 [scraper.py:171] 📥 [HN #5] WebAssembly from the Ground Up
+INFO     2025-11-21 10:21:38 [scraper.py:172] 🔗 [HN #5] URL: https://wasmgroundup.com/
+INFO     2025-11-21 10:21:38 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:171] 📥 [HN #6] FEX-emu – Run x86 applications on ARM64 Linux devices
+INFO     2025-11-21 10:21:39 [scraper.py:172] 🔗 [HN #6] URL: https://fex-emu.com/
+INFO     2025-11-21 10:21:39 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:171] 📥 [HN #7] Show HN: 32V TENS device from built from scratch under $100
+INFO     2025-11-21 10:21:39 [scraper.py:172] 🔗 [HN #7] URL: https://littlemountainman.github.io/2025/11/17/tens/
+INFO     2025-11-21 10:21:39 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:171] 📥 [HN #8] Apple's iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle
+INFO     2025-11-21 10:21:39 [scraper.py:172] 🔗 [HN #8] URL: https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o
+INFO     2025-11-21 10:21:39 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:171] 📥 [HN #9] New OS aims to provide (some) compatibility with macOS
+INFO     2025-11-21 10:21:39 [scraper.py:172] 🔗 [HN #9] URL: https://github.com/ravynsoft/ravynos
+INFO     2025-11-21 10:21:39 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:171] 📥 [HN #10] Over-regulation is doubling the cost
+INFO     2025-11-21 10:21:39 [scraper.py:172] 🔗 [HN #10] URL: https://rein.pk/over-regulation-is-doubling-the-cost
+INFO     2025-11-21 10:21:39 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-21 10:21:39 [scraper.py:179] 🎉 [HN] All done.
+
