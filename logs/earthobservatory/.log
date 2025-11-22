@@ -2324,3 +2324,9 @@ INFO     2025-11-22 05:23:33 [scraper.py:134] 📥 [EO] Title: Autumn in the Oza
 INFO     2025-11-22 05:23:33 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154883/seasonsarkmis_tmo_20251116_th.jpg
 INFO     2025-11-22 05:23:33 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-22 10:19:43 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-22 10:19:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-22 10:19:45 [scraper.py:134] 📥 [EO] Title: Autumn in the Ozarks
+INFO     2025-11-22 10:19:45 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154883/seasonsarkmis_tmo_20251116_th.jpg
+INFO     2025-11-22 10:19:45 [scraper.py:155] ✅ [EO] Successfully fetched.
+
