@@ -1740,3 +1740,8 @@ INFO     2025-11-21 10:21:38 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS: A View
 INFO     2025-11-21 10:21:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg
 INFO     2025-11-21 10:21:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-22 01:58:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-22 01:58:17 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS: A View from Planet Earth
+INFO     2025-11-22 01:58:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg
+INFO     2025-11-22 01:58:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
