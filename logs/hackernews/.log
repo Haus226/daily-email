@@ -11581,3 +11581,36 @@ INFO     2025-11-22 01:58:19 [scraper.py:172] 🔗 [HN #10] URL: https://stevejo
 INFO     2025-11-22 01:58:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-22 01:58:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-22 05:23:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-22 05:23:33 [scraper.py:171] 📥 [HN #1] Moss Survives 9 Months in Space Vacuum
+INFO     2025-11-22 05:23:33 [scraper.py:172] 🔗 [HN #1] URL: https://scienceclock.com/moss-survives-9-months-in-space-vacuum/
+INFO     2025-11-22 05:23:33 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-22 05:23:33 [scraper.py:171] 📥 [HN #2] Personal blogs are back, should niche blogs be next?
+INFO     2025-11-22 05:23:33 [scraper.py:172] 🔗 [HN #2] URL: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+INFO     2025-11-22 05:23:33 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-22 05:23:33 [scraper.py:171] 📥 [HN #3] Helping Valve to power up Steam devices
+INFO     2025-11-22 05:23:33 [scraper.py:172] 🔗 [HN #3] URL: https://www.igalia.com/2025/11/helpingvalve.html
+INFO     2025-11-22 05:23:33 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-22 05:23:33 [scraper.py:171] 📥 [HN #4] Apple's Problem with Bodies
+INFO     2025-11-22 05:23:33 [scraper.py:172] 🔗 [HN #4] URL: https://drobinin.com/posts/apples-problem-with-bodies/
+INFO     2025-11-22 05:23:33 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #5] Samsung's 60% DRAM price hike signals a new phase of global memory tightening
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #5] URL: https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #6] Arduino Terms of Service and Privacy Policy update: setting the record straight
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #6] URL: https://blog.arduino.cc/2025/11/21/the-arduino-terms-of-service-and-privacy-policy-update-setting-the-record-straight/
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #7] Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #7] URL: https://wealthfolio.app/?v=2.0
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #8] LAPD helicopter tracker with real-time operating costs
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #8] URL: https://lapdhelicoptertracker.com/
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #9] How I learned Vulkan and wrote a small game engine with it (2024)
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #9] URL: https://edw.is/learning-vulkan/
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:171] 📥 [HN #10] Sharper MRI scans may be on horizon thanks to new physics-based model
+INFO     2025-11-22 05:23:34 [scraper.py:172] 🔗 [HN #10] URL: https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
+INFO     2025-11-22 05:23:34 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-22 05:23:34 [scraper.py:179] 🎉 [HN] All done.
+
