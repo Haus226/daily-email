@@ -11680,3 +11680,36 @@ INFO     2025-11-23 02:23:39 [scraper.py:172] 🔗 [HN #10] URL: https://stack.i
 INFO     2025-11-23 02:23:39 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-23 02:23:39 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-23 05:24:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-23 05:24:31 [scraper.py:171] 📥 [HN #1] GCC SC approves inclusion of Algol 68 Front End
+INFO     2025-11-23 05:24:31 [scraper.py:172] 🔗 [HN #1] URL: https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html
+INFO     2025-11-23 05:24:31 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #2] Unusual circuits in the Intel 386's standard cell logic
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #2] URL: https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #3] A monopoly ISP refuses to fix upstream infrastructure
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #3] URL: https://sacbear.com/xfinity-wont-fix-internet/
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #4] NTSB report: Decryption of images from the Titan submersible camera [pdf]
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #4] URL: https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #5] We Induced Smells With Ultrasound
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #5] URL: https://writetobrain.com/olfactory
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #6] WorldGen – Text to Immersive 3D Worlds
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #6] URL: https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-23 05:24:32 [scraper.py:171] 📥 [HN #7] The privacy nightmare of browser fingerprinting
+INFO     2025-11-23 05:24:32 [scraper.py:172] 🔗 [HN #7] URL: https://kevinboone.me/fingerprinting.html
+INFO     2025-11-23 05:24:32 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-23 05:24:33 [scraper.py:171] 📥 [HN #8] Meta buried 'causal' evidence of social media harm, US court filings allege
+INFO     2025-11-23 05:24:33 [scraper.py:172] 🔗 [HN #8] URL: https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/
+INFO     2025-11-23 05:24:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-23 05:24:33 [scraper.py:171] 📥 [HN #9] An Economy of AI Agents
+INFO     2025-11-23 05:24:33 [scraper.py:172] 🔗 [HN #9] URL: https://arxiv.org/abs/2509.01063
+INFO     2025-11-23 05:24:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-23 05:24:33 [scraper.py:171] 📥 [HN #10] Show HN: Forty.News – Daily news, but on a 40-year delay
+INFO     2025-11-23 05:24:33 [scraper.py:172] 🔗 [HN #10] URL: https://forty.news
+INFO     2025-11-23 05:24:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-23 05:24:33 [scraper.py:179] 🎉 [HN] All done.
+
