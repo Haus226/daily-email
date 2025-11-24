@@ -11746,3 +11746,36 @@ INFO     2025-11-23 10:19:59 [scraper.py:172] 🔗 [HN #10] URL: https://data.nt
 INFO     2025-11-23 10:19:59 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-23 10:19:59 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-24 02:11:35 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-24 02:11:35 [scraper.py:171] 📥 [HN #1] Fran Sans – font inspired by San Francisco light rail displays
+INFO     2025-11-24 02:11:35 [scraper.py:172] 🔗 [HN #1] URL: https://emilysneddon.com/fran-sans-essay
+INFO     2025-11-24 02:11:35 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-24 02:11:36 [scraper.py:171] 📥 [HN #2] Native Secure Enclave backed SSH keys on macOS
+INFO     2025-11-24 02:11:36 [scraper.py:172] 🔗 [HN #2] URL: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
+INFO     2025-11-24 02:11:36 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-24 02:11:36 [scraper.py:171] 📥 [HN #3] New magnetic component discovered in the Faraday effect after nearly 2 centuries
+INFO     2025-11-24 02:11:36 [scraper.py:172] 🔗 [HN #3] URL: https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
+INFO     2025-11-24 02:11:36 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-24 02:11:36 [scraper.py:171] 📥 [HN #4] µcad: New open source programming language that can generate 2D sketches and 3D
+INFO     2025-11-24 02:11:36 [scraper.py:172] 🔗 [HN #4] URL: https://microcad.xyz/
+INFO     2025-11-24 02:11:36 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-24 02:11:36 [scraper.py:171] 📥 [HN #5] Show HN: I wrote a minimal memory allocator in C
+INFO     2025-11-24 02:11:36 [scraper.py:172] 🔗 [HN #5] URL: https://github.com/t9nzin/memory
+INFO     2025-11-24 02:11:36 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:171] 📥 [HN #6] Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]
+INFO     2025-11-24 02:11:37 [scraper.py:172] 🔗 [HN #6] URL: https://mathcs.holycross.edu/~ahwang/print/calc.pdf
+INFO     2025-11-24 02:11:37 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:171] 📥 [HN #7] A desktop app for isolated, parallel agentic development
+INFO     2025-11-24 02:11:37 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/coder/mux
+INFO     2025-11-24 02:11:37 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:171] 📥 [HN #8] Shaders: How to draw high fidelity graphics with just x and y coordinates
+INFO     2025-11-24 02:11:37 [scraper.py:172] 🔗 [HN #8] URL: https://www.makingsoftware.com/chapters/shaders
+INFO     2025-11-24 02:11:37 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:171] 📥 [HN #9] Racket v9.0
+INFO     2025-11-24 02:11:37 [scraper.py:172] 🔗 [HN #9] URL: https://blog.racket-lang.org/2025/11/racket-v9-0.html
+INFO     2025-11-24 02:11:37 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:171] 📥 [HN #10] Iowa City made its buses free. traffic cleared, and so did the air
+INFO     2025-11-24 02:11:37 [scraper.py:172] 🔗 [HN #10] URL: https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html
+INFO     2025-11-24 02:11:37 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-24 02:11:37 [scraper.py:179] 🎉 [HN] All done.
+

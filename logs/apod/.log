@@ -1770,3 +1770,8 @@ INFO     2025-11-23 10:19:57 [scraper.py:47] 📥 [APOD] Title: The Observable U
 INFO     2025-11-23 10:19:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg
 INFO     2025-11-23 10:19:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-24 02:11:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-24 02:11:35 [scraper.py:47] 📥 [APOD] Title: The Observable Universe
+INFO     2025-11-24 02:11:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg
+INFO     2025-11-24 02:11:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
