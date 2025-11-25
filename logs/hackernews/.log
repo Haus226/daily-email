@@ -11878,3 +11878,36 @@ INFO     2025-11-25 02:04:49 [scraper.py:172] 🔗 [HN #10] URL: https://www.saw
 INFO     2025-11-25 02:04:49 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-25 02:04:49 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-25 05:26:32 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-25 05:26:32 [scraper.py:171] 📥 [HN #1] Pebble Watch software is now 100% open source
+INFO     2025-11-25 05:26:32 [scraper.py:172] 🔗 [HN #1] URL: https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source
+INFO     2025-11-25 05:26:32 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-25 05:26:32 [scraper.py:171] 📥 [HN #2] Unpowered SSDs slowly lose data
+INFO     2025-11-25 05:26:32 [scraper.py:172] 🔗 [HN #2] URL: https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/
+INFO     2025-11-25 05:26:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-25 05:26:32 [scraper.py:171] 📥 [HN #3] Claude Advanced Tool Use
+INFO     2025-11-25 05:26:32 [scraper.py:172] 🔗 [HN #3] URL: https://www.anthropic.com/engineering/advanced-tool-use
+INFO     2025-11-25 05:26:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #4] Cool-retro-term: terminal emulator which mimics look and feel of CRTs
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/Swordfish90/cool-retro-term
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #5] Show HN: I built an interactive HN Simulator
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #5] URL: https://news.ysimulator.run/news
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #6] Show HN: OCR Arena – A playground for OCR models
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #6] URL: https://www.ocrarena.ai/battle
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #7] Implications of AI to schools
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #7] URL: https://twitter.com/karpathy/status/1993010584175141038
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #8] Three Years from GPT-3 to Gemini 3
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #8] URL: https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #9] Claude Opus 4.5
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #9] URL: https://www.anthropic.com/news/claude-opus-4-5
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:171] 📥 [HN #10] Build a Compiler in Five Projects
+INFO     2025-11-25 05:26:33 [scraper.py:172] 🔗 [HN #10] URL: https://kmicinski.com/functional-programming/2025/11/23/build-a-language/
+INFO     2025-11-25 05:26:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-25 05:26:33 [scraper.py:179] 🎉 [HN] All done.
+
