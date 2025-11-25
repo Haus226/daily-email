@@ -1785,3 +1785,8 @@ INFO     2025-11-24 10:24:27 [scraper.py:47] 📥 [APOD] Title: Apep: Unusual Du
 INFO     2025-11-24 10:24:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg
 INFO     2025-11-24 10:24:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-25 02:04:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-25 02:04:49 [scraper.py:47] 📥 [APOD] Title: Apep: Unusual Dust Shells from Webb
+INFO     2025-11-25 02:04:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg
+INFO     2025-11-25 02:04:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
