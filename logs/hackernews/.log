@@ -12010,3 +12010,36 @@ INFO     2025-11-26 05:25:48 [scraper.py:172] 🔗 [HN #10] URL: https://www.iz2
 INFO     2025-11-26 05:25:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-26 05:25:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-26 10:23:59 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-26 10:23:59 [scraper.py:171] 📥 [HN #1] Statistical Process Control in Python
+INFO     2025-11-26 10:23:59 [scraper.py:172] 🔗 [HN #1] URL: https://timothyfraser.com/sigma/statistical-process-control-in-python.html
+INFO     2025-11-26 10:23:59 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-26 10:23:59 [scraper.py:171] 📥 [HN #2] Show HN: KiDoom – Running DOOM on PCB Traces
+INFO     2025-11-26 10:23:59 [scraper.py:172] 🔗 [HN #2] URL: https://www.mikeayles.com/#kidoom
+INFO     2025-11-26 10:23:59 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-26 10:23:59 [scraper.py:171] 📥 [HN #3] Surprisingly, Emacs on Android is pretty good
+INFO     2025-11-26 10:23:59 [scraper.py:172] 🔗 [HN #3] URL: https://kristofferbalintona.me/posts/202505291438/
+INFO     2025-11-26 10:23:59 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #4] Copyparty, the FOSS file server [video]
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=15_-hgsX2V0
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #5] Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #5] URL: https://arxiv.org/abs/2511.19936
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #6] Space Truckin' – The Nostromo (2012)
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #6] URL: https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #7] A new bridge links the math of infinity to computer science
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #7] URL: https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #8] Trillions spent and big software projects are still failing
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #8] URL: https://spectrum.ieee.org/it-management-software-failures
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #9] CS234: Reinforcement Learning Winter 2025
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #9] URL: https://web.stanford.edu/class/cs234/
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:171] 📥 [HN #10] Show HN: We built an open source, zero webhooks payment processor
+INFO     2025-11-26 10:24:00 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/flowglad/flowglad
+INFO     2025-11-26 10:24:00 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-26 10:24:00 [scraper.py:179] 🎉 [HN] All done.
+
