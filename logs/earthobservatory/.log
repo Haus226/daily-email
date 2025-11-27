@@ -2402,3 +2402,9 @@ INFO     2025-11-26 10:24:19 [scraper.py:134] 📥 [EO] Title: The Towers of Tr�
 INFO     2025-11-26 10:24:19 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154897/vietnam_trangan_oli2_20250602_th.jpg
 INFO     2025-11-26 10:24:19 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-27 02:02:35 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-27 02:02:36 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-27 02:02:36 [scraper.py:134] 📥 [EO] Title: Cranberry Country, Wisconsin
+INFO     2025-11-27 02:02:36 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154901/cranberrybog_oli2_20251013_th.jpg
+INFO     2025-11-27 02:02:36 [scraper.py:155] ✅ [EO] Successfully fetched.
+
