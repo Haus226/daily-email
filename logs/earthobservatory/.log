@@ -2408,3 +2408,9 @@ INFO     2025-11-27 02:02:36 [scraper.py:134] 📥 [EO] Title: Cranberry Country
 INFO     2025-11-27 02:02:36 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154901/cranberrybog_oli2_20251013_th.jpg
 INFO     2025-11-27 02:02:36 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-27 05:26:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-27 05:26:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-27 05:26:28 [scraper.py:134] 📥 [EO] Title: Cranberry Country, Wisconsin
+INFO     2025-11-27 05:26:28 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154901/cranberrybog_oli2_20251013_th.jpg
+INFO     2025-11-27 05:26:28 [scraper.py:155] ✅ [EO] Successfully fetched.
+

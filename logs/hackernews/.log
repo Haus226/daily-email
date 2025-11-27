@@ -12076,3 +12076,36 @@ INFO     2025-11-27 02:02:37 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-11-27 02:02:37 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-27 02:02:37 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-27 05:26:27 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-27 05:26:27 [scraper.py:171] 📥 [HN #1] Migrating the main Zig repository from GitHub to Codeberg
+INFO     2025-11-27 05:26:27 [scraper.py:172] 🔗 [HN #1] URL: https://ziglang.org/news/migrating-from-github-to-codeberg/
+INFO     2025-11-27 05:26:27 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-27 05:26:27 [scraper.py:171] 📥 [HN #2] DIY NAS: 2026 Edition
+INFO     2025-11-27 05:26:27 [scraper.py:172] 🔗 [HN #2] URL: https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html
+INFO     2025-11-27 05:26:27 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-27 05:26:27 [scraper.py:171] 📥 [HN #3] Penpot: The Open-Source Figma
+INFO     2025-11-27 05:26:27 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/penpot/penpot
+INFO     2025-11-27 05:26:27 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #4] Voyager 1 is about to reach one light-day from Earth
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #4] URL: https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #5] Coq: The World's Best Macro Assembler? [pdf]
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #5] URL: https://nickbenton.name/coqasm.pdf
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #6] Running Unsupported iOS on Deprecated Devices
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #6] URL: https://nyansatan.github.io/run-unsupported-ios/
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #7] S&box is now an open source game engine
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #7] URL: https://sbox.game/news/update-25-11-26
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #8] Gemini CLI Tips and Tricks for Agentic Coding
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #8] URL: https://github.com/addyosmani/gemini-cli-tips
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #9] A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #9] URL: https://www.benjoffe.com/fast-date-64
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:171] 📥 [HN #10] Bring bathroom doors back to hotels
+INFO     2025-11-27 05:26:28 [scraper.py:172] 🔗 [HN #10] URL: https://bringbackdoors.com/
+INFO     2025-11-27 05:26:28 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-27 05:26:28 [scraper.py:179] 🎉 [HN] All done.
+

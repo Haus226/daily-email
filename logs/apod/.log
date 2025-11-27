@@ -1820,3 +1820,8 @@ INFO     2025-11-27 02:02:36 [scraper.py:47] 📥 [APOD] Title: Globular Cluster
 INFO     2025-11-27 02:02:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg
 INFO     2025-11-27 02:02:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-27 05:26:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-27 05:26:27 [scraper.py:47] 📥 [APOD] Title: Portrait of NGC 1055
+INFO     2025-11-27 05:26:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg
+INFO     2025-11-27 05:26:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
