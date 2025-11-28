@@ -1835,3 +1835,8 @@ INFO     2025-11-28 02:02:09 [scraper.py:47] 📥 [APOD] Title: Portrait of NGC 
 INFO     2025-11-28 02:02:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg
 INFO     2025-11-28 02:02:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-11-28 05:26:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-28 05:26:14 [scraper.py:47] 📥 [APOD] Title: NGC 6888: The Crescent Nebula
+INFO     2025-11-28 05:26:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg
+INFO     2025-11-28 05:26:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
