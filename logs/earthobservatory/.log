@@ -2420,3 +2420,9 @@ INFO     2025-11-27 10:23:59 [scraper.py:134] 📥 [EO] Title: Cranberry Country
 INFO     2025-11-27 10:23:59 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154901/cranberrybog_oli2_20251013_th.jpg
 INFO     2025-11-27 10:23:59 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-11-28 02:02:09 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-11-28 02:02:09 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-11-28 02:02:10 [scraper.py:134] 📥 [EO] Title: Rings of Rock in the Sahara
+INFO     2025-11-28 02:02:10 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154891/iss073e0698446_th.jpg
+INFO     2025-11-28 02:02:10 [scraper.py:155] ✅ [EO] Successfully fetched.
+

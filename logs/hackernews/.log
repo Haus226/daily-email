@@ -12142,3 +12142,36 @@ INFO     2025-11-27 10:24:00 [scraper.py:172] 🔗 [HN #10] URL: https://sbox.ga
 INFO     2025-11-27 10:24:00 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-27 10:24:00 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-28 02:02:09 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-28 02:02:09 [scraper.py:171] 📥 [HN #1] 250MWh 'Sand Battery' to start construction in Finland
+INFO     2025-11-28 02:02:09 [scraper.py:172] 🔗 [HN #1] URL: https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/
+INFO     2025-11-28 02:02:09 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-28 02:02:09 [scraper.py:171] 📥 [HN #2] How Charles M Schulz created Charlie Brown and Snoopy (2024)
+INFO     2025-11-28 02:02:09 [scraper.py:172] 🔗 [HN #2] URL: https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy
+INFO     2025-11-28 02:02:09 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-28 02:02:09 [scraper.py:171] 📥 [HN #3] Same-day upstream Linux support for Snapdragon 8 Elite Gen 5
+INFO     2025-11-28 02:02:09 [scraper.py:172] 🔗 [HN #3] URL: https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support
+INFO     2025-11-28 02:02:09 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-28 02:02:10 [scraper.py:171] 📥 [HN #4] Vsora Jotunn-8 5nm European inference chip
+INFO     2025-11-28 02:02:10 [scraper.py:172] 🔗 [HN #4] URL: https://vsora.com/products/jotunn-8/
+INFO     2025-11-28 02:02:10 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-28 02:02:10 [scraper.py:171] 📥 [HN #5] Physicists drive antihydrogen breakthrough at CERN
+INFO     2025-11-28 02:02:10 [scraper.py:172] 🔗 [HN #5] URL: https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html
+INFO     2025-11-28 02:02:10 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-28 02:02:10 [scraper.py:171] 📥 [HN #6] A programmer-friendly I/O abstraction over io_uring and kqueue (2022)
+INFO     2025-11-28 02:02:10 [scraper.py:172] 🔗 [HN #6] URL: https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/
+INFO     2025-11-28 02:02:10 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-28 02:02:10 [scraper.py:171] 📥 [HN #7] Underrated reasons to be thankful V
+INFO     2025-11-28 02:02:10 [scraper.py:172] 🔗 [HN #7] URL: https://dynomight.net/thanks-5/
+INFO     2025-11-28 02:02:10 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-28 02:02:10 [scraper.py:171] 📥 [HN #8] Quake Engine Indicators
+INFO     2025-11-28 02:02:10 [scraper.py:172] 🔗 [HN #8] URL: https://fabiensanglard.net/quake_indicators/index.html
+INFO     2025-11-28 02:02:10 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-28 02:02:11 [scraper.py:171] 📥 [HN #9] Memories of .us
+INFO     2025-11-28 02:02:11 [scraper.py:172] 🔗 [HN #9] URL: https://computer.rip/2025-11-11-dot-us.html
+INFO     2025-11-28 02:02:11 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-28 02:02:11 [scraper.py:171] 📥 [HN #10] Feedback doesn't scale
+INFO     2025-11-28 02:02:11 [scraper.py:172] 🔗 [HN #10] URL: https://another.rodeo/feedback/
+INFO     2025-11-28 02:02:11 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-28 02:02:11 [scraper.py:179] 🎉 [HN] All done.
+
