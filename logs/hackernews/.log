@@ -12274,3 +12274,36 @@ INFO     2025-11-29 02:02:01 [scraper.py:172] 🔗 [HN #10] URL: https://objecti
 INFO     2025-11-29 02:02:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-29 02:02:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-29 05:24:55 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #1] System 7 natively boots on the Mac mini G4
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #1] URL: https://macos9lives.com/smforum/index.php?topic=7711.0
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #2] Airbus A320 – intense solar radiation may corrupt data critical for flight
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #2] URL: https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #3] A triangle whose interior angles sum to zero
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #3] URL: https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #4] Imgur geo-blocked the UK, so I geo-unblocked my network
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #4] URL: https://blog.tymscar.com/posts/imgurukproxy/
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #5] Molly: An Improved Signal App
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #5] URL: https://molly.im/
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-29 05:24:56 [scraper.py:171] 📥 [HN #6] Confessions of a Software Developer: No More Self-Censorship
+INFO     2025-11-29 05:24:56 [scraper.py:172] 🔗 [HN #6] URL: https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/
+INFO     2025-11-29 05:24:56 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-29 05:24:57 [scraper.py:171] 📥 [HN #7] Every mathematician has only a few tricks (2020)
+INFO     2025-11-29 05:24:57 [scraper.py:172] 🔗 [HN #7] URL: https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks
+INFO     2025-11-29 05:24:57 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-29 05:24:57 [scraper.py:171] 📥 [HN #8] So you wanna build a local RAG?
+INFO     2025-11-29 05:24:57 [scraper.py:172] 🔗 [HN #8] URL: https://blog.yakkomajuri.com/blog/local-rag
+INFO     2025-11-29 05:24:57 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-29 05:24:57 [scraper.py:171] 📥 [HN #9] Airloom – 3D Flight Tracker
+INFO     2025-11-29 05:24:57 [scraper.py:172] 🔗 [HN #9] URL: https://objectiveunclear.com/airloom.html
+INFO     2025-11-29 05:24:57 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-29 05:24:57 [scraper.py:171] 📥 [HN #10] The original ABC language, Python's predecessor (1991)
+INFO     2025-11-29 05:24:57 [scraper.py:172] 🔗 [HN #10] URL: https://github.com/gvanrossum/abc-unix
+INFO     2025-11-29 05:24:57 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-29 05:24:57 [scraper.py:179] 🎉 [HN] All done.
+
