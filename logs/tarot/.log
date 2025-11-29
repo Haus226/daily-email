@@ -1823,3 +1823,8 @@ INFO     2025-11-28 10:23:21 [scraper.py:391] 📥 [TAROT] Card: Ten of Pentacle
 INFO     2025-11-28 10:23:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-11-28 10:23:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-11-29 02:01:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-29 02:01:59 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-11-29 02:02:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-29 02:02:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
