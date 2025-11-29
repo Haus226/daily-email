@@ -12307,3 +12307,36 @@ INFO     2025-11-29 05:24:57 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-11-29 05:24:57 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-29 05:24:57 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-29 10:20:34 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-29 10:20:34 [scraper.py:171] 📥 [HN #1] System 7 natively boots on the Mac mini G4
+INFO     2025-11-29 10:20:34 [scraper.py:172] 🔗 [HN #1] URL: https://macos9lives.com/smforum/index.php?topic=7711.0
+INFO     2025-11-29 10:20:34 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-29 10:20:34 [scraper.py:171] 📥 [HN #2] WinApps: Run Windows apps as if they were a part of the native Linux OS
+INFO     2025-11-29 10:20:34 [scraper.py:172] 🔗 [HN #2] URL: https://github.com/winapps-org/winapps
+INFO     2025-11-29 10:20:34 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #3] Airbus A320 – intense solar radiation may corrupt data critical for flight
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #3] URL: https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #4] Show HN: Explore what the browser exposes about you
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #4] URL: https://neberej.github.io/exposedbydefault/
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #5] Every mathematician has only a few tricks (2020)
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #5] URL: https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #6] Imgur geo-blocked the UK, so I geo-unblocked my network
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #6] URL: https://blog.tymscar.com/posts/imgurukproxy/
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #7] Garfield's Proof of the Pythagorean Theorem
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #7] URL: https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #8] Confessions of a Software Developer: No More Self-Censorship
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #8] URL: https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-29 10:20:35 [scraper.py:171] 📥 [HN #9] A triangle whose interior angles sum to zero
+INFO     2025-11-29 10:20:35 [scraper.py:172] 🔗 [HN #9] URL: https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/
+INFO     2025-11-29 10:20:35 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-29 10:20:36 [scraper.py:171] 📥 [HN #10] Molly: An Improved Signal App
+INFO     2025-11-29 10:20:36 [scraper.py:172] 🔗 [HN #10] URL: https://molly.im/
+INFO     2025-11-29 10:20:36 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-29 10:20:36 [scraper.py:179] 🎉 [HN] All done.
+
