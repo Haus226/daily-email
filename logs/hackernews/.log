@@ -12406,3 +12406,36 @@ INFO     2025-11-30 05:25:31 [scraper.py:172] 🔗 [HN #10] URL: https://www.lep
 INFO     2025-11-30 05:25:31 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-30 05:25:31 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-11-30 10:20:01 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #1] Show HN: Boing
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #1] URL: https://boing.greg.technology/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #2] Zigbook Is Plagiarizing the Zigtools Playground
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #2] URL: https://zigtools.org/blog/zigbook-plagiarizing-playground/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #3] Bazzite: The next generation of Linux gaming
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #3] URL: https://bazzite.gg/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #4] All it takes is for one to work out
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #4] URL: https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #5] Meshtastic
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #5] URL: https://meshtastic.org/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-11-30 10:20:02 [scraper.py:171] 📥 [HN #6] Landlock-Ing Linux
+INFO     2025-11-30 10:20:02 [scraper.py:172] 🔗 [HN #6] URL: https://blog.prizrak.me/post/landlock/
+INFO     2025-11-30 10:20:02 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-11-30 10:20:03 [scraper.py:171] 📥 [HN #7] The HTTP Query Method
+INFO     2025-11-30 10:20:03 [scraper.py:172] 🔗 [HN #7] URL: https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html
+INFO     2025-11-30 10:20:03 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-11-30 10:20:03 [scraper.py:171] 📥 [HN #8] Americans no longer see four-year college degrees as worth the cost
+INFO     2025-11-30 10:20:03 [scraper.py:172] 🔗 [HN #8] URL: https://www.nbcnews.com/politics/politics-news/poll-dramatic-shift-americans-no-longer-see-four-year-college-degrees-rcna243672
+INFO     2025-11-30 10:20:03 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-11-30 10:20:03 [scraper.py:171] 📥 [HN #9] Learning Feynman's Trick for Integrals
+INFO     2025-11-30 10:20:03 [scraper.py:172] 🔗 [HN #9] URL: https://zackyzz.github.io/feynman.html
+INFO     2025-11-30 10:20:03 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-11-30 10:20:03 [scraper.py:171] 📥 [HN #10] Datacenters in space aren't going to work
+INFO     2025-11-30 10:20:03 [scraper.py:172] 🔗 [HN #10] URL: https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/
+INFO     2025-11-30 10:20:03 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-11-30 10:20:03 [scraper.py:179] 🎉 [HN] All done.
+
