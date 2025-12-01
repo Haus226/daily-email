@@ -2474,3 +2474,6 @@ INFO     2025-11-30 10:20:16 [scraper.py:134] 📥 [EO] Title: Rings of Rock in 
 INFO     2025-11-30 10:20:16 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154891/iss073e0698446_th.jpg
 INFO     2025-11-30 10:20:16 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-12-01 02:31:08 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+ERROR    2025-12-01 02:31:08 [scraper.py:157] ❌ [EO] Failed to fetch: 'NoneType' object has no attribute 'find_all'
+

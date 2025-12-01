@@ -12439,3 +12439,36 @@ INFO     2025-11-30 10:20:03 [scraper.py:172] 🔗 [HN #10] URL: https://taranis
 INFO     2025-11-30 10:20:03 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-11-30 10:20:03 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-01 02:31:08 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-01 02:31:08 [scraper.py:171] 📥 [HN #1] In Re: 23andMe, Inc. Customer Data Security Breach Litigation
+INFO     2025-12-01 02:31:08 [scraper.py:172] 🔗 [HN #1] URL: https://www.23andmedatasettlement.com/
+INFO     2025-12-01 02:31:08 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #2] A Love Letter to FreeBSD
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #2] URL: https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #3] Algorithms for Optimization [pdf]
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #3] URL: https://algorithmsbook.com/optimization/files/optimization.pdf
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #4] Grokipedia Is the Antithesis of Wikipedia
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #4] URL: https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #5] Writing a good Claude.md
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #5] URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #6] Advent of Code 2025
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #6] URL: https://adventofcode.com/2025/about
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-01 02:31:09 [scraper.py:171] 📥 [HN #7] Advent of Sysadmin 2025
+INFO     2025-12-01 02:31:09 [scraper.py:172] 🔗 [HN #7] URL: https://sadservers.com/advent
+INFO     2025-12-01 02:31:09 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-01 02:31:10 [scraper.py:171] 📥 [HN #8] Bricklink suspends Marketplace operations in 35 countries
+INFO     2025-12-01 02:31:10 [scraper.py:172] 🔗 [HN #8] URL: https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/
+INFO     2025-12-01 02:31:10 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-01 02:31:10 [scraper.py:171] 📥 [HN #9] Windows drive letters are not limited to A-Z
+INFO     2025-12-01 02:31:10 [scraper.py:172] 🔗 [HN #9] URL: https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/
+INFO     2025-12-01 02:31:10 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-01 02:31:10 [scraper.py:171] 📥 [HN #10] Migrating Dillo from GitHub
+INFO     2025-12-01 02:31:10 [scraper.py:172] 🔗 [HN #10] URL: https://dillo-browser.org/news/migration-from-github/
+INFO     2025-12-01 02:31:10 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-01 02:31:10 [scraper.py:179] 🎉 [HN] All done.
+
