@@ -1880,3 +1880,8 @@ INFO     2025-12-01 02:31:08 [scraper.py:47] 📥 [APOD] Title: The Surface of T
 INFO     2025-12-01 02:31:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg
 INFO     2025-12-01 02:31:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-01 05:33:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-01 05:33:27 [scraper.py:47] 📥 [APOD] Title: 3I ATLAS: Tails of an Interstellar Comet
+INFO     2025-12-01 05:33:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg
+INFO     2025-12-01 05:33:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

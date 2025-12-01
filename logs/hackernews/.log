@@ -12472,3 +12472,36 @@ INFO     2025-12-01 02:31:10 [scraper.py:172] 🔗 [HN #10] URL: https://dillo-b
 INFO     2025-12-01 02:31:10 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-01 02:31:10 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-01 05:33:27 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #1] Search tool that only returns content created before ChatGPT's public release
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #1] URL: https://tegabrain.com/Slop-Evader
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #2] A Love Letter to FreeBSD
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #2] URL: https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #3] Advent of Sysadmin 2025
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #3] URL: https://sadservers.com/advent
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #4] Advent of Code 2025
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #4] URL: https://adventofcode.com/2025/about
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #5] Algorithms for Optimization [pdf]
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #5] URL: https://algorithmsbook.com/optimization/files/optimization.pdf
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #6] Writing a good Claude.md
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #6] URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-01 05:33:28 [scraper.py:171] 📥 [HN #7] 'A full-blown crisis': Americans brace for a surge in healthcare costs
+INFO     2025-12-01 05:33:28 [scraper.py:172] 🔗 [HN #7] URL: https://www.ft.com/content/beec76df-8e6d-4238-bae2-e51683b62aa4
+INFO     2025-12-01 05:33:28 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-01 05:33:29 [scraper.py:171] 📥 [HN #8] X210Ai is a new motherboard to upgrade ThinkPad X201/200
+INFO     2025-12-01 05:33:29 [scraper.py:172] 🔗 [HN #8] URL: https://www.tpart.net/about-x210ai/
+INFO     2025-12-01 05:33:29 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-01 05:33:29 [scraper.py:171] 📥 [HN #9] Windows drive letters are not limited to A-Z
+INFO     2025-12-01 05:33:29 [scraper.py:172] 🔗 [HN #9] URL: https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/
+INFO     2025-12-01 05:33:29 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-01 05:33:29 [scraper.py:171] 📥 [HN #10] Replacing My Window Manager with Google Chrome
+INFO     2025-12-01 05:33:29 [scraper.py:172] 🔗 [HN #10] URL: https://foxmoss.com/blog/dote/
+INFO     2025-12-01 05:33:29 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-01 05:33:29 [scraper.py:179] 🎉 [HN] All done.
+
