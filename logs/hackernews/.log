@@ -12505,3 +12505,36 @@ INFO     2025-12-01 05:33:29 [scraper.py:172] 🔗 [HN #10] URL: https://foxmoss
 INFO     2025-12-01 05:33:29 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-01 05:33:29 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-01 10:25:25 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-01 10:25:26 [scraper.py:171] 📥 [HN #1] Search tool that only returns content created before ChatGPT's public release
+INFO     2025-12-01 10:25:26 [scraper.py:172] 🔗 [HN #1] URL: https://tegabrain.com/Slop-Evader
+INFO     2025-12-01 10:25:26 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-01 10:25:26 [scraper.py:171] 📥 [HN #2] Advent of Code 2025
+INFO     2025-12-01 10:25:26 [scraper.py:172] 🔗 [HN #2] URL: https://adventofcode.com/2025/about
+INFO     2025-12-01 10:25:26 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-01 10:25:26 [scraper.py:171] 📥 [HN #3] We've Detected Lightning on Mars
+INFO     2025-12-01 10:25:26 [scraper.py:172] 🔗 [HN #3] URL: https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996
+INFO     2025-12-01 10:25:26 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-01 10:25:26 [scraper.py:171] 📥 [HN #4] DeepSeek releases open-weights math model with IMO gold medal performance
+INFO     2025-12-01 10:25:26 [scraper.py:172] 🔗 [HN #4] URL: https://huggingface.co/deepseek-ai/DeepSeek-Math-V2
+INFO     2025-12-01 10:25:26 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-01 10:25:26 [scraper.py:171] 📥 [HN #5] Advent of Sysadmin 2025
+INFO     2025-12-01 10:25:26 [scraper.py:172] 🔗 [HN #5] URL: https://sadservers.com/advent
+INFO     2025-12-01 10:25:26 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:171] 📥 [HN #6] A Love Letter to FreeBSD
+INFO     2025-12-01 10:25:27 [scraper.py:172] 🔗 [HN #6] URL: https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/
+INFO     2025-12-01 10:25:27 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:171] 📥 [HN #7] Writing a good Claude.md
+INFO     2025-12-01 10:25:27 [scraper.py:172] 🔗 [HN #7] URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md
+INFO     2025-12-01 10:25:27 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:171] 📥 [HN #8] Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton
+INFO     2025-12-01 10:25:27 [scraper.py:172] 🔗 [HN #8] URL: https://areweanticheatyet.com/
+INFO     2025-12-01 10:25:27 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:171] 📥 [HN #9] N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics
+INFO     2025-12-01 10:25:27 [scraper.py:172] 🔗 [HN #9] URL: https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000
+INFO     2025-12-01 10:25:27 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:171] 📥 [HN #10] Algorithms for Optimization [pdf]
+INFO     2025-12-01 10:25:27 [scraper.py:172] 🔗 [HN #10] URL: https://algorithmsbook.com/optimization/files/optimization.pdf
+INFO     2025-12-01 10:25:27 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-01 10:25:27 [scraper.py:179] 🎉 [HN] All done.
+
