@@ -12604,3 +12604,36 @@ INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #10] URL: https://eyeonde
 INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-02 05:25:42 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-02 10:24:20 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-02 10:24:20 [scraper.py:171] 📥 [HN #1] What will enter the public domain in 2026?
+INFO     2025-12-02 10:24:20 [scraper.py:172] 🔗 [HN #1] URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/
+INFO     2025-12-02 10:24:20 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-02 10:24:20 [scraper.py:171] 📥 [HN #2] Apple Releases Open Weights Video Model
+INFO     2025-12-02 10:24:20 [scraper.py:172] 🔗 [HN #2] URL: https://starflow-v.github.io
+INFO     2025-12-02 10:24:20 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #3] Rootless Pings in Rust
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #3] URL: https://bou.ke/blog/rust-ping/
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #4] Beej's Guide to Learning Computer Science
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #4] URL: https://beej.us/guide/bglcs/
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #5] DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #5] URL: https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #6] India orders smartphone makers to preload state-owned cyber safety app
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #6] URL: https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #7] How Brian Eno Created Ambient 1: Music for Airports (2019)
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #7] URL: https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-02 10:24:21 [scraper.py:171] 📥 [HN #8] Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025
+INFO     2025-12-02 10:24:21 [scraper.py:172] 🔗 [HN #8] URL: https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/
+INFO     2025-12-02 10:24:21 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-02 10:24:22 [scraper.py:171] 📥 [HN #9] Advent of Compiler Optimisations 2025
+INFO     2025-12-02 10:24:22 [scraper.py:172] 🔗 [HN #9] URL: https://xania.org/202511/advent-of-compiler-optimisation
+INFO     2025-12-02 10:24:22 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-02 10:24:22 [scraper.py:171] 📥 [HN #10] Tom Stoppard has died
+INFO     2025-12-02 10:24:22 [scraper.py:172] 🔗 [HN #10] URL: https://www.bbc.com/news/articles/c74xe49q7vlo
+INFO     2025-12-02 10:24:22 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-02 10:24:22 [scraper.py:179] 🎉 [HN] All done.
+
