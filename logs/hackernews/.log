@@ -12571,3 +12571,36 @@ INFO     2025-12-02 02:06:58 [scraper.py:172] 🔗 [HN #10] URL: https://eyeonde
 INFO     2025-12-02 02:06:58 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-02 02:06:58 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-02 05:25:41 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-02 05:25:41 [scraper.py:171] 📥 [HN #1] What will enter the public domain in 2026?
+INFO     2025-12-02 05:25:41 [scraper.py:172] 🔗 [HN #1] URL: https://publicdomainreview.org/features/entering-the-public-domain/2026/
+INFO     2025-12-02 05:25:41 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-02 05:25:41 [scraper.py:171] 📥 [HN #2] Beej's Guide to Learning Computer Science
+INFO     2025-12-02 05:25:41 [scraper.py:172] 🔗 [HN #2] URL: https://beej.us/guide/bglcs/html/split/
+INFO     2025-12-02 05:25:41 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-02 05:25:41 [scraper.py:171] 📥 [HN #3] DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]
+INFO     2025-12-02 05:25:41 [scraper.py:172] 🔗 [HN #3] URL: https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf
+INFO     2025-12-02 05:25:41 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #4] Tom Stoppard has died
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #4] URL: https://www.bbc.com/news/articles/c74xe49q7vlo
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #5] India orders smartphone makers to preload state-owned cyber safety app
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #5] URL: https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #6] Reverse math shows why hard problems are hard
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #6] URL: https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #7] Ghostty compiled to WASM with xterm.js API compatibility
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/coder/ghostty-web
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #8] Arcee Trinity Mini: US-Trained Moe Model
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #8] URL: https://www.arcee.ai/blog/the-trinity-manifesto?src=hn
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #9] Ask HN: Who is hiring? (December 2025)
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=46108941
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:171] 📥 [HN #10] Cartographers have been hiding illustrations inside Switzerland’s maps (2020)
+INFO     2025-12-02 05:25:42 [scraper.py:172] 🔗 [HN #10] URL: https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/
+INFO     2025-12-02 05:25:42 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-02 05:25:42 [scraper.py:179] 🎉 [HN] All done.
+
