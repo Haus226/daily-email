@@ -12703,3 +12703,36 @@ INFO     2025-12-03 05:26:13 [scraper.py:172] 🔗 [HN #10] URL: https://techcru
 INFO     2025-12-03 05:26:13 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-03 05:26:13 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-03 10:27:40 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-03 10:27:40 [scraper.py:171] 📥 [HN #1] Accepting US car standards would risk European lives
+INFO     2025-12-03 10:27:40 [scraper.py:172] 🔗 [HN #1] URL: https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/
+INFO     2025-12-03 10:27:40 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #2] Anthropic acquires Bun
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #2] URL: https://bun.com/blog/bun-joins-anthropic
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #3] Zig quits GitHub, says Microsoft's AI obsession has ruined the service
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #3] URL: https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #4] IBM CEO says there is 'no way' spending on AI data centers will pay off
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #4] URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #5] Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #5] URL: https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #6] The Writing Is on the Wall for Handwriting Recognition
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #6] URL: https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-03 10:27:41 [scraper.py:171] 📥 [HN #7] AI agents break rules under everyday pressure
+INFO     2025-12-03 10:27:41 [scraper.py:172] 🔗 [HN #7] URL: https://spectrum.ieee.org/ai-agents-safety
+INFO     2025-12-03 10:27:41 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-03 10:27:42 [scraper.py:171] 📥 [HN #8] Super fast aggregations in PostgreSQL 19
+INFO     2025-12-03 10:27:42 [scraper.py:172] 🔗 [HN #8] URL: https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/
+INFO     2025-12-03 10:27:42 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-03 10:27:42 [scraper.py:171] 📥 [HN #9] Quad9 DOH HTTP/1.1 Retirement, December 15, 2025
+INFO     2025-12-03 10:27:42 [scraper.py:172] 🔗 [HN #9] URL: https://quad9.net/news/blog/doh-http-1-1-retirement/
+INFO     2025-12-03 10:27:42 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-03 10:27:42 [scraper.py:171] 📥 [HN #10] Paged Out
+INFO     2025-12-03 10:27:42 [scraper.py:172] 🔗 [HN #10] URL: https://pagedout.institute
+INFO     2025-12-03 10:27:42 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-03 10:27:42 [scraper.py:179] 🎉 [HN] All done.
+
