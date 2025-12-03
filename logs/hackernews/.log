@@ -12670,3 +12670,36 @@ INFO     2025-12-03 02:06:40 [scraper.py:172] 🔗 [HN #10] URL: https://the-dec
 INFO     2025-12-03 02:06:40 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-03 02:06:40 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-03 05:26:11 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-03 05:26:11 [scraper.py:171] 📥 [HN #1] Anthropic acquires Bun
+INFO     2025-12-03 05:26:11 [scraper.py:172] 🔗 [HN #1] URL: https://bun.com/blog/bun-joins-anthropic
+INFO     2025-12-03 05:26:11 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-03 05:26:11 [scraper.py:171] 📥 [HN #2] Japanese game devs face font dilemma as license increases from $380 to $20k
+INFO     2025-12-03 05:26:11 [scraper.py:172] 🔗 [HN #2] URL: https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000
+INFO     2025-12-03 05:26:11 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #3] IBM CEO says there is 'no way' spending on AI data centers will pay off
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #3] URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #4] Paged Out
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #4] URL: https://pagedout.institute
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #5] Understanding ECDSA
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #5] URL: https://avidthinker.github.io/2025/11/28/understanding-ecdsa/
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #6] AI Agents Break Rules Under Everyday Pressure
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #6] URL: https://spectrum.ieee.org/ai-agents-safety
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #7] I designed and printed a custom nose guard to help my dog with DLE
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #7] URL: https://snoutcover.com/billie-story
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #8] OpenAI declares 'code red' as Google catches up in AI race
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #8] URL: https://www.theverge.com/news/836212/openai-code-red-chatgpt
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-03 05:26:12 [scraper.py:171] 📥 [HN #9] Counter Galois Onion: Improved encryption for Tor circuit traffic
+INFO     2025-12-03 05:26:12 [scraper.py:172] 🔗 [HN #9] URL: https://blog.torproject.org/introducing-cgo/
+INFO     2025-12-03 05:26:12 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-03 05:26:13 [scraper.py:171] 📥 [HN #10] Amazon launches Trainium3
+INFO     2025-12-03 05:26:13 [scraper.py:172] 🔗 [HN #10] URL: https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/
+INFO     2025-12-03 05:26:13 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-03 05:26:13 [scraper.py:179] 🎉 [HN] All done.
+
