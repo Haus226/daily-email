@@ -12736,3 +12736,36 @@ INFO     2025-12-03 10:27:42 [scraper.py:172] 🔗 [HN #10] URL: https://pagedou
 INFO     2025-12-03 10:27:42 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-03 10:27:42 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-04 02:07:42 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-04 02:07:42 [scraper.py:171] 📥 [HN #1] Ghostty is now non-profit
+INFO     2025-12-04 02:07:42 [scraper.py:172] 🔗 [HN #1] URL: https://mitchellh.com/writing/ghostty-non-profit
+INFO     2025-12-04 02:07:42 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-04 02:07:42 [scraper.py:171] 📥 [HN #2] Valve reveals it’s the architect behind a push to bring Windows games to Arm
+INFO     2025-12-04 02:07:42 [scraper.py:172] 🔗 [HN #2] URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+INFO     2025-12-04 02:07:42 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-04 02:07:43 [scraper.py:171] 📥 [HN #3] Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+INFO     2025-12-04 02:07:43 [scraper.py:172] 🔗 [HN #3] URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+INFO     2025-12-04 02:07:43 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-04 02:07:43 [scraper.py:171] 📥 [HN #4] Micron Announces Exit from Crucial Consumer Business
+INFO     2025-12-04 02:07:43 [scraper.py:172] 🔗 [HN #4] URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+INFO     2025-12-04 02:07:43 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-04 02:07:43 [scraper.py:171] 📥 [HN #5] 1D Conway's Life glider found, 3.7B cells long
+INFO     2025-12-04 02:07:43 [scraper.py:172] 🔗 [HN #5] URL: https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
+INFO     2025-12-04 02:07:43 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-04 02:07:43 [scraper.py:171] 📥 [HN #6] Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server
+INFO     2025-12-04 02:07:43 [scraper.py:172] 🔗 [HN #6] URL: https://www.isc.org/kea/
+INFO     2025-12-04 02:07:43 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-04 02:07:43 [scraper.py:171] 📥 [HN #7] Acme, a brief history of one of the protocols which has changed the Internet
+INFO     2025-12-04 02:07:43 [scraper.py:172] 🔗 [HN #7] URL: https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/
+INFO     2025-12-04 02:07:43 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-04 02:07:44 [scraper.py:171] 📥 [HN #8] Preserving Snow Crystals
+INFO     2025-12-04 02:07:44 [scraper.py:172] 🔗 [HN #8] URL: https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm
+INFO     2025-12-04 02:07:44 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-04 02:07:44 [scraper.py:171] 📥 [HN #9] Show HN: I built a dashboard to compare mortgage rates across 120 credit unions
+INFO     2025-12-04 02:07:44 [scraper.py:172] 🔗 [HN #9] URL: https://finfam.app/blog/credit-union-mortgages
+INFO     2025-12-04 02:07:44 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-04 02:07:44 [scraper.py:171] 📥 [HN #10] Average DRAM price in USD over last 18 months
+INFO     2025-12-04 02:07:44 [scraper.py:172] 🔗 [HN #10] URL: https://pcpartpicker.com/trends/price/memory/
+INFO     2025-12-04 02:07:44 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-04 02:07:44 [scraper.py:179] 🎉 [HN] All done.
+
