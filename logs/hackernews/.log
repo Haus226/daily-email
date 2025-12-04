@@ -12802,3 +12802,36 @@ INFO     2025-12-04 05:26:19 [scraper.py:172] 🔗 [HN #10] URL: https://finfam.
 INFO     2025-12-04 05:26:19 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-04 05:26:19 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-04 10:26:04 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-04 10:26:04 [scraper.py:171] 📥 [HN #1] Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs
+INFO     2025-12-04 10:26:04 [scraper.py:172] 🔗 [HN #1] URL: https://arxiv.org/abs/2512.04047
+INFO     2025-12-04 10:26:04 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-04 10:26:04 [scraper.py:171] 📥 [HN #2] Ghostty is now non-profit
+INFO     2025-12-04 10:26:04 [scraper.py:172] 🔗 [HN #2] URL: https://mitchellh.com/writing/ghostty-non-profit
+INFO     2025-12-04 10:26:04 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-04 10:26:04 [scraper.py:171] 📥 [HN #3] Valve reveals it’s the architect behind a push to bring Windows games to Arm
+INFO     2025-12-04 10:26:04 [scraper.py:172] 🔗 [HN #3] URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #4] Uncloud - Tool for deploying containerised apps across servers without k8s
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #4] URL: https://uncloud.run/
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #5] Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #5] URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #6] The Mysterious Realm of JavaScriptCore (2021)
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #6] URL: https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #7] Average DRAM price in USD over last 18 months
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #7] URL: https://pcpartpicker.com/trends/price/memory/
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #8] All the Way Down
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #8] URL: https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #9] Micron Announces Exit from Crucial Consumer Business
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #9] URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:171] 📥 [HN #10] 1D Conway's Life glider found, 3.7B cells long
+INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #10] URL: https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
+INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-04 10:26:05 [scraper.py:179] 🎉 [HN] All done.
+

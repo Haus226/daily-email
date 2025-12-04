@@ -1930,3 +1930,8 @@ INFO     2025-12-04 05:26:18 [scraper.py:47] 📥 [APOD] Title: Galaxies in the 
 INFO     2025-12-04 05:26:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg
 INFO     2025-12-04 05:26:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-04 10:26:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-04 10:26:04 [scraper.py:47] 📥 [APOD] Title: Galaxies in the Furnace
+INFO     2025-12-04 10:26:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg
+INFO     2025-12-04 10:26:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
