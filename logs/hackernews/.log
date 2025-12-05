@@ -12835,3 +12835,36 @@ INFO     2025-12-04 10:26:05 [scraper.py:172] 🔗 [HN #10] URL: https://conwayl
 INFO     2025-12-04 10:26:05 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-04 10:26:05 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-05 02:07:51 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-05 02:07:52 [scraper.py:171] 📥 [HN #1] AV1 – Now Powering 30% of Netflix Streaming
+INFO     2025-12-05 02:07:52 [scraper.py:172] 🔗 [HN #1] URL: https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80
+INFO     2025-12-05 02:07:52 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-05 02:07:52 [scraper.py:171] 📥 [HN #2] BMW PHEV: When EU engineering becomes a synonym for "unrepairable" (EV Clinic)
+INFO     2025-12-05 02:07:52 [scraper.py:172] 🔗 [HN #2] URL: https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/
+INFO     2025-12-05 02:07:52 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-05 02:07:52 [scraper.py:171] 📥 [HN #3] CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL
+INFO     2025-12-05 02:07:52 [scraper.py:172] 🔗 [HN #3] URL: https://github.com/deepreinforce-ai/CUDA-L2
+INFO     2025-12-05 02:07:52 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #4] The Ofcom Files, Part 4: Ofcom Rides Again
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #4] URL: https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #5] State of AI: An Empirical 100T Token Study with OpenRouter
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #5] URL: https://openrouter.ai/state-of-ai
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #6] Trick users and bypass warnings – Modern SVG Clickjacking attacks
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #6] URL: https://lyra.horse/blog/2025/12/svg-clickjacking/
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #7] Multivox: Volumetric Display
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #7] URL: https://github.com/AncientJames/multivox
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #8] It’s time to free JavaScript (2024)
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #8] URL: https://javascript.tm/letter
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #9] Transparent leadership beats servant leadership
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #9] URL: https://entropicthoughts.com/transparent-leadership-beats-servant-leadership
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:171] 📥 [HN #10] Thoughts on Go vs. Rust vs. Zig
+INFO     2025-12-05 02:07:53 [scraper.py:172] 🔗 [HN #10] URL: https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
+INFO     2025-12-05 02:07:53 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-05 02:07:53 [scraper.py:179] 🎉 [HN] All done.
+
