@@ -2561,3 +2561,9 @@ INFO     2025-12-05 10:23:20 [scraper.py:134] 📥 [EO] Title: A Glimpse of Hist
 INFO     2025-12-05 10:23:20 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154894/beniniya_oli2_20250111_th.jpg
 INFO     2025-12-05 10:23:20 [scraper.py:155] ✅ [EO] Successfully fetched.
 
+INFO     2025-12-06 02:01:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-06 02:01:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-06 02:01:21 [scraper.py:134] 📥 [EO] Title: A Glimpse of History in Benin City
+INFO     2025-12-06 02:01:21 [scraper.py:135] 🖼️ [EO] Image URL: https://eoimages.gsfc.nasa.gov/images/imagerecords/154000/154894/beniniya_oli2_20250111_th.jpg
+INFO     2025-12-06 02:01:21 [scraper.py:155] ✅ [EO] Successfully fetched.
+

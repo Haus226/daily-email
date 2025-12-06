@@ -12934,3 +12934,36 @@ INFO     2025-12-05 10:23:08 [scraper.py:172] 🔗 [HN #10] URL: https://www.smi
 INFO     2025-12-05 10:23:08 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-05 10:23:08 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-06 02:01:19 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-06 02:01:19 [scraper.py:171] 📥 [HN #1] Netflix to Acquire Warner Bros
+INFO     2025-12-06 02:01:19 [scraper.py:172] 🔗 [HN #1] URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
+INFO     2025-12-06 02:01:19 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-06 02:01:19 [scraper.py:171] 📥 [HN #2] Cloudflare outage on December 5, 2025
+INFO     2025-12-06 02:01:19 [scraper.py:172] 🔗 [HN #2] URL: https://blog.cloudflare.com/5-december-2025-outage/
+INFO     2025-12-06 02:01:19 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-06 02:01:20 [scraper.py:171] 📥 [HN #3] Adenosine on the common path of rapid antidepressant action: The coffee paradox
+INFO     2025-12-06 02:01:20 [scraper.py:172] 🔗 [HN #3] URL: https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml
+INFO     2025-12-06 02:01:20 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-06 02:01:20 [scraper.py:171] 📥 [HN #4] Leaving Intel
+INFO     2025-12-06 02:01:20 [scraper.py:172] 🔗 [HN #4] URL: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+INFO     2025-12-06 02:01:20 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-06 02:01:20 [scraper.py:171] 📥 [HN #5] Gemini 3 Pro: the frontier of vision AI
+INFO     2025-12-06 02:01:20 [scraper.py:172] 🔗 [HN #5] URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+INFO     2025-12-06 02:01:20 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-06 02:01:20 [scraper.py:171] 📥 [HN #6] Perpetual Futures
+INFO     2025-12-06 02:01:20 [scraper.py:172] 🔗 [HN #6] URL: https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/
+INFO     2025-12-06 02:01:20 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-06 02:01:20 [scraper.py:171] 📥 [HN #7] Frinkiac – 3M "The Simpsons" Screencaps
+INFO     2025-12-06 02:01:20 [scraper.py:172] 🔗 [HN #7] URL: https://frinkiac.com/
+INFO     2025-12-06 02:01:20 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-06 02:01:21 [scraper.py:171] 📥 [HN #8] Patterns for Defensive Programming in Rust
+INFO     2025-12-06 02:01:21 [scraper.py:172] 🔗 [HN #8] URL: https://corrode.dev/blog/defensive-programming/
+INFO     2025-12-06 02:01:21 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-06 02:01:21 [scraper.py:171] 📥 [HN #9] Idempotency Keys for Exactly-Once Processing
+INFO     2025-12-06 02:01:21 [scraper.py:172] 🔗 [HN #9] URL: https://www.morling.dev/blog/on-idempotency-keys/
+INFO     2025-12-06 02:01:21 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-06 02:01:21 [scraper.py:171] 📥 [HN #10] Most technical problems are people problems
+INFO     2025-12-06 02:01:21 [scraper.py:172] 🔗 [HN #10] URL: https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html
+INFO     2025-12-06 02:01:21 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-06 02:01:21 [scraper.py:179] 🎉 [HN] All done.
+
