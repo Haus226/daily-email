@@ -13000,3 +13000,36 @@ INFO     2025-12-06 05:24:42 [scraper.py:172] 🔗 [HN #10] URL: https://dmitry.
 INFO     2025-12-06 05:24:42 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-06 05:24:42 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-06 10:20:31 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-06 10:20:31 [scraper.py:171] 📥 [HN #1] Wolfram Compute Services
+INFO     2025-12-06 10:20:31 [scraper.py:172] 🔗 [HN #1] URL: https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/
+INFO     2025-12-06 10:20:31 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-06 10:20:32 [scraper.py:171] 📥 [HN #2] Self-hosting my photos with Immich
+INFO     2025-12-06 10:20:32 [scraper.py:172] 🔗 [HN #2] URL: https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/
+INFO     2025-12-06 10:20:32 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-06 10:20:32 [scraper.py:171] 📥 [HN #3] Guy Built a Compact Camera Using an Optical Mouse
+INFO     2025-12-06 10:20:32 [scraper.py:172] 🔗 [HN #3] URL: https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/
+INFO     2025-12-06 10:20:32 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-06 10:20:32 [scraper.py:171] 📥 [HN #4] Have I been Flocked? – Check if your license plate is being watched
+INFO     2025-12-06 10:20:32 [scraper.py:172] 🔗 [HN #4] URL: https://haveibeenflocked.com/
+INFO     2025-12-06 10:20:32 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-06 10:20:32 [scraper.py:171] 📥 [HN #5] Cloudflare outage on December 5, 2025
+INFO     2025-12-06 10:20:32 [scraper.py:172] 🔗 [HN #5] URL: https://blog.cloudflare.com/5-december-2025-outage/
+INFO     2025-12-06 10:20:32 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:171] 📥 [HN #6] Making tiny 0.1cc two stroke engine from scratch
+INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #6] URL: https://youtu.be/nKVq9u52A-c?si=KVY6AK7tsudqnbJN
+INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:171] 📥 [HN #7] Leaving Intel
+INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #7] URL: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:171] 📥 [HN #8] Schizophrenia sufferer mistakes smart fridge ad for psychotic episode
+INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #8] URL: https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/
+INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:171] 📥 [HN #9] Gemini 3 Pro: the frontier of vision AI
+INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #9] URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:171] 📥 [HN #10] PalmOS on FisherPrice Pixter Toy
+INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #10] URL: https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter
+INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-06 10:20:33 [scraper.py:179] 🎉 [HN] All done.
+
