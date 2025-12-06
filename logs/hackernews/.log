@@ -12967,3 +12967,36 @@ INFO     2025-12-06 02:01:21 [scraper.py:172] 🔗 [HN #10] URL: https://blog.jo
 INFO     2025-12-06 02:01:21 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-06 02:01:21 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-06 05:24:40 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-06 05:24:40 [scraper.py:171] 📥 [HN #1] Self-hosting my photos with Immich
+INFO     2025-12-06 05:24:40 [scraper.py:172] 🔗 [HN #1] URL: https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/
+INFO     2025-12-06 05:24:40 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-06 05:24:41 [scraper.py:171] 📥 [HN #2] Nook Browser
+INFO     2025-12-06 05:24:41 [scraper.py:172] 🔗 [HN #2] URL: https://browsewithnook.com
+INFO     2025-12-06 05:24:41 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-06 05:24:41 [scraper.py:171] 📥 [HN #3] Cloudflare outage on December 5, 2025
+INFO     2025-12-06 05:24:41 [scraper.py:172] 🔗 [HN #3] URL: https://blog.cloudflare.com/5-december-2025-outage/
+INFO     2025-12-06 05:24:41 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-06 05:24:41 [scraper.py:171] 📥 [HN #4] Have I been Flocked? – Check if your license plate is being watched
+INFO     2025-12-06 05:24:41 [scraper.py:172] 🔗 [HN #4] URL: https://haveibeenflocked.com/
+INFO     2025-12-06 05:24:41 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-06 05:24:41 [scraper.py:171] 📥 [HN #5] Albert Michelson's Harmonic Analyzer (2014) [pdf]
+INFO     2025-12-06 05:24:41 [scraper.py:172] 🔗 [HN #5] URL: https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf
+INFO     2025-12-06 05:24:41 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-06 05:24:41 [scraper.py:171] 📥 [HN #6] Gemini 3 Pro: the frontier of vision AI
+INFO     2025-12-06 05:24:41 [scraper.py:172] 🔗 [HN #6] URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+INFO     2025-12-06 05:24:41 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-06 05:24:42 [scraper.py:171] 📥 [HN #7] Leaving Intel
+INFO     2025-12-06 05:24:42 [scraper.py:172] 🔗 [HN #7] URL: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+INFO     2025-12-06 05:24:42 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-06 05:24:42 [scraper.py:171] 📥 [HN #8] Netflix to Acquire Warner Bros
+INFO     2025-12-06 05:24:42 [scraper.py:172] 🔗 [HN #8] URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
+INFO     2025-12-06 05:24:42 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-06 05:24:42 [scraper.py:171] 📥 [HN #9] Extra Instructions Of The 65XX Series CPU (1996)
+INFO     2025-12-06 05:24:42 [scraper.py:172] 🔗 [HN #9] URL: http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes
+INFO     2025-12-06 05:24:42 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-06 05:24:42 [scraper.py:171] 📥 [HN #10] PalmOS on FisherPrice Pixter Toy
+INFO     2025-12-06 05:24:42 [scraper.py:172] 🔗 [HN #10] URL: https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter
+INFO     2025-12-06 05:24:42 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-06 05:24:42 [scraper.py:179] 🎉 [HN] All done.
+
