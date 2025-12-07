@@ -13066,3 +13066,36 @@ INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #10] URL: https://www.bbc
 INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-07 02:23:01 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-07 05:24:04 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-07 05:24:04 [scraper.py:171] 📥 [HN #1] Using LLMs at Oxide
+INFO     2025-12-07 05:24:04 [scraper.py:172] 🔗 [HN #1] URL: https://rfd.shared.oxide.computer/rfd/0576
+INFO     2025-12-07 05:24:04 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-07 05:24:04 [scraper.py:171] 📥 [HN #2] Kilauea erupts, destroying webcam [video]
+INFO     2025-12-07 05:24:04 [scraper.py:172] 🔗 [HN #2] URL: https://www.youtube.com/watch?v=TK2N99BDw7A
+INFO     2025-12-07 05:24:04 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #3] Z2 – Lithographically fabricated IC in a garage fab
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #3] URL: https://sam.zeloof.xyz/second-ic/
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #4] Screenshots from developers: 2002 vs. 2015 (2015)
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #4] URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #5] Eurydice: a Rust to C compiler (yes)
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #5] URL: https://jonathan.protzenko.fr/2025/10/28/eurydice.html
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #6] Trains cancelled over fake bridge collapse image
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cwygqqll9k2o
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #7] GrapheneOS is the only Android OS providing full security patches
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #7] URL: https://grapheneos.social/@GrapheneOS/115647408229616018
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-07 05:24:05 [scraper.py:171] 📥 [HN #8] Tiny Core Linux: a 23 MB Linux distro with graphical desktop
+INFO     2025-12-07 05:24:05 [scraper.py:172] 🔗 [HN #8] URL: http://www.tinycorelinux.net/
+INFO     2025-12-07 05:24:05 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-07 05:24:06 [scraper.py:171] 📥 [HN #9] United States Antarctic Program Field Manual (2024) [pdf]
+INFO     2025-12-07 05:24:06 [scraper.py:172] 🔗 [HN #9] URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
+INFO     2025-12-07 05:24:06 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-07 05:24:06 [scraper.py:171] 📥 [HN #10] The past was not that cute
+INFO     2025-12-07 05:24:06 [scraper.py:172] 🔗 [HN #10] URL: https://juliawise.net/the-past-was-not-that-cute/
+INFO     2025-12-07 05:24:06 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-07 05:24:06 [scraper.py:179] 🎉 [HN] All done.
+
