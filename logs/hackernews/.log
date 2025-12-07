@@ -13033,3 +13033,36 @@ INFO     2025-12-06 10:20:33 [scraper.py:172] 🔗 [HN #10] URL: https://dmitry.
 INFO     2025-12-06 10:20:33 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-06 10:20:33 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-07 02:22:59 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-07 02:23:00 [scraper.py:171] 📥 [HN #1] Using LLMs at Oxide
+INFO     2025-12-07 02:23:00 [scraper.py:172] 🔗 [HN #1] URL: https://rfd.shared.oxide.computer/rfd/0576
+INFO     2025-12-07 02:23:00 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-07 02:23:00 [scraper.py:171] 📥 [HN #2] Screenshots from developers: 2002 vs. 2015 (2015)
+INFO     2025-12-07 02:23:00 [scraper.py:172] 🔗 [HN #2] URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
+INFO     2025-12-07 02:23:00 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-07 02:23:00 [scraper.py:171] 📥 [HN #3] Kilauea erupts, destroying webcam [video]
+INFO     2025-12-07 02:23:00 [scraper.py:172] 🔗 [HN #3] URL: https://www.youtube.com/watch?v=TK2N99BDw7A
+INFO     2025-12-07 02:23:00 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-07 02:23:00 [scraper.py:171] 📥 [HN #4] Trains cancelled over fake bridge collapse image
+INFO     2025-12-07 02:23:00 [scraper.py:172] 🔗 [HN #4] URL: https://www.bbc.com/news/articles/cwygqqll9k2o
+INFO     2025-12-07 02:23:00 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-07 02:23:00 [scraper.py:171] 📥 [HN #5] GrapheneOS is the only Android OS providing full security patches
+INFO     2025-12-07 02:23:00 [scraper.py:172] 🔗 [HN #5] URL: https://grapheneos.social/@GrapheneOS/115647408229616018
+INFO     2025-12-07 02:23:00 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:171] 📥 [HN #6] United States Antarctic Program Field Manual (2024) [pdf]
+INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #6] URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
+INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:171] 📥 [HN #7] Tiny Core Linux: a 23 MB Linux distro with graphical desktop
+INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #7] URL: http://www.tinycorelinux.net/
+INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:171] 📥 [HN #8] Zebra-Llama: Towards Efficient Hybrid Models
+INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #8] URL: https://arxiv.org/abs/2505.17272
+INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:171] 📥 [HN #9] Removed Rust to Gain Speed
+INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #9] URL: https://www.prisma.io/blog/announcing-prisma-orm-7-0-0
+INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:171] 📥 [HN #10] Saving Japan's exceptionally rare 'snow monsters'
+INFO     2025-12-07 02:23:01 [scraper.py:172] 🔗 [HN #10] URL: https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters
+INFO     2025-12-07 02:23:01 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-07 02:23:01 [scraper.py:179] 🎉 [HN] All done.
+
