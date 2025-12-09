@@ -1994,3 +1994,8 @@ ERROR    2025-12-08 10:25:21 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneTy
 INFO     2025-12-09 02:07:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2025-12-09 02:07:33 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
 
+INFO     2025-12-09 05:26:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-09 05:26:27 [scraper.py:47] 📥 [APOD] Title: The Heart of the Soul Nebula
+INFO     2025-12-09 05:26:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg
+INFO     2025-12-09 05:26:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
