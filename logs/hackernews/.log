@@ -13297,3 +13297,36 @@ INFO     2025-12-09 05:26:28 [scraper.py:172] 🔗 [HN #10] URL: https://www3.nh
 INFO     2025-12-09 05:26:28 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-09 05:26:28 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-09 10:26:12 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-09 10:26:12 [scraper.py:171] 📥 [HN #1] No ARIA is better than bad ARIA
+INFO     2025-12-09 10:26:12 [scraper.py:172] 🔗 [HN #1] URL: https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/
+INFO     2025-12-09 10:26:12 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-09 10:26:12 [scraper.py:171] 📥 [HN #2] Icons in Menus Everywhere – Send Help
+INFO     2025-12-09 10:26:12 [scraper.py:172] 🔗 [HN #2] URL: https://blog.jim-nielsen.com/2025/icons-in-menus/
+INFO     2025-12-09 10:26:12 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-09 10:26:12 [scraper.py:171] 📥 [HN #3] The universal weight subspace hypothesis
+INFO     2025-12-09 10:26:12 [scraper.py:172] 🔗 [HN #3] URL: https://arxiv.org/abs/2512.05117
+INFO     2025-12-09 10:26:12 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #4] Epsilon: A WASM virtual machine written in Go
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #4] URL: https://github.com/ziggy42/epsilon
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #5] Kroger acknowledges that its bet on robotics went too far
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #5] URL: https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #6] Manual: Spaces
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #6] URL: https://type.today/en/journal/spaces
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #7] Jepsen: NATS 2.12.1
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #7] URL: https://jepsen.io/analyses/nats-2.12.1
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #8] Strong earthquake hits northern Japan, tsunami warning issued
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #8] URL: https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #9] A thousand-year-long composition turns 25 (2024)
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #9] URL: https://longplayer.org/news/2024/12/31/a-thousand-year-long-composition-turns-25/
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:171] 📥 [HN #10] Microsoft increases Office 365 and Microsoft 365 license prices
+INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #10] URL: https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/
+INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-09 10:26:13 [scraper.py:179] 🎉 [HN] All done.
+
