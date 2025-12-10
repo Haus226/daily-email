@@ -13396,3 +13396,36 @@ INFO     2025-12-10 05:27:21 [scraper.py:172] 🔗 [HN #10] URL: https://repebbl
 INFO     2025-12-10 05:27:21 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-10 05:27:21 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-10 10:26:13 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-10 10:26:13 [scraper.py:171] 📥 [HN #1] Rust in the kernel is no longer experimental
+INFO     2025-12-10 10:26:13 [scraper.py:172] 🔗 [HN #1] URL: https://lwn.net/Articles/1049831/
+INFO     2025-12-10 10:26:13 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-10 10:26:13 [scraper.py:171] 📥 [HN #2] Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
+INFO     2025-12-10 10:26:13 [scraper.py:172] 🔗 [HN #2] URL: https://dosaygo-studio.github.io/hn-front-page-2035/news
+INFO     2025-12-10 10:26:13 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-10 10:26:13 [scraper.py:171] 📥 [HN #3] Revisiting "Let's Build a Compiler"
+INFO     2025-12-10 10:26:13 [scraper.py:172] 🔗 [HN #3] URL: https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/
+INFO     2025-12-10 10:26:13 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-10 10:26:13 [scraper.py:171] 📥 [HN #4] PeerTube is recognized as a digital public good by Digital Public Goods Alliance
+INFO     2025-12-10 10:26:13 [scraper.py:172] 🔗 [HN #4] URL: https://www.digitalpublicgoods.net/r/peertube
+INFO     2025-12-10 10:26:13 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #5] Putting email in its place with Emacs and Mu4e
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #5] URL: https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #6] When a video codec wins an Emmy
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #6] URL: https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #7] Stop Breaking TLS
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #7] URL: https://www.markround.com/blog/2025/12/09/stop-breaking-tls/
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #8] Mistral releases Devstral2 and Mistral Vibe CLI
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #8] URL: https://mistral.ai/news/devstral-2-vibe-cli
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #9] Django: what’s new in 6.0
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #9] URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:171] 📥 [HN #10] If you're going to vibe code, why not do it in C?
+INFO     2025-12-10 10:26:14 [scraper.py:172] 🔗 [HN #10] URL: https://stephenramsay.net/posts/vibe-coding.html
+INFO     2025-12-10 10:26:14 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-10 10:26:14 [scraper.py:179] 🎉 [HN] All done.
+
