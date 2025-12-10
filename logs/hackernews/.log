@@ -13330,3 +13330,36 @@ INFO     2025-12-09 10:26:13 [scraper.py:172] 🔗 [HN #10] URL: https://office3
 INFO     2025-12-09 10:26:13 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-09 10:26:13 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-10 02:09:58 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-10 02:09:58 [scraper.py:171] 📥 [HN #1] Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
+INFO     2025-12-10 02:09:58 [scraper.py:172] 🔗 [HN #1] URL: https://dosaygo-studio.github.io/hn-front-page-2035/news
+INFO     2025-12-10 02:09:58 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-10 02:09:58 [scraper.py:171] 📥 [HN #2] PeerTube is recognized as a digital public good by Digital Public Goods Alliance
+INFO     2025-12-10 02:09:58 [scraper.py:172] 🔗 [HN #2] URL: https://www.digitalpublicgoods.net/r/peertube
+INFO     2025-12-10 02:09:58 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #3] Django: what’s new in 6.0
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #3] URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #4] Mistral releases Devstral2 and Mistral Vibe CLI
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #4] URL: https://mistral.ai/news/devstral-2-vibe-cli
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #5] If you're going to vibe code, why not do it in C?
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #5] URL: https://stephenramsay.net/posts/vibe-coding.html
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #6] 10 Years of Let's Encrypt
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #6] URL: https://letsencrypt.org/2025/12/09/10-years
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #7] Handsdown one of the coolest 3D websites
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #7] URL: https://bruno-simon.com/
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-10 02:09:59 [scraper.py:171] 📥 [HN #8] Pebble Index 01 – External memory for your brain
+INFO     2025-12-10 02:09:59 [scraper.py:172] 🔗 [HN #8] URL: https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain
+INFO     2025-12-10 02:09:59 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-10 02:10:00 [scraper.py:171] 📥 [HN #9] Italy's longest-serving barista reflects on six decades behind the counter
+INFO     2025-12-10 02:10:00 [scraper.py:172] 🔗 [HN #9] URL: https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/
+INFO     2025-12-10 02:10:00 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-10 02:10:00 [scraper.py:171] 📥 [HN #10] Qt, Linux and everything: Debugging Qt WebAssembly
+INFO     2025-12-10 02:10:00 [scraper.py:172] 🔗 [HN #10] URL: http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html
+INFO     2025-12-10 02:10:00 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-10 02:10:00 [scraper.py:179] 🎉 [HN] All done.
+
