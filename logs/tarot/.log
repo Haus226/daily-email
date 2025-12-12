@@ -2023,3 +2023,8 @@ INFO     2025-12-12 02:11:22 [scraper.py:391] 📥 [TAROT] Card: The Sun
 INFO     2025-12-12 02:11:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-12-12 02:11:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-12-12 05:28:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-12 05:28:04 [scraper.py:391] 📥 [TAROT] Card: The Sun
+INFO     2025-12-12 05:28:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-12 05:28:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
