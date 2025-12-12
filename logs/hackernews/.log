@@ -13594,3 +13594,36 @@ INFO     2025-12-12 05:28:06 [scraper.py:172] 🔗 [HN #10] URL: https://www.bbc
 INFO     2025-12-12 05:28:06 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-12 05:28:06 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-12 10:25:07 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-12 10:25:07 [scraper.py:171] 📥 [HN #1] The tiniest yet real telescope I've built
+INFO     2025-12-12 10:25:07 [scraper.py:172] 🔗 [HN #1] URL: https://lucassifoni.info/blog/miniscope-tiny-telescope/
+INFO     2025-12-12 10:25:07 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-12 10:25:07 [scraper.py:171] 📥 [HN #2] GPT-5.2
+INFO     2025-12-12 10:25:07 [scraper.py:172] 🔗 [HN #2] URL: https://openai.com/index/introducing-gpt-5-2/
+INFO     2025-12-12 10:25:07 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-12 10:25:07 [scraper.py:171] 📥 [HN #3] Nokia N900 Necromancy
+INFO     2025-12-12 10:25:07 [scraper.py:172] 🔗 [HN #3] URL: https://yaky.dev/2025-12-11-nokia-n900-necromancy/
+INFO     2025-12-12 10:25:07 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-12 10:25:08 [scraper.py:171] 📥 [HN #4] He set out to walk around the world. After 27 years, his quest is nearly over
+INFO     2025-12-12 10:25:08 [scraper.py:172] 🔗 [HN #4] URL: https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/
+INFO     2025-12-12 10:25:08 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-12 10:25:08 [scraper.py:171] 📥 [HN #5] Google de-indexed Bear Blog and I don't know why
+INFO     2025-12-12 10:25:08 [scraper.py:172] 🔗 [HN #5] URL: https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/
+INFO     2025-12-12 10:25:08 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-12 10:25:08 [scraper.py:171] 📥 [HN #6] CRISPR fungus: Protein-packed, sustainable, and tastes like meat
+INFO     2025-12-12 10:25:08 [scraper.py:172] 🔗 [HN #6] URL: https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607
+INFO     2025-12-12 10:25:08 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-12 10:25:08 [scraper.py:171] 📥 [HN #7] Smartphone Without a Battery (2022)
+INFO     2025-12-12 10:25:08 [scraper.py:172] 🔗 [HN #7] URL: https://yaky.dev/2022-09-06-smartphone-without-battery/
+INFO     2025-12-12 10:25:08 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-12 10:25:08 [scraper.py:171] 📥 [HN #8] Guarding My Git Forge Against AI Scrapers
+INFO     2025-12-12 10:25:08 [scraper.py:172] 🔗 [HN #8] URL: https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/
+INFO     2025-12-12 10:25:08 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-12 10:25:09 [scraper.py:171] 📥 [HN #9] Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free
+INFO     2025-12-12 10:25:09 [scraper.py:172] 🔗 [HN #9] URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/
+INFO     2025-12-12 10:25:09 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-12 10:25:09 [scraper.py:171] 📥 [HN #10] Spirograph style Lego drawing machine
+INFO     2025-12-12 10:25:09 [scraper.py:172] 🔗 [HN #10] URL: https://jkbrickworks.com/simple-drawing-machine/
+INFO     2025-12-12 10:25:09 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-12 10:25:09 [scraper.py:179] 🎉 [HN] All done.
+
