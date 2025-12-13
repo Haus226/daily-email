@@ -2054,3 +2054,8 @@ INFO     2025-12-13 02:04:17 [scraper.py:47] 📥 [APOD] Title: Northern Fox Fir
 INFO     2025-12-13 02:04:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg
 INFO     2025-12-13 02:04:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-13 05:26:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-13 05:26:56 [scraper.py:47] 📥 [APOD] Title: Orion and the Ocean of Storms
+INFO     2025-12-13 05:26:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
+INFO     2025-12-13 05:26:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
