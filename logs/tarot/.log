@@ -1,0 +1,2065 @@
+INFO     2025-07-30 07:30:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-30 07:30:38 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-30 07:30:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-30 07:30:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-07-30 10:24:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-30 10:24:18 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-30 10:24:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-30 10:24:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-07-31 02:24:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-31 02:24:49 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-31 02:24:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-31 02:24:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-07-31 05:32:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-31 05:32:29 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-31 05:32:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-31 05:32:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-07-31 10:24:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-07-31 10:24:38 [scraper.py:391] 📥 [TAROT] Card: Two of Swords
+INFO     2025-07-31 10:24:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-07-31 10:24:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-01 02:36:33 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-01 02:36:33 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-08-01 02:36:35 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-01 02:36:35 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-01 05:34:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-01 05:34:54 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-08-01 05:34:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-01 05:34:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-01 10:24:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-01 10:24:34 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-08-01 10:24:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-01 10:24:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-02 02:19:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-02 02:19:06 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-08-02 02:19:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-02 02:19:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-02 05:28:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-02 05:28:14 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-08-02 05:28:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-02 05:28:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-02 10:21:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-02 10:21:29 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-08-02 10:21:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-02 10:21:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-03 02:35:01 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-03 02:35:01 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-08-03 02:35:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-03 02:35:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-03 05:32:08 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-03 05:32:08 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-08-03 05:32:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-03 05:32:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-03 10:21:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-03 10:21:39 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-08-03 10:21:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-03 10:21:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-04 02:34:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-04 02:34:21 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-04 02:34:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-04 02:34:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-04 05:39:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-04 05:39:57 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-04 05:39:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-04 05:39:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-04 10:25:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-04 10:25:49 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-04 10:25:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-04 10:25:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-05 02:28:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-05 02:28:06 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-08-05 02:28:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-05 02:28:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-05 05:34:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-05 05:34:27 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-08-05 05:34:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-05 05:34:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-05 10:24:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-05 10:24:34 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-08-05 10:24:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-05 10:24:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-06 02:26:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-06 02:26:09 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-08-06 02:26:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-06 02:26:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-06 05:35:16 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-06 05:35:16 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-08-06 05:35:18 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-06 05:35:18 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-06 10:24:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-06 10:24:32 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-08-06 10:24:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-06 10:24:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-07 02:26:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-07 02:26:31 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-07 02:26:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-07 02:26:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-07 05:33:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-07 05:33:32 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-07 05:33:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-07 05:33:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-07 10:23:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-07 10:23:37 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-07 10:23:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-07 10:23:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-08 02:26:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-08 02:26:18 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-08-08 02:26:22 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-08 02:26:22 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-08 05:33:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-08 05:33:34 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-08-08 05:33:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-08 05:33:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-08 10:23:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-08 10:23:49 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-08-08 10:23:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-08 10:23:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-09 02:08:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-09 02:08:31 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-09 02:08:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-09 02:08:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-09 05:24:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-09 05:24:41 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-09 05:24:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-09 05:24:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-09 10:20:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-09 10:20:25 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-09 10:20:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-09 10:20:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-10 02:30:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-10 02:30:12 [scraper.py:391] 📥 [TAROT] Card: The Fool
+INFO     2025-08-10 02:30:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-10 02:30:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-10 05:28:07 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-10 05:28:07 [scraper.py:391] 📥 [TAROT] Card: The Fool
+INFO     2025-08-10 05:28:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-10 05:28:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-10 10:21:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-10 10:21:21 [scraper.py:391] 📥 [TAROT] Card: The Fool
+INFO     2025-08-10 10:21:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-10 10:21:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-11 02:25:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-11 02:25:57 [scraper.py:391] 📥 [TAROT] Card: Page of Swords
+INFO     2025-08-11 02:26:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-11 02:26:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-11 05:32:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-11 05:32:58 [scraper.py:391] 📥 [TAROT] Card: Page of Swords
+INFO     2025-08-11 05:33:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-11 05:33:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-11 10:24:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-11 10:24:31 [scraper.py:391] 📥 [TAROT] Card: Page of Swords
+INFO     2025-08-11 10:24:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-11 10:24:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-12 02:07:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-12 02:07:54 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-08-12 02:07:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-12 02:07:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-12 05:24:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-12 05:24:57 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-08-12 05:24:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-12 05:24:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-12 10:23:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-12 10:23:02 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-08-12 10:23:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-12 10:23:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-13 02:09:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-13 02:09:25 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-13 02:09:28 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-13 02:09:28 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-13 05:26:15 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-13 05:26:15 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-13 05:26:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-13 05:26:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-13 10:23:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-13 10:23:13 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-13 10:23:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-13 10:23:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-14 02:10:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-14 02:10:22 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-08-14 02:10:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-14 02:10:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-14 05:25:55 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-14 05:25:55 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-08-14 05:25:58 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-14 05:25:58 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-14 10:23:10 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-14 10:23:10 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-08-14 10:23:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-14 10:23:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-15 02:10:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-15 02:10:54 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-08-15 02:10:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-15 02:10:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-15 05:26:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-15 05:26:12 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-08-15 05:26:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-15 05:26:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-15 10:21:56 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-15 10:21:56 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-08-15 10:21:57 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-15 10:21:57 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-16 02:04:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-16 02:04:45 [scraper.py:391] 📥 [TAROT] Card: Two of Cups
+INFO     2025-08-16 02:04:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-16 02:04:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-16 05:24:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-16 05:24:05 [scraper.py:391] 📥 [TAROT] Card: Two of Cups
+INFO     2025-08-16 05:24:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-16 05:24:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-16 10:19:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-16 10:19:24 [scraper.py:391] 📥 [TAROT] Card: Two of Cups
+INFO     2025-08-16 10:19:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-16 10:19:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-17 02:22:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-17 02:22:41 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-17 02:22:44 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-17 02:22:44 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-17 05:24:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-17 05:24:51 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-17 05:24:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-17 05:24:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-17 10:20:03 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-17 10:20:03 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-08-17 10:20:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-17 10:20:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-18 02:22:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-18 02:22:58 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-08-18 02:23:03 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-18 02:23:03 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-18 05:28:42 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-18 05:28:42 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-08-18 05:28:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-18 05:28:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-18 10:24:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-18 10:24:05 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-08-18 10:24:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-18 10:24:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-19 02:03:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-19 02:03:38 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-19 02:03:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-19 02:03:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-19 05:23:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-19 05:23:50 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-19 05:23:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-19 05:23:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-19 10:21:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-19 10:21:44 [scraper.py:391] 📥 [TAROT] Card: King of Cups
+INFO     2025-08-19 10:21:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-19 10:21:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-20 02:01:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-20 02:01:41 [scraper.py:391] 📥 [TAROT] Card: Six of Wands
+INFO     2025-08-20 02:01:44 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-20 02:01:44 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-20 05:24:10 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-20 05:24:10 [scraper.py:391] 📥 [TAROT] Card: Six of Wands
+INFO     2025-08-20 05:24:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-20 05:24:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-20 10:21:28 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-20 10:21:28 [scraper.py:391] 📥 [TAROT] Card: Six of Wands
+INFO     2025-08-20 10:21:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-20 10:21:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-21 02:00:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-21 02:00:13 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-21 02:00:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-21 02:00:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-21 05:24:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-21 05:24:34 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-21 05:24:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-21 05:24:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-21 10:21:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-21 10:21:12 [scraper.py:391] 📥 [TAROT] Card: Three of Swords
+INFO     2025-08-21 10:21:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-21 10:21:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-22 02:01:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-22 02:01:02 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-08-22 02:01:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-22 02:01:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-22 05:24:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-22 05:24:11 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-08-22 05:24:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-22 05:24:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-22 10:20:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-22 10:20:50 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-08-22 10:20:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-22 10:20:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-23 01:56:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-23 01:56:39 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-08-23 01:56:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-23 01:56:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-23 05:21:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-23 05:21:50 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-08-23 05:21:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-23 05:21:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-23 10:18:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-23 10:18:38 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-08-23 10:18:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-23 10:18:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-24 02:14:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-24 02:14:19 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-08-24 02:14:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-24 02:14:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-24 05:23:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-24 05:23:27 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-08-24 05:23:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-24 05:23:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-24 10:18:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-24 10:18:58 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-08-24 10:19:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-24 10:19:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-25 02:06:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-25 02:06:02 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-08-25 02:06:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-25 02:06:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-25 05:25:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-25 05:25:50 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-08-25 05:25:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-25 05:25:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-25 10:22:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-25 10:22:27 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-08-25 10:22:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-25 10:22:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-26 02:02:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-26 02:02:05 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-08-26 02:02:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-26 02:02:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-26 05:24:42 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-26 05:24:42 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-08-26 05:24:44 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-26 05:24:44 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-26 10:21:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-26 10:21:25 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-08-26 10:21:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-26 10:21:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-27 01:58:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-27 01:58:26 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-08-27 01:58:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-27 01:58:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-27 05:22:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-27 05:22:49 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-08-27 05:22:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-27 05:22:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-27 10:19:52 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-27 10:19:52 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-08-27 10:19:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-27 10:19:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-28 01:57:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-28 01:57:24 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-08-28 01:57:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-28 01:57:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-28 05:23:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-28 05:23:09 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-08-28 05:23:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-28 05:23:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-28 10:21:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-28 10:21:20 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+ERROR    2025-08-28 10:21:30 [scraper.py:418] ❌ [TAROT] Failed to generate guidance: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=10)
+INFO     2025-08-28 10:21:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-29 01:57:28 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-29 01:57:28 [scraper.py:391] 📥 [TAROT] Card: Eight of Wands
+INFO     2025-08-29 01:57:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-29 01:57:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-29 05:22:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-29 05:22:32 [scraper.py:391] 📥 [TAROT] Card: Eight of Wands
+INFO     2025-08-29 05:22:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-29 05:22:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-29 10:20:00 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-29 10:20:00 [scraper.py:391] 📥 [TAROT] Card: Eight of Wands
+INFO     2025-08-29 10:20:02 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-29 10:20:02 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-30 01:51:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-30 01:51:51 [scraper.py:391] 📥 [TAROT] Card: Six of Swords
+INFO     2025-08-30 01:51:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-30 01:51:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-30 05:21:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-30 05:21:02 [scraper.py:391] 📥 [TAROT] Card: Six of Swords
+INFO     2025-08-30 05:21:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-30 05:21:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-30 10:17:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-30 10:17:32 [scraper.py:391] 📥 [TAROT] Card: Six of Swords
+INFO     2025-08-30 10:17:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-30 10:17:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-31 02:03:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-31 02:03:25 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-08-31 02:03:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-31 02:03:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-31 05:21:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-31 05:21:31 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-08-31 05:21:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-31 05:21:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-08-31 10:17:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-08-31 10:17:51 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-08-31 10:18:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-08-31 10:18:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-01 02:19:42 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-01 02:19:42 [scraper.py:391] 📥 [TAROT] Card: Temperance
+INFO     2025-09-01 02:19:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-01 02:19:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-01 05:25:01 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-01 05:25:01 [scraper.py:391] 📥 [TAROT] Card: Temperance
+INFO     2025-09-01 05:25:10 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-01 05:25:10 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-01 10:22:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-01 10:22:11 [scraper.py:391] 📥 [TAROT] Card: Temperance
+INFO     2025-09-01 10:22:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-01 10:22:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-02 01:59:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-02 01:59:32 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-09-02 01:59:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-02 01:59:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-02 05:23:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-02 05:23:57 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-09-02 05:24:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-02 05:24:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-02 10:20:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-02 10:20:44 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-09-02 10:20:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-02 10:20:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-03 01:51:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-03 01:51:21 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-03 01:51:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-03 01:51:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-03 05:21:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-03 05:21:25 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-03 05:21:28 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-03 05:21:28 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-03 10:19:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-03 10:19:14 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-03 10:19:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-03 10:19:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-04 01:52:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-04 01:52:06 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-09-04 01:52:10 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-04 01:52:10 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-04 05:21:47 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-04 05:21:47 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-09-04 05:21:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-04 05:21:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-04 10:19:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-04 10:19:41 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-09-04 10:19:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-04 10:19:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-05 01:54:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-05 01:54:43 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-09-05 01:54:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-05 01:54:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-05 05:22:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-05 05:22:14 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-09-05 05:22:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-05 05:22:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-05 10:19:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-05 10:19:54 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-09-05 10:19:58 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-05 10:19:58 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-06 01:51:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-06 01:51:49 [scraper.py:391] 📥 [TAROT] Card: Ace of Wands
+INFO     2025-09-06 01:51:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-06 01:51:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-06 05:20:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-06 05:20:19 [scraper.py:391] 📥 [TAROT] Card: Ace of Wands
+INFO     2025-09-06 05:20:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-06 05:20:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-06 10:17:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-06 10:17:11 [scraper.py:391] 📥 [TAROT] Card: Ace of Wands
+INFO     2025-09-06 10:17:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-06 10:17:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-07 02:00:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-07 02:00:44 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-07 02:00:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-07 02:00:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-07 05:20:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-07 05:20:37 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-07 05:20:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-07 05:20:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-07 10:17:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-07 10:17:57 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-07 10:18:03 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-07 10:18:03 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-08 02:00:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-08 02:00:34 [scraper.py:391] 📥 [TAROT] Card: King of Swords
+INFO     2025-09-08 02:00:37 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-08 02:00:37 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-08 05:22:47 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-08 05:22:47 [scraper.py:391] 📥 [TAROT] Card: King of Swords
+INFO     2025-09-08 05:22:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-08 05:22:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-08 10:21:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-08 10:21:38 [scraper.py:391] 📥 [TAROT] Card: King of Swords
+INFO     2025-09-08 10:21:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-08 10:21:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-09 01:56:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-09 01:56:24 [scraper.py:391] 📥 [TAROT] Card: Knight of Wands
+INFO     2025-09-09 01:56:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-09 01:56:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-09 05:22:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-09 05:22:37 [scraper.py:391] 📥 [TAROT] Card: Knight of Wands
+INFO     2025-09-09 05:22:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-09 05:22:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-09 10:20:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-09 10:20:30 [scraper.py:391] 📥 [TAROT] Card: Knight of Wands
+INFO     2025-09-09 10:20:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-09 10:20:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-10 01:52:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-10 01:52:40 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-09-10 01:52:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-10 01:52:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-10 05:22:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-10 05:22:02 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-09-10 05:22:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-10 05:22:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-10 10:19:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-10 10:19:51 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-09-10 10:19:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-10 10:19:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-11 01:55:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-11 01:55:48 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+ERROR    2025-09-11 01:55:58 [scraper.py:418] ❌ [TAROT] Failed to generate guidance: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=10)
+INFO     2025-09-11 01:55:58 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-11 05:22:52 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-11 05:22:52 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-09-11 05:22:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-11 05:22:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-11 10:19:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-11 10:19:18 [scraper.py:391] 📥 [TAROT] Card: Six of Cups
+INFO     2025-09-11 10:19:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-11 10:19:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-12 01:51:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-12 01:51:22 [scraper.py:391] 📥 [TAROT] Card: Seven of Cups
+INFO     2025-09-12 01:51:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-12 01:51:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-12 05:22:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-12 05:22:02 [scraper.py:391] 📥 [TAROT] Card: Seven of Cups
+INFO     2025-09-12 05:22:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-12 05:22:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-12 10:19:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-12 10:19:59 [scraper.py:391] 📥 [TAROT] Card: Seven of Cups
+INFO     2025-09-12 10:20:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-12 10:20:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-13 01:46:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-13 01:46:38 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-13 01:46:40 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-13 01:46:40 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-13 05:20:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-13 05:20:14 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-13 05:20:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-13 05:20:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-13 10:17:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-13 10:17:31 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-13 10:17:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-13 10:17:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-14 02:00:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-14 02:00:05 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-09-14 02:00:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-14 02:00:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-14 05:20:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-14 05:20:40 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-09-14 05:20:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-14 05:20:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-14 10:16:42 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-14 10:16:42 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-09-14 10:16:44 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-14 10:16:44 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-15 02:01:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-15 02:01:46 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-09-15 02:01:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-15 02:01:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-15 05:23:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-15 05:23:19 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-09-15 05:23:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-15 05:23:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-15 10:20:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-15 10:20:37 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-09-15 10:20:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-15 10:20:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-16 01:52:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-16 01:52:48 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-09-16 01:52:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-16 01:52:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-16 05:22:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-16 05:22:23 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-09-16 05:22:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-16 05:22:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-16 10:19:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-16 10:19:58 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-09-16 10:19:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-16 10:19:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-17 01:52:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-17 01:52:34 [scraper.py:391] 📥 [TAROT] Card: Queen of Cups
+INFO     2025-09-17 01:52:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-17 01:52:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-17 05:22:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-17 05:22:39 [scraper.py:391] 📥 [TAROT] Card: Queen of Cups
+INFO     2025-09-17 05:22:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-17 05:22:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-17 10:19:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-17 10:19:34 [scraper.py:391] 📥 [TAROT] Card: Queen of Cups
+INFO     2025-09-17 10:19:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-17 10:19:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-18 01:52:36 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-18 01:52:36 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-09-18 01:52:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-18 01:52:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-18 05:21:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-18 05:21:53 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-09-18 05:21:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-18 05:21:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-18 10:19:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-18 10:19:39 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-09-18 10:19:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-18 10:19:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-19 01:55:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-19 01:55:48 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-19 01:55:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-19 01:55:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-19 05:22:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-19 05:22:13 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-19 05:22:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-19 05:22:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-19 10:20:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-19 10:20:19 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-09-19 10:20:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-19 10:20:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-20 01:50:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-20 01:50:31 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-09-20 01:50:35 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-20 01:50:35 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-20 05:21:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-20 05:21:02 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-09-20 05:21:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-20 05:21:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-20 10:18:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-20 10:18:02 [scraper.py:391] 📥 [TAROT] Card: Five of Swords
+INFO     2025-09-20 10:18:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-20 10:18:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-21 02:03:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-21 02:03:40 [scraper.py:391] 📥 [TAROT] Card: Ten of Wands
+INFO     2025-09-21 02:03:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-21 02:03:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-21 05:21:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-21 05:21:31 [scraper.py:391] 📥 [TAROT] Card: Ten of Wands
+INFO     2025-09-21 05:21:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-21 05:21:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-21 10:18:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-21 10:18:05 [scraper.py:391] 📥 [TAROT] Card: Ten of Wands
+INFO     2025-09-21 10:18:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-21 10:18:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-22 02:03:36 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-22 02:03:36 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-09-22 02:03:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-22 02:03:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-22 05:23:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-22 05:23:21 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-09-22 05:23:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-22 05:23:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-22 10:21:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-22 10:21:43 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-09-22 10:21:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-22 10:21:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-23 01:53:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-23 01:53:18 [scraper.py:391] 📥 [TAROT] Card: Wheel Of Fortune
+INFO     2025-09-23 01:53:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-23 01:53:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-23 05:22:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-23 05:22:27 [scraper.py:391] 📥 [TAROT] Card: Wheel Of Fortune
+INFO     2025-09-23 05:22:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-23 05:22:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-23 10:20:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-23 10:20:26 [scraper.py:391] 📥 [TAROT] Card: Wheel Of Fortune
+INFO     2025-09-23 10:20:28 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-23 10:20:28 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-24 01:54:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-24 01:54:45 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-09-24 01:54:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-24 01:54:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-24 05:22:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-24 05:22:14 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-09-24 05:22:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-24 05:22:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-24 10:20:01 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-24 10:20:01 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-09-24 10:20:02 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-24 10:20:02 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-25 01:55:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-25 01:55:58 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-09-25 01:56:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-25 01:56:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-25 05:22:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-25 05:22:43 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-09-25 05:22:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-25 05:22:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-25 10:20:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-25 10:20:44 [scraper.py:391] 📥 [TAROT] Card: The Tower
+INFO     2025-09-25 10:20:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-25 10:20:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-26 01:54:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-26 01:54:51 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-26 01:54:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-26 01:54:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-26 05:22:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-26 05:22:30 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-26 05:22:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-26 05:22:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-26 10:20:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-26 10:20:14 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-09-26 10:20:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-26 10:20:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-27 01:50:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-27 01:50:12 [scraper.py:391] 📥 [TAROT] Card: Three of Wands
+INFO     2025-09-27 01:50:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-27 01:50:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-27 05:20:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-27 05:20:44 [scraper.py:391] 📥 [TAROT] Card: Three of Wands
+INFO     2025-09-27 05:20:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-27 05:20:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-27 10:17:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-27 10:17:40 [scraper.py:391] 📥 [TAROT] Card: Three of Wands
+INFO     2025-09-27 10:17:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-27 10:17:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-28 02:04:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-28 02:04:48 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-28 02:04:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-28 02:04:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-28 05:21:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-28 05:21:25 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-28 05:21:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-28 05:21:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-28 10:18:01 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-28 10:18:01 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-09-28 10:18:03 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-28 10:18:03 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-29 01:58:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-29 01:58:02 [scraper.py:391] 📥 [TAROT] Card: Eight of Cups
+INFO     2025-09-29 01:58:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-29 01:58:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-29 05:24:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-29 05:24:05 [scraper.py:391] 📥 [TAROT] Card: Eight of Cups
+INFO     2025-09-29 05:24:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-29 05:24:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-29 10:21:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-29 10:21:31 [scraper.py:391] 📥 [TAROT] Card: Eight of Cups
+INFO     2025-09-29 10:21:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-29 10:21:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-30 01:52:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-30 01:52:39 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-09-30 01:52:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-30 01:52:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-30 05:22:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-30 05:22:43 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-09-30 05:22:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-30 05:22:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-09-30 10:20:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-09-30 10:20:55 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-09-30 10:20:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-09-30 10:20:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-01 02:05:33 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-01 02:05:33 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-10-01 02:05:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-01 02:05:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-01 05:23:36 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-01 05:23:36 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-10-01 05:23:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-01 05:23:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-01 10:20:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-01 10:20:41 [scraper.py:391] 📥 [TAROT] Card: Nine of Swords
+INFO     2025-10-01 10:20:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-01 10:20:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-02 01:53:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-02 01:53:13 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-10-02 01:53:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-02 01:53:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-02 05:21:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-02 05:21:35 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-10-02 05:21:37 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-02 05:21:37 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-02 10:19:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-02 10:19:29 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-10-02 10:19:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-02 10:19:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-03 01:52:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-03 01:52:51 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-10-03 01:52:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-03 01:52:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-03 05:21:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-03 05:21:53 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-10-03 05:21:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-03 05:21:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-03 10:19:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-03 10:19:41 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-10-03 10:19:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-03 10:19:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-04 01:48:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-04 01:48:26 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-10-04 01:48:28 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-04 01:48:28 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-04 05:20:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-04 05:20:14 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-10-04 05:20:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-04 05:20:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-04 10:17:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-04 10:17:50 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-10-04 10:17:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-04 10:17:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-05 02:03:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-05 02:03:57 [scraper.py:391] 📥 [TAROT] Card: Page of Cups
+INFO     2025-10-05 02:04:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-05 02:04:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-05 05:21:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-05 05:21:02 [scraper.py:391] 📥 [TAROT] Card: Page of Cups
+INFO     2025-10-05 05:21:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-05 05:21:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-05 10:18:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-05 10:18:06 [scraper.py:391] 📥 [TAROT] Card: Page of Cups
+INFO     2025-10-05 10:18:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-05 10:18:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-06 01:56:15 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-06 01:56:15 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-10-06 01:56:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-06 01:56:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-06 05:22:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-06 05:22:49 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-10-06 05:22:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-06 05:22:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-06 10:21:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-06 10:21:44 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-10-06 10:21:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-06 10:21:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-07 01:54:07 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-07 01:54:07 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-07 01:54:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-07 01:54:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-07 05:22:15 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-07 05:22:15 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-07 05:22:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-07 05:22:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-07 10:20:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-07 10:20:09 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-07 10:20:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-07 10:20:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-08 01:53:39 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-08 01:53:39 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-08 01:53:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-08 01:53:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-08 05:22:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-08 05:22:43 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-08 05:22:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-08 05:22:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-08 10:20:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-08 10:20:17 [scraper.py:391] 📥 [TAROT] Card: Page of Pentacles
+INFO     2025-10-08 10:20:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-08 10:20:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-09 01:54:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-09 01:54:50 [scraper.py:391] 📥 [TAROT] Card: The Hermit
+INFO     2025-10-09 01:54:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-09 01:54:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-09 05:23:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-09 05:23:23 [scraper.py:391] 📥 [TAROT] Card: The Hermit
+INFO     2025-10-09 05:23:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-09 05:23:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-09 10:21:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-09 10:21:18 [scraper.py:391] 📥 [TAROT] Card: The Hermit
+INFO     2025-10-09 10:21:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-09 10:21:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-10 01:55:28 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-10 01:55:28 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-10 01:55:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-10 01:55:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-10 05:22:49 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-10 05:22:49 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-10 05:23:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-10 05:23:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-10 10:20:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-10 10:20:38 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-10 10:20:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-10 10:20:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-11 01:50:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-11 01:50:31 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-10-11 01:50:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-11 01:50:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-11 05:21:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-11 05:21:17 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-10-11 05:21:18 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-11 05:21:18 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-11 10:17:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-11 10:17:51 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-10-11 10:17:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-11 10:17:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-12 01:59:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-12 01:59:09 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-12 01:59:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-12 01:59:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-12 05:21:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-12 05:21:22 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-12 05:21:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-12 05:21:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-12 10:17:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-12 10:17:48 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-12 10:17:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-12 10:17:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-13 02:02:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-13 02:02:45 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-13 02:02:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-13 02:02:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-13 05:24:07 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-13 05:24:07 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-13 05:24:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-13 05:24:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-13 10:23:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-13 10:23:22 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-13 10:23:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-13 10:23:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-14 01:55:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-14 01:55:41 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-14 01:55:43 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-14 01:55:43 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-14 05:22:52 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-14 05:22:52 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-14 05:22:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-14 05:22:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-14 10:20:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-14 10:20:57 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-14 10:20:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-14 10:20:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-15 01:58:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-15 01:58:45 [scraper.py:391] 📥 [TAROT] Card: The Emperor
+INFO     2025-10-15 01:58:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-15 01:58:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-15 05:23:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-15 05:23:14 [scraper.py:391] 📥 [TAROT] Card: The Emperor
+INFO     2025-10-15 05:23:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-15 05:23:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-15 10:22:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-15 10:22:17 [scraper.py:391] 📥 [TAROT] Card: The Emperor
+INFO     2025-10-15 10:22:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-15 10:22:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-16 01:57:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-16 01:57:18 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-10-16 01:57:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-16 01:57:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-16 05:23:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-16 05:23:20 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-10-16 05:23:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-16 05:23:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-16 10:22:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-16 10:22:24 [scraper.py:391] 📥 [TAROT] Card: Four of Cups
+INFO     2025-10-16 10:22:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-16 10:22:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-17 01:56:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-17 01:56:04 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-17 01:56:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-17 01:56:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-17 05:22:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-17 05:22:59 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-17 05:23:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-17 05:23:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-17 10:21:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-17 10:21:06 [scraper.py:391] 📥 [TAROT] Card: King of Wands
+INFO     2025-10-17 10:21:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-17 10:21:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-18 01:51:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-18 01:51:13 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-18 01:51:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-18 01:51:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-18 05:21:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-18 05:21:46 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-18 05:21:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-18 05:21:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-18 10:18:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-18 10:18:34 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-10-18 10:18:35 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-18 10:18:35 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-19 02:09:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-19 02:09:19 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-10-19 02:09:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-19 02:09:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-19 05:22:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-19 05:22:54 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-10-19 05:22:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-19 05:22:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-19 10:18:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-19 10:18:26 [scraper.py:391] 📥 [TAROT] Card: Ace of Cups
+INFO     2025-10-19 10:18:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-19 10:18:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-20 02:06:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-20 02:06:17 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-10-20 02:06:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-20 02:06:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-20 05:24:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-20 05:24:46 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-10-20 05:24:51 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-20 05:24:51 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-20 10:22:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-20 10:22:14 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-10-20 10:22:16 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-20 10:22:16 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-21 01:59:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-21 01:59:29 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-21 01:59:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-21 01:59:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-21 05:23:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-21 05:23:29 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-21 05:23:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-21 05:23:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-21 10:21:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-21 10:21:30 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-21 10:21:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-21 10:21:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-22 02:02:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-22 02:02:53 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-10-22 02:02:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-22 02:02:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-22 05:24:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-22 05:24:23 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-10-22 05:24:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-22 05:24:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-22 10:22:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-22 10:22:34 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-10-22 10:22:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-22 10:22:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-23 01:58:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-23 01:58:06 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-10-23 01:58:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-23 01:58:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-23 05:23:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-23 05:23:45 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-10-23 05:23:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-23 05:23:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-23 10:21:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-23 10:21:53 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-10-23 10:21:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-23 10:21:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-24 01:54:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-24 01:54:11 [scraper.py:391] 📥 [TAROT] Card: Two of Wands
+INFO     2025-10-24 01:54:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-24 01:54:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-24 05:23:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-24 05:23:06 [scraper.py:391] 📥 [TAROT] Card: Two of Wands
+INFO     2025-10-24 05:23:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-24 05:23:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-24 10:22:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-24 10:22:30 [scraper.py:391] 📥 [TAROT] Card: Two of Wands
+INFO     2025-10-24 10:22:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-24 10:22:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-25 01:55:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-25 01:55:43 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-10-25 01:55:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-25 01:55:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-25 05:22:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-25 05:22:02 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-10-25 05:22:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-25 05:22:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-25 10:18:28 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-25 10:18:28 [scraper.py:391] 📥 [TAROT] Card: Seven of Pentacles
+INFO     2025-10-25 10:18:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-25 10:18:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-26 02:05:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-26 02:05:09 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-10-26 02:05:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-26 02:05:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-26 05:22:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-26 05:22:48 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-10-26 05:22:49 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-26 05:22:49 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-26 10:19:00 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-26 10:19:00 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-10-26 10:19:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-26 10:19:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-27 02:09:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-27 02:09:23 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-27 02:09:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-27 02:09:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-27 05:25:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-27 05:25:59 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-27 05:26:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-27 05:26:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-27 10:23:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-27 10:23:23 [scraper.py:391] 📥 [TAROT] Card: Eight of Pentacles
+INFO     2025-10-27 10:23:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-27 10:23:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-28 01:58:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-28 01:58:35 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-10-28 01:58:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-28 01:58:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-28 05:25:03 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-28 05:25:03 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-10-28 05:25:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-28 05:25:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-28 10:22:55 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-28 10:22:55 [scraper.py:391] 📥 [TAROT] Card: The Hierophant
+INFO     2025-10-28 10:22:57 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-28 10:22:57 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-29 02:05:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-29 02:05:57 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-29 02:05:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-29 02:05:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-29 05:25:50 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-29 05:25:50 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-29 05:25:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-29 05:25:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-29 10:22:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-29 10:22:24 [scraper.py:391] 📥 [TAROT] Card: King of Pentacles
+INFO     2025-10-29 10:22:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-29 10:22:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-30 02:04:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-30 02:04:41 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-10-30 02:04:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-30 02:04:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-30 05:23:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-30 05:23:46 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-10-30 05:23:48 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-30 05:23:48 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-30 10:21:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-30 10:21:29 [scraper.py:391] 📥 [TAROT] Card: The Star
+INFO     2025-10-30 10:21:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-30 10:21:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-31 02:01:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-31 02:01:51 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-10-31 02:01:53 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-31 02:01:53 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-31 05:25:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-31 05:25:25 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-10-31 05:25:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-31 05:25:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-10-31 10:21:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-10-31 10:21:26 [scraper.py:391] 📥 [TAROT] Card: The Lovers
+INFO     2025-10-31 10:21:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-10-31 10:21:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-01 02:05:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-01 02:05:25 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-01 02:05:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-01 02:05:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-01 05:22:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-01 05:22:48 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-01 05:22:50 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-01 05:22:50 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-01 10:19:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-01 10:19:25 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-01 10:19:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-01 10:19:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-02 02:08:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-02 02:08:11 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-02 02:08:12 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-02 02:08:12 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-02 05:23:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-02 05:23:26 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-02 05:23:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-02 05:23:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-02 10:18:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-02 10:18:51 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-02 10:18:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-02 10:18:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-03 02:07:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-03 02:07:13 [scraper.py:391] 📥 [TAROT] Card: Fortitude
+INFO     2025-11-03 02:07:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-03 02:07:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-03 05:25:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-03 05:25:30 [scraper.py:391] 📥 [TAROT] Card: Fortitude
+INFO     2025-11-03 05:25:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-03 05:25:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-03 10:24:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-03 10:24:17 [scraper.py:391] 📥 [TAROT] Card: Fortitude
+INFO     2025-11-03 10:24:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-03 10:24:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-04 02:02:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-04 02:02:24 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-11-04 02:02:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-04 02:02:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-04 05:25:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-04 05:25:04 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-11-04 05:25:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-04 05:25:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-04 10:23:52 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-04 10:23:52 [scraper.py:391] 📥 [TAROT] Card: Six of Pentacles
+INFO     2025-11-04 10:23:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-04 10:23:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-05 02:03:47 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-05 02:03:47 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-11-05 02:03:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-05 02:03:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-05 05:25:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-05 05:25:27 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-11-05 05:25:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-05 05:25:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-05 10:23:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-05 10:23:04 [scraper.py:391] 📥 [TAROT] Card: The High Priestess
+INFO     2025-11-05 10:23:06 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-05 10:23:06 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-06 02:03:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-06 02:03:44 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-11-06 02:03:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-06 02:03:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-06 05:25:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-06 05:25:22 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-11-06 05:25:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-06 05:25:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-06 10:23:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-06 10:23:21 [scraper.py:391] 📥 [TAROT] Card: Nine of Pentacles
+INFO     2025-11-06 10:23:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-06 10:23:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-07 02:02:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-07 02:02:18 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-07 02:02:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-07 02:02:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-07 05:24:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-07 05:24:46 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-07 05:24:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-07 05:24:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-07 10:22:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-07 10:22:18 [scraper.py:391] 📥 [TAROT] Card: The Last Judgment
+INFO     2025-11-07 10:22:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-07 10:22:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-08 01:55:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-08 01:55:57 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-08 01:55:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-08 01:55:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-08 05:22:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-08 05:22:53 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-08 05:22:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-08 05:22:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-08 10:19:10 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-08 10:19:10 [scraper.py:391] 📥 [TAROT] Card: The Chariot
+INFO     2025-11-08 10:19:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-08 10:19:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-09 02:07:03 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-09 02:07:03 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-09 02:07:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-09 02:07:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-09 05:23:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-09 05:23:04 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-09 05:23:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-09 05:23:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-09 10:18:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-09 10:18:59 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-09 10:19:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-09 10:19:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-10 02:08:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-10 02:08:25 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-10 02:08:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-10 02:08:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-10 05:25:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-10 05:25:45 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-10 05:25:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-10 05:25:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-10 10:24:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-10 10:24:38 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-10 10:24:40 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-10 10:24:40 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-11 02:04:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-11 02:04:23 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-11-11 02:04:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-11 02:04:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-11 05:25:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-11 05:25:21 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-11-11 05:25:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-11 05:25:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-11 10:23:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-11 10:23:13 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-11-11 10:23:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-11 10:23:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-12 02:03:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-12 02:03:31 [scraper.py:391] 📥 [TAROT] Card: Ace of Swords
+INFO     2025-11-12 02:03:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-12 02:03:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-12 05:25:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-12 05:25:45 [scraper.py:391] 📥 [TAROT] Card: Ace of Swords
+INFO     2025-11-12 05:25:49 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-12 05:25:49 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-12 10:23:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-12 10:23:23 [scraper.py:391] 📥 [TAROT] Card: Ace of Swords
+INFO     2025-11-12 10:23:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-12 10:23:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-13 02:05:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-13 02:05:38 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-11-13 02:05:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-13 02:05:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-13 05:25:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-13 05:25:31 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-11-13 05:25:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-13 05:25:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-13 10:23:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-13 10:23:25 [scraper.py:391] 📥 [TAROT] Card: The Devil
+INFO     2025-11-13 10:23:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-13 10:23:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-14 02:04:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-14 02:04:04 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-11-14 02:04:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-14 02:04:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-14 05:24:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-14 05:24:58 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-11-14 05:25:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-14 05:25:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-14 10:23:02 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-14 10:23:02 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-11-14 10:23:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-14 10:23:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-15 01:59:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-15 01:59:51 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-11-15 01:59:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-15 01:59:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-15 05:23:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-15 05:23:25 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-11-15 05:23:28 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-15 05:23:28 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-15 10:19:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-15 10:19:14 [scraper.py:391] 📥 [TAROT] Card: Queen of Wands
+INFO     2025-11-15 10:19:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-15 10:19:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-16 02:10:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-16 02:10:05 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-16 02:10:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-16 02:10:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-16 05:24:00 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-16 05:24:00 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-16 05:24:02 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-16 05:24:02 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-16 10:19:44 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-16 10:19:44 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-16 10:19:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-16 10:19:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-17 02:05:10 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-17 02:05:10 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-11-17 02:05:12 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-17 02:05:12 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-17 05:26:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-17 05:26:13 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-11-17 05:26:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-17 05:26:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-17 10:23:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-17 10:23:58 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-11-17 10:24:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-17 10:24:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-18 02:03:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-18 02:03:20 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-18 02:03:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-18 02:03:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-18 05:24:55 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-18 05:24:55 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-18 05:24:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-18 05:24:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-18 10:24:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-18 10:24:20 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-18 10:24:22 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-18 10:24:22 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-19 02:03:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-19 02:03:12 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-11-19 02:03:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-19 02:03:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-19 05:26:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-19 05:26:06 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-11-19 05:26:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-19 05:26:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-19 10:23:53 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-19 10:23:53 [scraper.py:391] 📥 [TAROT] Card: Four of Wands
+INFO     2025-11-19 10:23:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-19 10:23:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-20 02:01:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-20 02:01:31 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-11-20 02:01:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-20 02:01:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-20 05:25:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-20 05:25:12 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-11-20 05:25:15 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-20 05:25:15 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-20 10:22:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-20 10:22:35 [scraper.py:391] 📥 [TAROT] Card: Queen of Swords
+INFO     2025-11-20 10:22:37 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-20 10:22:37 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-21 02:02:23 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-21 02:02:23 [scraper.py:391] 📥 [TAROT] Card: The World
+INFO     2025-11-21 02:02:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-21 02:02:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-21 05:25:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-21 05:25:54 [scraper.py:391] 📥 [TAROT] Card: The World
+INFO     2025-11-21 05:25:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-21 05:25:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-21 10:21:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-21 10:21:37 [scraper.py:391] 📥 [TAROT] Card: The World
+INFO     2025-11-21 10:21:39 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-21 10:21:39 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-22 01:58:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-22 01:58:17 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-22 01:58:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-22 01:58:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-22 05:23:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-22 05:23:31 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-22 05:23:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-22 05:23:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-22 10:19:43 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-22 10:19:43 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-11-22 10:19:44 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-22 10:19:44 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-23 02:23:37 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-23 02:23:37 [scraper.py:391] 📥 [TAROT] Card: Two of Pentacles
+INFO     2025-11-23 02:23:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-23 02:23:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-23 05:24:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-23 05:24:31 [scraper.py:391] 📥 [TAROT] Card: Two of Pentacles
+INFO     2025-11-23 05:24:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-23 05:24:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-23 10:19:57 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-23 10:19:57 [scraper.py:391] 📥 [TAROT] Card: Two of Pentacles
+INFO     2025-11-23 10:19:57 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-23 10:19:57 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-24 02:11:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-24 02:11:35 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-24 02:11:35 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-24 02:11:35 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-24 05:27:00 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-24 05:27:00 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-24 05:27:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-24 05:27:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-24 10:24:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-24 10:24:26 [scraper.py:391] 📥 [TAROT] Card: The Moon
+INFO     2025-11-24 10:24:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-24 10:24:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-25 02:04:48 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-25 02:04:48 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-11-25 02:04:48 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-25 02:04:48 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-25 05:26:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-25 05:26:32 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-11-25 05:26:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-25 05:26:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-25 10:24:54 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-25 10:24:54 [scraper.py:391] 📥 [TAROT] Card: Nine of Cups
+INFO     2025-11-25 10:24:54 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-25 10:24:54 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-26 02:05:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-26 02:05:09 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-11-26 02:05:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-26 02:05:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-26 05:25:47 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-26 05:25:47 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-11-26 05:25:47 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-26 05:25:47 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-26 10:23:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-26 10:23:59 [scraper.py:391] 📥 [TAROT] Card: Three of Pentacles
+INFO     2025-11-26 10:23:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-26 10:23:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-27 02:02:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-27 02:02:35 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-11-27 02:02:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-27 02:02:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-27 05:26:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-27 05:26:27 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-11-27 05:26:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-27 05:26:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-27 10:23:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-27 10:23:58 [scraper.py:391] 📥 [TAROT] Card: Knight of Swords
+INFO     2025-11-27 10:23:58 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-27 10:23:58 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-28 02:02:09 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-28 02:02:09 [scraper.py:391] 📥 [TAROT] Card: Ten of Pentacles
+INFO     2025-11-28 02:02:09 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-28 02:02:09 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-28 05:26:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-28 05:26:14 [scraper.py:391] 📥 [TAROT] Card: Ten of Pentacles
+INFO     2025-11-28 05:26:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-28 05:26:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-28 10:23:21 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-28 10:23:21 [scraper.py:391] 📥 [TAROT] Card: Ten of Pentacles
+INFO     2025-11-28 10:23:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-28 10:23:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-29 02:01:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-29 02:01:59 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-11-29 02:02:00 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-29 02:02:00 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-29 05:24:55 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-29 05:24:55 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-11-29 05:24:55 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-29 05:24:55 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-29 10:20:34 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-29 10:20:34 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-11-29 10:20:34 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-29 10:20:34 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-30 02:22:14 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-30 02:22:14 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-30 02:22:14 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-30 02:22:14 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-30 05:25:30 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-30 05:25:30 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-30 05:25:30 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-30 05:25:30 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-11-30 10:20:01 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-11-30 10:20:01 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-11-30 10:20:02 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-11-30 10:20:02 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-01 02:31:08 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-01 02:31:08 [scraper.py:391] 📥 [TAROT] Card: Five of Pentacles
+INFO     2025-12-01 02:31:08 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-01 02:31:08 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-01 05:33:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-01 05:33:27 [scraper.py:391] 📥 [TAROT] Card: Five of Pentacles
+INFO     2025-12-01 05:33:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-01 05:33:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-01 10:25:25 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-01 10:25:25 [scraper.py:391] 📥 [TAROT] Card: Five of Pentacles
+INFO     2025-12-01 10:25:25 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-01 10:25:25 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-02 02:06:56 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-02 02:06:56 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-12-02 02:07:01 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-02 02:07:01 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-02 05:25:41 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-02 05:25:41 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-12-02 05:25:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-02 05:25:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-02 10:24:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-02 10:24:20 [scraper.py:391] 📥 [TAROT] Card: Nine of Wands
+INFO     2025-12-02 10:24:20 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-02 10:24:20 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-03 02:06:38 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-03 02:06:38 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-12-03 02:06:38 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-03 02:06:38 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-03 05:26:11 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-03 05:26:11 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-12-03 05:26:11 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-03 05:26:11 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-03 10:27:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-03 10:27:40 [scraper.py:391] 📥 [TAROT] Card: Queen of Pentacles
+INFO     2025-12-03 10:27:40 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-03 10:27:40 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-04 02:07:42 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-04 02:07:42 [scraper.py:391] 📥 [TAROT] Card: Seven of Swords
+INFO     2025-12-04 02:07:42 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-04 02:07:42 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-04 05:26:18 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-04 05:26:18 [scraper.py:391] 📥 [TAROT] Card: Seven of Swords
+INFO     2025-12-04 05:26:18 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-04 05:26:18 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-04 10:26:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-04 10:26:04 [scraper.py:391] 📥 [TAROT] Card: Seven of Swords
+INFO     2025-12-04 10:26:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-04 10:26:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-05 02:07:51 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-05 02:07:51 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-12-05 02:07:52 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-05 02:07:52 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-05 05:26:32 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-05 05:26:32 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-12-05 05:26:32 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-05 05:26:32 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-05 10:23:06 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-05 10:23:06 [scraper.py:391] 📥 [TAROT] Card: The Hanged Man
+INFO     2025-12-05 10:23:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-05 10:23:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-06 02:01:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-06 02:01:19 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-12-06 02:01:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-06 02:01:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-06 05:24:40 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-06 05:24:40 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-12-06 05:24:41 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-06 05:24:41 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-06 10:20:31 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-06 10:20:31 [scraper.py:391] 📥 [TAROT] Card: Knight of Cups
+INFO     2025-12-06 10:20:31 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-06 10:20:31 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-07 02:22:59 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-07 02:22:59 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-12-07 02:22:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-07 02:22:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-07 05:24:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-07 05:24:04 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-12-07 05:24:04 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-07 05:24:04 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-07 10:19:26 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-07 10:19:26 [scraper.py:391] 📥 [TAROT] Card: Death
+INFO     2025-12-07 10:19:26 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-07 10:19:26 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-08 02:09:05 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-08 02:09:05 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-12-08 02:09:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-08 02:09:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-08 05:28:36 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-08 05:28:36 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-12-08 05:28:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-08 05:28:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-08 10:25:20 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-08 10:25:20 [scraper.py:391] 📥 [TAROT] Card: The Magician
+INFO     2025-12-08 10:25:21 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-08 10:25:21 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-09 02:07:33 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-09 02:07:33 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-12-09 02:07:33 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-09 02:07:33 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-09 05:26:27 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-09 05:26:27 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-12-09 05:26:27 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-09 05:26:27 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-09 10:26:12 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-09 10:26:12 [scraper.py:391] 📥 [TAROT] Card: Page of Wands
+INFO     2025-12-09 10:26:12 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-09 10:26:12 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-10 02:09:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-10 02:09:58 [scraper.py:391] 📥 [TAROT] Card: Three of Cups
+INFO     2025-12-10 02:09:59 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-10 02:09:59 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-10 05:27:19 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-10 05:27:19 [scraper.py:391] 📥 [TAROT] Card: Three of Cups
+INFO     2025-12-10 05:27:19 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-10 05:27:19 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-10 10:26:13 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-10 10:26:13 [scraper.py:391] 📥 [TAROT] Card: Three of Cups
+INFO     2025-12-10 10:26:13 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-10 10:26:13 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-11 02:11:24 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-11 02:11:24 [scraper.py:391] 📥 [TAROT] Card: Five of Wands
+INFO     2025-12-11 02:11:24 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-11 02:11:24 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-11 05:28:29 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-11 05:28:29 [scraper.py:391] 📥 [TAROT] Card: Five of Wands
+INFO     2025-12-11 05:28:29 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-11 05:28:29 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-11 10:26:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-11 10:26:46 [scraper.py:391] 📥 [TAROT] Card: Five of Wands
+INFO     2025-12-11 10:26:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-11 10:26:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-12 02:11:22 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-12 02:11:22 [scraper.py:391] 📥 [TAROT] Card: The Sun
+INFO     2025-12-12 02:11:23 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-12 02:11:23 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-12 05:28:04 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-12 05:28:04 [scraper.py:391] 📥 [TAROT] Card: The Sun
+INFO     2025-12-12 05:28:05 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-12 05:28:05 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-12 10:25:07 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-12 10:25:07 [scraper.py:391] 📥 [TAROT] Card: The Sun
+INFO     2025-12-12 10:25:07 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-12 10:25:07 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-13 02:04:17 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-13 02:04:17 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-12-13 02:04:17 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-13 02:04:17 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-13 05:26:55 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-13 05:26:55 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-12-13 05:26:56 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-13 05:26:56 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-13 10:20:35 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-13 10:20:35 [scraper.py:391] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2025-12-13 10:20:36 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-13 10:20:36 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-14 02:23:45 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-14 02:23:45 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-12-14 02:23:45 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-14 02:23:45 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-14 05:25:58 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-14 05:25:58 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-12-14 05:25:58 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-14 05:25:58 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+
+INFO     2025-12-14 10:20:46 [scraper.py:376] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-14 10:20:46 [scraper.py:391] 📥 [TAROT] Card: The Empress
+INFO     2025-12-14 10:20:46 [scraper.py:416] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-14 10:20:46 [scraper.py:455] ✅ [TAROT] Successfully fetched.
+

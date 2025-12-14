@@ -28,3 +28,2050 @@ INFO     2025-07-30 05:34:21 [scraper.py:50] 📥 [APOD] Title: Coronal Loops on
 INFO     2025-07-30 05:34:21 [scraper.py:51] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg
 INFO     2025-07-30 05:34:21 [scraper.py:74] ✅ [APOD] Successfully fetched.
 
+INFO     2025-07-30 07:30:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-30 07:30:39 [scraper.py:47] 📥 [APOD] Title: Coronal Loops on the Sun
+INFO     2025-07-30 07:30:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg
+INFO     2025-07-30 07:30:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-07-30 10:24:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-30 10:24:18 [scraper.py:47] 📥 [APOD] Title: Coronal Loops on the Sun
+INFO     2025-07-30 10:24:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg
+INFO     2025-07-30 10:24:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-07-31 02:24:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-31 02:24:49 [scraper.py:47] 📥 [APOD] Title: Coronal Loops on the Sun
+INFO     2025-07-31 02:24:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg
+INFO     2025-07-31 02:24:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-07-31 05:32:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-31 05:32:29 [scraper.py:47] 📥 [APOD] Title: Supernova 2025rbs in NGC 7331
+INFO     2025-07-31 05:32:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png
+INFO     2025-07-31 05:32:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-07-31 10:24:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-07-31 10:24:38 [scraper.py:47] 📥 [APOD] Title: Supernova 2025rbs in NGC 7331
+INFO     2025-07-31 10:24:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png
+INFO     2025-07-31 10:24:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-01 02:36:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-01 02:36:34 [scraper.py:47] 📥 [APOD] Title: Supernova 2025rbs in NGC 7331
+INFO     2025-08-01 02:36:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png
+INFO     2025-08-01 02:36:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-01 05:34:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-01 05:34:55 [scraper.py:47] 📥 [APOD] Title: Small Dark Nebula
+INFO     2025-08-01 05:34:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg
+INFO     2025-08-01 05:34:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-01 10:24:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-01 10:24:34 [scraper.py:47] 📥 [APOD] Title: Small Dark Nebula
+INFO     2025-08-01 10:24:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg
+INFO     2025-08-01 10:24:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-02 02:19:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-02 02:19:07 [scraper.py:47] 📥 [APOD] Title: Small Dark Nebula
+INFO     2025-08-02 02:19:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg
+INFO     2025-08-02 02:19:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-02 05:28:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-02 05:28:14 [scraper.py:47] 📥 [APOD] Title: Fireflies, Meteors, and Milky Way
+INFO     2025-08-02 05:28:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg
+INFO     2025-08-02 05:28:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-02 10:21:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-02 10:21:29 [scraper.py:47] 📥 [APOD] Title: Fireflies, Meteors, and Milky Way
+INFO     2025-08-02 10:21:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg
+INFO     2025-08-02 10:21:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-03 02:35:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-03 02:35:02 [scraper.py:47] 📥 [APOD] Title: Fireflies, Meteors, and Milky Way
+INFO     2025-08-03 02:35:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg
+INFO     2025-08-03 02:35:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-03 05:32:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-03 05:32:08 [scraper.py:47] 📥 [APOD] Title: Milky Way and Exploding Meteor
+INFO     2025-08-03 05:32:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif
+INFO     2025-08-03 05:32:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-03 10:21:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-03 10:21:40 [scraper.py:47] 📥 [APOD] Title: Milky Way and Exploding Meteor
+INFO     2025-08-03 10:21:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif
+INFO     2025-08-03 10:21:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-04 02:34:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-04 02:34:22 [scraper.py:47] 📥 [APOD] Title: Milky Way and Exploding Meteor
+INFO     2025-08-04 02:34:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif
+INFO     2025-08-04 02:34:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-04 05:39:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-04 05:39:57 [scraper.py:47] 📥 [APOD] Title: Blue Arcs Toward Andromeda
+INFO     2025-08-04 05:39:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg
+INFO     2025-08-04 05:39:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-04 10:25:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-04 10:25:49 [scraper.py:47] 📥 [APOD] Title: Blue Arcs Toward Andromeda
+INFO     2025-08-04 10:25:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg
+INFO     2025-08-04 10:25:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-05 02:28:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-05 02:28:06 [scraper.py:47] 📥 [APOD] Title: Blue Arcs Toward Andromeda
+INFO     2025-08-05 02:28:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg
+INFO     2025-08-05 02:28:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-05 05:34:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-05 05:34:28 [scraper.py:47] 📥 [APOD] Title: NGC 6072: A Complex Planetary Nebula from Webb
+INFO     2025-08-05 05:34:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg
+INFO     2025-08-05 05:34:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-05 10:24:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-05 10:24:34 [scraper.py:47] 📥 [APOD] Title: NGC 6072: A Complex Planetary Nebula from Webb
+INFO     2025-08-05 10:24:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg
+INFO     2025-08-05 10:24:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-06 02:26:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-06 02:26:09 [scraper.py:47] 📥 [APOD] Title: NGC 6072: A Complex Planetary Nebula from Webb
+INFO     2025-08-06 02:26:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg
+INFO     2025-08-06 02:26:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-06 05:35:16 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-06 05:35:16 [scraper.py:47] 📥 [APOD] Title: Meteor before Galaxy
+INFO     2025-08-06 05:35:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg
+INFO     2025-08-06 05:35:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-06 10:24:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-06 10:24:32 [scraper.py:47] 📥 [APOD] Title: Meteor before Galaxy
+INFO     2025-08-06 10:24:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg
+INFO     2025-08-06 10:24:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-07 02:26:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-07 02:26:32 [scraper.py:47] 📥 [APOD] Title: Meteor before Galaxy
+INFO     2025-08-07 02:26:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg
+INFO     2025-08-07 02:26:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-07 05:33:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-07 05:33:32 [scraper.py:47] 📥 [APOD] Title: The Double Cluster in Perseus
+INFO     2025-08-07 05:33:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
+INFO     2025-08-07 05:33:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-07 10:23:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-07 10:23:37 [scraper.py:47] 📥 [APOD] Title: The Double Cluster in Perseus
+INFO     2025-08-07 10:23:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
+INFO     2025-08-07 10:23:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-08 02:26:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-08 02:26:18 [scraper.py:47] 📥 [APOD] Title: The Double Cluster in Perseus
+INFO     2025-08-08 02:26:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg
+INFO     2025-08-08 02:26:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-08 05:33:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-08 05:33:35 [scraper.py:47] 📥 [APOD] Title: Dawn of the Crab
+INFO     2025-08-08 05:33:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg
+INFO     2025-08-08 05:33:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-08 10:23:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-08 10:23:49 [scraper.py:47] 📥 [APOD] Title: Dawn of the Crab
+INFO     2025-08-08 10:23:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg
+INFO     2025-08-08 10:23:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-09 02:08:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-09 02:08:32 [scraper.py:47] 📥 [APOD] Title: Dawn of the Crab
+INFO     2025-08-09 02:08:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg
+INFO     2025-08-09 02:08:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-09 05:24:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-09 05:24:42 [scraper.py:47] 📥 [APOD] Title: Interstellar Interloper 3I/ATLAS from Hubble
+INFO     2025-08-09 05:24:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg
+INFO     2025-08-09 05:24:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-09 10:20:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-09 10:20:25 [scraper.py:47] 📥 [APOD] Title: Interstellar Interloper 3I/ATLAS from Hubble
+INFO     2025-08-09 10:20:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg
+INFO     2025-08-09 10:20:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-10 02:30:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-10 02:30:12 [scraper.py:47] 📥 [APOD] Title: Interstellar Interloper 3I/ATLAS from Hubble
+INFO     2025-08-10 02:30:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/3I_Hubble1024.jpg
+INFO     2025-08-10 02:30:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-10 05:28:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-10 05:28:07 [scraper.py:47] 📥 [APOD] Title: Zodiacal Road
+INFO     2025-08-10 05:28:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg
+INFO     2025-08-10 05:28:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-10 10:21:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-10 10:21:21 [scraper.py:47] 📥 [APOD] Title: Zodiacal Road
+INFO     2025-08-10 10:21:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg
+INFO     2025-08-10 10:21:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-11 02:25:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-11 02:25:58 [scraper.py:47] 📥 [APOD] Title: Zodiacal Road
+INFO     2025-08-11 02:25:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg
+INFO     2025-08-11 02:25:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-11 05:32:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-11 05:32:58 [scraper.py:47] 📥 [APOD] Title: Closest Ever Images Near the Sun
+INFO     2025-08-11 05:32:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/SunPlumes_psp.mp4
+INFO     2025-08-11 05:32:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-11 10:24:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-11 10:24:32 [scraper.py:47] 📥 [APOD] Title: Closest Ever Images Near the Sun
+INFO     2025-08-11 10:24:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/SunPlumes_psp.mp4
+INFO     2025-08-11 10:24:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-12 02:07:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-12 02:07:54 [scraper.py:47] 📥 [APOD] Title: Closest Ever Images Near the Sun
+INFO     2025-08-12 02:07:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/SunPlumes_psp.mp4
+INFO     2025-08-12 02:07:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-12 05:24:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-12 05:24:57 [scraper.py:47] 📥 [APOD] Title: Perseids from Perseus
+INFO     2025-08-12 05:24:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg
+INFO     2025-08-12 05:24:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-12 10:23:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-12 10:23:03 [scraper.py:47] 📥 [APOD] Title: Perseids from Perseus
+INFO     2025-08-12 10:23:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg
+INFO     2025-08-12 10:23:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-13 02:09:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-13 02:09:26 [scraper.py:47] 📥 [APOD] Title: Perseids from Perseus
+INFO     2025-08-13 02:09:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg
+INFO     2025-08-13 02:09:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-13 05:26:15 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-13 05:26:16 [scraper.py:47] 📥 [APOD] Title: Trapezium: In the Heart of Orion
+INFO     2025-08-13 05:26:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg
+INFO     2025-08-13 05:26:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-13 10:23:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-13 10:23:13 [scraper.py:47] 📥 [APOD] Title: Trapezium: In the Heart of Orion
+INFO     2025-08-13 10:23:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg
+INFO     2025-08-13 10:23:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-14 02:10:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-14 02:10:22 [scraper.py:47] 📥 [APOD] Title: Trapezium: In the Heart of Orion
+INFO     2025-08-14 02:10:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg
+INFO     2025-08-14 02:10:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-14 05:25:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-14 05:25:56 [scraper.py:47] 📥 [APOD] Title: M13: The Great Globular Cluster in Hercules
+INFO     2025-08-14 05:25:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg
+INFO     2025-08-14 05:25:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-14 10:23:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-14 10:23:11 [scraper.py:47] 📥 [APOD] Title: M13: The Great Globular Cluster in Hercules
+INFO     2025-08-14 10:23:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg
+INFO     2025-08-14 10:23:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-15 02:10:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-15 02:10:54 [scraper.py:47] 📥 [APOD] Title: M13: The Great Globular Cluster in Hercules
+INFO     2025-08-15 02:10:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg
+INFO     2025-08-15 02:10:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-15 05:26:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-15 05:26:13 [scraper.py:47] 📥 [APOD] Title: Moonlight, Planets, and Perseids
+INFO     2025-08-15 05:26:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg
+INFO     2025-08-15 05:26:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-15 10:21:56 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-15 10:21:56 [scraper.py:47] 📥 [APOD] Title: Moonlight, Planets, and Perseids
+INFO     2025-08-15 10:21:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg
+INFO     2025-08-15 10:21:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-16 02:04:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-16 02:04:45 [scraper.py:47] 📥 [APOD] Title: Moonlight, Planets, and Perseids
+INFO     2025-08-16 02:04:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg
+INFO     2025-08-16 02:04:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-16 05:24:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-16 05:24:05 [scraper.py:47] 📥 [APOD] Title: A Cool GIF of a 2025 Perseid
+INFO     2025-08-16 05:24:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif
+INFO     2025-08-16 05:24:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-16 10:19:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-16 10:19:24 [scraper.py:47] 📥 [APOD] Title: A Cool GIF of a 2025 Perseid
+INFO     2025-08-16 10:19:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif
+INFO     2025-08-16 10:19:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-17 02:22:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-17 02:22:42 [scraper.py:47] 📥 [APOD] Title: A Cool GIF of a 2025 Perseid
+INFO     2025-08-17 02:22:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/perseid2025-cropped.gif
+INFO     2025-08-17 02:22:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-17 05:24:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-17 05:24:51 [scraper.py:47] 📥 [APOD] Title: Asperitas Clouds Over New Zealand
+INFO     2025-08-17 05:24:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg
+INFO     2025-08-17 05:24:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-17 10:20:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-17 10:20:03 [scraper.py:47] 📥 [APOD] Title: Asperitas Clouds Over New Zealand
+INFO     2025-08-17 10:20:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg
+INFO     2025-08-17 10:20:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-18 02:22:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-18 02:22:58 [scraper.py:47] 📥 [APOD] Title: Asperitas Clouds Over New Zealand
+INFO     2025-08-18 02:22:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg
+INFO     2025-08-18 02:22:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-18 05:28:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-18 05:28:42 [scraper.py:47] 📥 [APOD] Title: NGC 1309: A Useful Spiral Galaxy
+INFO     2025-08-18 05:28:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg
+INFO     2025-08-18 05:28:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-18 10:24:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-18 10:24:06 [scraper.py:47] 📥 [APOD] Title: NGC 1309: A Useful Spiral Galaxy
+INFO     2025-08-18 10:24:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg
+INFO     2025-08-18 10:24:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-19 02:03:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-19 02:03:38 [scraper.py:47] 📥 [APOD] Title: NGC 1309: A Useful Spiral Galaxy
+INFO     2025-08-19 02:03:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_960.jpg
+INFO     2025-08-19 02:03:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-19 05:23:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-19 05:23:50 [scraper.py:47] 📥 [APOD] Title: Giant Galaxies in Pavo
+INFO     2025-08-19 05:23:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg
+INFO     2025-08-19 05:23:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-19 10:21:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-19 10:21:44 [scraper.py:47] 📥 [APOD] Title: Giant Galaxies in Pavo
+INFO     2025-08-19 10:21:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg
+INFO     2025-08-19 10:21:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-20 02:01:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-20 02:01:42 [scraper.py:47] 📥 [APOD] Title: Giant Galaxies in Pavo
+INFO     2025-08-20 02:01:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg
+INFO     2025-08-20 02:01:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-20 05:24:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-20 05:24:11 [scraper.py:47] 📥 [APOD] Title: Perseid Meteors from Durdle Door
+INFO     2025-08-20 05:24:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg
+INFO     2025-08-20 05:24:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-20 10:21:28 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-20 10:21:28 [scraper.py:47] 📥 [APOD] Title: Perseid Meteors from Durdle Door
+INFO     2025-08-20 10:21:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg
+INFO     2025-08-20 10:21:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-21 02:00:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-21 02:00:13 [scraper.py:47] 📥 [APOD] Title: Perseid Meteors from Durdle Door
+INFO     2025-08-21 02:00:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg
+INFO     2025-08-21 02:00:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-21 05:24:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-21 05:24:35 [scraper.py:47] 📥 [APOD] Title: Mostly Perseids
+INFO     2025-08-21 05:24:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg
+INFO     2025-08-21 05:24:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-21 10:21:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-21 10:21:13 [scraper.py:47] 📥 [APOD] Title: Mostly Perseids
+INFO     2025-08-21 10:21:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg
+INFO     2025-08-21 10:21:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-22 02:01:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-22 02:01:03 [scraper.py:47] 📥 [APOD] Title: Mostly Perseids
+INFO     2025-08-22 02:01:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg
+INFO     2025-08-22 02:01:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-22 05:24:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-22 05:24:11 [scraper.py:47] 📥 [APOD] Title: A Tale of Two Nebulae
+INFO     2025-08-22 05:24:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg
+INFO     2025-08-22 05:24:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-22 10:20:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-22 10:20:51 [scraper.py:47] 📥 [APOD] Title: A Tale of Two Nebulae
+INFO     2025-08-22 10:20:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg
+INFO     2025-08-22 10:20:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-23 01:56:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-23 01:56:39 [scraper.py:47] 📥 [APOD] Title: A Tale of Two Nebulae
+INFO     2025-08-23 01:56:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg
+INFO     2025-08-23 01:56:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-23 05:21:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-23 05:21:50 [scraper.py:47] 📥 [APOD] Title: Fishing for the Moon
+INFO     2025-08-23 05:21:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg
+INFO     2025-08-23 05:21:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-23 10:18:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-23 10:18:39 [scraper.py:47] 📥 [APOD] Title: Fishing for the Moon
+INFO     2025-08-23 10:18:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg
+INFO     2025-08-23 10:18:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-24 02:14:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-24 02:14:19 [scraper.py:47] 📥 [APOD] Title: Fishing for the Moon
+INFO     2025-08-24 02:14:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg
+INFO     2025-08-24 02:14:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-24 05:23:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-24 05:23:27 [scraper.py:47] 📥 [APOD] Title: The Spinning Pulsar of the Crab Nebula
+INFO     2025-08-24 05:23:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg
+INFO     2025-08-24 05:23:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-24 10:18:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-24 10:18:59 [scraper.py:47] 📥 [APOD] Title: The Spinning Pulsar of the Crab Nebula
+INFO     2025-08-24 10:18:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg
+INFO     2025-08-24 10:18:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-25 02:06:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-25 02:06:02 [scraper.py:47] 📥 [APOD] Title: The Spinning Pulsar of the Crab Nebula
+INFO     2025-08-25 02:06:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg
+INFO     2025-08-25 02:06:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-25 05:25:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-25 05:25:50 [scraper.py:47] 📥 [APOD] Title: The Meteor and the Star Cluster
+INFO     2025-08-25 05:25:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg
+INFO     2025-08-25 05:25:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-25 10:22:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-25 10:22:27 [scraper.py:47] 📥 [APOD] Title: The Meteor and the Star Cluster
+INFO     2025-08-25 10:22:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg
+INFO     2025-08-25 10:22:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-26 02:02:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-26 02:02:06 [scraper.py:47] 📥 [APOD] Title: The Meteor and the Star Cluster
+INFO     2025-08-26 02:02:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg
+INFO     2025-08-26 02:02:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-26 05:24:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-26 05:24:42 [scraper.py:47] 📥 [APOD] Title: A Leaky Solar Prominence
+INFO     2025-08-26 05:24:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/LeakySun_Girones.mp4
+INFO     2025-08-26 05:24:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-26 10:21:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-26 10:21:25 [scraper.py:47] 📥 [APOD] Title: A Leaky Solar Prominence
+INFO     2025-08-26 10:21:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/LeakySun_Girones.mp4
+INFO     2025-08-26 10:21:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-27 01:58:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-27 01:58:26 [scraper.py:47] 📥 [APOD] Title: A Leaky Solar Prominence
+INFO     2025-08-27 01:58:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/LeakySun_Girones.mp4
+INFO     2025-08-27 01:58:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-27 05:22:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-27 05:22:49 [scraper.py:47] 📥 [APOD] Title: WISPIT 2b: Exoplanet Carves Gap in Birth Disk
+INFO     2025-08-27 05:22:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg
+INFO     2025-08-27 05:22:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-27 10:19:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-27 10:19:52 [scraper.py:47] 📥 [APOD] Title: WISPIT 2b: Exoplanet Carves Gap in Birth Disk
+INFO     2025-08-27 10:19:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg
+INFO     2025-08-27 10:19:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-28 01:57:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-28 01:57:25 [scraper.py:47] 📥 [APOD] Title: WISPIT 2b: Exoplanet Carves Gap in Birth Disk
+INFO     2025-08-28 01:57:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg
+INFO     2025-08-28 01:57:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-28 05:23:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-28 05:23:10 [scraper.py:47] 📥 [APOD] Title: Galaxies, Stars, and Dust
+INFO     2025-08-28 05:23:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg
+INFO     2025-08-28 05:23:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-28 10:21:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-28 10:21:20 [scraper.py:47] 📥 [APOD] Title: Galaxies, Stars, and Dust
+INFO     2025-08-28 10:21:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg
+INFO     2025-08-28 10:21:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-29 01:57:28 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-29 01:57:28 [scraper.py:47] 📥 [APOD] Title: Galaxies, Stars, and Dust
+INFO     2025-08-29 01:57:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg
+INFO     2025-08-29 01:57:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-29 05:22:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-29 05:22:32 [scraper.py:47] 📥 [APOD] Title: A Dark Veil in Ophiuchus
+INFO     2025-08-29 05:22:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg
+INFO     2025-08-29 05:22:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-29 10:20:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-29 10:20:00 [scraper.py:47] 📥 [APOD] Title: A Dark Veil in Ophiuchus
+INFO     2025-08-29 10:20:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg
+INFO     2025-08-29 10:20:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-30 01:51:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-30 01:51:51 [scraper.py:47] 📥 [APOD] Title: A Dark Veil in Ophiuchus
+INFO     2025-08-30 01:51:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/DarkVeil_v2p1024.jpeg
+INFO     2025-08-30 01:51:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-30 05:21:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-30 05:21:03 [scraper.py:47] 📥 [APOD] Title: A Two Percent Moon
+INFO     2025-08-30 05:21:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
+INFO     2025-08-30 05:21:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-30 10:17:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-30 10:17:33 [scraper.py:47] 📥 [APOD] Title: A Two Percent Moon
+INFO     2025-08-30 10:17:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
+INFO     2025-08-30 10:17:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-31 02:03:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-31 02:03:26 [scraper.py:47] 📥 [APOD] Title: A Two Percent Moon
+INFO     2025-08-31 02:03:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/IMG_4081_1024.jpeg
+INFO     2025-08-31 02:03:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-31 05:21:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-31 05:21:32 [scraper.py:47] 📥 [APOD] Title: NGC 7027: The Pillow Planetary Nebula
+INFO     2025-08-31 05:21:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg
+INFO     2025-08-31 05:21:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-08-31 10:17:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-08-31 10:17:52 [scraper.py:47] 📥 [APOD] Title: NGC 7027: The Pillow Planetary Nebula
+INFO     2025-08-31 10:17:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg
+INFO     2025-08-31 10:17:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-01 02:19:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-01 02:19:43 [scraper.py:47] 📥 [APOD] Title: NGC 7027: The Pillow Planetary Nebula
+INFO     2025-09-01 02:19:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg
+INFO     2025-09-01 02:19:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-01 05:25:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-01 05:25:02 [scraper.py:47] 📥 [APOD] Title: Callisto: Dirty Battered Iceball
+INFO     2025-09-01 05:25:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg
+INFO     2025-09-01 05:25:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-01 10:22:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-01 10:22:11 [scraper.py:47] 📥 [APOD] Title: Callisto: Dirty Battered Iceball
+INFO     2025-09-01 10:22:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg
+INFO     2025-09-01 10:22:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-02 01:59:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-02 01:59:33 [scraper.py:47] 📥 [APOD] Title: Callisto: Dirty Battered Iceball
+INFO     2025-09-02 01:59:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg
+INFO     2025-09-02 01:59:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-02 05:23:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-02 05:23:58 [scraper.py:47] 📥 [APOD] Title: The Horsehead and Flame Nebulas
+INFO     2025-09-02 05:23:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg
+INFO     2025-09-02 05:23:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-02 10:20:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-02 10:20:44 [scraper.py:47] 📥 [APOD] Title: The Horsehead and Flame Nebulas
+INFO     2025-09-02 10:20:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg
+INFO     2025-09-02 10:20:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-03 01:51:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-03 01:51:22 [scraper.py:47] 📥 [APOD] Title: The Horsehead and Flame Nebulas
+INFO     2025-09-03 01:51:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg
+INFO     2025-09-03 01:51:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-03 05:21:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-03 05:21:26 [scraper.py:47] 📥 [APOD] Title: Cir X-1: Jets in the Africa Nebula
+INFO     2025-09-03 05:21:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg
+INFO     2025-09-03 05:21:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-03 10:19:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-03 10:19:15 [scraper.py:47] 📥 [APOD] Title: Cir X-1: Jets in the Africa Nebula
+INFO     2025-09-03 10:19:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg
+INFO     2025-09-03 10:19:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-04 01:52:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-04 01:52:07 [scraper.py:47] 📥 [APOD] Title: Cir X-1: Jets in the Africa Nebula
+INFO     2025-09-04 01:52:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg
+INFO     2025-09-04 01:52:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-04 05:21:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-04 05:21:48 [scraper.py:47] 📥 [APOD] Title: NGC 4565: Galaxy on Edge
+INFO     2025-09-04 05:21:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg
+INFO     2025-09-04 05:21:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-04 10:19:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-04 10:19:41 [scraper.py:47] 📥 [APOD] Title: NGC 4565: Galaxy on Edge
+INFO     2025-09-04 10:19:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg
+INFO     2025-09-04 10:19:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-05 01:54:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-05 01:54:43 [scraper.py:47] 📥 [APOD] Title: NGC 4565: Galaxy on Edge
+INFO     2025-09-05 01:54:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC4565_APOD_sRGB1024.jpg
+INFO     2025-09-05 01:54:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-05 05:22:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-05 05:22:14 [scraper.py:47] 📥 [APOD] Title: 47 Tucanae: Globular Star Cluster
+INFO     2025-09-05 05:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg
+INFO     2025-09-05 05:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-05 10:19:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-05 10:19:55 [scraper.py:47] 📥 [APOD] Title: 47 Tucanae: Globular Star Cluster
+INFO     2025-09-05 10:19:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg
+INFO     2025-09-05 10:19:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-06 01:51:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-06 01:51:49 [scraper.py:47] 📥 [APOD] Title: 47 Tucanae: Globular Star Cluster
+INFO     2025-09-06 01:51:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg
+INFO     2025-09-06 01:51:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-06 05:20:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-06 05:20:19 [scraper.py:47] 📥 [APOD] Title: Sardinia Sunset
+INFO     2025-09-06 05:20:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg
+INFO     2025-09-06 05:20:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-06 10:17:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-06 10:17:12 [scraper.py:47] 📥 [APOD] Title: Sardinia Sunset
+INFO     2025-09-06 10:17:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg
+INFO     2025-09-06 10:17:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-07 02:00:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-07 02:00:44 [scraper.py:47] 📥 [APOD] Title: Sardinia Sunset
+INFO     2025-09-07 02:00:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg
+INFO     2025-09-07 02:00:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-07 05:20:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-07 05:20:37 [scraper.py:47] 📥 [APOD] Title: All the Water on Planet Earth
+INFO     2025-09-07 05:20:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg
+INFO     2025-09-07 05:20:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-07 10:17:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-07 10:17:57 [scraper.py:47] 📥 [APOD] Title: All the Water on Planet Earth
+INFO     2025-09-07 10:17:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg
+INFO     2025-09-07 10:17:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-08 02:00:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-08 02:00:34 [scraper.py:47] 📥 [APOD] Title: All the Water on Planet Earth
+INFO     2025-09-08 02:00:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg
+INFO     2025-09-08 02:00:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-08 05:22:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-08 05:22:48 [scraper.py:47] 📥 [APOD] Title: IRAS 04302: Butterfly Disk Planet Formation
+INFO     2025-09-08 05:22:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg
+INFO     2025-09-08 05:22:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-08 10:21:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-08 10:21:39 [scraper.py:47] 📥 [APOD] Title: IRAS 04302: Butterfly Disk Planet Formation
+INFO     2025-09-08 10:21:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg
+INFO     2025-09-08 10:21:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-09 01:56:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-09 01:56:25 [scraper.py:47] 📥 [APOD] Title: IRAS 04302: Butterfly Disk Planet Formation
+INFO     2025-09-09 01:56:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg
+INFO     2025-09-09 01:56:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-09 05:22:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-09 05:22:37 [scraper.py:47] 📥 [APOD] Title: Up from the Earth: Gigantic Jet Lightning
+INFO     2025-09-09 05:22:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg
+INFO     2025-09-09 05:22:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-09 10:20:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-09 10:20:30 [scraper.py:47] 📥 [APOD] Title: Up from the Earth: Gigantic Jet Lightning
+INFO     2025-09-09 10:20:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg
+INFO     2025-09-09 10:20:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-10 01:52:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-10 01:52:40 [scraper.py:47] 📥 [APOD] Title: Up from the Earth: Gigantic Jet Lightning
+INFO     2025-09-10 01:52:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/JetIss_nasa_960.jpg
+INFO     2025-09-10 01:52:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-10 05:22:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-10 05:22:02 [scraper.py:47] 📥 [APOD] Title: The Great Lacerta Nebula
+INFO     2025-09-10 05:22:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg
+INFO     2025-09-10 05:22:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-10 10:19:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-10 10:19:51 [scraper.py:47] 📥 [APOD] Title: The Great Lacerta Nebula
+INFO     2025-09-10 10:19:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg
+INFO     2025-09-10 10:19:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-11 01:55:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-11 01:55:49 [scraper.py:47] 📥 [APOD] Title: The Great Lacerta Nebula
+INFO     2025-09-11 01:55:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_960.jpg
+INFO     2025-09-11 01:55:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-11 05:22:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-11 05:22:52 [scraper.py:47] 📥 [APOD] Title: The Umbra of Earth
+INFO     2025-09-11 05:22:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg
+INFO     2025-09-11 05:22:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-11 10:19:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-11 10:19:19 [scraper.py:47] 📥 [APOD] Title: The Umbra of Earth
+INFO     2025-09-11 10:19:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg
+INFO     2025-09-11 10:19:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-12 01:51:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-12 01:51:22 [scraper.py:47] 📥 [APOD] Title: The Umbra of Earth
+INFO     2025-09-12 01:51:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/UmbraEarth1050.jpg
+INFO     2025-09-12 01:51:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-12 05:22:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-12 05:22:02 [scraper.py:47] 📥 [APOD] Title: Lunar Eclipse in Two Hemispheres
+INFO     2025-09-12 05:22:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg
+INFO     2025-09-12 05:22:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-12 10:19:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-12 10:19:59 [scraper.py:47] 📥 [APOD] Title: Lunar Eclipse in Two Hemispheres
+INFO     2025-09-12 10:19:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg
+INFO     2025-09-12 10:19:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-13 01:46:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-13 01:46:38 [scraper.py:47] 📥 [APOD] Title: Lunar Eclipse in Two Hemispheres
+INFO     2025-09-13 01:46:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text1065.jpg
+INFO     2025-09-13 01:46:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-13 05:20:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-13 05:20:14 [scraper.py:47] 📥 [APOD] Title: Star Trails over One-Mile Radio Telescope
+INFO     2025-09-13 05:20:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg
+INFO     2025-09-13 05:20:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-13 10:17:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-13 10:17:31 [scraper.py:47] 📥 [APOD] Title: Star Trails over One-Mile Radio Telescope
+INFO     2025-09-13 10:17:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg
+INFO     2025-09-13 10:17:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-14 02:00:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-14 02:00:05 [scraper.py:47] 📥 [APOD] Title: Star Trails over One-Mile Radio Telescope
+INFO     2025-09-14 02:00:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg
+INFO     2025-09-14 02:00:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-14 05:20:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-09-14 05:20:40 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-09-14 10:16:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-09-14 10:16:42 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-09-15 02:01:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-09-15 02:01:47 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-09-15 05:23:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-15 05:23:19 [scraper.py:47] 📥 [APOD] Title: Earth During a Powerful Solar Storm
+INFO     2025-09-15 05:23:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
+INFO     2025-09-15 05:23:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-15 10:20:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-15 10:20:37 [scraper.py:47] 📥 [APOD] Title: Earth During a Powerful Solar Storm
+INFO     2025-09-15 10:20:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
+INFO     2025-09-15 10:20:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-16 01:52:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-16 01:52:49 [scraper.py:47] 📥 [APOD] Title: Earth During a Powerful Solar Storm
+INFO     2025-09-16 01:52:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/FlareMagnetosphere_NasaSvs.mp4
+INFO     2025-09-16 01:52:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-16 05:22:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-16 05:22:23 [scraper.py:47] 📥 [APOD] Title: New Comet SWAN25B over Mexico
+INFO     2025-09-16 05:22:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg
+INFO     2025-09-16 05:22:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-16 10:19:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-16 10:19:58 [scraper.py:47] 📥 [APOD] Title: New Comet SWAN25B over Mexico
+INFO     2025-09-16 10:19:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg
+INFO     2025-09-16 10:19:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-17 01:52:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-17 01:52:35 [scraper.py:47] 📥 [APOD] Title: New Comet SWAN25B over Mexico
+INFO     2025-09-17 01:52:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg
+INFO     2025-09-17 01:52:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-17 05:22:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-17 05:22:39 [scraper.py:47] 📥 [APOD] Title: Nebulas and Clusters in Sagittarius
+INFO     2025-09-17 05:22:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg
+INFO     2025-09-17 05:22:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-17 10:19:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-17 10:19:34 [scraper.py:47] 📥 [APOD] Title: Nebulas and Clusters in Sagittarius
+INFO     2025-09-17 10:19:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg
+INFO     2025-09-17 10:19:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-18 01:52:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-18 01:52:36 [scraper.py:47] 📥 [APOD] Title: Nebulas and Clusters in Sagittarius
+INFO     2025-09-18 01:52:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg
+INFO     2025-09-18 01:52:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-18 05:21:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-18 05:21:54 [scraper.py:47] 📥 [APOD] Title: Comet C/2025 R2 (SWAN)
+INFO     2025-09-18 05:21:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg
+INFO     2025-09-18 05:21:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-18 10:19:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-18 10:19:39 [scraper.py:47] 📥 [APOD] Title: Comet C/2025 R2 (SWAN)
+INFO     2025-09-18 10:19:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg
+INFO     2025-09-18 10:19:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-19 01:55:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-19 01:55:48 [scraper.py:47] 📥 [APOD] Title: Comet C/2025 R2 (SWAN)
+INFO     2025-09-19 01:55:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg
+INFO     2025-09-19 01:55:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-19 05:22:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-19 05:22:13 [scraper.py:47] 📥 [APOD] Title: The NGC 6914 Complex
+INFO     2025-09-19 05:22:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg
+INFO     2025-09-19 05:22:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-19 10:20:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-19 10:20:20 [scraper.py:47] 📥 [APOD] Title: The NGC 6914 Complex
+INFO     2025-09-19 10:20:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg
+INFO     2025-09-19 10:20:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-20 01:50:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-20 01:50:31 [scraper.py:47] 📥 [APOD] Title: The NGC 6914 Complex
+INFO     2025-09-20 01:50:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/NGC6914_1024.jpg
+INFO     2025-09-20 01:50:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-20 05:21:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-20 05:21:03 [scraper.py:47] 📥 [APOD] Title: Gibbous vs Crescent
+INFO     2025-09-20 05:21:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg
+INFO     2025-09-20 05:21:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-20 10:18:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-20 10:18:03 [scraper.py:47] 📥 [APOD] Title: Gibbous vs Crescent
+INFO     2025-09-20 10:18:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg
+INFO     2025-09-20 10:18:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-21 02:03:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-21 02:03:40 [scraper.py:47] 📥 [APOD] Title: Gibbous vs Crescent
+INFO     2025-09-21 02:03:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg
+INFO     2025-09-21 02:03:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-21 05:21:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-21 05:21:31 [scraper.py:47] 📥 [APOD] Title: Equinox Sunset
+INFO     2025-09-21 05:21:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg
+INFO     2025-09-21 05:21:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-21 10:18:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-21 10:18:05 [scraper.py:47] 📥 [APOD] Title: Equinox Sunset
+INFO     2025-09-21 10:18:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg
+INFO     2025-09-21 10:18:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-22 02:03:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-22 02:03:36 [scraper.py:47] 📥 [APOD] Title: Equinox Sunset
+INFO     2025-09-22 02:03:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg
+INFO     2025-09-22 02:03:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-22 05:23:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-22 05:23:21 [scraper.py:47] 📥 [APOD] Title: Equinox at Saturn
+INFO     2025-09-22 05:23:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
+INFO     2025-09-22 05:23:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-22 10:21:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-22 10:21:44 [scraper.py:47] 📥 [APOD] Title: Equinox at Saturn
+INFO     2025-09-22 10:21:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
+INFO     2025-09-22 10:21:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-23 01:53:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-23 01:53:19 [scraper.py:47] 📥 [APOD] Title: Equinox at Saturn
+INFO     2025-09-23 01:53:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg
+INFO     2025-09-23 01:53:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-23 05:22:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-23 05:22:27 [scraper.py:47] 📥 [APOD] Title: NGC 6357: Cathedral to Massive Stars
+INFO     2025-09-23 05:22:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg
+INFO     2025-09-23 05:22:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-23 10:20:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-23 10:20:26 [scraper.py:47] 📥 [APOD] Title: NGC 6357: Cathedral to Massive Stars
+INFO     2025-09-23 10:20:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg
+INFO     2025-09-23 10:20:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-24 01:54:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-24 01:54:46 [scraper.py:47] 📥 [APOD] Title: NGC 6357: Cathedral to Massive Stars
+INFO     2025-09-24 01:54:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg
+INFO     2025-09-24 01:54:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-24 05:22:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-24 05:22:14 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotating Black Holes Collide
+INFO     2025-09-24 05:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
+INFO     2025-09-24 05:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-24 10:20:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-24 10:20:01 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotating Black Holes Collide
+INFO     2025-09-24 10:20:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
+INFO     2025-09-24 10:20:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-25 01:55:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-25 01:55:58 [scraper.py:47] 📥 [APOD] Title: GW250114: Rotating Black Holes Collide
+INFO     2025-09-25 01:55:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg
+INFO     2025-09-25 01:55:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-25 05:22:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-25 05:22:44 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite the Sun
+INFO     2025-09-25 05:22:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
+INFO     2025-09-25 05:22:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-25 10:20:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-25 10:20:45 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite the Sun
+INFO     2025-09-25 10:20:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
+INFO     2025-09-25 10:20:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-26 01:54:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-26 01:54:52 [scraper.py:47] 📥 [APOD] Title: Saturn Opposite the Sun
+INFO     2025-09-26 01:54:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg
+INFO     2025-09-26 01:54:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-26 05:22:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-26 05:22:30 [scraper.py:47] 📥 [APOD] Title: A SWAN, an ATLAS, and Mars
+INFO     2025-09-26 05:22:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg
+INFO     2025-09-26 05:22:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-26 10:20:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-26 10:20:14 [scraper.py:47] 📥 [APOD] Title: A SWAN, an ATLAS, and Mars
+INFO     2025-09-26 10:20:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg
+INFO     2025-09-26 10:20:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-27 01:50:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-27 01:50:12 [scraper.py:47] 📥 [APOD] Title: A SWAN, an ATLAS, and Mars
+INFO     2025-09-27 01:50:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg
+INFO     2025-09-27 01:50:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-27 05:20:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-27 05:20:44 [scraper.py:47] 📥 [APOD] Title: A Rocket in the Sun
+INFO     2025-09-27 05:20:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG
+INFO     2025-09-27 05:20:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-27 10:17:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-27 10:17:41 [scraper.py:47] 📥 [APOD] Title: A Rocket in the Sun
+INFO     2025-09-27 10:17:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG
+INFO     2025-09-27 10:17:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-28 02:04:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-28 02:04:49 [scraper.py:47] 📥 [APOD] Title: A Rocket in the Sun
+INFO     2025-09-28 02:04:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG
+INFO     2025-09-28 02:04:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-28 05:21:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-28 05:21:26 [scraper.py:47] 📥 [APOD] Title: Leopard Spots on Martian Rocks
+INFO     2025-09-28 05:21:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg
+INFO     2025-09-28 05:21:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-28 10:18:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-28 10:18:01 [scraper.py:47] 📥 [APOD] Title: Leopard Spots on Martian Rocks
+INFO     2025-09-28 10:18:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg
+INFO     2025-09-28 10:18:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-29 01:58:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-29 01:58:03 [scraper.py:47] 📥 [APOD] Title: Leopard Spots on Martian Rocks
+INFO     2025-09-29 01:58:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg
+INFO     2025-09-29 01:58:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-29 05:24:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-29 05:24:05 [scraper.py:47] 📥 [APOD] Title: Two Camera Comets in One Sky
+INFO     2025-09-29 05:24:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
+INFO     2025-09-29 05:24:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-29 10:21:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-29 10:21:31 [scraper.py:47] 📥 [APOD] Title: Two Camera Comets in One Sky
+INFO     2025-09-29 10:21:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
+INFO     2025-09-29 10:21:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-30 01:52:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-30 01:52:39 [scraper.py:47] 📥 [APOD] Title: Two Camera Comets in One Sky
+INFO     2025-09-30 01:52:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg
+INFO     2025-09-30 01:52:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-30 05:22:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-30 05:22:43 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon Brightens
+INFO     2025-09-30 05:22:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg
+INFO     2025-09-30 05:22:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-09-30 10:20:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-09-30 10:20:55 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon Brightens
+INFO     2025-09-30 10:20:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg
+INFO     2025-09-30 10:20:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-01 02:05:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-01 02:05:34 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon Brightens
+INFO     2025-10-01 02:05:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg
+INFO     2025-10-01 02:05:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-01 05:23:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-01 05:23:37 [scraper.py:47] 📥 [APOD] Title: NGC 6960: The Witch's Broom Nebula
+INFO     2025-10-01 05:23:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-01 05:23:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-01 10:20:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-01 10:20:42 [scraper.py:47] 📥 [APOD] Title: NGC 6960: The Witch's Broom Nebula
+INFO     2025-10-01 10:20:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-01 10:20:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-02 01:53:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-02 01:53:14 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-02 01:53:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-02 01:53:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-02 05:21:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-02 05:21:35 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-02 05:21:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-02 05:21:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-02 10:19:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-02 10:19:30 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-02 10:19:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-02 10:19:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-03 01:52:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-03 01:52:52 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-03 01:52:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-03 01:52:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-03 05:21:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-03 05:21:53 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-03 05:21:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-03 05:21:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-03 10:19:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-03 10:19:41 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-03 10:19:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-03 10:19:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-04 01:48:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-04 01:48:26 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-04 01:48:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-04 01:48:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-04 05:20:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-04 05:20:14 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-04 05:20:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-04 05:20:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-04 10:17:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-04 10:17:50 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-04 10:17:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-04 10:17:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-05 02:03:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-05 02:03:57 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-05 02:03:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-05 02:03:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-05 05:21:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-05 05:21:03 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-05 05:21:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-05 05:21:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-05 10:18:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-05 10:18:06 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-05 10:18:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-05 10:18:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-06 01:56:15 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-06 01:56:15 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-06 01:56:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-06 01:56:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-06 05:22:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-06 05:22:49 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-06 05:22:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-06 05:22:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-06 10:21:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-06 10:21:45 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-06 10:21:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-06 10:21:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-07 01:54:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-07 01:54:07 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-07 01:54:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-07 01:54:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-07 05:22:15 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-07 05:22:16 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-07 05:22:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-07 05:22:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-07 10:20:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-07 10:20:09 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-07 10:20:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-07 10:20:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-08 01:53:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-08 01:53:39 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-08 01:53:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-08 01:53:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-08 05:22:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-08 05:22:43 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-08 05:22:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-08 05:22:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-08 10:20:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-08 10:20:18 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-08 10:20:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-08 10:20:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-09 01:54:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-09 01:54:50 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-09 01:54:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-09 01:54:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-09 05:23:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-09 05:23:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-09 05:23:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-09 05:23:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-09 10:21:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-09 10:21:18 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-09 10:21:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-09 10:21:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-10 01:55:28 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-10 01:55:28 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-10 01:55:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-10 01:55:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-10 05:22:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-10 05:22:49 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-10 05:22:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-10 05:22:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-10 10:20:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-10-10 10:20:48 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd68c70a8c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+INFO     2025-10-11 01:50:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-11 01:50:32 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-11 01:50:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-11 01:50:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-11 05:21:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-11 05:21:17 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-11 05:21:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-11 05:21:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-11 10:17:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-11 10:17:52 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-11 10:17:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-11 10:17:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-12 01:59:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-12 01:59:09 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-12 01:59:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-12 01:59:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-12 05:21:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-12 05:21:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-12 05:21:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-12 05:21:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-12 10:17:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-12 10:17:48 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-12 10:17:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-12 10:17:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-13 02:02:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-13 02:02:45 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-13 02:02:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-13 02:02:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-13 05:24:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-13 05:24:08 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-13 05:24:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-13 05:24:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-13 10:23:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-13 10:23:22 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-13 10:23:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-13 10:23:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-14 01:55:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-14 01:55:41 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-14 01:55:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-14 01:55:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-14 05:22:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-14 05:22:52 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-14 05:22:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-14 05:22:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-14 10:20:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-14 10:20:57 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-14 10:20:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-14 10:20:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-15 01:58:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-15 01:58:46 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-15 01:58:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-15 01:58:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-15 05:23:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-15 05:23:14 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-15 05:23:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-15 05:23:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-15 10:22:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-15 10:22:18 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-15 10:22:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-15 10:22:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-16 01:57:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-16 01:57:19 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-16 01:57:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-16 01:57:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-16 05:23:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-16 05:23:20 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-16 05:23:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-16 05:23:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-16 10:22:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-16 10:22:24 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-16 10:22:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-16 10:22:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-17 01:56:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-17 01:56:05 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-17 01:56:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-17 01:56:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-17 05:22:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-17 05:23:00 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-17 05:23:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-17 05:23:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-17 10:21:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-17 10:21:06 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-17 10:21:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-17 10:21:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-18 01:51:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-18 01:51:13 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-18 01:51:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-18 01:51:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-18 05:21:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-18 05:21:47 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-18 05:21:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-18 05:21:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-18 10:18:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-18 10:18:34 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-18 10:18:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-18 10:18:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-19 02:09:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-19 02:09:19 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-19 02:09:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-19 02:09:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-19 05:22:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-19 05:22:55 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-19 05:22:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-19 05:22:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-19 10:18:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-19 10:18:26 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-19 10:18:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-19 10:18:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-20 02:06:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-20 02:06:17 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-20 02:06:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-20 02:06:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-20 05:24:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-20 05:24:46 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-20 05:24:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-20 05:24:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-20 10:22:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-20 10:22:15 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-20 10:22:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-20 10:22:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-21 01:59:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-21 01:59:30 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-21 01:59:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-21 01:59:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-21 05:23:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-21 05:23:29 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-21 05:23:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-21 05:23:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-21 10:21:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-21 10:21:31 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-21 10:21:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-21 10:21:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-22 02:02:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-22 02:02:53 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-22 02:02:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-22 02:02:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-22 05:24:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-22 05:24:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-22 05:24:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-22 05:24:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-22 10:22:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-22 10:22:35 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-22 10:22:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-22 10:22:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-23 01:58:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-23 01:58:06 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-23 01:58:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-23 01:58:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-23 05:23:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-23 05:23:46 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-23 05:23:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-23 05:23:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-23 10:21:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-23 10:21:53 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-23 10:21:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-23 10:21:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-24 01:54:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-24 01:54:12 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-24 01:54:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-24 01:54:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-24 05:23:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-24 05:23:06 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-24 05:23:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-24 05:23:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-24 10:22:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-24 10:22:30 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-24 10:22:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-24 10:22:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-25 01:55:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-25 01:55:43 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-25 01:55:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-25 01:55:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-25 05:22:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-25 05:22:02 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-25 05:22:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-25 05:22:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-25 10:18:28 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-25 10:18:29 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-25 10:18:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-25 10:18:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-26 02:05:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-26 02:05:10 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-26 02:05:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-26 02:05:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-26 05:22:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-26 05:22:48 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-26 05:22:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-26 05:22:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-26 10:19:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-26 10:19:00 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-26 10:19:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-26 10:19:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-27 02:09:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-27 02:09:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-27 02:09:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-27 02:09:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-27 05:25:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-27 05:25:59 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-27 05:25:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-27 05:25:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-27 10:23:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-27 10:23:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-27 10:23:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-27 10:23:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-28 01:58:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-28 01:58:36 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-28 01:58:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-28 01:58:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-28 05:25:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-28 05:25:03 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-28 05:25:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-28 05:25:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-28 10:22:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-28 10:22:55 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-28 10:22:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-28 10:22:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-29 02:05:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-29 02:05:57 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-29 02:05:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-29 02:05:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-29 05:25:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-29 05:25:50 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-29 05:25:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-29 05:25:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-29 10:22:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-29 10:22:24 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-29 10:22:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-29 10:22:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-30 02:04:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-30 02:04:42 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-30 02:04:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-30 02:04:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-30 05:23:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-30 05:23:47 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-30 05:23:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-30 05:23:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-30 10:21:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-30 10:21:29 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-30 10:21:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-30 10:21:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-31 02:01:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-31 02:01:51 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-31 02:01:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-31 02:01:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-31 05:25:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-31 05:25:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-31 05:25:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-31 05:25:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-10-31 10:21:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-10-31 10:21:26 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-10-31 10:21:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-10-31 10:21:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-01 02:05:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-01 02:05:26 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-01 02:05:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-01 02:05:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-01 05:22:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-01 05:22:48 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-01 05:22:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-01 05:22:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-01 10:19:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-01 10:19:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-01 10:19:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-01 10:19:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-02 02:08:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-02 02:08:11 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-02 02:08:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-02 02:08:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-02 05:23:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-02 05:23:26 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-02 05:23:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-02 05:23:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-02 10:18:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-02 10:18:52 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-02 10:18:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-02 10:18:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-03 02:07:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-03 02:07:14 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-03 02:07:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-03 02:07:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-03 05:25:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-03 05:25:30 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-03 05:25:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-03 05:25:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-03 10:24:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-03 10:24:18 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-03 10:24:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-03 10:24:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-04 02:02:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-04 02:02:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-04 02:02:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-04 02:02:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-04 05:25:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-04 05:25:05 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-04 05:25:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-04 05:25:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-04 10:23:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-04 10:23:52 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-04 10:23:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-04 10:23:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-05 02:03:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-05 02:03:48 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-05 02:03:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-05 02:03:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-05 05:25:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-05 05:25:28 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-05 05:25:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-05 05:25:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-05 10:23:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-05 10:23:04 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-05 10:23:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-05 10:23:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-06 02:03:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-06 02:03:44 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-06 02:03:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-06 02:03:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-06 05:25:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-06 05:25:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-06 05:25:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-06 05:25:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-06 10:23:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-06 10:23:22 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-06 10:23:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-06 10:23:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-07 02:02:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-07 02:02:18 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-07 02:02:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-07 02:02:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-07 05:24:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-07 05:24:47 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-07 05:24:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-07 05:24:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-07 10:22:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-07 10:22:19 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-07 10:22:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-07 10:22:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-08 01:55:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-08 01:55:57 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-08 01:55:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-08 01:55:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-08 05:22:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-08 05:22:53 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-08 05:22:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-08 05:22:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-08 10:19:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-08 10:19:10 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-08 10:19:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-08 10:19:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-09 02:07:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-09 02:07:03 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-09 02:07:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-09 02:07:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-09 05:23:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-09 05:23:05 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-09 05:23:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-09 05:23:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-09 10:18:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-09 10:19:00 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-09 10:19:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-09 10:19:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-10 02:08:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-10 02:08:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-10 02:08:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-10 02:08:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-10 05:25:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-10 05:25:45 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-10 05:25:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-10 05:25:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-10 10:24:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-10 10:24:39 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-10 10:24:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-10 10:24:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-11 02:04:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-11 02:04:24 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-11 02:04:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-11 02:04:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-11 05:25:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-11 05:25:21 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-11 05:25:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-11 05:25:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-11 10:23:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-11 10:23:13 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-11 10:23:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-11 10:23:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-12 02:03:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-12 02:03:31 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-12 02:03:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-12 02:03:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-12 05:25:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-12 05:25:46 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-12 05:25:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-12 05:25:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-12 10:23:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-12 10:23:23 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-12 10:23:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-12 10:23:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-13 02:05:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-13 02:05:39 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-13 02:05:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-13 02:05:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-13 05:25:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-13 05:25:32 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-13 05:25:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-13 05:25:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-13 10:23:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-13 10:23:25 [scraper.py:47] 📥 [APOD] Title: No Title Found
+INFO     2025-11-13 10:23:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg
+INFO     2025-11-13 10:23:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-14 02:04:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-14 02:04:04 [scraper.py:47] 📥 [APOD] Title: Orion and the Running Man
+INFO     2025-11-14 02:04:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg
+INFO     2025-11-14 02:04:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-14 05:24:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-14 05:24:59 [scraper.py:47] 📥 [APOD] Title: Florida Northern Lights
+INFO     2025-11-14 05:24:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg
+INFO     2025-11-14 05:24:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-14 10:23:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-14 10:23:02 [scraper.py:47] 📥 [APOD] Title: Florida Northern Lights
+INFO     2025-11-14 10:23:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg
+INFO     2025-11-14 10:23:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-15 01:59:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-15 01:59:51 [scraper.py:47] 📥 [APOD] Title: Florida Northern Lights
+INFO     2025-11-15 01:59:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg
+INFO     2025-11-15 01:59:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-15 05:23:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-15 05:23:25 [scraper.py:47] 📥 [APOD] Title: Andromeda and Friends
+INFO     2025-11-15 05:23:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg
+INFO     2025-11-15 05:23:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-15 10:19:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-15 10:19:14 [scraper.py:47] 📥 [APOD] Title: Andromeda and Friends
+INFO     2025-11-15 10:19:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg
+INFO     2025-11-15 10:19:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-16 02:10:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-16 02:10:06 [scraper.py:47] 📥 [APOD] Title: Andromeda and Friends
+INFO     2025-11-16 02:10:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg
+INFO     2025-11-16 02:10:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-16 05:24:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-16 05:24:01 [scraper.py:47] 📥 [APOD] Title: Crossing Saturn's Ring Plane
+INFO     2025-11-16 05:24:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg
+INFO     2025-11-16 05:24:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-16 10:19:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-16 10:19:44 [scraper.py:47] 📥 [APOD] Title: Crossing Saturn's Ring Plane
+INFO     2025-11-16 10:19:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg
+INFO     2025-11-16 10:19:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-17 02:05:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-17 02:05:11 [scraper.py:47] 📥 [APOD] Title: Crossing Saturn's Ring Plane
+INFO     2025-11-17 02:05:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg
+INFO     2025-11-17 02:05:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-17 05:26:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-17 05:26:13 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon's Wandering Tail
+INFO     2025-11-17 05:26:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg
+INFO     2025-11-17 05:26:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-17 10:23:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-17 10:23:59 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon's Wandering Tail
+INFO     2025-11-17 10:23:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg
+INFO     2025-11-17 10:23:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-18 02:03:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-18 02:03:20 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon's Wandering Tail
+INFO     2025-11-18 02:03:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg
+INFO     2025-11-18 02:03:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-18 05:24:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-18 05:24:55 [scraper.py:47] 📥 [APOD] Title: The Galactic Plane: Radio Versus Visible
+INFO     2025-11-18 05:24:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyWayRadio_GLEAM_9MB.mp4
+INFO     2025-11-18 05:24:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-18 10:24:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-18 10:24:21 [scraper.py:47] 📥 [APOD] Title: The Galactic Plane: Radio Versus Visible
+INFO     2025-11-18 10:24:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyWayRadio_GLEAM_9MB.mp4
+INFO     2025-11-18 10:24:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-19 02:03:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-19 02:03:13 [scraper.py:47] 📥 [APOD] Title: The Galactic Plane: Radio Versus Visible
+INFO     2025-11-19 02:03:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyWayRadio_GLEAM_9MB.mp4
+INFO     2025-11-19 02:03:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-19 05:26:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-19 05:26:06 [scraper.py:47] 📥 [APOD] Title: Chamaeleon Dark Nebulas
+INFO     2025-11-19 05:26:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg
+INFO     2025-11-19 05:26:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-19 10:23:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-19 10:23:53 [scraper.py:47] 📥 [APOD] Title: Chamaeleon Dark Nebulas
+INFO     2025-11-19 10:23:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg
+INFO     2025-11-19 10:23:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-20 02:01:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-20 02:01:31 [scraper.py:47] 📥 [APOD] Title: Chamaeleon Dark Nebulas
+INFO     2025-11-20 02:01:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg
+INFO     2025-11-20 02:01:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-20 05:25:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-20 05:25:12 [scraper.py:47] 📥 [APOD] Title: Alnitak, Alnilam, Mintaka
+INFO     2025-11-20 05:25:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg
+INFO     2025-11-20 05:25:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-20 10:22:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-20 10:22:35 [scraper.py:47] 📥 [APOD] Title: Alnitak, Alnilam, Mintaka
+INFO     2025-11-20 10:22:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg
+INFO     2025-11-20 10:22:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-21 02:02:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-21 02:02:24 [scraper.py:47] 📥 [APOD] Title: Alnitak, Alnilam, Mintaka
+INFO     2025-11-21 02:02:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg
+INFO     2025-11-21 02:02:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-21 05:25:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-21 05:25:56 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS: A View from Planet Earth
+INFO     2025-11-21 05:25:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg
+INFO     2025-11-21 05:25:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-21 10:21:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-21 10:21:38 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS: A View from Planet Earth
+INFO     2025-11-21 10:21:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg
+INFO     2025-11-21 10:21:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-22 01:58:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-22 01:58:17 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS: A View from Planet Earth
+INFO     2025-11-22 01:58:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg
+INFO     2025-11-22 01:58:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-22 05:23:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-22 05:23:32 [scraper.py:47] 📥 [APOD] Title: Dione and Rhea Ring Transit
+INFO     2025-11-22 05:23:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg
+INFO     2025-11-22 05:23:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-22 10:19:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-22 10:19:44 [scraper.py:47] 📥 [APOD] Title: Dione and Rhea Ring Transit
+INFO     2025-11-22 10:19:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg
+INFO     2025-11-22 10:19:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-23 02:23:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-23 02:23:38 [scraper.py:47] 📥 [APOD] Title: Dione and Rhea Ring Transit
+INFO     2025-11-23 02:23:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg
+INFO     2025-11-23 02:23:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-23 05:24:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-23 05:24:31 [scraper.py:47] 📥 [APOD] Title: The Observable Universe
+INFO     2025-11-23 05:24:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg
+INFO     2025-11-23 05:24:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-23 10:19:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-23 10:19:57 [scraper.py:47] 📥 [APOD] Title: The Observable Universe
+INFO     2025-11-23 10:19:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg
+INFO     2025-11-23 10:19:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-24 02:11:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-24 02:11:35 [scraper.py:47] 📥 [APOD] Title: The Observable Universe
+INFO     2025-11-24 02:11:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg
+INFO     2025-11-24 02:11:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-24 05:27:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-24 05:27:00 [scraper.py:47] 📥 [APOD] Title: Apep: Unusual Dust Shells from Webb
+INFO     2025-11-24 05:27:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg
+INFO     2025-11-24 05:27:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-24 10:24:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-24 10:24:27 [scraper.py:47] 📥 [APOD] Title: Apep: Unusual Dust Shells from Webb
+INFO     2025-11-24 10:24:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg
+INFO     2025-11-24 10:24:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-25 02:04:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-25 02:04:49 [scraper.py:47] 📥 [APOD] Title: Apep: Unusual Dust Shells from Webb
+INFO     2025-11-25 02:04:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg
+INFO     2025-11-25 02:04:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-25 05:26:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-25 05:26:32 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon and the Milky Way
+INFO     2025-11-25 05:26:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg
+INFO     2025-11-25 05:26:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-25 10:24:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-25 10:24:54 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon and the Milky Way
+INFO     2025-11-25 10:24:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg
+INFO     2025-11-25 10:24:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-26 02:05:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-26 02:05:09 [scraper.py:47] 📥 [APOD] Title: Comet Lemmon and the Milky Way
+INFO     2025-11-26 02:05:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg
+INFO     2025-11-26 02:05:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-26 05:25:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-26 05:25:47 [scraper.py:47] 📥 [APOD] Title: Globular Cluster M15 Deep Field
+INFO     2025-11-26 05:25:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg
+INFO     2025-11-26 05:25:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-26 10:23:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-26 10:23:59 [scraper.py:47] 📥 [APOD] Title: Globular Cluster M15 Deep Field
+INFO     2025-11-26 10:23:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg
+INFO     2025-11-26 10:23:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-27 02:02:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-27 02:02:36 [scraper.py:47] 📥 [APOD] Title: Globular Cluster M15 Deep Field
+INFO     2025-11-27 02:02:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg
+INFO     2025-11-27 02:02:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-27 05:26:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-27 05:26:27 [scraper.py:47] 📥 [APOD] Title: Portrait of NGC 1055
+INFO     2025-11-27 05:26:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg
+INFO     2025-11-27 05:26:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-27 10:23:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-27 10:23:58 [scraper.py:47] 📥 [APOD] Title: Portrait of NGC 1055
+INFO     2025-11-27 10:23:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg
+INFO     2025-11-27 10:23:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-28 02:02:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-28 02:02:09 [scraper.py:47] 📥 [APOD] Title: Portrait of NGC 1055
+INFO     2025-11-28 02:02:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg
+INFO     2025-11-28 02:02:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-28 05:26:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-28 05:26:14 [scraper.py:47] 📥 [APOD] Title: NGC 6888: The Crescent Nebula
+INFO     2025-11-28 05:26:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg
+INFO     2025-11-28 05:26:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-28 10:23:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-28 10:23:21 [scraper.py:47] 📥 [APOD] Title: NGC 6888: The Crescent Nebula
+INFO     2025-11-28 10:23:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg
+INFO     2025-11-28 10:23:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-29 02:01:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-29 02:02:00 [scraper.py:47] 📥 [APOD] Title: NGC 6888: The Crescent Nebula
+INFO     2025-11-29 02:02:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg
+INFO     2025-11-29 02:02:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-29 05:24:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-29 05:24:55 [scraper.py:47] 📥 [APOD] Title: Moon Games
+INFO     2025-11-29 05:24:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg
+INFO     2025-11-29 05:24:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-29 10:20:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-29 10:20:34 [scraper.py:47] 📥 [APOD] Title: Moon Games
+INFO     2025-11-29 10:20:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg
+INFO     2025-11-29 10:20:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-30 02:22:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-30 02:22:14 [scraper.py:47] 📥 [APOD] Title: Moon Games
+INFO     2025-11-30 02:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg
+INFO     2025-11-30 02:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-30 05:25:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-30 05:25:30 [scraper.py:47] 📥 [APOD] Title: The Surface of Titan from Huygens
+INFO     2025-11-30 05:25:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg
+INFO     2025-11-30 05:25:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-11-30 10:20:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-11-30 10:20:02 [scraper.py:47] 📥 [APOD] Title: The Surface of Titan from Huygens
+INFO     2025-11-30 10:20:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg
+INFO     2025-11-30 10:20:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-01 02:31:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-01 02:31:08 [scraper.py:47] 📥 [APOD] Title: The Surface of Titan from Huygens
+INFO     2025-12-01 02:31:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg
+INFO     2025-12-01 02:31:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-01 05:33:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-01 05:33:27 [scraper.py:47] 📥 [APOD] Title: 3I ATLAS: Tails of an Interstellar Comet
+INFO     2025-12-01 05:33:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg
+INFO     2025-12-01 05:33:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-01 10:25:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-01 10:25:25 [scraper.py:47] 📥 [APOD] Title: 3I ATLAS: Tails of an Interstellar Comet
+INFO     2025-12-01 10:25:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg
+INFO     2025-12-01 10:25:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-02 02:06:56 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-02 02:06:56 [scraper.py:47] 📥 [APOD] Title: 3I ATLAS: Tails of an Interstellar Comet
+INFO     2025-12-02 02:06:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg
+INFO     2025-12-02 02:06:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-02 05:25:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-02 05:25:41 [scraper.py:47] 📥 [APOD] Title: M77: Spiral Galaxy with an Active Center
+INFO     2025-12-02 05:25:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg
+INFO     2025-12-02 05:25:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-02 10:24:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-02 10:24:20 [scraper.py:47] 📥 [APOD] Title: M77: Spiral Galaxy with an Active Center
+INFO     2025-12-02 10:24:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg
+INFO     2025-12-02 10:24:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-03 02:06:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-03 02:06:38 [scraper.py:47] 📥 [APOD] Title: M77: Spiral Galaxy with an Active Center
+INFO     2025-12-03 02:06:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg
+INFO     2025-12-03 02:06:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-03 05:26:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-03 05:26:11 [scraper.py:47] 📥 [APOD] Title: Visualization: Near a Black Hole and Disk
+INFO     2025-12-03 05:26:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg
+INFO     2025-12-03 05:26:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-03 10:27:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-03 10:27:41 [scraper.py:47] 📥 [APOD] Title: Visualization: Near a Black Hole and Disk
+INFO     2025-12-03 10:27:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg
+INFO     2025-12-03 10:27:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-04 02:07:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-04 02:07:42 [scraper.py:47] 📥 [APOD] Title: Visualization: Near a Black Hole and Disk
+INFO     2025-12-04 02:07:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg
+INFO     2025-12-04 02:07:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-04 05:26:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-04 05:26:18 [scraper.py:47] 📥 [APOD] Title: Galaxies in the Furnace
+INFO     2025-12-04 05:26:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg
+INFO     2025-12-04 05:26:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-04 10:26:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-04 10:26:04 [scraper.py:47] 📥 [APOD] Title: Galaxies in the Furnace
+INFO     2025-12-04 10:26:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg
+INFO     2025-12-04 10:26:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-05 02:07:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-05 02:07:52 [scraper.py:47] 📥 [APOD] Title: Galaxies in the Furnace
+INFO     2025-12-05 02:07:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod1024.jpg
+INFO     2025-12-05 02:07:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-05 05:26:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-05 05:26:33 [scraper.py:47] 📥 [APOD] Title: The Bipolar Jets of KX Andromedae
+INFO     2025-12-05 05:26:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg
+INFO     2025-12-05 05:26:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-05 10:23:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-05 10:23:07 [scraper.py:47] 📥 [APOD] Title: The Bipolar Jets of KX Andromedae
+INFO     2025-12-05 10:23:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg
+INFO     2025-12-05 10:23:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-06 02:01:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-06 02:01:19 [scraper.py:47] 📥 [APOD] Title: The Bipolar Jets of KX Andromedae
+INFO     2025-12-06 02:01:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/KXAnd1024.jpg
+INFO     2025-12-06 02:01:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-06 05:24:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-06 05:24:40 [scraper.py:47] 📥 [APOD] Title: Apollo 17 at Shorty Crater
+INFO     2025-12-06 05:24:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg
+INFO     2025-12-06 05:24:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-06 10:20:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-06 10:20:32 [scraper.py:47] 📥 [APOD] Title: Apollo 17 at Shorty Crater
+INFO     2025-12-06 10:20:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg
+INFO     2025-12-06 10:20:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-07 02:22:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-07 02:23:00 [scraper.py:47] 📥 [APOD] Title: Apollo 17 at Shorty Crater
+INFO     2025-12-07 02:23:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg
+INFO     2025-12-07 02:23:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-07 05:24:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-07 05:24:04 [scraper.py:47] 📥 [APOD] Title: The Sun and Its Missing Colors
+INFO     2025-12-07 05:24:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg
+INFO     2025-12-07 05:24:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-07 10:19:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-07 10:19:26 [scraper.py:47] 📥 [APOD] Title: The Sun and Its Missing Colors
+INFO     2025-12-07 10:19:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg
+INFO     2025-12-07 10:19:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-08 02:09:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-08 02:09:05 [scraper.py:47] 📥 [APOD] Title: The Sun and Its Missing Colors
+INFO     2025-12-08 02:09:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg
+INFO     2025-12-08 02:09:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-08 05:28:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-12-08 05:28:36 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-12-08 10:25:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-12-08 10:25:21 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-12-09 02:07:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-12-09 02:07:33 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-12-09 05:26:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-09 05:26:27 [scraper.py:47] 📥 [APOD] Title: The Heart of the Soul Nebula
+INFO     2025-12-09 05:26:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg
+INFO     2025-12-09 05:26:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-09 10:26:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-09 10:26:12 [scraper.py:47] 📥 [APOD] Title: The Heart of the Soul Nebula
+INFO     2025-12-09 10:26:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg
+INFO     2025-12-09 10:26:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-10 02:09:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-10 02:09:59 [scraper.py:47] 📥 [APOD] Title: The Heart of the Soul Nebula
+INFO     2025-12-10 02:09:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg
+INFO     2025-12-10 02:09:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-10 05:27:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-10 05:27:20 [scraper.py:47] 📥 [APOD] Title: The Horsehead Nebula
+INFO     2025-12-10 05:27:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg
+INFO     2025-12-10 05:27:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-10 10:26:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-10 10:26:13 [scraper.py:47] 📥 [APOD] Title: The Horsehead Nebula
+INFO     2025-12-10 10:26:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg
+INFO     2025-12-10 10:26:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-11 02:11:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-11 02:11:24 [scraper.py:47] 📥 [APOD] Title: The Horsehead Nebula
+INFO     2025-12-11 02:11:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg
+INFO     2025-12-11 02:11:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-11 05:28:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-11 05:28:29 [scraper.py:47] 📥 [APOD] Title: Galaxies in the River
+INFO     2025-12-11 05:28:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg
+INFO     2025-12-11 05:28:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-11 10:26:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-11 10:26:47 [scraper.py:47] 📥 [APOD] Title: Galaxies in the River
+INFO     2025-12-11 10:26:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg
+INFO     2025-12-11 10:26:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-12 02:11:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-12 02:11:23 [scraper.py:47] 📥 [APOD] Title: Galaxies in the River
+INFO     2025-12-12 02:11:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg
+INFO     2025-12-12 02:11:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-12 05:28:04 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-12 05:28:05 [scraper.py:47] 📥 [APOD] Title: Northern Fox Fires
+INFO     2025-12-12 05:28:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg
+INFO     2025-12-12 05:28:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-12 10:25:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-12 10:25:07 [scraper.py:47] 📥 [APOD] Title: Northern Fox Fires
+INFO     2025-12-12 10:25:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg
+INFO     2025-12-12 10:25:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-13 02:04:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-13 02:04:17 [scraper.py:47] 📥 [APOD] Title: Northern Fox Fires
+INFO     2025-12-13 02:04:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg
+INFO     2025-12-13 02:04:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-13 05:26:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-13 05:26:56 [scraper.py:47] 📥 [APOD] Title: Orion and the Ocean of Storms
+INFO     2025-12-13 05:26:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
+INFO     2025-12-13 05:26:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-13 10:20:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-13 10:20:36 [scraper.py:47] 📥 [APOD] Title: Orion and the Ocean of Storms
+INFO     2025-12-13 10:20:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
+INFO     2025-12-13 10:20:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-14 02:23:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-14 02:23:45 [scraper.py:47] 📥 [APOD] Title: Orion and the Ocean of Storms
+INFO     2025-12-14 02:23:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
+INFO     2025-12-14 02:23:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
+INFO     2025-12-14 05:25:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-12-14 05:25:58 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
+INFO     2025-12-14 10:20:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2025-12-14 10:20:46 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
