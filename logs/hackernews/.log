@@ -13825,3 +13825,36 @@ INFO     2025-12-14 10:20:48 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-12-14 10:20:48 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-14 10:20:48 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-14 14:39:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-14 14:39:32 [scraper.py:170] 📥 [HN #1] AI and the ironies of automation – Part 2
+INFO     2025-12-14 14:39:32 [scraper.py:171] 🔗 [HN #1] URL: https://www.ufried.com/blog/ironies_of_ai_2/
+INFO     2025-12-14 14:39:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-14 14:39:32 [scraper.py:170] 📥 [HN #2] Apple Maps claims it's 29,905 miles away
+INFO     2025-12-14 14:39:32 [scraper.py:171] 🔗 [HN #2] URL: https://mathstodon.xyz/@dpiponi/115651419771418748
+INFO     2025-12-14 14:39:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-14 14:39:32 [scraper.py:170] 📥 [HN #3] Linux Sandboxes and Fil-C
+INFO     2025-12-14 14:39:32 [scraper.py:171] 🔗 [HN #3] URL: https://fil-c.org/seccomp
+INFO     2025-12-14 14:39:32 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-14 14:39:32 [scraper.py:170] 📥 [HN #4] Using Git add -p for fun (and profit)
+INFO     2025-12-14 14:39:32 [scraper.py:171] 🔗 [HN #4] URL: https://techne98.com/blog/using-git-add-p/
+INFO     2025-12-14 14:39:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-14 14:39:32 [scraper.py:170] 📥 [HN #5] Kimi K2 1T model runs on 2 512GB M3 Ultras
+INFO     2025-12-14 14:39:32 [scraper.py:171] 🔗 [HN #5] URL: https://twitter.com/awnihannun/status/1943723599971443134
+INFO     2025-12-14 14:39:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:170] 📥 [HN #6] Dagger: Define software delivery workflows and dev environments
+INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #6] URL: https://dagger.io/
+INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:170] 📥 [HN #7] Using e-ink tablet as monitor for Linux
+INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #7] URL: https://alavi.me/blog/e-ink-tablet-as-monitor-linux/
+INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:170] 📥 [HN #8] Compiler Engineering in Practice
+INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #8] URL: https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html
+INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:170] 📥 [HN #9] Europeans' health data sold to US firm run by ex-Israeli spies
+INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #9] URL: https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies
+INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:170] 📥 [HN #10] Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem
+INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #10] URL: https://trigger.dev/blog/shai-hulud-postmortem
+INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-14 14:39:33 [scraper.py:178] 🎉 [HN] All done.
+
