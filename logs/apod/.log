@@ -2064,3 +2064,8 @@ INFO     2025-12-13 10:20:36 [scraper.py:47] 📥 [APOD] Title: Orion and the Oc
 INFO     2025-12-13 10:20:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
 INFO     2025-12-13 10:20:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-14 02:23:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-14 02:23:45 [scraper.py:47] 📥 [APOD] Title: Orion and the Ocean of Storms
+INFO     2025-12-14 02:23:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg
+INFO     2025-12-14 02:23:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

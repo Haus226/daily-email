@@ -13726,3 +13726,36 @@ INFO     2025-12-13 10:20:37 [scraper.py:172] 🔗 [HN #10] URL: https://github.
 INFO     2025-12-13 10:20:37 [scraper.py:175] ✅ [HN #10] Done ✅
 INFO     2025-12-13 10:20:37 [scraper.py:179] 🎉 [HN] All done.
 
+INFO     2025-12-14 02:23:45 [scraper.py:162] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-14 02:23:45 [scraper.py:171] 📥 [HN #1] Linux Sandboxes and Fil-C
+INFO     2025-12-14 02:23:45 [scraper.py:172] 🔗 [HN #1] URL: https://fil-c.org/seccomp
+INFO     2025-12-14 02:23:45 [scraper.py:175] ✅ [HN #1] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #2] Closures as Win32 Window Procedures
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #2] URL: https://nullprogram.com/blog/2025/12/12/
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #2] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #3] Recovering Anthony Bourdain's (really) lost Li.st's
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #3] URL: https://sandyuraz.com/blogs/bourdain/
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #3] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #4] I tried Gleam for Advent of Code
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #4] URL: https://blog.tymscar.com/posts/gleamaoc2025/
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #4] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #5] I fed 24 years of my blog posts to a Markov model
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #5] URL: https://susam.net/fed-24-years-of-posts-to-markov-model.html
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #5] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #6] VPN location claims don't match real traffic exits
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #6] URL: https://ipinfo.io/blog/vpn-location-mismatch-report
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #6] Done ✅
+INFO     2025-12-14 02:23:46 [scraper.py:171] 📥 [HN #7] An Implementation of J
+INFO     2025-12-14 02:23:46 [scraper.py:172] 🔗 [HN #7] URL: https://www.jsoftware.com/ioj/ioj.htm
+INFO     2025-12-14 02:23:46 [scraper.py:175] ✅ [HN #7] Done ✅
+INFO     2025-12-14 02:23:47 [scraper.py:171] 📥 [HN #8] Cat Gap
+INFO     2025-12-14 02:23:47 [scraper.py:172] 🔗 [HN #8] URL: https://en.wikipedia.org/wiki/Cat_gap
+INFO     2025-12-14 02:23:47 [scraper.py:175] ✅ [HN #8] Done ✅
+INFO     2025-12-14 02:23:47 [scraper.py:171] 📥 [HN #9] Using E-Ink tablet as monitor for Linux
+INFO     2025-12-14 02:23:47 [scraper.py:172] 🔗 [HN #9] URL: https://alavi.me/blog/e-ink-tablet-as-monitor-linux/
+INFO     2025-12-14 02:23:47 [scraper.py:175] ✅ [HN #9] Done ✅
+INFO     2025-12-14 02:23:47 [scraper.py:171] 📥 [HN #10] The Rise of Computer Games, Part I: Adventure
+INFO     2025-12-14 02:23:47 [scraper.py:172] 🔗 [HN #10] URL: https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/
+INFO     2025-12-14 02:23:47 [scraper.py:175] ✅ [HN #10] Done ✅
+INFO     2025-12-14 02:23:47 [scraper.py:179] 🎉 [HN] All done.
+
