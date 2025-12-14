@@ -94,7 +94,7 @@ def fetch_llm_summary(article_text: str, logger: logging.Logger) -> str:
             })
         )
         llm_summary = res.json().get("choices", [{}])[0].get("message", {}).get("content", "No summary available").strip()
-        logging.info("🤖 [EO] LLM Summary fetched successfully: {}".format(llm_summary.replace('\n', '')))
+        logger.info("🤖 [EO] LLM Summary fetched successfully: {}".format(llm_summary.replace('\n', '')))
         if "<think>" in llm_summary:
             logger.info("🤖 [EO] LLM summary contains <think> tags, cleaning up...")
             llm_summary = re.sub(r"^(<think>){1,2}(.*?)(</think>){1,2}", "", llm_summary, flags=re.DOTALL).strip()
@@ -113,22 +113,21 @@ def fetch_eo(results: Dict[str, str]):
         res = requests.get(url, timeout=10)
         soup = BeautifulSoup(res.text, "html.parser")
 
-        first_card = soup.select_one('.first-landing-cards .masonry-item')
-
-        title_tag = first_card.select_one('h4 a')
+        first_card = soup.select_one('.hds-content-item.content-list-item-post')
+        title_tag = first_card.select_one('.hds-content-item-heading .hds-a11y-heading-22')
         title = title_tag.text.strip() if title_tag else "No Title Found"
-        link = f"https://earthobservatory.nasa.gov{title_tag['href']}" if title_tag else "#"
 
-        res = requests.get(link, timeout=10)
+        article_link_tag = first_card.find('a', href=True)
+        res = requests.get(article_link_tag['href'], timeout=10)
         article_soup = BeautifulSoup(res.text, "html.parser")
-        article = article_soup.find("div", class_="col-lg-8 col-md-8 col-sm-8 col-xs-12 col-md-right-space col-md-bottom-space").find_all("p")
+        article = article_soup.find("div", class_="entry-content").find_all("p")
         article_text = " ".join(p.text.strip() for p in article)
         llm_summary = fetch_llm_summary(article_text, logger)
 
-        media_tag = first_card.select_one('.thumbnail-image img')
+        media_tag = first_card.select_one('.hds-media-background img')
         media_url = media_tag['src'] if media_tag else ""
 
-        caption_tag = first_card.select_one('.caption p')
+        caption_tag = first_card.select_one('.hds-content-item-inner p')
         caption = caption_tag.text.strip() if caption_tag else "No Summary Found"
 
         logger.info("📥 [EO] Title: %s", title)
@@ -141,7 +140,7 @@ def fetch_eo(results: Dict[str, str]):
             </div>
             <div>
                 <h3>{title}</h3>
-                <p>{caption} <a href='{link}' target='_blank'>[Read more]</a></p>
+                <p>{caption} <a href='{article_link_tag['href']}' target='_blank'>[Read more]</a></p>
                 <div style='background: #f0f8f0; padding: 15px; border-radius: 8px; border-left: 4px solid #2d5016; margin-top: 20px;'>
                     <p>
                         <strong>🤖 AI Summary:</strong> {llm_summary}
@@ -457,3 +456,5 @@ def fetch_tarot(results: Dict[str, str]):
     except Exception as e:
         logger.error("❌ [TAROT] Failed to fetch: %s\n", e)
         results["tarot"] = "<div style='text-align: center; color: #e74c3c; padding: 2rem;'>🚫 Failed to load Tarot Card of the Day</div>"
+
+fetch_eo({})
