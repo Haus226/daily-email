@@ -13924,3 +13924,36 @@ INFO     2025-12-15 05:31:23 [scraper.py:171] 🔗 [HN #10] URL: https://www.vol
 INFO     2025-12-15 05:31:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-15 05:31:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-15 10:27:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-15 10:27:55 [scraper.py:170] 📥 [HN #1] Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’
+INFO     2025-12-15 10:27:55 [scraper.py:171] 🔗 [HN #1] URL: https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/
+INFO     2025-12-15 10:27:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-15 10:27:55 [scraper.py:170] 📥 [HN #2] Arborium: Tree-sitter code highlighting with Native and WASM targets
+INFO     2025-12-15 10:27:55 [scraper.py:171] 🔗 [HN #2] URL: https://arborium.bearcove.eu/
+INFO     2025-12-15 10:27:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-15 10:27:55 [scraper.py:170] 📥 [HN #3] Unscii
+INFO     2025-12-15 10:27:55 [scraper.py:171] 🔗 [HN #3] URL: http://viznut.fi/unscii/
+INFO     2025-12-15 10:27:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-15 10:27:56 [scraper.py:170] 📥 [HN #4] Ask HN: What Are You Working On? (December 2025)
+INFO     2025-12-15 10:27:56 [scraper.py:171] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=46264491
+INFO     2025-12-15 10:27:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-15 10:27:56 [scraper.py:170] 📥 [HN #5] Roomba maker goes bankrupt, Chinese owner emerges
+INFO     2025-12-15 10:27:56 [scraper.py:171] 🔗 [HN #5] URL: https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years
+INFO     2025-12-15 10:27:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-15 10:27:56 [scraper.py:170] 📥 [HN #6] $5 whale listening hydrophone making workshop
+INFO     2025-12-15 10:27:56 [scraper.py:171] 🔗 [HN #6] URL: https://exclav.es/2025/08/03/dinacon-2025-passive-acoustic-listening/
+INFO     2025-12-15 10:27:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-15 10:27:56 [scraper.py:170] 📥 [HN #7] The Whole App is a Blob
+INFO     2025-12-15 10:27:56 [scraper.py:171] 🔗 [HN #7] URL: https://drobinin.com/posts/the-whole-app-is-a-blob/
+INFO     2025-12-15 10:27:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-15 10:27:56 [scraper.py:170] 📥 [HN #8] John Varley has died
+INFO     2025-12-15 10:27:56 [scraper.py:171] 🔗 [HN #8] URL: http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html
+INFO     2025-12-15 10:27:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-15 10:27:57 [scraper.py:170] 📥 [HN #9] Common Rust Lifetime Misconceptions
+INFO     2025-12-15 10:27:57 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+INFO     2025-12-15 10:27:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-15 10:27:57 [scraper.py:170] 📥 [HN #10] If AI replaces workers, should it also pay taxes?
+INFO     2025-12-15 10:27:57 [scraper.py:171] 🔗 [HN #10] URL: https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html
+INFO     2025-12-15 10:27:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-15 10:27:57 [scraper.py:178] 🎉 [HN] All done.
+
