@@ -13858,3 +13858,36 @@ INFO     2025-12-14 14:39:33 [scraper.py:171] 🔗 [HN #10] URL: https://trigger
 INFO     2025-12-14 14:39:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-14 14:39:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-15 02:21:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-15 02:21:28 [scraper.py:170] 📥 [HN #1] 2002: Last.fm and Audioscrobbler Herald the Social Web
+INFO     2025-12-15 02:21:28 [scraper.py:171] 🔗 [HN #1] URL: https://cybercultural.com/p/lastfm-audioscrobbler-2002/
+INFO     2025-12-15 02:21:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-15 02:21:29 [scraper.py:170] 📥 [HN #2] CapROS: The Capability-Based Reliable Operating System
+INFO     2025-12-15 02:21:29 [scraper.py:171] 🔗 [HN #2] URL: https://www.capros.org/
+INFO     2025-12-15 02:21:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-15 02:21:29 [scraper.py:170] 📥 [HN #3] Elevated errors across many models
+INFO     2025-12-15 02:21:29 [scraper.py:171] 🔗 [HN #3] URL: https://status.claude.com/incidents/9g6qpr72ttbr
+INFO     2025-12-15 02:21:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-15 02:21:29 [scraper.py:170] 📥 [HN #4] JSDoc is TypeScript
+INFO     2025-12-15 02:21:29 [scraper.py:171] 🔗 [HN #4] URL: https://culi.bearblog.dev/jsdoc-is-typescript/
+INFO     2025-12-15 02:21:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-15 02:21:29 [scraper.py:170] 📥 [HN #5] Hashcards: A plain-text spaced repetition system
+INFO     2025-12-15 02:21:29 [scraper.py:171] 🔗 [HN #5] URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition
+INFO     2025-12-15 02:21:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-15 02:21:29 [scraper.py:170] 📥 [HN #6] Ask HN: What Are You Working On? (December 2025)
+INFO     2025-12-15 02:21:29 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=46264491
+INFO     2025-12-15 02:21:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-15 02:21:30 [scraper.py:170] 📥 [HN #7] History of Declarative Programming
+INFO     2025-12-15 02:21:30 [scraper.py:171] 🔗 [HN #7] URL: https://shenlanguage.org/TBoS/tbos_15.html
+INFO     2025-12-15 02:21:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-15 02:21:30 [scraper.py:170] 📥 [HN #8] In the Beginning was the Command Line (1999)
+INFO     2025-12-15 02:21:30 [scraper.py:171] 🔗 [HN #8] URL: https://web.stanford.edu/class/cs81n/command.txt
+INFO     2025-12-15 02:21:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-15 02:21:30 [scraper.py:170] 📥 [HN #9] An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter
+INFO     2025-12-15 02:21:30 [scraper.py:171] 🔗 [HN #9] URL: https://im-just-lee.ing/forth-why-cb234c03.txt
+INFO     2025-12-15 02:21:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-15 02:21:30 [scraper.py:170] 📥 [HN #10] Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted
+INFO     2025-12-15 02:21:30 [scraper.py:171] 🔗 [HN #10] URL: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted
+INFO     2025-12-15 02:21:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-15 02:21:30 [scraper.py:178] 🎉 [HN] All done.
+
