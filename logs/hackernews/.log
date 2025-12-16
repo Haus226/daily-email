@@ -13990,3 +13990,36 @@ INFO     2025-12-16 02:12:28 [scraper.py:171] 🔗 [HN #10] URL: https://nanohub
 INFO     2025-12-16 02:12:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-16 02:12:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-16 05:28:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-16 05:28:37 [scraper.py:170] 📥 [HN #1] Quill OS: An open-source OS for Kobo's eReaders
+INFO     2025-12-16 05:28:37 [scraper.py:171] 🔗 [HN #1] URL: https://quill-os.org/
+INFO     2025-12-16 05:28:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #2] Sharp
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #2] URL: https://apple.github.io/ml-sharp/
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #3] 8M users' AI conversations sold for profit by "privacy" extensions
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #3] URL: https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #4] Native vs. emulation: World of Warcraft game performance on Snapdragon X Elite
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #4] URL: https://rkblog.dev/posts/pc-hardware/pc-on-arm/x86_versus_arm_native_game/
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #5] “Are you the one?” is free money
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #5] URL: https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #6] Nature's many attempts to evolve a Nostr
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #6] URL: https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-16 05:28:38 [scraper.py:170] 📥 [HN #7] Show HN: I designed my own 3D printer motherboard
+INFO     2025-12-16 05:28:38 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/KaiPereira/Cheetah-MX4-Mini
+INFO     2025-12-16 05:28:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-16 05:28:39 [scraper.py:170] 📥 [HN #8] Essential Semiconductor Physics [pdf]
+INFO     2025-12-16 05:28:39 [scraper.py:171] 🔗 [HN #8] URL: https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
+INFO     2025-12-16 05:28:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-16 05:28:39 [scraper.py:170] 📥 [HN #9] Economics of Orbital vs. Terrestrial Data Centers
+INFO     2025-12-16 05:28:39 [scraper.py:171] 🔗 [HN #9] URL: https://andrewmccalip.com/space-datacenters
+INFO     2025-12-16 05:28:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-16 05:28:39 [scraper.py:170] 📥 [HN #10] Ford kills the All-Electric F-150
+INFO     2025-12-16 05:28:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/
+INFO     2025-12-16 05:28:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-16 05:28:39 [scraper.py:178] 🎉 [HN] All done.
+
