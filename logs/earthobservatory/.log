@@ -2780,3 +2780,24 @@ INFO     2025-12-15 10:27:56 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2025-12-15 10:27:56 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2025-12-16 02:12:03 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-16 02:12:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-16 02:12:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: Seasonal air pollution across northern India's Indo-Gangetic Plain from October to December is significantly driven by post-harvest rice stubble burning in Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh. In 2025, air quality deteriorated for approximately one month following intensified crop fires after October's end, with pollution levels exceeding India's air quality index maximum of 400 during multiple days in November. Satellite observations revealed a shift in fire timing: while historically peaking between 1–2 p.m. local time, fires now predominantly occur 4–6 p.m., causing traditional monitoring systems like MODIS to miss many events. Stubble burning intensity in 2025 was moderate compared to recent years, higher than 2024, 2020, and 2019 but lower than 2023, 2022, and 2021. The contribution of stubble burning to Delhi's pollution remains debated, with estimates ranging from 10% to 50% daily; a NASA scientist suggests 40–70% on peak days but under 10% annually, influenced by meteorological conditions like shallow boundary layers that promote pollutant accumulation, particularly during evening fires.
+INFO     2025-12-16 02:12:26 [scraper.py:133] 📥 [EO] Title: New Timing for Stubble Burning in India
+INFO     2025-12-16 02:12:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/new-timing-for-stubble-burning-in-india/indiastubbleburning_amo_20251111_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-16 02:12:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-16 02:12:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-16 02:12:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-16 02:12:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-16 02:12:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-16 02:12:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2025-12-16 02:12:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2025-12-16 02:12:27 [scraper.py:133] 📥 [EO] Title: New Timing for Stubble Burning in India
+INFO     2025-12-16 02:12:27 [scraper.py:133] 📥 [EO] Title: New Timing for Stubble Burning in India
+INFO     2025-12-16 02:12:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/new-timing-for-stubble-burning-in-india/indiastubbleburning_amo_20251111_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-16 02:12:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/new-timing-for-stubble-burning-in-india/indiastubbleburning_amo_20251111_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-16 02:12:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-16 02:12:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+

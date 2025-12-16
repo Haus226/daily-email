@@ -13957,3 +13957,36 @@ INFO     2025-12-15 10:27:57 [scraper.py:171] 🔗 [HN #10] URL: https://english
 INFO     2025-12-15 10:27:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-15 10:27:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-16 02:12:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-16 02:12:26 [scraper.py:170] 📥 [HN #1] Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders
+INFO     2025-12-16 02:12:26 [scraper.py:171] 🔗 [HN #1] URL: https://quill-os.org/
+INFO     2025-12-16 02:12:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-16 02:12:26 [scraper.py:170] 📥 [HN #2] Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable
+INFO     2025-12-16 02:12:26 [scraper.py:171] 🔗 [HN #2] URL: https://johnlian.net/posts/hdmi-cec/
+INFO     2025-12-16 02:12:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #3] Ideas Aren't Getting Harder to Find
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #3] URL: https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #4] Show HN: PasteClean – Desktop app to strip tracking parameters from clipboard
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #4] URL: https://iixotic.github.io/PasteClean/website/
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #5] Nature's many attempts to evolve a Nostr
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #5] URL: https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #6] “Are you the one?” is free money
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #6] URL: https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #7] Rollstack (YC W23) Is Hiring Multiple Software Engineers (TypeScript) US/Canada
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-16 02:12:27 [scraper.py:170] 📥 [HN #8] Understanding Carriage
+INFO     2025-12-16 02:12:27 [scraper.py:171] 🔗 [HN #8] URL: https://seths.blog/2025/12/understanding-carriage/
+INFO     2025-12-16 02:12:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-16 02:12:28 [scraper.py:170] 📥 [HN #9] SoundCloud confirms breach after member data stolen, VPN access disrupted
+INFO     2025-12-16 02:12:28 [scraper.py:171] 🔗 [HN #9] URL: https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/
+INFO     2025-12-16 02:12:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-16 02:12:28 [scraper.py:170] 📥 [HN #10] Essential Semiconductor Physics [pdf]
+INFO     2025-12-16 02:12:28 [scraper.py:171] 🔗 [HN #10] URL: https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf
+INFO     2025-12-16 02:12:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-16 02:12:28 [scraper.py:178] 🎉 [HN] All done.
+
