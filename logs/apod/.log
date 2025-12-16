@@ -2101,3 +2101,8 @@ INFO     2025-12-16 05:28:38 [scraper.py:47] 📥 [APOD] Title: Andromeda and Sp
 INFO     2025-12-16 05:28:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg
 INFO     2025-12-16 05:28:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-16 10:26:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-16 10:26:47 [scraper.py:47] 📥 [APOD] Title: Andromeda and Sprites over Australia
+INFO     2025-12-16 10:26:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg
+INFO     2025-12-16 10:26:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
