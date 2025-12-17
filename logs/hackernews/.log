@@ -14056,3 +14056,36 @@ INFO     2025-12-16 10:26:48 [scraper.py:171] 🔗 [HN #10] URL: https://lowkpro
 INFO     2025-12-16 10:26:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-16 10:26:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-17 02:08:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-17 02:08:23 [scraper.py:170] 📥 [HN #1] AI will make formal verification go mainstream
+INFO     2025-12-17 02:08:23 [scraper.py:171] 🔗 [HN #1] URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+INFO     2025-12-17 02:08:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-17 02:08:23 [scraper.py:170] 📥 [HN #2] alpr.watch
+INFO     2025-12-17 02:08:23 [scraper.py:171] 🔗 [HN #2] URL: https://alpr.watch/
+INFO     2025-12-17 02:08:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-17 02:08:23 [scraper.py:170] 📥 [HN #3] No Graphics API
+INFO     2025-12-17 02:08:23 [scraper.py:171] 🔗 [HN #3] URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+INFO     2025-12-17 02:08:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #4] Announcing the Beta release of ty
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #4] URL: https://astral.sh/blog/ty
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #5] Midjourney is alemwjsl
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #5] URL: https://www.aadillpickle.com/blog/midjourney-is-alemwjsl
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #6] No AI* Here – A Response to Mozilla's Next Chapter
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #6] URL: https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #7] GPT Image 1.5
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #7] URL: https://openai.com/index/new-chatgpt-images-is-here/
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #8] Sei AI (YC W22) Is Hiring
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #8] URL: https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-17 02:08:24 [scraper.py:170] 📥 [HN #9] I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours
+INFO     2025-12-17 02:08:24 [scraper.py:171] 🔗 [HN #9] URL: https://simonwillison.net/2025/Dec/15/porting-justhtml/
+INFO     2025-12-17 02:08:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-17 02:08:25 [scraper.py:170] 📥 [HN #10] Pricing Changes for GitHub Actions
+INFO     2025-12-17 02:08:25 [scraper.py:171] 🔗 [HN #10] URL: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
+INFO     2025-12-17 02:08:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-17 02:08:25 [scraper.py:178] 🎉 [HN] All done.
+

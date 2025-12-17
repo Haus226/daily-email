@@ -2843,3 +2843,24 @@ INFO     2025-12-16 10:26:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2025-12-16 10:26:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2025-12-17 02:06:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-17 02:06:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-17 02:08:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: La Niña returned weakly to the equatorial Pacific in September 2025 after a hiatus, persisting through December with below-average sea surface temperatures confirmed by NOAA to likely continue for one to two months. Strengthened easterly trade winds intensified upwelling of cold deep water in the eastern tropical Pacific, cooling the region and reducing sea levels due to increased water density, as observed via Sentinel-6 satellite data. This weak event complicates weather predictions, potentially tilting the American Southwest toward drier conditions but with low certainty given its mild strength and historical unpredictability of weak ENSO phases.
+INFO     2025-12-17 02:08:22 [scraper.py:133] 📥 [EO] Title: A Subtle Return of La Niña
+INFO     2025-12-17 02:08:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-subtle-return-of-la-niña-/lanina_sen6_20251201_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-17 02:08:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-17 02:08:22 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-17 02:08:22 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-17 02:08:23 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-17 02:08:23 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-17 02:08:24 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2025-12-17 02:08:24 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2025-12-17 02:08:24 [scraper.py:133] 📥 [EO] Title: A Subtle Return of La Niña
+INFO     2025-12-17 02:08:24 [scraper.py:133] 📥 [EO] Title: A Subtle Return of La Niña
+INFO     2025-12-17 02:08:24 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-subtle-return-of-la-niña-/lanina_sen6_20251201_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-17 02:08:24 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-subtle-return-of-la-niña-/lanina_sen6_20251201_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-17 02:08:24 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-17 02:08:24 [scraper.py:154] ✅ [EO] Successfully fetched.
+
