@@ -14089,3 +14089,36 @@ INFO     2025-12-17 02:08:25 [scraper.py:171] 🔗 [HN #10] URL: https://resourc
 INFO     2025-12-17 02:08:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-17 02:08:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-17 05:29:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-17 05:29:21 [scraper.py:170] 📥 [HN #1] AI will make formal verification go mainstream
+INFO     2025-12-17 05:29:21 [scraper.py:171] 🔗 [HN #1] URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+INFO     2025-12-17 05:29:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-17 05:29:21 [scraper.py:170] 📥 [HN #2] alpr.watch
+INFO     2025-12-17 05:29:21 [scraper.py:171] 🔗 [HN #2] URL: https://alpr.watch/
+INFO     2025-12-17 05:29:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #3] No Graphics API
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #3] URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #4] Announcing the Beta release of ty
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #4] URL: https://astral.sh/blog/ty
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #5] Midjourney is alemwjsl
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #5] URL: https://www.aadillpickle.com/blog/midjourney-is-alemwjsl
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #6] GPT Image 1.5
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/new-chatgpt-images-is-here/
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #7] Pricing Changes for GitHub Actions
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #7] URL: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-17 05:29:22 [scraper.py:170] 📥 [HN #8] VA Linux: The biggest dotcom IPO
+INFO     2025-12-17 05:29:22 [scraper.py:171] 🔗 [HN #8] URL: https://dfarq.homeip.net/va-linux-the-biggest-dotcom-ipo/
+INFO     2025-12-17 05:29:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-17 05:29:23 [scraper.py:170] 📥 [HN #9] Introduction to Software Development Tooling (2024)
+INFO     2025-12-17 05:29:23 [scraper.py:171] 🔗 [HN #9] URL: https://bernsteinbear.com/isdt/
+INFO     2025-12-17 05:29:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-17 05:29:23 [scraper.py:170] 📥 [HN #10] Show HN: Titan – JavaScript-first framework that compiles into a Rust server
+INFO     2025-12-17 05:29:23 [scraper.py:171] 🔗 [HN #10] URL: https://www.npmjs.com/package/@ezetgalaxy/titan
+INFO     2025-12-17 05:29:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-17 05:29:23 [scraper.py:178] 🎉 [HN] All done.
+
