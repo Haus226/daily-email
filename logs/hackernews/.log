@@ -14221,3 +14221,36 @@ INFO     2025-12-18 05:29:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.fin
 INFO     2025-12-18 05:29:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-18 05:29:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-18 10:25:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-18 10:25:15 [scraper.py:170] 📥 [HN #1] How getting richer made teenagers less free
+INFO     2025-12-18 10:25:15 [scraper.py:171] 🔗 [HN #1] URL: https://www.theargumentmag.com/p/how-getting-richer-made-teenagers
+INFO     2025-12-18 10:25:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-18 10:25:15 [scraper.py:170] 📥 [HN #2] What is an elliptic curve? (2019)
+INFO     2025-12-18 10:25:15 [scraper.py:171] 🔗 [HN #2] URL: https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/
+INFO     2025-12-18 10:25:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-18 10:25:16 [scraper.py:170] 📥 [HN #3] RCE via ND6 Router Advertisements in FreeBSD
+INFO     2025-12-18 10:25:16 [scraper.py:171] 🔗 [HN #3] URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc
+INFO     2025-12-18 10:25:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-18 10:25:16 [scraper.py:170] 📥 [HN #4] Egyptian Hieroglyphs: Lesson 1
+INFO     2025-12-18 10:25:16 [scraper.py:171] 🔗 [HN #4] URL: https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/
+INFO     2025-12-18 10:25:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-18 10:25:16 [scraper.py:170] 📥 [HN #5] It's all about momentum
+INFO     2025-12-18 10:25:16 [scraper.py:171] 🔗 [HN #5] URL: https://combo.cc/posts/its-all-about-momentum-innit/
+INFO     2025-12-18 10:25:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-18 10:25:16 [scraper.py:170] 📥 [HN #6] Gemini 3 Flash: Frontier intelligence built for speed
+INFO     2025-12-18 10:25:16 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/products/gemini/gemini-3-flash/
+INFO     2025-12-18 10:25:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-18 10:25:17 [scraper.py:170] 📥 [HN #7] GitHub Actions for Self-Hosted Runners Price Increase Postponed
+INFO     2025-12-18 10:25:17 [scraper.py:171] 🔗 [HN #7] URL: https://pricetimeline.com/news/189
+INFO     2025-12-18 10:25:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-18 10:25:17 [scraper.py:170] 📥 [HN #8] Online Textbook for Braid groups and knots and tangles
+INFO     2025-12-18 10:25:17 [scraper.py:171] 🔗 [HN #8] URL: https://matthematics.com/redoak/redoak.html
+INFO     2025-12-18 10:25:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-18 10:25:17 [scraper.py:170] 📥 [HN #9] Jonathan Blow has spent the past decade designing 1,400 puzzles for you
+INFO     2025-12-18 10:25:17 [scraper.py:171] 🔗 [HN #9] URL: https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/
+INFO     2025-12-18 10:25:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-18 10:25:17 [scraper.py:170] 📥 [HN #10] Coursera to combine with Udemy
+INFO     2025-12-18 10:25:17 [scraper.py:171] 🔗 [HN #10] URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
+INFO     2025-12-18 10:25:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-18 10:25:17 [scraper.py:178] 🎉 [HN] All done.
+
