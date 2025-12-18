@@ -2121,3 +2121,8 @@ INFO     2025-12-17 10:26:14 [scraper.py:47] 📥 [APOD] Title: W5: The Soul Neb
 INFO     2025-12-17 10:26:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg
 INFO     2025-12-17 10:26:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-18 02:07:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-18 02:07:37 [scraper.py:47] 📥 [APOD] Title: W5: The Soul Nebula
+INFO     2025-12-18 02:07:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg
+INFO     2025-12-18 02:07:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

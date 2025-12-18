@@ -14155,3 +14155,36 @@ INFO     2025-12-17 10:26:15 [scraper.py:171] 🔗 [HN #10] URL: https://plastic
 INFO     2025-12-17 10:26:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-17 10:26:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-18 02:07:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-18 02:07:37 [scraper.py:170] 📥 [HN #1] Gemini 3 Flash: Frontier intelligence built for speed
+INFO     2025-12-18 02:07:37 [scraper.py:171] 🔗 [HN #1] URL: https://blog.google/products/gemini/gemini-3-flash/
+INFO     2025-12-18 02:07:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-18 02:07:37 [scraper.py:170] 📥 [HN #2] Gut bacteria from amphibians and reptiles achieve tumor elimination in mice
+INFO     2025-12-18 02:07:37 [scraper.py:171] 🔗 [HN #2] URL: https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html
+INFO     2025-12-18 02:07:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-18 02:07:37 [scraper.py:170] 📥 [HN #3] OBS Studio Gets a New Renderer
+INFO     2025-12-18 02:07:37 [scraper.py:171] 🔗 [HN #3] URL: https://obsproject.com/blog/obs-studio-gets-a-new-renderer
+INFO     2025-12-18 02:07:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #4] My payment agent is named George, not stripe-agent
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #4] URL: https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #5] Coursera to combine with Udemy
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #5] URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #6] TikTok unlawfully tracks shopping habits and use of dating apps?
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #6] URL: https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #7] AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #7] URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #8] I got hacked: My Hetzner server started mining Monero
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #8] URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-18 02:07:38 [scraper.py:170] 📥 [HN #9] Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust
+INFO     2025-12-18 02:07:38 [scraper.py:171] 🔗 [HN #9] URL: https://pypi.org/project/wavelet-matrix/
+INFO     2025-12-18 02:07:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-18 02:07:39 [scraper.py:170] 📥 [HN #10] A Safer Container Ecosystem with Docker: Free Docker Hardened Images
+INFO     2025-12-18 02:07:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.docker.com/blog/docker-hardened-images-for-every-developer/
+INFO     2025-12-18 02:07:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-18 02:07:39 [scraper.py:178] 🎉 [HN] All done.
+
