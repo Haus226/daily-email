@@ -2990,3 +2990,24 @@ INFO     2025-12-19 02:10:47 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2025-12-19 02:10:47 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2025-12-19 05:28:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-19 05:28:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-19 05:28:38 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: A satellite image from June 16, 2025, reveals a natural formation of elongated oval lagoons near Billings village on Russia's Chukchi Peninsula, resembling a snowman when viewed from space. These thermokarst lakes formed through summer melting of subsurface ice wedges in permafrost, causing soil to slump and fill with meltwater, with wind and wave action aligning and elongating the depressions over time. The structure spans approximately 22 kilometers vertically, remaining frozen year-round due to persistent Arctic conditions, with June minimum temperatures averaging -0.6°C. The region's historical reliance on reindeer for winter transport during 18th-century expeditions, including Joseph Billings' survey, underscores the landscape's seasonal accessibility, as frozen surfaces facilitated movement compared to summer bogs.
+INFO     2025-12-19 05:28:38 [scraper.py:133] 📥 [EO] Title: A Siberian Snowman in Billings
+INFO     2025-12-19 05:28:38 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-siberian-snowman-in-billings/russia_ice_oli_20250616_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-19 05:28:38 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-19 05:28:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-19 05:28:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2025-12-19 05:28:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-19 05:28:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2025-12-19 05:29:04 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: A series of oval thermokarst lagoons in Siberia's Chukchi Peninsula forms a natural snowman-like pattern visible from satellite imagery. Captured by Landsat 8 on June 16, 2025, the 22-kilometer-tall formation results from permafrost thaw: summer melting causes ground subsidence along buried ice wedge networks, creating meltwater-filled depressions that wind and wave action elongate into aligned ovals separated by thin ridges. Despite June's status as a relatively warm month in this remote Arctic region, the lagoons and surrounding sea ice remain frozen due to persistently subzero temperatures. The phenomenon reflects common cryospheric processes in periglacial landscapes without anthropogenic influence.
+INFO     2025-12-19 05:29:04 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: A series of oval thermokarst lagoons in Siberia's Chukchi Peninsula forms a natural snowman-like pattern visible from satellite imagery. Captured by Landsat 8 on June 16, 2025, the 22-kilometer-tall formation results from permafrost thaw: summer melting causes ground subsidence along buried ice wedge networks, creating meltwater-filled depressions that wind and wave action elongate into aligned ovals separated by thin ridges. Despite June's status as a relatively warm month in this remote Arctic region, the lagoons and surrounding sea ice remain frozen due to persistently subzero temperatures. The phenomenon reflects common cryospheric processes in periglacial landscapes without anthropogenic influence.
+INFO     2025-12-19 05:29:04 [scraper.py:133] 📥 [EO] Title: A Siberian Snowman in Billings
+INFO     2025-12-19 05:29:04 [scraper.py:133] 📥 [EO] Title: A Siberian Snowman in Billings
+INFO     2025-12-19 05:29:04 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-siberian-snowman-in-billings/russia_ice_oli_20250616_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-19 05:29:04 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/a-siberian-snowman-in-billings/russia_ice_oli_20250616_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2025-12-19 05:29:04 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2025-12-19 05:29:04 [scraper.py:154] ✅ [EO] Successfully fetched.
+

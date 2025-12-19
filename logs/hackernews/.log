@@ -14287,3 +14287,36 @@ INFO     2025-12-19 02:10:48 [scraper.py:171] 🔗 [HN #10] URL: https://worksin
 INFO     2025-12-19 02:10:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-19 02:10:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-19 05:28:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-19 05:28:39 [scraper.py:170] 📥 [HN #1] Beginning January 2026, all ACM publications will be made open access
+INFO     2025-12-19 05:28:39 [scraper.py:171] 🔗 [HN #1] URL: https://dl.acm.org/openaccess
+INFO     2025-12-19 05:28:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-19 05:28:39 [scraper.py:170] 📥 [HN #2] 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
+INFO     2025-12-19 05:28:39 [scraper.py:171] 🔗 [HN #2] URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
+INFO     2025-12-19 05:28:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-19 05:28:39 [scraper.py:170] 📥 [HN #3] History LLMs: Models trained exclusively on pre-1913 texts
+INFO     2025-12-19 05:28:39 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/DGoettlich/history-llms
+INFO     2025-12-19 05:28:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-19 05:28:39 [scraper.py:170] 📥 [HN #4] We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
+INFO     2025-12-19 05:28:39 [scraper.py:171] 🔗 [HN #4] URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+INFO     2025-12-19 05:28:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-19 05:28:39 [scraper.py:170] 📥 [HN #5] Texas is suing all of the big TV makers for spying on what you watch
+INFO     2025-12-19 05:28:39 [scraper.py:171] 🔗 [HN #5] URL: https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
+INFO     2025-12-19 05:28:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:170] 📥 [HN #6] GPT-5.2-Codex
+INFO     2025-12-19 05:28:40 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/introducing-gpt-5-2-codex/
+INFO     2025-12-19 05:28:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:170] 📥 [HN #7] Noclip.website – A digital museum of video game levels
+INFO     2025-12-19 05:28:40 [scraper.py:171] 🔗 [HN #7] URL: https://noclip.website/
+INFO     2025-12-19 05:28:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:170] 📥 [HN #8] How China built its ‘Manhattan Project’ to rival the West in AI chips
+INFO     2025-12-19 05:28:40 [scraper.py:171] 🔗 [HN #8] URL: https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
+INFO     2025-12-19 05:28:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:170] 📥 [HN #9] Skills for organizations, partners, the ecosystem
+INFO     2025-12-19 05:28:40 [scraper.py:171] 🔗 [HN #9] URL: https://claude.com/blog/organization-skills-and-directory
+INFO     2025-12-19 05:28:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:170] 📥 [HN #10] The state of the kernel Rust experiment
+INFO     2025-12-19 05:28:40 [scraper.py:171] 🔗 [HN #10] URL: https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/
+INFO     2025-12-19 05:28:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-19 05:28:40 [scraper.py:178] 🎉 [HN] All done.
+

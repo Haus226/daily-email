@@ -2141,3 +2141,8 @@ INFO     2025-12-19 02:10:46 [scraper.py:47] 📥 [APOD] Title: Jupiter and the 
 INFO     2025-12-19 02:10:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg
 INFO     2025-12-19 02:10:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-19 05:28:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-19 05:28:38 [scraper.py:47] 📥 [APOD] Title: Long Shadows of the Montes Caucasus
+INFO     2025-12-19 05:28:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png
+INFO     2025-12-19 05:28:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
