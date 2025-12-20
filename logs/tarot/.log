@@ -2153,3 +2153,8 @@ INFO     2025-12-20 05:26:16 [scraper.py:390] 📥 [TAROT] Card: Queen of Cups
 INFO     2025-12-20 05:26:17 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-12-20 05:26:17 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-12-20 10:20:52 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-20 10:20:52 [scraper.py:390] 📥 [TAROT] Card: Queen of Cups
+INFO     2025-12-20 10:20:52 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-20 10:20:52 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
