@@ -14386,3 +14386,36 @@ INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #10] URL: https://cursor.
 INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-20 02:03:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-20 05:26:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #1] CSS Grid Lanes
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #1] URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #2] Mistral OCR 3
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #2] URL: https://mistral.ai/news/mistral-ocr-3
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #3] Garage – An S3 object store so reliable you can run it outside datacenters
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #3] URL: https://garagehq.deuxfleurs.fr/
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #4] Carolina Cloud – One third the cost of AWS for data science workloads
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #4] URL: https://carolinacloud.io/
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #5] Fuzix on a Raspberry Pi Pico
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #5] URL: https://ewpratten.com/blog/fuzix-pi-pico
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-20 05:26:17 [scraper.py:170] 📥 [HN #6] Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions
+INFO     2025-12-20 05:26:17 [scraper.py:171] 🔗 [HN #6] URL: https://gh-actions-lockfile.net
+INFO     2025-12-20 05:26:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-20 05:26:18 [scraper.py:170] 📥 [HN #7] A better zip bomb (2019)
+INFO     2025-12-20 05:26:18 [scraper.py:171] 🔗 [HN #7] URL: https://www.bamsoftware.com/hacks/zipbomb/
+INFO     2025-12-20 05:26:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-20 05:26:18 [scraper.py:170] 📥 [HN #8] TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
+INFO     2025-12-20 05:26:18 [scraper.py:171] 🔗 [HN #8] URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+INFO     2025-12-20 05:26:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-20 05:26:18 [scraper.py:170] 📥 [HN #9] 8-bit Boléro
+INFO     2025-12-20 05:26:18 [scraper.py:171] 🔗 [HN #9] URL: https://linusakesson.net/music/bolero/index.php
+INFO     2025-12-20 05:26:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-20 05:26:18 [scraper.py:170] 📥 [HN #10] Graphite is joining Cursor
+INFO     2025-12-20 05:26:18 [scraper.py:171] 🔗 [HN #10] URL: https://cursor.com/blog/graphite
+INFO     2025-12-20 05:26:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-20 05:26:18 [scraper.py:178] 🎉 [HN] All done.
+
