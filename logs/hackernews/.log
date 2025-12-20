@@ -14353,3 +14353,36 @@ INFO     2025-12-19 10:24:29 [scraper.py:171] 🔗 [HN #10] URL: https://design.
 INFO     2025-12-19 10:24:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-19 10:24:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-20 02:03:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-20 02:03:57 [scraper.py:170] 📥 [HN #1] CSS Grid Lanes
+INFO     2025-12-20 02:03:57 [scraper.py:171] 🔗 [HN #1] URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+INFO     2025-12-20 02:03:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-20 02:03:57 [scraper.py:170] 📥 [HN #2] Mistral OCR 3
+INFO     2025-12-20 02:03:57 [scraper.py:171] 🔗 [HN #2] URL: https://mistral.ai/news/mistral-ocr-3
+INFO     2025-12-20 02:03:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-20 02:03:57 [scraper.py:170] 📥 [HN #3] PBS News Hour West to go dark after ASU discontinues contract
+INFO     2025-12-20 02:03:57 [scraper.py:171] 🔗 [HN #3] URL: https://www.statepress.com/article/2025/12/politics-pbs-newshour-west-closure
+INFO     2025-12-20 02:03:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-20 02:03:57 [scraper.py:170] 📥 [HN #4] Garage – An S3 object store so reliable you can run it outside datacenters
+INFO     2025-12-20 02:03:57 [scraper.py:171] 🔗 [HN #4] URL: https://garagehq.deuxfleurs.fr/
+INFO     2025-12-20 02:03:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-20 02:03:57 [scraper.py:170] 📥 [HN #5] A Better Zip Bomb
+INFO     2025-12-20 02:03:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.bamsoftware.com/hacks/zipbomb/
+INFO     2025-12-20 02:03:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:170] 📥 [HN #6] TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
+INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:170] 📥 [HN #7] 8-bit Boléro
+INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #7] URL: https://linusakesson.net/music/bolero/index.php
+INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:170] 📥 [HN #8] Amazon will allow ePub and PDF downloads for DRM-free eBooks
+INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #8] URL: https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US
+INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:170] 📥 [HN #9] GotaTun – Mullvad's WireGuard Implementation in Rust
+INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #9] URL: https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn
+INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:170] 📥 [HN #10] Graphite is joining Cursor
+INFO     2025-12-20 02:03:58 [scraper.py:171] 🔗 [HN #10] URL: https://cursor.com/blog/graphite
+INFO     2025-12-20 02:03:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-20 02:03:58 [scraper.py:178] 🎉 [HN] All done.
+
