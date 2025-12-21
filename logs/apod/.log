@@ -2166,3 +2166,8 @@ INFO     2025-12-20 10:20:53 [scraper.py:47] 📥 [APOD] Title: A Solstice Sun T
 INFO     2025-12-20 10:20:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg
 INFO     2025-12-20 10:20:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-21 02:24:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-21 02:24:01 [scraper.py:47] 📥 [APOD] Title: A Solstice Sun Tattoo
+INFO     2025-12-21 02:24:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg
+INFO     2025-12-21 02:24:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

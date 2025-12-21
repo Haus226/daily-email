@@ -14452,3 +14452,36 @@ INFO     2025-12-20 10:20:54 [scraper.py:171] 🔗 [HN #10] URL: https://garageh
 INFO     2025-12-20 10:20:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-20 10:20:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-21 02:24:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-21 02:24:01 [scraper.py:170] 📥 [HN #1] Show HN: Jmail – Google Suite for Epstein files
+INFO     2025-12-21 02:24:01 [scraper.py:171] 🔗 [HN #1] URL: https://www.jmail.world
+INFO     2025-12-21 02:24:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-21 02:24:01 [scraper.py:170] 📥 [HN #2] Backing Up Spotify
+INFO     2025-12-21 02:24:01 [scraper.py:171] 🔗 [HN #2] URL: https://annas-archive.li/blog/backing-up-spotify.html
+INFO     2025-12-21 02:24:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-21 02:24:01 [scraper.py:170] 📥 [HN #3] Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics
+INFO     2025-12-21 02:24:01 [scraper.py:171] 🔗 [HN #3] URL: https://haveibeenflocked.com/news/cyble-downtime
+INFO     2025-12-21 02:24:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-21 02:24:01 [scraper.py:170] 📥 [HN #4] Ireland’s Diarmuid Early wins world Microsoft Excel title
+INFO     2025-12-21 02:24:01 [scraper.py:171] 🔗 [HN #4] URL: https://www.bbc.com/news/articles/cj4qzgvxxgvo
+INFO     2025-12-21 02:24:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #5] Claude in Chrome
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #5] URL: https://claude.com/chrome
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #6] Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #6] URL: https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #7] Log level 'error' should mean that something needs to be fixed
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #7] URL: https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #8] Anatomy of US inequality
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #8] URL: https://www.nber.org/papers/w34558
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #9] Big GPUs don't need big PCs
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #9] URL: https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:170] 📥 [HN #10] Go ahead, self-host Postgres
+INFO     2025-12-21 02:24:02 [scraper.py:171] 🔗 [HN #10] URL: https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
+INFO     2025-12-21 02:24:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-21 02:24:02 [scraper.py:178] 🎉 [HN] All done.
+
