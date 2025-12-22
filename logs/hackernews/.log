@@ -14584,3 +14584,36 @@ INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.scd
 INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-22 02:22:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-22 05:29:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-22 05:29:43 [scraper.py:170] 📥 [HN #1] A guide to local coding models
+INFO     2025-12-22 05:29:43 [scraper.py:171] 🔗 [HN #1] URL: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+INFO     2025-12-22 05:29:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-22 05:29:43 [scraper.py:170] 📥 [HN #2] Deliberate Internet Shutdowns
+INFO     2025-12-22 05:29:43 [scraper.py:171] 🔗 [HN #2] URL: https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+INFO     2025-12-22 05:29:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-22 05:29:43 [scraper.py:170] 📥 [HN #3] I'm just having fun
+INFO     2025-12-22 05:29:43 [scraper.py:171] 🔗 [HN #3] URL: https://jyn.dev/i-m-just-having-fun/
+INFO     2025-12-22 05:29:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-22 05:29:43 [scraper.py:170] 📥 [HN #4] Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
+INFO     2025-12-22 05:29:43 [scraper.py:171] 🔗 [HN #4] URL: https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
+INFO     2025-12-22 05:29:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #5] Webb observes exoplanet that may have an exotic helium and carbon atmosphere
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #5] URL: https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #6] Build Android apps using Rust and Iced
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/ibaryshnikov/android-iced-example
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #7] ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #7] URL: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #8] Show HN: Books mentioned on Hacker News in 2025
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #8] URL: https://hackernews-readings-613604506318.us-west1.run.app
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #9] Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #9] URL: https://eulumdat.icu
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:170] 📥 [HN #10] Kernighan's Lever
+INFO     2025-12-22 05:29:44 [scraper.py:171] 🔗 [HN #10] URL: https://linusakesson.net/programming/kernighans-lever/index.php
+INFO     2025-12-22 05:29:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-22 05:29:44 [scraper.py:178] 🎉 [HN] All done.
+
