@@ -2181,3 +2181,8 @@ INFO     2025-12-21 10:21:11 [scraper.py:47] 📥 [APOD] Title: Solstice on a Sp
 INFO     2025-12-21 10:21:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/SeasonsSpinningEarth_Meteosat9.mp4
 INFO     2025-12-21 10:21:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-22 02:22:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-22 02:22:52 [scraper.py:47] 📥 [APOD] Title: Solstice on a Spinning Earth
+INFO     2025-12-22 02:22:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/SeasonsSpinningEarth_Meteosat9.mp4
+INFO     2025-12-22 02:22:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

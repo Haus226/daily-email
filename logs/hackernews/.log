@@ -14551,3 +14551,36 @@ INFO     2025-12-21 10:21:12 [scraper.py:171] 🔗 [HN #10] URL: https://pierce.
 INFO     2025-12-21 10:21:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-21 10:21:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-22 02:22:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-22 02:22:52 [scraper.py:170] 📥 [HN #1] A guide to local coding models
+INFO     2025-12-22 02:22:52 [scraper.py:171] 🔗 [HN #1] URL: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+INFO     2025-12-22 02:22:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-22 02:22:52 [scraper.py:170] 📥 [HN #2] I'm just having fun
+INFO     2025-12-22 02:22:52 [scraper.py:171] 🔗 [HN #2] URL: https://jyn.dev/i-m-just-having-fun/
+INFO     2025-12-22 02:22:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-22 02:22:52 [scraper.py:170] 📥 [HN #3] Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
+INFO     2025-12-22 02:22:52 [scraper.py:171] 🔗 [HN #3] URL: https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
+INFO     2025-12-22 02:22:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-22 02:22:52 [scraper.py:170] 📥 [HN #4] Deliberate Internet Shutdowns
+INFO     2025-12-22 02:22:52 [scraper.py:171] 🔗 [HN #4] URL: https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+INFO     2025-12-22 02:22:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-22 02:22:52 [scraper.py:170] 📥 [HN #5] Show HN: Books mentioned on Hacker News in 2025
+INFO     2025-12-22 02:22:52 [scraper.py:171] 🔗 [HN #5] URL: https://hackernews-readings-613604506318.us-west1.run.app
+INFO     2025-12-22 02:22:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:170] 📥 [HN #6] ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #6] URL: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:170] 📥 [HN #7] Show HN: WalletWallet – create Apple passes from anything
+INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #7] URL: https://walletwallet.alen.ro/
+INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:170] 📥 [HN #8] The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt
+INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #8] URL: https://mastodon.online/@mullvadnet/115742530333573065
+INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:170] 📥 [HN #9] Show HN: Autograd.c – A tiny ML framework built from scratch
+INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/sueszli/autograd.c
+INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:170] 📥 [HN #10] I program on the subway
+INFO     2025-12-22 02:22:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.scd31.com/posts/programming-on-the-subway
+INFO     2025-12-22 02:22:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-22 02:22:53 [scraper.py:178] 🎉 [HN] All done.
+
