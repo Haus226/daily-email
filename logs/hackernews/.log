@@ -14782,3 +14782,36 @@ INFO     2025-12-24 02:10:10 [scraper.py:171] 🔗 [HN #10] URL: https://blog.he
 INFO     2025-12-24 02:10:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-24 02:10:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-24 05:29:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-24 05:29:47 [scraper.py:170] 📥 [HN #1] Fabrice Bellard Releases MicroQuickJS
+INFO     2025-12-24 05:29:47 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/bellard/mquickjs/blob/main/README.md
+INFO     2025-12-24 05:29:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-24 05:29:47 [scraper.py:170] 📥 [HN #2] X-ray: a Python library for finding bad redactions in PDF documents
+INFO     2025-12-24 05:29:47 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/freelawproject/x-ray
+INFO     2025-12-24 05:29:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-24 05:29:47 [scraper.py:170] 📥 [HN #3] Unifi Travel Router
+INFO     2025-12-24 05:29:47 [scraper.py:171] 🔗 [HN #3] URL: https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router
+INFO     2025-12-24 05:29:47 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-24 05:29:47 [scraper.py:170] 📥 [HN #4] Texas app store age verification law blocked by federal judge
+INFO     2025-12-24 05:29:47 [scraper.py:171] 🔗 [HN #4] URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
+INFO     2025-12-24 05:29:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-24 05:29:48 [scraper.py:170] 📥 [HN #5] Some Epstein file redactions are being undone with hacks
+INFO     2025-12-24 05:29:48 [scraper.py:171] 🔗 [HN #5] URL: https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media
+INFO     2025-12-24 05:29:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-24 05:29:48 [scraper.py:170] 📥 [HN #6] Show HN: Turn raw HTML into production-ready images for free
+INFO     2025-12-24 05:29:48 [scraper.py:171] 🔗 [HN #6] URL: https://html2png.dev
+INFO     2025-12-24 05:29:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-24 05:29:48 [scraper.py:170] 📥 [HN #7] Is Northern Virginia still the least reliable AWS region?
+INFO     2025-12-24 05:29:48 [scraper.py:171] 🔗 [HN #7] URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/
+INFO     2025-12-24 05:29:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-24 05:29:48 [scraper.py:170] 📥 [HN #8] Autonomously navigating the real world: lessons from the PG&E outage
+INFO     2025-12-24 05:29:48 [scraper.py:171] 🔗 [HN #8] URL: https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world
+INFO     2025-12-24 05:29:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-24 05:29:49 [scraper.py:170] 📥 [HN #9] Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]
+INFO     2025-12-24 05:29:49 [scraper.py:171] 🔗 [HN #9] URL: https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf
+INFO     2025-12-24 05:29:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-24 05:29:49 [scraper.py:170] 📥 [HN #10] Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4
+INFO     2025-12-24 05:29:49 [scraper.py:171] 🔗 [HN #10] URL: https://abhamra.com/blog/randomized-maxcut/
+INFO     2025-12-24 05:29:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-24 05:29:49 [scraper.py:178] 🎉 [HN] All done.
+
