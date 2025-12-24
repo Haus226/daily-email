@@ -2211,3 +2211,8 @@ INFO     2025-12-23 10:25:28 [scraper.py:47] 📥 [APOD] Title: Red Sprites and 
 INFO     2025-12-23 10:25:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg
 INFO     2025-12-23 10:25:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-24 02:10:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-24 02:10:09 [scraper.py:47] 📥 [APOD] Title: Red Sprites and Circular Elves Lightning over Italy
+INFO     2025-12-24 02:10:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg
+INFO     2025-12-24 02:10:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
