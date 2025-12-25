@@ -14848,3 +14848,36 @@ INFO     2025-12-24 10:23:20 [scraper.py:171] 🔗 [HN #10] URL: https://twitter
 INFO     2025-12-24 10:23:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-24 10:23:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-25 02:12:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-25 02:12:52 [scraper.py:170] 📥 [HN #1] Phoenix: A modern X server written from scratch in Zig
+INFO     2025-12-25 02:12:52 [scraper.py:171] 🔗 [HN #1] URL: https://git.dec05eba.com/phoenix/about/
+INFO     2025-12-25 02:12:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-25 02:12:52 [scraper.py:170] 📥 [HN #2] Tell HN: Merry Christmas
+INFO     2025-12-25 02:12:52 [scraper.py:171] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=46380168
+INFO     2025-12-25 02:12:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-25 02:12:52 [scraper.py:170] 📥 [HN #3] Who Watches the Waymos? I do [video]
+INFO     2025-12-25 02:12:52 [scraper.py:171] 🔗 [HN #3] URL: https://www.youtube.com/watch?v=oYU2hAbx_Fc
+INFO     2025-12-25 02:12:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #4] Show HN: Minimalist editor that lives in browser, stores everything in the URL
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/antonmedv/textarea
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #5] Asterisk AI Voice Agent
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/hkjarral/Asterisk-AI-Voice-Agent
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #6] CSRF protection without tokens or hidden form fields
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #6] URL: https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #7] Fabrice Bellard: Biography (2009) [pdf]
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #7] URL: https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #8] Research team digitizes more than 100 years of Canadian infectious disease data
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #8] URL: https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #9] Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/VibiumDev/vibium
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:170] 📥 [HN #10] Online Book: Exploring Mathematics with Python
+INFO     2025-12-25 02:12:53 [scraper.py:171] 🔗 [HN #10] URL: https://coe.psu.ac.th/ad/explore/
+INFO     2025-12-25 02:12:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-25 02:12:53 [scraper.py:178] 🎉 [HN] All done.
+
