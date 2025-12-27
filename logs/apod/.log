@@ -2256,3 +2256,8 @@ INFO     2025-12-26 10:23:13 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS Flyby
 INFO     2025-12-26 10:23:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg
 INFO     2025-12-26 10:23:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-27 02:09:02 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-27 02:09:02 [scraper.py:47] 📥 [APOD] Title: 3I/ATLAS Flyby
+INFO     2025-12-27 02:09:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett1024.jpg
+INFO     2025-12-27 02:09:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

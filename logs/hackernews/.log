@@ -15046,3 +15046,36 @@ INFO     2025-12-26 10:23:14 [scraper.py:171] 🔗 [HN #10] URL: https://fahrpla
 INFO     2025-12-26 10:23:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-26 10:23:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-27 02:09:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-27 02:09:02 [scraper.py:170] 📥 [HN #1] How uv got so fast
+INFO     2025-12-27 02:09:02 [scraper.py:171] 🔗 [HN #1] URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+INFO     2025-12-27 02:09:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-27 02:09:02 [scraper.py:170] 📥 [HN #2] Always Bet on Text
+INFO     2025-12-27 02:09:02 [scraper.py:171] 🔗 [HN #2] URL: https://graydon2.dreamwidth.org/193447.html
+INFO     2025-12-27 02:09:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-27 02:09:02 [scraper.py:170] 📥 [HN #3] Experts explore new mushroom which causes fairytale-like hallucinations
+INFO     2025-12-27 02:09:02 [scraper.py:171] 🔗 [HN #3] URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+INFO     2025-12-27 02:09:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-27 02:09:02 [scraper.py:170] 📥 [HN #4] The Best Things and Stuff of 2025
+INFO     2025-12-27 02:09:02 [scraper.py:171] 🔗 [HN #4] URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
+INFO     2025-12-27 02:09:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-27 02:09:03 [scraper.py:170] 📥 [HN #5] T-Ruby is Ruby with syntax for types
+INFO     2025-12-27 02:09:03 [scraper.py:171] 🔗 [HN #5] URL: https://type-ruby.github.io/
+INFO     2025-12-27 02:09:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-27 02:09:03 [scraper.py:170] 📥 [HN #6] How Lewis Carroll computed determinants (2023)
+INFO     2025-12-27 02:09:03 [scraper.py:171] 🔗 [HN #6] URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
+INFO     2025-12-27 02:09:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-27 02:09:03 [scraper.py:170] 📥 [HN #7] One million (small web) screenshots
+INFO     2025-12-27 02:09:03 [scraper.py:171] 🔗 [HN #7] URL: https://nry.me/posts/2025-10-09/small-web-screenshots/
+INFO     2025-12-27 02:09:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-27 02:09:03 [scraper.py:170] 📥 [HN #8] Package managers keep using Git as a database, it never works out
+INFO     2025-12-27 02:09:03 [scraper.py:171] 🔗 [HN #8] URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+INFO     2025-12-27 02:09:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-27 02:09:03 [scraper.py:170] 📥 [HN #9] Drawing with zero-width characters
+INFO     2025-12-27 02:09:03 [scraper.py:171] 🔗 [HN #9] URL: https://zw.swerdlow.dev
+INFO     2025-12-27 02:09:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-27 02:09:04 [scraper.py:170] 📥 [HN #10] Show HN: Witr – Explain why a process is running on your Linux system
+INFO     2025-12-27 02:09:04 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/pranshuparmar/witr
+INFO     2025-12-27 02:09:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-27 02:09:04 [scraper.py:178] 🎉 [HN] All done.
+
