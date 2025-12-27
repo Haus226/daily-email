@@ -15079,3 +15079,36 @@ INFO     2025-12-27 02:09:04 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2025-12-27 02:09:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-27 02:09:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-27 05:27:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-27 05:27:23 [scraper.py:170] 📥 [HN #1] How uv got so fast
+INFO     2025-12-27 05:27:23 [scraper.py:171] 🔗 [HN #1] URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+INFO     2025-12-27 05:27:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-27 05:27:23 [scraper.py:170] 📥 [HN #2] QNX Self-Hosted Developer Desktop
+INFO     2025-12-27 05:27:23 [scraper.py:171] 🔗 [HN #2] URL: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/
+INFO     2025-12-27 05:27:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-27 05:27:23 [scraper.py:170] 📥 [HN #3] Always Bet on Text
+INFO     2025-12-27 05:27:23 [scraper.py:171] 🔗 [HN #3] URL: https://graydon2.dreamwidth.org/193447.html
+INFO     2025-12-27 05:27:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-27 05:27:23 [scraper.py:170] 📥 [HN #4] T-Ruby is Ruby with syntax for types
+INFO     2025-12-27 05:27:23 [scraper.py:171] 🔗 [HN #4] URL: https://type-ruby.github.io/
+INFO     2025-12-27 05:27:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-27 05:27:23 [scraper.py:170] 📥 [HN #5] Experts explore new mushroom which causes fairytale-like hallucinations
+INFO     2025-12-27 05:27:23 [scraper.py:171] 🔗 [HN #5] URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+INFO     2025-12-27 05:27:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:170] 📥 [HN #6] The Best Things and Stuff of 2025
+INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #6] URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
+INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:170] 📥 [HN #7] Researchers develop a camera that can focus on different distances at once
+INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #7] URL: https://engineering.cmu.edu/news-events/news/2025/12/19-perfect-shot.html
+INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:170] 📥 [HN #8] How Lewis Carroll computed determinants (2023)
+INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #8] URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
+INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:170] 📥 [HN #9] Publishing your work increases your luck
+INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/readme/guides/publishing-your-work
+INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:170] 📥 [HN #10] One million (small web) screenshots
+INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #10] URL: https://nry.me/posts/2025-10-09/small-web-screenshots/
+INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-27 05:27:24 [scraper.py:178] 🎉 [HN] All done.
+
