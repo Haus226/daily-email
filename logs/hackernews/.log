@@ -15112,3 +15112,36 @@ INFO     2025-12-27 05:27:24 [scraper.py:171] 🔗 [HN #10] URL: https://nry.me/
 INFO     2025-12-27 05:27:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-27 05:27:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-27 10:21:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-27 10:21:07 [scraper.py:170] 📥 [HN #1] Show HN: Ez FFmpeg – Video editing in plain English
+INFO     2025-12-27 10:21:07 [scraper.py:171] 🔗 [HN #1] URL: http://npmjs.com/package/ezff
+INFO     2025-12-27 10:21:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-27 10:21:07 [scraper.py:170] 📥 [HN #2] How uv got so fast
+INFO     2025-12-27 10:21:07 [scraper.py:171] 🔗 [HN #2] URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+INFO     2025-12-27 10:21:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-27 10:21:07 [scraper.py:170] 📥 [HN #3] Mruby: Ruby for Embedded Systems
+INFO     2025-12-27 10:21:07 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/mruby/mruby
+INFO     2025-12-27 10:21:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-27 10:21:07 [scraper.py:170] 📥 [HN #4] AI Police Reports: Year in Review
+INFO     2025-12-27 10:21:07 [scraper.py:171] 🔗 [HN #4] URL: https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review
+INFO     2025-12-27 10:21:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #5] Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #6] Always bet on text (2014)
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #6] URL: https://graydon2.dreamwidth.org/193447.html
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #7] Exe.dev
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #7] URL: https://exe.dev/
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #8] Experts explore new mushroom which causes fairytale-like hallucinations
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #8] URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #9] The best things and stuff of 2025
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #9] URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:170] 📥 [HN #10] Package managers keep using Git as a database, it never works out
+INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #10] URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-27 10:21:08 [scraper.py:178] 🎉 [HN] All done.
+
