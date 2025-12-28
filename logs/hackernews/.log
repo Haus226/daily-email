@@ -15178,3 +15178,36 @@ INFO     2025-12-28 02:29:53 [scraper.py:171] 🔗 [HN #10] URL: https://hn-ph.v
 INFO     2025-12-28 02:29:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-28 02:29:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-28 05:29:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-28 05:29:55 [scraper.py:170] 📥 [HN #1] Calendar
+INFO     2025-12-28 05:29:55 [scraper.py:171] 🔗 [HN #1] URL: https://neatnik.net/calendar/?year=2026
+INFO     2025-12-28 05:29:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-28 05:29:55 [scraper.py:170] 📥 [HN #2] Replacing JavaScript with Just HTML
+INFO     2025-12-28 05:29:55 [scraper.py:171] 🔗 [HN #2] URL: https://www.htmhell.dev/adventcalendar/2025/27/
+INFO     2025-12-28 05:29:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-28 05:29:55 [scraper.py:170] 📥 [HN #3] Fathers’ choices may be packaged and passed down in sperm RNA
+INFO     2025-12-28 05:29:55 [scraper.py:171] 🔗 [HN #3] URL: https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/
+INFO     2025-12-28 05:29:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-28 05:29:55 [scraper.py:170] 📥 [HN #4] How we lost communication to entertainment
+INFO     2025-12-28 05:29:55 [scraper.py:171] 🔗 [HN #4] URL: https://ploum.net/2025-12-15-communication-entertainment.html
+INFO     2025-12-28 05:29:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #5] Floor796
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #5] URL: https://floor796.com/
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #6] Gpg.fail
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #6] URL: https://gpg.fail
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #7] Go Gray, Not Cray: Why You Should Grayscale Your Phone
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #7] URL: https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #8] Text rendering hates you (2019)
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #8] URL: https://faultlore.com/blah/text-hates-you/
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #9] Project Vend: Phase Two
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #9] URL: https://www.anthropic.com/research/project-vend-2
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:170] 📥 [HN #10] Rainbow Six Siege hacked as players get billions of credits and random bans
+INFO     2025-12-28 05:29:56 [scraper.py:171] 🔗 [HN #10] URL: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/
+INFO     2025-12-28 05:29:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-28 05:29:56 [scraper.py:178] 🎉 [HN] All done.
+
