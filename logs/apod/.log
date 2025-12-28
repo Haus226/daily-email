@@ -2271,3 +2271,8 @@ INFO     2025-12-27 10:21:07 [scraper.py:47] 📥 [APOD] Title: Apollo 17's Moon
 INFO     2025-12-27 10:21:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg
 INFO     2025-12-27 10:21:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-28 02:29:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-28 02:29:51 [scraper.py:47] 📥 [APOD] Title: Apollo 17's Moonship
+INFO     2025-12-28 02:29:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg
+INFO     2025-12-28 02:29:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

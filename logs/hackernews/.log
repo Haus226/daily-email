@@ -15145,3 +15145,36 @@ INFO     2025-12-27 10:21:08 [scraper.py:171] 🔗 [HN #10] URL: https://nesbitt
 INFO     2025-12-27 10:21:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-27 10:21:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-28 02:29:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-28 02:29:51 [scraper.py:170] 📥 [HN #1] Replacing JavaScript with Just HTML
+INFO     2025-12-28 02:29:51 [scraper.py:171] 🔗 [HN #1] URL: https://www.htmhell.dev/adventcalendar/2025/27/
+INFO     2025-12-28 02:29:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-28 02:29:51 [scraper.py:170] 📥 [HN #2] How we lost communication to entertainment
+INFO     2025-12-28 02:29:51 [scraper.py:171] 🔗 [HN #2] URL: https://ploum.net/2025-12-15-communication-entertainment.html
+INFO     2025-12-28 02:29:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-28 02:29:51 [scraper.py:170] 📥 [HN #3] Dad's Fitness May Be Packaged and Passed Down in Sperm RNA
+INFO     2025-12-28 02:29:51 [scraper.py:171] 🔗 [HN #3] URL: https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/
+INFO     2025-12-28 02:29:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-28 02:29:52 [scraper.py:170] 📥 [HN #4] Why Reliability Demands Functional Programming
+INFO     2025-12-28 02:29:52 [scraper.py:171] 🔗 [HN #4] URL: https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure
+INFO     2025-12-28 02:29:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-28 02:29:52 [scraper.py:170] 📥 [HN #5] Floor796
+INFO     2025-12-28 02:29:52 [scraper.py:171] 🔗 [HN #5] URL: https://floor796.com/
+INFO     2025-12-28 02:29:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-28 02:29:52 [scraper.py:170] 📥 [HN #6] Project Vend: Phase Two
+INFO     2025-12-28 02:29:52 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/research/project-vend-2
+INFO     2025-12-28 02:29:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-28 02:29:52 [scraper.py:170] 📥 [HN #7] Text rendering hates you
+INFO     2025-12-28 02:29:52 [scraper.py:171] 🔗 [HN #7] URL: https://faultlore.com/blah/text-hates-you/
+INFO     2025-12-28 02:29:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-28 02:29:53 [scraper.py:170] 📥 [HN #8] Gpg.fail
+INFO     2025-12-28 02:29:53 [scraper.py:171] 🔗 [HN #8] URL: https://gpg.fail
+INFO     2025-12-28 02:29:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-28 02:29:53 [scraper.py:170] 📥 [HN #9] Rainbow Six Siege hacked as players get billions of credits and random bans
+INFO     2025-12-28 02:29:53 [scraper.py:171] 🔗 [HN #9] URL: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/
+INFO     2025-12-28 02:29:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-28 02:29:53 [scraper.py:170] 📥 [HN #10] Show HN: What 4M posts reveal about going viral on Hacker News
+INFO     2025-12-28 02:29:53 [scraper.py:171] 🔗 [HN #10] URL: https://hn-ph.vercel.app
+INFO     2025-12-28 02:29:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-28 02:29:53 [scraper.py:178] 🎉 [HN] All done.
+
