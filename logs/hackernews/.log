@@ -15244,3 +15244,36 @@ INFO     2025-12-28 10:21:31 [scraper.py:171] 🔗 [HN #10] URL: https://gpg.fai
 INFO     2025-12-28 10:21:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-28 10:21:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-29 02:27:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-29 02:27:48 [scraper.py:170] 📥 [HN #1] What an unprocessed photo looks like
+INFO     2025-12-29 02:27:48 [scraper.py:171] 🔗 [HN #1] URL: https://maurycyz.com/misc/raw_photo/
+INFO     2025-12-29 02:27:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-29 02:27:49 [scraper.py:170] 📥 [HN #2] Stepping down as Mockito maintainer after 10 years
+INFO     2025-12-29 02:27:49 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/mockito/mockito/issues/3777
+INFO     2025-12-29 02:27:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-29 02:27:49 [scraper.py:170] 📥 [HN #3] Unity's Mono problem: Why your C# code runs slower than it should
+INFO     2025-12-29 02:27:49 [scraper.py:171] 🔗 [HN #3] URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
+INFO     2025-12-29 02:27:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-29 02:27:49 [scraper.py:170] 📥 [HN #4] Spherical Cow
+INFO     2025-12-29 02:27:49 [scraper.py:171] 🔗 [HN #4] URL: https://lib.rs/crates/spherical-cow
+INFO     2025-12-29 02:27:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-29 02:27:49 [scraper.py:170] 📥 [HN #5] 62 years in the making: NYC's newest water tunnel nears the finish line
+INFO     2025-12-29 02:27:49 [scraper.py:171] 🔗 [HN #5] URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
+INFO     2025-12-29 02:27:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-29 02:27:49 [scraper.py:170] 📥 [HN #6] MongoBleed Explained Simply
+INFO     2025-12-29 02:27:49 [scraper.py:171] 🔗 [HN #6] URL: https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply
+INFO     2025-12-29 02:27:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-29 02:27:50 [scraper.py:170] 📥 [HN #7] PySDR: A Guide to SDR and DSP Using Python
+INFO     2025-12-29 02:27:50 [scraper.py:171] 🔗 [HN #7] URL: https://pysdr.org/content/intro.html
+INFO     2025-12-29 02:27:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-29 02:27:50 [scraper.py:170] 📥 [HN #8] Researchers Discover Molecular Difference in Autistic Brains
+INFO     2025-12-29 02:27:50 [scraper.py:171] 🔗 [HN #8] URL: https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/
+INFO     2025-12-29 02:27:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-29 02:27:50 [scraper.py:170] 📥 [HN #9] Slaughtering Competition Problems with Quantifier Elimination (2021)
+INFO     2025-12-29 02:27:50 [scraper.py:171] 🔗 [HN #9] URL: https://grossack.site/2021/12/22/qe-competition.html
+INFO     2025-12-29 02:27:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-29 02:27:50 [scraper.py:170] 📥 [HN #10] Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert
+INFO     2025-12-29 02:27:50 [scraper.py:171] 🔗 [HN #10] URL: https://substack.com/inbox/post/182743659
+INFO     2025-12-29 02:27:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-29 02:27:50 [scraper.py:178] 🎉 [HN] All done.
+
