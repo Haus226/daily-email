@@ -2296,3 +2296,8 @@ INFO     2025-12-29 05:34:20 [scraper.py:47] 📥 [APOD] Title: M1: The Crab Neb
 INFO     2025-12-29 05:34:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg
 INFO     2025-12-29 05:34:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-29 10:25:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-29 10:25:24 [scraper.py:47] 📥 [APOD] Title: M1: The Crab Nebula
+INFO     2025-12-29 10:25:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg
+INFO     2025-12-29 10:25:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
