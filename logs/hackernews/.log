@@ -15409,3 +15409,36 @@ INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #10] URL: https://bou.ke/
 INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-30 05:29:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-30 10:24:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-30 10:24:59 [scraper.py:170] 📥 [HN #1] HSBC blocks its app due to F-Droid-installed Bitwarden
+INFO     2025-12-30 10:24:59 [scraper.py:171] 🔗 [HN #1] URL: https://mastodon.neilzone.co.uk/@neil/115807834298031971
+INFO     2025-12-30 10:24:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-30 10:24:59 [scraper.py:170] 📥 [HN #2] Netflix: Open Content
+INFO     2025-12-30 10:24:59 [scraper.py:171] 🔗 [HN #2] URL: https://opencontent.netflix.com/
+INFO     2025-12-30 10:24:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-30 10:24:59 [scraper.py:170] 📥 [HN #3] Google is dead. Where do we go now?
+INFO     2025-12-30 10:24:59 [scraper.py:171] 🔗 [HN #3] URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
+INFO     2025-12-30 10:24:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #4] GOG is getting acquired by its original co-founder
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #4] URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #5] Show HN: One clean, developer-focused page for every Unicode symbol
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #5] URL: https://fontgenerator.design/symbols
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #6] Hacking Washing Machines [video]
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #6] URL: https://media.ccc.de/v/39c3-hacking-washing-machines
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #7] Stranger Things creator says turn off "garbage" settings
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #7] URL: https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #8] UNIX Fourth Edition
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #8] URL: http://squoze.net/UNIX/v4/README
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-30 10:25:00 [scraper.py:170] 📥 [HN #9] ManusAI Joins Meta
+INFO     2025-12-30 10:25:00 [scraper.py:171] 🔗 [HN #9] URL: https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation
+INFO     2025-12-30 10:25:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-30 10:25:01 [scraper.py:170] 📥 [HN #10] Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%
+INFO     2025-12-30 10:25:01 [scraper.py:171] 🔗 [HN #10] URL: https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/
+INFO     2025-12-30 10:25:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-30 10:25:01 [scraper.py:178] 🎉 [HN] All done.
+
