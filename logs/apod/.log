@@ -2306,3 +2306,8 @@ INFO     2025-12-30 02:18:57 [scraper.py:47] 📥 [APOD] Title: M1: The Crab Neb
 INFO     2025-12-30 02:18:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/Crab_Chen_960.jpg
 INFO     2025-12-30 02:18:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2025-12-30 05:29:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2025-12-30 05:29:27 [scraper.py:47] 📥 [APOD] Title: An Artificial Comet
+INFO     2025-12-30 05:29:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg
+INFO     2025-12-30 05:29:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

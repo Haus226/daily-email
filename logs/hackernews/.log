@@ -15376,3 +15376,36 @@ INFO     2025-12-30 02:18:58 [scraper.py:171] 🔗 [HN #10] URL: https://nickmon
 INFO     2025-12-30 02:18:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-30 02:18:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-30 05:29:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-30 05:29:27 [scraper.py:170] 📥 [HN #1] Google is dead. Where do we go now?
+INFO     2025-12-30 05:29:27 [scraper.py:171] 🔗 [HN #1] URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
+INFO     2025-12-30 05:29:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-30 05:29:27 [scraper.py:170] 📥 [HN #2] GOG is getting acquired by its original co-founder
+INFO     2025-12-30 05:29:27 [scraper.py:171] 🔗 [HN #2] URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/
+INFO     2025-12-30 05:29:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-30 05:29:27 [scraper.py:170] 📥 [HN #3] Hacking Washing Machines [video]
+INFO     2025-12-30 05:29:27 [scraper.py:171] 🔗 [HN #3] URL: https://media.ccc.de/v/39c3-hacking-washing-machines
+INFO     2025-12-30 05:29:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #4] ManusAI Joins Meta
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #4] URL: https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #5] Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #5] URL: https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #6] Show HN: Stop Claude Code from forgetting everything
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/mutable-state-inc/ensue-skill
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #7] MongoDB Server Security Update, December 2025
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #8] Stranger Things creator says turn off "garbage" settings
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #8] URL: https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #9] Show HN: A Claude Code plugin that catch destructive Git and filesystem commands
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/kenryu42/claude-code-safety-net
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:170] 📥 [HN #10] Streaming compression beats framed compression
+INFO     2025-12-30 05:29:28 [scraper.py:171] 🔗 [HN #10] URL: https://bou.ke/blog/compressed/
+INFO     2025-12-30 05:29:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-30 05:29:28 [scraper.py:178] 🎉 [HN] All done.
+
