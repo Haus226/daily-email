@@ -2308,3 +2308,8 @@ INFO     2025-12-30 10:24:58 [scraper.py:390] 📥 [TAROT] Card: Seven of Cups
 INFO     2025-12-30 10:24:58 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2025-12-30 10:24:58 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2025-12-31 02:18:57 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2025-12-31 02:18:57 [scraper.py:390] 📥 [TAROT] Card: The Hierophant
+INFO     2025-12-31 02:18:57 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2025-12-31 02:18:57 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

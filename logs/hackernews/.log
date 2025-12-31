@@ -15442,3 +15442,36 @@ INFO     2025-12-30 10:25:01 [scraper.py:171] 🔗 [HN #10] URL: https://electre
 INFO     2025-12-30 10:25:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-30 10:25:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2025-12-31 02:18:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2025-12-31 02:18:57 [scraper.py:170] 📥 [HN #1] Project ideas to appreciate the art of programming
+INFO     2025-12-31 02:18:57 [scraper.py:171] 🔗 [HN #1] URL: https://codecrafters.io/blog/programming-project-ideas
+INFO     2025-12-31 02:18:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2025-12-31 02:18:57 [scraper.py:170] 📥 [HN #2] A faster heart for F-Droid
+INFO     2025-12-31 02:18:57 [scraper.py:171] 🔗 [HN #2] URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html
+INFO     2025-12-31 02:18:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2025-12-31 02:18:58 [scraper.py:170] 📥 [HN #3] FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service
+INFO     2025-12-31 02:18:58 [scraper.py:171] 🔗 [HN #3] URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
+INFO     2025-12-31 02:18:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2025-12-31 02:18:58 [scraper.py:170] 📥 [HN #4] Quality of drinking water varies significantly by airline
+INFO     2025-12-31 02:18:58 [scraper.py:171] 🔗 [HN #4] URL: https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/
+INFO     2025-12-31 02:18:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2025-12-31 02:18:58 [scraper.py:170] 📥 [HN #5] Show HN: 22 GB of Hacker News in SQLite
+INFO     2025-12-31 02:18:58 [scraper.py:171] 🔗 [HN #5] URL: https://hackerbook.dosaygo.com
+INFO     2025-12-31 02:18:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2025-12-31 02:18:58 [scraper.py:170] 📥 [HN #6] A Vulnerability in Libsodium
+INFO     2025-12-31 02:18:58 [scraper.py:171] 🔗 [HN #6] URL: https://00f.net/2025/12/30/libsodium-vulnerability/
+INFO     2025-12-31 02:18:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2025-12-31 02:18:58 [scraper.py:170] 📥 [HN #7] Zpdf: PDF text extraction in Zig – 5x faster than MuPDF
+INFO     2025-12-31 02:18:58 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/Lulzx/zpdf
+INFO     2025-12-31 02:18:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2025-12-31 02:18:59 [scraper.py:170] 📥 [HN #8] OpenAI's cash burn will be one of the big bubble questions of 2026
+INFO     2025-12-31 02:18:59 [scraper.py:171] 🔗 [HN #8] URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026
+INFO     2025-12-31 02:18:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2025-12-31 02:18:59 [scraper.py:170] 📥 [HN #9] Electrolysis can solve one of our biggest contamination problems
+INFO     2025-12-31 02:18:59 [scraper.py:171] 🔗 [HN #9] URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html
+INFO     2025-12-31 02:18:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2025-12-31 02:18:59 [scraper.py:170] 📥 [HN #10] Mitsubishi Diatone D-160 (1985)
+INFO     2025-12-31 02:18:59 [scraper.py:171] 🔗 [HN #10] URL: https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html
+INFO     2025-12-31 02:18:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2025-12-31 02:18:59 [scraper.py:178] 🎉 [HN] All done.
+
