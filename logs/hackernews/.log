@@ -15607,3 +15607,36 @@ INFO     2026-01-01 05:33:23 [scraper.py:171] 🔗 [HN #10] URL: https://miguelc
 INFO     2026-01-01 05:33:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-01 05:33:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-01 10:24:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-01 10:24:03 [scraper.py:170] 📥 [HN #1] 2025: The Year in LLMs
+INFO     2026-01-01 10:24:03 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+INFO     2026-01-01 10:24:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-01 10:24:03 [scraper.py:170] 📥 [HN #2] I canceled my book deal
+INFO     2026-01-01 10:24:03 [scraper.py:171] 🔗 [HN #2] URL: https://austinhenley.com/blog/canceledbookdeal.html
+INFO     2026-01-01 10:24:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #3] Flow5 released to open source
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #3] URL: https://flow5.tech/docs/releasenotes.html
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #4] Pokémon Team Optimization
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #4] URL: https://nchagnet.pages.dev/blog/pokemon-team-optimization/
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #5] Only 5 Sears stores remain in the U.S.
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #5] URL: https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #6] Resistance training load does not determine hypertrophy
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #6] URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #7] Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #7] URL: https://bustermq.sh/
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-01 10:24:04 [scraper.py:170] 📥 [HN #8] Web Browsers have stopped blocking pop-ups
+INFO     2026-01-01 10:24:04 [scraper.py:171] 🔗 [HN #8] URL: https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/
+INFO     2026-01-01 10:24:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-01 10:24:05 [scraper.py:170] 📥 [HN #9] Warren Buffett steps down as Berkshire Hathaway CEO after six decades
+INFO     2026-01-01 10:24:05 [scraper.py:171] 🔗 [HN #9] URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
+INFO     2026-01-01 10:24:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-01 10:24:05 [scraper.py:170] 📥 [HN #10] Pixar's True Story
+INFO     2026-01-01 10:24:05 [scraper.py:171] 🔗 [HN #10] URL: https://computerhistory.org/blog/pixars-true-story/
+INFO     2026-01-01 10:24:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-01 10:24:05 [scraper.py:178] 🎉 [HN] All done.
+
