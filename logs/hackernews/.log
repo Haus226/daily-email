@@ -15541,3 +15541,36 @@ INFO     2025-12-31 10:23:28 [scraper.py:171] 🔗 [HN #10] URL: https://odin-la
 INFO     2025-12-31 10:23:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2025-12-31 10:23:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-01 02:30:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-01 02:30:35 [scraper.py:170] 📥 [HN #1] 2025: The Year in LLMs
+INFO     2026-01-01 02:30:35 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+INFO     2026-01-01 02:30:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-01 02:30:35 [scraper.py:170] 📥 [HN #2] I canceled my book deal
+INFO     2026-01-01 02:30:35 [scraper.py:171] 🔗 [HN #2] URL: https://austinhenley.com/blog/canceledbookdeal.html
+INFO     2026-01-01 02:30:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-01 02:30:35 [scraper.py:170] 📥 [HN #3] Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring
+INFO     2026-01-01 02:30:35 [scraper.py:171] 🔗 [HN #3] URL: https://bustermq.sh/
+INFO     2026-01-01 02:30:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #4] Scientists unlock brain's natural clean-up system for new treatments for stroke
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #4] URL: https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #5] Warren Buffett steps down as Berkshire Hathaway CEO after six decades
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #5] URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #6] Resistance training load does not determine hypertrophy
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #6] URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #7] Observed Agent Sandbox Bypasses
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #7] URL: https://voratiq.com/blog/yolo-in-the-sandbox/
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #8] All-optical synthesis chip for large-scale intelligent semantic vision
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/doi/10.1126/science.adv7434
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #9] GoGoGrandparent (YC S16) Is Hiring Tech Leads
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #9] URL: https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:170] 📥 [HN #10] Demystifying DVDs
+INFO     2026-01-01 02:30:36 [scraper.py:171] 🔗 [HN #10] URL: https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs
+INFO     2026-01-01 02:30:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-01 02:30:36 [scraper.py:178] 🎉 [HN] All done.
+
