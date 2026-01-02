@@ -15640,3 +15640,36 @@ INFO     2026-01-01 10:24:05 [scraper.py:171] 🔗 [HN #10] URL: https://compute
 INFO     2026-01-01 10:24:05 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-01 10:24:05 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-02 02:21:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-02 02:21:03 [scraper.py:170] 📥 [HN #1] A website to destroy all websites
+INFO     2026-01-02 02:21:03 [scraper.py:171] 🔗 [HN #1] URL: https://henry.codes/writing/a-website-to-destroy-all-websites/
+INFO     2026-01-02 02:21:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #2] Can Bundler be as fast as uv?
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #2] URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #3] Happy Public Domain Day 2026
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #3] URL: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #4] Finland detains ship and its crew after critical undersea cable damaged
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #4] URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #5] Cameras and Lenses (2020)
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #5] URL: https://ciechanow.ski/cameras-and-lenses/
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #6] Linux is good now
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #6] URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-02 02:21:04 [scraper.py:170] 📥 [HN #7] Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt
+INFO     2026-01-02 02:21:04 [scraper.py:171] 🔗 [HN #7] URL: https://enroll.sh
+INFO     2026-01-02 02:21:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-02 02:21:05 [scraper.py:170] 📥 [HN #8] WebAssembly as a Python Extension Platform
+INFO     2026-01-02 02:21:05 [scraper.py:171] 🔗 [HN #8] URL: https://nullprogram.com/blog/2026/01/01/
+INFO     2026-01-02 02:21:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-02 02:21:05 [scraper.py:170] 📥 [HN #9] Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust
+INFO     2026-01-02 02:21:05 [scraper.py:171] 🔗 [HN #9] URL: https://openworkers.com/introducing-openworkers
+INFO     2026-01-02 02:21:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-02 02:21:05 [scraper.py:170] 📥 [HN #10] Dell's version of the DGX Spark fixes pain points
+INFO     2026-01-02 02:21:05 [scraper.py:171] 🔗 [HN #10] URL: https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points
+INFO     2026-01-02 02:21:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-02 02:21:05 [scraper.py:178] 🎉 [HN] All done.
+
