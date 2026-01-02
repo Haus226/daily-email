@@ -15673,3 +15673,36 @@ INFO     2026-01-02 02:21:05 [scraper.py:171] 🔗 [HN #10] URL: https://www.jef
 INFO     2026-01-02 02:21:05 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-02 02:21:05 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-02 05:31:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-02 05:31:16 [scraper.py:170] 📥 [HN #1] Happy Public Domain Day 2026
+INFO     2026-01-02 05:31:16 [scraper.py:171] 🔗 [HN #1] URL: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/
+INFO     2026-01-02 05:31:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-02 05:31:16 [scraper.py:170] 📥 [HN #2] Why users cannot create Issues directly
+INFO     2026-01-02 05:31:16 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/ghostty-org/ghostty/issues/3558
+INFO     2026-01-02 05:31:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-02 05:31:16 [scraper.py:170] 📥 [HN #3] James Moylan, engineer behind arrow signaling which side to refuel a car, dies
+INFO     2026-01-02 05:31:16 [scraper.py:171] 🔗 [HN #3] URL: https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/
+INFO     2026-01-02 05:31:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-02 05:31:16 [scraper.py:170] 📥 [HN #4] A website to destroy all websites
+INFO     2026-01-02 05:31:16 [scraper.py:171] 🔗 [HN #4] URL: https://henry.codes/writing/a-website-to-destroy-all-websites/
+INFO     2026-01-02 05:31:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #5] Marmot – A distributed SQLite server with MySQL wire compatible interface
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/maxpert/marmot
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #6] Can Bundler be as fast as uv?
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #6] URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #7] Cameras and Lenses (2020)
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #7] URL: https://ciechanow.ski/cameras-and-lenses/
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #8] Extensibility: The "100% Lisp" Fallacy
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #8] URL: https://kyo.iroiro.party/en/posts/100-percent-lisp/
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #9] Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #9] URL: https://enroll.sh
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:170] 📥 [HN #10] I'm a developer for a major food delivery app
+INFO     2026-01-02 05:31:17 [scraper.py:171] 🔗 [HN #10] URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/
+INFO     2026-01-02 05:31:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-02 05:31:17 [scraper.py:178] 🎉 [HN] All done.
+
