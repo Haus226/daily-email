@@ -2361,3 +2361,8 @@ INFO     2026-01-02 10:23:26 [scraper.py:47] 📥 [APOD] Title: NanoSail-D2
 INFO     2026-01-02 10:23:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png
 INFO     2026-01-02 10:23:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-03 02:08:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-03 02:08:18 [scraper.py:47] 📥 [APOD] Title: NanoSail-D2
+INFO     2026-01-03 02:08:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png
+INFO     2026-01-03 02:08:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

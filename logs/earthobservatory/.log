@@ -3914,3 +3914,24 @@ INFO     2026-01-02 10:23:26 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-02 10:23:26 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-03 02:08:16 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-03 02:08:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-03 02:08:18 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-03 02:08:18 [scraper.py:133] 📥 [EO] Title: Lake Eyre Blushes
+INFO     2026-01-03 02:08:18 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/lake-eyre-blushes/redgreenlakeeyre_oli_20251215_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-03 02:08:18 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-03 02:08:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-03 02:08:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-03 02:08:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-03 02:08:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-03 02:08:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-03 02:08:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-03 02:08:19 [scraper.py:133] 📥 [EO] Title: Lake Eyre Blushes
+INFO     2026-01-03 02:08:19 [scraper.py:133] 📥 [EO] Title: Lake Eyre Blushes
+INFO     2026-01-03 02:08:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/lake-eyre-blushes/redgreenlakeeyre_oli_20251215_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-03 02:08:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/lake-eyre-blushes/redgreenlakeeyre_oli_20251215_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-03 02:08:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-03 02:08:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
