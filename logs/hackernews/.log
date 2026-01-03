@@ -15772,3 +15772,36 @@ INFO     2026-01-03 02:08:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-01-03 02:08:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-03 02:08:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-03 05:27:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-03 05:27:14 [scraper.py:170] 📥 [HN #1] Publish on your own site, syndicate elsewhere
+INFO     2026-01-03 05:27:14 [scraper.py:171] 🔗 [HN #1] URL: https://indieweb.org/POSSE#
+INFO     2026-01-03 05:27:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-03 05:27:14 [scraper.py:170] 📥 [HN #2] Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?
+INFO     2026-01-03 05:27:14 [scraper.py:171] 🔗 [HN #2] URL: https://www.madebywindmill.com/tempi/blog/hbfs-bpm/
+INFO     2026-01-03 05:27:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-03 05:27:14 [scraper.py:170] 📥 [HN #3] A Basic Just-In-Time Compiler (2015)
+INFO     2026-01-03 05:27:14 [scraper.py:171] 🔗 [HN #3] URL: https://nullprogram.com/blog/2015/03/19/
+INFO     2026-01-03 05:27:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-03 05:27:14 [scraper.py:170] 📥 [HN #4] 2026 will be my year of the Linux desktop
+INFO     2026-01-03 05:27:14 [scraper.py:171] 🔗 [HN #4] URL: https://xeiaso.net/notes/2026/year-linux-desktop/
+INFO     2026-01-03 05:27:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-03 05:27:14 [scraper.py:170] 📥 [HN #5] Show HN: Website that plays the lottery every second
+INFO     2026-01-03 05:27:14 [scraper.py:171] 🔗 [HN #5] URL: https://lotteryeverysecond.lffl.me/
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:170] 📥 [HN #6] Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot
+INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #6] URL: https://streaming.media.ccc.de/39c3/relive/2149
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:170] 📥 [HN #7] Clicks Communicator
+INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #7] URL: https://www.clicksphone.com/en/communicator
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:170] 📥 [HN #8] IPv6 just turned 30 and still hasn't taken over the world
+INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #8] URL: https://www.theregister.com/2025/12/31/ipv6_at_30/
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:170] 📥 [HN #9] Adventure 751 (1980)
+INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #9] URL: https://bluerenga.blog/2026/01/01/adventure-751-1980/
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:170] 📥 [HN #10] Ask HN: Who is hiring? (January 2026)
+INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=46466074
+INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-03 05:27:15 [scraper.py:178] 🎉 [HN] All done.
+
