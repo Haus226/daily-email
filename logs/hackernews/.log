@@ -15805,3 +15805,36 @@ INFO     2026-01-03 05:27:15 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-01-03 05:27:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-03 05:27:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-03 10:22:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-03 10:22:01 [scraper.py:170] 📥 [HN #1] Late night pizzeria nearby The Pentagon has suddenly surged in traffic
+INFO     2026-01-03 10:22:01 [scraper.py:171] 🔗 [HN #1] URL: https://twitter.com/PenPizzaReport/status/2007347706017251535
+INFO     2026-01-03 10:22:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-03 10:22:01 [scraper.py:170] 📥 [HN #2] Publish on your own site, syndicate elsewhere
+INFO     2026-01-03 10:22:01 [scraper.py:171] 🔗 [HN #2] URL: https://indieweb.org/POSSE#
+INFO     2026-01-03 10:22:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-03 10:22:01 [scraper.py:170] 📥 [HN #3] Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?
+INFO     2026-01-03 10:22:01 [scraper.py:171] 🔗 [HN #3] URL: https://www.madebywindmill.com/tempi/blog/hbfs-bpm/
+INFO     2026-01-03 10:22:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #4] Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #4] URL: https://streaming.media.ccc.de/39c3/relive/2149
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #5] IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #6] Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #6] URL: https://bsdly.blogspot.com/2025/12/why-451-is-good-for-you-greylisting.html
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #7] 2026 will be my year of the Linux desktop
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #7] URL: https://xeiaso.net/notes/2026/year-linux-desktop/
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #8] IPv6 just turned 30 and still hasn't taken over the world
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #8] URL: https://www.theregister.com/2025/12/31/ipv6_at_30/
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #9] A Basic Just-In-Time Compiler (2015)
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #9] URL: https://nullprogram.com/blog/2015/03/19/
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:170] 📥 [HN #10] A Beginner's Two-Component Crystal-Style Wi-Fi Detector
+INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #10] URL: https://siliconjunction.wordpress.com/2025/12/12/a-beginners-two-component-crystal-style-wi-fi-detector/
+INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-03 10:22:02 [scraper.py:178] 🎉 [HN] All done.
+
