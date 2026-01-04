@@ -15838,3 +15838,36 @@ INFO     2026-01-03 10:22:02 [scraper.py:171] 🔗 [HN #10] URL: https://silicon
 INFO     2026-01-03 10:22:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-03 10:22:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-04 02:32:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-04 02:32:05 [scraper.py:170] 📥 [HN #1] Total monthly number of StackOverflow questions over time
+INFO     2026-01-04 02:32:05 [scraper.py:171] 🔗 [HN #1] URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph
+INFO     2026-01-04 02:32:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #2] The suck is why we're here
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #2] URL: https://nik.art/the-suck-is-why-were-here/
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #3] MyTorch – Minimalist autograd in 450 lines of Python
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/obround/mytorch
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #4] The Most Popular Blogs of Hacker News in 2025
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #4] URL: https://refactoringenglish.com/blog/2025-hn-top-5/
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #5] Swift on Android: Full Native App Development Now Possible
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #5] URL: https://docs.swifdroid.com/app/
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #6] Ed25519-CLI – command-line interface for the Ed25519 signature system
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #6] URL: https://lib25519.cr.yp.to/ed25519-cli.html
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #7] The Riven Diffs – Seeing Riven (1997) Differently
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #7] URL: https://glthr.com/the-riven-diffs-1
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-04 02:32:06 [scraper.py:170] 📥 [HN #8] Torch.ts – building PyTorch in TypeScript from scratch to learn
+INFO     2026-01-04 02:32:06 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/13point5/torch.ts
+INFO     2026-01-04 02:32:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-04 02:32:07 [scraper.py:170] 📥 [HN #9] Take One Small Step
+INFO     2026-01-04 02:32:07 [scraper.py:171] 🔗 [HN #9] URL: https://thinkhuman.com/take-one-small-step/
+INFO     2026-01-04 02:32:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-04 02:32:07 [scraper.py:170] 📥 [HN #10] Determining Current Arm Cortex-M Security State with GDB
+INFO     2026-01-04 02:32:07 [scraper.py:171] 🔗 [HN #10] URL: https://danielmangum.com/posts/arm-cortex-m-security-state-gdb/
+INFO     2026-01-04 02:32:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-04 02:32:07 [scraper.py:178] 🎉 [HN] All done.
+
