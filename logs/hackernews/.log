@@ -15904,3 +15904,36 @@ INFO     2026-01-04 05:31:26 [scraper.py:171] 🔗 [HN #10] URL: https://uni.tla
 INFO     2026-01-04 05:31:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-04 05:31:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-04 10:21:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-04 10:21:53 [scraper.py:170] 📥 [HN #1] Neural Networks: Zero to Hero
+INFO     2026-01-04 10:21:53 [scraper.py:171] 🔗 [HN #1] URL: https://karpathy.ai/zero-to-hero.html
+INFO     2026-01-04 10:21:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-04 10:21:53 [scraper.py:170] 📥 [HN #2] Can I start using Wayland in 2026?
+INFO     2026-01-04 10:21:53 [scraper.py:171] 🔗 [HN #2] URL: https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/
+INFO     2026-01-04 10:21:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-04 10:21:53 [scraper.py:170] 📥 [HN #3] Total monthly number of StackOverflow questions over time
+INFO     2026-01-04 10:21:53 [scraper.py:171] 🔗 [HN #3] URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph
+INFO     2026-01-04 10:21:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-04 10:21:53 [scraper.py:170] 📥 [HN #4] The Gentle Seduction
+INFO     2026-01-04 10:21:53 [scraper.py:171] 🔗 [HN #4] URL: http://www.skyhunter.com/marcs/GentleSeduction.html
+INFO     2026-01-04 10:21:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #5] The suck is why we're here
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #5] URL: https://nik.art/the-suck-is-why-were-here/
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #6] GDI Effects from the PC cracking scene
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #6] URL: https://gdimayhem.temari.fr/index.php?p=all
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #7] Swift on Android: Full Native App Development Now Possible
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #7] URL: https://docs.swifdroid.com/app/
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #8] The Most Popular Blogs of Hacker News in 2025
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #8] URL: https://refactoringenglish.com/blog/2025-hn-top-5/
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #9] KDE onboarding is good now
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #9] URL: https://rabbitictranslator.com/kde-onboarding/
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:170] 📥 [HN #10] From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]
+INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #10] URL: https://media.ccc.de/v/39c3-from-silicon-to-darude-sand-storm-breaking-famous-synthesizer-dsps
+INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-04 10:21:54 [scraper.py:178] 🎉 [HN] All done.
+
