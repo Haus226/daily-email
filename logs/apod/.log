@@ -2389,3 +2389,8 @@ INFO     2026-01-04 05:31:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
 INFO     2026-01-04 10:21:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-01-04 10:22:02 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError("HTTPSConnection(host='apod.nasa.gov', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
+INFO     2026-01-05 02:31:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-05 02:31:33 [scraper.py:47] 📥 [APOD] Title: The Einstein Cross Gravitational Lens
+INFO     2026-01-05 02:31:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/qso2237_wiyn_1024.jpg
+INFO     2026-01-05 02:31:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

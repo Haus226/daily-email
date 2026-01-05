@@ -15937,3 +15937,36 @@ INFO     2026-01-04 10:21:54 [scraper.py:171] 🔗 [HN #10] URL: https://media.c
 INFO     2026-01-04 10:21:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-04 10:21:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-05 02:31:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #1] Show HN: Terminal UI for AWS
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/huseyinbabal/taws
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #2] Lessons from 14 Years at Google
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #2] URL: https://addyosmani.com/blog/21-lessons/
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #3] Why does a least squares fit appear to have a bias when applied to simple data?
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #3] URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #4] The Showa Hundred Year Problem
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #4] URL: https://www.dampfkraft.com/showa-100.html
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #5] The Unbearable Joy of Sitting Alone in a Café
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #5] URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #6] Street Fighter II, the World Warrier (2021)
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #6] URL: https://fabiensanglard.net/sf2_warrier/
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-05 02:31:34 [scraper.py:170] 📥 [HN #7] Linear Address Spaces: Unsafe at any speed (2022)
+INFO     2026-01-05 02:31:34 [scraper.py:171] 🔗 [HN #7] URL: https://queue.acm.org/detail.cfm?id=3534854
+INFO     2026-01-05 02:31:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-05 02:31:35 [scraper.py:170] 📥 [HN #8] Millennium Challenge: A corrupted military exercise and its legacy (2015)
+INFO     2026-01-05 02:31:35 [scraper.py:171] 🔗 [HN #8] URL: https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/
+INFO     2026-01-05 02:31:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-05 02:31:35 [scraper.py:170] 📥 [HN #9] Ripple, a puzzle game about 2nd and 3rd order effects
+INFO     2026-01-05 02:31:35 [scraper.py:171] 🔗 [HN #9] URL: https://ripplegame.app/
+INFO     2026-01-05 02:31:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-05 02:31:35 [scraper.py:170] 📥 [HN #10] Eurostar AI vulnerability: When a chatbot goes off the rails
+INFO     2026-01-05 02:31:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
+INFO     2026-01-05 02:31:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-05 02:31:35 [scraper.py:178] 🎉 [HN] All done.
+
