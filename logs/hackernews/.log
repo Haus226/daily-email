@@ -15970,3 +15970,36 @@ INFO     2026-01-05 02:31:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.pen
 INFO     2026-01-05 02:31:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-05 02:31:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-05 05:38:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-05 05:38:53 [scraper.py:170] 📥 [HN #1] Show HN: Terminal UI for AWS
+INFO     2026-01-05 05:38:53 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/huseyinbabal/taws
+INFO     2026-01-05 05:38:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-05 05:38:53 [scraper.py:170] 📥 [HN #2] Lessons from 14 years at Google
+INFO     2026-01-05 05:38:53 [scraper.py:171] 🔗 [HN #2] URL: https://addyosmani.com/blog/21-lessons/
+INFO     2026-01-05 05:38:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-05 05:38:53 [scraper.py:170] 📥 [HN #3] During Helene, I just wanted a plain text website
+INFO     2026-01-05 05:38:53 [scraper.py:171] 🔗 [HN #3] URL: https://sparkbox.com/foundry/helene_and_mobile_web_performance
+INFO     2026-01-05 05:38:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-05 05:38:53 [scraper.py:170] 📥 [HN #4] Why does a least squares fit appear to have a bias when applied to simple data?
+INFO     2026-01-05 05:38:53 [scraper.py:171] 🔗 [HN #4] URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
+INFO     2026-01-05 05:38:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-05 05:38:53 [scraper.py:170] 📥 [HN #5] The unbearable joy of sitting alone in a café
+INFO     2026-01-05 05:38:53 [scraper.py:171] 🔗 [HN #5] URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+INFO     2026-01-05 05:38:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:170] 📥 [HN #6] The baffling purple honey found only in North Carolina
+INFO     2026-01-05 05:38:54 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina
+INFO     2026-01-05 05:38:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:170] 📥 [HN #7] Street Fighter II, the World Warrier (2021)
+INFO     2026-01-05 05:38:54 [scraper.py:171] 🔗 [HN #7] URL: https://fabiensanglard.net/sf2_warrier/
+INFO     2026-01-05 05:38:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:170] 📥 [HN #8] Linear Address Spaces: Unsafe at any speed (2022)
+INFO     2026-01-05 05:38:54 [scraper.py:171] 🔗 [HN #8] URL: https://queue.acm.org/detail.cfm?id=3534854
+INFO     2026-01-05 05:38:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:170] 📥 [HN #9] I charged $18k for a Static HTML Page (2019)
+INFO     2026-01-05 05:38:54 [scraper.py:171] 🔗 [HN #9] URL: https://idiallo.com/blog/18000-dollars-static-web-page
+INFO     2026-01-05 05:38:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:170] 📥 [HN #10] The year of the 3D printed miniature and other lies we tell ourselves
+INFO     2026-01-05 05:38:54 [scraper.py:171] 🔗 [HN #10] URL: https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/
+INFO     2026-01-05 05:38:54 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-05 05:38:54 [scraper.py:178] 🎉 [HN] All done.
+
