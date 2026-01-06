@@ -16069,3 +16069,36 @@ INFO     2026-01-06 02:20:47 [scraper.py:171] 🔗 [HN #10] URL: https://perisha
 INFO     2026-01-06 02:20:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-06 02:20:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-06 05:31:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-06 05:31:09 [scraper.py:170] 📥 [HN #1] There were BGP anomalies during the Venezuela blackout
+INFO     2026-01-06 05:31:09 [scraper.py:171] 🔗 [HN #1] URL: https://loworbitsecurity.com/radar/radar16/
+INFO     2026-01-06 05:31:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-06 05:31:09 [scraper.py:170] 📥 [HN #2] GBC Boot Animation 88×31 Web Button
+INFO     2026-01-06 05:31:09 [scraper.py:171] 🔗 [HN #2] URL: https://zakhary.dev/blog/gbc-web-button
+INFO     2026-01-06 05:31:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #3] Try to take my position: The best promotion advice I ever got
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #3] URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #4] I/O is no longer the bottleneck? (2022)
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #4] URL: https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #5] Six-decade math puzzle solved by Korean mathematician
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #5] URL: https://www.koreaherald.com/article/10648326
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #6] How Y Combinator made it smart to trust founders
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #6] URL: https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #7] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/1803.03635
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-06 05:31:10 [scraper.py:170] 📥 [HN #8] Why didn't AI “join the workforce” in 2025?
+INFO     2026-01-06 05:31:10 [scraper.py:171] 🔗 [HN #8] URL: https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/
+INFO     2026-01-06 05:31:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-06 05:31:11 [scraper.py:170] 📥 [HN #9] Welcome to Gas Town
+INFO     2026-01-06 05:31:11 [scraper.py:171] 🔗 [HN #9] URL: https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
+INFO     2026-01-06 05:31:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-06 05:31:11 [scraper.py:170] 📥 [HN #10] GoGoGrandparent (YC S16) is hiring back end engineers
+INFO     2026-01-06 05:31:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers
+INFO     2026-01-06 05:31:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-06 05:31:11 [scraper.py:178] 🎉 [HN] All done.
+

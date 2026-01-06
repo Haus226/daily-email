@@ -2403,3 +2403,8 @@ INFO     2026-01-06 02:20:45 [scraper.py:390] 📥 [TAROT] Card: The Lovers
 INFO     2026-01-06 02:20:46 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-06 02:20:46 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-01-06 05:31:09 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-01-06 05:31:09 [scraper.py:390] 📥 [TAROT] Card: The Lovers
+INFO     2026-01-06 05:31:09 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-01-06 05:31:09 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
