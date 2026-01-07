@@ -16171,3 +16171,36 @@ INFO     2026-01-07 05:31:30 [scraper.py:171] 🔗 [HN #10] URL: https://vaultsa
 INFO     2026-01-07 05:31:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-07 05:31:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-07 10:26:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #1] Sergey Brin's Unretirement
+INFO     2026-01-07 10:26:23 [scraper.py:171] 🔗 [HN #1] URL: https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208
+INFO     2026-01-07 10:26:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #2] The creator of Claude Code's Claude setup
+INFO     2026-01-07 10:26:23 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/bcherny/status/2007179832300581177
+INFO     2026-01-07 10:26:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #3] Vector graphics on GPU
+INFO     2026-01-07 10:26:23 [scraper.py:171] 🔗 [HN #3] URL: https://gasiulis.name/vector-graphics-on-gpu/
+INFO     2026-01-07 10:26:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #4] Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone
+INFO     2026-01-07 10:26:23 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/rberg27/doom-coding
+INFO     2026-01-07 10:26:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #5] Electronic nose for indoor mold detection and identification
+INFO     2026-01-07 10:26:23 [scraper.py:171] 🔗 [HN #5] URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124
+INFO     2026-01-07 10:26:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-07 10:26:23 [scraper.py:170] 📥 [HN #6] Opus 4.5 is not the normal AI agent experience that I have had thus far
+INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #6] URL: https://burkeholland.github.io/posts/opus-4-5-change-everything/
+INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-07 10:26:24 [scraper.py:170] 📥 [HN #7] Rust is beyond object-oriented, part 3: Inheritance (2023)
+INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #7] URL: https://www.thecodedmessage.com/posts/oop-3-inheritance/
+INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-07 10:26:24 [scraper.py:170] 📥 [HN #8] Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI
+INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/x011/smtp-tunnel-proxy
+INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-07 10:26:24 [scraper.py:170] 📥 [HN #9] A 30B Qwen model walks into a Raspberry Pi and runs in real time
+INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #9] URL: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-07 10:26:24 [scraper.py:170] 📥 [HN #10] On the slow death of scaling
+INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #10] URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662
+INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-07 10:26:24 [scraper.py:178] 🎉 [HN] All done.
+
