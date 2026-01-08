@@ -16204,3 +16204,36 @@ INFO     2026-01-07 10:26:24 [scraper.py:171] 🔗 [HN #10] URL: https://papers.
 INFO     2026-01-07 10:26:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-07 10:26:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-08 02:20:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-08 02:20:56 [scraper.py:170] 📥 [HN #1] Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans
+INFO     2026-01-08 02:20:56 [scraper.py:171] 🔗 [HN #1] URL: https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/
+INFO     2026-01-08 02:20:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-08 02:20:56 [scraper.py:170] 📥 [HN #2] Sugar industry influenced researchers and blamed fat for CVD (2016)
+INFO     2026-01-08 02:20:56 [scraper.py:171] 🔗 [HN #2] URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus
+INFO     2026-01-08 02:20:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-08 02:20:56 [scraper.py:170] 📥 [HN #3] Tailscale state file encryption no longer enabled by default
+INFO     2026-01-08 02:20:56 [scraper.py:171] 🔗 [HN #3] URL: https://tailscale.com/changelog
+INFO     2026-01-08 02:20:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-08 02:20:56 [scraper.py:170] 📥 [HN #4] Eat Real Food
+INFO     2026-01-08 02:20:56 [scraper.py:171] 🔗 [HN #4] URL: https://realfood.gov
+INFO     2026-01-08 02:20:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-08 02:20:57 [scraper.py:170] 📥 [HN #5] Shipmap.org
+INFO     2026-01-08 02:20:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.shipmap.org/
+INFO     2026-01-08 02:20:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-08 02:20:57 [scraper.py:170] 📥 [HN #6] Play Aardwolf MUD
+INFO     2026-01-08 02:20:57 [scraper.py:171] 🔗 [HN #6] URL: https://www.aardwolf.com/
+INFO     2026-01-08 02:20:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-08 02:20:57 [scraper.py:170] 📥 [HN #7] Musashi: Motorola 680x0 emulator written in C
+INFO     2026-01-08 02:20:57 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/kstenerud/Musashi
+INFO     2026-01-08 02:20:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-08 02:20:57 [scraper.py:170] 📥 [HN #8] The Q, K, V Matrices
+INFO     2026-01-08 02:20:57 [scraper.py:171] 🔗 [HN #8] URL: https://arpitbhayani.me/blogs/qkv-matrices/
+INFO     2026-01-08 02:20:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-08 02:20:57 [scraper.py:170] 📥 [HN #9] NPM to implement staged publishing after turbulent shift off classic tokens
+INFO     2026-01-08 02:20:57 [scraper.py:171] 🔗 [HN #9] URL: https://socket.dev/blog/npm-to-implement-staged-publishing
+INFO     2026-01-08 02:20:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-08 02:20:58 [scraper.py:170] 📥 [HN #10] US will ban Wall Street investors from buying single-family homes
+INFO     2026-01-08 02:20:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/
+INFO     2026-01-08 02:20:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-08 02:20:58 [scraper.py:178] 🎉 [HN] All done.
+
