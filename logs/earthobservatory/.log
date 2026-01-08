@@ -4271,3 +4271,24 @@ INFO     2026-01-08 05:30:59 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-08 05:30:59 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-08 10:26:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-08 10:26:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-08 10:26:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-08 10:26:14 [scraper.py:133] 📥 [EO] Title: Meltwater Turns Iceberg A-23A Blue
+INFO     2026-01-08 10:26:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/the-final-days-of-iceberg-a-23a/iceberga23a_tmo_20251226_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-08 10:26:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-08 10:26:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-08 10:26:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-08 10:26:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-08 10:26:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-08 10:26:16 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-08 10:26:16 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-08 10:26:16 [scraper.py:133] 📥 [EO] Title: Meltwater Turns Iceberg A-23A Blue
+INFO     2026-01-08 10:26:16 [scraper.py:133] 📥 [EO] Title: Meltwater Turns Iceberg A-23A Blue
+INFO     2026-01-08 10:26:16 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/the-final-days-of-iceberg-a-23a/iceberga23a_tmo_20251226_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-08 10:26:16 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/the-final-days-of-iceberg-a-23a/iceberga23a_tmo_20251226_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-08 10:26:16 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-08 10:26:16 [scraper.py:154] ✅ [EO] Successfully fetched.
+
