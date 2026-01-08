@@ -2435,3 +2435,8 @@ INFO     2026-01-08 02:20:56 [scraper.py:47] 📥 [APOD] Title: Simeis 147: The 
 INFO     2026-01-08 02:20:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Simeis147_Ferritti_960.jpg
 INFO     2026-01-08 02:20:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-08 05:30:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-08 05:30:58 [scraper.py:47] 📥 [APOD] Title: IC 342: Hidden Galaxy in Camelopardalis
+INFO     2026-01-08 05:30:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/IC342Low1024.jpg
+INFO     2026-01-08 05:30:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

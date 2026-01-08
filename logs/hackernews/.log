@@ -16237,3 +16237,36 @@ INFO     2026-01-08 02:20:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.reu
 INFO     2026-01-08 02:20:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-08 02:20:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-08 05:30:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-08 05:30:58 [scraper.py:170] 📥 [HN #1] Chase to become new issuer of Apple Card
+INFO     2026-01-08 05:30:58 [scraper.py:171] 🔗 [HN #1] URL: https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card
+INFO     2026-01-08 05:30:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-08 05:30:58 [scraper.py:170] 📥 [HN #2] Kernel bugs hide for 2 years on average. Some hide for 20
+INFO     2026-01-08 05:30:58 [scraper.py:171] 🔗 [HN #2] URL: https://pebblebed.com/blog/kernel-bugs
+INFO     2026-01-08 05:30:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-08 05:30:58 [scraper.py:170] 📥 [HN #3] Sugar industry influenced researchers and blamed fat for CVD (2016)
+INFO     2026-01-08 05:30:58 [scraper.py:171] 🔗 [HN #3] URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus
+INFO     2026-01-08 05:30:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-08 05:30:58 [scraper.py:170] 📥 [HN #4] Open Infrastructure Map
+INFO     2026-01-08 05:30:58 [scraper.py:171] 🔗 [HN #4] URL: https://openinframap.org
+INFO     2026-01-08 05:30:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-08 05:30:59 [scraper.py:170] 📥 [HN #5] Tailscale state file encryption no longer enabled by default
+INFO     2026-01-08 05:30:59 [scraper.py:171] 🔗 [HN #5] URL: https://tailscale.com/changelog
+INFO     2026-01-08 05:30:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-08 05:30:59 [scraper.py:170] 📥 [HN #6] Eat Real Food
+INFO     2026-01-08 05:30:59 [scraper.py:171] 🔗 [HN #6] URL: https://realfood.gov
+INFO     2026-01-08 05:30:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-08 05:30:59 [scraper.py:170] 📥 [HN #7] Shipmap.org
+INFO     2026-01-08 05:30:59 [scraper.py:171] 🔗 [HN #7] URL: https://www.shipmap.org/
+INFO     2026-01-08 05:30:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-08 05:30:59 [scraper.py:170] 📥 [HN #8] Play Aardwolf MUD
+INFO     2026-01-08 05:30:59 [scraper.py:171] 🔗 [HN #8] URL: https://www.aardwolf.com/
+INFO     2026-01-08 05:30:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-08 05:30:59 [scraper.py:170] 📥 [HN #9] Fighting back against biometric surveillance at Wegmans
+INFO     2026-01-08 05:30:59 [scraper.py:171] 🔗 [HN #9] URL: https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/
+INFO     2026-01-08 05:30:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-08 05:31:00 [scraper.py:170] 📥 [HN #10] How dependabot works
+INFO     2026-01-08 05:31:00 [scraper.py:171] 🔗 [HN #10] URL: https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html
+INFO     2026-01-08 05:31:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-08 05:31:00 [scraper.py:178] 🎉 [HN] All done.
+
