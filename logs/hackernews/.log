@@ -16369,3 +16369,36 @@ INFO     2026-01-09 05:31:37 [scraper.py:171] 🔗 [HN #10] URL: https://old.red
 INFO     2026-01-09 05:31:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-09 05:31:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-09 10:25:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-09 10:25:11 [scraper.py:170] 📥 [HN #1] Mathematics for Computer Science (2018) [pdf]
+INFO     2026-01-09 10:25:11 [scraper.py:171] 🔗 [HN #1] URL: https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+INFO     2026-01-09 10:25:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-09 10:25:11 [scraper.py:170] 📥 [HN #2] Surveillance Watch – a map that shows connections between surveillance companies
+INFO     2026-01-09 10:25:11 [scraper.py:171] 🔗 [HN #2] URL: https://www.surveillancewatch.io
+INFO     2026-01-09 10:25:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-09 10:25:11 [scraper.py:170] 📥 [HN #3] What Happened to WebAssembly
+INFO     2026-01-09 10:25:11 [scraper.py:171] 🔗 [HN #3] URL: https://emnudge.dev/blog/what-happened-to-webassembly/
+INFO     2026-01-09 10:25:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-09 10:25:12 [scraper.py:170] 📥 [HN #4] How to Code Claude Code in 200 Lines of Code
+INFO     2026-01-09 10:25:12 [scraper.py:171] 🔗 [HN #4] URL: https://www.mihaileric.com/The-Emperor-Has-No-Clothes/
+INFO     2026-01-09 10:25:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-09 10:25:12 [scraper.py:170] 📥 [HN #5] European Commission issues call for evidence on open source
+INFO     2026-01-09 10:25:12 [scraper.py:171] 🔗 [HN #5] URL: https://lwn.net/Articles/1053107/
+INFO     2026-01-09 10:25:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-09 10:25:12 [scraper.py:170] 📥 [HN #6] Why I left iNaturalist
+INFO     2026-01-09 10:25:12 [scraper.py:171] 🔗 [HN #6] URL: https://kueda.net/blog/2026/01/06/why-i-left-inat/
+INFO     2026-01-09 10:25:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-09 10:25:12 [scraper.py:170] 📥 [HN #7] Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU
+INFO     2026-01-09 10:25:12 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/samuel-vitorino/sopro
+INFO     2026-01-09 10:25:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-09 10:25:12 [scraper.py:170] 📥 [HN #8] Embassy: Modern embedded framework, using Rust and async
+INFO     2026-01-09 10:25:12 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/embassy-rs/embassy
+INFO     2026-01-09 10:25:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-09 10:25:13 [scraper.py:170] 📥 [HN #9] Hacking a Casio F-91W digital watch (2023)
+INFO     2026-01-09 10:25:13 [scraper.py:171] 🔗 [HN #9] URL: https://medium.com/infosec-watchtower/how-i-hacked-casio-f-91w-digital-watch-892bd519bd15
+INFO     2026-01-09 10:25:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-09 10:25:13 [scraper.py:170] 📥 [HN #10] Bose has released API docs and opened the API for its EoL SoundTouch speakers
+INFO     2026-01-09 10:25:13 [scraper.py:171] 🔗 [HN #10] URL: https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/
+INFO     2026-01-09 10:25:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-09 10:25:13 [scraper.py:178] 🎉 [HN] All done.
+
