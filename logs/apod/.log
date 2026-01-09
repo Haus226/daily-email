@@ -2450,3 +2450,8 @@ INFO     2026-01-09 02:21:33 [scraper.py:47] 📥 [APOD] Title: IC 342: Hidden G
 INFO     2026-01-09 02:21:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/IC342Low1024.jpg
 INFO     2026-01-09 02:21:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-09 05:31:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-09 05:31:36 [scraper.py:47] 📥 [APOD] Title: Ice Halos by Moonlight and Sunlight
+INFO     2026-01-09 05:31:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/TransitionsLight1024.jpeg
+INFO     2026-01-09 05:31:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
