@@ -16468,3 +16468,36 @@ INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.ani
 INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-10 05:27:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-10 10:21:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-10 10:21:58 [scraper.py:170] 📥 [HN #1] “Erdos problem #728 was solved more or less autonomously by AI”
+INFO     2026-01-10 10:21:58 [scraper.py:171] 🔗 [HN #1] URL: https://mathstodon.xyz/@tao/115855840223258103
+INFO     2026-01-10 10:21:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-10 10:21:58 [scraper.py:170] 📥 [HN #2] Changes to Android Open Source Project
+INFO     2026-01-10 10:21:58 [scraper.py:171] 🔗 [HN #2] URL: https://source.android.com/
+INFO     2026-01-10 10:21:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-10 10:21:58 [scraper.py:170] 📥 [HN #3] The Performance Revolution in JavaScript Tooling
+INFO     2026-01-10 10:21:58 [scraper.py:171] 🔗 [HN #3] URL: https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html
+INFO     2026-01-10 10:21:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-10 10:21:59 [scraper.py:170] 📥 [HN #4] JavaScript Demos in 140 Characters
+INFO     2026-01-10 10:21:59 [scraper.py:171] 🔗 [HN #4] URL: https://beta.dwitter.net
+INFO     2026-01-10 10:21:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-10 10:21:59 [scraper.py:170] 📥 [HN #5] Diving into Qualcomm's Upcoming Adreno X2 GPU with Eric Demers
+INFO     2026-01-10 10:21:59 [scraper.py:171] 🔗 [HN #5] URL: https://chipsandcheese.com/p/diving-into-qualcomms-upcoming-adreno
+INFO     2026-01-10 10:21:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-10 10:21:59 [scraper.py:170] 📥 [HN #6] Start your meetings at 5 minutes past
+INFO     2026-01-10 10:21:59 [scraper.py:171] 🔗 [HN #6] URL: https://philipotoole.com/start-your-meetings-at-5-minutes-past/
+INFO     2026-01-10 10:21:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-10 10:21:59 [scraper.py:170] 📥 [HN #7] Oh My Zsh adds bloat
+INFO     2026-01-10 10:21:59 [scraper.py:171] 🔗 [HN #7] URL: https://rushter.com/blog/zsh-shell/
+INFO     2026-01-10 10:21:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-10 10:22:00 [scraper.py:170] 📥 [HN #8] Greenland sharks maintain vision for centuries through DNA repair mechanism
+INFO     2026-01-10 10:22:00 [scraper.py:171] 🔗 [HN #8] URL: https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html
+INFO     2026-01-10 10:22:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-10 10:22:00 [scraper.py:170] 📥 [HN #9] How Markdown took over the world
+INFO     2026-01-10 10:22:00 [scraper.py:171] 🔗 [HN #9] URL: https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+INFO     2026-01-10 10:22:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-10 10:22:00 [scraper.py:170] 📥 [HN #10] RTX 5090 and Raspberry Pi: Can it game?
+INFO     2026-01-10 10:22:00 [scraper.py:171] 🔗 [HN #10] URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+INFO     2026-01-10 10:22:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-10 10:22:00 [scraper.py:178] 🎉 [HN] All done.
+
