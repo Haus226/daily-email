@@ -16402,3 +16402,36 @@ INFO     2026-01-09 10:25:13 [scraper.py:171] 🔗 [HN #10] URL: https://arstech
 INFO     2026-01-09 10:25:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-09 10:25:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-10 02:11:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-10 02:11:20 [scraper.py:170] 📥 [HN #1] “Erdos problem #728 was solved more or less autonomously by AI”
+INFO     2026-01-10 02:11:20 [scraper.py:171] 🔗 [HN #1] URL: https://mathstodon.xyz/@tao/115855840223258103
+INFO     2026-01-10 02:11:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-10 02:11:20 [scraper.py:170] 📥 [HN #2] JavaScript Demos in 140 Characters
+INFO     2026-01-10 02:11:20 [scraper.py:171] 🔗 [HN #2] URL: https://beta.dwitter.net
+INFO     2026-01-10 02:11:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-10 02:11:20 [scraper.py:170] 📥 [HN #3] RTX 5090 and Raspberry Pi: Can it game?
+INFO     2026-01-10 02:11:20 [scraper.py:171] 🔗 [HN #3] URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+INFO     2026-01-10 02:11:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-10 02:11:21 [scraper.py:170] 📥 [HN #4] Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times
+INFO     2026-01-10 02:11:21 [scraper.py:171] 🔗 [HN #4] URL: https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure
+INFO     2026-01-10 02:11:21 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-10 02:11:21 [scraper.py:170] 📥 [HN #5] Show HN: Rocket Launch and Orbit Simulator
+INFO     2026-01-10 02:11:21 [scraper.py:171] 🔗 [HN #5] URL: https://www.donutthejedi.com/
+INFO     2026-01-10 02:11:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-10 02:11:21 [scraper.py:170] 📥 [HN #6] How Markdown took over the world
+INFO     2026-01-10 02:11:21 [scraper.py:171] 🔗 [HN #6] URL: https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+INFO     2026-01-10 02:11:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-10 02:11:21 [scraper.py:170] 📥 [HN #7] How will the miracle happen today?
+INFO     2026-01-10 02:11:21 [scraper.py:171] 🔗 [HN #7] URL: https://kk.org/thetechnium/how-will-the-miracle-happen-today/
+INFO     2026-01-10 02:11:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-10 02:11:21 [scraper.py:170] 📥 [HN #8] Scientists discover oldest poison, on 60k-year-old arrows
+INFO     2026-01-10 02:11:21 [scraper.py:171] 🔗 [HN #8] URL: https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
+INFO     2026-01-10 02:11:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-10 02:11:22 [scraper.py:170] 📥 [HN #9] The (likely?) cheapest home-made Michelson interferometer
+INFO     2026-01-10 02:11:22 [scraper.py:171] 🔗 [HN #9] URL: https://guille.site/posts/3d-printed-michelson/
+INFO     2026-01-10 02:11:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-10 02:11:22 [scraper.py:170] 📥 [HN #10] Show HN: Scroll Wikipedia like TikTok
+INFO     2026-01-10 02:11:22 [scraper.py:171] 🔗 [HN #10] URL: https://quack.sdan.io
+INFO     2026-01-10 02:11:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-10 02:11:22 [scraper.py:178] 🎉 [HN] All done.
+
