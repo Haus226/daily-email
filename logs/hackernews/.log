@@ -16435,3 +16435,36 @@ INFO     2026-01-10 02:11:22 [scraper.py:171] 🔗 [HN #10] URL: https://quack.s
 INFO     2026-01-10 02:11:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-10 02:11:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-10 05:27:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-10 05:27:28 [scraper.py:170] 📥 [HN #1] You probably don't need Oh My Zsh
+INFO     2026-01-10 05:27:28 [scraper.py:171] 🔗 [HN #1] URL: https://rushter.com/blog/zsh-shell/
+INFO     2026-01-10 05:27:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-10 05:27:28 [scraper.py:170] 📥 [HN #2] “Erdos problem #728 was solved more or less autonomously by AI”
+INFO     2026-01-10 05:27:28 [scraper.py:171] 🔗 [HN #2] URL: https://mathstodon.xyz/@tao/115855840223258103
+INFO     2026-01-10 05:27:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-10 05:27:28 [scraper.py:170] 📥 [HN #3] OLED, Not for Me
+INFO     2026-01-10 05:27:28 [scraper.py:171] 🔗 [HN #3] URL: https://nuxx.net/blog/2026/01/09/oled-not-for-me/
+INFO     2026-01-10 05:27:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-10 05:27:28 [scraper.py:170] 📥 [HN #4] Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times
+INFO     2026-01-10 05:27:28 [scraper.py:171] 🔗 [HN #4] URL: https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure
+INFO     2026-01-10 05:27:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #5] Maine's black market for baby eels
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #5] URL: https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #6] JavaScript Demos in 140 Characters
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #6] URL: https://beta.dwitter.net
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #7] Greenland sharks maintain vision for centuries through DNA repair mechanism
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #7] URL: https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #8] RTX 5090 and Raspberry Pi: Can it game?
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #8] URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #9] Changes to Android Open Source Project
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #9] URL: https://source.android.com/
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:170] 📥 [HN #10] How Markdown took over the world
+INFO     2026-01-10 05:27:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+INFO     2026-01-10 05:27:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-10 05:27:29 [scraper.py:178] 🎉 [HN] All done.
+
