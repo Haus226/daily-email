@@ -2480,3 +2480,8 @@ INFO     2026-01-11 02:31:44 [scraper.py:47] 📥 [APOD] Title: Jupiter with the
 INFO     2026-01-11 02:31:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/jupiter2026.png
 INFO     2026-01-11 02:31:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-11 05:31:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-11 05:31:34 [scraper.py:47] 📥 [APOD] Title: M104: The Sombrero Galaxy in Infrared
+INFO     2026-01-11 05:31:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/sombrero_spitzer_1080.jpg
+INFO     2026-01-11 05:31:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

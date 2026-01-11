@@ -16534,3 +16534,36 @@ INFO     2026-01-11 02:31:46 [scraper.py:171] 🔗 [HN #10] URL: https://paris19
 INFO     2026-01-11 02:31:46 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-11 02:31:46 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-11 05:31:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-11 05:31:34 [scraper.py:170] 📥 [HN #1] My Home Fibre Network Disintegrated
+INFO     2026-01-11 05:31:34 [scraper.py:171] 🔗 [HN #1] URL: https://alienchow.dev/post/fibre_disintegration/
+INFO     2026-01-11 05:31:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-11 05:31:34 [scraper.py:170] 📥 [HN #2] Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering
+INFO     2026-01-11 05:31:34 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/OlaProeis/Ferrite
+INFO     2026-01-11 05:31:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #3] 'The answer cannot be nothing': The battle over Canada's mystery brain disease
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #3] URL: https://www.bbc.com/news/articles/c623r47d67lo
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #4] Finding and fixing Ghostty's largest memory leak
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #4] URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #5] Show HN: I used Claude Code to discover connections between 100 books
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #5] URL: https://trails.pieterma.es/
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #6] Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/unhaya/vam-seek
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #7] Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=46571149
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-11 05:31:35 [scraper.py:170] 📥 [HN #8] Open Chaos: A self-evolving open-source project
+INFO     2026-01-11 05:31:35 [scraper.py:171] 🔗 [HN #8] URL: https://www.openchaos.dev/
+INFO     2026-01-11 05:31:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-11 05:31:36 [scraper.py:170] 📥 [HN #9] A Year of Work on the Arch Linux Package Management (ALPM) Project
+INFO     2026-01-11 05:31:36 [scraper.py:171] 🔗 [HN #9] URL: https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/
+INFO     2026-01-11 05:31:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-11 05:31:37 [scraper.py:170] 📥 [HN #10] CPU Counters on Apple Silicon: article + tool
+INFO     2026-01-11 05:31:37 [scraper.py:171] 🔗 [HN #10] URL: https://blog.bugsiki.dev/posts/apple-pmu/
+INFO     2026-01-11 05:31:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-11 05:31:37 [scraper.py:178] 🎉 [HN] All done.
+
