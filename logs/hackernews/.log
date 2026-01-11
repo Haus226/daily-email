@@ -16567,3 +16567,36 @@ INFO     2026-01-11 05:31:37 [scraper.py:171] 🔗 [HN #10] URL: https://blog.bu
 INFO     2026-01-11 05:31:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-11 05:31:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-11 10:22:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-11 10:22:26 [scraper.py:170] 📥 [HN #1] C++ std::move doesn't move anything: A deep dive into Value Categories
+INFO     2026-01-11 10:22:26 [scraper.py:171] 🔗 [HN #1] URL: https://0xghost.dev/blog/std-move-deep-dive/
+INFO     2026-01-11 10:22:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-11 10:22:27 [scraper.py:170] 📥 [HN #2] You are not required to close your <p>, <li>, <img>, or <br> tags in HTML
+INFO     2026-01-11 10:22:27 [scraper.py:171] 🔗 [HN #2] URL: https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/
+INFO     2026-01-11 10:22:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-11 10:22:27 [scraper.py:170] 📥 [HN #3] More than one hundred years of Film Sizes
+INFO     2026-01-11 10:22:27 [scraper.py:171] 🔗 [HN #3] URL: https://wichm.home.xs4all.nl/filmsize.html
+INFO     2026-01-11 10:22:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-11 10:22:27 [scraper.py:170] 📥 [HN #4] The Concise TypeScript Book
+INFO     2026-01-11 10:22:27 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/gibbok/typescript-book
+INFO     2026-01-11 10:22:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-11 10:22:27 [scraper.py:170] 📥 [HN #5] Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users
+INFO     2026-01-11 10:22:27 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/vojtapolasek/vojtux
+INFO     2026-01-11 10:22:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-11 10:22:28 [scraper.py:170] 📥 [HN #6] Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering
+INFO     2026-01-11 10:22:28 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/OlaProeis/Ferrite
+INFO     2026-01-11 10:22:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-11 10:22:28 [scraper.py:170] 📥 [HN #7] 'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)
+INFO     2026-01-11 10:22:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/
+INFO     2026-01-11 10:22:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-11 10:22:28 [scraper.py:170] 📥 [HN #8] Finding and fixing Ghostty's largest memory leak
+INFO     2026-01-11 10:22:28 [scraper.py:171] 🔗 [HN #8] URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+INFO     2026-01-11 10:22:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-11 10:22:28 [scraper.py:170] 📥 [HN #9] Show HN: I used Claude Code to discover connections between 100 books
+INFO     2026-01-11 10:22:28 [scraper.py:171] 🔗 [HN #9] URL: https://trails.pieterma.es/
+INFO     2026-01-11 10:22:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-11 10:22:29 [scraper.py:170] 📥 [HN #10] Code and Let Live
+INFO     2026-01-11 10:22:29 [scraper.py:171] 🔗 [HN #10] URL: https://fly.io/blog/code-and-let-live/
+INFO     2026-01-11 10:22:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-11 10:22:29 [scraper.py:178] 🎉 [HN] All done.
+

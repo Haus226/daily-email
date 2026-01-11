@@ -4460,3 +4460,24 @@ INFO     2026-01-11 05:31:35 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-11 05:31:35 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-11 10:22:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-11 10:22:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-11 10:22:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-11 10:22:26 [scraper.py:133] 📥 [EO] Title: Ganges Delta Under a Winter Shroud of Fog
+INFO     2026-01-11 10:22:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ganges-delta-under-a-winter-shroud-of-fog/cloudstreets_tmo_20250106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-11 10:22:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-11 10:22:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-11 10:22:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-11 10:22:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-11 10:22:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-11 10:22:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-11 10:22:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-11 10:22:27 [scraper.py:133] 📥 [EO] Title: Ganges Delta Under a Winter Shroud of Fog
+INFO     2026-01-11 10:22:27 [scraper.py:133] 📥 [EO] Title: Ganges Delta Under a Winter Shroud of Fog
+INFO     2026-01-11 10:22:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ganges-delta-under-a-winter-shroud-of-fog/cloudstreets_tmo_20250106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-11 10:22:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ganges-delta-under-a-winter-shroud-of-fog/cloudstreets_tmo_20250106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-11 10:22:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-11 10:22:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+
