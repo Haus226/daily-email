@@ -16666,3 +16666,36 @@ INFO     2026-01-12 05:35:07 [scraper.py:171] 🔗 [HN #10] URL: https://cavendi
 INFO     2026-01-12 05:35:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-12 05:35:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-12 10:27:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-12 10:27:23 [scraper.py:170] 📥 [HN #1] The struggle of resizing windows on macOS Tahoe
+INFO     2026-01-12 10:27:23 [scraper.py:171] 🔗 [HN #1] URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
+INFO     2026-01-12 10:27:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-12 10:27:23 [scraper.py:170] 📥 [HN #2] JRR Tolkien reads from The Hobbit for 30 Minutes (1952)
+INFO     2026-01-12 10:27:23 [scraper.py:171] 🔗 [HN #2] URL: https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html
+INFO     2026-01-12 10:27:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-12 10:27:24 [scraper.py:170] 📥 [HN #3] CLI agents make self-hosting on a home server easier and fun
+INFO     2026-01-12 10:27:24 [scraper.py:171] 🔗 [HN #3] URL: https://fulghum.io/self-hosting
+INFO     2026-01-12 10:27:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-12 10:27:24 [scraper.py:170] 📥 [HN #4] 39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]
+INFO     2026-01-12 10:27:24 [scraper.py:171] 🔗 [HN #4] URL: https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be
+INFO     2026-01-12 10:27:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-12 10:27:24 [scraper.py:170] 📥 [HN #5] Lightpanda migrate DOM implementation to Zig
+INFO     2026-01-12 10:27:24 [scraper.py:171] 🔗 [HN #5] URL: https://lightpanda.io/blog/posts/migrating-our-dom-to-zig
+INFO     2026-01-12 10:27:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-12 10:27:24 [scraper.py:170] 📥 [HN #6] This game is a single 13 KiB file that runs on Windows, Linux and in the Browser
+INFO     2026-01-12 10:27:24 [scraper.py:171] 🔗 [HN #6] URL: https://iczelia.net/posts/snake-polyglot/
+INFO     2026-01-12 10:27:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-12 10:27:24 [scraper.py:170] 📥 [HN #7] iCloud Photos Downloader
+INFO     2026-01-12 10:27:24 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/icloud-photos-downloader/icloud_photos_downloader
+INFO     2026-01-12 10:27:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-12 10:27:25 [scraper.py:170] 📥 [HN #8] Conbini Wars – map of Japanese convenience store ratios
+INFO     2026-01-12 10:27:25 [scraper.py:171] 🔗 [HN #8] URL: https://conbini.kikkia.dev/
+INFO     2026-01-12 10:27:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-12 10:27:25 [scraper.py:170] 📥 [HN #9] Himalayas bare and rocky after reduced winter snowfall, scientists warn
+INFO     2026-01-12 10:27:25 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/clyndv7zd20o
+INFO     2026-01-12 10:27:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-12 10:27:25 [scraper.py:170] 📥 [HN #10] I'm making a game engine based on dynamic signed distance fields (SDFs) [video]
+INFO     2026-01-12 10:27:25 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=il-TXbn5iMA
+INFO     2026-01-12 10:27:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-12 10:27:25 [scraper.py:178] 🎉 [HN] All done.
+
