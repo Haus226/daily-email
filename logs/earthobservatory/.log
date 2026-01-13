@@ -4565,3 +4565,24 @@ INFO     2026-01-13 02:19:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-13 02:19:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-13 05:31:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-13 05:31:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-13 05:31:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-13 05:31:15 [scraper.py:133] 📥 [EO] Title: A Plume of Bright Blue in Melissa’s Wake
+INFO     2026-01-13 05:31:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-plume-of-bright-blue-in-melissa’s-wake/pedrobanksediment_tmo_20251030_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-13 05:31:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-13 05:31:15 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-13 05:31:15 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-13 05:31:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-13 05:31:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-13 05:31:17 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-13 05:31:17 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-13 05:31:17 [scraper.py:133] 📥 [EO] Title: A Plume of Bright Blue in Melissa’s Wake
+INFO     2026-01-13 05:31:17 [scraper.py:133] 📥 [EO] Title: A Plume of Bright Blue in Melissa’s Wake
+INFO     2026-01-13 05:31:17 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-plume-of-bright-blue-in-melissa’s-wake/pedrobanksediment_tmo_20251030_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-13 05:31:17 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-plume-of-bright-blue-in-melissa’s-wake/pedrobanksediment_tmo_20251030_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-13 05:31:17 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-13 05:31:17 [scraper.py:154] ✅ [EO] Successfully fetched.
+
