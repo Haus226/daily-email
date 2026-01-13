@@ -16765,3 +16765,36 @@ INFO     2026-01-13 05:31:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.bel
 INFO     2026-01-13 05:31:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-13 05:31:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-13 10:26:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-13 10:26:10 [scraper.py:170] 📥 [HN #1] Cowork: Claude Code for the rest of your work
+INFO     2026-01-13 10:26:10 [scraper.py:171] 🔗 [HN #1] URL: https://claude.com/blog/cowork-research-preview
+INFO     2026-01-13 10:26:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-13 10:26:10 [scraper.py:170] 📥 [HN #2] Text-Based Web Browsers
+INFO     2026-01-13 10:26:10 [scraper.py:171] 🔗 [HN #2] URL: https://cssence.com/2026/text-based-web-browsers/
+INFO     2026-01-13 10:26:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-13 10:26:10 [scraper.py:170] 📥 [HN #3] TimeCapsuleLLM: LLM trained only on data from 1800-1875
+INFO     2026-01-13 10:26:10 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/haykgrigo3/TimeCapsuleLLM
+INFO     2026-01-13 10:26:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-13 10:26:10 [scraper.py:170] 📥 [HN #4] Postal Arbitrage
+INFO     2026-01-13 10:26:10 [scraper.py:171] 🔗 [HN #4] URL: https://walzr.com/postal-arbitrage
+INFO     2026-01-13 10:26:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #5] Floppy disks turn out to be the greatest TV remote for kids
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #5] URL: https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #6] Implementing a web server in a single printf() call (2014)
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #6] URL: https://tinyhack.com/2014/03/12/implementing-a-web-server-in-a-single-printf-call/
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #7] The Cray-1 Computer System (1977) [pdf]
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #7] URL: https://s3data.computerhistory.org/brochures/cray.cray1.1977.102638650.pdf
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #8] The chess bot on Delta Air Lines will destroy you (2024) [video]
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #8] URL: https://www.youtube.com/watch?v=c0mLhHDcY3I
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #9] Unauthenticated remote code execution in OpenCode
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #9] URL: https://cy.md/opencode-rce/
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:170] 📥 [HN #10] Some ecologists fear their field is losing touch with nature
+INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.nature.com/articles/d41586-025-04150-w
+INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-13 10:26:11 [scraper.py:178] 🎉 [HN] All done.
+
