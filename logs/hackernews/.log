@@ -16798,3 +16798,36 @@ INFO     2026-01-13 10:26:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.nat
 INFO     2026-01-13 10:26:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-13 10:26:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-14 02:26:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-14 02:26:10 [scraper.py:170] 📥 [HN #1] A 40-line fix eliminated a 400x performance gap
+INFO     2026-01-14 02:26:10 [scraper.py:171] 🔗 [HN #1] URL: https://questdb.com/blog/jvm-current-thread-user-time/
+INFO     2026-01-14 02:26:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-14 02:26:10 [scraper.py:170] 📥 [HN #2] Every GitHub object has two IDs
+INFO     2026-01-14 02:26:10 [scraper.py:171] 🔗 [HN #2] URL: https://www.greptile.com/blog/github-ids
+INFO     2026-01-14 02:26:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-14 02:26:10 [scraper.py:170] 📥 [HN #3] vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep
+INFO     2026-01-14 02:26:10 [scraper.py:171] 🔗 [HN #3] URL: https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+INFO     2026-01-14 02:26:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-14 02:26:10 [scraper.py:170] 📥 [HN #4] The truth behind the 2026 J.P. Morgan Healthcare Conference
+INFO     2026-01-14 02:26:10 [scraper.py:171] 🔗 [HN #4] URL: https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan
+INFO     2026-01-14 02:26:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-14 02:26:10 [scraper.py:170] 📥 [HN #5] The $LANG Programming Language
+INFO     2026-01-14 02:26:10 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=46610557
+INFO     2026-01-14 02:26:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:170] 📥 [HN #6] Are two heads better than one?
+INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #6] URL: https://eieio.games/blog/two-heads-arent-better-than-one/
+INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:170] 📥 [HN #7] The Tulip Creative Computer
+INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/shorepine/tulipcc
+INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:170] 📥 [HN #8] No management needed: anti-patterns in early-stage engineering teams
+INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #8] URL: https://www.ablg.io/blog/no-management-needed
+INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:170] 📥 [HN #9] Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)
+INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer
+INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:170] 📥 [HN #10] AI Generated Music Barred from Bandcamp
+INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #10] URL: https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-14 02:26:11 [scraper.py:178] 🎉 [HN] All done.
+
