@@ -16831,3 +16831,36 @@ INFO     2026-01-14 02:26:11 [scraper.py:171] 🔗 [HN #10] URL: https://old.red
 INFO     2026-01-14 02:26:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-14 02:26:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-14 05:31:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-14 05:31:25 [scraper.py:170] 📥 [HN #1] There's a ridiculous amount of tech in a disposable vape
+INFO     2026-01-14 05:31:25 [scraper.py:171] 🔗 [HN #1] URL: https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html
+INFO     2026-01-14 05:31:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-14 05:31:26 [scraper.py:170] 📥 [HN #2] ASCII Clouds
+INFO     2026-01-14 05:31:26 [scraper.py:171] 🔗 [HN #2] URL: https://caidan.dev/portfolio/ascii_clouds/
+INFO     2026-01-14 05:31:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-14 05:31:26 [scraper.py:170] 📥 [HN #3] A 40-line fix eliminated a 400x performance gap
+INFO     2026-01-14 05:31:26 [scraper.py:171] 🔗 [HN #3] URL: https://questdb.com/blog/jvm-current-thread-user-time/
+INFO     2026-01-14 05:31:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-14 05:31:26 [scraper.py:170] 📥 [HN #4] 1000 Blank White Cards
+INFO     2026-01-14 05:31:26 [scraper.py:171] 🔗 [HN #4] URL: https://en.wikipedia.org/wiki/1000_Blank_White_Cards
+INFO     2026-01-14 05:31:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-14 05:31:26 [scraper.py:170] 📥 [HN #5] Every GitHub object has two IDs
+INFO     2026-01-14 05:31:26 [scraper.py:171] 🔗 [HN #5] URL: https://www.greptile.com/blog/github-ids
+INFO     2026-01-14 05:31:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-14 05:31:26 [scraper.py:170] 📥 [HN #6] Show HN: OSS AI agent that indexes and searches the Epstein files
+INFO     2026-01-14 05:31:26 [scraper.py:171] 🔗 [HN #6] URL: https://epstein.trynia.ai/
+INFO     2026-01-14 05:31:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-14 05:31:27 [scraper.py:170] 📥 [HN #7] Show HN: Cachekit – High performance caching policies library in Rust
+INFO     2026-01-14 05:31:27 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/OxidizeLabs/cachekit
+INFO     2026-01-14 05:31:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-14 05:31:27 [scraper.py:170] 📥 [HN #8] The truth behind the 2026 J.P. Morgan Healthcare Conference
+INFO     2026-01-14 05:31:27 [scraper.py:171] 🔗 [HN #8] URL: https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan
+INFO     2026-01-14 05:31:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-14 05:31:27 [scraper.py:170] 📥 [HN #9] vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep
+INFO     2026-01-14 05:31:27 [scraper.py:171] 🔗 [HN #9] URL: https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+INFO     2026-01-14 05:31:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-14 05:31:27 [scraper.py:170] 📥 [HN #10] The Gleam Programming Language
+INFO     2026-01-14 05:31:27 [scraper.py:171] 🔗 [HN #10] URL: https://gleam.run/
+INFO     2026-01-14 05:31:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-14 05:31:27 [scraper.py:178] 🎉 [HN] All done.
+
