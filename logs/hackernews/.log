@@ -16864,3 +16864,36 @@ INFO     2026-01-14 05:31:27 [scraper.py:171] 🔗 [HN #10] URL: https://gleam.r
 INFO     2026-01-14 05:31:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-14 05:31:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-14 10:26:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-14 10:26:57 [scraper.py:170] 📥 [HN #1] There's a ridiculous amount of tech in a disposable vape
+INFO     2026-01-14 10:26:57 [scraper.py:171] 🔗 [HN #1] URL: https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html
+INFO     2026-01-14 10:26:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-14 10:26:57 [scraper.py:170] 📥 [HN #2] LLMs are a 400-year-long confidence trick
+INFO     2026-01-14 10:26:57 [scraper.py:171] 🔗 [HN #2] URL: https://tomrenner.com/posts/400-year-confidence-trick/
+INFO     2026-01-14 10:26:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-14 10:26:57 [scraper.py:170] 📥 [HN #3] I Love You, Redis, but I'm Leaving You for SolidQueue
+INFO     2026-01-14 10:26:57 [scraper.py:171] 🔗 [HN #3] URL: https://www.simplethread.com/redis-solidqueue/
+INFO     2026-01-14 10:26:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #4] 1000 Blank White Cards
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #4] URL: https://en.wikipedia.org/wiki/1000_Blank_White_Cards
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #5] ASCII Clouds
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #5] URL: https://caidan.dev/portfolio/ascii_clouds/
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #6] The Gleam Programming Language
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #6] URL: https://gleam.run/
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #7] Every GitHub object has two IDs
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.greptile.com/blog/github-ids
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #8] A 40-line fix eliminated a 400x performance gap
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #8] URL: https://questdb.com/blog/jvm-current-thread-user-time/
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #9] Putting the "You" in CPU (2023)
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #9] URL: https://cpu.land/
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:170] 📥 [HN #10] Show HN: OSS AI agent that indexes and searches the Epstein files
+INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #10] URL: https://epstein.trynia.ai/
+INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-14 10:26:58 [scraper.py:178] 🎉 [HN] All done.
+
