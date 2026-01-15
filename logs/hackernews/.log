@@ -16963,3 +16963,36 @@ INFO     2026-01-15 05:32:14 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-01-15 05:32:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-15 05:32:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-15 10:26:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-15 10:26:57 [scraper.py:170] 📥 [HN #1] The URL shortener that makes your links look as suspicious as possible
+INFO     2026-01-15 10:26:57 [scraper.py:171] 🔗 [HN #1] URL: https://creepylink.com/
+INFO     2026-01-15 10:26:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-15 10:26:57 [scraper.py:170] 📥 [HN #2] Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs
+INFO     2026-01-15 10:26:57 [scraper.py:171] 🔗 [HN #2] URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/
+INFO     2026-01-15 10:26:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-15 10:26:57 [scraper.py:170] 📥 [HN #3] Claude Cowork exfiltrates files
+INFO     2026-01-15 10:26:57 [scraper.py:171] 🔗 [HN #3] URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+INFO     2026-01-15 10:26:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-15 10:26:57 [scraper.py:170] 📥 [HN #4] The <Geolocation> HTML Element
+INFO     2026-01-15 10:26:57 [scraper.py:171] 🔗 [HN #4] URL: https://developer.chrome.com/blog/geolocation-html-element
+INFO     2026-01-15 10:26:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-15 10:26:57 [scraper.py:170] 📥 [HN #5] Ask HN: How are you doing RAG locally?
+INFO     2026-01-15 10:26:57 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=46616529
+INFO     2026-01-15 10:26:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:170] 📥 [HN #6] A letter to those who fired tech writers because of AI
+INFO     2026-01-15 10:26:58 [scraper.py:171] 🔗 [HN #6] URL: https://passo.uno/letter-those-who-fired-tech-writers-ai/
+INFO     2026-01-15 10:26:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:170] 📥 [HN #7] Ask HN: Share your personal website
+INFO     2026-01-15 10:26:58 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=46618714
+INFO     2026-01-15 10:26:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:170] 📥 [HN #8] New Safari developer tools provide insight into CSS Grid Lanes
+INFO     2026-01-15 10:26:58 [scraper.py:171] 🔗 [HN #8] URL: https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/
+INFO     2026-01-15 10:26:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:170] 📥 [HN #9] Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring
+INFO     2026-01-15 10:26:58 [scraper.py:171] 🔗 [HN #9] URL: https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer
+INFO     2026-01-15 10:26:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:170] 📥 [HN #10] Z80 Mem­ber­ship Card
+INFO     2026-01-15 10:26:58 [scraper.py:171] 🔗 [HN #10] URL: https://sunrise-ev.com/z80.htm
+INFO     2026-01-15 10:26:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-15 10:26:58 [scraper.py:178] 🎉 [HN] All done.
+
