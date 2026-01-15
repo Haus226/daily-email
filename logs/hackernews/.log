@@ -16930,3 +16930,36 @@ INFO     2026-01-15 02:20:30 [scraper.py:171] 🔗 [HN #10] URL: https://drajmar
 INFO     2026-01-15 02:20:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-15 02:20:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-15 05:32:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-15 05:32:12 [scraper.py:170] 📥 [HN #1] The URL shortener that makes your links look as suspicious as possible
+INFO     2026-01-15 05:32:12 [scraper.py:171] 🔗 [HN #1] URL: https://creepylink.com/
+INFO     2026-01-15 05:32:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-15 05:32:13 [scraper.py:170] 📥 [HN #2] Claude Cowork exfiltrates files
+INFO     2026-01-15 05:32:13 [scraper.py:171] 🔗 [HN #2] URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+INFO     2026-01-15 05:32:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-15 05:32:13 [scraper.py:170] 📥 [HN #3] Furiosa: 3.5x efficiency over H100s
+INFO     2026-01-15 05:32:13 [scraper.py:171] 🔗 [HN #3] URL: https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale
+INFO     2026-01-15 05:32:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-15 05:32:13 [scraper.py:170] 📥 [HN #4] Ask HN: What is the best way to provide continuous context to models?
+INFO     2026-01-15 05:32:13 [scraper.py:171] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=46626639
+INFO     2026-01-15 05:32:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-15 05:32:13 [scraper.py:170] 📥 [HN #5] Scaling long-running autonomous coding
+INFO     2026-01-15 05:32:13 [scraper.py:171] 🔗 [HN #5] URL: https://cursor.com/blog/scaling-agents
+INFO     2026-01-15 05:32:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-15 05:32:13 [scraper.py:170] 📥 [HN #6] You need a kitchen slide rule
+INFO     2026-01-15 05:32:13 [scraper.py:171] 🔗 [HN #6] URL: https://entropicthoughts.com/kitchen-slide-rule
+INFO     2026-01-15 05:32:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-15 05:32:14 [scraper.py:170] 📥 [HN #7] Ask HN: Share your personal website
+INFO     2026-01-15 05:32:14 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=46618714
+INFO     2026-01-15 05:32:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-15 05:32:14 [scraper.py:170] 📥 [HN #8] Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR
+INFO     2026-01-15 05:32:14 [scraper.py:171] 🔗 [HN #8] URL: https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+INFO     2026-01-15 05:32:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-15 05:32:14 [scraper.py:170] 📥 [HN #9] Ask HN: What did you find out or explore today?
+INFO     2026-01-15 05:32:14 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=46619464
+INFO     2026-01-15 05:32:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-15 05:32:14 [scraper.py:170] 📥 [HN #10] Ask HN: Weird archive.today behavior?
+INFO     2026-01-15 05:32:14 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=46624740
+INFO     2026-01-15 05:32:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-15 05:32:14 [scraper.py:178] 🎉 [HN] All done.
+

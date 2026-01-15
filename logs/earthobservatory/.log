@@ -4691,3 +4691,24 @@ INFO     2026-01-15 02:20:28 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-15 02:20:28 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-15 05:32:09 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-15 05:32:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-15 05:32:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-15 05:32:12 [scraper.py:133] 📥 [EO] Title: Clouds Swimming over Lago Argentino
+INFO     2026-01-15 05:32:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/clouds-swimming-over-lago-argentino/ISS074-E-8940_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-15 05:32:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-15 05:32:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-15 05:32:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-15 05:32:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-15 05:32:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-15 05:32:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-15 05:32:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-15 05:32:13 [scraper.py:133] 📥 [EO] Title: Clouds Swimming over Lago Argentino
+INFO     2026-01-15 05:32:13 [scraper.py:133] 📥 [EO] Title: Clouds Swimming over Lago Argentino
+INFO     2026-01-15 05:32:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/clouds-swimming-over-lago-argentino/ISS074-E-8940_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-15 05:32:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/clouds-swimming-over-lago-argentino/ISS074-E-8940_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-15 05:32:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-15 05:32:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
