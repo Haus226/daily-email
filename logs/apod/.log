@@ -2535,3 +2535,8 @@ INFO     2026-01-14 10:26:57 [scraper.py:47] 📥 [APOD] Title: M51: The Whirlpo
 INFO     2026-01-14 10:26:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg
 INFO     2026-01-14 10:26:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-15 02:20:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-15 02:20:27 [scraper.py:47] 📥 [APOD] Title: M51: The Whirlpool Galaxy
+INFO     2026-01-15 02:20:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg
+INFO     2026-01-15 02:20:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

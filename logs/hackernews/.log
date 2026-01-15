@@ -16897,3 +16897,36 @@ INFO     2026-01-14 10:26:58 [scraper.py:171] 🔗 [HN #10] URL: https://epstein
 INFO     2026-01-14 10:26:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-14 10:26:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-15 02:20:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-15 02:20:28 [scraper.py:170] 📥 [HN #1] Claude Cowork Exfiltrates Files
+INFO     2026-01-15 02:20:28 [scraper.py:171] 🔗 [HN #1] URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+INFO     2026-01-15 02:20:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-15 02:20:28 [scraper.py:170] 📥 [HN #2] Furiosa: 3.5x efficiency over H100s
+INFO     2026-01-15 02:20:28 [scraper.py:171] 🔗 [HN #2] URL: https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale
+INFO     2026-01-15 02:20:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-15 02:20:28 [scraper.py:170] 📥 [HN #3] Is passive investment inflating a stockmarket bubble?
+INFO     2026-01-15 02:20:28 [scraper.py:171] 🔗 [HN #3] URL: https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble
+INFO     2026-01-15 02:20:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-15 02:20:28 [scraper.py:170] 📥 [HN #4] Scaling long-running autonomous coding
+INFO     2026-01-15 02:20:28 [scraper.py:171] 🔗 [HN #4] URL: https://cursor.com/blog/scaling-agents
+INFO     2026-01-15 02:20:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-15 02:20:29 [scraper.py:170] 📥 [HN #5] Ask HN: Share your personal website
+INFO     2026-01-15 02:20:29 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=46618714
+INFO     2026-01-15 02:20:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-15 02:20:29 [scraper.py:170] 📥 [HN #6] The State of OpenSSL for pyca/cryptography
+INFO     2026-01-15 02:20:29 [scraper.py:171] 🔗 [HN #6] URL: https://cryptography.io/en/latest/statements/state-of-openssl/
+INFO     2026-01-15 02:20:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-15 02:20:29 [scraper.py:170] 📥 [HN #7] Show HN: WebTiles – create a tiny 250x250 website with neighbors around you
+INFO     2026-01-15 02:20:29 [scraper.py:171] 🔗 [HN #7] URL: https://webtiles.kicya.net/
+INFO     2026-01-15 02:20:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-15 02:20:29 [scraper.py:170] 📥 [HN #8] Generate QR Codes with Pure SQL in PostgreSQL
+INFO     2026-01-15 02:20:29 [scraper.py:171] 🔗 [HN #8] URL: https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/
+INFO     2026-01-15 02:20:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-15 02:20:29 [scraper.py:170] 📥 [HN #9] Why some clothes shrink in the wash and how to unshrink them
+INFO     2026-01-15 02:20:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/
+INFO     2026-01-15 02:20:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-15 02:20:30 [scraper.py:170] 📥 [HN #10] Sun Position Calculator
+INFO     2026-01-15 02:20:30 [scraper.py:171] 🔗 [HN #10] URL: https://drajmarsh.bitbucket.io/earthsun.html
+INFO     2026-01-15 02:20:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-15 02:20:30 [scraper.py:178] 🎉 [HN] All done.
+
