@@ -17062,3 +17062,36 @@ INFO     2026-01-16 05:31:48 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-01-16 05:31:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-16 05:31:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-16 10:25:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-16 10:25:55 [scraper.py:170] 📥 [HN #1] OpenBSD-current now runs as guest under Apple Hypervisor
+INFO     2026-01-16 10:25:55 [scraper.py:171] 🔗 [HN #1] URL: https://www.undeadly.org/cgi?action=article;sid=20260115203619
+INFO     2026-01-16 10:25:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-16 10:25:55 [scraper.py:170] 📥 [HN #2] List of individual trees
+INFO     2026-01-16 10:25:55 [scraper.py:171] 🔗 [HN #2] URL: https://en.wikipedia.org/wiki/List_of_individual_trees
+INFO     2026-01-16 10:25:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-16 10:25:55 [scraper.py:170] 📥 [HN #3] The spectrum of isolation: From bare metal to WebAssembly
+INFO     2026-01-16 10:25:55 [scraper.py:171] 🔗 [HN #3] URL: https://buildsoftwaresystems.com/post/guide-to-execution-environments/
+INFO     2026-01-16 10:25:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-16 10:25:55 [scraper.py:170] 📥 [HN #4] Apple is fighting for TSMC capacity as Nvidia takes center stage
+INFO     2026-01-16 10:25:55 [scraper.py:171] 🔗 [HN #4] URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+INFO     2026-01-16 10:25:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-16 10:25:55 [scraper.py:170] 📥 [HN #5] Pocket TTS: A high quality TTS that gives your CPU a voice
+INFO     2026-01-16 10:25:55 [scraper.py:171] 🔗 [HN #5] URL: https://kyutai.org/blog/2026-01-13-pocket-tts
+INFO     2026-01-16 10:25:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:170] 📥 [HN #6] Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark
+INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #6] URL: https://briarproject.org/manual/fa/
+INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:170] 📥 [HN #7] Interactive eBPF
+INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #7] URL: https://ebpf.party/
+INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:170] 📥 [HN #8] pf: Make af-to less magical
+INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #8] URL: https://undeadly.org/cgi?action=article;sid=20260116085115
+INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:170] 📥 [HN #9] Inside The Internet Archive's Infrastructure
+INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #9] URL: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:170] 📥 [HN #10] Bringing the Predators to Life in MAME
+INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #10] URL: https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/
+INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-16 10:25:56 [scraper.py:178] 🎉 [HN] All done.
+
