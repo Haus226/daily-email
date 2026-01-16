@@ -17029,3 +17029,36 @@ INFO     2026-01-16 02:22:26 [scraper.py:171] 🔗 [HN #10] URL: https://frontie
 INFO     2026-01-16 02:22:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-16 02:22:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-16 05:31:46 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-16 05:31:46 [scraper.py:170] 📥 [HN #1] OpenBSD-current now runs as guest under Apple Hypervisor
+INFO     2026-01-16 05:31:46 [scraper.py:171] 🔗 [HN #1] URL: https://www.undeadly.org/cgi?action=article;sid=20260115203619
+INFO     2026-01-16 05:31:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-16 05:31:46 [scraper.py:170] 📥 [HN #2] Boeing knew of flaw in part linked to UPS plane crash
+INFO     2026-01-16 05:31:46 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/news/articles/cly56w0p9e1o
+INFO     2026-01-16 05:31:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-16 05:31:46 [scraper.py:170] 📥 [HN #3] Apple is fighting for TSMC capacity as Nvidia takes center stage
+INFO     2026-01-16 05:31:46 [scraper.py:171] 🔗 [HN #3] URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+INFO     2026-01-16 05:31:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-16 05:31:47 [scraper.py:170] 📥 [HN #4] Pocket TTS: A high quality TTS that gives your CPU a voice
+INFO     2026-01-16 05:31:47 [scraper.py:171] 🔗 [HN #4] URL: https://kyutai.org/blog/2026-01-13-pocket-tts
+INFO     2026-01-16 05:31:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-16 05:31:47 [scraper.py:170] 📥 [HN #5] Inside The Internet Archive's Infrastructure
+INFO     2026-01-16 05:31:47 [scraper.py:171] 🔗 [HN #5] URL: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+INFO     2026-01-16 05:31:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-16 05:31:47 [scraper.py:170] 📥 [HN #6] Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark
+INFO     2026-01-16 05:31:47 [scraper.py:171] 🔗 [HN #6] URL: https://briarproject.org/manual/fa/
+INFO     2026-01-16 05:31:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-16 05:31:47 [scraper.py:170] 📥 [HN #7] Everything you need to know about act() in React tests
+INFO     2026-01-16 05:31:47 [scraper.py:171] 🔗 [HN #7] URL: https://howtotestfrontend.com/resources/react-act-function-everything-you-need-to-know
+INFO     2026-01-16 05:31:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-16 05:31:47 [scraper.py:170] 📥 [HN #8] My Gripes with Prolog
+INFO     2026-01-16 05:31:47 [scraper.py:171] 🔗 [HN #8] URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/
+INFO     2026-01-16 05:31:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-16 05:31:48 [scraper.py:170] 📥 [HN #9] Linux boxes via SSH: suspended when disconected
+INFO     2026-01-16 05:31:48 [scraper.py:171] 🔗 [HN #9] URL: https://shellbox.dev/
+INFO     2026-01-16 05:31:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-16 05:31:48 [scraper.py:170] 📥 [HN #10] Ask HN: How can we solve the loneliness epidemic?
+INFO     2026-01-16 05:31:48 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=46635345
+INFO     2026-01-16 05:31:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-16 05:31:48 [scraper.py:178] 🎉 [HN] All done.
+

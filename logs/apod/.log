@@ -2555,3 +2555,8 @@ INFO     2026-01-16 02:22:25 [scraper.py:47] 📥 [APOD] Title: Plato and the Lu
 INFO     2026-01-16 02:22:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg
 INFO     2026-01-16 02:22:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-16 05:31:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-16 05:31:46 [scraper.py:47] 📥 [APOD] Title: NGC 7023: The Iris Nebula
+INFO     2026-01-16 05:31:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg
+INFO     2026-01-16 05:31:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
