@@ -17161,3 +17161,36 @@ INFO     2026-01-17 05:26:21 [scraper.py:171] 🔗 [HN #10] URL: https://cloud.g
 INFO     2026-01-17 05:26:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-17 05:26:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-17 10:21:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-17 10:21:52 [scraper.py:170] 📥 [HN #1] ClickHouse Acquires Langfuse
+INFO     2026-01-17 10:21:52 [scraper.py:171] 🔗 [HN #1] URL: https://langfuse.com/blog/joining-clickhouse
+INFO     2026-01-17 10:21:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-17 10:21:52 [scraper.py:170] 📥 [HN #2] East Germany balloon escape
+INFO     2026-01-17 10:21:52 [scraper.py:171] 🔗 [HN #2] URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+INFO     2026-01-17 10:21:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-17 10:21:52 [scraper.py:170] 📥 [HN #3] Show HN: Streaming gigabyte medical images from S3 without downloading them
+INFO     2026-01-17 10:21:52 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/PABannier/WSIStreamer
+INFO     2026-01-17 10:21:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-17 10:21:52 [scraper.py:170] 📥 [HN #4] Cloudflare acquires Astro
+INFO     2026-01-17 10:21:52 [scraper.py:171] 🔗 [HN #4] URL: https://astro.build/blog/joining-cloudflare/
+INFO     2026-01-17 10:21:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #5] High-Level Is the Goal
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #5] URL: https://bvisness.me/high-level/
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #6] Cursor's latest “browser experiment” implied success without evidence
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #6] URL: https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #7] FLUX.2 [Klein]: Towards Interactive Visual Intelligence
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #7] URL: https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #8] 6-Day and IP Address Certificates Are Generally Available
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #8] URL: https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #9] Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #9] URL: https://neodyme.io/en/blog/drone_hacking_part_1/
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:170] 📥 [HN #10] Lies, Damned Lies and Proofs: Formal Methods Are Not Slopless
+INFO     2026-01-17 10:21:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.lesswrong.com/posts/rhAPh3YzhPoBNpgHg/lies-damned-lies-and-proofs-formal-methods-are-not-slopless
+INFO     2026-01-17 10:21:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-17 10:21:53 [scraper.py:178] 🎉 [HN] All done.
+

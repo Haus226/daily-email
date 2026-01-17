@@ -2573,3 +2573,8 @@ INFO     2026-01-17 02:09:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
 INFO     2026-01-17 05:26:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-01-17 05:26:28 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError("HTTPSConnection(host='apod.nasa.gov', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
 
+INFO     2026-01-17 10:21:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-17 10:21:52 [scraper.py:47] 📥 [APOD] Title: Apollo 14: A View from Antares
+INFO     2026-01-17 10:21:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg
+INFO     2026-01-17 10:21:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
