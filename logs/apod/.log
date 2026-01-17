@@ -2570,3 +2570,6 @@ INFO     2026-01-17 02:09:31 [scraper.py:47] 📥 [APOD] Title: NGC 7023: The Ir
 INFO     2026-01-17 02:09:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg
 INFO     2026-01-17 02:09:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-17 05:26:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-01-17 05:26:28 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError("HTTPSConnection(host='apod.nasa.gov', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+
