@@ -17095,3 +17095,36 @@ INFO     2026-01-16 10:25:56 [scraper.py:171] 🔗 [HN #10] URL: https://lysiwyg
 INFO     2026-01-16 10:25:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-16 10:25:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-17 02:09:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-17 02:09:31 [scraper.py:170] 📥 [HN #1] East Germany balloon escape
+INFO     2026-01-17 02:09:31 [scraper.py:171] 🔗 [HN #1] URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+INFO     2026-01-17 02:09:31 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-17 02:09:31 [scraper.py:170] 📥 [HN #2] Cloudflare acquires Astro
+INFO     2026-01-17 02:09:31 [scraper.py:171] 🔗 [HN #2] URL: https://astro.build/blog/joining-cloudflare/
+INFO     2026-01-17 02:09:31 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-17 02:09:31 [scraper.py:170] 📥 [HN #3] Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
+INFO     2026-01-17 02:09:31 [scraper.py:171] 🔗 [HN #3] URL: https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
+INFO     2026-01-17 02:09:31 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-17 02:09:32 [scraper.py:170] 📥 [HN #4] LLM Structured Outputs Handbook
+INFO     2026-01-17 02:09:32 [scraper.py:171] 🔗 [HN #4] URL: https://nanonets.com/cookbooks/structured-llm-outputs
+INFO     2026-01-17 02:09:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-17 02:09:32 [scraper.py:170] 📥 [HN #5] 6-Day and IP Address Certificates Are Generally Available
+INFO     2026-01-17 02:09:32 [scraper.py:171] 🔗 [HN #5] URL: https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+INFO     2026-01-17 02:09:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-17 02:09:32 [scraper.py:170] 📥 [HN #6] Cursor's latest “browser experiment” implied success without evidence
+INFO     2026-01-17 02:09:32 [scraper.py:171] 🔗 [HN #6] URL: https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+INFO     2026-01-17 02:09:32 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-17 02:09:32 [scraper.py:170] 📥 [HN #7] FLUX.2 [Klein]: Towards Interactive Visual Intelligence
+INFO     2026-01-17 02:09:32 [scraper.py:171] 🔗 [HN #7] URL: https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence
+INFO     2026-01-17 02:09:32 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-17 02:09:32 [scraper.py:170] 📥 [HN #8] Michelangelo's first painting, created when he was 12 or 13
+INFO     2026-01-17 02:09:32 [scraper.py:171] 🔗 [HN #8] URL: https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html
+INFO     2026-01-17 02:09:32 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-17 02:09:33 [scraper.py:170] 📥 [HN #9] Just the Browser
+INFO     2026-01-17 02:09:33 [scraper.py:171] 🔗 [HN #9] URL: https://justthebrowser.com/
+INFO     2026-01-17 02:09:33 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-17 02:09:33 [scraper.py:170] 📥 [HN #10] High-Level Is the Goal
+INFO     2026-01-17 02:09:33 [scraper.py:171] 🔗 [HN #10] URL: https://bvisness.me/high-level/
+INFO     2026-01-17 02:09:33 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-17 02:09:33 [scraper.py:178] 🎉 [HN] All done.
+
