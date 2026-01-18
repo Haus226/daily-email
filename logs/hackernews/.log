@@ -17260,3 +17260,36 @@ INFO     2026-01-18 05:29:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.cai
 INFO     2026-01-18 05:29:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-18 05:29:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-18 10:22:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-18 10:22:40 [scraper.py:170] 📥 [HN #1] Iconify: Library of Open Source Icons
+INFO     2026-01-18 10:22:40 [scraper.py:171] 🔗 [HN #1] URL: https://icon-sets.iconify.design/
+INFO     2026-01-18 10:22:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-18 10:22:40 [scraper.py:170] 📥 [HN #2] ThinkNext Design
+INFO     2026-01-18 10:22:40 [scraper.py:171] 🔗 [HN #2] URL: https://thinknextdesign.com/home.html
+INFO     2026-01-18 10:22:40 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #3] Consent-O-Matic
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/cavi-au/Consent-O-Matic
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #4] Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/gibram-io/gibram
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #5] The longest Greek word
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #5] URL: https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #6] jQuery 4
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #6] URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #7] Profession by Isaac Asimov
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #7] URL: https://www.abelard.org/asimov.php
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-18 10:22:41 [scraper.py:170] 📥 [HN #8] ASCII characters are not pixels: a deep dive into ASCII rendering
+INFO     2026-01-18 10:22:41 [scraper.py:171] 🔗 [HN #8] URL: https://alexharri.com/blog/ascii-rendering
+INFO     2026-01-18 10:22:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-18 10:22:42 [scraper.py:170] 📥 [HN #9] No knives, only cook knives
+INFO     2026-01-18 10:22:42 [scraper.py:171] 🔗 [HN #9] URL: https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives
+INFO     2026-01-18 10:22:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-18 10:22:42 [scraper.py:170] 📥 [HN #10] Data Activation Thoughts
+INFO     2026-01-18 10:22:42 [scraper.py:171] 🔗 [HN #10] URL: https://galsapir.github.io/sparse-thoughts/2026/01/17/data_activation/
+INFO     2026-01-18 10:22:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-18 10:22:42 [scraper.py:178] 🎉 [HN] All done.
+
