@@ -2578,3 +2578,8 @@ INFO     2026-01-17 10:21:52 [scraper.py:47] 📥 [APOD] Title: Apollo 14: A Vie
 INFO     2026-01-17 10:21:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg
 INFO     2026-01-17 10:21:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-18 02:30:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-18 02:30:21 [scraper.py:47] 📥 [APOD] Title: Apollo 14: A View from Antares
+INFO     2026-01-18 02:30:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg
+INFO     2026-01-18 02:30:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
