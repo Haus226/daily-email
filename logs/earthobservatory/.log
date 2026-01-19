@@ -4943,3 +4943,24 @@ INFO     2026-01-19 02:27:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-19 02:27:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-19 05:36:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-19 05:36:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-19 05:36:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-19 05:36:13 [scraper.py:133] 📥 [EO] Title: How Long, Not Long
+INFO     2026-01-19 05:36:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-long,-not-long/montgomeryal_oli_20250916_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-19 05:36:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-19 05:36:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-19 05:36:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-19 05:36:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-19 05:36:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-19 05:36:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-19 05:36:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-19 05:36:14 [scraper.py:133] 📥 [EO] Title: How Long, Not Long
+INFO     2026-01-19 05:36:14 [scraper.py:133] 📥 [EO] Title: How Long, Not Long
+INFO     2026-01-19 05:36:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-long,-not-long/montgomeryal_oli_20250916_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-19 05:36:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-long,-not-long/montgomeryal_oli_20250916_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-19 05:36:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-19 05:36:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -2598,3 +2598,8 @@ INFO     2026-01-19 02:27:40 [scraper.py:47] 📥 [APOD] Title: Jupiter from the
 INFO     2026-01-19 02:27:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg
 INFO     2026-01-19 02:27:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-19 05:36:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-19 05:36:13 [scraper.py:47] 📥 [APOD] Title: CTB 1: The Medulla Nebula
+INFO     2026-01-19 05:36:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Ctb1_Konzelmann_960.jpg
+INFO     2026-01-19 05:36:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
