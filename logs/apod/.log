@@ -2613,3 +2613,8 @@ INFO     2026-01-20 02:22:42 [scraper.py:47] 📥 [APOD] Title: CTB 1: The Medul
 INFO     2026-01-20 02:22:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Ctb1_Konzelmann_960.jpg
 INFO     2026-01-20 02:22:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-20 05:35:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-20 05:35:08 [scraper.py:47] 📥 [APOD] Title: Io in True Color
+INFO     2026-01-20 05:35:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_960.jpg
+INFO     2026-01-20 05:35:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
