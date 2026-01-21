@@ -17524,3 +17524,36 @@ INFO     2026-01-21 02:25:34 [scraper.py:171] 🔗 [HN #10] URL: https://so-long
 INFO     2026-01-21 02:25:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-21 02:25:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-21 05:34:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-21 05:34:26 [scraper.py:170] 📥 [HN #1] Anthropic's original take home assignment open sourced
+INFO     2026-01-21 05:34:26 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/anthropics/original_performance_takehome
+INFO     2026-01-21 05:34:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-21 05:34:26 [scraper.py:170] 📥 [HN #2] Disaster planning for regular folks (2015)
+INFO     2026-01-21 05:34:26 [scraper.py:171] 🔗 [HN #2] URL: https://lcamtuf.coredump.cx/prep/index-old.shtml
+INFO     2026-01-21 05:34:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-21 05:34:26 [scraper.py:170] 📥 [HN #3] A 26,000-year astronomical monument hidden in plain sight (2019)
+INFO     2026-01-21 05:34:26 [scraper.py:171] 🔗 [HN #3] URL: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
+INFO     2026-01-21 05:34:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-21 05:34:26 [scraper.py:170] 📥 [HN #4] Are arrays functions?
+INFO     2026-01-21 05:34:26 [scraper.py:171] 🔗 [HN #4] URL: https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html
+INFO     2026-01-21 05:34:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #5] Libbbf: Bound Book Format, A high-performance container for comics and manga
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ef1500/libbbf
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #6] California is free of drought for the first time in 25 years
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #6] URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #7] Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/mastra-ai/mastra
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #8] Instabridge has acquired Nova Launcher
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #8] URL: https://novalauncher.com/nova-is-here-to-stay
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #9] Which AI Lies Best? A game theory classic designed by John Nash
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #9] URL: https://so-long-sucker.vercel.app/
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:170] 📥 [HN #10] The Unix Pipe Card Game
+INFO     2026-01-21 05:34:27 [scraper.py:171] 🔗 [HN #10] URL: https://punkx.org/unix-pipe-game/
+INFO     2026-01-21 05:34:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-21 05:34:27 [scraper.py:178] 🎉 [HN] All done.
+
