@@ -2633,3 +2633,8 @@ INFO     2026-01-21 05:34:26 [scraper.py:390] 📥 [TAROT] Card: The Last Judgme
 INFO     2026-01-21 05:34:26 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-21 05:34:26 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-01-21 10:30:34 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-01-21 10:30:34 [scraper.py:390] 📥 [TAROT] Card: The Last Judgment
+INFO     2026-01-21 10:30:34 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-01-21 10:30:34 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

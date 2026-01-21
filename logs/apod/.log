@@ -2633,3 +2633,8 @@ INFO     2026-01-21 05:34:26 [scraper.py:47] 📥 [APOD] Title: Barred Spiral Ga
 INFO     2026-01-21 05:34:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png
 INFO     2026-01-21 05:34:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-21 10:30:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-21 10:30:35 [scraper.py:47] 📥 [APOD] Title: Barred Spiral Galaxy NGC 1365 from Webb
+INFO     2026-01-21 10:30:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png
+INFO     2026-01-21 10:30:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
