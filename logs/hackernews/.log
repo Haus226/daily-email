@@ -17590,3 +17590,36 @@ INFO     2026-01-21 10:30:36 [scraper.py:171] 🔗 [HN #10] URL: https://atlas9.
 INFO     2026-01-21 10:30:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-21 10:30:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-22 02:26:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-22 02:26:49 [scraper.py:170] 📥 [HN #1] Internet voting is insecure and should not be used in public elections
+INFO     2026-01-22 02:26:49 [scraper.py:171] 🔗 [HN #1] URL: https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/
+INFO     2026-01-22 02:26:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-22 02:26:49 [scraper.py:170] 📥 [HN #2] Significant US Farm Losses Persist, Despite Federal Assistance
+INFO     2026-01-22 02:26:49 [scraper.py:171] 🔗 [HN #2] URL: https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance
+INFO     2026-01-22 02:26:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-22 02:26:49 [scraper.py:170] 📥 [HN #3] Take potentially dangerous PDFs, and convert them to safe PDFs
+INFO     2026-01-22 02:26:49 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/freedomofpress/dangerzone
+INFO     2026-01-22 02:26:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #4] Binary Fuse Filters: Fast and Smaller Than XOR Filters
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #4] URL: https://arxiv.org/abs/2201.01174
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #5] Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ChartGPU/ChartGPU
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #6] Claude's new constitution
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/news/claude-new-constitution
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #7] Threat Actors Expand Abuse of Microsoft Visual Studio Code
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #7] URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #8] Skip is now free and open source
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #8] URL: https://skip.dev/blog/skip-is-free/
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-22 02:26:50 [scraper.py:170] 📥 [HN #9] Golfing APL/K in 90 Lines of Python
+INFO     2026-01-22 02:26:50 [scraper.py:171] 🔗 [HN #9] URL: https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python
+INFO     2026-01-22 02:26:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-22 02:26:51 [scraper.py:170] 📥 [HN #10] Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby
+INFO     2026-01-22 02:26:51 [scraper.py:171] 🔗 [HN #10] URL: https://www.ratatui-ruby.dev/
+INFO     2026-01-22 02:26:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-22 02:26:51 [scraper.py:178] 🎉 [HN] All done.
+
