@@ -17623,3 +17623,36 @@ INFO     2026-01-22 02:26:51 [scraper.py:171] 🔗 [HN #10] URL: https://www.rat
 INFO     2026-01-22 02:26:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-22 02:26:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-22 05:34:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-22 05:34:27 [scraper.py:170] 📥 [HN #1] Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete
+INFO     2026-01-22 05:34:27 [scraper.py:171] 🔗 [HN #1] URL: https://huggingface.co/sweepai/sweep-next-edit-1.5B
+INFO     2026-01-22 05:34:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-22 05:34:28 [scraper.py:170] 📥 [HN #2] Threat actors expand abuse of Microsoft Visual Studio Code
+INFO     2026-01-22 05:34:28 [scraper.py:171] 🔗 [HN #2] URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/
+INFO     2026-01-22 05:34:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-22 05:34:28 [scraper.py:170] 📥 [HN #3] From stealth blackout to whitelisting: Inside the Iranian shutdown
+INFO     2026-01-22 05:34:28 [scraper.py:171] 🔗 [HN #3] URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/
+INFO     2026-01-22 05:34:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-22 05:34:28 [scraper.py:170] 📥 [HN #4] Binary fuse filters: Fast and smaller than xor filters (2022)
+INFO     2026-01-22 05:34:28 [scraper.py:171] 🔗 [HN #4] URL: https://arxiv.org/abs/2201.01174
+INFO     2026-01-22 05:34:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-22 05:34:28 [scraper.py:170] 📥 [HN #5] Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+INFO     2026-01-22 05:34:28 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ChartGPU/ChartGPU
+INFO     2026-01-22 05:34:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-22 05:34:28 [scraper.py:170] 📥 [HN #6] Claude's new constitution
+INFO     2026-01-22 05:34:28 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/news/claude-new-constitution
+INFO     2026-01-22 05:34:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-22 05:34:29 [scraper.py:170] 📥 [HN #7] Show HN: TerabyteDeals – Compare storage prices by $/TB
+INFO     2026-01-22 05:34:29 [scraper.py:171] 🔗 [HN #7] URL: https://terabytedeals.com
+INFO     2026-01-22 05:34:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-22 05:34:29 [scraper.py:170] 📥 [HN #8] Show HN: High speed graphics rendering research with tinygrad/tinyJIT
+INFO     2026-01-22 05:34:29 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/quantbagel/gtinygrad
+INFO     2026-01-22 05:34:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-22 05:34:29 [scraper.py:170] 📥 [HN #9] Skip is now free and open source
+INFO     2026-01-22 05:34:29 [scraper.py:171] 🔗 [HN #9] URL: https://skip.dev/blog/skip-is-free/
+INFO     2026-01-22 05:34:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-22 05:34:29 [scraper.py:170] 📥 [HN #10] Show HN: Open-source certificate from GitHub activity
+INFO     2026-01-22 05:34:29 [scraper.py:171] 🔗 [HN #10] URL: https://certificate.brendonmatos.com
+INFO     2026-01-22 05:34:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-22 05:34:29 [scraper.py:178] 🎉 [HN] All done.
+
