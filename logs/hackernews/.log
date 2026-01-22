@@ -17656,3 +17656,36 @@ INFO     2026-01-22 05:34:29 [scraper.py:171] 🔗 [HN #10] URL: https://certifi
 INFO     2026-01-22 05:34:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-22 05:34:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-22 10:29:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-22 10:29:21 [scraper.py:170] 📥 [HN #1] Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete
+INFO     2026-01-22 10:29:21 [scraper.py:171] 🔗 [HN #1] URL: https://huggingface.co/sweepai/sweep-next-edit-1.5B
+INFO     2026-01-22 10:29:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-22 10:29:21 [scraper.py:170] 📥 [HN #2] Doctors in Brazil using tilapia fish skin to treat burn victims
+INFO     2026-01-22 10:29:21 [scraper.py:171] 🔗 [HN #2] URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims
+INFO     2026-01-22 10:29:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-22 10:29:21 [scraper.py:170] 📥 [HN #3] In Praise of APL (1977)
+INFO     2026-01-22 10:29:21 [scraper.py:171] 🔗 [HN #3] URL: https://www.jsoftware.com/papers/perlis77.htm
+INFO     2026-01-22 10:29:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-22 10:29:21 [scraper.py:170] 📥 [HN #4] From stealth blackout to whitelisting: Inside the Iranian shutdown
+INFO     2026-01-22 10:29:21 [scraper.py:171] 🔗 [HN #4] URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/
+INFO     2026-01-22 10:29:21 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #5] Hands-On Introduction to Unikernels
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #5] URL: https://labs.iximiuz.com/tutorials/unikernels-intro-93976514
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #6] Threat actors expand abuse of Microsoft Visual Studio Code
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #6] URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #7] App Subscription is now my Weekend Project
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #7] URL: https://rselbach.com/your-sub-is-now-my-weekend-project
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #8] Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #8] URL: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #9] Claude's new constitution
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #9] URL: https://www.anthropic.com/news/claude-new-constitution
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:170] 📥 [HN #10] Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+INFO     2026-01-22 10:29:22 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ChartGPU/ChartGPU
+INFO     2026-01-22 10:29:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-22 10:29:22 [scraper.py:178] 🎉 [HN] All done.
+
