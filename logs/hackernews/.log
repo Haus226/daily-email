@@ -17755,3 +17755,36 @@ INFO     2026-01-23 05:33:54 [scraper.py:171] 🔗 [HN #10] URL: https://marcosm
 INFO     2026-01-23 05:33:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-23 05:33:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-23 10:26:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-23 10:26:43 [scraper.py:170] 📥 [HN #1] Google is ending full-web search for niche search engines
+INFO     2026-01-23 10:26:43 [scraper.py:171] 🔗 [HN #1] URL: https://programmablesearchengine.googleblog.com/
+INFO     2026-01-23 10:26:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-23 10:26:44 [scraper.py:170] 📥 [HN #2] I built a light that reacts to radio waves [video]
+INFO     2026-01-23 10:26:44 [scraper.py:171] 🔗 [HN #2] URL: https://www.youtube.com/watch?v=moBCOEiqiPs
+INFO     2026-01-23 10:26:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-23 10:26:44 [scraper.py:170] 📥 [HN #3] Replacing Protobuf with Rust to go 5 times faster
+INFO     2026-01-23 10:26:44 [scraper.py:171] 🔗 [HN #3] URL: https://pgdog.dev/blog/replace-protobuf-with-rust
+INFO     2026-01-23 10:26:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-23 10:26:44 [scraper.py:170] 📥 [HN #4] Proton Spam and the AI Consent Problem
+INFO     2026-01-23 10:26:44 [scraper.py:171] 🔗 [HN #4] URL: https://dbushell.com/2026/01/22/proton-spam/
+INFO     2026-01-23 10:26:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-23 10:26:44 [scraper.py:170] 📥 [HN #5] Show HN: isometric.nyc – giant isometric pixel art map of NYC
+INFO     2026-01-23 10:26:44 [scraper.py:171] 🔗 [HN #5] URL: https://cannoneyed.com/isometric-nyc/
+INFO     2026-01-23 10:26:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-23 10:26:44 [scraper.py:170] 📥 [HN #6] GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers
+INFO     2026-01-23 10:26:44 [scraper.py:171] 🔗 [HN #6] URL: https://gptzero.me/news/neurips/
+INFO     2026-01-23 10:26:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-23 10:26:45 [scraper.py:170] 📥 [HN #7] Capital One to acquire Brex for $5.15B
+INFO     2026-01-23 10:26:45 [scraper.py:171] 🔗 [HN #7] URL: https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/
+INFO     2026-01-23 10:26:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-23 10:26:45 [scraper.py:170] 📥 [HN #8] AI Is a Horse (2024)
+INFO     2026-01-23 10:26:45 [scraper.py:171] 🔗 [HN #8] URL: https://kconner.com/2024/08/02/ai-is-a-horse.html
+INFO     2026-01-23 10:26:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-23 10:26:45 [scraper.py:170] 📥 [HN #9] Why does SSH send 100 packets per keystroke?
+INFO     2026-01-23 10:26:45 [scraper.py:171] 🔗 [HN #9] URL: https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/
+INFO     2026-01-23 10:26:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-23 10:26:45 [scraper.py:170] 📥 [HN #10] I was banned from Claude for scaffolding a Claude.md file?
+INFO     2026-01-23 10:26:45 [scraper.py:171] 🔗 [HN #10] URL: https://hugodaniel.com/posts/claude-code-banned-me/
+INFO     2026-01-23 10:26:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-23 10:26:45 [scraper.py:178] 🎉 [HN] All done.
+
