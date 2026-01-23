@@ -2658,3 +2658,8 @@ INFO     2026-01-23 02:22:36 [scraper.py:47] 📥 [APOD] Title: LDN 1622: Dark N
 INFO     2026-01-23 02:22:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg
 INFO     2026-01-23 02:22:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-23 05:33:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-23 05:33:52 [scraper.py:47] 📥 [APOD] Title: Planetary Nebula Abell 7
+INFO     2026-01-23 05:33:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg
+INFO     2026-01-23 05:33:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
