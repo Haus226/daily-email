@@ -17854,3 +17854,36 @@ INFO     2026-01-24 05:27:38 [scraper.py:171] 🔗 [HN #10] URL: https://blog.cl
 INFO     2026-01-24 05:27:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-24 05:27:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-24 10:22:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-24 10:22:44 [scraper.py:170] 📥 [HN #1] Internet Archive's Storage
+INFO     2026-01-24 10:22:44 [scraper.py:171] 🔗 [HN #1] URL: https://blog.dshr.org/2026/01/internet-archives-storage.html
+INFO     2026-01-24 10:22:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-24 10:22:44 [scraper.py:170] 📥 [HN #2] 80386 Multiplication and Division
+INFO     2026-01-24 10:22:44 [scraper.py:171] 🔗 [HN #2] URL: https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/
+INFO     2026-01-24 10:22:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-24 10:22:44 [scraper.py:170] 📥 [HN #3] Unrolling the Codex agent loop
+INFO     2026-01-24 10:22:44 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/unrolling-the-codex-agent-loop/
+INFO     2026-01-24 10:22:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-24 10:22:44 [scraper.py:170] 📥 [HN #4] Traintrackr – Live LED Maps
+INFO     2026-01-24 10:22:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.traintrackr.co.uk/
+INFO     2026-01-24 10:22:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-24 10:22:44 [scraper.py:170] 📥 [HN #5] Proof of Corn
+INFO     2026-01-24 10:22:44 [scraper.py:171] 🔗 [HN #5] URL: https://proofofcorn.com/
+INFO     2026-01-24 10:22:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:170] 📥 [HN #6] Some C habits I employ for the modern day
+INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #6] URL: https://www.unix.dog/~yosh/blog/c-habits-for-me.html
+INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:170] 📥 [HN #7] Extracting verified C++ from the Rocq theorem prover at Bloomberg
+INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #7] URL: https://bloomberg.github.io/crane/
+INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:170] 📥 [HN #8] Gas Town's agent patterns, design bottlenecks, and vibecoding at scale
+INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #8] URL: https://maggieappleton.com/gastown
+INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:170] 📥 [HN #9] New YC homepage
+INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #9] URL: https://www.ycombinator.com/
+INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:170] 📥 [HN #10] "People are going to stop and ask you, 'How can I help?' Let them."
+INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #10] URL: https://www.npr.org/2026/01/20/nx-s1-5683170/let-them-the-small-bit-of-advice-that-made-a-big-difference-to-a-grieving-widow
+INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-24 10:22:45 [scraper.py:178] 🎉 [HN] All done.
+
