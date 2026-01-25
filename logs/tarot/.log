@@ -2683,3 +2683,8 @@ INFO     2026-01-24 10:22:44 [scraper.py:390] 📥 [TAROT] Card: Ace of Wands
 INFO     2026-01-24 10:22:44 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-24 10:22:44 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-01-25 02:34:11 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-01-25 02:34:11 [scraper.py:390] 📥 [TAROT] Card: Five of Pentacles
+INFO     2026-01-25 02:34:11 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-01-25 02:34:11 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

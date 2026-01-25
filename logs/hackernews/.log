@@ -17887,3 +17887,36 @@ INFO     2026-01-24 10:22:45 [scraper.py:171] 🔗 [HN #10] URL: https://www.npr
 INFO     2026-01-24 10:22:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-24 10:22:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-25 02:34:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-25 02:34:11 [scraper.py:170] 📥 [HN #1] Adoption of EVs tied to real-world reductions in air pollution: study
+INFO     2026-01-25 02:34:11 [scraper.py:171] 🔗 [HN #1] URL: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/
+INFO     2026-01-25 02:34:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-25 02:34:11 [scraper.py:170] 📥 [HN #2] BirdyChat becomes first European chat app that is interoperable with WhatsApp
+INFO     2026-01-25 02:34:11 [scraper.py:171] 🔗 [HN #2] URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
+INFO     2026-01-25 02:34:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-25 02:34:12 [scraper.py:170] 📥 [HN #3] We X-Rayed a Suspicious FTDI USB Cable
+INFO     2026-01-25 02:34:12 [scraper.py:171] 🔗 [HN #3] URL: https://eclypsium.com/blog/xray-counterfeit-usb-cable/
+INFO     2026-01-25 02:34:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-25 02:34:12 [scraper.py:170] 📥 [HN #4] Postmortem: Our first VLEO satellite mission (with imagery and flight data)
+INFO     2026-01-25 02:34:12 [scraper.py:171] 🔗 [HN #4] URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
+INFO     2026-01-25 02:34:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-25 02:34:12 [scraper.py:170] 📥 [HN #5] Two Weeks Until Tapeout
+INFO     2026-01-25 02:34:12 [scraper.py:171] 🔗 [HN #5] URL: https://essenceia.github.io/projects/two_weeks_until_tapeout/
+INFO     2026-01-25 02:34:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-25 02:34:12 [scraper.py:170] 📥 [HN #6] Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison
+INFO     2026-01-25 02:34:12 [scraper.py:171] 🔗 [HN #6] URL: https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/
+INFO     2026-01-25 02:34:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-25 02:34:12 [scraper.py:170] 📥 [HN #7] Claude Code's new hidden feature: Swarms
+INFO     2026-01-25 02:34:12 [scraper.py:171] 🔗 [HN #7] URL: https://twitter.com/NicerInPerson/status/2014989679796347375
+INFO     2026-01-25 02:34:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-25 02:34:13 [scraper.py:170] 📥 [HN #8] High-bandwidth flash progress and future
+INFO     2026-01-25 02:34:13 [scraper.py:171] 🔗 [HN #8] URL: https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/
+INFO     2026-01-25 02:34:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-25 02:34:13 [scraper.py:170] 📥 [HN #9] Memory layout in Zig with formulas
+INFO     2026-01-25 02:34:13 [scraper.py:171] 🔗 [HN #9] URL: https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
+INFO     2026-01-25 02:34:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-25 02:34:13 [scraper.py:170] 📥 [HN #10] Poland's energy grid was targeted by never-before-seen wiper malware
+INFO     2026-01-25 02:34:13 [scraper.py:171] 🔗 [HN #10] URL: https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/
+INFO     2026-01-25 02:34:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-25 02:34:13 [scraper.py:178] 🎉 [HN] All done.
+

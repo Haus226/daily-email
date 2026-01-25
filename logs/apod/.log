@@ -2683,3 +2683,8 @@ INFO     2026-01-24 10:22:44 [scraper.py:47] 📥 [APOD] Title: Earthset from Or
 INFO     2026-01-24 10:22:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/earthset-snap01.png
 INFO     2026-01-24 10:22:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-25 02:34:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-25 02:34:11 [scraper.py:47] 📥 [APOD] Title: Earthset from Orion
+INFO     2026-01-25 02:34:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/earthset-snap01.png
+INFO     2026-01-25 02:34:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
