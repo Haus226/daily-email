@@ -5321,3 +5321,24 @@ INFO     2026-01-25 02:34:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-25 02:34:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-25 05:32:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-25 05:32:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-25 05:33:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-25 05:33:00 [scraper.py:133] 📥 [EO] Title: Winter Grips the Michigan Mitten
+INFO     2026-01-25 05:33:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter-grips-the-michigan-mitten/greatlakes_cloudstreets_tmo_20260120_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-25 05:33:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-25 05:33:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-25 05:33:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-25 05:33:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-25 05:33:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-25 05:33:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-25 05:33:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-25 05:33:01 [scraper.py:133] 📥 [EO] Title: Winter Grips the Michigan Mitten
+INFO     2026-01-25 05:33:01 [scraper.py:133] 📥 [EO] Title: Winter Grips the Michigan Mitten
+INFO     2026-01-25 05:33:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter-grips-the-michigan-mitten/greatlakes_cloudstreets_tmo_20260120_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-25 05:33:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter-grips-the-michigan-mitten/greatlakes_cloudstreets_tmo_20260120_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-25 05:33:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-25 05:33:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+

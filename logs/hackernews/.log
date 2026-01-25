@@ -17920,3 +17920,36 @@ INFO     2026-01-25 02:34:13 [scraper.py:171] 🔗 [HN #10] URL: https://arstech
 INFO     2026-01-25 02:34:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-25 02:34:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-25 05:33:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-25 05:33:00 [scraper.py:170] 📥 [HN #1] nvidia-smi hangs indefinitely after ~66 days
+INFO     2026-01-25 05:33:00 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971
+INFO     2026-01-25 05:33:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-25 05:33:00 [scraper.py:170] 📥 [HN #2] Adoption of EVs tied to real-world reductions in air pollution: study
+INFO     2026-01-25 05:33:00 [scraper.py:171] 🔗 [HN #2] URL: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/
+INFO     2026-01-25 05:33:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-25 05:33:00 [scraper.py:170] 📥 [HN #3] BirdyChat becomes first European chat app that is interoperable with WhatsApp
+INFO     2026-01-25 05:33:00 [scraper.py:171] 🔗 [HN #3] URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
+INFO     2026-01-25 05:33:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-25 05:33:00 [scraper.py:170] 📥 [HN #4] Palantir has no place in UK public services
+INFO     2026-01-25 05:33:00 [scraper.py:171] 🔗 [HN #4] URL: https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/
+INFO     2026-01-25 05:33:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #5] Two Weeks Until Tapeout
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #5] URL: https://essenceia.github.io/projects/two_weeks_until_tapeout/
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #6] The Responsibility of Intellectuals (1967)
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #6] URL: https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #7] David Patterson: Challenges and Research Directions for LLM Inference Hardware
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2601.05047
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #8] We X-Rayed a Suspicious FTDI USB Cable
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #8] URL: https://eclypsium.com/blog/xray-counterfeit-usb-cable/
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #9] Show HN: VM-curator – a TUI alternative to libvirt and virt-manager
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/mroboff/vm-curator
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:170] 📥 [HN #10] Postmortem: Our first VLEO satellite mission (with imagery and flight data)
+INFO     2026-01-25 05:33:01 [scraper.py:171] 🔗 [HN #10] URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
+INFO     2026-01-25 05:33:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-25 05:33:01 [scraper.py:178] 🎉 [HN] All done.
+

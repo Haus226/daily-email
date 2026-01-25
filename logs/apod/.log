@@ -2688,3 +2688,8 @@ INFO     2026-01-25 02:34:11 [scraper.py:47] 📥 [APOD] Title: Earthset from Or
 INFO     2026-01-25 02:34:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/earthset-snap01.png
 INFO     2026-01-25 02:34:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-25 05:33:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-25 05:33:00 [scraper.py:47] 📥 [APOD] Title: Phobos: Doomed Moon of Mars
+INFO     2026-01-25 05:33:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg
+INFO     2026-01-25 05:33:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
