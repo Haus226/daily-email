@@ -2703,3 +2703,8 @@ INFO     2026-01-26 02:33:14 [scraper.py:47] 📥 [APOD] Title: Phobos: Doomed M
 INFO     2026-01-26 02:33:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg
 INFO     2026-01-26 02:33:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-26 05:36:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-26 05:36:40 [scraper.py:47] 📥 [APOD] Title: NGC 55: A Galaxy of Nebulas
+INFO     2026-01-26 05:36:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg
+INFO     2026-01-26 05:36:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

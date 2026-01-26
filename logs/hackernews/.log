@@ -18019,3 +18019,36 @@ INFO     2026-01-26 02:33:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.lig
 INFO     2026-01-26 02:33:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-26 02:33:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-26 05:36:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-26 05:36:40 [scraper.py:170] 📥 [HN #1] First, make me care
+INFO     2026-01-26 05:36:40 [scraper.py:171] 🔗 [HN #1] URL: https://gwern.net/blog/2026/make-me-care
+INFO     2026-01-26 05:36:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-26 05:36:40 [scraper.py:170] 📥 [HN #2] Scientists identify brain waves that define the limits of 'you'
+INFO     2026-01-26 05:36:40 [scraper.py:171] 🔗 [HN #2] URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
+INFO     2026-01-26 05:36:40 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #3] A macOS app that blurs your screen when you slouch
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/tldev/posturr
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #4] Iran's internet blackout may become permanent, with access for elites only
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #4] URL: https://restofworld.org/2026/iran-blackout-tiered-internet/
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #5] Case study: Creative math – How AI fakes proofs
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #5] URL: https://tomaszmachnik.pl/case-study-math-en.html
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #6] Video Games as Art
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #6] URL: https://gwern.net/video-game-art
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #7] The Science of Fermentation [audio]
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.co.uk/programmes/m002pqg6
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-26 05:36:41 [scraper.py:170] 📥 [HN #8] Delta single handle ball faucets (1963)
+INFO     2026-01-26 05:36:41 [scraper.py:171] 🔗 [HN #8] URL: https://archive.org/details/DeltaSingleHandleBallFaucets
+INFO     2026-01-26 05:36:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-26 05:36:42 [scraper.py:170] 📥 [HN #9] Spanish track was fractured before high-speed train disaster, report finds
+INFO     2026-01-26 05:36:42 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/c1m77dmxlvlo
+INFO     2026-01-26 05:36:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-26 05:36:42 [scraper.py:170] 📥 [HN #10] Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems
+INFO     2026-01-26 05:36:42 [scraper.py:171] 🔗 [HN #10] URL: https://www.diljitpr.net/blog-post-postgresql-dlq
+INFO     2026-01-26 05:36:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-26 05:36:42 [scraper.py:178] 🎉 [HN] All done.
+
