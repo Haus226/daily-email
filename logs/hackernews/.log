@@ -17986,3 +17986,36 @@ INFO     2026-01-25 10:23:43 [scraper.py:171] 🔗 [HN #10] URL: https://essence
 INFO     2026-01-25 10:23:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-25 10:23:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-26 02:33:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #1] First, make me care
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #1] URL: https://gwern.net/blog/2026/make-me-care
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #2] Scientists identify brain waves that define the limits of 'you'
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #2] URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #3] A macOS app that blurs your screen when you slouch
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/tldev/posturr
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #4] Case study: Creative math – How AI fakes proofs
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #4] URL: https://tomaszmachnik.pl/case-study-math-en.html
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #5] Clawdbot - open source personal AI assistant
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/clawdbot/clawdbot
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-26 02:33:14 [scraper.py:170] 📥 [HN #6] Show HN: A small programming language where everything is pass-by-value
+INFO     2026-01-26 02:33:14 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/Jcparkyn/herd
+INFO     2026-01-26 02:33:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-26 02:33:15 [scraper.py:170] 📥 [HN #7] Guix for Development
+INFO     2026-01-26 02:33:15 [scraper.py:171] 🔗 [HN #7] URL: https://dthompson.us/posts/guix-for-development.html
+INFO     2026-01-26 02:33:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-26 02:33:15 [scraper.py:170] 📥 [HN #8] Doom has been ported to an earbud
+INFO     2026-01-26 02:33:15 [scraper.py:171] 🔗 [HN #8] URL: https://doombuds.com
+INFO     2026-01-26 02:33:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-26 02:33:15 [scraper.py:170] 📥 [HN #9] Spanish track was fractured before high-speed train disaster, report finds
+INFO     2026-01-26 02:33:15 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/c1m77dmxlvlo
+INFO     2026-01-26 02:33:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-26 02:33:15 [scraper.py:170] 📥 [HN #10] Show HN: An interactive map of US lighthouses and navigational aids
+INFO     2026-01-26 02:33:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.lighthouses.app/
+INFO     2026-01-26 02:33:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-26 02:33:15 [scraper.py:178] 🎉 [HN] All done.
+
