@@ -18085,3 +18085,36 @@ INFO     2026-01-26 10:28:52 [scraper.py:171] 🔗 [HN #10] URL: https://restofw
 INFO     2026-01-26 10:28:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-26 10:28:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-27 02:28:46 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-27 02:28:47 [scraper.py:170] 📥 [HN #1] Television is 100 years old today
+INFO     2026-01-27 02:28:47 [scraper.py:171] 🔗 [HN #1] URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html
+INFO     2026-01-27 02:28:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-27 02:28:47 [scraper.py:170] 📥 [HN #2] ChatGPT Containers can now run bash, pip/npm install packages and download files
+INFO     2026-01-27 02:28:47 [scraper.py:171] 🔗 [HN #2] URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+INFO     2026-01-27 02:28:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-27 02:28:47 [scraper.py:170] 📥 [HN #3] The Hidden Engineering of Runways
+INFO     2026-01-27 02:28:47 [scraper.py:171] 🔗 [HN #3] URL: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+INFO     2026-01-27 02:28:47 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-27 02:28:47 [scraper.py:170] 📥 [HN #4] AI code and software craft
+INFO     2026-01-27 02:28:47 [scraper.py:171] 🔗 [HN #4] URL: https://alexwennerberg.com/blog/2026-01-25-slop.html
+INFO     2026-01-27 02:28:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-27 02:28:47 [scraper.py:170] 📥 [HN #5] There is an AI code review bubble
+INFO     2026-01-27 02:28:47 [scraper.py:171] 🔗 [HN #5] URL: https://www.greptile.com/blog/ai-code-review-bubble
+INFO     2026-01-27 02:28:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:170] 📥 [HN #6] Any application that can be written in a system language, eventually will be
+INFO     2026-01-27 02:28:48 [scraper.py:171] 🔗 [HN #6] URL: https://www.avraam.dev/blog/system-language-corollary
+INFO     2026-01-27 02:28:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:170] 📥 [HN #7] JuiceSSH – Give me my pro features back
+INFO     2026-01-27 02:28:48 [scraper.py:171] 🔗 [HN #7] URL: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/
+INFO     2026-01-27 02:28:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:170] 📥 [HN #8] Apple introduces new AirTag with longer range and improved findability
+INFO     2026-01-27 02:28:48 [scraper.py:171] 🔗 [HN #8] URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+INFO     2026-01-27 02:28:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:170] 📥 [HN #9] RIP Low-Code 2014-2025
+INFO     2026-01-27 02:28:48 [scraper.py:171] 🔗 [HN #9] URL: https://www.zackliscio.com/posts/rip-low-code-2014-2025/
+INFO     2026-01-27 02:28:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:170] 📥 [HN #10] People who know the formula for WD-40
+INFO     2026-01-27 02:28:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+INFO     2026-01-27 02:28:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-27 02:28:48 [scraper.py:178] 🎉 [HN] All done.
+
