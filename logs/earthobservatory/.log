@@ -5447,3 +5447,24 @@ INFO     2026-01-27 02:28:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-27 02:28:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-27 05:33:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-27 05:33:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-27 05:33:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-27 05:33:19 [scraper.py:133] 📥 [EO] Title: Floods Inundate Southern Mozambique
+INFO     2026-01-27 05:33:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floods-inundate-southern-mozambique/mozambiqueflooding_amo_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-27 05:33:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-27 05:33:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-27 05:33:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-27 05:33:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-27 05:33:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-27 05:33:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-27 05:33:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-27 05:33:20 [scraper.py:133] 📥 [EO] Title: Floods Inundate Southern Mozambique
+INFO     2026-01-27 05:33:20 [scraper.py:133] 📥 [EO] Title: Floods Inundate Southern Mozambique
+INFO     2026-01-27 05:33:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floods-inundate-southern-mozambique/mozambiqueflooding_amo_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-27 05:33:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floods-inundate-southern-mozambique/mozambiqueflooding_amo_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-27 05:33:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-27 05:33:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
