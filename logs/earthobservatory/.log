@@ -5510,3 +5510,24 @@ INFO     2026-01-28 02:25:04 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-01-28 02:25:04 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-01-28 05:34:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-28 05:34:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-28 05:34:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-28 05:34:19 [scraper.py:133] 📥 [EO] Title: Floods Inundate Southern Mozambique
+INFO     2026-01-28 05:34:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floods-inundate-southern-mozambique/mozambiqueflooding_amo_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-28 05:34:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-28 05:34:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-28 05:34:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-01-28 05:34:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-28 05:34:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-01-28 05:34:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-28 05:34:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-01-28 05:34:22 [scraper.py:133] 📥 [EO] Title: Snow Buries the U.S. Interior and East
+INFO     2026-01-28 05:34:22 [scraper.py:133] 📥 [EO] Title: Snow Buries the U.S. Interior and East
+INFO     2026-01-28 05:34:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-buries-the-u-s--interior-and-east/ussnow_vir_20260126_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-28 05:34:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/snow-buries-the-u-s--interior-and-east/ussnow_vir_20260126_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-01-28 05:34:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-01-28 05:34:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
