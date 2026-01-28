@@ -2728,3 +2728,8 @@ INFO     2026-01-27 10:29:46 [scraper.py:390] 📥 [TAROT] Card: Justice
 INFO     2026-01-27 10:29:46 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-27 10:29:46 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-01-28 02:25:01 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-01-28 02:25:01 [scraper.py:390] 📥 [TAROT] Card: King of Pentacles
+INFO     2026-01-28 02:25:01 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-01-28 02:25:01 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

@@ -2728,3 +2728,8 @@ INFO     2026-01-27 10:29:47 [scraper.py:47] 📥 [APOD] Title: Orion's Treasure
 INFO     2026-01-27 10:29:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg
 INFO     2026-01-27 10:29:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-01-28 02:25:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-01-28 02:25:01 [scraper.py:47] 📥 [APOD] Title: Orion's Treasures over Snowy Mountains
+INFO     2026-01-28 02:25:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg
+INFO     2026-01-28 02:25:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
