@@ -18283,3 +18283,36 @@ INFO     2026-01-28 10:30:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.nyt
 INFO     2026-01-28 10:30:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-28 10:30:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-29 02:42:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #1] Somebody used spoofed ADSB signals to raster the meme of JD Vance
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #1] URL: https://alecmuffett.com/article/143548
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #2] The UK paid £4.1M for a bookmarks site
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #2] URL: https://mahadk.com/posts/ai-skills-hub
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #3] Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #3] URL: https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #4] Beautiful Mermaid
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/lukilabs/beautiful-mermaid
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #5] Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #5] URL: https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #6] Trinity large: An open 400B sparse MoE model
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #6] URL: https://www.arcee.ai/blog/trinity-large
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-29 02:42:15 [scraper.py:170] 📥 [HN #7] Airfoil (2024)
+INFO     2026-01-29 02:42:15 [scraper.py:171] 🔗 [HN #7] URL: https://ciechanow.ski/airfoil/
+INFO     2026-01-29 02:42:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-29 02:42:16 [scraper.py:170] 📥 [HN #8] Mecha Comet – Open Modular Linux Handheld Computer
+INFO     2026-01-29 02:42:16 [scraper.py:171] 🔗 [HN #8] URL: https://mecha.so/comet
+INFO     2026-01-29 02:42:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-29 02:42:16 [scraper.py:170] 📥 [HN #9] Show HN: A MitM proxy to see what your LLM tools are sending
+INFO     2026-01-29 02:42:16 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/jmuncor/sherlock
+INFO     2026-01-29 02:42:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-29 02:42:16 [scraper.py:170] 📥 [HN #10] Did a celebrated researcher obscure a baby's poisoning?
+INFO     2026-01-29 02:42:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning
+INFO     2026-01-29 02:42:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-29 02:42:16 [scraper.py:178] 🎉 [HN] All done.
+
