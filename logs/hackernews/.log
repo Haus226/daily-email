@@ -18349,3 +18349,36 @@ INFO     2026-01-29 05:50:22 [scraper.py:171] 🔗 [HN #10] URL: https://xmake.i
 INFO     2026-01-29 05:50:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-29 05:50:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-29 10:38:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-29 10:38:03 [scraper.py:170] 📥 [HN #1] Europe's next-generation weather satellite sends back first images
+INFO     2026-01-29 10:38:03 [scraper.py:171] 🔗 [HN #1] URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images
+INFO     2026-01-29 10:38:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-29 10:38:03 [scraper.py:170] 📥 [HN #2] Render Mermaid diagrams as SVGs or ASCII art
+INFO     2026-01-29 10:38:03 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/lukilabs/beautiful-mermaid
+INFO     2026-01-29 10:38:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-29 10:38:03 [scraper.py:170] 📥 [HN #3] We can't send mail farther than 500 miles (2002)
+INFO     2026-01-29 10:38:03 [scraper.py:171] 🔗 [HN #3] URL: https://web.mit.edu/jemorris/humor/500-miles
+INFO     2026-01-29 10:38:03 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-29 10:38:04 [scraper.py:170] 📥 [HN #4] Apple to soon take up to 30% cut from all Patreon creators in iOS app
+INFO     2026-01-29 10:38:04 [scraper.py:171] 🔗 [HN #4] URL: https://www.macrumors.com/2026/01/28/patreon-apple-tax/
+INFO     2026-01-29 10:38:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-29 10:38:04 [scraper.py:170] 📥 [HN #5] The Chemistry of Tea [pdf]
+INFO     2026-01-29 10:38:04 [scraper.py:171] 🔗 [HN #5] URL: https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf
+INFO     2026-01-29 10:38:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-29 10:38:04 [scraper.py:170] 📥 [HN #6] Decompiling Xbox games using PDB debug info
+INFO     2026-01-29 10:38:04 [scraper.py:171] 🔗 [HN #6] URL: https://i686.me/blog/csplit/
+INFO     2026-01-29 10:38:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-29 10:38:04 [scraper.py:170] 📥 [HN #7] Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105
+INFO     2026-01-29 10:38:04 [scraper.py:171] 🔗 [HN #7] URL: https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105
+INFO     2026-01-29 10:38:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-29 10:38:04 [scraper.py:170] 📥 [HN #8] Mecha Comet – Open Modular Linux Handheld Computer
+INFO     2026-01-29 10:38:04 [scraper.py:171] 🔗 [HN #8] URL: https://mecha.so/comet
+INFO     2026-01-29 10:38:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-29 10:38:05 [scraper.py:170] 📥 [HN #9] Xmake: A cross-platform build utility based on Lua
+INFO     2026-01-29 10:38:05 [scraper.py:171] 🔗 [HN #9] URL: https://xmake.io/
+INFO     2026-01-29 10:38:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-29 10:38:05 [scraper.py:170] 📥 [HN #10] Airfoil (2024)
+INFO     2026-01-29 10:38:05 [scraper.py:171] 🔗 [HN #10] URL: https://ciechanow.ski/airfoil/
+INFO     2026-01-29 10:38:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-29 10:38:05 [scraper.py:178] 🎉 [HN] All done.
+
