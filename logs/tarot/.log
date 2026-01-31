@@ -2773,3 +2773,8 @@ INFO     2026-01-30 10:36:02 [scraper.py:390] 📥 [TAROT] Card: Two of Pentacle
 INFO     2026-01-30 10:36:03 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-30 10:36:03 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-01-31 02:37:58 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-01-31 02:37:58 [scraper.py:390] 📥 [TAROT] Card: Death
+INFO     2026-01-31 02:37:58 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-01-31 02:37:58 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
