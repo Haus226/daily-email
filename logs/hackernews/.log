@@ -18547,3 +18547,36 @@ INFO     2026-01-31 05:42:10 [scraper.py:171] 🔗 [HN #10] URL: https://tongue-
 INFO     2026-01-31 05:42:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-01-31 05:42:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-01-31 10:26:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-01-31 10:26:29 [scraper.py:170] 📥 [HN #1] Antirender: remove the glossy shine on architectural renderings
+INFO     2026-01-31 10:26:29 [scraper.py:171] 🔗 [HN #1] URL: https://antirender.com/
+INFO     2026-01-31 10:26:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-01-31 10:26:29 [scraper.py:170] 📥 [HN #2] Sumerian Star Map Recorded the Impact of an Asteroid (2024)
+INFO     2026-01-31 10:26:29 [scraper.py:171] 🔗 [HN #2] URL: https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/
+INFO     2026-01-31 10:26:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-01-31 10:26:29 [scraper.py:170] 📥 [HN #3] Show HN: I trained a 9M speech model to fix my Mandarin tones
+INFO     2026-01-31 10:26:29 [scraper.py:171] 🔗 [HN #3] URL: https://simedw.com/2026/01/31/ear-pronunication-via-ctc/
+INFO     2026-01-31 10:26:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-01-31 10:26:29 [scraper.py:170] 📥 [HN #4] YouTube blocks background video playback on Brave and other Browsers
+INFO     2026-01-31 10:26:29 [scraper.py:171] 🔗 [HN #4] URL: https://piunikaweb.com/2026/01/28/youtube-background-play-samsung-internet-brave/
+INFO     2026-01-31 10:26:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-01-31 10:26:30 [scraper.py:170] 📥 [HN #5] A novelist who took on the Italian mafia and lived
+INFO     2026-01-31 10:26:30 [scraper.py:171] 🔗 [HN #5] URL: https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w
+INFO     2026-01-31 10:26:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-01-31 10:26:30 [scraper.py:170] 📥 [HN #6] Direct Current Data Centers
+INFO     2026-01-31 10:26:30 [scraper.py:171] 🔗 [HN #6] URL: https://terraformindustries.wordpress.com/2026/01/30/direct-current-data-centers/
+INFO     2026-01-31 10:26:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-01-31 10:26:30 [scraper.py:170] 📥 [HN #7] Peerweb: Decentralized website hosting via WebTorrent
+INFO     2026-01-31 10:26:30 [scraper.py:171] 🔗 [HN #7] URL: https://peerweb.lol/
+INFO     2026-01-31 10:26:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-01-31 10:26:30 [scraper.py:170] 📥 [HN #8] A Step Behind the Bleeding Edge: A Philosophy on AI in Dev
+INFO     2026-01-31 10:26:30 [scraper.py:171] 🔗 [HN #8] URL: https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/
+INFO     2026-01-31 10:26:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-01-31 10:26:30 [scraper.py:170] 📥 [HN #9] Show HN: Phage Explorer
+INFO     2026-01-31 10:26:30 [scraper.py:171] 🔗 [HN #9] URL: https://phage-explorer.org/
+INFO     2026-01-31 10:26:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-01-31 10:26:31 [scraper.py:170] 📥 [HN #10] Ashcan Comic
+INFO     2026-01-31 10:26:31 [scraper.py:171] 🔗 [HN #10] URL: https://en.wikipedia.org/wiki/Ashcan_comic
+INFO     2026-01-31 10:26:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-01-31 10:26:31 [scraper.py:178] 🎉 [HN] All done.
+
