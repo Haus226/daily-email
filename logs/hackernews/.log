@@ -18613,3 +18613,36 @@ INFO     2026-02-01 03:20:14 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-02-01 03:20:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-01 03:20:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-01 06:01:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-01 06:01:14 [scraper.py:170] 📥 [HN #1] Mobile carriers can get your GPS location
+INFO     2026-02-01 06:01:14 [scraper.py:171] 🔗 [HN #1] URL: https://an.dywa.ng/carrier-gnss.html
+INFO     2026-02-01 06:01:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-01 06:01:14 [scraper.py:170] 📥 [HN #2] List animals until failure
+INFO     2026-02-01 06:01:14 [scraper.py:171] 🔗 [HN #2] URL: https://rose.systems/animalist/
+INFO     2026-02-01 06:01:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-01 06:01:15 [scraper.py:170] 📥 [HN #3] Cells use 'bioelectricity' to coordinate and make group decisions
+INFO     2026-02-01 06:01:15 [scraper.py:171] 🔗 [HN #3] URL: https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/
+INFO     2026-02-01 06:01:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-01 06:01:15 [scraper.py:170] 📥 [HN #4] pg_tracing: Distributed Tracing for PostgreSQL
+INFO     2026-02-01 06:01:15 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/DataDog/pg_tracing
+INFO     2026-02-01 06:01:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-01 06:01:15 [scraper.py:170] 📥 [HN #5] Generative AI and Wikipedia editing: What we learned in 2025
+INFO     2026-02-01 06:01:15 [scraper.py:171] 🔗 [HN #5] URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+INFO     2026-02-01 06:01:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-01 06:01:15 [scraper.py:170] 📥 [HN #6] In praise of –dry-run
+INFO     2026-02-01 06:01:15 [scraper.py:171] 🔗 [HN #6] URL: https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
+INFO     2026-02-01 06:01:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-01 06:01:16 [scraper.py:170] 📥 [HN #7] Opentrees.org (2024)
+INFO     2026-02-01 06:01:16 [scraper.py:171] 🔗 [HN #7] URL: https://opentrees.org/#pos=1/-37.8/145
+INFO     2026-02-01 06:01:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-01 06:01:16 [scraper.py:170] 📥 [HN #8] Sparse File LRU Cache
+INFO     2026-02-01 06:01:16 [scraper.py:171] 🔗 [HN #8] URL: http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html
+INFO     2026-02-01 06:01:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-01 06:01:16 [scraper.py:170] 📥 [HN #9] Scientist who helped eradicate smallpox dies at age 89
+INFO     2026-02-01 06:01:16 [scraper.py:171] 🔗 [HN #9] URL: https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/
+INFO     2026-02-01 06:01:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-01 06:01:17 [scraper.py:170] 📥 [HN #10] Outsourcing thinking
+INFO     2026-02-01 06:01:17 [scraper.py:171] 🔗 [HN #10] URL: https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html
+INFO     2026-02-01 06:01:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-01 06:01:17 [scraper.py:178] 🎉 [HN] All done.
+
