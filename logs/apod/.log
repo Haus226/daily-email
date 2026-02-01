@@ -2788,3 +2788,8 @@ INFO     2026-01-31 10:26:29 [scraper.py:47] 📥 [APOD] Title: Artemis I: Fligh
 INFO     2026-01-31 10:26:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg
 INFO     2026-01-31 10:26:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-01 03:20:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-01 03:20:11 [scraper.py:47] 📥 [APOD] Title: Artemis I: Flight Day 13
+INFO     2026-02-01 03:20:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2601/art001e000672-orig1024c.jpg
+INFO     2026-02-01 03:20:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -2788,3 +2788,8 @@ INFO     2026-01-31 10:26:29 [scraper.py:390] 📥 [TAROT] Card: Death
 INFO     2026-01-31 10:26:29 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-01-31 10:26:29 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-02-01 03:20:11 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-02-01 03:20:11 [scraper.py:390] 📥 [TAROT] Card: Knight of Swords
+INFO     2026-02-01 03:20:11 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-02-01 03:20:11 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
