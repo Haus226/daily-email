@@ -5838,3 +5838,12 @@ INFO     2026-02-02 06:06:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-02-02 06:06:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-02-02 10:46:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+ERROR    2026-02-02 10:46:01 [scraper.py:156] ❌ [EO] Failed to fetch: 'NoneType' object has no attribute 'select_one'
+
+INFO     2026-02-02 10:46:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-02 10:46:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+ERROR    2026-02-02 10:46:02 [scraper.py:156] ❌ [EO] Failed to fetch: 'NoneType' object has no attribute 'select_one'
+
+ERROR    2026-02-02 10:46:02 [scraper.py:156] ❌ [EO] Failed to fetch: 'NoneType' object has no attribute 'select_one'
+

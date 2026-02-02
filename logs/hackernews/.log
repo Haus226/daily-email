@@ -18745,3 +18745,36 @@ INFO     2026-02-02 06:06:02 [scraper.py:171] 🔗 [HN #10] URL: https://www.adv
 INFO     2026-02-02 06:06:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-02 06:06:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-02 10:46:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-02 10:46:02 [scraper.py:170] 📥 [HN #1] Defeating a 40-year-old copy protection dongle
+INFO     2026-02-02 10:46:02 [scraper.py:171] 🔗 [HN #1] URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+INFO     2026-02-02 10:46:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-02 10:46:02 [scraper.py:170] 📥 [HN #2] Apple's MacBook Pro DFU port documentation is wrong
+INFO     2026-02-02 10:46:02 [scraper.py:171] 🔗 [HN #2] URL: https://lapcatsoftware.com/articles/2026/2/1.html
+INFO     2026-02-02 10:46:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-02 10:46:02 [scraper.py:170] 📥 [HN #3] My iPhone 16 Pro Max produces garbage output when running MLX LLMs
+INFO     2026-02-02 10:46:02 [scraper.py:171] 🔗 [HN #3] URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+INFO     2026-02-02 10:46:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-02 10:46:02 [scraper.py:170] 📥 [HN #4] Show HN: Wikipedia as a doomscrollable social media feed
+INFO     2026-02-02 10:46:02 [scraper.py:171] 🔗 [HN #4] URL: https://xikipedia.org
+INFO     2026-02-02 10:46:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-02 10:46:02 [scraper.py:170] 📥 [HN #5] What Most People Miss About Getting Promoted – By Yue Zhao
+INFO     2026-02-02 10:46:02 [scraper.py:171] 🔗 [HN #5] URL: https://news.theuncommonexecutive.com/p/what-most-people-miss-about-getting
+INFO     2026-02-02 10:46:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:170] 📥 [HN #6] Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
+INFO     2026-02-02 10:46:03 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/gavrielc/nanoclaw
+INFO     2026-02-02 10:46:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:170] 📥 [HN #7] Actors: A Model of Concurrent Computation [pdf] (1985)
+INFO     2026-02-02 10:46:03 [scraper.py:171] 🔗 [HN #7] URL: https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf
+INFO     2026-02-02 10:46:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:170] 📥 [HN #8] Ratchets in Software Development
+INFO     2026-02-02 10:46:03 [scraper.py:171] 🔗 [HN #8] URL: https://qntm.org/ratchet
+INFO     2026-02-02 10:46:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:170] 📥 [HN #9] Contracts in Nix
+INFO     2026-02-02 10:46:03 [scraper.py:171] 🔗 [HN #9] URL: https://sraka.xyz/posts/contracts.html
+INFO     2026-02-02 10:46:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:170] 📥 [HN #10] Apple I Advertisement (1976)
+INFO     2026-02-02 10:46:03 [scraper.py:171] 🔗 [HN #10] URL: http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
+INFO     2026-02-02 10:46:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-02 10:46:03 [scraper.py:178] 🎉 [HN] All done.
+
