@@ -18811,3 +18811,36 @@ INFO     2026-02-03 02:48:58 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-02-03 02:48:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-03 02:48:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-03 05:55:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-03 05:55:19 [scraper.py:170] 📥 [HN #1] Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition
+INFO     2026-02-03 05:55:19 [scraper.py:171] 🔗 [HN #1] URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html
+INFO     2026-02-03 05:55:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #2] How does misalignment scale with model intelligence and task complexity?
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #2] URL: https://alignment.anthropic.com/2026/hot-mess-of-ai/
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #3] The Codex App
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/introducing-the-codex-app/
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #4] Coding assistants are solving the wrong problem
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #4] URL: https://www.bicameral-ai.com/blog/introducing-bicameral
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #5] Anki ownership transferred to AnkiHub
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #5] URL: https://forums.ankiweb.net/t/ankis-growing-up/68610
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #6] GitHub experience various partial-outages/degradations
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #6] URL: https://www.githubstatus.com?todayis=2026-02-02
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-03 05:55:20 [scraper.py:170] 📥 [HN #7] Todd C. Miller – Sudo maintainer for over 30 years
+INFO     2026-02-03 05:55:20 [scraper.py:171] 🔗 [HN #7] URL: https://www.millert.dev/
+INFO     2026-02-03 05:55:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-03 05:55:21 [scraper.py:170] 📥 [HN #8] See how many words you have written in Hacker News comments
+INFO     2026-02-03 05:55:21 [scraper.py:171] 🔗 [HN #8] URL: https://serjaimelannister.github.io/hn-words/
+INFO     2026-02-03 05:55:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-03 05:55:21 [scraper.py:170] 📥 [HN #9] Carnegie Mellon Unversity Computer Club FTP Server
+INFO     2026-02-03 05:55:21 [scraper.py:171] 🔗 [HN #9] URL: http://128.237.157.9/pub/
+INFO     2026-02-03 05:55:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-03 05:55:21 [scraper.py:170] 📥 [HN #10] The Connection Machine CM-1 "Feynman" T-shirt
+INFO     2026-02-03 05:55:21 [scraper.py:171] 🔗 [HN #10] URL: https://tamikothiel.com/cm/cm-tshirt.html
+INFO     2026-02-03 05:55:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-03 05:55:21 [scraper.py:178] 🎉 [HN] All done.
+
