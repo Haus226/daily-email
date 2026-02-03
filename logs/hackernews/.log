@@ -18844,3 +18844,36 @@ INFO     2026-02-03 05:55:21 [scraper.py:171] 🔗 [HN #10] URL: https://tamikot
 INFO     2026-02-03 05:55:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-03 05:55:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-03 10:41:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-03 10:41:28 [scraper.py:170] 📥 [HN #1] What's up with all those equals signs anyway?
+INFO     2026-02-03 10:41:28 [scraper.py:171] 🔗 [HN #1] URL: https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/
+INFO     2026-02-03 10:41:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-03 10:41:28 [scraper.py:170] 📥 [HN #2] Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition
+INFO     2026-02-03 10:41:28 [scraper.py:171] 🔗 [HN #2] URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html
+INFO     2026-02-03 10:41:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-03 10:41:28 [scraper.py:170] 📥 [HN #3] Astrological CPU Scheduler
+INFO     2026-02-03 10:41:28 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/zampierilucas/scx_horoscope
+INFO     2026-02-03 10:41:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #4] LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/KrystianJonca/lnai
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #5] The Codex App
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #5] URL: https://openai.com/index/introducing-the-codex-app/
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #6] Anki ownership transferred to AnkiHub
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #6] URL: https://forums.ankiweb.net/t/ankis-growing-up/68610
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #7] How does misalignment scale with model intelligence and task complexity?
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #7] URL: https://alignment.anthropic.com/2026/hot-mess-of-ai/
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #8] From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #8] URL: https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #9] Todd C. Miller – Sudo maintainer for over 30 years
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.millert.dev/
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:170] 📥 [HN #10] GitHub experience various partial-outages/degradations
+INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.githubstatus.com?todayis=2026-02-02
+INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-03 10:41:29 [scraper.py:178] 🎉 [HN] All done.
+
