@@ -18877,3 +18877,36 @@ INFO     2026-02-03 10:41:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.git
 INFO     2026-02-03 10:41:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-03 10:41:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-04 02:43:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-04 02:43:43 [scraper.py:170] 📥 [HN #1] Lessons learned shipping 500 units of my first hardware product
+INFO     2026-02-04 02:43:43 [scraper.py:171] 🔗 [HN #1] URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
+INFO     2026-02-04 02:43:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-04 02:43:43 [scraper.py:170] 📥 [HN #2] Data centers in space makes no sense
+INFO     2026-02-04 02:43:43 [scraper.py:171] 🔗 [HN #2] URL: https://civai.org/blog/space-data-centers
+INFO     2026-02-04 02:43:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-04 02:43:43 [scraper.py:170] 📥 [HN #3] Show HN: Craftplan – I built my wife a production management tool for her bakery
+INFO     2026-02-04 02:43:43 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/puemos/craftplan
+INFO     2026-02-04 02:43:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #4] Deno Sandbox
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #4] URL: https://deno.com/blog/introducing-deno-sandbox
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #5] Xcode 26.3 – Developers can leverage coding agents directly in Xcode
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #5] URL: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #6] AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/alibaba/AliSQL
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #7] Agent Skills
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #7] URL: https://agentskills.io/home
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #8] FlashAttention-T: Towards Tensorized Attention
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #8] URL: https://dl.acm.org/doi/10.1145/3774934.3786425
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #9] Decompiling and rewriting a 2003 game from its binary in two weeks
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #9] URL: https://banteg.xyz/posts/crimsonland/
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:170] 📥 [HN #10] 221 Cannon is Not For Sale
+INFO     2026-02-04 02:43:44 [scraper.py:171] 🔗 [HN #10] URL: https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/
+INFO     2026-02-04 02:43:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-04 02:43:44 [scraper.py:178] 🎉 [HN] All done.
+
