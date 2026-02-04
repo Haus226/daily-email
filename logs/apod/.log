@@ -2836,3 +2836,8 @@ INFO     2026-02-04 02:43:43 [scraper.py:47] 📥 [APOD] Title: Red Spider Plane
 INFO     2026-02-04 02:43:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg
 INFO     2026-02-04 02:43:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-04 05:54:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-04 05:54:15 [scraper.py:47] 📥 [APOD] Title: Spiral Galaxy NGC 1512: Wide Field
+INFO     2026-02-04 05:54:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg
+INFO     2026-02-04 05:54:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
