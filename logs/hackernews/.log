@@ -18943,3 +18943,36 @@ INFO     2026-02-04 05:54:16 [scraper.py:171] 🔗 [HN #10] URL: https://agentsk
 INFO     2026-02-04 05:54:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-04 05:54:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-04 10:39:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-04 10:39:52 [scraper.py:170] 📥 [HN #1] I miss thinking hard
+INFO     2026-02-04 10:39:52 [scraper.py:171] 🔗 [HN #1] URL: https://www.jernesto.com/articles/thinking_hard
+INFO     2026-02-04 10:39:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-04 10:39:53 [scraper.py:170] 📥 [HN #2] Data centers in space makes no sense
+INFO     2026-02-04 10:39:53 [scraper.py:171] 🔗 [HN #2] URL: https://civai.org/blog/space-data-centers
+INFO     2026-02-04 10:39:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-04 10:39:53 [scraper.py:170] 📥 [HN #3] Lessons learned shipping 500 units of my first hardware product
+INFO     2026-02-04 10:39:53 [scraper.py:171] 🔗 [HN #3] URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
+INFO     2026-02-04 10:39:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-04 10:39:53 [scraper.py:170] 📥 [HN #4] Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering
+INFO     2026-02-04 10:39:53 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/bethington/ghidra-mcp
+INFO     2026-02-04 10:39:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-04 10:39:53 [scraper.py:170] 📥 [HN #5] Show HN: Craftplan – I built my wife a production management tool for her bakery
+INFO     2026-02-04 10:39:53 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/puemos/craftplan
+INFO     2026-02-04 10:39:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-04 10:39:53 [scraper.py:170] 📥 [HN #6] The Mathematics of Tuning Systems
+INFO     2026-02-04 10:39:53 [scraper.py:171] 🔗 [HN #6] URL: https://math.ucr.edu/home/baez/tuning_talk/
+INFO     2026-02-04 10:39:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-04 10:39:54 [scraper.py:170] 📥 [HN #7] High-Altitude Adventure with a DIY Pico Balloon
+INFO     2026-02-04 10:39:54 [scraper.py:171] 🔗 [HN #7] URL: https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon
+INFO     2026-02-04 10:39:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-04 10:39:54 [scraper.py:170] 📥 [HN #8] Deno Sandbox
+INFO     2026-02-04 10:39:54 [scraper.py:171] 🔗 [HN #8] URL: https://deno.com/blog/introducing-deno-sandbox
+INFO     2026-02-04 10:39:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-04 10:39:54 [scraper.py:170] 📥 [HN #9] New York’s budget bill would require “blocking technology” on all 3D printers
+INFO     2026-02-04 10:39:54 [scraper.py:171] 🔗 [HN #9] URL: https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/
+INFO     2026-02-04 10:39:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-04 10:39:54 [scraper.py:170] 📥 [HN #10] Agent Skills
+INFO     2026-02-04 10:39:54 [scraper.py:171] 🔗 [HN #10] URL: https://agentskills.io/home
+INFO     2026-02-04 10:39:54 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-04 10:39:54 [scraper.py:178] 🎉 [HN] All done.
+
