@@ -19009,3 +19009,36 @@ INFO     2026-02-05 02:45:49 [scraper.py:171] 🔗 [HN #10] URL: https://evjang.
 INFO     2026-02-05 02:45:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-05 02:45:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-05 06:00:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-05 06:00:13 [scraper.py:170] 📥 [HN #1] When internal hostnames are leaked to the clown
+INFO     2026-02-05 06:00:13 [scraper.py:171] 🔗 [HN #1] URL: https://rachelbythebay.com/w/2026/02/03/badnas/
+INFO     2026-02-05 06:00:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-05 06:00:13 [scraper.py:170] 📥 [HN #2] Voxtral Transcribe 2
+INFO     2026-02-05 06:00:13 [scraper.py:171] 🔗 [HN #2] URL: https://mistral.ai/news/voxtral-transcribe-2
+INFO     2026-02-05 06:00:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-05 06:00:13 [scraper.py:170] 📥 [HN #3] Postgres Postmaster does not scale
+INFO     2026-02-05 06:00:13 [scraper.py:171] 🔗 [HN #3] URL: https://www.recall.ai/blog/postgres-postmaster-does-not-scale
+INFO     2026-02-05 06:00:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #4] Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #4] URL: https://sqldef.github.io/
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #5] Claude Code: connect to a local model when your quota runs out
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #5] URL: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #6] OpenClaw is what Apple intelligence should have been
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #6] URL: https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #7] A few CPU hardware bugs
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #7] URL: https://www.taricorp.net/2026/a-few-cpu-bugs/
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #8] AI is killing B2B SaaS
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #8] URL: https://nmn.gl/blog/ai-killing-b2b-saas
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-05 06:00:14 [scraper.py:170] 📥 [HN #9] ICE seeks industry input on ad tech location data for investigative use
+INFO     2026-02-05 06:00:14 [scraper.py:171] 🔗 [HN #9] URL: https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use
+INFO     2026-02-05 06:00:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-05 06:00:15 [scraper.py:170] 📥 [HN #10] Claude Code for Infrastructure
+INFO     2026-02-05 06:00:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.fluid.sh/
+INFO     2026-02-05 06:00:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-05 06:00:15 [scraper.py:178] 🎉 [HN] All done.
+

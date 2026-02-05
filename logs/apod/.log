@@ -2851,3 +2851,8 @@ INFO     2026-02-05 02:45:47 [scraper.py:47] 📥 [APOD] Title: Spiral Galaxy NG
 INFO     2026-02-05 02:45:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg
 INFO     2026-02-05 02:45:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-05 06:00:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-05 06:00:13 [scraper.py:47] 📥 [APOD] Title: NGC 1275 in the Perseus Cluster
+INFO     2026-02-05 06:00:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg
+INFO     2026-02-05 06:00:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
