@@ -19075,3 +19075,36 @@ INFO     2026-02-05 10:41:47 [scraper.py:171] 🔗 [HN #10] URL: https://sqldef.
 INFO     2026-02-05 10:41:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-05 10:41:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-06 02:45:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-06 02:45:57 [scraper.py:170] 📥 [HN #1] Claude Opus 4.6
+INFO     2026-02-06 02:45:57 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/claude-opus-4-6
+INFO     2026-02-06 02:45:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-06 02:45:57 [scraper.py:170] 📥 [HN #2] It's 2026, Just Use Postgres
+INFO     2026-02-06 02:45:57 [scraper.py:171] 🔗 [HN #2] URL: https://www.tigerdata.com/blog/its-2026-just-use-postgres
+INFO     2026-02-06 02:45:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #3] GPT-5.3-Codex
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/introducing-gpt-5-3-codex/
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #4] My AI Adoption Journey
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #4] URL: https://mitchellh.com/writing/my-ai-adoption-journey
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #5] We tasked Opus 4.6 using agent teams to build a C Compiler
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #5] URL: https://www.anthropic.com/engineering/building-c-compiler
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #6] Recreating Epstein PDFs from raw encoded attachments
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #6] URL: https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #7] Animated Knots
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.animatedknots.com/
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-06 02:45:58 [scraper.py:170] 📥 [HN #8] Review of 1984 by Isaac Asimov (1980)
+INFO     2026-02-06 02:45:58 [scraper.py:171] 🔗 [HN #8] URL: https://www.newworker.org/ncptrory/1984.htm
+INFO     2026-02-06 02:45:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-06 02:45:59 [scraper.py:170] 📥 [HN #9] The RCE that AMD won't fix
+INFO     2026-02-06 02:45:59 [scraper.py:171] 🔗 [HN #9] URL: https://mrbruh.com/amd/
+INFO     2026-02-06 02:45:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-06 02:45:59 [scraper.py:170] 📥 [HN #10] MenuetOS – a GUI OS that boots from a single floppy disk
+INFO     2026-02-06 02:45:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.menuetos.net/
+INFO     2026-02-06 02:45:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-06 02:45:59 [scraper.py:178] 🎉 [HN] All done.
+

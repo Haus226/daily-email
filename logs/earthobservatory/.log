@@ -6036,3 +6036,24 @@ INFO     2026-02-05 10:41:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-02-05 10:41:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-02-06 02:45:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-06 02:45:57 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-06 02:45:57 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-06 02:45:57 [scraper.py:133] 📥 [EO] Title: Milano Cortina 2026
+INFO     2026-02-06 02:45:57 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/milano-cortina-2026/verona_oli2_20261209_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-06 02:45:57 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-02-06 02:45:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-06 02:45:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-06 02:45:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-06 02:45:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-06 02:45:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-06 02:45:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-06 02:45:59 [scraper.py:133] 📥 [EO] Title: Milano Cortina 2026
+INFO     2026-02-06 02:45:59 [scraper.py:133] 📥 [EO] Title: Milano Cortina 2026
+INFO     2026-02-06 02:45:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/milano-cortina-2026/verona_oli2_20261209_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-06 02:45:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/milano-cortina-2026/verona_oli2_20261209_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-06 02:45:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-02-06 02:45:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
