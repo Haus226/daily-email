@@ -2881,3 +2881,8 @@ INFO     2026-02-07 02:41:20 [scraper.py:47] 📥 [APOD] Title: Supernova Remnan
 INFO     2026-02-07 02:41:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg
 INFO     2026-02-07 02:41:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-07 05:48:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-07 05:48:46 [scraper.py:47] 📥 [APOD] Title: Crescent Enceladus
+INFO     2026-02-07 05:48:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg
+INFO     2026-02-07 05:48:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
