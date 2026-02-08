@@ -19339,3 +19339,36 @@ INFO     2026-02-08 06:01:23 [scraper.py:171] 🔗 [HN #10] URL: https://www.spr
 INFO     2026-02-08 06:01:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-08 06:01:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-08 10:28:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-08 10:28:37 [scraper.py:170] 📥 [HN #1] DoNotNotify is now Open Source
+INFO     2026-02-08 10:28:37 [scraper.py:171] 🔗 [HN #1] URL: https://donotnotify.com/opensource.html
+INFO     2026-02-08 10:28:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-08 10:28:37 [scraper.py:170] 📥 [HN #2] Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory
+INFO     2026-02-08 10:28:37 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/localgpt-app/localgpt
+INFO     2026-02-08 10:28:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-08 10:28:37 [scraper.py:170] 📥 [HN #3] Haskell for all: Beyond agentic coding
+INFO     2026-02-08 10:28:37 [scraper.py:171] 🔗 [HN #3] URL: https://haskellforall.com/2026/02/beyond-agentic-coding
+INFO     2026-02-08 10:28:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-08 10:28:37 [scraper.py:170] 📥 [HN #4] Matchlock: Linux-based sandboxing for AI agents
+INFO     2026-02-08 10:28:37 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/jingkaihe/matchlock
+INFO     2026-02-08 10:28:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-08 10:28:37 [scraper.py:170] 📥 [HN #5] SectorC: A C Compiler in 512 bytes (2023)
+INFO     2026-02-08 10:28:37 [scraper.py:171] 🔗 [HN #5] URL: https://xorvoid.com/sectorc.html
+INFO     2026-02-08 10:28:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:170] 📥 [HN #6] LLMs as the new high level language
+INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #6] URL: https://federicopereiro.com/llm-high/
+INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:170] 📥 [HN #7] The Architecture of Open Source Applications (Volume 1) Berkeley DB
+INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #7] URL: https://aosabook.org/en/v1/bdb.html
+INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:170] 📥 [HN #8] Software factories and the agentic moment
+INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #8] URL: https://factory.strongdm.ai/
+INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:170] 📥 [HN #9] Moroccan sardine prices to stabilise via new measures: officials
+INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #9] URL: https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/
+INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:170] 📥 [HN #10] Speed up responses with fast mode
+INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #10] URL: https://code.claude.com/docs/en/fast-mode
+INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-08 10:28:38 [scraper.py:178] 🎉 [HN] All done.
+
