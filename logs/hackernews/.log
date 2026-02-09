@@ -19438,3 +19438,36 @@ INFO     2026-02-09 06:09:41 [scraper.py:171] 🔗 [HN #10] URL: https://eclecti
 INFO     2026-02-09 06:09:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-09 06:09:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-09 10:56:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-09 10:56:13 [scraper.py:170] 📥 [HN #1] Art of Roads in Games
+INFO     2026-02-09 10:56:13 [scraper.py:171] 🔗 [HN #1] URL: https://sandboxspirit.com/blog/art-of-roads-in-games/
+INFO     2026-02-09 10:56:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-09 10:56:14 [scraper.py:170] 📥 [HN #2] Vouch
+INFO     2026-02-09 10:56:14 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/mitchellh/vouch
+INFO     2026-02-09 10:56:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-09 10:56:14 [scraper.py:170] 📥 [HN #3] LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation
+INFO     2026-02-09 10:56:14 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/naver/lispe
+INFO     2026-02-09 10:56:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-09 10:56:14 [scraper.py:170] 📥 [HN #4] Clean Coder: The Dark Path (2017)
+INFO     2026-02-09 10:56:14 [scraper.py:171] 🔗 [HN #4] URL: https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html
+INFO     2026-02-09 10:56:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-09 10:56:14 [scraper.py:170] 📥 [HN #5] Show HN: A custom font that displays Cistercian numerals using ligatures
+INFO     2026-02-09 10:56:14 [scraper.py:171] 🔗 [HN #5] URL: https://bobbiec.github.io/cistercian-font.html
+INFO     2026-02-09 10:56:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-09 10:56:14 [scraper.py:170] 📥 [HN #6] Every book recommended on the Odd Lots Discord
+INFO     2026-02-09 10:56:14 [scraper.py:171] 🔗 [HN #6] URL: https://odd-lots-books.netlify.app/
+INFO     2026-02-09 10:56:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-09 10:56:15 [scraper.py:170] 📥 [HN #7] More Mac malware from Google search
+INFO     2026-02-09 10:56:15 [scraper.py:171] 🔗 [HN #7] URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
+INFO     2026-02-09 10:56:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-09 10:56:15 [scraper.py:170] 📥 [HN #8] Apple XNU: Clutch Scheduler
+INFO     2026-02-09 10:56:15 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md
+INFO     2026-02-09 10:56:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-09 10:56:15 [scraper.py:170] 📥 [HN #9] Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books
+INFO     2026-02-09 10:56:15 [scraper.py:171] 🔗 [HN #9] URL: https://underhillgame.com/
+INFO     2026-02-09 10:56:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-09 10:56:15 [scraper.py:170] 📥 [HN #10] Ask HN: What are you working on? (February 2026)
+INFO     2026-02-09 10:56:15 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=46937696
+INFO     2026-02-09 10:56:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-09 10:56:15 [scraper.py:178] 🎉 [HN] All done.
+
