@@ -19372,3 +19372,36 @@ INFO     2026-02-08 10:28:38 [scraper.py:171] 🔗 [HN #10] URL: https://code.cl
 INFO     2026-02-08 10:28:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-08 10:28:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-09 02:53:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-09 02:53:37 [scraper.py:170] 📥 [HN #1] Vouch
+INFO     2026-02-09 02:53:37 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/mitchellh/vouch
+INFO     2026-02-09 02:53:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-09 02:53:37 [scraper.py:170] 📥 [HN #2] Art of Roads in Games
+INFO     2026-02-09 02:53:37 [scraper.py:171] 🔗 [HN #2] URL: https://sandboxspirit.com/blog/art-of-roads-in-games/
+INFO     2026-02-09 02:53:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-09 02:53:37 [scraper.py:170] 📥 [HN #3] More Mac malware from Google search
+INFO     2026-02-09 02:53:37 [scraper.py:171] 🔗 [HN #3] URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
+INFO     2026-02-09 02:53:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-09 02:53:37 [scraper.py:170] 📥 [HN #4] Quartz Crystals
+INFO     2026-02-09 02:53:37 [scraper.py:171] 🔗 [HN #4] URL: https://www.pa3fwm.nl/technotes/tn13a.html
+INFO     2026-02-09 02:53:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #5] Reverse Engineering the Prom for the SGI O2
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #5] URL: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #6] Apple XNU: Clutch Scheduler
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #7] Show HN: A custom font that displays Cistercian numerals using ligatures
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #7] URL: https://bobbiec.github.io/cistercian-font.html
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #8] Every book recommended on the Odd Lots Discord
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #8] URL: https://odd-lots-books.netlify.app/
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #9] Ask HN: What are you working on? (February 2026)
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=46937696
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:170] 📥 [HN #10] Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books
+INFO     2026-02-09 02:53:38 [scraper.py:171] 🔗 [HN #10] URL: https://underhillgame.com/
+INFO     2026-02-09 02:53:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-09 02:53:38 [scraper.py:178] 🎉 [HN] All done.
+
