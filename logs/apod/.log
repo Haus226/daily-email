@@ -2911,3 +2911,8 @@ INFO     2026-02-09 02:53:37 [scraper.py:47] 📥 [APOD] Title: Active Sunspot R
 INFO     2026-02-09 02:53:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg
 INFO     2026-02-09 02:53:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-09 06:09:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-09 06:09:40 [scraper.py:47] 📥 [APOD] Title: Miranda Revisited
+INFO     2026-02-09 06:09:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg
+INFO     2026-02-09 06:09:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
