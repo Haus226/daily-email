@@ -19537,3 +19537,36 @@ INFO     2026-02-10 06:13:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.nol
 INFO     2026-02-10 06:13:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-10 06:13:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-10 10:54:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-10 10:54:43 [scraper.py:170] 📥 [HN #1] Qwen-Image-2.0: Professional infographics, exquisite photorealism
+INFO     2026-02-10 10:54:43 [scraper.py:171] 🔗 [HN #1] URL: https://qwen.ai/blog?id=qwen-image-2.0
+INFO     2026-02-10 10:54:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-10 10:54:43 [scraper.py:170] 📥 [HN #2] Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2512.20798
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #3] Discord will require a face scan or ID for full access next month
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #3] URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #4] Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/TrevorS/voxtral-mini-realtime-rs
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #5] AI doesn’t reduce work, it intensifies it
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #5] URL: https://simonwillison.net/2026/Feb/9/ai-intensifies-work/
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #6] Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/antirez/voxtral.c
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #7] Why is the sky blue?
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #7] URL: https://explainers.blog/posts/why-is-the-sky-blue/
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-10 10:54:44 [scraper.py:170] 📥 [HN #8] Discord Alternatives, Ranked
+INFO     2026-02-10 10:54:44 [scraper.py:171] 🔗 [HN #8] URL: https://taggart-tech.com/discord-alternatives/
+INFO     2026-02-10 10:54:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-10 10:54:45 [scraper.py:170] 📥 [HN #9] Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
+INFO     2026-02-10 10:54:45 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+INFO     2026-02-10 10:54:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-10 10:54:45 [scraper.py:170] 📥 [HN #10] Hard-braking events as indicators of road segment crash risk
+INFO     2026-02-10 10:54:45 [scraper.py:171] 🔗 [HN #10] URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
+INFO     2026-02-10 10:54:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-10 10:54:45 [scraper.py:178] 🎉 [HN] All done.
+
