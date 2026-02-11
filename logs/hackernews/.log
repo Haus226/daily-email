@@ -19603,3 +19603,36 @@ INFO     2026-02-11 03:16:22 [scraper.py:171] 🔗 [HN #10] URL: https://www.fun
 INFO     2026-02-11 03:16:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-11 03:16:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-11 06:10:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #1] The Feynman Lectures on Physics (1961-1964)
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #1] URL: https://www.feynmanlectures.caltech.edu/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #2] A simpler way to remove explicit images from Search
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #2] URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #3] Exploring a Modern SMTPE 2110 Broadcast Truck
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #3] URL: https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #4] Lessons you will learn living in a snowy place
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #4] URL: https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #5] The Day the Telnet Died
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #5] URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #6] The Singularity will occur on a Tuesday
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #6] URL: https://campedersen.com/singularity
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #7] Ex-GitHub CEO launches a new developer platform for AI agents
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #7] URL: https://entire.io/blog/hello-entire-world/
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-11 06:10:38 [scraper.py:170] 📥 [HN #8] Fun With Pinball
+INFO     2026-02-11 06:10:38 [scraper.py:171] 🔗 [HN #8] URL: https://www.funwithpinball.com/exhibits/small-boards
+INFO     2026-02-11 06:10:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-11 06:10:39 [scraper.py:170] 📥 [HN #9] The Little Learner: A Straight Line to Deep Learning (2023)
+INFO     2026-02-11 06:10:39 [scraper.py:171] 🔗 [HN #9] URL: https://mitpress.mit.edu/9780262546379/the-little-learner/
+INFO     2026-02-11 06:10:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-11 06:10:39 [scraper.py:170] 📥 [HN #10] Clean-room implementation of Half-Life 2 on the Quake 1 engine
+INFO     2026-02-11 06:10:39 [scraper.py:171] 🔗 [HN #10] URL: https://code.idtech.space/fn/hl2
+INFO     2026-02-11 06:10:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-11 06:10:39 [scraper.py:178] 🎉 [HN] All done.
+

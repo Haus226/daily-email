@@ -2941,3 +2941,8 @@ INFO     2026-02-11 03:16:21 [scraper.py:47] 📥 [APOD] Title: In Green Company
 INFO     2026-02-11 03:16:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg
 INFO     2026-02-11 03:16:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-11 06:10:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-11 06:10:38 [scraper.py:47] 📥 [APOD] Title: A Year of Sunspots
+INFO     2026-02-11 06:10:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg
+INFO     2026-02-11 06:10:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
