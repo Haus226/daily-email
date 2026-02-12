@@ -19702,3 +19702,36 @@ INFO     2026-02-12 02:55:52 [scraper.py:171] 🔗 [HN #10] URL: https://symmetr
 INFO     2026-02-12 02:55:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-12 02:55:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-12 06:06:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-12 06:06:45 [scraper.py:170] 📥 [HN #1] Discord/Twitch/Snapchat age verification bypass
+INFO     2026-02-12 06:06:45 [scraper.py:171] 🔗 [HN #1] URL: https://age-verifier.kibty.town/
+INFO     2026-02-12 06:06:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-12 06:06:45 [scraper.py:170] 📥 [HN #2] Using an engineering notebook
+INFO     2026-02-12 06:06:45 [scraper.py:171] 🔗 [HN #2] URL: https://ntietz.com/blog/using-an-engineering-notebook/
+INFO     2026-02-12 06:06:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #3] “Nothing” is the secret to structuring your work
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #3] URL: https://www.vangemert.dev/blog/nothing
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #4] How to Make a Living as an Artist
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #4] URL: https://essays.fnnch.com/make-a-living
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #5] Fluorite – A console-grade game engine fully integrated with Flutter
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #5] URL: https://fluorite.game/
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #6] GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #6] URL: https://z.ai/blog/glm-5
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #7] Text classification with Python 3.14's ZSTD module
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #7] URL: https://maxhalford.github.io/blog/text-classification-zstd/
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #8] Kanchipuram Saris and Thinking Machines
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #8] URL: https://altermag.com/articles/kanchipuram-saris-and-thinking-machines
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #9] Reports of Telnet's death have been greatly exaggerated
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #9] URL: https://www.terracenetworks.com/blog/2026-02-11-telnet-routing
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:170] 📥 [HN #10] NetNewsWire Turns 23
+INFO     2026-02-12 06:06:46 [scraper.py:171] 🔗 [HN #10] URL: https://netnewswire.blog/2026/02/11/netnewswire-turns.html
+INFO     2026-02-12 06:06:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-12 06:06:46 [scraper.py:178] 🎉 [HN] All done.
+
