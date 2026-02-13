@@ -19768,3 +19768,36 @@ INFO     2026-02-12 10:49:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.reu
 INFO     2026-02-12 10:49:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-12 10:49:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-13 02:55:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-13 02:55:54 [scraper.py:170] 📥 [HN #1] Resizing windows on macOS Tahoe – the saga continues
+INFO     2026-02-13 02:55:54 [scraper.py:171] 🔗 [HN #1] URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/
+INFO     2026-02-13 02:55:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-13 02:55:54 [scraper.py:170] 📥 [HN #2] GPT‑5.3‑Codex‑Spark
+INFO     2026-02-13 02:55:54 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
+INFO     2026-02-13 02:55:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-13 02:55:54 [scraper.py:170] 📥 [HN #3] Skip the Tips: A game to select "No Tip" but dark patterns try to stop you
+INFO     2026-02-13 02:55:54 [scraper.py:171] 🔗 [HN #3] URL: https://skipthe.tips/
+INFO     2026-02-13 02:55:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-13 02:55:54 [scraper.py:170] 📥 [HN #4] Gemini 3 Deep Think
+INFO     2026-02-13 02:55:54 [scraper.py:171] 🔗 [HN #4] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+INFO     2026-02-13 02:55:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #5] AWS Adds support for nested virtualization
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #6] An AI agent published a hit piece on me
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #6] URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #7] Ring cancels its partnership with Flock Safety after surveillance backlash
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.theverge.com/news/878447/ring-flock-partnership-canceled
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #8] Polis: Open-source platform for large-scale civic deliberation
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #8] URL: https://pol.is/home2
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #9] How a Cat Debugged Stable Diffusion (2023)
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #9] URL: https://blog.dwac.dev/posts/cat-debugging/
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:170] 📥 [HN #10] Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed
+INFO     2026-02-13 02:55:55 [scraper.py:171] 🔗 [HN #10] URL: http://blog.can.ac/2026/02/12/the-harness-problem/
+INFO     2026-02-13 02:55:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-13 02:55:55 [scraper.py:178] 🎉 [HN] All done.
+
