@@ -19834,3 +19834,36 @@ INFO     2026-02-13 06:03:17 [scraper.py:171] 🔗 [HN #10] URL: https://sampatt
 INFO     2026-02-13 06:03:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-13 06:03:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-13 10:40:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-13 10:40:30 [scraper.py:170] 📥 [HN #1] MinIO repository is no longer maintained
+INFO     2026-02-13 10:40:30 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+INFO     2026-02-13 10:40:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-13 10:40:30 [scraper.py:170] 📥 [HN #2] Resizing windows on macOS Tahoe – the saga continues
+INFO     2026-02-13 10:40:30 [scraper.py:171] 🔗 [HN #2] URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/
+INFO     2026-02-13 10:40:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-13 10:40:30 [scraper.py:170] 📥 [HN #3] WolfSSL Sucks Too, So Now What?
+INFO     2026-02-13 10:40:30 [scraper.py:171] 🔗 [HN #3] URL: https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/
+INFO     2026-02-13 10:40:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #4] MMAcevedo aka Lena by qntm
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #4] URL: https://qntm.org/mmacevedo
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #5] GPT‑5.3‑Codex‑Spark
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #5] URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #6] Gemini 3 Deep Think
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #7] An AI agent published a hit piece on me
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #7] URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #8] We interfaced single-threaded C++ with multi-threaded Rust
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #8] URL: https://antithesis.com/blog/2026/rust_cpp/
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #9] Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=46996490
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:170] 📥 [HN #10] Skip the Tips: A game to select "No Tip" but dark patterns try to stop you
+INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #10] URL: https://skipthe.tips/
+INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-13 10:40:31 [scraper.py:178] 🎉 [HN] All done.
+
