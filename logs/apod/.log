@@ -2971,3 +2971,8 @@ INFO     2026-02-13 02:55:54 [scraper.py:47] 📥 [APOD] Title: The Bay of Rainb
 INFO     2026-02-13 02:55:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg
 INFO     2026-02-13 02:55:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-13 06:03:15 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-13 06:03:16 [scraper.py:47] 📥 [APOD] Title: NGC 147 and NGC 185
+INFO     2026-02-13 06:03:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/N147N1851024.png
+INFO     2026-02-13 06:03:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
