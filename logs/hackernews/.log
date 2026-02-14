@@ -19933,3 +19933,36 @@ INFO     2026-02-14 05:50:50 [scraper.py:171] 🔗 [HN #10] URL: https://interna
 INFO     2026-02-14 05:50:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-14 05:50:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-14 10:28:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-14 10:28:27 [scraper.py:170] 📥 [HN #1] Zig – io_uring and Grand Central Dispatch std.Io implementations landed
+INFO     2026-02-14 10:28:27 [scraper.py:171] 🔗 [HN #1] URL: https://ziglang.org/devlog/2026/#2026-02-13
+INFO     2026-02-14 10:28:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-14 10:28:28 [scraper.py:170] 📥 [HN #2] YouTube as Storage
+INFO     2026-02-14 10:28:28 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/PulseBeat02/yt-media-storage
+INFO     2026-02-14 10:28:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-14 10:28:28 [scraper.py:170] 📥 [HN #3] Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL
+INFO     2026-02-14 10:28:28 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/mickamy/sql-tap
+INFO     2026-02-14 10:28:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-14 10:28:28 [scraper.py:170] 📥 [HN #4] The Three Year Myth
+INFO     2026-02-14 10:28:28 [scraper.py:171] 🔗 [HN #4] URL: https://green.spacedino.net/the-three-year-myth/
+INFO     2026-02-14 10:28:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-14 10:28:28 [scraper.py:170] 📥 [HN #5] Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986
+INFO     2026-02-14 10:28:28 [scraper.py:171] 🔗 [HN #5] URL: https://www.wallstreetraider.com/story.html
+INFO     2026-02-14 10:28:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:170] 📥 [HN #6] Understanding the Go Compiler: The Linker
+INFO     2026-02-14 10:28:29 [scraper.py:171] 🔗 [HN #6] URL: https://internals-for-interns.com/posts/the-go-linker/
+INFO     2026-02-14 10:28:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:170] 📥 [HN #7] Show HN: Data Engineering Book – An open source, community-driven guide
+INFO     2026-02-14 10:28:29 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+INFO     2026-02-14 10:28:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:170] 📥 [HN #8] How the Little Guy Moved
+INFO     2026-02-14 10:28:29 [scraper.py:171] 🔗 [HN #8] URL: https://animationobsessive.substack.com/p/how-the-little-guy-moved
+INFO     2026-02-14 10:28:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:170] 📥 [HN #9] Common Lisp Screenshots: today's CL applications in action
+INFO     2026-02-14 10:28:29 [scraper.py:171] 🔗 [HN #9] URL: http://www.lisp-screenshots.org
+INFO     2026-02-14 10:28:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:170] 📥 [HN #10] Babylon 5 is now free to watch on YouTube
+INFO     2026-02-14 10:28:29 [scraper.py:171] 🔗 [HN #10] URL: https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/
+INFO     2026-02-14 10:28:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-14 10:28:29 [scraper.py:178] 🎉 [HN] All done.
+
