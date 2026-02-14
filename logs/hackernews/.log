@@ -19867,3 +19867,36 @@ INFO     2026-02-13 10:40:31 [scraper.py:171] 🔗 [HN #10] URL: https://skipthe
 INFO     2026-02-13 10:40:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-13 10:40:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-14 02:43:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-14 02:43:25 [scraper.py:170] 📥 [HN #1] An AI Agent Published a Hit Piece on Me – More Things Have Happened
+INFO     2026-02-14 02:43:25 [scraper.py:171] 🔗 [HN #1] URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+INFO     2026-02-14 02:43:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-14 02:43:25 [scraper.py:170] 📥 [HN #2] Gradient.horse
+INFO     2026-02-14 02:43:25 [scraper.py:171] 🔗 [HN #2] URL: https://gradient.horse
+INFO     2026-02-14 02:43:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-14 02:43:26 [scraper.py:170] 📥 [HN #3] GPT-5.2 derives a new result in theoretical physics
+INFO     2026-02-14 02:43:26 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/new-result-theoretical-physics/
+INFO     2026-02-14 02:43:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-14 02:43:26 [scraper.py:170] 📥 [HN #4] Show HN: Data Engineering Book – An open source, community-driven guide
+INFO     2026-02-14 02:43:26 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+INFO     2026-02-14 02:43:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-14 02:43:26 [scraper.py:170] 📥 [HN #5] Building a TUI is easy now
+INFO     2026-02-14 02:43:26 [scraper.py:171] 🔗 [HN #5] URL: https://hatchet.run/blog/tuis-are-easy-now
+INFO     2026-02-14 02:43:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-14 02:43:26 [scraper.py:170] 📥 [HN #6] Font Rendering from First Principles
+INFO     2026-02-14 02:43:26 [scraper.py:171] 🔗 [HN #6] URL: https://mccloskeybr.com/articles/font_rendering.html
+INFO     2026-02-14 02:43:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-14 02:43:26 [scraper.py:170] 📥 [HN #7] Common Lisp Screenshots: today's CL applications in action
+INFO     2026-02-14 02:43:26 [scraper.py:171] 🔗 [HN #7] URL: http://www.lisp-screenshots.org
+INFO     2026-02-14 02:43:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-14 02:43:27 [scraper.py:170] 📥 [HN #8] The EU moves to kill infinite scrolling
+INFO     2026-02-14 02:43:27 [scraper.py:171] 🔗 [HN #8] URL: https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/
+INFO     2026-02-14 02:43:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-14 02:43:27 [scraper.py:170] 📥 [HN #9] gRPC: From service definition to wire format
+INFO     2026-02-14 02:43:27 [scraper.py:171] 🔗 [HN #9] URL: https://kreya.app/blog/grpc-deep-dive/
+INFO     2026-02-14 02:43:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-14 02:43:27 [scraper.py:170] 📥 [HN #10] Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs
+INFO     2026-02-14 02:43:27 [scraper.py:171] 🔗 [HN #10] URL: https://cloudrouter.dev/
+INFO     2026-02-14 02:43:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-14 02:43:27 [scraper.py:178] 🎉 [HN] All done.
+
