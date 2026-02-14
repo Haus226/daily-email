@@ -19900,3 +19900,36 @@ INFO     2026-02-14 02:43:27 [scraper.py:171] 🔗 [HN #10] URL: https://cloudro
 INFO     2026-02-14 02:43:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-14 02:43:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-14 05:50:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-14 05:50:48 [scraper.py:170] 📥 [HN #1] NPMX – a fast, modern browser for the NPM registry
+INFO     2026-02-14 05:50:48 [scraper.py:171] 🔗 [HN #1] URL: https://npmx.dev
+INFO     2026-02-14 05:50:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-14 05:50:48 [scraper.py:170] 📥 [HN #2] Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL
+INFO     2026-02-14 05:50:48 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/mickamy/sql-tap
+INFO     2026-02-14 05:50:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-14 05:50:49 [scraper.py:170] 📥 [HN #3] Show HN: Data Engineering Book – An open source, community-driven guide
+INFO     2026-02-14 05:50:49 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+INFO     2026-02-14 05:50:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-14 05:50:49 [scraper.py:170] 📥 [HN #4] GPT-5.2 derives a new result in theoretical physics
+INFO     2026-02-14 05:50:49 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/new-result-theoretical-physics/
+INFO     2026-02-14 05:50:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-14 05:50:49 [scraper.py:170] 📥 [HN #5] Common Lisp Screenshots: today's CL applications in action
+INFO     2026-02-14 05:50:49 [scraper.py:171] 🔗 [HN #5] URL: http://www.lisp-screenshots.org
+INFO     2026-02-14 05:50:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-14 05:50:49 [scraper.py:170] 📥 [HN #6] Building a TUI is easy now
+INFO     2026-02-14 05:50:49 [scraper.py:171] 🔗 [HN #6] URL: https://hatchet.run/blog/tuis-are-easy-now
+INFO     2026-02-14 05:50:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-14 05:50:50 [scraper.py:170] 📥 [HN #7] Adventures in Neural Rendering
+INFO     2026-02-14 05:50:50 [scraper.py:171] 🔗 [HN #7] URL: https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/
+INFO     2026-02-14 05:50:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-14 05:50:50 [scraper.py:170] 📥 [HN #8] Font Rendering from First Principles
+INFO     2026-02-14 05:50:50 [scraper.py:171] 🔗 [HN #8] URL: https://mccloskeybr.com/articles/font_rendering.html
+INFO     2026-02-14 05:50:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-14 05:50:50 [scraper.py:170] 📥 [HN #9] Gradient.horse
+INFO     2026-02-14 05:50:50 [scraper.py:171] 🔗 [HN #9] URL: https://gradient.horse
+INFO     2026-02-14 05:50:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-14 05:50:50 [scraper.py:170] 📥 [HN #10] Understanding the Go Compiler: The Linker
+INFO     2026-02-14 05:50:50 [scraper.py:171] 🔗 [HN #10] URL: https://internals-for-interns.com/posts/the-go-linker/
+INFO     2026-02-14 05:50:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-14 05:50:50 [scraper.py:178] 🎉 [HN] All done.
+
