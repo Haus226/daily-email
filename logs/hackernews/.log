@@ -20032,3 +20032,36 @@ INFO     2026-02-15 05:59:33 [scraper.py:171] 🔗 [HN #10] URL: https://newpipe
 INFO     2026-02-15 05:59:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-15 05:59:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-15 10:28:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-15 10:28:17 [scraper.py:170] 📥 [HN #1] I love the work of the ArchWiki maintainers
+INFO     2026-02-15 10:28:17 [scraper.py:171] 🔗 [HN #1] URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/
+INFO     2026-02-15 10:28:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-15 10:28:17 [scraper.py:170] 📥 [HN #2] Flashpoint Archive – Over 200k web games and animations preserved
+INFO     2026-02-15 10:28:17 [scraper.py:171] 🔗 [HN #2] URL: https://flashpointarchive.org
+INFO     2026-02-15 10:28:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #3] Git is a file system. We need a database for the code
+INFO     2026-02-15 10:28:18 [scraper.py:171] 🔗 [HN #3] URL: https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e
+INFO     2026-02-15 10:28:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #4] Two different tricks for fast LLM inference
+INFO     2026-02-15 10:28:18 [scraper.py:171] 🔗 [HN #4] URL: https://www.seangoedecke.com/fast-llm-inference/
+INFO     2026-02-15 10:28:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #5] My smart sleep mask broadcasts users' brainwaves to an open MQTT broker
+INFO     2026-02-15 10:28:18 [scraper.py:171] 🔗 [HN #5] URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
+INFO     2026-02-15 10:28:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #6] A practical guide to observing the night sky for real skies and real equipment
+INFO     2026-02-15 10:28:18 [scraper.py:171] 🔗 [HN #6] URL: https://stargazingbuddy.com/
+INFO     2026-02-15 10:28:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #7] Zvec: A lightweight, fast, in-process vector database
+INFO     2026-02-15 10:28:18 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/alibaba/zvec
+INFO     2026-02-15 10:28:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-15 10:28:18 [scraper.py:170] 📥 [HN #8] Instagram's URL Blackhole
+INFO     2026-02-15 10:28:19 [scraper.py:171] 🔗 [HN #8] URL: https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664
+INFO     2026-02-15 10:28:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-15 10:28:19 [scraper.py:170] 📥 [HN #9] Guitars of the USSR and the Jolana Special in Azerbaijani Music
+INFO     2026-02-15 10:28:19 [scraper.py:171] 🔗 [HN #9] URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/
+INFO     2026-02-15 10:28:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-15 10:28:19 [scraper.py:170] 📥 [HN #10] uBlock filter list to hide all YouTube Shorts
+INFO     2026-02-15 10:28:19 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/i5heu/ublock-hide-yt-shorts/
+INFO     2026-02-15 10:28:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-15 10:28:19 [scraper.py:178] 🎉 [HN] All done.
+
