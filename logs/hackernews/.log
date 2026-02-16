@@ -20098,3 +20098,36 @@ INFO     2026-02-16 02:52:11 [scraper.py:171] 🔗 [HN #10] URL: https://marler8
 INFO     2026-02-16 02:52:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-16 02:52:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-16 06:08:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-16 06:08:05 [scraper.py:170] 📥 [HN #1] I’m joining OpenAI
+INFO     2026-02-16 06:08:05 [scraper.py:171] 🔗 [HN #1] URL: https://steipete.me/posts/2026/openclaw
+INFO     2026-02-16 06:08:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-16 06:08:05 [scraper.py:170] 📥 [HN #2] Magnus Carlsen Wins the Freestyle (Chess960) World Championship
+INFO     2026-02-16 06:08:05 [scraper.py:171] 🔗 [HN #2] URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
+INFO     2026-02-16 06:08:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-16 06:08:05 [scraper.py:170] 📥 [HN #3] Arm wants a bigger slice of the chip business
+INFO     2026-02-16 06:08:05 [scraper.py:171] 🔗 [HN #3] URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business
+INFO     2026-02-16 06:08:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #4] Modern CSS Code Snippets: Stop writing CSS like it's 2015
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #4] URL: https://modern-css.com
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #5] LT6502: A 6502-based homebrew laptop
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/TechPaula/LT6502
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #6] Audio is the one area small labs are winning
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #6] URL: https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #7] How long do job postings stay open?
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #7] URL: https://corvi.careers/blog/job_open_days_by_category_feb_2026/
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #8] Error payloads in Zig
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #8] URL: https://srcreigh.ca/posts/error-payloads-in-zig/
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #9] I gave Claude access to my pen plotter
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #9] URL: https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:170] 📥 [HN #10] Show HN: Microgpt is a GPT you can visualize in the browser
+INFO     2026-02-16 06:08:06 [scraper.py:171] 🔗 [HN #10] URL: https://microgpt.boratto.ca
+INFO     2026-02-16 06:08:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-16 06:08:06 [scraper.py:178] 🎉 [HN] All done.
+
