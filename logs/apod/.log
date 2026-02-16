@@ -3011,3 +3011,8 @@ INFO     2026-02-15 10:28:17 [scraper.py:47] 📥 [APOD] Title: To Fly Free in S
 INFO     2026-02-15 10:28:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg
 INFO     2026-02-15 10:28:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-16 02:52:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-16 02:52:10 [scraper.py:47] 📥 [APOD] Title: To Fly Free in Space
+INFO     2026-02-16 02:52:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg
+INFO     2026-02-16 02:52:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
