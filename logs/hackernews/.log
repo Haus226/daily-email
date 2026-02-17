@@ -20164,3 +20164,36 @@ INFO     2026-02-16 10:52:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.eco
 INFO     2026-02-16 10:52:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-16 10:52:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-17 02:48:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-17 02:48:44 [scraper.py:170] 📥 [HN #1] Dark web agent spotted bedroom wall clue to rescue girl from abuse
+INFO     2026-02-17 02:48:44 [scraper.py:171] 🔗 [HN #1] URL: https://www.bbc.com/news/articles/cx2gn239exlo
+INFO     2026-02-17 02:48:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-17 02:48:44 [scraper.py:170] 📥 [HN #2] Study: Self-generated Agent Skills are useless
+INFO     2026-02-17 02:48:44 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2602.12670
+INFO     2026-02-17 02:48:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-17 02:48:44 [scraper.py:170] 📥 [HN #3] 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
+INFO     2026-02-17 02:48:44 [scraper.py:171] 🔗 [HN #3] URL: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
+INFO     2026-02-17 02:48:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-17 02:48:44 [scraper.py:170] 📥 [HN #4] AI is destroying Open Source, and it's not even good yet
+INFO     2026-02-17 02:48:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/
+INFO     2026-02-17 02:48:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #5] Rise of the Triforce
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #5] URL: https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #6] Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/zachlatta/freeflow
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #7] Show HN: Scanned 1927-1945 Daily USFS Work Diary
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #7] URL: https://forestrydiary.com/
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #8] What your Bluetooth devices reveal
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #8] URL: https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #9] What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #9] URL: https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:170] 📥 [HN #10] Visual Introduction to PyTorch
+INFO     2026-02-17 02:48:45 [scraper.py:171] 🔗 [HN #10] URL: https://0byte.io/articles/pytorch_introduction.html
+INFO     2026-02-17 02:48:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-17 02:48:45 [scraper.py:178] 🎉 [HN] All done.
+

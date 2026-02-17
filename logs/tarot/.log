@@ -3028,3 +3028,8 @@ INFO     2026-02-16 10:52:19 [scraper.py:390] 📥 [TAROT] Card: King of Pentacl
 INFO     2026-02-16 10:52:20 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-02-16 10:52:20 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-02-17 02:48:43 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-02-17 02:48:43 [scraper.py:390] 📥 [TAROT] Card: Nine of Cups
+INFO     2026-02-17 02:48:44 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-02-17 02:48:44 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
