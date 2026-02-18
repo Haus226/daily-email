@@ -3051,3 +3051,8 @@ INFO     2026-02-18 06:04:28 [scraper.py:47] 📥 [APOD] Title: Orion's Cradle
 INFO     2026-02-18 06:04:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg
 INFO     2026-02-18 06:04:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-18 10:46:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-18 10:46:08 [scraper.py:47] 📥 [APOD] Title: Orion's Cradle
+INFO     2026-02-18 10:46:08 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg
+INFO     2026-02-18 10:46:08 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
