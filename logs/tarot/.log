@@ -3063,3 +3063,8 @@ INFO     2026-02-19 02:50:51 [scraper.py:390] 📥 [TAROT] Card: The Sun
 INFO     2026-02-19 02:50:51 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-02-19 02:50:51 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-02-19 06:03:07 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-02-19 06:03:07 [scraper.py:390] 📥 [TAROT] Card: The Sun
+INFO     2026-02-19 06:03:07 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-02-19 06:03:07 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

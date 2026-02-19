@@ -20395,3 +20395,36 @@ INFO     2026-02-19 02:50:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-02-19 02:50:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-19 02:50:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-19 06:03:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-19 06:03:07 [scraper.py:170] 📥 [HN #1] European Tech Alternatives
+INFO     2026-02-19 06:03:07 [scraper.py:171] 🔗 [HN #1] URL: https://eutechmap.com/map
+INFO     2026-02-19 06:03:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-19 06:03:07 [scraper.py:170] 📥 [HN #2] Sizing chaos
+INFO     2026-02-19 06:03:07 [scraper.py:171] 🔗 [HN #2] URL: https://pudding.cool/2026/02/womens-sizing/
+INFO     2026-02-19 06:03:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-19 06:03:08 [scraper.py:170] 📥 [HN #3] 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+INFO     2026-02-19 06:03:08 [scraper.py:171] 🔗 [HN #3] URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+INFO     2026-02-19 06:03:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-19 06:03:08 [scraper.py:170] 📥 [HN #4] Anthropic officially bans using subscription auth for third party use
+INFO     2026-02-19 06:03:08 [scraper.py:171] 🔗 [HN #4] URL: https://code.claude.com/docs/en/legal-and-compliance
+INFO     2026-02-19 06:03:08 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-19 06:03:08 [scraper.py:170] 📥 [HN #5] 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
+INFO     2026-02-19 06:03:08 [scraper.py:171] 🔗 [HN #5] URL: https://nicolasdickenmann.com/blog/the-great-fp64-divide.html
+INFO     2026-02-19 06:03:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-19 06:03:08 [scraper.py:170] 📥 [HN #6] Cosmologically Unique IDs
+INFO     2026-02-19 06:03:08 [scraper.py:171] 🔗 [HN #6] URL: https://jasonfantl.com/posts/Universal-Unique-IDs/
+INFO     2026-02-19 06:03:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-19 06:03:08 [scraper.py:170] 📥 [HN #7] How to Choose Between Hindley-Milner and Bidirectional Typing
+INFO     2026-02-19 06:03:08 [scraper.py:171] 🔗 [HN #7] URL: https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/
+INFO     2026-02-19 06:03:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-19 06:03:09 [scraper.py:170] 📥 [HN #8] Tailscale Peer Relays is now generally available
+INFO     2026-02-19 06:03:09 [scraper.py:171] 🔗 [HN #8] URL: https://tailscale.com/blog/peer-relays-ga
+INFO     2026-02-19 06:03:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-19 06:03:09 [scraper.py:170] 📥 [HN #9] How AI is affecting productivity and jobs in Europe
+INFO     2026-02-19 06:03:09 [scraper.py:171] 🔗 [HN #9] URL: https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe
+INFO     2026-02-19 06:03:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-19 06:03:09 [scraper.py:170] 📥 [HN #10] Zero-day CSS: CVE-2026-2441 exists in the wild
+INFO     2026-02-19 06:03:09 [scraper.py:171] 🔗 [HN #10] URL: https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+INFO     2026-02-19 06:03:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-19 06:03:09 [scraper.py:178] 🎉 [HN] All done.
+
