@@ -20362,3 +20362,36 @@ INFO     2026-02-18 10:46:10 [scraper.py:171] 🔗 [HN #10] URL: https://fortune
 INFO     2026-02-18 10:46:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-18 10:46:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-19 02:50:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-19 02:50:51 [scraper.py:170] 📥 [HN #1] Sizing chaos
+INFO     2026-02-19 02:50:51 [scraper.py:171] 🔗 [HN #1] URL: https://pudding.cool/2026/02/womens-sizing/
+INFO     2026-02-19 02:50:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #2] 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #2] URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #3] Cosmologically Unique IDs
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #3] URL: https://jasonfantl.com/posts/Universal-Unique-IDs/
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #4] Zero-day CSS: CVE-2026-2441 exists in the wild
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #4] URL: https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #5] How to Choose Between Hindley-Milner and Bidirectional Typing
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #5] URL: https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #6] Tailscale Peer Relays is now generally available
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #6] URL: https://tailscale.com/blog/peer-relays-ga
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-19 02:50:52 [scraper.py:170] 📥 [HN #7] Minecraft Java is switching from OpenGL to Vulkan
+INFO     2026-02-19 02:50:52 [scraper.py:171] 🔗 [HN #7] URL: https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/
+INFO     2026-02-19 02:50:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-19 02:50:53 [scraper.py:170] 📥 [HN #8] DNS-Persist-01: A New Model for DNS-Based Challenge Validation
+INFO     2026-02-19 02:50:53 [scraper.py:171] 🔗 [HN #8] URL: https://letsencrypt.org/2026/02/18/dns-persist-01.html
+INFO     2026-02-19 02:50:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-19 02:50:53 [scraper.py:170] 📥 [HN #9] 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
+INFO     2026-02-19 02:50:53 [scraper.py:171] 🔗 [HN #9] URL: https://nicolasdickenmann.com/blog/the-great-fp64-divide.html
+INFO     2026-02-19 02:50:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-19 02:50:53 [scraper.py:170] 📥 [HN #10] Closing this as we are no longer pursuing Swift adoption
+INFO     2026-02-19 02:50:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/LadybirdBrowser/ladybird/issues/933
+INFO     2026-02-19 02:50:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-19 02:50:53 [scraper.py:178] 🎉 [HN] All done.
+
