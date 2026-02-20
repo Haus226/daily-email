@@ -20461,3 +20461,36 @@ INFO     2026-02-19 10:43:53 [scraper.py:171] 🔗 [HN #10] URL: https://chromer
 INFO     2026-02-19 10:43:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-19 10:43:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-20 02:45:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-20 02:45:45 [scraper.py:170] 📥 [HN #1] Gemini 3.1 Pro
+INFO     2026-02-20 02:45:45 [scraper.py:171] 🔗 [HN #1] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+INFO     2026-02-20 02:45:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-20 02:45:45 [scraper.py:170] 📥 [HN #2] An ARM Homelab Server, or a Minisforum MS-R1 Review
+INFO     2026-02-20 02:45:45 [scraper.py:171] 🔗 [HN #2] URL: https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/
+INFO     2026-02-20 02:45:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-20 02:45:45 [scraper.py:170] 📥 [HN #3] Show HN: Micasa – track your house from the terminal
+INFO     2026-02-20 02:45:45 [scraper.py:171] 🔗 [HN #3] URL: https://micasa.dev
+INFO     2026-02-20 02:45:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-20 02:45:45 [scraper.py:170] 📥 [HN #4] Micropayments as a reality check for news sites
+INFO     2026-02-20 02:45:45 [scraper.py:171] 🔗 [HN #4] URL: https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
+INFO     2026-02-20 02:45:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-20 02:45:45 [scraper.py:170] 📥 [HN #5] Pi for Excel: AI sidebar add-in for Excel, powered by Pi
+INFO     2026-02-20 02:45:45 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/tmustier/pi-for-excel
+INFO     2026-02-20 02:45:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:170] 📥 [HN #6] America vs. Singapore: You can't save your way out of economic shocks
+INFO     2026-02-20 02:45:46 [scraper.py:171] 🔗 [HN #6] URL: https://www.governance.fyi/p/america-vs-singapore-you-cant-save
+INFO     2026-02-20 02:45:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:170] 📥 [HN #7] A terminal weather app with ASCII animations driven by real-time weather data
+INFO     2026-02-20 02:45:46 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/Veirt/weathr
+INFO     2026-02-20 02:45:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:170] 📥 [HN #8] US plans online portal to bypass content bans in Europe and elsewhere
+INFO     2026-02-20 02:45:46 [scraper.py:171] 🔗 [HN #8] URL: https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/
+INFO     2026-02-20 02:45:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:170] 📥 [HN #9] MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes
+INFO     2026-02-20 02:45:46 [scraper.py:171] 🔗 [HN #9] URL: https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea
+INFO     2026-02-20 02:45:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:170] 📥 [HN #10] Paged Out Issue #8 [pdf]
+INFO     2026-02-20 02:45:46 [scraper.py:171] 🔗 [HN #10] URL: https://pagedout.institute/download/PagedOut_008.pdf
+INFO     2026-02-20 02:45:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-20 02:45:46 [scraper.py:178] 🎉 [HN] All done.
+
