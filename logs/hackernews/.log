@@ -20527,3 +20527,36 @@ INFO     2026-02-20 05:58:37 [scraper.py:171] 🔗 [HN #10] URL: https://clerevi
 INFO     2026-02-20 05:58:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-20 05:58:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-20 10:38:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-20 10:38:42 [scraper.py:170] 📥 [HN #1] Defer available in gcc and clang
+INFO     2026-02-20 10:38:42 [scraper.py:171] 🔗 [HN #1] URL: https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/
+INFO     2026-02-20 10:38:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-20 10:38:42 [scraper.py:170] 📥 [HN #2] Consistency diffusion language models: Up to 14x faster, no quality loss
+INFO     2026-02-20 10:38:42 [scraper.py:171] 🔗 [HN #2] URL: https://www.together.ai/blog/consistency-diffusion-language-models
+INFO     2026-02-20 10:38:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #3] Gemini 3.1 Pro
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #3] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #4] I tried building my startup entirely on European infrastructure
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #4] URL: https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #5] Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/olvvier/apple-silicon-accelerometer
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #6] FreeCAD
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #6] URL: https://www.freecad.org/index.php
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #7] AI is not a coworker, it's an exoskeleton
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #7] URL: https://www.kasava.dev/blog/ai-as-exoskeleton
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-20 10:38:43 [scraper.py:170] 📥 [HN #8] Show HN: Micasa – track your house from the terminal
+INFO     2026-02-20 10:38:43 [scraper.py:171] 🔗 [HN #8] URL: https://micasa.dev
+INFO     2026-02-20 10:38:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-20 10:38:44 [scraper.py:170] 📥 [HN #9] Infrastructure decisions I endorse or regret after 4 years at a startup (2024)
+INFO     2026-02-20 10:38:44 [scraper.py:171] 🔗 [HN #9] URL: https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/
+INFO     2026-02-20 10:38:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-20 10:38:44 [scraper.py:170] 📥 [HN #10] Untapped Way to Learn a Codebase: Build a Visualizer
+INFO     2026-02-20 10:38:44 [scraper.py:171] 🔗 [HN #10] URL: https://jimmyhmiller.com/learn-codebase-visualizer
+INFO     2026-02-20 10:38:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-20 10:38:44 [scraper.py:178] 🎉 [HN] All done.
+
