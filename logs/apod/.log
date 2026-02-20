@@ -3076,3 +3076,8 @@ INFO     2026-02-20 02:45:45 [scraper.py:47] 📥 [APOD] Title: IC 2574: Codding
 INFO     2026-02-20 02:45:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg
 INFO     2026-02-20 02:45:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-20 05:58:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-20 05:58:35 [scraper.py:47] 📥 [APOD] Title: B93: A Dark Interstellar Ghost
+INFO     2026-02-20 05:58:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg
+INFO     2026-02-20 05:58:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
