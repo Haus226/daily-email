@@ -3088,3 +3088,8 @@ INFO     2026-02-20 10:38:42 [scraper.py:390] 📥 [TAROT] Card: Two of Pentacle
 INFO     2026-02-20 10:38:42 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-02-20 10:38:42 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-02-21 02:39:39 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-02-21 02:39:39 [scraper.py:390] 📥 [TAROT] Card: The World
+INFO     2026-02-21 02:39:40 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-02-21 02:39:40 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
