@@ -20626,3 +20626,36 @@ INFO     2026-02-21 05:47:43 [scraper.py:171] 🔗 [HN #10] URL: https://www.jun
 INFO     2026-02-21 05:47:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-21 05:47:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-21 10:27:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-21 10:27:23 [scraper.py:170] 📥 [HN #1] Andrej Karpathy talks about "Claws"
+INFO     2026-02-21 10:27:23 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2026/Feb/21/claws/
+INFO     2026-02-21 10:27:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-21 10:27:23 [scraper.py:170] 📥 [HN #2] Keep Android Open
+INFO     2026-02-21 10:27:23 [scraper.py:171] 🔗 [HN #2] URL: https://f-droid.org/2026/02/20/twif.html
+INFO     2026-02-21 10:27:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-21 10:27:23 [scraper.py:170] 📥 [HN #3] Acme Weather
+INFO     2026-02-21 10:27:23 [scraper.py:171] 🔗 [HN #3] URL: https://acmeweather.com/blog/introducing-acme-weather
+INFO     2026-02-21 10:27:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-21 10:27:23 [scraper.py:170] 📥 [HN #4] Turn Dependabot off
+INFO     2026-02-21 10:27:23 [scraper.py:171] 🔗 [HN #4] URL: https://words.filippo.io/dependabot/
+INFO     2026-02-21 10:27:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-21 10:27:24 [scraper.py:170] 📥 [HN #5] Trunk Based Development
+INFO     2026-02-21 10:27:24 [scraper.py:171] 🔗 [HN #5] URL: https://trunkbaseddevelopment.com/
+INFO     2026-02-21 10:27:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-21 10:27:24 [scraper.py:170] 📥 [HN #6] I found a Vulnerability. They found a Lawyer
+INFO     2026-02-21 10:27:24 [scraper.py:171] 🔗 [HN #6] URL: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+INFO     2026-02-21 10:27:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-21 10:27:24 [scraper.py:170] 📥 [HN #7] Facebook is cooked
+INFO     2026-02-21 10:27:24 [scraper.py:171] 🔗 [HN #7] URL: https://pilk.website/3/facebook-is-absolutely-cooked
+INFO     2026-02-21 10:27:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-21 10:27:24 [scraper.py:170] 📥 [HN #8] Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI
+INFO     2026-02-21 10:27:24 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/ggml-org/llama.cpp/discussions/19759
+INFO     2026-02-21 10:27:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-21 10:27:25 [scraper.py:170] 📥 [HN #9] EU mandates replaceable batteries by 2027 (2023)
+INFO     2026-02-21 10:27:25 [scraper.py:171] 🔗 [HN #9] URL: https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en
+INFO     2026-02-21 10:27:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-21 10:27:25 [scraper.py:170] 📥 [HN #10] Lean 4: How the theorem prover works and why it's the new competitive edge in AI
+INFO     2026-02-21 10:27:25 [scraper.py:171] 🔗 [HN #10] URL: https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in
+INFO     2026-02-21 10:27:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-21 10:27:25 [scraper.py:178] 🎉 [HN] All done.
+
