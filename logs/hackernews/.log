@@ -20659,3 +20659,36 @@ INFO     2026-02-21 10:27:25 [scraper.py:171] 🔗 [HN #10] URL: https://venture
 INFO     2026-02-21 10:27:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-21 10:27:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-22 02:52:32 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-22 02:52:32 [scraper.py:170] 📥 [HN #1] How I use Claude Code: Separation of planning and execution
+INFO     2026-02-22 02:52:32 [scraper.py:171] 🔗 [HN #1] URL: https://boristane.com/blog/how-i-use-claude-code/
+INFO     2026-02-22 02:52:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-22 02:52:33 [scraper.py:170] 📥 [HN #2] Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
+INFO     2026-02-22 02:52:33 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/xaskasdf/ntransformer
+INFO     2026-02-22 02:52:33 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-22 02:52:33 [scraper.py:170] 📥 [HN #3] Evidence of the bouba-kiki effect in naïve baby chicks
+INFO     2026-02-22 02:52:33 [scraper.py:171] 🔗 [HN #3] URL: https://www.science.org/doi/10.1126/science.adq7188
+INFO     2026-02-22 02:52:33 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-22 02:52:33 [scraper.py:170] 📥 [HN #4] Parse, Don't Validate and Type-Driven Design in Rust
+INFO     2026-02-22 02:52:33 [scraper.py:171] 🔗 [HN #4] URL: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
+INFO     2026-02-22 02:52:33 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-22 02:52:34 [scraper.py:170] 📥 [HN #5] How far back in time can you understand English?
+INFO     2026-02-22 02:52:34 [scraper.py:171] 🔗 [HN #5] URL: https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+INFO     2026-02-22 02:52:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-22 02:52:34 [scraper.py:170] 📥 [HN #6] zclaw: personal AI assistant in under 888 KB, running on an ESP32
+INFO     2026-02-22 02:52:34 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/tnm/zclaw
+INFO     2026-02-22 02:52:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-22 02:52:34 [scraper.py:170] 📥 [HN #7] A Botnet Accidentally Destroyed I2P
+INFO     2026-02-22 02:52:34 [scraper.py:171] 🔗 [HN #7] URL: https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/
+INFO     2026-02-22 02:52:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-22 02:52:34 [scraper.py:170] 📥 [HN #8] Scientists discover recent tectonic activity on the moon
+INFO     2026-02-22 02:52:34 [scraper.py:171] 🔗 [HN #8] URL: https://phys.org/news/2026-02-scientists-tectonic-moon.html
+INFO     2026-02-22 02:52:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-22 02:52:35 [scraper.py:170] 📥 [HN #9] CXMT has been offering DDR4 chips at about half the prevailing market rate
+INFO     2026-02-22 02:52:35 [scraper.py:171] 🔗 [HN #9] URL: https://www.koreaherald.com/article/10679206
+INFO     2026-02-22 02:52:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-22 02:52:35 [scraper.py:170] 📥 [HN #10] EDuke32 – Duke Nukem 3D (Open-Source)
+INFO     2026-02-22 02:52:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.eduke32.com/
+INFO     2026-02-22 02:52:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-22 02:52:35 [scraper.py:178] 🎉 [HN] All done.
+
