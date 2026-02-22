@@ -3106,3 +3106,8 @@ INFO     2026-02-22 02:52:32 [scraper.py:47] 📥 [APOD] Title: Twilight with Mo
 INFO     2026-02-22 02:52:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg
 INFO     2026-02-22 02:52:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-22 05:56:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-22 05:56:13 [scraper.py:47] 📥 [APOD] Title: Shadow of a Martian Robot
+INFO     2026-02-22 05:56:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg
+INFO     2026-02-22 05:56:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

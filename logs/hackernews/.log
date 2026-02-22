@@ -20692,3 +20692,36 @@ INFO     2026-02-22 02:52:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.edu
 INFO     2026-02-22 02:52:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-22 02:52:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-22 05:56:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-22 05:56:13 [scraper.py:170] 📥 [HN #1] How I use Claude Code: Separation of planning and execution
+INFO     2026-02-22 05:56:13 [scraper.py:171] 🔗 [HN #1] URL: https://boristane.com/blog/how-i-use-claude-code/
+INFO     2026-02-22 05:56:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-22 05:56:13 [scraper.py:170] 📥 [HN #2] Japanese Woodblock Print Search
+INFO     2026-02-22 05:56:13 [scraper.py:171] 🔗 [HN #2] URL: https://ukiyo-e.org/
+INFO     2026-02-22 05:56:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-22 05:56:13 [scraper.py:170] 📥 [HN #3] Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
+INFO     2026-02-22 05:56:13 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/xaskasdf/ntransformer
+INFO     2026-02-22 05:56:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #4] A Botnet Accidentally Destroyed I2P
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #4] URL: https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #5] “Playmakers,” reviewed: The race to give every child a toy
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #5] URL: https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #6] Two Bits Are Better Than One: making bloom filters 2x more accurate
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #6] URL: https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #7] How far back in time can you understand English?
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #7] URL: https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #8] Evidence of the bouba-kiki effect in naïve baby chicks
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/doi/10.1126/science.adq7188
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-22 05:56:14 [scraper.py:170] 📥 [HN #9] How Taalas "prints" LLM onto a chip?
+INFO     2026-02-22 05:56:14 [scraper.py:171] 🔗 [HN #9] URL: https://www.anuragk.com/blog/posts/Taalas.html
+INFO     2026-02-22 05:56:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-22 05:56:15 [scraper.py:170] 📥 [HN #10] Gamedate – A site to revive dead multiplayer games
+INFO     2026-02-22 05:56:15 [scraper.py:171] 🔗 [HN #10] URL: https://gamedate.org/
+INFO     2026-02-22 05:56:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-22 05:56:15 [scraper.py:178] 🎉 [HN] All done.
+
