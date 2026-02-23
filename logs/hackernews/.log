@@ -20758,3 +20758,36 @@ INFO     2026-02-22 10:27:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.sam
 INFO     2026-02-22 10:27:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-22 10:27:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-23 02:52:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #1] I built Timeframe, our family e-paper dashboard
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #1] URL: https://hawksley.org/2026/02/17/timeframe.html
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #2] The surprising power of daily rituals
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #3] Show HN: WARN Firehose – Every US layoff notice in one searchable database
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #3] URL: https://warnfirehose.com
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #4] Loops is a federated, open-source TikTok
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #4] URL: https://joinloops.org/
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #5] Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #5] URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-23 02:52:23 [scraper.py:170] 📥 [HN #6] Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable
+INFO     2026-02-23 02:52:23 [scraper.py:171] 🔗 [HN #6] URL: https://cia-factbook-archive.fly.dev/
+INFO     2026-02-23 02:52:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-23 02:52:24 [scraper.py:170] 📥 [HN #7] $30B for laptops yielded a generation less cognitively capable than parents
+INFO     2026-02-23 02:52:24 [scraper.py:171] 🔗 [HN #7] URL: https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html
+INFO     2026-02-23 02:52:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-23 02:52:24 [scraper.py:170] 📥 [HN #8] Attention Media ≠ Social Networks
+INFO     2026-02-23 02:52:24 [scraper.py:171] 🔗 [HN #8] URL: https://susam.net/attention-media-vs-social-networks.html
+INFO     2026-02-23 02:52:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-23 02:52:24 [scraper.py:170] 📥 [HN #9] Using the new bridges of FreeBSD 15
+INFO     2026-02-23 02:52:24 [scraper.py:171] 🔗 [HN #9] URL: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
+INFO     2026-02-23 02:52:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-23 02:52:24 [scraper.py:170] 📥 [HN #10] Six Math Essentials
+INFO     2026-02-23 02:52:24 [scraper.py:171] 🔗 [HN #10] URL: https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
+INFO     2026-02-23 02:52:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-23 02:52:24 [scraper.py:178] 🎉 [HN] All done.
+
