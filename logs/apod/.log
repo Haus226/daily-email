@@ -3141,3 +3141,8 @@ INFO     2026-02-24 06:03:12 [scraper.py:47] 📥 [APOD] Title: Planet Parade ov
 INFO     2026-02-24 06:03:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg
 INFO     2026-02-24 06:03:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-24 10:51:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-24 10:51:28 [scraper.py:47] 📥 [APOD] Title: Planet Parade over Sydney Opera House
+INFO     2026-02-24 10:51:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg
+INFO     2026-02-24 10:51:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
