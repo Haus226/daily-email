@@ -3131,3 +3131,8 @@ INFO     2026-02-23 10:51:52 [scraper.py:47] 📥 [APOD] Title: Pleiades: The Se
 INFO     2026-02-23 10:51:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg
 INFO     2026-02-23 10:51:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-24 02:49:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-24 02:49:31 [scraper.py:47] 📥 [APOD] Title: Pleiades: The Seven Sisters Star Cluster
+INFO     2026-02-24 02:49:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/Pleiades_Fiedosiuk_960.jpg
+INFO     2026-02-24 02:49:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
