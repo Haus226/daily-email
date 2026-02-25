@@ -7242,3 +7242,24 @@ INFO     2026-02-25 02:50:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-02-25 02:50:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-02-25 06:04:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-25 06:04:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-25 06:04:45 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-25 06:04:45 [scraper.py:133] 📥 [EO] Title: Landslide and Avalanche Debris Litter Hubbard Glacier
+INFO     2026-02-25 06:04:45 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakezoom_nisar_20251208_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-25 06:04:45 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-02-25 06:04:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-25 06:04:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-02-25 06:04:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-25 06:04:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-02-25 06:04:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-25 06:04:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-02-25 06:04:46 [scraper.py:133] 📥 [EO] Title: Landslide and Avalanche Debris Litter Hubbard Glacier
+INFO     2026-02-25 06:04:46 [scraper.py:133] 📥 [EO] Title: Landslide and Avalanche Debris Litter Hubbard Glacier
+INFO     2026-02-25 06:04:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakezoom_nisar_20251208_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-25 06:04:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakezoom_nisar_20251208_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-02-25 06:04:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-02-25 06:04:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
