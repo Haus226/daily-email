@@ -21055,3 +21055,36 @@ INFO     2026-02-25 10:52:34 [scraper.py:171] 🔗 [HN #10] URL: https://shouldh
 INFO     2026-02-25 10:52:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-25 10:52:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-26 02:45:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #1] Jimi Hendrix was a systems engineer
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #2] Jane Street Hit with Terra $40B Insider Trading Suit
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #2] URL: https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #3] First Website (1992)
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #3] URL: https://info.cern.ch
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #4] Making MCP cheaper via CLI
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #4] URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #5] Artist who "paints" portraits on glass by hitting it with a hammer
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #5] URL: https://simonbergerart.com
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #6] Windows 11 Notepad to support Markdown
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #6] URL: https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-26 02:45:41 [scraper.py:170] 📥 [HN #7] Bus stop balancing is fast, cheap, and effective
+INFO     2026-02-26 02:45:41 [scraper.py:171] 🔗 [HN #7] URL: https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
+INFO     2026-02-26 02:45:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-26 02:45:42 [scraper.py:170] 📥 [HN #8] Show HN: Respectify – A comment moderator that teaches people to argue better
+INFO     2026-02-26 02:45:42 [scraper.py:171] 🔗 [HN #8] URL: https://respectify.org/
+INFO     2026-02-26 02:45:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-26 02:45:42 [scraper.py:170] 📥 [HN #9] The Hydrogen Truck Problem Isn't the Truck
+INFO     2026-02-26 02:45:42 [scraper.py:171] 🔗 [HN #9] URL: https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/
+INFO     2026-02-26 02:45:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-26 02:45:42 [scraper.py:170] 📥 [HN #10] Tech Companies Shouldn't Be Bullied into Doing Surveillance
+INFO     2026-02-26 02:45:42 [scraper.py:171] 🔗 [HN #10] URL: https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance
+INFO     2026-02-26 02:45:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-26 02:45:42 [scraper.py:178] 🎉 [HN] All done.
+
