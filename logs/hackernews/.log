@@ -21088,3 +21088,36 @@ INFO     2026-02-26 02:45:42 [scraper.py:171] 🔗 [HN #10] URL: https://www.eff
 INFO     2026-02-26 02:45:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-26 02:45:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-26 06:02:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-26 06:02:14 [scraper.py:170] 📥 [HN #1] Google API keys weren't secrets, but then Gemini changed the rules
+INFO     2026-02-26 06:02:14 [scraper.py:171] 🔗 [HN #1] URL: https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+INFO     2026-02-26 06:02:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-26 06:02:14 [scraper.py:170] 📥 [HN #2] I don't know how you get here from "predict the next word."
+INFO     2026-02-26 06:02:14 [scraper.py:171] 🔗 [HN #2] URL: https://www.grumpy-economist.com/p/refine
+INFO     2026-02-26 06:02:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #3] Jimi Hendrix was a systems engineer
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #3] URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #4] First Website (1992)
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #4] URL: https://info.cern.ch
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #5] RAM now represents 35 percent of bill of materials for HP PCs
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #5] URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #6] The Pleasures and Pains of Coffee (1830)
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #6] URL: https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #7] How will OpenAI compete?
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #7] URL: https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-26 06:02:15 [scraper.py:170] 📥 [HN #8] Artist who “paints” portraits on glass by hitting it with a hammer
+INFO     2026-02-26 06:02:15 [scraper.py:171] 🔗 [HN #8] URL: https://simonbergerart.com
+INFO     2026-02-26 06:02:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-26 06:02:16 [scraper.py:170] 📥 [HN #9] Making MCP cheaper via CLI
+INFO     2026-02-26 06:02:16 [scraper.py:171] 🔗 [HN #9] URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+INFO     2026-02-26 06:02:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-26 06:02:16 [scraper.py:170] 📥 [HN #10] Windows 11 Notepad to support Markdown
+INFO     2026-02-26 06:02:16 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
+INFO     2026-02-26 06:02:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-26 06:02:16 [scraper.py:178] 🎉 [HN] All done.
+
