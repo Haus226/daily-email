@@ -21121,3 +21121,36 @@ INFO     2026-02-26 06:02:16 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.w
 INFO     2026-02-26 06:02:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-26 06:02:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-26 10:48:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-26 10:48:42 [scraper.py:170] 📥 [HN #1] Google API keys weren't secrets, but then Gemini changed the rules
+INFO     2026-02-26 10:48:42 [scraper.py:171] 🔗 [HN #1] URL: https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+INFO     2026-02-26 10:48:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-26 10:48:42 [scraper.py:170] 📥 [HN #2] Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line
+INFO     2026-02-26 10:48:42 [scraper.py:171] 🔗 [HN #2] URL: https://gitlab.com/here_forawhile/terminalphone
+INFO     2026-02-26 10:48:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-26 10:48:42 [scraper.py:170] 📥 [HN #3] Jimi Hendrix was a systems engineer
+INFO     2026-02-26 10:48:42 [scraper.py:171] 🔗 [HN #3] URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+INFO     2026-02-26 10:48:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-26 10:48:43 [scraper.py:170] 📥 [HN #4] Show HN: Better Hub – A better GitHub experience
+INFO     2026-02-26 10:48:43 [scraper.py:171] 🔗 [HN #4] URL: https://www.better-hub.com/
+INFO     2026-02-26 10:48:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-26 10:48:43 [scraper.py:170] 📥 [HN #5] How will OpenAI compete?
+INFO     2026-02-26 10:48:43 [scraper.py:171] 🔗 [HN #5] URL: https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x
+INFO     2026-02-26 10:48:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-26 10:48:43 [scraper.py:170] 📥 [HN #6] First Website (1992)
+INFO     2026-02-26 10:48:43 [scraper.py:171] 🔗 [HN #6] URL: https://info.cern.ch
+INFO     2026-02-26 10:48:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-26 10:48:43 [scraper.py:170] 📥 [HN #7] Making MCP cheaper via CLI
+INFO     2026-02-26 10:48:43 [scraper.py:171] 🔗 [HN #7] URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+INFO     2026-02-26 10:48:43 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-26 10:48:43 [scraper.py:170] 📥 [HN #8] Windows 11 Notepad to support Markdown
+INFO     2026-02-26 10:48:43 [scraper.py:171] 🔗 [HN #8] URL: https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
+INFO     2026-02-26 10:48:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-26 10:48:44 [scraper.py:170] 📥 [HN #9] Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention
+INFO     2026-02-26 10:48:44 [scraper.py:171] 🔗 [HN #9] URL: https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/
+INFO     2026-02-26 10:48:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-26 10:48:44 [scraper.py:170] 📥 [HN #10] Artist who “paints” portraits on glass by hitting it with a hammer
+INFO     2026-02-26 10:48:44 [scraper.py:171] 🔗 [HN #10] URL: https://simonbergerart.com
+INFO     2026-02-26 10:48:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-26 10:48:44 [scraper.py:178] 🎉 [HN] All done.
+
