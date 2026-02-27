@@ -21220,3 +21220,36 @@ INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-27 05:56:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-27 10:38:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-27 10:39:00 [scraper.py:170] 📥 [HN #1] Statement from Dario Amodei on our discussions with the Department of War
+INFO     2026-02-27 10:39:00 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/statement-department-of-war
+INFO     2026-02-27 10:39:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-27 10:39:00 [scraper.py:170] 📥 [HN #2] The Hunt for Dark Breakfast
+INFO     2026-02-27 10:39:00 [scraper.py:171] 🔗 [HN #2] URL: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
+INFO     2026-02-27 10:39:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-27 10:39:00 [scraper.py:170] 📥 [HN #3] The normalization of corruption in organizations (2003) [pdf]
+INFO     2026-02-27 10:39:00 [scraper.py:171] 🔗 [HN #3] URL: https://gwern.net/doc/sociology/2003-ashforth.pdf
+INFO     2026-02-27 10:39:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-27 10:39:00 [scraper.py:170] 📥 [HN #4] Julia: Performance Tips
+INFO     2026-02-27 10:39:00 [scraper.py:171] 🔗 [HN #4] URL: https://docs.julialang.org/en/v1/manual/performance-tips/
+INFO     2026-02-27 10:39:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-27 10:39:00 [scraper.py:170] 📥 [HN #5] What Claude Code chooses
+INFO     2026-02-27 10:39:00 [scraper.py:171] 🔗 [HN #5] URL: https://amplifying.ai/research/claude-code-picks
+INFO     2026-02-27 10:39:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:170] 📥 [HN #6] 80386 Protection
+INFO     2026-02-27 10:39:01 [scraper.py:171] 🔗 [HN #6] URL: https://nand2mario.github.io/posts/2026/80386_protection/
+INFO     2026-02-27 10:39:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:170] 📥 [HN #7] An interactive intro to quadtrees
+INFO     2026-02-27 10:39:01 [scraper.py:171] 🔗 [HN #7] URL: https://growingswe.com/blog/quadtrees
+INFO     2026-02-27 10:39:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:170] 📥 [HN #8] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+INFO     2026-02-27 10:39:01 [scraper.py:171] 🔗 [HN #8] URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+INFO     2026-02-27 10:39:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:170] 📥 [HN #9] Layoffs at Block
+INFO     2026-02-27 10:39:01 [scraper.py:171] 🔗 [HN #9] URL: https://twitter.com/jack/status/2027129697092731343
+INFO     2026-02-27 10:39:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:170] 📥 [HN #10] Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA
+INFO     2026-02-27 10:39:01 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer
+INFO     2026-02-27 10:39:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-27 10:39:01 [scraper.py:178] 🎉 [HN] All done.
+
