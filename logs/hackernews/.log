@@ -21187,3 +21187,36 @@ INFO     2026-02-27 02:44:15 [scraper.py:171] 🔗 [HN #10] URL: https://stackov
 INFO     2026-02-27 02:44:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-27 02:44:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-02-27 05:56:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-02-27 05:56:55 [scraper.py:170] 📥 [HN #1] Statement from Dario Amodei on our discussions with the Department of War
+INFO     2026-02-27 05:56:55 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/statement-department-of-war
+INFO     2026-02-27 05:56:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-02-27 05:56:55 [scraper.py:170] 📥 [HN #2] The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?
+INFO     2026-02-27 05:56:55 [scraper.py:171] 🔗 [HN #2] URL: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
+INFO     2026-02-27 05:56:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-02-27 05:56:56 [scraper.py:170] 📥 [HN #3] Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic
+INFO     2026-02-27 05:56:56 [scraper.py:171] 🔗 [HN #3] URL: https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html
+INFO     2026-02-27 05:56:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-02-27 05:56:56 [scraper.py:170] 📥 [HN #4] What Claude Code Chooses
+INFO     2026-02-27 05:56:56 [scraper.py:171] 🔗 [HN #4] URL: https://amplifying.ai/research/claude-code-picks
+INFO     2026-02-27 05:56:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-02-27 05:56:56 [scraper.py:170] 📥 [HN #5] Layoffs at Block
+INFO     2026-02-27 05:56:56 [scraper.py:171] 🔗 [HN #5] URL: https://twitter.com/jack/status/2027129697092731343
+INFO     2026-02-27 05:56:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:170] 📥 [HN #6] Will vibe coding end like the maker movement?
+INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #6] URL: https://read.technically.dev/p/vibe-coding-and-the-maker-movement
+INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:170] 📥 [HN #7] 80386 Protection
+INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #7] URL: https://nand2mario.github.io/posts/2026/80386_protection/
+INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:170] 📥 [HN #8] AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #8] URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:170] 📥 [HN #9] What does " 2>&1 " mean?
+INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #9] URL: https://stackoverflow.com/questions/818255/what-does-21-mean
+INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:170] 📥 [HN #10] Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration
+INFO     2026-02-27 05:56:57 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/Frikallo/parakeet.cpp
+INFO     2026-02-27 05:56:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-02-27 05:56:57 [scraper.py:178] 🎉 [HN] All done.
+
