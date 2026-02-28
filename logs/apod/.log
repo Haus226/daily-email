@@ -3196,3 +3196,8 @@ INFO     2026-02-28 02:32:45 [scraper.py:47] 📥 [APOD] Title: Sharpless 249 an
 INFO     2026-02-28 02:32:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg
 INFO     2026-02-28 02:32:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-02-28 05:37:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-02-28 05:37:07 [scraper.py:47] 📥 [APOD] Title: Lunar Occultation of Mercury
+INFO     2026-02-28 05:37:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg
+INFO     2026-02-28 05:37:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
