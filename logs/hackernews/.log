@@ -21352,3 +21352,36 @@ INFO     2026-02-28 10:24:51 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-02-28 10:24:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-02-28 10:24:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-01 03:16:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-01 03:16:11 [scraper.py:170] 📥 [HN #1] Microgpt
+INFO     2026-03-01 03:16:11 [scraper.py:171] 🔗 [HN #1] URL: http://karpathy.github.io/2026/02/12/microgpt/
+INFO     2026-03-01 03:16:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-01 03:16:11 [scraper.py:170] 📥 [HN #2] We do not think Anthropic should be designated as a supply chain risk
+INFO     2026-03-01 03:16:11 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/OpenAI/status/2027846016423321831
+INFO     2026-03-01 03:16:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-01 03:16:11 [scraper.py:170] 📥 [HN #3] The Windows 95 user interface: A case study in usability engineering (1996)
+INFO     2026-03-01 03:16:11 [scraper.py:171] 🔗 [HN #3] URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
+INFO     2026-03-01 03:16:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-01 03:16:11 [scraper.py:170] 📥 [HN #4] Obsidian Sync now has a headless client
+INFO     2026-03-01 03:16:11 [scraper.py:171] 🔗 [HN #4] URL: https://help.obsidian.md/sync/headless
+INFO     2026-03-01 03:16:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #5] The happiest I've ever been
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #5] URL: https://ben-mini.com/2026/the-happiest-ive-ever-been
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #6] Show HN: Xmloxide – an agent made rust replacement for libxml2
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/jonwiggins/xmloxide
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #7] H-Bomb: A Frank Lloyd Wright Typographic Mystery
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #7] URL: https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #8] Block the “Upgrade to Tahoe” Alerts
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #8] URL: https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #9] Addressing Antigravity Bans and Reinstating Access
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/google-gemini/gemini-cli/discussions/20632
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:170] 📥 [HN #10] Woxi: Wolfram Mathematica Reimplementation in Rust
+INFO     2026-03-01 03:16:12 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ad-si/Woxi
+INFO     2026-03-01 03:16:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-01 03:16:12 [scraper.py:178] 🎉 [HN] All done.
+
