@@ -21451,3 +21451,36 @@ INFO     2026-03-01 10:26:26 [scraper.py:171] 🔗 [HN #10] URL: https://ben-min
 INFO     2026-03-01 10:26:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-01 10:26:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-02 02:46:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #1] WebMCP is available for early preview
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #1] URL: https://developer.chrome.com/blog/webmcp-epp
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #2] Tove Jansson's criticized illustrations of The Hobbit
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #2] URL: https://tovejansson.com/hobbit-tolkien/
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #3] Ghostty – Terminal Emulator
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #3] URL: https://ghostty.org/docs
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #4] Little Free Library
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #4] URL: https://littlefreelibrary.org/
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #5] Show HN: Timber – Ollama for classical ML models, 336x faster than Python
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/kossisoroyce/timber
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-02 02:46:39 [scraper.py:170] 📥 [HN #6] If AI writes code, should the session be part of the commit?
+INFO     2026-03-02 02:46:39 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/mandel-macaque/memento
+INFO     2026-03-02 02:46:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-02 02:46:40 [scraper.py:170] 📥 [HN #7] When does MCP make sense vs CLI?
+INFO     2026-03-02 02:46:40 [scraper.py:171] 🔗 [HN #7] URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
+INFO     2026-03-02 02:46:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-02 02:46:40 [scraper.py:170] 📥 [HN #8] How Next-Gen Spacecraft Are Overwhelming Our Communication Networks
+INFO     2026-03-02 02:46:40 [scraper.py:171] 🔗 [HN #8] URL: https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/
+INFO     2026-03-02 02:46:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-02 02:46:40 [scraper.py:170] 📥 [HN #9] What Your DNA Reveals about the Sex Life of Neanderthals
+INFO     2026-03-02 02:46:40 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html
+INFO     2026-03-02 02:46:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-02 02:46:40 [scraper.py:170] 📥 [HN #10] Microgpt explained interactively
+INFO     2026-03-02 02:46:40 [scraper.py:171] 🔗 [HN #10] URL: https://growingswe.com/blog/microgpt
+INFO     2026-03-02 02:46:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-02 02:46:40 [scraper.py:178] 🎉 [HN] All done.
+
