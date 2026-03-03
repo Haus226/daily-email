@@ -3246,3 +3246,8 @@ INFO     2026-03-03 05:54:45 [scraper.py:47] 📥 [APOD] Title: Flying over the 
 INFO     2026-03-03 05:54:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4
 INFO     2026-03-03 05:54:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-03 10:40:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-03 10:40:18 [scraper.py:47] 📥 [APOD] Title: Flying over the North Pole of Mars
+INFO     2026-03-03 10:40:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4
+INFO     2026-03-03 10:40:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

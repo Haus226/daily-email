@@ -21598,3 +21598,36 @@ INFO     2026-03-03 05:54:47 [scraper.py:171] 🔗 [HN #10] URL: https://health.
 INFO     2026-03-03 05:54:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-03 05:54:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-03 10:40:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-03 10:40:18 [scraper.py:170] 📥 [HN #1] Meta’s AI smart glasses and data privacy concerns
+INFO     2026-03-03 10:40:18 [scraper.py:171] 🔗 [HN #1] URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+INFO     2026-03-03 10:40:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-03 10:40:18 [scraper.py:170] 📥 [HN #2] Arm's Cortex X925: Reaching Desktop Performance
+INFO     2026-03-03 10:40:18 [scraper.py:171] 🔗 [HN #2] URL: https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop
+INFO     2026-03-03 10:40:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-03 10:40:18 [scraper.py:170] 📥 [HN #3] British Columbia is permanently adopting daylight time
+INFO     2026-03-03 10:40:18 [scraper.py:171] 🔗 [HN #3] URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657
+INFO     2026-03-03 10:40:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-03 10:40:19 [scraper.py:170] 📥 [HN #4] Ars Technica fires reporter after AI controversy involving fabricated quotes
+INFO     2026-03-03 10:40:19 [scraper.py:171] 🔗 [HN #4] URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
+INFO     2026-03-03 10:40:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-03 10:40:19 [scraper.py:170] 📥 [HN #5] We Built a Video Rendering Engine by Lying to the Browser About What Time It Is
+INFO     2026-03-03 10:40:19 [scraper.py:171] 🔗 [HN #5] URL: https://blog.replit.com/browsers-dont-want-to-be-cameras
+INFO     2026-03-03 10:40:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-03 10:40:19 [scraper.py:170] 📥 [HN #6] Simple screw counter
+INFO     2026-03-03 10:40:19 [scraper.py:171] 🔗 [HN #6] URL: https://mitxela.com/projects/screwcounter
+INFO     2026-03-03 10:40:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-03 10:40:19 [scraper.py:170] 📥 [HN #7] Show HN: I built a sub-500ms latency voice agent from scratch
+INFO     2026-03-03 10:40:19 [scraper.py:171] 🔗 [HN #7] URL: https://www.ntik.me/posts/voice-agent
+INFO     2026-03-03 10:40:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-03 10:40:20 [scraper.py:170] 📥 [HN #8] I built a pint-sized Macintosh
+INFO     2026-03-03 10:40:20 [scraper.py:171] 🔗 [HN #8] URL: https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/
+INFO     2026-03-03 10:40:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-03 10:40:20 [scraper.py:170] 📥 [HN #9] Buckle Up for Bumpier Skies
+INFO     2026-03-03 10:40:20 [scraper.py:171] 🔗 [HN #9] URL: https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies
+INFO     2026-03-03 10:40:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-03 10:40:20 [scraper.py:170] 📥 [HN #10] DOS Memory Management
+INFO     2026-03-03 10:40:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.os2museum.com/wp/dos-memory-management/
+INFO     2026-03-03 10:40:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-03 10:40:20 [scraper.py:178] 🎉 [HN] All done.
+
