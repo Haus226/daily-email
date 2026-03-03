@@ -7599,3 +7599,24 @@ INFO     2026-03-02 10:44:31 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-02 10:44:31 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-03 02:49:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-03 02:49:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-03 02:49:38 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-03 02:49:38 [scraper.py:133] 📥 [EO] Title: Scoria Cones on Earth and Mars
+INFO     2026-03-03 02:49:38 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/sunsetcratercomp_ctx_oli_20250619_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-03 02:49:38 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-03 02:49:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-03 02:49:38 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-03 02:49:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-03 02:49:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-03 02:49:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-03 02:49:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-03 02:49:39 [scraper.py:133] 📥 [EO] Title: Scoria Cones on Earth and Mars
+INFO     2026-03-03 02:49:39 [scraper.py:133] 📥 [EO] Title: Scoria Cones on Earth and Mars
+INFO     2026-03-03 02:49:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/sunsetcratercomp_ctx_oli_20250619_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-03 02:49:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/sunsetcratercomp_ctx_oli_20250619_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-03 02:49:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-03 02:49:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -3236,3 +3236,8 @@ INFO     2026-03-02 10:44:30 [scraper.py:47] 📥 [APOD] Title: The Dusty Surrou
 INFO     2026-03-02 10:44:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg
 INFO     2026-03-02 10:44:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-03 02:49:38 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-03 02:49:38 [scraper.py:47] 📥 [APOD] Title: The Dusty Surroundings of Orion and the Pleiades
+INFO     2026-03-03 02:49:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg
+INFO     2026-03-03 02:49:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

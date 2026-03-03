@@ -21532,3 +21532,36 @@ INFO     2026-03-02 10:44:32 [scraper.py:171] 🔗 [HN #10] URL: https://ellanew
 INFO     2026-03-02 10:44:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-02 10:44:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-03 02:49:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-03 02:49:38 [scraper.py:170] 📥 [HN #1] The workers behind Meta’s smart glasses can see everything
+INFO     2026-03-03 02:49:38 [scraper.py:171] 🔗 [HN #1] URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+INFO     2026-03-03 02:49:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-03 02:49:38 [scraper.py:170] 📥 [HN #2] Zuckerberg's internal emails rendered as Facebook Messenger
+INFO     2026-03-03 02:49:38 [scraper.py:171] 🔗 [HN #2] URL: https://zuckmail.vercel.app/
+INFO     2026-03-03 02:49:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #3] Seed of Might Color Correction Process (2023) [pdf]
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #3] URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #4] Closure of the Weatheradio Service in Canada
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #4] URL: https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #5] Show HN: I built a sub-500ms latency voice agent from scratch
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #5] URL: https://www.ntik.me/posts/voice-agent
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #6] What Are Your Guilty Displeasures?
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #6] URL: https://www.hopefulmons.com/p/what-are-your-guilty-displeasures
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #7] Welcome (back) to Macintosh
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #7] URL: https://take.surf/2026/03/01/welcome-back-to-macintosh
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-03 02:49:39 [scraper.py:170] 📥 [HN #8] How to Build Your Own Quantum Computer
+INFO     2026-03-03 02:49:39 [scraper.py:171] 🔗 [HN #8] URL: https://physics.aps.org/articles/v19/24
+INFO     2026-03-03 02:49:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-03 02:49:40 [scraper.py:170] 📥 [HN #9] British Columbia to end time changes, adopt year-round daylight time
+INFO     2026-03-03 02:49:40 [scraper.py:171] 🔗 [HN #9] URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657
+INFO     2026-03-03 02:49:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-03 02:49:40 [scraper.py:170] 📥 [HN #10] New iPad Air, powered by M4
+INFO     2026-03-03 02:49:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+INFO     2026-03-03 02:49:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-03 02:49:40 [scraper.py:178] 🎉 [HN] All done.
+
