@@ -7662,3 +7662,24 @@ INFO     2026-03-03 10:40:19 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-03 10:40:19 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-04 02:42:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 02:42:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 02:42:32 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 02:42:32 [scraper.py:133] 📥 [EO] Title: Smoke Rises Over Big Cypress National Preserve
+INFO     2026-03-04 02:42:32 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-rises-over-big-cypress-national-preserve/floridafire_amo_20260225_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 02:42:32 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-04 02:42:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 02:42:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 02:42:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 02:42:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 02:42:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 02:42:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 02:42:33 [scraper.py:133] 📥 [EO] Title: Smoke Rises Over Big Cypress National Preserve
+INFO     2026-03-04 02:42:33 [scraper.py:133] 📥 [EO] Title: Smoke Rises Over Big Cypress National Preserve
+INFO     2026-03-04 02:42:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-rises-over-big-cypress-national-preserve/floridafire_amo_20260225_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 02:42:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-rises-over-big-cypress-national-preserve/floridafire_amo_20260225_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 02:42:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-04 02:42:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
