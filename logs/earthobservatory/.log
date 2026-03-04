@@ -7704,3 +7704,24 @@ INFO     2026-03-04 05:50:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-04 05:50:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-04 10:37:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 10:38:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 10:38:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 10:38:00 [scraper.py:133] 📥 [EO] Title: Searching for Selenite
+INFO     2026-03-04 10:38:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/searching-for-selenite/oksaltplains_oli_20251010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 10:38:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-04 10:38:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 10:38:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-04 10:38:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 10:38:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-04 10:38:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 10:38:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-04 10:38:01 [scraper.py:133] 📥 [EO] Title: Searching for Selenite
+INFO     2026-03-04 10:38:01 [scraper.py:133] 📥 [EO] Title: Searching for Selenite
+INFO     2026-03-04 10:38:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/searching-for-selenite/oksaltplains_oli_20251010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 10:38:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/searching-for-selenite/oksaltplains_oli_20251010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-04 10:38:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-04 10:38:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
