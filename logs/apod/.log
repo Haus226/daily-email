@@ -3276,3 +3276,8 @@ INFO     2026-03-05 05:53:48 [scraper.py:47] 📥 [APOD] Title: Total Lunar Ecli
 INFO     2026-03-05 05:53:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg
 INFO     2026-03-05 05:53:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-05 10:40:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-05 10:40:35 [scraper.py:47] 📥 [APOD] Title: Total Lunar Eclipse over Tsé Bit'a'í
+INFO     2026-03-05 10:40:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg
+INFO     2026-03-05 10:40:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
