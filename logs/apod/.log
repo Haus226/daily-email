@@ -3291,3 +3291,8 @@ INFO     2026-03-06 05:51:13 [scraper.py:47] 📥 [APOD] Title: The Astrosphere 
 INFO     2026-03-06 05:51:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
 INFO     2026-03-06 05:51:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-06 10:36:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-06 10:36:12 [scraper.py:47] 📥 [APOD] Title: The Astrosphere of HD 61005
+INFO     2026-03-06 10:36:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
+INFO     2026-03-06 10:36:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

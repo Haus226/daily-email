@@ -21895,3 +21895,36 @@ INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #10] URL: https://www.404
 INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-06 05:51:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-06 10:36:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-06 10:36:12 [scraper.py:170] 📥 [HN #1] System76 on Age Verification Laws
+INFO     2026-03-06 10:36:12 [scraper.py:171] 🔗 [HN #1] URL: https://blog.system76.com/post/system76-on-age-verification/
+INFO     2026-03-06 10:36:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-06 10:36:13 [scraper.py:170] 📥 [HN #2] GPL upgrades via section 14 proxy delegation
+INFO     2026-03-06 10:36:13 [scraper.py:171] 🔗 [HN #2] URL: https://runxiyu.org/comp/gplproxy/
+INFO     2026-03-06 10:36:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-06 10:36:13 [scraper.py:170] 📥 [HN #3] We might all be AI engineers now
+INFO     2026-03-06 10:36:13 [scraper.py:171] 🔗 [HN #3] URL: https://yasint.dev/we-might-all-be-ai-engineers-now/
+INFO     2026-03-06 10:36:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-06 10:36:13 [scraper.py:170] 📥 [HN #4] GPT-5.4
+INFO     2026-03-06 10:36:13 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/introducing-gpt-5-4/
+INFO     2026-03-06 10:36:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-06 10:36:13 [scraper.py:170] 📥 [HN #5] Show HN: Swarm – Program a colony of 200 ants using a custom assembly language
+INFO     2026-03-06 10:36:13 [scraper.py:171] 🔗 [HN #5] URL: https://dev.moment.com/
+INFO     2026-03-06 10:36:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:170] 📥 [HN #6] 10% of Firefox crashes are caused by bitflips
+INFO     2026-03-06 10:36:14 [scraper.py:171] 🔗 [HN #6] URL: https://mas.to/@gabrielesvelto/116171750653898304
+INFO     2026-03-06 10:36:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:170] 📥 [HN #7] LibreSprite – open-source pixel art editor
+INFO     2026-03-06 10:36:14 [scraper.py:171] 🔗 [HN #7] URL: https://libresprite.github.io/
+INFO     2026-03-06 10:36:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:170] 📥 [HN #8] A GitHub Issue Title Compromised 4k Developer Machines
+INFO     2026-03-06 10:36:14 [scraper.py:171] 🔗 [HN #8] URL: https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
+INFO     2026-03-06 10:36:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:170] 📥 [HN #9] The Brand Age
+INFO     2026-03-06 10:36:14 [scraper.py:171] 🔗 [HN #9] URL: https://paulgraham.com/brandage.html
+INFO     2026-03-06 10:36:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:170] 📥 [HN #10] Labor market impacts of AI: A new measure and early evidence
+INFO     2026-03-06 10:36:14 [scraper.py:171] 🔗 [HN #10] URL: https://www.anthropic.com/research/labor-market-impacts
+INFO     2026-03-06 10:36:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-06 10:36:14 [scraper.py:178] 🎉 [HN] All done.
+
