@@ -7809,3 +7809,24 @@ INFO     2026-03-06 02:42:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-06 02:42:48 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-06 05:51:09 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-06 05:51:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-06 05:51:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-06 05:51:13 [scraper.py:133] 📥 [EO] Title: Ailing “Megaberg” Sparks Surge of Microscopic Life
+INFO     2026-03-06 05:51:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-06 05:51:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-06 05:51:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-06 05:51:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-06 05:51:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-06 05:51:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-06 05:51:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-06 05:51:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-06 05:51:14 [scraper.py:133] 📥 [EO] Title: Ailing “Megaberg” Sparks Surge of Microscopic Life
+INFO     2026-03-06 05:51:14 [scraper.py:133] 📥 [EO] Title: Ailing “Megaberg” Sparks Surge of Microscopic Life
+INFO     2026-03-06 05:51:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-06 05:51:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ailing--megaberg--sparks-surge-of-microscopic-life/iceberga23amelt_oli_oci_20260125_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-06 05:51:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-06 05:51:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+

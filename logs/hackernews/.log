@@ -21862,3 +21862,36 @@ INFO     2026-03-06 02:42:49 [scraper.py:171] 🔗 [HN #10] URL: https://www.wik
 INFO     2026-03-06 02:42:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-06 02:42:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-06 05:51:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-06 05:51:13 [scraper.py:170] 📥 [HN #1] System76 on Age Verification Laws
+INFO     2026-03-06 05:51:13 [scraper.py:171] 🔗 [HN #1] URL: https://blog.system76.com/post/system76-on-age-verification/
+INFO     2026-03-06 05:51:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-06 05:51:13 [scraper.py:170] 📥 [HN #2] GPT-5.4
+INFO     2026-03-06 05:51:13 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/introducing-gpt-5-4/
+INFO     2026-03-06 05:51:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-06 05:51:13 [scraper.py:170] 📥 [HN #3] Nobody ever got fired for using a struct
+INFO     2026-03-06 05:51:13 [scraper.py:171] 🔗 [HN #3] URL: https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct
+INFO     2026-03-06 05:51:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-06 05:51:13 [scraper.py:170] 📥 [HN #4] Where things stand with the Department of War
+INFO     2026-03-06 05:51:13 [scraper.py:171] 🔗 [HN #4] URL: https://www.anthropic.com/news/where-stand-department-war
+INFO     2026-03-06 05:51:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #5] 10% of Firefox crashes are caused by bitflips
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #5] URL: https://mas.to/@gabrielesvelto/116171750653898304
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #6] The Brand Age
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #6] URL: https://paulgraham.com/brandage.html
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #7] Show HN: Swarm – Program a colony of 200 ants using a custom assembly language
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #7] URL: https://dev.moment.com/
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #8] Labor market impacts of AI: A new measure and early evidence
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #8] URL: https://www.anthropic.com/research/labor-market-impacts
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #9] Stop Using Grey Text (2025)
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #9] URL: https://catskull.net/stop-using-grey-text.html
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:170] 📥 [HN #10] CBP tapped into the online advertising ecosystem to track peoples’ movements
+INFO     2026-03-06 05:51:14 [scraper.py:171] 🔗 [HN #10] URL: https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
+INFO     2026-03-06 05:51:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-06 05:51:14 [scraper.py:178] 🎉 [HN] All done.
+
