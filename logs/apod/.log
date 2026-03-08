@@ -3316,3 +3316,8 @@ INFO     2026-03-08 02:49:24 [scraper.py:47] 📥 [APOD] Title: Two Eclipses of 
 INFO     2026-03-08 02:49:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg
 INFO     2026-03-08 02:49:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-08 05:49:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-08 05:49:15 [scraper.py:47] 📥 [APOD] Title: The Aurora Tree
+INFO     2026-03-08 05:49:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg
+INFO     2026-03-08 05:49:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
