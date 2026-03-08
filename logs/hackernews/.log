@@ -22027,3 +22027,36 @@ INFO     2026-03-07 10:25:34 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-07 10:25:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-07 10:25:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-08 02:49:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-08 02:49:23 [scraper.py:170] 📥 [HN #1] Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers
+INFO     2026-03-08 02:49:23 [scraper.py:171] 🔗 [HN #1] URL: https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+INFO     2026-03-08 02:49:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-08 02:49:24 [scraper.py:170] 📥 [HN #2] CasNum
+INFO     2026-03-08 02:49:24 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/0x0mer/CasNum
+INFO     2026-03-08 02:49:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-08 02:49:24 [scraper.py:170] 📥 [HN #3] A decade of Docker containers
+INFO     2026-03-08 02:49:24 [scraper.py:171] 🔗 [HN #3] URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+INFO     2026-03-08 02:49:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-08 02:49:24 [scraper.py:170] 📥 [HN #4] Show HN: A weird thing that detects your pulse from the browser video
+INFO     2026-03-08 02:49:24 [scraper.py:171] 🔗 [HN #4] URL: https://pulsefeedback.io/
+INFO     2026-03-08 02:49:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #5] Dumping Lego NXT firmware off of an existing brick (2025)
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #5] URL: https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #6] The stagnancy of publishing and the disappearance of the midlist
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #6] URL: https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #7] Effort to prevent government officials from engaging in prediction markets
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #7] URL: https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #8] Ki Editor - an editor that operates on the AST
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #8] URL: https://ki-editor.org/
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #9] Autoresearch: Agents researching on single-GPU nanochat training automatically
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/karpathy/autoresearch
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:170] 📥 [HN #10] In 1985 Maxell built a bunch of life-size robots for its bad floppy ad
+INFO     2026-03-08 02:49:25 [scraper.py:171] 🔗 [HN #10] URL: https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/
+INFO     2026-03-08 02:49:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-08 02:49:25 [scraper.py:178] 🎉 [HN] All done.
+
