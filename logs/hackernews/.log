@@ -22093,3 +22093,36 @@ INFO     2026-03-08 05:49:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc
 INFO     2026-03-08 05:49:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-08 05:49:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-08 10:27:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-08 10:27:00 [scraper.py:170] 📥 [HN #1] SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI
+INFO     2026-03-08 10:27:00 [scraper.py:171] 🔗 [HN #1] URL: https://arxiv.org/abs/2603.03823
+INFO     2026-03-08 10:27:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-08 10:27:00 [scraper.py:170] 📥 [HN #2] Cloud VM benchmarks 2026
+INFO     2026-03-08 10:27:00 [scraper.py:171] 🔗 [HN #2] URL: https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html
+INFO     2026-03-08 10:27:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-08 10:27:01 [scraper.py:170] 📥 [HN #3] Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope
+INFO     2026-03-08 10:27:01 [scraper.py:171] 🔗 [HN #3] URL: https://curiosity-telescope.vercel.app/
+INFO     2026-03-08 10:27:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-08 10:27:01 [scraper.py:170] 📥 [HN #4] Notes on Writing WASM
+INFO     2026-03-08 10:27:01 [scraper.py:171] 🔗 [HN #4] URL: https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm
+INFO     2026-03-08 10:27:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-08 10:27:01 [scraper.py:170] 📥 [HN #5] Warn about PyPy being unmaintained
+INFO     2026-03-08 10:27:01 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/astral-sh/uv/pull/17643
+INFO     2026-03-08 10:27:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-08 10:27:01 [scraper.py:170] 📥 [HN #6] Rijksmuseum researchers discover new painting by Rembrandt van Rijn
+INFO     2026-03-08 10:27:01 [scraper.py:171] 🔗 [HN #6] URL: https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn
+INFO     2026-03-08 10:27:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-08 10:27:01 [scraper.py:170] 📥 [HN #7] How to run Qwen 3.5 locally
+INFO     2026-03-08 10:27:01 [scraper.py:171] 🔗 [HN #7] URL: https://unsloth.ai/docs/models/qwen3.5
+INFO     2026-03-08 10:27:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-08 10:27:02 [scraper.py:170] 📥 [HN #8] From RGB to L*a*b* color space (2024)
+INFO     2026-03-08 10:27:02 [scraper.py:171] 🔗 [HN #8] URL: https://kaizoudou.com/from-rgb-to-lab-color-space/
+INFO     2026-03-08 10:27:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-08 10:27:02 [scraper.py:170] 📥 [HN #9] CasNum
+INFO     2026-03-08 10:27:02 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/0x0mer/CasNum
+INFO     2026-03-08 10:27:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-08 10:27:02 [scraper.py:170] 📥 [HN #10] A decade of Docker containers
+INFO     2026-03-08 10:27:02 [scraper.py:171] 🔗 [HN #10] URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+INFO     2026-03-08 10:27:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-08 10:27:02 [scraper.py:178] 🎉 [HN] All done.
+
