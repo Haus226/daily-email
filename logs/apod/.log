@@ -3326,3 +3326,8 @@ INFO     2026-03-08 10:27:01 [scraper.py:47] 📥 [APOD] Title: The Aurora Tree
 INFO     2026-03-08 10:27:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg
 INFO     2026-03-08 10:27:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-09 02:50:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-09 02:50:41 [scraper.py:47] 📥 [APOD] Title: The Aurora Tree
+INFO     2026-03-09 02:50:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg
+INFO     2026-03-09 02:50:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
