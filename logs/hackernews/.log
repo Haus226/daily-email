@@ -22258,3 +22258,36 @@ INFO     2026-03-10 02:41:59 [scraper.py:171] 🔗 [HN #10] URL: https://moglang
 INFO     2026-03-10 02:41:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-10 02:41:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-10 05:51:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #1] Learnings from paying artists royalties for AI-generated art
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #1] URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #2] Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #2] URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #3] Building a Procedural Hex Map with Wave Function Collapse
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #3] URL: https://felixturner.github.io/hex-map-wfc/article/
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #4] How we optimized Top K in Postgres
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #4] URL: https://www.paradedb.com/blog/optimizing-top-k
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #5] Show HN: Remotely use my guitar tuner
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #5] URL: https://realtuner.online/
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-10 05:51:53 [scraper.py:170] 📥 [HN #6] JSLinux Now Supports x86_64
+INFO     2026-03-10 05:51:53 [scraper.py:171] 🔗 [HN #6] URL: https://bellard.org/jslinux/
+INFO     2026-03-10 05:51:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-10 05:51:54 [scraper.py:170] 📥 [HN #7] Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
+INFO     2026-03-10 05:51:54 [scraper.py:171] 🔗 [HN #7] URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+INFO     2026-03-10 05:51:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-10 05:51:54 [scraper.py:170] 📥 [HN #8] Darkrealms BBS
+INFO     2026-03-10 05:51:54 [scraper.py:171] 🔗 [HN #8] URL: http://www.darkrealms.ca/
+INFO     2026-03-10 05:51:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-10 05:51:54 [scraper.py:170] 📥 [HN #9] Windows: Microsoft broke the only thing that mattered
+INFO     2026-03-10 05:51:54 [scraper.py:171] 🔗 [HN #9] URL: https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/
+INFO     2026-03-10 05:51:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-10 05:51:54 [scraper.py:170] 📥 [HN #10] Show HN: I Was Here – Draw on street view, others can find your drawings
+INFO     2026-03-10 05:51:54 [scraper.py:171] 🔗 [HN #10] URL: https://washere.live
+INFO     2026-03-10 05:51:54 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-10 05:51:54 [scraper.py:178] 🎉 [HN] All done.
+
