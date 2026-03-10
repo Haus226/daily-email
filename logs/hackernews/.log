@@ -22291,3 +22291,36 @@ INFO     2026-03-10 05:51:54 [scraper.py:171] 🔗 [HN #10] URL: https://washere
 INFO     2026-03-10 05:51:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-10 05:51:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-10 10:40:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #1] Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #1] URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #2] Lotus 1-2-3 on the PC with DOS
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #2] URL: https://stonetools.ghost.io/lotus123-dos/
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #3] Two Years of Emacs Solo
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #3] URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #4] LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #4] URL: https://loger-project.github.io
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #5] Building a Procedural Hex Map with Wave Function Collapse
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #5] URL: https://felixturner.github.io/hex-map-wfc/article/
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #6] Optimizing Top K in Postgres
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #6] URL: https://www.paradedb.com/blog/optimizing-top-k
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-10 10:40:42 [scraper.py:170] 📥 [HN #7] A useless infinite scroll experiment
+INFO     2026-03-10 10:40:42 [scraper.py:171] 🔗 [HN #7] URL: https://futile.ch/en/
+INFO     2026-03-10 10:40:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-10 10:40:43 [scraper.py:170] 📥 [HN #8] Show HN: Remotely use my guitar tuner
+INFO     2026-03-10 10:40:43 [scraper.py:171] 🔗 [HN #8] URL: https://realtuner.online/
+INFO     2026-03-10 10:40:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-10 10:40:43 [scraper.py:170] 📥 [HN #9] JSLinux Now Supports x86_64
+INFO     2026-03-10 10:40:43 [scraper.py:171] 🔗 [HN #9] URL: https://bellard.org/jslinux/
+INFO     2026-03-10 10:40:43 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-10 10:40:43 [scraper.py:170] 📥 [HN #10] macOS Tahoe windows have different corner radiuses
+INFO     2026-03-10 10:40:43 [scraper.py:171] 🔗 [HN #10] URL: https://lapcatsoftware.com/articles/2026/3/1.html
+INFO     2026-03-10 10:40:43 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-10 10:40:43 [scraper.py:178] 🎉 [HN] All done.
+
