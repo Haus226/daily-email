@@ -3366,3 +3366,8 @@ INFO     2026-03-11 05:54:28 [scraper.py:47] 📥 [APOD] Title: CG 4: The Globul
 INFO     2026-03-11 05:54:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg
 INFO     2026-03-11 05:54:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-11 10:40:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-11 10:40:39 [scraper.py:47] 📥 [APOD] Title: CG 4: The Globule and the Galaxy
+INFO     2026-03-11 10:40:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg
+INFO     2026-03-11 10:40:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
