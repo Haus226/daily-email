@@ -22423,3 +22423,36 @@ INFO     2026-03-11 10:40:41 [scraper.py:171] 🔗 [HN #10] URL: https://www.wir
 INFO     2026-03-11 10:40:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-11 10:40:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-12 02:46:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-12 02:46:54 [scraper.py:170] 📥 [HN #1] Show HN: s@: decentralized social networking over static sites
+INFO     2026-03-12 02:46:54 [scraper.py:171] 🔗 [HN #1] URL: http://satproto.org/
+INFO     2026-03-12 02:46:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-12 02:46:54 [scraper.py:170] 📥 [HN #2] Temporal: A nine-year journey to fix time in JavaScript
+INFO     2026-03-12 02:46:54 [scraper.py:171] 🔗 [HN #2] URL: https://bloomberg.github.io/js-blog/post/temporal/
+INFO     2026-03-12 02:46:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-12 02:46:55 [scraper.py:170] 📥 [HN #3] Many SWE-bench-Passing PRs would not be merged
+INFO     2026-03-12 02:46:55 [scraper.py:171] 🔗 [HN #3] URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+INFO     2026-03-12 02:46:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-12 02:46:55 [scraper.py:170] 📥 [HN #4] Don't post generated/AI-edited comments. HN is for conversation between humans
+INFO     2026-03-12 02:46:55 [scraper.py:171] 🔗 [HN #4] URL: https://news.ycombinator.com/newsguidelines.html#generated
+INFO     2026-03-12 02:46:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-12 02:46:55 [scraper.py:170] 📥 [HN #5] Making WebAssembly a first-class language on the Web
+INFO     2026-03-12 02:46:55 [scraper.py:171] 🔗 [HN #5] URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+INFO     2026-03-12 02:46:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-12 02:46:55 [scraper.py:170] 📥 [HN #6] Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
+INFO     2026-03-12 02:46:55 [scraper.py:171] 🔗 [HN #6] URL: https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/
+INFO     2026-03-12 02:46:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-12 02:46:55 [scraper.py:170] 📥 [HN #7] I was interviewed by an AI bot for a job
+INFO     2026-03-12 02:46:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+INFO     2026-03-12 02:46:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-12 02:46:56 [scraper.py:170] 📥 [HN #8] Urea prices
+INFO     2026-03-12 02:46:56 [scraper.py:171] 🔗 [HN #8] URL: https://tradingeconomics.com/commodity/urea
+INFO     2026-03-12 02:46:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-12 02:46:56 [scraper.py:170] 📥 [HN #9] Show HN: I built a tool that watches webpages and exposes changes as RSS
+INFO     2026-03-12 02:46:56 [scraper.py:171] 🔗 [HN #9] URL: https://sitespy.app
+INFO     2026-03-12 02:46:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-12 02:46:56 [scraper.py:170] 📥 [HN #10] Google closes deal to acquire Wiz
+INFO     2026-03-12 02:46:56 [scraper.py:171] 🔗 [HN #10] URL: https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz
+INFO     2026-03-12 02:46:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-12 02:46:56 [scraper.py:178] 🎉 [HN] All done.
+

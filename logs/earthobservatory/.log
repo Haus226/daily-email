@@ -8166,3 +8166,24 @@ INFO     2026-03-11 10:40:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-11 10:40:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-12 02:46:52 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-12 02:46:53 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-12 02:46:53 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-12 02:46:53 [scraper.py:133] 📥 [EO] Title: A Most Unusual Lake
+INFO     2026-03-12 02:46:53 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-12 02:46:53 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-12 02:46:53 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-12 02:46:53 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-12 02:46:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-12 02:46:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-12 02:46:55 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-12 02:46:55 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-12 02:46:55 [scraper.py:133] 📥 [EO] Title: A Most Unusual Lake
+INFO     2026-03-12 02:46:55 [scraper.py:133] 📥 [EO] Title: A Most Unusual Lake
+INFO     2026-03-12 02:46:55 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-12 02:46:55 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-12 02:46:55 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-12 02:46:55 [scraper.py:154] ✅ [EO] Successfully fetched.
+
