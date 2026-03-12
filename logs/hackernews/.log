@@ -22489,3 +22489,36 @@ INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-12 05:56:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-12 10:40:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-12 10:40:23 [scraper.py:170] 📥 [HN #1] 3D-Knitting: The Ultimate Guide
+INFO     2026-03-12 10:40:23 [scraper.py:171] 🔗 [HN #1] URL: https://www.oliver-charles.com/pages/3d-knitting
+INFO     2026-03-12 10:40:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-12 10:40:23 [scraper.py:170] 📥 [HN #2] SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]
+INFO     2026-03-12 10:40:23 [scraper.py:171] 🔗 [HN #2] URL: https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf
+INFO     2026-03-12 10:40:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-12 10:40:23 [scraper.py:170] 📥 [HN #3] Show HN: s@: decentralized social networking over static sites
+INFO     2026-03-12 10:40:23 [scraper.py:171] 🔗 [HN #3] URL: http://satproto.org/
+INFO     2026-03-12 10:40:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-12 10:40:23 [scraper.py:170] 📥 [HN #4] Returning to Rails in 2026
+INFO     2026-03-12 10:40:23 [scraper.py:171] 🔗 [HN #4] URL: https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/
+INFO     2026-03-12 10:40:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-12 10:40:23 [scraper.py:170] 📥 [HN #5] Avoiding Trigonometry (2013)
+INFO     2026-03-12 10:40:23 [scraper.py:171] 🔗 [HN #5] URL: https://iquilezles.org/articles/noacos/
+INFO     2026-03-12 10:40:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:170] 📥 [HN #6] Temporal: The 9-year journey to fix time in JavaScript
+INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #6] URL: https://bloomberg.github.io/js-blog/post/temporal/
+INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:170] 📥 [HN #7] Datahäxan
+INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #7] URL: https://0dd.company/galleries/witches/7.html
+INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:170] 📥 [HN #8] Printf-Tac-Toe
+INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/carlini/printf-tac-toe
+INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:170] 📥 [HN #9] Making WebAssembly a first-class language on the Web
+INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #9] URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:170] 📥 [HN #10] WebPKI and You
+INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #10] URL: https://blog.brycekerley.net/2026/03/08/webpki-and-you.html
+INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-12 10:40:24 [scraper.py:178] 🎉 [HN] All done.
+
