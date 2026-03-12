@@ -3376,3 +3376,6 @@ INFO     2026-03-12 02:46:54 [scraper.py:47] 📥 [APOD] Title: CG 4: The Globul
 INFO     2026-03-12 02:46:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg
 INFO     2026-03-12 02:46:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-12 05:56:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-03-12 05:56:19 [scraper.py:71] ❌ [APOD] Failed to fetch: list index out of range
+

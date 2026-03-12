@@ -22456,3 +22456,36 @@ INFO     2026-03-12 02:46:56 [scraper.py:171] 🔗 [HN #10] URL: https://www.wiz
 INFO     2026-03-12 02:46:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-12 02:46:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-12 05:56:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-12 05:56:19 [scraper.py:170] 📥 [HN #1] Show HN: s@: decentralized social networking over static sites
+INFO     2026-03-12 05:56:19 [scraper.py:171] 🔗 [HN #1] URL: http://satproto.org/
+INFO     2026-03-12 05:56:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-12 05:56:19 [scraper.py:170] 📥 [HN #2] Temporal: The 9-year journey to fix time in JavaScript
+INFO     2026-03-12 05:56:19 [scraper.py:171] 🔗 [HN #2] URL: https://bloomberg.github.io/js-blog/post/temporal/
+INFO     2026-03-12 05:56:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-12 05:56:19 [scraper.py:170] 📥 [HN #3] WireGuard Is Two Things
+INFO     2026-03-12 05:56:19 [scraper.py:171] 🔗 [HN #3] URL: https://www.proxylity.com/articles/wireguard-is-two-things.html
+INFO     2026-03-12 05:56:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-12 05:56:19 [scraper.py:170] 📥 [HN #4] Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results
+INFO     2026-03-12 05:56:19 [scraper.py:171] 🔗 [HN #4] URL: https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/
+INFO     2026-03-12 05:56:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-12 05:56:19 [scraper.py:170] 📥 [HN #5] Making WebAssembly a first-class language on the Web
+INFO     2026-03-12 05:56:19 [scraper.py:171] 🔗 [HN #5] URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+INFO     2026-03-12 05:56:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:170] 📥 [HN #6] Many SWE-bench-Passing PRs would not be merged
+INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #6] URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
+INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:170] 📥 [HN #7] Iran-backed hackers claim wiper attack on medtech firm Stryker
+INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #7] URL: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/
+INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:170] 📥 [HN #8] Don't post generated/AI-edited comments. HN is for conversation between humans
+INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/newsguidelines.html#generated
+INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:170] 📥 [HN #9] I was interviewed by an AI bot for a job
+INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #9] URL: https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job
+INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:170] 📥 [HN #10] Show HN: A context-aware permission guard for Claude Code
+INFO     2026-03-12 05:56:20 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/manuelschipper/nah/
+INFO     2026-03-12 05:56:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-12 05:56:20 [scraper.py:178] 🎉 [HN] All done.
+
