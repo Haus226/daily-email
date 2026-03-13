@@ -22522,3 +22522,36 @@ INFO     2026-03-12 10:40:24 [scraper.py:171] 🔗 [HN #10] URL: https://blog.br
 INFO     2026-03-12 10:40:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-12 10:40:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-13 02:44:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-13 02:44:44 [scraper.py:170] 📥 [HN #1] Shall I implement it? No
+INFO     2026-03-13 02:44:44 [scraper.py:171] 🔗 [HN #1] URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+INFO     2026-03-13 02:44:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-13 02:44:44 [scraper.py:170] 📥 [HN #2] Malus – Clean Room as a Service
+INFO     2026-03-13 02:44:44 [scraper.py:171] 🔗 [HN #2] URL: https://malus.sh
+INFO     2026-03-13 02:44:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #3] Bubble Sorted Amen Break
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #3] URL: https://parametricavocado.itch.io/amen-sorting
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #4] Reversing memory loss via gut-brain communication
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #4] URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #5] ATMs didn’t kill bank teller jobs, but the iPhone did
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #5] URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #6] Document poisoning in RAG systems: How attackers corrupt AI's sources
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #6] URL: https://aminrj.com/posts/rag-document-poisoning/
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #7] The Met releases high-def 3D scans of 140 famous art objects
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #7] URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-13 02:44:45 [scraper.py:170] 📥 [HN #8] "This Is Not the Computer for You"
+INFO     2026-03-13 02:44:45 [scraper.py:171] 🔗 [HN #8] URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
+INFO     2026-03-13 02:44:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-13 02:44:46 [scraper.py:170] 📥 [HN #9] Understanding the Go Runtime: The Scheduler
+INFO     2026-03-13 02:44:46 [scraper.py:171] 🔗 [HN #9] URL: https://internals-for-interns.com/posts/go-runtime-scheduler/
+INFO     2026-03-13 02:44:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-13 02:44:46 [scraper.py:170] 📥 [HN #10] Innocent woman jailed after being misidentified using AI facial recognition
+INFO     2026-03-13 02:44:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+INFO     2026-03-13 02:44:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-13 02:44:46 [scraper.py:178] 🎉 [HN] All done.
+

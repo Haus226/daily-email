@@ -8229,3 +8229,24 @@ INFO     2026-03-12 10:40:24 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-12 10:40:24 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-13 02:44:43 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-13 02:44:44 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-13 02:44:44 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-13 02:44:44 [scraper.py:133] 📥 [EO] Title: Dust Outbreak Reaches Europe
+INFO     2026-03-13 02:44:44 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-outbreak-reaches-europe/saharandust_gmao_20260309_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-13 02:44:44 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-13 02:44:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-13 02:44:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-13 02:44:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-13 02:44:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-13 02:44:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-13 02:44:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-13 02:44:46 [scraper.py:133] 📥 [EO] Title: Dust Outbreak Reaches Europe
+INFO     2026-03-13 02:44:46 [scraper.py:133] 📥 [EO] Title: Dust Outbreak Reaches Europe
+INFO     2026-03-13 02:44:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-outbreak-reaches-europe/saharandust_gmao_20260309_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-13 02:44:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-outbreak-reaches-europe/saharandust_gmao_20260309_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-13 02:44:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-13 02:44:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
