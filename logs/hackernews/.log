@@ -22588,3 +22588,36 @@ INFO     2026-03-13 05:54:27 [scraper.py:171] 🔗 [HN #10] URL: https://pbj.del
 INFO     2026-03-13 05:54:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-13 05:54:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-13 10:38:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-13 10:38:19 [scraper.py:170] 📥 [HN #1] Bucketsquatting is (finally) dead
+INFO     2026-03-13 10:38:19 [scraper.py:171] 🔗 [HN #1] URL: https://onecloudplease.com/blog/bucketsquatting-is-finally-dead
+INFO     2026-03-13 10:38:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-13 10:38:20 [scraper.py:170] 📥 [HN #2] Willingness to look stupid
+INFO     2026-03-13 10:38:20 [scraper.py:171] 🔗 [HN #2] URL: https://sharif.io/looking-stupid
+INFO     2026-03-13 10:38:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-13 10:38:20 [scraper.py:170] 📥 [HN #3] Source code of Swedish e-government services has been leaked
+INFO     2026-03-13 10:38:20 [scraper.py:171] 🔗 [HN #3] URL: https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/
+INFO     2026-03-13 10:38:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-13 10:38:20 [scraper.py:170] 📥 [HN #4] Executing programs inside transformers with exponentially faster inference
+INFO     2026-03-13 10:38:20 [scraper.py:171] 🔗 [HN #4] URL: https://www.percepta.ai/blog/can-llms-be-computers
+INFO     2026-03-13 10:38:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #5] Malus – Clean Room as a Service
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #5] URL: https://malus.sh
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #6] “This is not the computer for you”
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #6] URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #7] Prefix sums at gigabytes per second with ARM NEON
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #7] URL: https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #8] Vite 8.0 Is Out
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #8] URL: https://vite.dev/blog/announcing-vite8
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #9] Ceno, browse the web without internet access
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #9] URL: https://ceno.app/en/index.html?
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:170] 📥 [HN #10] ATMs didn’t kill bank teller jobs, but the iPhone did
+INFO     2026-03-13 10:38:21 [scraper.py:171] 🔗 [HN #10] URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+INFO     2026-03-13 10:38:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-13 10:38:21 [scraper.py:178] 🎉 [HN] All done.
+

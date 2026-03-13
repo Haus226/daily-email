@@ -3390,3 +3390,8 @@ INFO     2026-03-13 05:54:26 [scraper.py:47] 📥 [APOD] Title: Toolondo Totalit
 INFO     2026-03-13 05:54:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg
 INFO     2026-03-13 05:54:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-13 10:38:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-13 10:38:19 [scraper.py:47] 📥 [APOD] Title: Toolondo Totality Trails
+INFO     2026-03-13 10:38:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg
+INFO     2026-03-13 10:38:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
