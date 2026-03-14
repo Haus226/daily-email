@@ -22687,3 +22687,36 @@ INFO     2026-03-14 05:52:04 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-14 05:52:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-14 05:52:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-14 10:29:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-14 10:29:44 [scraper.py:170] 📥 [HN #1] 1M context is now generally available for Opus 4.6 and Sonnet 4.6
+INFO     2026-03-14 10:29:44 [scraper.py:171] 🔗 [HN #1] URL: https://claude.com/blog/1m-context-ga
+INFO     2026-03-14 10:29:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-14 10:29:44 [scraper.py:170] 📥 [HN #2] A Survival Guide to a PhD (2016)
+INFO     2026-03-14 10:29:44 [scraper.py:171] 🔗 [HN #2] URL: http://karpathy.github.io/2016/09/07/phd/
+INFO     2026-03-14 10:29:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-14 10:29:44 [scraper.py:170] 📥 [HN #3] Qatar helium shutdown puts chip supply chain on a two-week clock
+INFO     2026-03-14 10:29:44 [scraper.py:171] 🔗 [HN #3] URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+INFO     2026-03-14 10:29:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-14 10:29:44 [scraper.py:170] 📥 [HN #4] You gotta think outside the hypercube
+INFO     2026-03-14 10:29:44 [scraper.py:171] 🔗 [HN #4] URL: https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube
+INFO     2026-03-14 10:29:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-14 10:29:44 [scraper.py:170] 📥 [HN #5] Show HN: Channel Surfer – Watch YouTube like it’s cable TV
+INFO     2026-03-14 10:29:44 [scraper.py:171] 🔗 [HN #5] URL: https://channelsurfer.tv
+INFO     2026-03-14 10:29:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:170] 📥 [HN #6] Recursive Problems Benefit from Recursive Solutions
+INFO     2026-03-14 10:29:45 [scraper.py:171] 🔗 [HN #6] URL: https://jnkr.tech/blog/recursive-benefits-recursive
+INFO     2026-03-14 10:29:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:170] 📥 [HN #7] Emacs and Vim in the Age of AI
+INFO     2026-03-14 10:29:45 [scraper.py:171] 🔗 [HN #7] URL: https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/
+INFO     2026-03-14 10:29:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:170] 📥 [HN #8] Mouser: An open source alternative to Logi-Plus mouse software
+INFO     2026-03-14 10:29:45 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/TomBadash/MouseControl
+INFO     2026-03-14 10:29:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:170] 📥 [HN #9] The Isolation Trap: Erlang
+INFO     2026-03-14 10:29:45 [scraper.py:171] 🔗 [HN #9] URL: https://causality.blog/essays/the-isolation-trap/
+INFO     2026-03-14 10:29:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:170] 📥 [HN #10] Hammerspoon
+INFO     2026-03-14 10:29:45 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/Hammerspoon/hammerspoon
+INFO     2026-03-14 10:29:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-14 10:29:45 [scraper.py:178] 🎉 [HN] All done.
+
