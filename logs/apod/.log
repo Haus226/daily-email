@@ -3415,3 +3415,8 @@ INFO     2026-03-15 03:21:50 [scraper.py:47] 📥 [APOD] Title: A Year for K2-31
 INFO     2026-03-15 03:21:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
 INFO     2026-03-15 03:21:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-15 06:06:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-15 06:06:45 [scraper.py:47] 📥 [APOD] Title: A Year for K2-315b
+INFO     2026-03-15 06:06:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
+INFO     2026-03-15 06:06:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
