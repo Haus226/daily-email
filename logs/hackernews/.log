@@ -22786,3 +22786,36 @@ INFO     2026-03-15 06:06:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.ant
 INFO     2026-03-15 06:06:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-15 06:06:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-15 10:32:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #1] The Appalling Stupidity of Spotify's AI DJ
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #1] URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #2] Rack-mount hydroponics
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #2] URL: https://sa.lj.am/rack-mount-hydroponics/
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #3] Why Mathematica does not simplify sinh(arccosh(x))
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #3] URL: https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #4] Treasure hunter freed from jail after refusing to turn over shipwreck gold
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #4] URL: https://www.bbc.com/news/articles/cg4g7kn99q3o
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #5] A most elegant TCP hole punching algorithm
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #5] URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-15 10:32:03 [scraper.py:170] 📥 [HN #6] How kernel anti-cheats work
+INFO     2026-03-15 10:32:03 [scraper.py:171] 🔗 [HN #6] URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/
+INFO     2026-03-15 10:32:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-15 10:32:04 [scraper.py:170] 📥 [HN #7] Show HN: Han – A Korean programming language written in Rust
+INFO     2026-03-15 10:32:04 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/xodn348/han
+INFO     2026-03-15 10:32:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-15 10:32:04 [scraper.py:170] 📥 [HN #8] Allow me to get to know you, mistakes and all
+INFO     2026-03-15 10:32:04 [scraper.py:171] 🔗 [HN #8] URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/
+INFO     2026-03-15 10:32:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-15 10:32:04 [scraper.py:170] 📥 [HN #9] Ageless Linux – Software for humans of indeterminate age
+INFO     2026-03-15 10:32:04 [scraper.py:171] 🔗 [HN #9] URL: https://agelesslinux.org/
+INFO     2026-03-15 10:32:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-15 10:32:04 [scraper.py:170] 📥 [HN #10] Slicing Bezier Surfaces
+INFO     2026-03-15 10:32:04 [scraper.py:171] 🔗 [HN #10] URL: https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html
+INFO     2026-03-15 10:32:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-15 10:32:04 [scraper.py:178] 🎉 [HN] All done.
+
