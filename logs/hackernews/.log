@@ -22852,3 +22852,36 @@ INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #10] URL: https://isaacfr
 INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-16 03:24:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-16 06:20:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-16 06:20:58 [scraper.py:170] 📥 [HN #1] Canada's bill C-22 mandates mass metadata surveillance
+INFO     2026-03-16 06:20:58 [scraper.py:171] 🔗 [HN #1] URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+INFO     2026-03-16 06:20:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-16 06:20:58 [scraper.py:170] 📥 [HN #2] Chrome DevTools MCP (2025)
+INFO     2026-03-16 06:20:58 [scraper.py:171] 🔗 [HN #2] URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+INFO     2026-03-16 06:20:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-16 06:20:59 [scraper.py:170] 📥 [HN #3] The 49MB web page
+INFO     2026-03-16 06:20:59 [scraper.py:171] 🔗 [HN #3] URL: https://thatshubham.com/blog/news-audit
+INFO     2026-03-16 06:20:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-16 06:20:59 [scraper.py:170] 📥 [HN #4] Electric motor scaling laws and inertia in robot actuators
+INFO     2026-03-16 06:20:59 [scraper.py:171] 🔗 [HN #4] URL: https://robot-daycare.com/posts/actuation_series_1/
+INFO     2026-03-16 06:20:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-16 06:20:59 [scraper.py:170] 📥 [HN #5] How I write software with LLMs
+INFO     2026-03-16 06:20:59 [scraper.py:171] 🔗 [HN #5] URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+INFO     2026-03-16 06:20:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-16 06:20:59 [scraper.py:170] 📥 [HN #6] Lies I was told about collaborative editing, Part 2: Why we don't use Yjs
+INFO     2026-03-16 06:20:59 [scraper.py:171] 🔗 [HN #6] URL: https://www.moment.dev/blog/lies-i-was-told-pt-2
+INFO     2026-03-16 06:20:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-16 06:21:00 [scraper.py:170] 📥 [HN #7] What every computer scientist should know about floating-point arithmetic (1991) [pdf]
+INFO     2026-03-16 06:21:00 [scraper.py:171] 🔗 [HN #7] URL: https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+INFO     2026-03-16 06:21:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-16 06:21:00 [scraper.py:170] 📥 [HN #8] LLM Architecture Gallery
+INFO     2026-03-16 06:21:00 [scraper.py:171] 🔗 [HN #8] URL: https://sebastianraschka.com/llm-architecture-gallery/
+INFO     2026-03-16 06:21:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-16 06:21:00 [scraper.py:170] 📥 [HN #9] LLMs can be exhausting
+INFO     2026-03-16 06:21:00 [scraper.py:171] 🔗 [HN #9] URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+INFO     2026-03-16 06:21:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-16 06:21:00 [scraper.py:170] 📥 [HN #10] Stop Sloppypasta
+INFO     2026-03-16 06:21:00 [scraper.py:171] 🔗 [HN #10] URL: https://stopsloppypasta.ai/
+INFO     2026-03-16 06:21:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-16 06:21:00 [scraper.py:178] 🎉 [HN] All done.
+
