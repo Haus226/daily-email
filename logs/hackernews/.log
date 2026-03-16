@@ -22819,3 +22819,36 @@ INFO     2026-03-15 10:32:04 [scraper.py:171] 🔗 [HN #10] URL: https://fatih-e
 INFO     2026-03-15 10:32:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-15 10:32:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-16 03:24:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-16 03:24:29 [scraper.py:170] 📥 [HN #1] Canada's bill C-22 mandates mass metadata surveillance of Canadians
+INFO     2026-03-16 03:24:30 [scraper.py:171] 🔗 [HN #1] URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+INFO     2026-03-16 03:24:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-16 03:24:30 [scraper.py:170] 📥 [HN #2] Chrome DevTools MCP
+INFO     2026-03-16 03:24:30 [scraper.py:171] 🔗 [HN #2] URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+INFO     2026-03-16 03:24:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-16 03:24:30 [scraper.py:170] 📥 [HN #3] The 49MB web page
+INFO     2026-03-16 03:24:30 [scraper.py:171] 🔗 [HN #3] URL: https://thatshubham.com/blog/news-audit
+INFO     2026-03-16 03:24:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-16 03:24:30 [scraper.py:170] 📥 [HN #4] What Is Agentic Engineering?
+INFO     2026-03-16 03:24:30 [scraper.py:171] 🔗 [HN #4] URL: https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/
+INFO     2026-03-16 03:24:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-16 03:24:30 [scraper.py:170] 📥 [HN #5] LLMs can be exhausting
+INFO     2026-03-16 03:24:30 [scraper.py:171] 🔗 [HN #5] URL: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+INFO     2026-03-16 03:24:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:170] 📥 [HN #6] LLM Architecture Gallery
+INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #6] URL: https://sebastianraschka.com/llm-architecture-gallery/
+INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:170] 📥 [HN #7] A new Bigfoot documentary helps explain our conspiracy-minded era
+INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #7] URL: https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px
+INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:170] 📥 [HN #8] //go:fix inline and the source-level inliner
+INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #8] URL: https://go.dev/blog/inliner
+INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:170] 📥 [HN #9] The Linux Programming Interface as a university course text
+INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #9] URL: https://man7.org/tlpi/academic/index.html
+INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:170] 📥 [HN #10] Separating the Wayland compositor and window manager
+INFO     2026-03-16 03:24:31 [scraper.py:171] 🔗 [HN #10] URL: https://isaacfreund.com/blog/river-window-management/
+INFO     2026-03-16 03:24:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-16 03:24:31 [scraper.py:178] 🎉 [HN] All done.
+

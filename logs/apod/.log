@@ -3425,3 +3425,8 @@ INFO     2026-03-15 10:32:02 [scraper.py:47] 📥 [APOD] Title: Equinox at the P
 INFO     2026-03-15 10:32:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
 INFO     2026-03-15 10:32:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-16 03:24:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-16 03:24:29 [scraper.py:47] 📥 [APOD] Title: Equinox at the Pyramid of the Feathered Serpent
+INFO     2026-03-16 03:24:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
+INFO     2026-03-16 03:24:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
