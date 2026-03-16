@@ -22885,3 +22885,36 @@ INFO     2026-03-16 06:21:00 [scraper.py:171] 🔗 [HN #10] URL: https://stopslo
 INFO     2026-03-16 06:21:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-16 06:21:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-16 10:54:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-16 10:54:08 [scraper.py:170] 📥 [HN #1] Canada's bill C-22 mandates mass metadata surveillance
+INFO     2026-03-16 10:54:08 [scraper.py:171] 🔗 [HN #1] URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+INFO     2026-03-16 10:54:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-16 10:54:09 [scraper.py:170] 📥 [HN #2] How I write software with LLMs
+INFO     2026-03-16 10:54:09 [scraper.py:171] 🔗 [HN #2] URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+INFO     2026-03-16 10:54:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-16 10:54:09 [scraper.py:170] 📥 [HN #3] Ask HN: What is it like being in a CS major program these days?
+INFO     2026-03-16 10:54:09 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=47397190
+INFO     2026-03-16 10:54:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-16 10:54:09 [scraper.py:170] 📥 [HN #4] The 49MB web page
+INFO     2026-03-16 10:54:09 [scraper.py:171] 🔗 [HN #4] URL: https://thatshubham.com/blog/news-audit
+INFO     2026-03-16 10:54:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-16 10:54:09 [scraper.py:170] 📥 [HN #5] Chrome DevTools MCP (2025)
+INFO     2026-03-16 10:54:09 [scraper.py:171] 🔗 [HN #5] URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+INFO     2026-03-16 10:54:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:170] 📥 [HN #6] Home Assistant waters my plants
+INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #6] URL: https://finnian.io/blog/home-assistant-waters-my-plants/
+INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:170] 📥 [HN #7] Kona EV Hacking
+INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #7] URL: http://techno-fandom.org/~hobbit/cars/ev/
+INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:170] 📥 [HN #8] Electric motor scaling laws and inertia in robot actuators
+INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #8] URL: https://robot-daycare.com/posts/actuation_series_1/
+INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:170] 📥 [HN #9] What every computer scientist should know about floating-point arithmetic (1991) [pdf]
+INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #9] URL: https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf
+INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:170] 📥 [HN #10] Stop Sloppypasta
+INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #10] URL: https://stopsloppypasta.ai/
+INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-16 10:54:10 [scraper.py:178] 🎉 [HN] All done.
+
