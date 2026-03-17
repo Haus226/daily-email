@@ -22984,3 +22984,36 @@ INFO     2026-03-17 06:02:59 [scraper.py:171] 🔗 [HN #10] URL: https://communi
 INFO     2026-03-17 06:02:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-17 06:02:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-17 10:52:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-17 10:52:39 [scraper.py:170] 📥 [HN #1] Kagi Small Web
+INFO     2026-03-17 10:52:39 [scraper.py:171] 🔗 [HN #1] URL: https://kagi.com/smallweb/
+INFO     2026-03-17 10:52:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-17 10:52:39 [scraper.py:170] 📥 [HN #2] Kagi Translate now supports LinkedIn Speak as an output language
+INFO     2026-03-17 10:52:39 [scraper.py:171] 🔗 [HN #2] URL: https://translate.kagi.com/?from=en&to=LinkedIn+speak
+INFO     2026-03-17 10:52:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-17 10:52:39 [scraper.py:170] 📥 [HN #3] Leanstral: Open-source agent for trustworthy coding and formal proof engineering
+INFO     2026-03-17 10:52:39 [scraper.py:171] 🔗 [HN #3] URL: https://mistral.ai/news/leanstral
+INFO     2026-03-17 10:52:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-17 10:52:40 [scraper.py:170] 📥 [HN #4] The unlikely story of Teardown Multiplayer
+INFO     2026-03-17 10:52:40 [scraper.py:171] 🔗 [HN #4] URL: https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html
+INFO     2026-03-17 10:52:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-17 10:52:40 [scraper.py:170] 📥 [HN #5] Building a Shell
+INFO     2026-03-17 10:52:40 [scraper.py:171] 🔗 [HN #5] URL: https://healeycodes.com/building-a-shell
+INFO     2026-03-17 10:52:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-17 10:52:40 [scraper.py:170] 📥 [HN #6] Meta’s renewed commitment to jemalloc
+INFO     2026-03-17 10:52:40 [scraper.py:171] 🔗 [HN #6] URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
+INFO     2026-03-17 10:52:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-17 10:52:40 [scraper.py:170] 📥 [HN #7] The “small web” is bigger than you might think
+INFO     2026-03-17 10:52:40 [scraper.py:171] 🔗 [HN #7] URL: https://kevinboone.me/small_web_is_big.html
+INFO     2026-03-17 10:52:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-17 10:52:40 [scraper.py:170] 📥 [HN #8] The American Healthcare Conundrum
+INFO     2026-03-17 10:52:40 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/rexrodeo/american-healthcare-conundrum
+INFO     2026-03-17 10:52:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-17 10:52:41 [scraper.py:170] 📥 [HN #9] Sci-Fi Short Film “There Is No Antimemetics Division” [video]
+INFO     2026-03-17 10:52:41 [scraper.py:171] 🔗 [HN #9] URL: https://www.youtube.com/watch?v=3v8AsTHfAG0
+INFO     2026-03-17 10:52:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-17 10:52:41 [scraper.py:170] 📥 [HN #10] Every layer of review makes you 10x slower
+INFO     2026-03-17 10:52:41 [scraper.py:171] 🔗 [HN #10] URL: https://apenwarr.ca/log/20260316
+INFO     2026-03-17 10:52:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-17 10:52:41 [scraper.py:178] 🎉 [HN] All done.
+
