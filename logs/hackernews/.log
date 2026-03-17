@@ -22918,3 +22918,36 @@ INFO     2026-03-16 10:54:10 [scraper.py:171] 🔗 [HN #10] URL: https://stopslo
 INFO     2026-03-16 10:54:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-16 10:54:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-17 02:47:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #1] US SEC preparing to scrap quarterly reporting requirement
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #1] URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #2] Leanstral: Open-source agent for trustworthy coding and formal proof engineering
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #2] URL: https://mistral.ai/news/leanstral
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #3] Meta’s renewed commitment to jemalloc
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #3] URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #4] The American Healthcare Conundrum
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/rexrodeo/american-healthcare-conundrum
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #5] The “small web” is bigger than you might think
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #5] URL: https://kevinboone.me/small_web_is_big.html
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-17 02:47:14 [scraper.py:170] 📥 [HN #6] My Journey to a reliable and enjoyable locally hosted voice assistant (2025)
+INFO     2026-03-17 02:47:14 [scraper.py:171] 🔗 [HN #6] URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860
+INFO     2026-03-17 02:47:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-17 02:47:15 [scraper.py:170] 📥 [HN #7] In space, no one can hear you kernel panic (2020)
+INFO     2026-03-17 02:47:15 [scraper.py:171] 🔗 [HN #7] URL: https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/
+INFO     2026-03-17 02:47:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-17 02:47:15 [scraper.py:170] 📥 [HN #8] Show HN: Oxyde – Pydantic-native async ORM with a Rust core
+INFO     2026-03-17 02:47:15 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/mr-fatalyst/oxyde
+INFO     2026-03-17 02:47:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-17 02:47:15 [scraper.py:170] 📥 [HN #9] Canopy Height Maps v2
+INFO     2026-03-17 02:47:15 [scraper.py:171] 🔗 [HN #9] URL: https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1
+INFO     2026-03-17 02:47:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-17 02:47:15 [scraper.py:170] 📥 [HN #10] Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)
+INFO     2026-03-17 02:47:15 [scraper.py:171] 🔗 [HN #10] URL: https://gitclassic.com
+INFO     2026-03-17 02:47:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-17 02:47:15 [scraper.py:178] 🎉 [HN] All done.
+
