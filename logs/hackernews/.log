@@ -23050,3 +23050,36 @@ INFO     2026-03-18 02:53:43 [scraper.py:171] 🔗 [HN #10] URL: https://rovarma
 INFO     2026-03-18 02:53:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-18 02:53:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-18 06:05:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #1] SSH has no Host header
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #1] URL: https://blog.exe.dev/ssh-host-header
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #2] Have a Fucking Website
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #2] URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #3] More than 135 open hardware devices flashable with your own firmware
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #3] URL: https://openhardware.directory
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #4] A Decade of Slug
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #4] URL: https://terathon.com/blog/decade-slug.html
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #5] Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #5] URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #6] Mistral AI Releases Forge
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #6] URL: https://mistral.ai/news/forge
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-18 06:05:55 [scraper.py:170] 📥 [HN #7] Python 3.15's JIT is now back on track
+INFO     2026-03-18 06:05:55 [scraper.py:171] 🔗 [HN #7] URL: https://fidget-spinner.github.io/posts/jit-on-track.html
+INFO     2026-03-18 06:05:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-18 06:05:56 [scraper.py:170] 📥 [HN #8] Get Shit Done: A meta-prompting, context engineering and spec-driven dev system
+INFO     2026-03-18 06:05:56 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/gsd-build/get-shit-done
+INFO     2026-03-18 06:05:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-18 06:05:56 [scraper.py:170] 📥 [HN #9] Show HN: Sub-millisecond VM sandboxes using CoW memory forking
+INFO     2026-03-18 06:05:56 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/adammiribyan/zeroboot
+INFO     2026-03-18 06:05:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-18 06:05:56 [scraper.py:170] 📥 [HN #10] The pleasures of poor product design
+INFO     2026-03-18 06:05:56 [scraper.py:171] 🔗 [HN #10] URL: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design
+INFO     2026-03-18 06:05:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-18 06:05:56 [scraper.py:178] 🎉 [HN] All done.
+
