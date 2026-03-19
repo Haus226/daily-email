@@ -3470,3 +3470,8 @@ INFO     2026-03-18 10:53:41 [scraper.py:47] 📥 [APOD] Title: Cygnus and the S
 INFO     2026-03-18 10:53:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
 INFO     2026-03-18 10:53:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-19 02:55:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-19 02:55:05 [scraper.py:47] 📥 [APOD] Title: Cygnus and the Solitary Tree
+INFO     2026-03-19 02:55:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
+INFO     2026-03-19 02:55:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
