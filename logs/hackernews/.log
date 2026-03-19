@@ -23182,3 +23182,36 @@ INFO     2026-03-19 06:01:15 [scraper.py:171] 🔗 [HN #10] URL: https://colossu
 INFO     2026-03-19 06:01:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-19 06:01:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-19 10:41:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-19 10:41:22 [scraper.py:170] 📥 [HN #1] 2% of ICML papers desk rejected because the authors used LLM in their reviews
+INFO     2026-03-19 10:41:22 [scraper.py:171] 🔗 [HN #1] URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/
+INFO     2026-03-19 10:41:22 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-19 10:41:22 [scraper.py:170] 📥 [HN #2] Conway's Game of Life, in real life
+INFO     2026-03-19 10:41:22 [scraper.py:171] 🔗 [HN #2] URL: https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life
+INFO     2026-03-19 10:41:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-19 10:41:23 [scraper.py:170] 📥 [HN #3] Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
+INFO     2026-03-19 10:41:23 [scraper.py:171] 🔗 [HN #3] URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+INFO     2026-03-19 10:41:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-19 10:41:23 [scraper.py:170] 📥 [HN #4] Stdwin: Standard window interface by Guido Van Rossum [pdf]
+INFO     2026-03-19 10:41:23 [scraper.py:171] 🔗 [HN #4] URL: https://ir.cwi.nl/pub/5998/5998D.pdf
+INFO     2026-03-19 10:41:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-19 10:41:23 [scraper.py:170] 📥 [HN #5] Warranty Void If Regenerated
+INFO     2026-03-19 10:41:23 [scraper.py:171] 🔗 [HN #5] URL: https://nearzero.software/p/warranty-void-if-regenerated
+INFO     2026-03-19 10:41:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-19 10:41:23 [scraper.py:170] 📥 [HN #6] OpenRocket
+INFO     2026-03-19 10:41:23 [scraper.py:171] 🔗 [HN #6] URL: https://openrocket.info/
+INFO     2026-03-19 10:41:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-19 10:41:23 [scraper.py:170] 📥 [HN #7] Austin’s surge of new housing construction drove down rents
+INFO     2026-03-19 10:41:23 [scraper.py:171] 🔗 [HN #7] URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+INFO     2026-03-19 10:41:23 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-19 10:41:24 [scraper.py:170] 📥 [HN #8] LotusNotes
+INFO     2026-03-19 10:41:24 [scraper.py:171] 🔗 [HN #8] URL: https://computer.rip/2026-03-14-lotusnotes.html
+INFO     2026-03-19 10:41:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-19 10:41:24 [scraper.py:170] 📥 [HN #9] A sufficiently detailed spec is code
+INFO     2026-03-19 10:41:24 [scraper.py:171] 🔗 [HN #9] URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+INFO     2026-03-19 10:41:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-19 10:41:24 [scraper.py:170] 📥 [HN #10] Autoresearch for SAT Solvers
+INFO     2026-03-19 10:41:24 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/iliazintchenko/agent-sat
+INFO     2026-03-19 10:41:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-19 10:41:24 [scraper.py:178] 🎉 [HN] All done.
+
