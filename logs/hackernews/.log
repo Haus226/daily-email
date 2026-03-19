@@ -23149,3 +23149,36 @@ INFO     2026-03-19 02:55:07 [scraper.py:171] 🔗 [HN #10] URL: https://rjcorwi
 INFO     2026-03-19 02:55:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-19 02:55:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-19 06:01:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-19 06:01:12 [scraper.py:170] 📥 [HN #1] A sufficiently detailed spec is code
+INFO     2026-03-19 06:01:13 [scraper.py:171] 🔗 [HN #1] URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code
+INFO     2026-03-19 06:01:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-19 06:01:13 [scraper.py:170] 📥 [HN #2] Cook: A simple CLI for orchestrating Claude Code
+INFO     2026-03-19 06:01:13 [scraper.py:171] 🔗 [HN #2] URL: https://rjcorwin.github.io/cook/
+INFO     2026-03-19 06:01:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-19 06:01:13 [scraper.py:170] 📥 [HN #3] What 81,000 people want from AI
+INFO     2026-03-19 06:01:13 [scraper.py:171] 🔗 [HN #3] URL: https://www.anthropic.com/features/81k-interviews
+INFO     2026-03-19 06:01:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-19 06:01:13 [scraper.py:170] 📥 [HN #4] Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
+INFO     2026-03-19 06:01:13 [scraper.py:171] 🔗 [HN #4] URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+INFO     2026-03-19 06:01:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-19 06:01:14 [scraper.py:170] 📥 [HN #5] Austin’s surge of new housing construction drove down rents
+INFO     2026-03-19 06:01:14 [scraper.py:171] 🔗 [HN #5] URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+INFO     2026-03-19 06:01:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-19 06:01:14 [scraper.py:170] 📥 [HN #6] Warranty Void If Regenerated
+INFO     2026-03-19 06:01:14 [scraper.py:171] 🔗 [HN #6] URL: https://nearzero.software/p/warranty-void-if-regenerated
+INFO     2026-03-19 06:01:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-19 06:01:14 [scraper.py:170] 📥 [HN #7] OpenRocket
+INFO     2026-03-19 06:01:14 [scraper.py:171] 🔗 [HN #7] URL: https://openrocket.info/
+INFO     2026-03-19 06:01:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-19 06:01:14 [scraper.py:170] 📥 [HN #8] Autoresearch for SAT Solvers
+INFO     2026-03-19 06:01:14 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/iliazintchenko/agent-sat
+INFO     2026-03-19 06:01:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-19 06:01:14 [scraper.py:170] 📥 [HN #9] Rob Pike’s Rules of Programming (1989)
+INFO     2026-03-19 06:01:14 [scraper.py:171] 🔗 [HN #9] URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+INFO     2026-03-19 06:01:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-19 06:01:15 [scraper.py:170] 📥 [HN #10] We Have Learned Nothing
+INFO     2026-03-19 06:01:15 [scraper.py:171] 🔗 [HN #10] URL: https://colossus.com/article/we-have-learned-nothing-startup-pundits/
+INFO     2026-03-19 06:01:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-19 06:01:15 [scraper.py:178] 🎉 [HN] All done.
+

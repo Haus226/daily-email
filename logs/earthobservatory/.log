@@ -8624,3 +8624,24 @@ INFO     2026-03-19 02:55:06 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-19 02:55:06 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-19 06:01:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-19 06:01:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-19 06:01:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-19 06:01:12 [scraper.py:133] 📥 [EO] Title: Australia’s “Red Centre” Turns Green
+INFO     2026-03-19 06:01:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia’s-“red-centre”-turns-green/alicespringsgreening_tmo_20260310_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-19 06:01:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-19 06:01:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-19 06:01:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-19 06:01:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-19 06:01:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-19 06:01:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-19 06:01:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-19 06:01:13 [scraper.py:133] 📥 [EO] Title: Australia’s “Red Centre” Turns Green
+INFO     2026-03-19 06:01:13 [scraper.py:133] 📥 [EO] Title: Australia’s “Red Centre” Turns Green
+INFO     2026-03-19 06:01:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia’s-“red-centre”-turns-green/alicespringsgreening_tmo_20260310_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-19 06:01:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia’s-“red-centre”-turns-green/alicespringsgreening_tmo_20260310_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-19 06:01:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-19 06:01:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
