@@ -3485,3 +3485,8 @@ INFO     2026-03-19 10:41:22 [scraper.py:47] 📥 [APOD] Title: Launch Plume: Sp
 INFO     2026-03-19 10:41:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg
 INFO     2026-03-19 10:41:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-20 02:46:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-20 02:46:02 [scraper.py:47] 📥 [APOD] Title: Launch Plume: SpaceX Jellyfish
+INFO     2026-03-20 02:46:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg
+INFO     2026-03-20 02:46:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
