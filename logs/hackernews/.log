@@ -23281,3 +23281,36 @@ INFO     2026-03-20 05:57:00 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc
 INFO     2026-03-20 05:57:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-20 05:57:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-20 10:39:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-20 10:39:19 [scraper.py:170] 📥 [HN #1] ArXiv Declares Independence from Cornell
+INFO     2026-03-20 10:39:19 [scraper.py:171] 🔗 [HN #1] URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell
+INFO     2026-03-20 10:39:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-20 10:39:20 [scraper.py:170] 📥 [HN #2] Google details new 24-hour process to sideload unverified Android apps
+INFO     2026-03-20 10:39:20 [scraper.py:171] 🔗 [HN #2] URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+INFO     2026-03-20 10:39:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-20 10:39:20 [scraper.py:170] 📥 [HN #3] Drawvg Filter for FFmpeg
+INFO     2026-03-20 10:39:20 [scraper.py:171] 🔗 [HN #3] URL: https://ayosec.github.io/ffmpeg-drawvg/
+INFO     2026-03-20 10:39:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-20 10:39:20 [scraper.py:170] 📥 [HN #4] Push events into a running session with channels
+INFO     2026-03-20 10:39:20 [scraper.py:171] 🔗 [HN #4] URL: https://code.claude.com/docs/en/channels
+INFO     2026-03-20 10:39:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-20 10:39:20 [scraper.py:170] 📥 [HN #5] Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found
+INFO     2026-03-20 10:39:20 [scraper.py:171] 🔗 [HN #5] URL: https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found
+INFO     2026-03-20 10:39:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-20 10:39:20 [scraper.py:170] 📥 [HN #6] Cursor Composer 2 is just Kimi K2.5 with RL
+INFO     2026-03-20 10:39:20 [scraper.py:171] 🔗 [HN #6] URL: https://twitter.com/fynnso/status/2034706304875602030
+INFO     2026-03-20 10:39:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-20 10:39:21 [scraper.py:170] 📥 [HN #7] Drugwars for the TI-82/83/83 Calculators (2011)
+INFO     2026-03-20 10:39:21 [scraper.py:171] 🔗 [HN #7] URL: https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404
+INFO     2026-03-20 10:39:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-20 10:39:21 [scraper.py:170] 📥 [HN #8] Building a Reader for the Smallest Hard Drive
+INFO     2026-03-20 10:39:21 [scraper.py:171] 🔗 [HN #8] URL: https://www.willwhang.dev/Reading-MK4001MTD/
+INFO     2026-03-20 10:39:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-20 10:39:21 [scraper.py:170] 📥 [HN #9] Flash-KMeans: Fast and Memory-Efficient Exact K-Means
+INFO     2026-03-20 10:39:21 [scraper.py:171] 🔗 [HN #9] URL: https://arxiv.org/abs/2603.09229
+INFO     2026-03-20 10:39:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-20 10:39:21 [scraper.py:170] 📥 [HN #10] FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel
+INFO     2026-03-20 10:39:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.fsf.org/blogs/licensing/2026-anthropic-settlement
+INFO     2026-03-20 10:39:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-20 10:39:21 [scraper.py:178] 🎉 [HN] All done.
+

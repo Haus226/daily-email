@@ -3495,3 +3495,8 @@ INFO     2026-03-20 05:56:57 [scraper.py:47] 📥 [APOD] Title: Spring Equinox a
 INFO     2026-03-20 05:56:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg
 INFO     2026-03-20 05:56:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-20 10:39:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-20 10:39:19 [scraper.py:47] 📥 [APOD] Title: Spring Equinox at Teide Observatory
+INFO     2026-03-20 10:39:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg
+INFO     2026-03-20 10:39:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
