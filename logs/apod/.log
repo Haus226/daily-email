@@ -3490,3 +3490,8 @@ INFO     2026-03-20 02:46:02 [scraper.py:47] 📥 [APOD] Title: Launch Plume: Sp
 INFO     2026-03-20 02:46:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg
 INFO     2026-03-20 02:46:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-20 05:56:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-20 05:56:57 [scraper.py:47] 📥 [APOD] Title: Spring Equinox at Teide Observatory
+INFO     2026-03-20 05:56:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/equinox-3k-jcc_1087c.jpg
+INFO     2026-03-20 05:56:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
