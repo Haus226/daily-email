@@ -3510,3 +3510,8 @@ INFO     2026-03-21 05:46:57 [scraper.py:47] 📥 [APOD] Title: Galaxies in the 
 INFO     2026-03-21 05:46:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg
 INFO     2026-03-21 05:46:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-21 10:28:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-21 10:28:34 [scraper.py:47] 📥 [APOD] Title: Galaxies in the River: NGC 1300 and NGC 1297
+INFO     2026-03-21 10:28:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg
+INFO     2026-03-21 10:28:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
