@@ -23314,3 +23314,36 @@ INFO     2026-03-20 10:39:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.fsf
 INFO     2026-03-20 10:39:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-20 10:39:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-21 02:39:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-21 02:39:19 [scraper.py:170] 📥 [HN #1] OpenCode – Open source AI coding agent
+INFO     2026-03-21 02:39:19 [scraper.py:171] 🔗 [HN #1] URL: https://opencode.ai/
+INFO     2026-03-21 02:39:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-21 02:39:19 [scraper.py:170] 📥 [HN #2] Our commitment to Windows quality
+INFO     2026-03-21 02:39:19 [scraper.py:171] 🔗 [HN #2] URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/
+INFO     2026-03-21 02:39:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-21 02:39:19 [scraper.py:170] 📥 [HN #3] We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster
+INFO     2026-03-21 02:39:19 [scraper.py:171] 🔗 [HN #3] URL: https://www.openui.com/blog/rust-wasm-parser
+INFO     2026-03-21 02:39:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-21 02:39:19 [scraper.py:170] 📥 [HN #4] Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)
+INFO     2026-03-21 02:39:19 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/arnoldrobbins/LinuxByExample-2e
+INFO     2026-03-21 02:39:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #5] Ghostling
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ghostty-org/ghostling
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #6] France's aircraft carrier located in real time by Le Monde through fitness app
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #6] URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #7] A Japanese glossary of chopsticks faux pas
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #7] URL: https://www.nippon.com/en/japan-data/h01362/
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #8] Lent and Lisp
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #8] URL: https://leancrew.com/all-this/2026/02/lent-and-lisp/
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #9] Attention Residuals
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/MoonshotAI/Attention-Residuals
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:170] 📥 [HN #10] Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran
+INFO     2026-03-21 02:39:20 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/FormerLab/fortransky
+INFO     2026-03-21 02:39:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-21 02:39:20 [scraper.py:178] 🎉 [HN] All done.
+
