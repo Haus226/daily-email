@@ -3520,3 +3520,8 @@ INFO     2026-03-22 02:55:56 [scraper.py:47] 📥 [APOD] Title: Galaxies in the 
 INFO     2026-03-22 02:55:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg
 INFO     2026-03-22 02:55:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-22 05:57:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-22 05:57:18 [scraper.py:47] 📥 [APOD] Title: Leaving Earth
+INFO     2026-03-22 05:57:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4
+INFO     2026-03-22 05:57:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -23446,3 +23446,36 @@ INFO     2026-03-22 02:55:58 [scraper.py:171] 🔗 [HN #10] URL: https://nchagne
 INFO     2026-03-22 02:55:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-22 02:55:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-22 05:57:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-22 05:57:18 [scraper.py:170] 📥 [HN #1] The Three Pillars of JavaScript Bloat
+INFO     2026-03-22 05:57:18 [scraper.py:171] 🔗 [HN #1] URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat
+INFO     2026-03-22 05:57:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-22 05:57:18 [scraper.py:170] 📥 [HN #2] Tinybox – Offline AI device 120B parameters
+INFO     2026-03-22 05:57:18 [scraper.py:171] 🔗 [HN #2] URL: https://tinygrad.org/#tinybox
+INFO     2026-03-22 05:57:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-22 05:57:18 [scraper.py:170] 📥 [HN #3] Some things just take time
+INFO     2026-03-22 05:57:18 [scraper.py:171] 🔗 [HN #3] URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+INFO     2026-03-22 05:57:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-22 05:57:18 [scraper.py:170] 📥 [HN #4] Chest Fridge (2009)
+INFO     2026-03-22 05:57:18 [scraper.py:171] 🔗 [HN #4] URL: https://mtbest.net/chest-fridge/
+INFO     2026-03-22 05:57:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-22 05:57:19 [scraper.py:170] 📥 [HN #5] Professional video editing, right in the browser with WebGPU and WASM
+INFO     2026-03-22 05:57:19 [scraper.py:171] 🔗 [HN #5] URL: https://tooscut.app/
+INFO     2026-03-22 05:57:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-22 05:57:19 [scraper.py:170] 📥 [HN #6] Floci – A free, open-source local AWS emulator
+INFO     2026-03-22 05:57:19 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/hectorvent/floci
+INFO     2026-03-22 05:57:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-22 05:57:19 [scraper.py:170] 📥 [HN #7] Boomloom: Think with your hands
+INFO     2026-03-22 05:57:19 [scraper.py:171] 🔗 [HN #7] URL: https://www.theboomloom.com
+INFO     2026-03-22 05:57:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-22 05:57:19 [scraper.py:170] 📥 [HN #8] Sashiko: An agentic Linux kernel code review system
+INFO     2026-03-22 05:57:19 [scraper.py:171] 🔗 [HN #8] URL: https://sashiko.dev/
+INFO     2026-03-22 05:57:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-22 05:57:20 [scraper.py:170] 📥 [HN #9] Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2
+INFO     2026-03-22 05:57:20 [scraper.py:171] 🔗 [HN #9] URL: https://radar.cloudflare.com/domains/domain/archive.today
+INFO     2026-03-22 05:57:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-22 05:57:20 [scraper.py:170] 📥 [HN #10] Do Not Turn Child Protection into Internet Access Control
+INFO     2026-03-22 05:57:20 [scraper.py:171] 🔗 [HN #10] URL: https://news.dyne.org/child-protection-is-not-access-control/
+INFO     2026-03-22 05:57:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-22 05:57:20 [scraper.py:178] 🎉 [HN] All done.
+
