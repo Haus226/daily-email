@@ -3525,3 +3525,8 @@ INFO     2026-03-22 05:57:18 [scraper.py:47] 📥 [APOD] Title: Leaving Earth
 INFO     2026-03-22 05:57:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4
 INFO     2026-03-22 05:57:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-22 10:29:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-22 10:29:10 [scraper.py:47] 📥 [APOD] Title: Leaving Earth
+INFO     2026-03-22 10:29:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4
+INFO     2026-03-22 10:29:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

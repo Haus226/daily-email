@@ -23479,3 +23479,36 @@ INFO     2026-03-22 05:57:20 [scraper.py:171] 🔗 [HN #10] URL: https://news.dy
 INFO     2026-03-22 05:57:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-22 05:57:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-22 10:29:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #1] Hormuz Minesweeper – Are you tired of winning?
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #1] URL: https://hormuz.pythonic.ninja/
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #2] The three pillars of JavaScript bloat
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #2] URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #3] My first patch to the Linux kernel
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #3] URL: https://pooladkhay.com/posts/first-kernel-patch/
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #4] Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #4] URL: https://zenodo.org/records/18976656
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #5] Tinybox – A powerful computer for deep learning
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #5] URL: https://tinygrad.org/#tinybox
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #6] Some things just take time
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #6] URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #7] Chest Fridge (2009)
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #7] URL: https://mtbest.net/chest-fridge/
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-22 10:29:10 [scraper.py:170] 📥 [HN #8] 25 Years of Eggs
+INFO     2026-03-22 10:29:10 [scraper.py:171] 🔗 [HN #8] URL: https://www.john-rush.com/posts/eggs-25-years-20260219.html
+INFO     2026-03-22 10:29:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-22 10:29:11 [scraper.py:170] 📥 [HN #9] Professional video editing, right in the browser with WebGPU and WASM
+INFO     2026-03-22 10:29:11 [scraper.py:171] 🔗 [HN #9] URL: https://tooscut.app/
+INFO     2026-03-22 10:29:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-22 10:29:11 [scraper.py:170] 📥 [HN #10] Floci – A free, open-source local AWS emulator
+INFO     2026-03-22 10:29:11 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/hectorvent/floci
+INFO     2026-03-22 10:29:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-22 10:29:11 [scraper.py:178] 🎉 [HN] All done.
+
