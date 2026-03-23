@@ -23512,3 +23512,36 @@ INFO     2026-03-22 10:29:11 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-22 10:29:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-22 10:29:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-23 03:00:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-23 03:00:39 [scraper.py:170] 📥 [HN #1] PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+INFO     2026-03-23 03:00:39 [scraper.py:171] 🔗 [HN #1] URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+INFO     2026-03-23 03:00:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #2] The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #2] URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #3] Intuitions for Tranformer Circuits
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #3] URL: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #4] The hottest new phone is Tin Can, a 'landline' for kids
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #4] URL: https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #5] The future of version control
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #5] URL: https://bramcohen.com/p/manyana
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #6] Reports of code's death are greatly exaggerated
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #6] URL: https://stevekrouse.com/precision
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-23 03:00:40 [scraper.py:170] 📥 [HN #7] Why I love NixOS
+INFO     2026-03-23 03:00:40 [scraper.py:171] 🔗 [HN #7] URL: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+INFO     2026-03-23 03:00:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-23 03:00:41 [scraper.py:170] 📥 [HN #8] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos
+INFO     2026-03-23 03:00:41 [scraper.py:171] 🔗 [HN #8] URL: https://bay41.com/posts/tiiny-ai-pocket-lab-review/
+INFO     2026-03-23 03:00:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-23 03:00:41 [scraper.py:170] 📥 [HN #9] Project Nomad – Knowledge That Never Goes Offline
+INFO     2026-03-23 03:00:41 [scraper.py:171] 🔗 [HN #9] URL: https://www.projectnomad.us
+INFO     2026-03-23 03:00:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-23 03:00:41 [scraper.py:170] 📥 [HN #10] They're Vibe-Coding Spam Now
+INFO     2026-03-23 03:00:41 [scraper.py:171] 🔗 [HN #10] URL: https://tedium.co/2026/02/25/vibe-coded-email-spam/
+INFO     2026-03-23 03:00:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-23 03:00:41 [scraper.py:178] 🎉 [HN] All done.
+
