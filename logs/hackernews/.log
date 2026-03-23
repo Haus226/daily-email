@@ -23545,3 +23545,36 @@ INFO     2026-03-23 03:00:41 [scraper.py:171] 🔗 [HN #10] URL: https://tedium.
 INFO     2026-03-23 03:00:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-23 03:00:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-23 06:12:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-23 06:12:27 [scraper.py:170] 📥 [HN #1] PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+INFO     2026-03-23 06:12:27 [scraper.py:171] 🔗 [HN #1] URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+INFO     2026-03-23 06:12:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-23 06:12:27 [scraper.py:170] 📥 [HN #2] The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
+INFO     2026-03-23 06:12:27 [scraper.py:171] 🔗 [HN #2] URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
+INFO     2026-03-23 06:12:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-23 06:12:28 [scraper.py:170] 📥 [HN #3] Tin Can, a 'landline' for kids
+INFO     2026-03-23 06:12:28 [scraper.py:171] 🔗 [HN #3] URL: https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9
+INFO     2026-03-23 06:12:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-23 06:12:28 [scraper.py:170] 📥 [HN #4] The future of version control
+INFO     2026-03-23 06:12:28 [scraper.py:171] 🔗 [HN #4] URL: https://bramcohen.com/p/manyana
+INFO     2026-03-23 06:12:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-23 06:12:28 [scraper.py:170] 📥 [HN #5] Reports of code's death are greatly exaggerated
+INFO     2026-03-23 06:12:28 [scraper.py:171] 🔗 [HN #5] URL: https://stevekrouse.com/precision
+INFO     2026-03-23 06:12:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-23 06:12:28 [scraper.py:170] 📥 [HN #6] Can you get root with only a cigarette lighter? (2024)
+INFO     2026-03-23 06:12:28 [scraper.py:171] 🔗 [HN #6] URL: https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html
+INFO     2026-03-23 06:12:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-23 06:12:28 [scraper.py:170] 📥 [HN #7] Why I love NixOS
+INFO     2026-03-23 06:12:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+INFO     2026-03-23 06:12:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-23 06:12:29 [scraper.py:170] 📥 [HN #8] A Copy-Paste Bug That Broke PSpice AES-256 Encryption
+INFO     2026-03-23 06:12:29 [scraper.py:171] 🔗 [HN #8] URL: https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness
+INFO     2026-03-23 06:12:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-23 06:12:29 [scraper.py:170] 📥 [HN #9] Project Nomad – Knowledge That Never Goes Offline
+INFO     2026-03-23 06:12:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.projectnomad.us
+INFO     2026-03-23 06:12:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-23 06:12:29 [scraper.py:170] 📥 [HN #10] Flash-MoE: Running a 397B Parameter Model on a Laptop
+INFO     2026-03-23 06:12:29 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/danveloper/flash-moe
+INFO     2026-03-23 06:12:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-23 06:12:29 [scraper.py:178] 🎉 [HN] All done.
+

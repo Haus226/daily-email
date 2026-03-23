@@ -3535,3 +3535,8 @@ INFO     2026-03-23 03:00:39 [scraper.py:47] 📥 [APOD] Title: Leaving Earth
 INFO     2026-03-23 03:00:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4
 INFO     2026-03-23 03:00:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-23 06:12:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-23 06:12:27 [scraper.py:47] 📥 [APOD] Title: Light Pillars and Orion over Mohe
+INFO     2026-03-23 06:12:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg
+INFO     2026-03-23 06:12:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
