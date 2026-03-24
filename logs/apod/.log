@@ -3550,3 +3550,8 @@ INFO     2026-03-24 02:47:47 [scraper.py:47] 📥 [APOD] Title: Light Pillars an
 INFO     2026-03-24 02:47:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg
 INFO     2026-03-24 02:47:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-24 06:03:19 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-24 06:03:19 [scraper.py:47] 📥 [APOD] Title: A Gravity Map of Earth
+INFO     2026-03-24 06:03:19 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4
+INFO     2026-03-24 06:03:19 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
