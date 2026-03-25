@@ -23776,3 +23776,36 @@ INFO     2026-03-25 06:04:48 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-25 06:04:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-25 06:04:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-25 10:51:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-25 10:51:00 [scraper.py:170] 📥 [HN #1] Meta told to pay $375M for misleading users over child safety
+INFO     2026-03-25 10:51:00 [scraper.py:171] 🔗 [HN #1] URL: https://www.bbc.com/news/articles/cql75dn07n2o
+INFO     2026-03-25 10:51:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-25 10:51:00 [scraper.py:170] 📥 [HN #2] I tried to prove I'm not AI. My aunt wasn't convinced
+INFO     2026-03-25 10:51:00 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake
+INFO     2026-03-25 10:51:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-25 10:51:01 [scraper.py:170] 📥 [HN #3] TurboQuant: Redefining AI efficiency with extreme compression
+INFO     2026-03-25 10:51:01 [scraper.py:171] 🔗 [HN #3] URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+INFO     2026-03-25 10:51:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-25 10:51:01 [scraper.py:170] 📥 [HN #4] VitruvianOS – Desktop Linux Inspired by the BeOS
+INFO     2026-03-25 10:51:01 [scraper.py:171] 🔗 [HN #4] URL: https://v-os.dev
+INFO     2026-03-25 10:51:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-25 10:51:01 [scraper.py:170] 📥 [HN #5] Goodbye to Sora
+INFO     2026-03-25 10:51:01 [scraper.py:171] 🔗 [HN #5] URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+INFO     2026-03-25 10:51:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-25 10:51:01 [scraper.py:170] 📥 [HN #6] Looking at Unity made me understand the point of C++ coroutines
+INFO     2026-03-25 10:51:01 [scraper.py:171] 🔗 [HN #6] URL: https://mropert.github.io/2026/03/20/unity_cpp_coroutines/
+INFO     2026-03-25 10:51:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-25 10:51:02 [scraper.py:170] 📥 [HN #7] Flighty Airports
+INFO     2026-03-25 10:51:02 [scraper.py:171] 🔗 [HN #7] URL: https://flighty.com/airports
+INFO     2026-03-25 10:51:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-25 10:51:02 [scraper.py:170] 📥 [HN #8] Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+INFO     2026-03-25 10:51:02 [scraper.py:171] 🔗 [HN #8] URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+INFO     2026-03-25 10:51:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-25 10:51:02 [scraper.py:170] 📥 [HN #9] In Edison’s Revenge, Data Centers Are Transitioning From AC to DC
+INFO     2026-03-25 10:51:02 [scraper.py:171] 🔗 [HN #9] URL: https://spectrum.ieee.org/data-center-dc
+INFO     2026-03-25 10:51:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-25 10:51:02 [scraper.py:170] 📥 [HN #10] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+INFO     2026-03-25 10:51:02 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/BerriAI/litellm/issues/24512
+INFO     2026-03-25 10:51:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-25 10:51:02 [scraper.py:178] 🎉 [HN] All done.
+

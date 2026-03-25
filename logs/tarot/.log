@@ -3578,3 +3578,8 @@ INFO     2026-03-25 06:04:46 [scraper.py:390] 📥 [TAROT] Card: Fortitude
 INFO     2026-03-25 06:04:46 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-03-25 06:04:46 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-03-25 10:51:00 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-03-25 10:51:00 [scraper.py:390] 📥 [TAROT] Card: Fortitude
+INFO     2026-03-25 10:51:00 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-03-25 10:51:00 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

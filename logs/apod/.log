@@ -3570,3 +3570,8 @@ INFO     2026-03-25 06:04:46 [scraper.py:47] 📥 [APOD] Title: The Guardians of
 INFO     2026-03-25 06:04:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg
 INFO     2026-03-25 06:04:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-25 10:51:00 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-25 10:51:00 [scraper.py:47] 📥 [APOD] Title: The Guardians of Rapa Nui beneath the Milky Way
+INFO     2026-03-25 10:51:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg
+INFO     2026-03-25 10:51:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
