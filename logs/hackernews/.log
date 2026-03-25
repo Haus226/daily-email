@@ -23710,3 +23710,36 @@ INFO     2026-03-24 10:53:18 [scraper.py:171] 🔗 [HN #10] URL: https://qitejs.
 INFO     2026-03-24 10:53:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-24 10:53:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-25 02:52:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-25 02:52:16 [scraper.py:170] 📥 [HN #1] In Edison’s Revenge, Data Centers Are Transitioning From AC to DC
+INFO     2026-03-25 02:52:16 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/data-center-dc
+INFO     2026-03-25 02:52:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-25 02:52:17 [scraper.py:170] 📥 [HN #2] Flighty Airports
+INFO     2026-03-25 02:52:17 [scraper.py:171] 🔗 [HN #2] URL: https://flighty.com/airports
+INFO     2026-03-25 02:52:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-25 02:52:17 [scraper.py:170] 📥 [HN #3] Goodbye to Sora
+INFO     2026-03-25 02:52:17 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+INFO     2026-03-25 02:52:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-25 02:52:17 [scraper.py:170] 📥 [HN #4] I wanted to build vertical SaaS for pest control, so I took a technician job
+INFO     2026-03-25 02:52:17 [scraper.py:171] 🔗 [HN #4] URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
+INFO     2026-03-25 02:52:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-25 02:52:17 [scraper.py:170] 📥 [HN #5] Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+INFO     2026-03-25 02:52:17 [scraper.py:171] 🔗 [HN #5] URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+INFO     2026-03-25 02:52:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:170] 📥 [HN #6] Apple Business
+INFO     2026-03-25 02:52:18 [scraper.py:171] 🔗 [HN #6] URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+INFO     2026-03-25 02:52:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:170] 📥 [HN #7] Arm AGI CPU
+INFO     2026-03-25 02:52:18 [scraper.py:171] 🔗 [HN #7] URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+INFO     2026-03-25 02:52:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:170] 📥 [HN #8] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+INFO     2026-03-25 02:52:18 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/BerriAI/litellm/issues/24512
+INFO     2026-03-25 02:52:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:170] 📥 [HN #9] An Aural Companion for Decades, CBS News Radio Crackles to a Close
+INFO     2026-03-25 02:52:18 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html
+INFO     2026-03-25 02:52:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:170] 📥 [HN #10] Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types
+INFO     2026-03-25 02:52:18 [scraper.py:171] 🔗 [HN #10] URL: https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/
+INFO     2026-03-25 02:52:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-25 02:52:18 [scraper.py:178] 🎉 [HN] All done.
+

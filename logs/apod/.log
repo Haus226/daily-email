@@ -3560,3 +3560,8 @@ INFO     2026-03-24 10:53:16 [scraper.py:47] 📥 [APOD] Title: A Gravity Map of
 INFO     2026-03-24 10:53:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4
 INFO     2026-03-24 10:53:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-25 02:52:16 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-25 02:52:16 [scraper.py:47] 📥 [APOD] Title: A Gravity Map of Earth
+INFO     2026-03-25 02:52:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4
+INFO     2026-03-25 02:52:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
