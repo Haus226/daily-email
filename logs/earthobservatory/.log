@@ -9065,3 +9065,24 @@ INFO     2026-03-26 03:17:39 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-26 03:17:39 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-26 06:13:53 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 06:13:54 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 06:13:54 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 06:13:54 [scraper.py:133] 📥 [EO] Title: A Hot Start to Spring in the Southwest
+INFO     2026-03-26 06:13:54 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-hot-start-to-spring-in-the-southwest/swheatwave_gmao_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 06:13:54 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-26 06:13:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 06:13:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 06:13:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 06:13:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 06:13:56 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 06:13:56 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 06:13:56 [scraper.py:133] 📥 [EO] Title: A Hot Start to Spring in the Southwest
+INFO     2026-03-26 06:13:56 [scraper.py:133] 📥 [EO] Title: A Hot Start to Spring in the Southwest
+INFO     2026-03-26 06:13:56 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-hot-start-to-spring-in-the-southwest/swheatwave_gmao_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 06:13:56 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-hot-start-to-spring-in-the-southwest/swheatwave_gmao_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 06:13:56 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-26 06:13:56 [scraper.py:154] ✅ [EO] Successfully fetched.
+
