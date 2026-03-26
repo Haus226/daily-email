@@ -3585,3 +3585,8 @@ INFO     2026-03-26 06:13:55 [scraper.py:47] 📥 [APOD] Title: Black Holes and 
 INFO     2026-03-26 06:13:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 INFO     2026-03-26 06:13:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-26 10:52:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-26 10:52:49 [scraper.py:47] 📥 [APOD] Title: Black Holes and Neutron Stars: 218 Mergers and Counting
+INFO     2026-03-26 10:52:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
+INFO     2026-03-26 10:52:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
