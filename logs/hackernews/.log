@@ -23809,3 +23809,36 @@ INFO     2026-03-25 10:51:02 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-25 10:51:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-25 10:51:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-26 03:17:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-26 03:17:38 [scraper.py:170] 📥 [HN #1] Running Tesla Model 3's computer on my desk using parts from crashed cars
+INFO     2026-03-26 03:17:38 [scraper.py:171] 🔗 [HN #1] URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+INFO     2026-03-26 03:17:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-26 03:17:38 [scraper.py:170] 📥 [HN #2] False claims in a widely-cited paper. No corrections. No consequences
+INFO     2026-03-26 03:17:38 [scraper.py:171] 🔗 [HN #2] URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259
+INFO     2026-03-26 03:17:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-26 03:17:38 [scraper.py:170] 📥 [HN #3] ARC-AGI-3
+INFO     2026-03-26 03:17:38 [scraper.py:171] 🔗 [HN #3] URL: https://arcprize.org/arc-agi/3
+INFO     2026-03-26 03:17:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #4] Two Studies in Compiler Optimisations
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #4] URL: https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #5] My astrophotography in the movie Project Hail Mary
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #5] URL: https://rpastro.square.site/s/stories/phm
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #6] Earthquake scientists reveal how overplowing weakens soil at experimental farm
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #6] URL: https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #7] The EU still wants to scan  your private messages and photos
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #7] URL: https://fightchatcontrol.eu/?foo=bar
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #8] 90% of Claude-linked output going to GitHub repos w <2 stars
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #8] URL: https://www.claudescode.dev/?window=since_launch
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-26 03:17:39 [scraper.py:170] 📥 [HN #9] My DIY FPGA board can run Quake II
+INFO     2026-03-26 03:17:39 [scraper.py:171] 🔗 [HN #9] URL: https://blog.mikhe.ch/quake2-on-fpga/part4.html
+INFO     2026-03-26 03:17:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-26 03:17:40 [scraper.py:170] 📥 [HN #10] Supreme Court Sides with Cox in Copyright Fight over Pirated Music
+INFO     2026-03-26 03:17:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html
+INFO     2026-03-26 03:17:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-26 03:17:40 [scraper.py:178] 🎉 [HN] All done.
+

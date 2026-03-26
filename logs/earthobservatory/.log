@@ -9044,3 +9044,24 @@ INFO     2026-03-25 10:51:01 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-25 10:51:01 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-26 03:17:35 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 03:17:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 03:17:37 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 03:17:37 [scraper.py:133] 📥 [EO] Title: Kona Storms Flood Oʻahu
+INFO     2026-03-26 03:17:37 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/kona-storms-flood-o'ahu/oahu_oli2_20260314_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 03:17:37 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-26 03:17:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 03:17:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-26 03:17:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 03:17:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-26 03:17:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 03:17:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-26 03:17:39 [scraper.py:133] 📥 [EO] Title: Kona Storms Flood Oʻahu
+INFO     2026-03-26 03:17:39 [scraper.py:133] 📥 [EO] Title: Kona Storms Flood Oʻahu
+INFO     2026-03-26 03:17:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/kona-storms-flood-o'ahu/oahu_oli2_20260314_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 03:17:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/kona-storms-flood-o'ahu/oahu_oli2_20260314_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-26 03:17:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-26 03:17:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+
