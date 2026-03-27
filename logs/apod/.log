@@ -3595,3 +3595,8 @@ INFO     2026-03-27 03:20:53 [scraper.py:47] 📥 [APOD] Title: Black Holes and 
 INFO     2026-03-27 03:20:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 INFO     2026-03-27 03:20:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-27 06:14:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-27 06:14:35 [scraper.py:47] 📥 [APOD] Title: Hickson 44 in Leo
+INFO     2026-03-27 06:14:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg
+INFO     2026-03-27 06:14:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
