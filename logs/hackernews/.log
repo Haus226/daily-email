@@ -23974,3 +23974,36 @@ INFO     2026-03-27 06:14:37 [scraper.py:171] 🔗 [HN #10] URL: https://futures
 INFO     2026-03-27 06:14:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-27 06:14:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-27 10:51:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-27 10:51:17 [scraper.py:170] 📥 [HN #1] Hold on to Your Hardware
+INFO     2026-03-27 10:51:17 [scraper.py:171] 🔗 [HN #1] URL: https://xn--gckvb8fzb.com/hold-on-to-your-hardware/
+INFO     2026-03-27 10:51:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-27 10:51:17 [scraper.py:170] 📥 [HN #2] A Faster Alternative to Jq
+INFO     2026-03-27 10:51:17 [scraper.py:171] 🔗 [HN #2] URL: https://micahkepe.com/blog/jsongrep/
+INFO     2026-03-27 10:51:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-27 10:51:18 [scraper.py:170] 📥 [HN #3] Schedule tasks on the web
+INFO     2026-03-27 10:51:18 [scraper.py:171] 🔗 [HN #3] URL: https://code.claude.com/docs/en/web-scheduled-tasks
+INFO     2026-03-27 10:51:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-27 10:51:18 [scraper.py:170] 📥 [HN #4] Should QA Exist
+INFO     2026-03-27 10:51:18 [scraper.py:171] 🔗 [HN #4] URL: https://www.rubick.com/should-qa-exist/
+INFO     2026-03-27 10:51:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-27 10:51:18 [scraper.py:170] 📥 [HN #5] The European AllSky7 fireball network
+INFO     2026-03-27 10:51:18 [scraper.py:171] 🔗 [HN #5] URL: https://www.allsky7.net/#archive
+INFO     2026-03-27 10:51:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-27 10:51:18 [scraper.py:170] 📥 [HN #6] Apple discontinues the Mac Pro
+INFO     2026-03-27 10:51:18 [scraper.py:171] 🔗 [HN #6] URL: https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/
+INFO     2026-03-27 10:51:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-27 10:51:19 [scraper.py:170] 📥 [HN #7] Why so many control rooms were seafoam green (2025)
+INFO     2026-03-27 10:51:19 [scraper.py:171] 🔗 [HN #7] URL: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam
+INFO     2026-03-27 10:51:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-27 10:51:19 [scraper.py:170] 📥 [HN #8] Everything old is new again: memory optimization
+INFO     2026-03-27 10:51:19 [scraper.py:171] 🔗 [HN #8] URL: https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html
+INFO     2026-03-27 10:51:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-27 10:51:19 [scraper.py:170] 📥 [HN #9] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer
+INFO     2026-03-27 10:51:19 [scraper.py:171] 🔗 [HN #9] URL: https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/
+INFO     2026-03-27 10:51:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-27 10:51:19 [scraper.py:170] 📥 [HN #10] QRV Operating System: QNX on RISC-V
+INFO     2026-03-27 10:51:19 [scraper.py:171] 🔗 [HN #10] URL: https://r-tty.blogspot.com/2026/03/qrv-operating-system-first-publication.html
+INFO     2026-03-27 10:51:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-27 10:51:19 [scraper.py:178] 🎉 [HN] All done.
+
