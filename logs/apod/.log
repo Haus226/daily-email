@@ -3610,3 +3610,8 @@ INFO     2026-03-28 02:51:10 [scraper.py:47] 📥 [APOD] Title: Hickson 44 in Le
 INFO     2026-03-28 02:51:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/NGC3190-APOD1024.jpg
 INFO     2026-03-28 02:51:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-28 06:00:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-28 06:00:47 [scraper.py:47] 📥 [APOD] Title: Robert Goddard and Nell
+INFO     2026-03-28 06:00:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/goddardphotop9-1_800.jpg
+INFO     2026-03-28 06:00:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
