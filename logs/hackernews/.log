@@ -24073,3 +24073,36 @@ INFO     2026-03-28 06:00:49 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-28 06:00:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-28 06:00:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-28 10:34:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-28 10:34:28 [scraper.py:170] 📥 [HN #1] CERN uses tiny AI models burned into silicon for real-time LHC data filtering
+INFO     2026-03-28 10:34:28 [scraper.py:171] 🔗 [HN #1] URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+INFO     2026-03-28 10:34:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-28 10:34:28 [scraper.py:170] 📥 [HN #2] Go hard on agents, not on your filesystem
+INFO     2026-03-28 10:34:28 [scraper.py:171] 🔗 [HN #2] URL: https://jai.scs.stanford.edu/
+INFO     2026-03-28 10:34:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-28 10:34:28 [scraper.py:170] 📥 [HN #3] AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip
+INFO     2026-03-28 10:34:28 [scraper.py:171] 🔗 [HN #3] URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
+INFO     2026-03-28 10:34:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-28 10:34:28 [scraper.py:170] 📥 [HN #4] Matadisco – Decentralized Data Discovery
+INFO     2026-03-28 10:34:28 [scraper.py:171] 🔗 [HN #4] URL: https://matadisco.org/
+INFO     2026-03-28 10:34:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #5] Make macOS consistently bad unironically
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #5] URL: https://lr0.org/blog/p/macos/
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #6] The bee that everyone wants to save
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #6] URL: https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #7] Trust Signals as Sparklines for Hacker News
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #7] URL: https://hn-trustspark.com/
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #8] LG's new 1Hz display is the secret behind a new laptop's battery life
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #8] URL: https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #9] Anatomy of the .claude/ folder
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #9] URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:170] 📥 [HN #10] Show HN: Twitch Roulette – Find live streamers who need views the most
+INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #10] URL: https://twitchroulette.net/
+INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-28 10:34:29 [scraper.py:178] 🎉 [HN] All done.
+
