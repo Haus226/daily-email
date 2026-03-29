@@ -24106,3 +24106,36 @@ INFO     2026-03-28 10:34:29 [scraper.py:171] 🔗 [HN #10] URL: https://twitchr
 INFO     2026-03-28 10:34:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-28 10:34:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-29 03:25:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-29 03:25:29 [scraper.py:170] 📥 [HN #1] Founder of GitLab battles cancer by founding companies
+INFO     2026-03-29 03:25:29 [scraper.py:171] 🔗 [HN #1] URL: https://sytse.com/cancer/
+INFO     2026-03-29 03:25:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-29 03:25:29 [scraper.py:170] 📥 [HN #2] CSS is DOOMed
+INFO     2026-03-29 03:25:29 [scraper.py:171] 🔗 [HN #2] URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+INFO     2026-03-29 03:25:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-29 03:25:30 [scraper.py:170] 📥 [HN #3] AI overly affirms users asking for personal advice
+INFO     2026-03-29 03:25:30 [scraper.py:171] 🔗 [HN #3] URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+INFO     2026-03-29 03:25:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-29 03:25:30 [scraper.py:170] 📥 [HN #4] Alzheimer's disease mortality among taxi and ambulance drivers (2024)
+INFO     2026-03-29 03:25:30 [scraper.py:171] 🔗 [HN #4] URL: https://www.bmj.com/content/387/bmj-2024-082194
+INFO     2026-03-29 03:25:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-29 03:25:30 [scraper.py:170] 📥 [HN #5] OpenBSD on Motorola 88000 Processors
+INFO     2026-03-29 03:25:30 [scraper.py:171] 🔗 [HN #5] URL: http://miod.online.fr/software/openbsd/stories/m88k1.html
+INFO     2026-03-29 03:25:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-29 03:25:30 [scraper.py:170] 📥 [HN #6] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
+INFO     2026-03-29 03:25:30 [scraper.py:171] 🔗 [HN #6] URL: https://twitter.com/BoWang87/status/2037648937453232504
+INFO     2026-03-29 03:25:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-29 03:25:31 [scraper.py:170] 📥 [HN #7] The 667MHz Machine
+INFO     2026-03-29 03:25:31 [scraper.py:171] 🔗 [HN #7] URL: https://www.0xsid.com/blog/667mhz-machine
+INFO     2026-03-29 03:25:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-29 03:25:31 [scraper.py:170] 📥 [HN #8] A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)
+INFO     2026-03-29 03:25:31 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/ben-j-c/verilog2factorio
+INFO     2026-03-29 03:25:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-29 03:25:31 [scraper.py:170] 📥 [HN #9] South Korea Mandates Solar Panels for Public Parking Lots
+INFO     2026-03-29 03:25:31 [scraper.py:171] 🔗 [HN #9] URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
+INFO     2026-03-29 03:25:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-29 03:25:31 [scraper.py:170] 📥 [HN #10] I decompiled the White House's new app
+INFO     2026-03-29 03:25:31 [scraper.py:171] 🔗 [HN #10] URL: https://thereallo.dev/blog/decompiling-the-white-house-app
+INFO     2026-03-29 03:25:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-29 03:25:31 [scraper.py:178] 🎉 [HN] All done.
+
