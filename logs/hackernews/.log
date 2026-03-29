@@ -24172,3 +24172,36 @@ INFO     2026-03-29 06:13:06 [scraper.py:171] 🔗 [HN #10] URL: https://thereal
 INFO     2026-03-29 06:13:06 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-29 06:13:06 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-29 10:35:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-29 10:35:34 [scraper.py:170] 📥 [HN #1] Founder of GitLab battles cancer by founding companies
+INFO     2026-03-29 10:35:34 [scraper.py:171] 🔗 [HN #1] URL: https://sytse.com/cancer/
+INFO     2026-03-29 10:35:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-29 10:35:34 [scraper.py:170] 📥 [HN #2] The road to electric – in charts and data [UK]
+INFO     2026-03-29 10:35:34 [scraper.py:171] 🔗 [HN #2] URL: https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/
+INFO     2026-03-29 10:35:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-29 10:35:35 [scraper.py:170] 📥 [HN #3] Technology: The (nearly) perfect USB cable tester does exist
+INFO     2026-03-29 10:35:35 [scraper.py:171] 🔗 [HN #3] URL: https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/
+INFO     2026-03-29 10:35:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-29 10:35:35 [scraper.py:170] 📥 [HN #4] AI overly affirms users asking for personal advice
+INFO     2026-03-29 10:35:35 [scraper.py:171] 🔗 [HN #4] URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+INFO     2026-03-29 10:35:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-29 10:35:35 [scraper.py:170] 📥 [HN #5] CSS is DOOMed
+INFO     2026-03-29 10:35:35 [scraper.py:171] 🔗 [HN #5] URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+INFO     2026-03-29 10:35:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-29 10:35:35 [scraper.py:170] 📥 [HN #6] The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)
+INFO     2026-03-29 10:35:35 [scraper.py:171] 🔗 [HN #6] URL: https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/
+INFO     2026-03-29 10:35:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-29 10:35:36 [scraper.py:170] 📥 [HN #7] Solar is winning the energy race
+INFO     2026-03-29 10:35:36 [scraper.py:171] 🔗 [HN #7] URL: https://www.dw.com/en/solar-is-winning-the-energy-race/a-76517556
+INFO     2026-03-29 10:35:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-29 10:35:36 [scraper.py:170] 📥 [HN #8] Alzheimer's disease mortality among taxi and ambulance drivers (2024)
+INFO     2026-03-29 10:35:36 [scraper.py:171] 🔗 [HN #8] URL: https://www.bmj.com/content/387/bmj-2024-082194
+INFO     2026-03-29 10:35:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-29 10:35:36 [scraper.py:170] 📥 [HN #9] I turned my Kindle into my own personal newspaper
+INFO     2026-03-29 10:35:36 [scraper.py:171] 🔗 [HN #9] URL: https://manualdousuario.net/en/how-to-kindle-personal-newspaper/
+INFO     2026-03-29 10:35:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-29 10:35:36 [scraper.py:170] 📥 [HN #10] Nonfiction Publishing, Under Threat, Is More Important
+INFO     2026-03-29 10:35:36 [scraper.py:171] 🔗 [HN #10] URL: https://newrepublic.com/article/207659/non-fiction-publishing-threat-important-ever
+INFO     2026-03-29 10:35:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-29 10:35:36 [scraper.py:178] 🎉 [HN] All done.
+
