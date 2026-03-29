@@ -24139,3 +24139,36 @@ INFO     2026-03-29 03:25:31 [scraper.py:171] 🔗 [HN #10] URL: https://thereal
 INFO     2026-03-29 03:25:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-29 03:25:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-29 06:13:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-29 06:13:04 [scraper.py:170] 📥 [HN #1] OpenYak – An open-source Cowork that runs any model and owns your filesystem
+INFO     2026-03-29 06:13:04 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/openyak/desktop
+INFO     2026-03-29 06:13:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-29 06:13:04 [scraper.py:170] 📥 [HN #2] Founder of GitLab battles cancer by founding companies
+INFO     2026-03-29 06:13:04 [scraper.py:171] 🔗 [HN #2] URL: https://sytse.com/cancer/
+INFO     2026-03-29 06:13:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-29 06:13:04 [scraper.py:170] 📥 [HN #3] CSS is DOOMed
+INFO     2026-03-29 06:13:04 [scraper.py:171] 🔗 [HN #3] URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+INFO     2026-03-29 06:13:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-29 06:13:05 [scraper.py:170] 📥 [HN #4] AI overly affirms users asking for personal advice
+INFO     2026-03-29 06:13:05 [scraper.py:171] 🔗 [HN #4] URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+INFO     2026-03-29 06:13:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-29 06:13:05 [scraper.py:170] 📥 [HN #5] Alzheimer's disease mortality among taxi and ambulance drivers (2024)
+INFO     2026-03-29 06:13:05 [scraper.py:171] 🔗 [HN #5] URL: https://www.bmj.com/content/387/bmj-2024-082194
+INFO     2026-03-29 06:13:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-29 06:13:05 [scraper.py:170] 📥 [HN #6] The case for becoming a manager
+INFO     2026-03-29 06:13:05 [scraper.py:171] 🔗 [HN #6] URL: https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager
+INFO     2026-03-29 06:13:05 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-29 06:13:05 [scraper.py:170] 📥 [HN #7] A Verilog to Factorio Compiler and Simulator (Working RISC-V CPU)
+INFO     2026-03-29 06:13:05 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/ben-j-c/verilog2factorio
+INFO     2026-03-29 06:13:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-29 06:13:05 [scraper.py:170] 📥 [HN #8] OpenBSD on Motorola 88000 Processors
+INFO     2026-03-29 06:13:05 [scraper.py:171] 🔗 [HN #8] URL: http://miod.online.fr/software/openbsd/stories/m88k1.html
+INFO     2026-03-29 06:13:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-29 06:13:06 [scraper.py:170] 📥 [HN #9] Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
+INFO     2026-03-29 06:13:06 [scraper.py:171] 🔗 [HN #9] URL: https://twitter.com/BoWang87/status/2037648937453232504
+INFO     2026-03-29 06:13:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-29 06:13:06 [scraper.py:170] 📥 [HN #10] I decompiled the White House's new app
+INFO     2026-03-29 06:13:06 [scraper.py:171] 🔗 [HN #10] URL: https://thereallo.dev/blog/decompiling-the-white-house-app
+INFO     2026-03-29 06:13:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-29 06:13:06 [scraper.py:178] 🎉 [HN] All done.
+
