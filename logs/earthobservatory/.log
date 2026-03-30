@@ -9317,3 +9317,24 @@ INFO     2026-03-30 03:28:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-03-30 03:28:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-03-30 06:54:43 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-30 06:54:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-30 06:54:45 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-30 06:54:45 [scraper.py:133] 📥 [EO] Title: Seeing Blue During Schirmacher’s Summer Melt Season
+INFO     2026-03-30 06:54:45 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeing-blue-during-schirmacher's-summer-melt-season/nivlisenicesheet_oli2_20260106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-30 06:54:45 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-30 06:54:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-30 06:54:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-03-30 06:54:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-30 06:54:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-03-30 06:54:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-30 06:54:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-03-30 06:54:47 [scraper.py:133] 📥 [EO] Title: Seeing Blue During Schirmacher’s Summer Melt Season
+INFO     2026-03-30 06:54:47 [scraper.py:133] 📥 [EO] Title: Seeing Blue During Schirmacher’s Summer Melt Season
+INFO     2026-03-30 06:54:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeing-blue-during-schirmacher's-summer-melt-season/nivlisenicesheet_oli2_20260106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-30 06:54:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeing-blue-during-schirmacher's-summer-melt-season/nivlisenicesheet_oli2_20260106_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-03-30 06:54:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-03-30 06:54:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
