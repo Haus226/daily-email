@@ -24370,3 +24370,36 @@ INFO     2026-03-31 06:18:09 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-03-31 06:18:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-31 06:18:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-31 10:53:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-31 10:53:50 [scraper.py:170] 📥 [HN #1] Axios compromised on NPM – Malicious versions drop remote access trojan
+INFO     2026-03-31 10:53:50 [scraper.py:171] 🔗 [HN #1] URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
+INFO     2026-03-31 10:53:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-31 10:53:50 [scraper.py:170] 📥 [HN #2] Ollama is now powered by MLX on Apple Silicon in preview
+INFO     2026-03-31 10:53:50 [scraper.py:171] 🔗 [HN #2] URL: https://ollama.com/blog/mlx
+INFO     2026-03-31 10:53:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-31 10:53:50 [scraper.py:170] 📥 [HN #3] 7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown
+INFO     2026-03-31 10:53:50 [scraper.py:171] 🔗 [HN #3] URL: https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026
+INFO     2026-03-31 10:53:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-31 10:53:50 [scraper.py:170] 📥 [HN #4] Artemis II is not safe to fly
+INFO     2026-03-31 10:53:50 [scraper.py:171] 🔗 [HN #4] URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm
+INFO     2026-03-31 10:53:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-31 10:53:51 [scraper.py:170] 📥 [HN #5] Universal Claude.md – cut Claude output tokens
+INFO     2026-03-31 10:53:51 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/drona23/claude-token-efficient
+INFO     2026-03-31 10:53:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-31 10:53:51 [scraper.py:170] 📥 [HN #6] Claude Code's source code has been leaked via a map file in their NPM registry
+INFO     2026-03-31 10:53:51 [scraper.py:171] 🔗 [HN #6] URL: https://twitter.com/Fried_rice/status/2038894956459290963
+INFO     2026-03-31 10:53:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-31 10:53:51 [scraper.py:170] 📥 [HN #7] Fedware: Government apps that spy harder than the apps they ban
+INFO     2026-03-31 10:53:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/
+INFO     2026-03-31 10:53:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-31 10:53:51 [scraper.py:170] 📥 [HN #8] Google's 200M-parameter time-series foundation model with 16k context
+INFO     2026-03-31 10:53:51 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/google-research/timesfm
+INFO     2026-03-31 10:53:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-31 10:53:51 [scraper.py:170] 📥 [HN #9] Do your own writing
+INFO     2026-03-31 10:53:51 [scraper.py:171] 🔗 [HN #9] URL: https://alexhwoods.com/dont-let-ai-write-for-you/
+INFO     2026-03-31 10:53:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-31 10:53:52 [scraper.py:170] 📥 [HN #10] Clojure: The Documentary, official trailer [video]
+INFO     2026-03-31 10:53:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=JJEyffSdBsk
+INFO     2026-03-31 10:53:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-31 10:53:52 [scraper.py:178] 🎉 [HN] All done.
+
