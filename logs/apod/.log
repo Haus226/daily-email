@@ -3650,3 +3650,8 @@ INFO     2026-03-30 11:03:10 [scraper.py:47] 📥 [APOD] Title: Peculiar Ellipti
 INFO     2026-03-30 11:03:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg
 INFO     2026-03-30 11:03:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-03-31 03:19:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-03-31 03:19:47 [scraper.py:47] 📥 [APOD] Title: Peculiar Elliptical Galaxy Centaurus A
+INFO     2026-03-31 03:19:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg
+INFO     2026-03-31 03:19:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

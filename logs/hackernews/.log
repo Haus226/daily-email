@@ -24304,3 +24304,36 @@ INFO     2026-03-30 11:03:12 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-03-30 11:03:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-30 11:03:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-03-31 03:19:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-03-31 03:19:47 [scraper.py:170] 📥 [HN #1] Universal Claude.md – cut Claude output tokens by 63%
+INFO     2026-03-31 03:19:47 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/drona23/claude-token-efficient
+INFO     2026-03-31 03:19:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-03-31 03:19:47 [scraper.py:170] 📥 [HN #2] Fedware: Government apps that spy harder than the apps they ban
+INFO     2026-03-31 03:19:47 [scraper.py:171] 🔗 [HN #2] URL: https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/
+INFO     2026-03-31 03:19:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #3] Android Developer Verification
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #3] URL: https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #4] Do your own writing
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #4] URL: https://alexhwoods.com/dont-let-ai-write-for-you/
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #5] Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #5] URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #6] Turning a MacBook into a touchscreen with $1 of hardware (2018)
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #6] URL: https://anishathalye.com/macbook-touchscreen/
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #7] How to turn anything into a router
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #7] URL: https://nbailey.ca/post/router/
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-03-31 03:19:48 [scraper.py:170] 📥 [HN #8] Learn Claude Code by doing, not reading
+INFO     2026-03-31 03:19:48 [scraper.py:171] 🔗 [HN #8] URL: https://claude.nagdy.me/
+INFO     2026-03-31 03:19:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-03-31 03:19:49 [scraper.py:170] 📥 [HN #9] Incident March 30th, 2026 – Accidental CDN Caching
+INFO     2026-03-31 03:19:49 [scraper.py:171] 🔗 [HN #9] URL: https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching
+INFO     2026-03-31 03:19:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-03-31 03:19:49 [scraper.py:170] 📥 [HN #10] Agents of Chaos
+INFO     2026-03-31 03:19:49 [scraper.py:171] 🔗 [HN #10] URL: https://agentsofchaos.baulab.info/report.html
+INFO     2026-03-31 03:19:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-03-31 03:19:49 [scraper.py:178] 🎉 [HN] All done.
+
