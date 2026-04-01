@@ -24403,3 +24403,36 @@ INFO     2026-03-31 10:53:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-03-31 10:53:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-03-31 10:53:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-01 03:32:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-01 03:32:41 [scraper.py:170] 📥 [HN #1] We intercepted the White House app's traffic. 77% of requests go to 3rd parties
+INFO     2026-04-01 03:32:41 [scraper.py:171] 🔗 [HN #1] URL: https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/
+INFO     2026-04-01 03:32:41 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-01 03:32:41 [scraper.py:170] 📥 [HN #2] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode
+INFO     2026-04-01 03:32:41 [scraper.py:171] 🔗 [HN #2] URL: https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/
+INFO     2026-04-01 03:32:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-01 03:32:42 [scraper.py:170] 📥 [HN #3] TinyLoRA – Learning to Reason in 13 Parameters
+INFO     2026-04-01 03:32:42 [scraper.py:171] 🔗 [HN #3] URL: https://arxiv.org/abs/2602.04118
+INFO     2026-04-01 03:32:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-01 03:32:42 [scraper.py:170] 📥 [HN #4] TruffleRuby
+INFO     2026-04-01 03:32:42 [scraper.py:171] 🔗 [HN #4] URL: https://chrisseaton.com/truffleruby/
+INFO     2026-04-01 03:32:42 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-01 03:32:42 [scraper.py:170] 📥 [HN #5] U.S. exempts oil industry from protecting Gulf animals, for 'national security'
+INFO     2026-04-01 03:32:42 [scraper.py:171] 🔗 [HN #5] URL: https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security
+INFO     2026-04-01 03:32:42 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-01 03:32:42 [scraper.py:170] 📥 [HN #6] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs
+INFO     2026-04-01 03:32:42 [scraper.py:171] 🔗 [HN #6] URL: https://prismml.com/
+INFO     2026-04-01 03:32:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-01 03:32:42 [scraper.py:170] 📥 [HN #7] Ministack (Replacement for LocalStack)
+INFO     2026-04-01 03:32:42 [scraper.py:171] 🔗 [HN #7] URL: https://ministack.org/
+INFO     2026-04-01 03:32:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-01 03:32:43 [scraper.py:170] 📥 [HN #8] Neanderthals survived on a knife's edge for 350k years
+INFO     2026-04-01 03:32:43 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years
+INFO     2026-04-01 03:32:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-01 03:32:43 [scraper.py:170] 📥 [HN #9] A dot a day keeps the clutter away
+INFO     2026-04-01 03:32:43 [scraper.py:171] 🔗 [HN #9] URL: https://scottlawsonbc.com/post/dot-system
+INFO     2026-04-01 03:32:43 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-01 03:32:43 [scraper.py:170] 📥 [HN #10] OpenAI closes funding round at an $852B valuation
+INFO     2026-04-01 03:32:43 [scraper.py:171] 🔗 [HN #10] URL: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+INFO     2026-04-01 03:32:43 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-01 03:32:43 [scraper.py:178] 🎉 [HN] All done.
+
