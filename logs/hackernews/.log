@@ -24469,3 +24469,36 @@ INFO     2026-04-01 06:49:02 [scraper.py:171] 🔗 [HN #10] URL: https://minista
 INFO     2026-04-01 06:49:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-01 06:49:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-01 10:57:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-01 10:57:56 [scraper.py:170] 📥 [HN #1] Claude Code Unpacked : A visual guide
+INFO     2026-04-01 10:57:56 [scraper.py:171] 🔗 [HN #1] URL: https://ccunpacked.dev/
+INFO     2026-04-01 10:57:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-01 10:57:56 [scraper.py:170] 📥 [HN #2] CERN levels up with new superconducting karts
+INFO     2026-04-01 10:57:56 [scraper.py:171] 🔗 [HN #2] URL: https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts
+INFO     2026-04-01 10:57:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #3] Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/yannick-cw/korb
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #4] Intuiting Pratt Parsing
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #4] URL: https://louis.co.nz/2026/03/26/pratt-parsing.html
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #5] What the Claude Code Leak Means for Regulated Industries
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #5] URL: https://systima.ai/blog/claude-code-leak-compliance-implications
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #6] Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #7] Bring Back MiniDV with This Raspberry Pi FireWire Hat
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #7] URL: https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-01 10:57:57 [scraper.py:170] 📥 [HN #8] A dot a day keeps the clutter away
+INFO     2026-04-01 10:57:57 [scraper.py:171] 🔗 [HN #8] URL: https://scottlawsonbc.com/post/dot-system
+INFO     2026-04-01 10:57:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-01 10:57:58 [scraper.py:170] 📥 [HN #9] TinyLoRA – Learning to Reason in 13 Parameters
+INFO     2026-04-01 10:57:58 [scraper.py:171] 🔗 [HN #9] URL: https://arxiv.org/abs/2602.04118
+INFO     2026-04-01 10:57:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-01 10:57:58 [scraper.py:170] 📥 [HN #10] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs
+INFO     2026-04-01 10:57:58 [scraper.py:171] 🔗 [HN #10] URL: https://prismml.com/
+INFO     2026-04-01 10:57:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-01 10:57:58 [scraper.py:178] 🎉 [HN] All done.
+
