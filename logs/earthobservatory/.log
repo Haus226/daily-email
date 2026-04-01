@@ -9443,3 +9443,24 @@ INFO     2026-04-01 03:32:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-01 03:32:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-01 06:48:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-01 06:49:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-01 06:49:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-01 06:49:00 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-01 06:49:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-01 06:49:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-01 06:49:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-01 06:49:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-01 06:49:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-01 06:49:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+ERROR    2026-04-01 06:53:29 [scraper.py:104] ❌ [EO] LLM Summary failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+ERROR    2026-04-01 06:53:29 [scraper.py:104] ❌ [EO] LLM Summary failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO     2026-04-01 06:53:29 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-01 06:53:29 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-01 06:53:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-01 06:53:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-01 06:53:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-01 06:53:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
