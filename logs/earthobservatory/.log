@@ -9485,3 +9485,24 @@ INFO     2026-04-01 10:57:58 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-01 10:57:58 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-02 03:15:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-02 03:15:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-02 03:15:35 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-02 03:15:35 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-02 03:15:35 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-02 03:15:35 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-02 03:15:35 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-02 03:15:35 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-02 03:15:36 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-02 03:15:36 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-02 03:15:36 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-02 03:15:36 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-02 03:15:36 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-02 03:15:36 [scraper.py:133] 📥 [EO] Title: March of the Harmattan
+INFO     2026-04-02 03:15:36 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-02 03:15:36 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/march-of-the-harmattan/haboob_vir3_20260330_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-02 03:15:36 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-02 03:15:36 [scraper.py:154] ✅ [EO] Successfully fetched.
+
