@@ -3685,3 +3685,8 @@ INFO     2026-04-02 03:15:36 [scraper.py:47] 📥 [APOD] Title: The Claw and Bub
 INFO     2026-04-02 03:15:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg
 INFO     2026-04-02 03:15:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-02 06:14:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-02 06:14:09 [scraper.py:47] 📥 [APOD] Title: Liftoff! Returning to the Moon
+INFO     2026-04-02 06:14:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg
+INFO     2026-04-02 06:14:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -24535,3 +24535,36 @@ INFO     2026-04-02 03:15:38 [scraper.py:171] 🔗 [HN #10] URL: https://openrou
 INFO     2026-04-02 03:15:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-02 03:15:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-02 06:14:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-02 06:14:09 [scraper.py:170] 📥 [HN #1] Live: Artemis II Launch Day Updates
+INFO     2026-04-02 06:14:09 [scraper.py:171] 🔗 [HN #1] URL: https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/
+INFO     2026-04-02 06:14:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-02 06:14:09 [scraper.py:170] 📥 [HN #2] The Claude Code Leak
+INFO     2026-04-02 06:14:09 [scraper.py:171] 🔗 [HN #2] URL: https://build.ms/2026/4/1/the-claude-code-leak/
+INFO     2026-04-02 06:14:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-02 06:14:09 [scraper.py:170] 📥 [HN #3] Quantum computing bombshells that are not April Fools
+INFO     2026-04-02 06:14:09 [scraper.py:171] 🔗 [HN #3] URL: https://scottaaronson.blog/?p=9665
+INFO     2026-04-02 06:14:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-02 06:14:09 [scraper.py:170] 📥 [HN #4] Steam on Linux Use Skyrocketed Above 5% in March
+INFO     2026-04-02 06:14:09 [scraper.py:171] 🔗 [HN #4] URL: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
+INFO     2026-04-02 06:14:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-02 06:14:09 [scraper.py:170] 📥 [HN #5] A new C++ back end for ocamlc
+INFO     2026-04-02 06:14:09 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ocaml/ocaml/pull/14701
+INFO     2026-04-02 06:14:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:170] 📥 [HN #6] Email obfuscation: What works in 2026?
+INFO     2026-04-02 06:14:10 [scraper.py:171] 🔗 [HN #6] URL: https://spencermortensen.com/articles/email-obfuscation/
+INFO     2026-04-02 06:14:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:170] 📥 [HN #7] EmDash – A spiritual successor to WordPress that solves plugin security
+INFO     2026-04-02 06:14:10 [scraper.py:171] 🔗 [HN #7] URL: https://blog.cloudflare.com/emdash-wordpress/
+INFO     2026-04-02 06:14:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:170] 📥 [HN #8] Subscription bombing and how to mitigate it
+INFO     2026-04-02 06:14:10 [scraper.py:171] 🔗 [HN #8] URL: https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/
+INFO     2026-04-02 06:14:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:170] 📥 [HN #9] r/programming bans all discussion of LLM programming
+INFO     2026-04-02 06:14:10 [scraper.py:171] 🔗 [HN #9] URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/
+INFO     2026-04-02 06:14:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:170] 📥 [HN #10] DRAM pricing is killing the hobbyist SBC market
+INFO     2026-04-02 06:14:10 [scraper.py:171] 🔗 [HN #10] URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
+INFO     2026-04-02 06:14:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-02 06:14:10 [scraper.py:178] 🎉 [HN] All done.
+
