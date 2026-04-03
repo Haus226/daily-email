@@ -24667,3 +24667,36 @@ INFO     2026-04-03 06:14:14 [scraper.py:171] 🔗 [HN #10] URL: https://thottin
 INFO     2026-04-03 06:14:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-03 06:14:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-03 10:44:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-03 10:44:59 [scraper.py:170] 📥 [HN #1] Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps
+INFO     2026-04-03 10:44:59 [scraper.py:171] 🔗 [HN #1] URL: https://only-eu.eu/en/
+INFO     2026-04-03 10:44:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-03 10:44:59 [scraper.py:170] 📥 [HN #2] Google releases Gemma 4 open models
+INFO     2026-04-03 10:44:59 [scraper.py:171] 🔗 [HN #2] URL: https://deepmind.google/models/gemma/gemma-4/
+INFO     2026-04-03 10:44:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-03 10:44:59 [scraper.py:170] 📥 [HN #3] April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini
+INFO     2026-04-03 10:44:59 [scraper.py:171] 🔗 [HN #3] URL: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
+INFO     2026-04-03 10:44:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-03 10:45:00 [scraper.py:170] 📥 [HN #4] Show HN: Apfel – The free AI already on your Mac
+INFO     2026-04-03 10:45:00 [scraper.py:171] 🔗 [HN #4] URL: https://apfel.franzai.com
+INFO     2026-04-03 10:45:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-03 10:45:00 [scraper.py:170] 📥 [HN #5] ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO
+INFO     2026-04-03 10:45:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.espressif.com/en/news/ESP32_S31_Release
+INFO     2026-04-03 10:45:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-03 10:45:00 [scraper.py:170] 📥 [HN #6] Decisions that eroded trust in Azure – by a former Azure Core engineer
+INFO     2026-04-03 10:45:00 [scraper.py:171] 🔗 [HN #6] URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+INFO     2026-04-03 10:45:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-03 10:45:00 [scraper.py:170] 📥 [HN #7] Proton Meet Isn't What They Told You It Was
+INFO     2026-04-03 10:45:00 [scraper.py:171] 🔗 [HN #7] URL: https://www.sambent.com/proton-meet-isnt-what-they-told-you/
+INFO     2026-04-03 10:45:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-03 10:45:00 [scraper.py:170] 📥 [HN #8] NHS staff refusing to use FDP over Palantir ethical concerns
+INFO     2026-04-03 10:45:00 [scraper.py:171] 🔗 [HN #8] URL: https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272
+INFO     2026-04-03 10:45:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-03 10:45:01 [scraper.py:170] 📥 [HN #9] The True Shape of Io's Steeple Mountain
+INFO     2026-04-03 10:45:01 [scraper.py:171] 🔗 [HN #9] URL: https://www.weareinquisitive.com/news/hidden-in-the-shadow
+INFO     2026-04-03 10:45:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-03 10:45:01 [scraper.py:170] 📥 [HN #10] Tailscale's new macOS home
+INFO     2026-04-03 10:45:01 [scraper.py:171] 🔗 [HN #10] URL: https://tailscale.com/blog/macos-notch-escape
+INFO     2026-04-03 10:45:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-03 10:45:01 [scraper.py:178] 🎉 [HN] All done.
+
