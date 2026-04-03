@@ -3698,3 +3698,8 @@ INFO     2026-04-03 03:17:49 [scraper.py:47] 📥 [APOD] Title: Liftoff! Returni
 INFO     2026-04-03 03:17:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg
 INFO     2026-04-03 03:17:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-03 06:14:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-03 06:14:12 [scraper.py:47] 📥 [APOD] Title: Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
+INFO     2026-04-03 06:14:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg
+INFO     2026-04-03 06:14:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

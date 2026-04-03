@@ -3708,3 +3708,8 @@ INFO     2026-04-03 03:17:48 [scraper.py:390] 📥 [TAROT] Card: Queen of Cups
 INFO     2026-04-03 03:17:48 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-04-03 03:17:48 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-04-03 06:14:12 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-04-03 06:14:12 [scraper.py:390] 📥 [TAROT] Card: Queen of Cups
+INFO     2026-04-03 06:14:12 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-04-03 06:14:12 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
