@@ -24601,3 +24601,36 @@ INFO     2026-04-02 10:51:47 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-02 10:51:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-02 10:51:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-03 03:17:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-03 03:17:49 [scraper.py:170] 📥 [HN #1] Google releases Gemma 4 open models
+INFO     2026-04-03 03:17:49 [scraper.py:171] 🔗 [HN #1] URL: https://deepmind.google/models/gemma/gemma-4/
+INFO     2026-04-03 03:17:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-03 03:17:49 [scraper.py:170] 📥 [HN #2] Decisions that eroded trust in Azure – by a former Azure Core engineer
+INFO     2026-04-03 03:17:49 [scraper.py:171] 🔗 [HN #2] URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+INFO     2026-04-03 03:17:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-03 03:17:49 [scraper.py:170] 📥 [HN #3] Tailscale's new macOS home
+INFO     2026-04-03 03:17:49 [scraper.py:171] 🔗 [HN #3] URL: https://tailscale.com/blog/macos-notch-escape
+INFO     2026-04-03 03:17:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-03 03:17:50 [scraper.py:170] 📥 [HN #4] C89cc.sh – standalone C89/ELF64 compiler in pure portable shell
+INFO     2026-04-03 03:17:50 [scraper.py:171] 🔗 [HN #4] URL: https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19
+INFO     2026-04-03 03:17:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-03 03:17:50 [scraper.py:170] 📥 [HN #5] Artemis II's toilet is a moon mission milestone
+INFO     2026-04-03 03:17:50 [scraper.py:171] 🔗 [HN #5] URL: https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
+INFO     2026-04-03 03:17:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-03 03:17:50 [scraper.py:170] 📥 [HN #6] Cursor 3
+INFO     2026-04-03 03:17:50 [scraper.py:171] 🔗 [HN #6] URL: https://cursor.com/blog/cursor-3
+INFO     2026-04-03 03:17:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-03 03:17:50 [scraper.py:170] 📥 [HN #7] Good ideas do not need lots of lies in order to gain public acceptance (2008)
+INFO     2026-04-03 03:17:50 [scraper.py:171] 🔗 [HN #7] URL: https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html
+INFO     2026-04-03 03:17:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-03 03:17:50 [scraper.py:170] 📥 [HN #8] Qwen3.6-Plus: Towards real world agents
+INFO     2026-04-03 03:17:50 [scraper.py:171] 🔗 [HN #8] URL: https://qwen.ai/blog?id=qwen3.6
+INFO     2026-04-03 03:17:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-03 03:17:51 [scraper.py:170] 📥 [HN #9] Post Mortem: axios NPM supply chain compromise
+INFO     2026-04-03 03:17:51 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/axios/axios/issues/10636
+INFO     2026-04-03 03:17:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-03 03:17:51 [scraper.py:170] 📥 [HN #10] Lemonade by AMD: a fast and open source local LLM server using GPU and NPU
+INFO     2026-04-03 03:17:51 [scraper.py:171] 🔗 [HN #10] URL: https://lemonade-server.ai
+INFO     2026-04-03 03:17:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-03 03:17:51 [scraper.py:178] 🎉 [HN] All done.
+
