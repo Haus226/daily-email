@@ -3713,3 +3713,8 @@ INFO     2026-04-04 02:50:05 [scraper.py:47] 📥 [APOD] Title: Caught in the We
 INFO     2026-04-04 02:50:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg
 INFO     2026-04-04 02:50:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-04 06:01:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-04 06:01:34 [scraper.py:47] 📥 [APOD] Title: Hello World
+INFO     2026-04-04 06:01:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg
+INFO     2026-04-04 06:01:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
