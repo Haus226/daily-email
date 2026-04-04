@@ -24700,3 +24700,36 @@ INFO     2026-04-03 10:45:01 [scraper.py:171] 🔗 [HN #10] URL: https://tailsca
 INFO     2026-04-03 10:45:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-03 10:45:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-04 02:50:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-04 02:50:05 [scraper.py:170] 📥 [HN #1] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+INFO     2026-04-04 02:50:05 [scraper.py:171] 🔗 [HN #1] URL: https://news.ycombinator.com/item?id=47633396
+INFO     2026-04-04 02:50:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-04 02:50:05 [scraper.py:170] 📥 [HN #2] Artemis II crew take “spectacular” image of Earth
+INFO     2026-04-04 02:50:05 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/news/articles/ce8jzr423p9o
+INFO     2026-04-04 02:50:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-04 02:50:05 [scraper.py:170] 📥 [HN #3] Show HN: Travel Hacking Toolkit – Points search and trip planning with AI
+INFO     2026-04-04 02:50:05 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/borski/travel-hacking-toolkit
+INFO     2026-04-04 02:50:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-04 02:50:05 [scraper.py:170] 📥 [HN #4] iNaturalist
+INFO     2026-04-04 02:50:05 [scraper.py:171] 🔗 [HN #4] URL: https://www.inaturalist.org/
+INFO     2026-04-04 02:50:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-04 02:50:05 [scraper.py:170] 📥 [HN #5] Herbie: Automatically improve imprecise floating point formulas
+INFO     2026-04-04 02:50:05 [scraper.py:171] 🔗 [HN #5] URL: https://herbie.uwplse.org/doc/latest/tutorial.html
+INFO     2026-04-04 02:50:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:170] 📥 [HN #6] Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C
+INFO     2026-04-04 02:50:06 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/cmc-labo/tinyos-rtos
+INFO     2026-04-04 02:50:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:170] 📥 [HN #7] What changes when you turn a Linux box into a router
+INFO     2026-04-04 02:50:06 [scraper.py:171] 🔗 [HN #7] URL: https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
+INFO     2026-04-04 02:50:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:170] 📥 [HN #8] Show HN: I built a frontpage for personal blogs
+INFO     2026-04-04 02:50:06 [scraper.py:171] 🔗 [HN #8] URL: https://text.blogosphere.app/
+INFO     2026-04-04 02:50:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:170] 📥 [HN #9] Fake Fans
+INFO     2026-04-04 02:50:06 [scraper.py:171] 🔗 [HN #9] URL: https://www.wordsfromeliza.com/p/fake-fans
+INFO     2026-04-04 02:50:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:170] 📥 [HN #10] The house is a work of art: Frank Lloyd Wright
+INFO     2026-04-04 02:50:06 [scraper.py:171] 🔗 [HN #10] URL: https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition
+INFO     2026-04-04 02:50:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-04 02:50:06 [scraper.py:178] 🎉 [HN] All done.
+
