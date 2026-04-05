@@ -24865,3 +24865,36 @@ INFO     2026-04-05 06:15:27 [scraper.py:171] 🔗 [HN #10] URL: https://www.pho
 INFO     2026-04-05 06:15:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-05 06:15:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-05 10:35:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-05 10:35:58 [scraper.py:170] 📥 [HN #1] Talk like caveman
+INFO     2026-04-05 10:35:58 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/JuliusBrussee/caveman
+INFO     2026-04-05 10:35:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-05 10:35:58 [scraper.py:170] 📥 [HN #2] Lisette a little language inspired by Rust that compiles to Go
+INFO     2026-04-05 10:35:58 [scraper.py:171] 🔗 [HN #2] URL: https://lisette.run/
+INFO     2026-04-05 10:35:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-05 10:35:58 [scraper.py:170] 📥 [HN #3] Show HN: A game where you build a GPU
+INFO     2026-04-05 10:35:58 [scraper.py:171] 🔗 [HN #3] URL: https://jaso1024.com/mvidia/
+INFO     2026-04-05 10:35:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-05 10:35:58 [scraper.py:170] 📥 [HN #4] Introduction to Computer Music (2009) [pdf]
+INFO     2026-04-05 10:35:58 [scraper.py:171] 🔗 [HN #4] URL: https://composerprogrammer.com/introductiontocomputermusic.pdf
+INFO     2026-04-05 10:35:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-05 10:35:59 [scraper.py:170] 📥 [HN #5] German implementation of eIDAS will require an Apple/Google account to function
+INFO     2026-04-05 10:35:59 [scraper.py:171] 🔗 [HN #5] URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/
+INFO     2026-04-05 10:35:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-05 10:35:59 [scraper.py:170] 📥 [HN #6] OpenScreen is an open-source alternative to Screen Studio
+INFO     2026-04-05 10:35:59 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/siddharthvaddem/openscreen
+INFO     2026-04-05 10:35:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-05 10:35:59 [scraper.py:170] 📥 [HN #7] Scientists Figured Out How Eels Reproduce (2022)
+INFO     2026-04-05 10:35:59 [scraper.py:171] 🔗 [HN #7] URL: https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/
+INFO     2026-04-05 10:35:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-05 10:35:59 [scraper.py:170] 📥 [HN #8] LLM Wiki – example of an "idea file"
+INFO     2026-04-05 10:35:59 [scraper.py:171] 🔗 [HN #8] URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+INFO     2026-04-05 10:35:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-05 10:36:00 [scraper.py:170] 📥 [HN #9] Aegis – open-source FPGA silicon
+INFO     2026-04-05 10:36:00 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/MidstallSoftware/aegis
+INFO     2026-04-05 10:36:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-05 10:36:00 [scraper.py:170] 📥 [HN #10] Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs
+INFO     2026-04-05 10:36:00 [scraper.py:171] 🔗 [HN #10] URL: https://zml.ai/posts/zml-smi/
+INFO     2026-04-05 10:36:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-05 10:36:00 [scraper.py:178] 🎉 [HN] All done.
+

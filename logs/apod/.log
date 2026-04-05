@@ -3733,3 +3733,8 @@ INFO     2026-04-05 06:15:25 [scraper.py:47] 📥 [APOD] Title: NGC 3310: A Star
 INFO     2026-04-05 06:15:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg
 INFO     2026-04-05 06:15:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-05 10:35:57 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-05 10:35:57 [scraper.py:47] 📥 [APOD] Title: NGC 3310: A Starburst Spiral Galaxy
+INFO     2026-04-05 10:35:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg
+INFO     2026-04-05 10:35:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
