@@ -24799,3 +24799,36 @@ INFO     2026-04-04 10:35:15 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-04 10:35:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-04 10:35:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-05 03:27:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-05 03:27:53 [scraper.py:170] 📥 [HN #1] Introduction to Computer Music [pdf]
+INFO     2026-04-05 03:27:53 [scraper.py:171] 🔗 [HN #1] URL: https://composerprogrammer.com/introductiontocomputermusic.pdf
+INFO     2026-04-05 03:27:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-05 03:27:53 [scraper.py:170] 📥 [HN #2] Show HN: A game where you build a GPU
+INFO     2026-04-05 03:27:53 [scraper.py:171] 🔗 [HN #2] URL: https://jaso1024.com/mvidia/
+INFO     2026-04-05 03:27:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-05 03:27:53 [scraper.py:170] 📥 [HN #3] OpenScreen is an open-source alternative to Screen Studio
+INFO     2026-04-05 03:27:53 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/siddharthvaddem/openscreen
+INFO     2026-04-05 03:27:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-05 03:27:53 [scraper.py:170] 📥 [HN #4] Advice to Young People, the Lies I Tell Myself (2024)
+INFO     2026-04-05 03:27:53 [scraper.py:171] 🔗 [HN #4] URL: https://jxnl.co/writing/2024/06/01/advice-to-young-people/
+INFO     2026-04-05 03:27:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-05 03:27:54 [scraper.py:170] 📥 [HN #5] A case study in testing with 100+ Claude agents in parallel
+INFO     2026-04-05 03:27:54 [scraper.py:171] 🔗 [HN #5] URL: https://imbue.com/product/mngr_part_2/
+INFO     2026-04-05 03:27:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-05 03:27:54 [scraper.py:170] 📥 [HN #6] AGI Is Here
+INFO     2026-04-05 03:27:54 [scraper.py:171] 🔗 [HN #6] URL: https://breaking-changes.blog/agi-is-here/
+INFO     2026-04-05 03:27:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-05 03:27:54 [scraper.py:170] 📥 [HN #7] LLM Wiki – example of an "idea file"
+INFO     2026-04-05 03:27:54 [scraper.py:171] 🔗 [HN #7] URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+INFO     2026-04-05 03:27:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-05 03:27:54 [scraper.py:170] 📥 [HN #8] Embarrassingly simple self-distillation improves code generation
+INFO     2026-04-05 03:27:54 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2604.01193
+INFO     2026-04-05 03:27:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-05 03:27:54 [scraper.py:170] 📥 [HN #9] How many products does Microsoft have named 'Copilot'?
+INFO     2026-04-05 03:27:54 [scraper.py:171] 🔗 [HN #9] URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+INFO     2026-04-05 03:27:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-05 03:27:55 [scraper.py:170] 📥 [HN #10] AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy
+INFO     2026-04-05 03:27:55 [scraper.py:171] 🔗 [HN #10] URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+INFO     2026-04-05 03:27:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-05 03:27:55 [scraper.py:178] 🎉 [HN] All done.
+
