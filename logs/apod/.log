@@ -3743,3 +3743,8 @@ INFO     2026-04-06 03:30:52 [scraper.py:47] 📥 [APOD] Title: NGC 3310: A Star
 INFO     2026-04-06 03:30:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg
 INFO     2026-04-06 03:30:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-06 06:56:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-06 06:56:31 [scraper.py:47] 📥 [APOD] Title: The Path of Artemis II
+INFO     2026-04-06 06:56:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4
+INFO     2026-04-06 06:56:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

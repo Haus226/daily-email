@@ -9758,3 +9758,24 @@ INFO     2026-04-06 03:30:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-06 03:30:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-06 06:56:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-06 06:56:30 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-06 06:56:30 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-06 06:56:30 [scraper.py:133] 📥 [EO] Title: Barents Sea Tied to Low Arctic Sea Ice
+INFO     2026-04-06 06:56:30 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-06 06:56:30 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-06 06:56:30 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-06 06:56:30 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-06 06:56:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-06 06:56:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-06 06:56:32 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-06 06:56:32 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-06 06:56:32 [scraper.py:133] 📥 [EO] Title: Faster Detection of Forest Loss
+INFO     2026-04-06 06:56:32 [scraper.py:133] 📥 [EO] Title: Faster Detection of Forest Loss
+INFO     2026-04-06 06:56:32 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/faster-detection-of-forest-loss/deforestdetect_sar_20200508_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-06 06:56:32 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/faster-detection-of-forest-loss/deforestdetect_sar_20200508_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-06 06:56:32 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-06 06:56:32 [scraper.py:154] ✅ [EO] Successfully fetched.
+
