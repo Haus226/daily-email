@@ -24964,3 +24964,36 @@ INFO     2026-04-06 06:56:33 [scraper.py:171] 🔗 [HN #10] URL: https://spoon-t
 INFO     2026-04-06 06:56:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-06 06:56:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-06 10:57:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-06 10:57:57 [scraper.py:170] 📥 [HN #1] Age Verification as Mass Surveillance Infrastructure
+INFO     2026-04-06 10:57:57 [scraper.py:171] 🔗 [HN #1] URL: https://tboteproject.com/surveillancefindings/
+INFO     2026-04-06 10:57:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-06 10:57:57 [scraper.py:170] 📥 [HN #2] Show HN: I built a tiny LLM to demystify how language models work
+INFO     2026-04-06 10:57:57 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/arman-bd/guppylm
+INFO     2026-04-06 10:57:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-06 10:57:57 [scraper.py:170] 📥 [HN #3] Gemma 4 on iPhone
+INFO     2026-04-06 10:57:57 [scraper.py:171] 🔗 [HN #3] URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+INFO     2026-04-06 10:57:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-06 10:57:57 [scraper.py:170] 📥 [HN #4] Microsoft hasn't had a coherent GUI strategy since Petzold
+INFO     2026-04-06 10:57:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+INFO     2026-04-06 10:57:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #5] An open-source 240-antenna array to bounce signals off the Moon
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #5] URL: https://moonrf.com/
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #6] France pulls last gold held in US for $15B gain
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #7] One ant for $220: The new frontier of wildlife trafficking
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/news/articles/cg4g44zv37qo
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #8] LÖVE: 2D Game Framework for Lua
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/love2d/love
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #9] The 1987 game “The Last Ninja” was 40 kilobytes
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #9] URL: https://twitter.com/exQUIZitely/status/2040777977521398151
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:170] 📥 [HN #10] Signals, the push-pull based algorithm
+INFO     2026-04-06 10:57:58 [scraper.py:171] 🔗 [HN #10] URL: https://willybrauner.com/journal/signal-the-push-pull-based-algorithm
+INFO     2026-04-06 10:57:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-06 10:57:58 [scraper.py:178] 🎉 [HN] All done.
+
