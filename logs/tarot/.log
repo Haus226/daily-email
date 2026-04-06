@@ -3748,3 +3748,8 @@ INFO     2026-04-05 10:35:57 [scraper.py:390] 📥 [TAROT] Card: The High Priest
 INFO     2026-04-05 10:35:57 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-04-05 10:35:57 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-04-06 03:30:52 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-04-06 03:30:52 [scraper.py:390] 📥 [TAROT] Card: The Hierophant
+INFO     2026-04-06 03:30:52 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-04-06 03:30:52 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
