@@ -25063,3 +25063,36 @@ INFO     2026-04-07 06:20:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.gov
 INFO     2026-04-07 06:20:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-07 06:20:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-07 10:56:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-07 10:56:51 [scraper.py:170] 📥 [HN #1] Are We Idiocracy Yet?
+INFO     2026-04-07 10:56:51 [scraper.py:171] 🔗 [HN #1] URL: https://idiocracy.wtf/
+INFO     2026-04-07 10:56:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-07 10:56:51 [scraper.py:170] 📥 [HN #2] Every GPU That Mattered
+INFO     2026-04-07 10:56:51 [scraper.py:171] 🔗 [HN #2] URL: https://sheets.works/data-viz/every-gpu
+INFO     2026-04-07 10:56:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-07 10:56:51 [scraper.py:170] 📥 [HN #3] My Experience as a Rice Farmer
+INFO     2026-04-07 10:56:51 [scraper.py:171] 🔗 [HN #3] URL: https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html
+INFO     2026-04-07 10:56:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-07 10:56:51 [scraper.py:170] 📥 [HN #4] We found an undocumented bug in the Apollo 11 guidance computer code
+INFO     2026-04-07 10:56:51 [scraper.py:171] 🔗 [HN #4] URL: https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/
+INFO     2026-04-07 10:56:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-07 10:56:52 [scraper.py:170] 📥 [HN #5] Three hundred synths, 3 hardware projects, and one app
+INFO     2026-04-07 10:56:52 [scraper.py:171] 🔗 [HN #5] URL: https://midi.guide/blog/three-hunded-synths-one-app/
+INFO     2026-04-07 10:56:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-07 10:56:52 [scraper.py:170] 📥 [HN #6] Blackholing My Email
+INFO     2026-04-07 10:56:52 [scraper.py:171] 🔗 [HN #6] URL: https://www.johnsto.co.uk/blog/blackholing-my-email/
+INFO     2026-04-07 10:56:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-07 10:56:52 [scraper.py:170] 📥 [HN #7] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+INFO     2026-04-07 10:56:52 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/matthartman/ghost-pepper
+INFO     2026-04-07 10:56:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-07 10:56:52 [scraper.py:170] 📥 [HN #8] Identify a London Underground Line just by listening to it
+INFO     2026-04-07 10:56:52 [scraper.py:171] 🔗 [HN #8] URL: https://tubesoundquiz.com/
+INFO     2026-04-07 10:56:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-07 10:56:52 [scraper.py:170] 📥 [HN #9] Sam Altman may control our future – can he be trusted?
+INFO     2026-04-07 10:56:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+INFO     2026-04-07 10:56:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-07 10:56:53 [scraper.py:170] 📥 [HN #10] Issue: Claude Code is unusable for complex engineering tasks with Feb updates
+INFO     2026-04-07 10:56:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/anthropics/claude-code/issues/42796
+INFO     2026-04-07 10:56:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-07 10:56:53 [scraper.py:178] 🎉 [HN] All done.
+
