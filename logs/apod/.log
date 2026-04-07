@@ -3758,3 +3758,8 @@ INFO     2026-04-07 03:20:42 [scraper.py:47] 📥 [APOD] Title: The Path of Arte
 INFO     2026-04-07 03:20:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/moonGamera_velHighRes_3-3-2026c_artemisII_wind_1080p30_2.mp4
 INFO     2026-04-07 03:20:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-07 06:20:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-07 06:20:51 [scraper.py:47] 📥 [APOD] Title: IC 4592: The Blue Horsehead Reflection Nebula
+INFO     2026-04-07 06:20:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg
+INFO     2026-04-07 06:20:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

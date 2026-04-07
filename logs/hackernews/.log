@@ -25030,3 +25030,36 @@ INFO     2026-04-07 03:20:44 [scraper.py:171] 🔗 [HN #10] URL: https://www.new
 INFO     2026-04-07 03:20:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-07 03:20:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-07 06:20:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-07 06:20:51 [scraper.py:170] 📥 [HN #1] Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+INFO     2026-04-07 06:20:51 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/matthartman/ghost-pepper
+INFO     2026-04-07 06:20:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-07 06:20:51 [scraper.py:170] 📥 [HN #2] Solod – A Subset of Go That Translates to C
+INFO     2026-04-07 06:20:51 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/solod-dev/solod
+INFO     2026-04-07 06:20:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #3] People Love to Work Hard
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #3] URL: https://www.anildash.com/2026/04/06/people-love-to-work-hard/
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #4] Launch HN: Freestyle – Sandboxes for Coding Agents
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #4] URL: https://www.freestyle.sh/
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #5] Issue: Claude Code is unusable for complex engineering tasks with Feb updates
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/anthropics/claude-code/issues/42796
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #6] A cryptography engineer's perspective on quantum computing timelines
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #6] URL: https://words.filippo.io/crqc-timeline/
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #7] Apollo Guidance Computer Restoration Videos and Press Coverage
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #7] URL: https://www.curiousmarc.com/space/apollo-guidance-computer
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-07 06:20:52 [scraper.py:170] 📥 [HN #8] Sam Altman may control our future – can he be trusted?
+INFO     2026-04-07 06:20:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+INFO     2026-04-07 06:20:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-07 06:20:53 [scraper.py:170] 📥 [HN #9] German police name alleged leaders of GandCrab and REvil ransomware groups
+INFO     2026-04-07 06:20:53 [scraper.py:171] 🔗 [HN #9] URL: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
+INFO     2026-04-07 06:20:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-07 06:20:53 [scraper.py:170] 📥 [HN #10] Show HN: GovAuctions lets you browse government auctions at once
+INFO     2026-04-07 06:20:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.govauctions.app/
+INFO     2026-04-07 06:20:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-07 06:20:53 [scraper.py:178] 🎉 [HN] All done.
+
