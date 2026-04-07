@@ -3753,3 +3753,8 @@ INFO     2026-04-06 10:57:57 [scraper.py:47] 📥 [APOD] Title: The Path of Arte
 INFO     2026-04-06 10:57:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4
 INFO     2026-04-06 10:57:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-07 03:20:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-07 03:20:42 [scraper.py:47] 📥 [APOD] Title: The Path of Artemis II
+INFO     2026-04-07 03:20:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/moonGamera_velHighRes_3-3-2026c_artemisII_wind_1080p30_2.mp4
+INFO     2026-04-07 03:20:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
