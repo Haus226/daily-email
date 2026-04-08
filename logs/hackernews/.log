@@ -25129,3 +25129,36 @@ INFO     2026-04-08 03:23:09 [scraper.py:171] 🔗 [HN #10] URL: https://www.all
 INFO     2026-04-08 03:23:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-08 03:23:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-08 06:22:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-08 06:22:27 [scraper.py:170] 📥 [HN #1] Project Glasswing: Securing critical software for the AI era
+INFO     2026-04-08 06:22:27 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/glasswing
+INFO     2026-04-08 06:22:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-08 06:22:28 [scraper.py:170] 📥 [HN #2] Lunar Flyby
+INFO     2026-04-08 06:22:28 [scraper.py:171] 🔗 [HN #2] URL: https://www.nasa.gov/gallery/lunar-flyby/
+INFO     2026-04-08 06:22:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-08 06:22:28 [scraper.py:170] 📥 [HN #3] Protect your shed
+INFO     2026-04-08 06:22:28 [scraper.py:171] 🔗 [HN #3] URL: https://dylanbutler.dev/blog/protect-your-shed/
+INFO     2026-04-08 06:22:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-08 06:22:28 [scraper.py:170] 📥 [HN #4] Slightly safer vibecoding by adopting old hacker habits
+INFO     2026-04-08 06:22:28 [scraper.py:171] 🔗 [HN #4] URL: http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html
+INFO     2026-04-08 06:22:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-08 06:22:28 [scraper.py:170] 📥 [HN #5] Native Americans had dice 12k years ago
+INFO     2026-04-08 06:22:28 [scraper.py:171] 🔗 [HN #5] URL: https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426
+INFO     2026-04-08 06:22:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-08 06:22:28 [scraper.py:170] 📥 [HN #6] System Card: Claude Mythos Preview [pdf]
+INFO     2026-04-08 06:22:28 [scraper.py:171] 🔗 [HN #6] URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+INFO     2026-04-08 06:22:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-08 06:22:29 [scraper.py:170] 📥 [HN #7] Binary obfuscation used in AAA Games
+INFO     2026-04-08 06:22:29 [scraper.py:171] 🔗 [HN #7] URL: https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html
+INFO     2026-04-08 06:22:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-08 06:22:29 [scraper.py:170] 📥 [HN #8] GLM-5.1: Towards Long-Horizon Tasks
+INFO     2026-04-08 06:22:29 [scraper.py:171] 🔗 [HN #8] URL: https://z.ai/blog/glm-5.1
+INFO     2026-04-08 06:22:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-08 06:22:29 [scraper.py:170] 📥 [HN #9] How to get better at guitar
+INFO     2026-04-08 06:22:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.jakeworth.com/posts/how-to-get-better-at-guitar/
+INFO     2026-04-08 06:22:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-08 06:22:29 [scraper.py:170] 📥 [HN #10] S3 Files
+INFO     2026-04-08 06:22:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+INFO     2026-04-08 06:22:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-08 06:22:29 [scraper.py:178] 🎉 [HN] All done.
+
