@@ -25162,3 +25162,36 @@ INFO     2026-04-08 06:22:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.all
 INFO     2026-04-08 06:22:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-08 06:22:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-08 10:57:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-08 10:57:52 [scraper.py:170] 📥 [HN #1] Veracrypt Project Update
+INFO     2026-04-08 10:57:52 [scraper.py:171] 🔗 [HN #1] URL: https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/
+INFO     2026-04-08 10:57:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-08 10:57:52 [scraper.py:170] 📥 [HN #2] The Git Commands I Run Before Reading Any Code
+INFO     2026-04-08 10:57:52 [scraper.py:171] 🔗 [HN #2] URL: https://piechowski.io/post/git-commands-before-reading-code/
+INFO     2026-04-08 10:57:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-08 10:57:52 [scraper.py:170] 📥 [HN #3] Revision Demoparty 2026: Razor1911 [video]
+INFO     2026-04-08 10:57:52 [scraper.py:171] 🔗 [HN #3] URL: https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s
+INFO     2026-04-08 10:57:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-08 10:57:52 [scraper.py:170] 📥 [HN #4] I've Sold Out
+INFO     2026-04-08 10:57:52 [scraper.py:171] 🔗 [HN #4] URL: https://mariozechner.at/posts/2026-04-08-ive-sold-out/
+INFO     2026-04-08 10:57:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-08 10:57:52 [scraper.py:170] 📥 [HN #5] Project Glasswing: Securing critical software for the AI era
+INFO     2026-04-08 10:57:52 [scraper.py:171] 🔗 [HN #5] URL: https://www.anthropic.com/glasswing
+INFO     2026-04-08 10:57:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:170] 📥 [HN #6] Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)
+INFO     2026-04-08 10:57:53 [scraper.py:171] 🔗 [HN #6] URL: https://indraneelpatil.github.io/blog/2026/robot-vacuum/
+INFO     2026-04-08 10:57:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:170] 📥 [HN #7] Lunar Flyby
+INFO     2026-04-08 10:57:53 [scraper.py:171] 🔗 [HN #7] URL: https://www.nasa.gov/gallery/lunar-flyby/
+INFO     2026-04-08 10:57:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:170] 📥 [HN #8] Your File System Is Already A Graph Database
+INFO     2026-04-08 10:57:53 [scraper.py:171] 🔗 [HN #8] URL: https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/
+INFO     2026-04-08 10:57:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:170] 📥 [HN #9] Protect your shed
+INFO     2026-04-08 10:57:53 [scraper.py:171] 🔗 [HN #9] URL: https://dylanbutler.dev/blog/protect-your-shed/
+INFO     2026-04-08 10:57:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:170] 📥 [HN #10] System Card: Claude Mythos Preview [pdf]
+INFO     2026-04-08 10:57:53 [scraper.py:171] 🔗 [HN #10] URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+INFO     2026-04-08 10:57:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-08 10:57:53 [scraper.py:178] 🎉 [HN] All done.
+
