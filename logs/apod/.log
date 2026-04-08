@@ -3768,3 +3768,8 @@ INFO     2026-04-07 10:56:51 [scraper.py:47] 📥 [APOD] Title: IC 4592: The Blu
 INFO     2026-04-07 10:56:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg
 INFO     2026-04-07 10:56:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-08 03:23:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-08 03:23:07 [scraper.py:47] 📥 [APOD] Title: IC 4592: The Blue Horsehead Reflection Nebula
+INFO     2026-04-08 03:23:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg
+INFO     2026-04-08 03:23:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -25096,3 +25096,36 @@ INFO     2026-04-07 10:56:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-07 10:56:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-07 10:56:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-08 03:23:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-08 03:23:07 [scraper.py:170] 📥 [HN #1] OpenAI says its new model GPT-2 is too dangerous to release (2019)
+INFO     2026-04-08 03:23:07 [scraper.py:171] 🔗 [HN #1] URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html
+INFO     2026-04-08 03:23:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-08 03:23:07 [scraper.py:170] 📥 [HN #2] US and Iran agree to provisional ceasefire
+INFO     2026-04-08 03:23:07 [scraper.py:171] 🔗 [HN #2] URL: https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire
+INFO     2026-04-08 03:23:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-08 03:23:08 [scraper.py:170] 📥 [HN #3] Project Glasswing: Securing critical software for the AI era
+INFO     2026-04-08 03:23:08 [scraper.py:171] 🔗 [HN #3] URL: https://www.anthropic.com/glasswing
+INFO     2026-04-08 03:23:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-08 03:23:08 [scraper.py:170] 📥 [HN #4] Lunar Flyby
+INFO     2026-04-08 03:23:08 [scraper.py:171] 🔗 [HN #4] URL: https://www.nasa.gov/gallery/lunar-flyby/
+INFO     2026-04-08 03:23:08 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-08 03:23:08 [scraper.py:170] 📥 [HN #5] System Card: Claude Mythos Preview [pdf]
+INFO     2026-04-08 03:23:08 [scraper.py:171] 🔗 [HN #5] URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+INFO     2026-04-08 03:23:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-08 03:23:08 [scraper.py:170] 📥 [HN #6] GLM-5.1: Towards Long-Horizon Tasks
+INFO     2026-04-08 03:23:08 [scraper.py:171] 🔗 [HN #6] URL: https://z.ai/blog/glm-5.1
+INFO     2026-04-08 03:23:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-08 03:23:09 [scraper.py:170] 📥 [HN #7] How to get better at guitar
+INFO     2026-04-08 03:23:09 [scraper.py:171] 🔗 [HN #7] URL: https://www.jakeworth.com/posts/how-to-get-better-at-guitar/
+INFO     2026-04-08 03:23:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-08 03:23:09 [scraper.py:170] 📥 [HN #8] Binary obfuscation used in AAA Games
+INFO     2026-04-08 03:23:09 [scraper.py:171] 🔗 [HN #8] URL: https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html
+INFO     2026-04-08 03:23:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-08 03:23:09 [scraper.py:170] 📥 [HN #9] Cambodia unveils statue to honour famous landmine-sniffing rat
+INFO     2026-04-08 03:23:09 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/c0rx7xzd10xo
+INFO     2026-04-08 03:23:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-08 03:23:09 [scraper.py:170] 📥 [HN #10] S3 Files
+INFO     2026-04-08 03:23:09 [scraper.py:171] 🔗 [HN #10] URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+INFO     2026-04-08 03:23:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-08 03:23:09 [scraper.py:178] 🎉 [HN] All done.
+
