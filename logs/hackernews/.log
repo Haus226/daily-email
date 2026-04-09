@@ -25228,3 +25228,36 @@ INFO     2026-04-09 03:17:22 [scraper.py:171] 🔗 [HN #10] URL: https://piechow
 INFO     2026-04-09 03:17:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-09 03:17:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-09 06:23:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-09 06:23:13 [scraper.py:170] 📥 [HN #1] LittleSnitch for Linux
+INFO     2026-04-09 06:23:13 [scraper.py:171] 🔗 [HN #1] URL: https://obdev.at/products/littlesnitch-linux/index.html
+INFO     2026-04-09 06:23:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-09 06:23:13 [scraper.py:170] 📥 [HN #2] Open Source Security at Astral
+INFO     2026-04-09 06:23:13 [scraper.py:171] 🔗 [HN #2] URL: https://astral.sh/blog/open-source-security-at-astral
+INFO     2026-04-09 06:23:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-09 06:23:14 [scraper.py:170] 📥 [HN #3] I ported Mac OS X to the Nintendo Wii
+INFO     2026-04-09 06:23:14 [scraper.py:171] 🔗 [HN #3] URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+INFO     2026-04-09 06:23:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-09 06:23:14 [scraper.py:170] 📥 [HN #4] The Importance of Being Idle
+INFO     2026-04-09 06:23:14 [scraper.py:171] 🔗 [HN #4] URL: https://theamericanscholar.org/the-importance-of-being-idle/
+INFO     2026-04-09 06:23:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-09 06:23:14 [scraper.py:170] 📥 [HN #5] USB for Software Developers: An introduction to writing userspace USB drivers
+INFO     2026-04-09 06:23:14 [scraper.py:171] 🔗 [HN #5] URL: https://werwolv.net/posts/usb_for_sw_devs/
+INFO     2026-04-09 06:23:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-09 06:23:14 [scraper.py:170] 📥 [HN #6] Understanding the Kalman filter with a simple radar example
+INFO     2026-04-09 06:23:14 [scraper.py:171] 🔗 [HN #6] URL: https://kalmanfilter.net
+INFO     2026-04-09 06:23:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-09 06:23:15 [scraper.py:170] 📥 [HN #7] Six (and a half) intuitions for KL divergence
+INFO     2026-04-09 06:23:15 [scraper.py:171] 🔗 [HN #7] URL: https://www.perfectlynormal.co.uk/blog-kl-divergence
+INFO     2026-04-09 06:23:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-09 06:23:15 [scraper.py:170] 📥 [HN #8] They're made out of meat (1991)
+INFO     2026-04-09 06:23:15 [scraper.py:171] 🔗 [HN #8] URL: http://www.terrybisson.com/theyre-made-out-of-meat-2/
+INFO     2026-04-09 06:23:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-09 06:23:15 [scraper.py:170] 📥 [HN #9] Muse Spark: Scaling towards personal superintelligence
+INFO     2026-04-09 06:23:15 [scraper.py:171] 🔗 [HN #9] URL: https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1
+INFO     2026-04-09 06:23:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-09 06:23:15 [scraper.py:170] 📥 [HN #10] Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator
+INFO     2026-04-09 06:23:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html
+INFO     2026-04-09 06:23:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-09 06:23:15 [scraper.py:178] 🎉 [HN] All done.
+
