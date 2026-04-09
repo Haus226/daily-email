@@ -25261,3 +25261,36 @@ INFO     2026-04-09 06:23:15 [scraper.py:171] 🔗 [HN #10] URL: https://www.nyt
 INFO     2026-04-09 06:23:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-09 06:23:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-09 10:59:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-09 10:59:51 [scraper.py:170] 📥 [HN #1] LittleSnitch for Linux
+INFO     2026-04-09 10:59:51 [scraper.py:171] 🔗 [HN #1] URL: https://obdev.at/products/littlesnitch-linux/index.html
+INFO     2026-04-09 10:59:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-09 10:59:51 [scraper.py:170] 📥 [HN #2] Help Keep Thunderbird Alive
+INFO     2026-04-09 10:59:51 [scraper.py:171] 🔗 [HN #2] URL: https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/
+INFO     2026-04-09 10:59:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-09 10:59:51 [scraper.py:170] 📥 [HN #3] I ported Mac OS X to the Nintendo Wii
+INFO     2026-04-09 10:59:51 [scraper.py:171] 🔗 [HN #3] URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+INFO     2026-04-09 10:59:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-09 10:59:52 [scraper.py:170] 📥 [HN #4] Open Source Security at Astral
+INFO     2026-04-09 10:59:52 [scraper.py:171] 🔗 [HN #4] URL: https://astral.sh/blog/open-source-security-at-astral
+INFO     2026-04-09 10:59:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-09 10:59:52 [scraper.py:170] 📥 [HN #5] Creating the Futurescape for the Fifth Element [2019]
+INFO     2026-04-09 10:59:52 [scraper.py:171] 🔗 [HN #5] URL: https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element
+INFO     2026-04-09 10:59:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-09 10:59:52 [scraper.py:170] 📥 [HN #6] Reallocating $100/Month Claude Code Spend to Zed and OpenRouter
+INFO     2026-04-09 10:59:52 [scraper.py:171] 🔗 [HN #6] URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+INFO     2026-04-09 10:59:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-09 10:59:52 [scraper.py:170] 📥 [HN #7] C# in Unity 2026: Features Most Developers Still Don't Use
+INFO     2026-04-09 10:59:52 [scraper.py:171] 🔗 [HN #7] URL: https://darkounity.com/blog/c-in-unity-2026-features-most-developers-still-dont-use
+INFO     2026-04-09 10:59:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-09 10:59:53 [scraper.py:170] 📥 [HN #8] Haunted Paper Toys
+INFO     2026-04-09 10:59:53 [scraper.py:171] 🔗 [HN #8] URL: http://ravensblight.com/papertoys.html
+INFO     2026-04-09 10:59:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-09 10:59:53 [scraper.py:170] 📥 [HN #9] Claude mixes up who said what and that's not OK
+INFO     2026-04-09 10:59:53 [scraper.py:171] 🔗 [HN #9] URL: https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html
+INFO     2026-04-09 10:59:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-09 10:59:53 [scraper.py:170] 📥 [HN #10] Dr. Dobb's Developer Library DVD 6
+INFO     2026-04-09 10:59:53 [scraper.py:171] 🔗 [HN #10] URL: https://archive.org/details/DDJDVD6
+INFO     2026-04-09 10:59:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-09 10:59:53 [scraper.py:178] 🎉 [HN] All done.
+
