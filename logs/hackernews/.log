@@ -25294,3 +25294,36 @@ INFO     2026-04-09 10:59:53 [scraper.py:171] 🔗 [HN #10] URL: https://archive
 INFO     2026-04-09 10:59:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-09 10:59:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-10 03:31:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-10 03:31:20 [scraper.py:170] 📥 [HN #1] How NASA built Artemis II’s fault-tolerant computer
+INFO     2026-04-10 03:31:20 [scraper.py:171] 🔗 [HN #1] URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
+INFO     2026-04-10 03:31:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-10 03:31:20 [scraper.py:170] 📥 [HN #2] Native Instant Space Switching on macOS
+INFO     2026-04-10 03:31:20 [scraper.py:171] 🔗 [HN #2] URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/
+INFO     2026-04-10 03:31:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-10 03:31:20 [scraper.py:170] 📥 [HN #3] Generative art over the years
+INFO     2026-04-10 03:31:20 [scraper.py:171] 🔗 [HN #3] URL: https://blog.veitheller.de/Generative_art_over_the_years.html
+INFO     2026-04-10 03:31:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-10 03:31:20 [scraper.py:170] 📥 [HN #4] Apple's New iPhone Update Is Restricting Internet Freedom in the UK
+INFO     2026-04-10 03:31:20 [scraper.py:171] 🔗 [HN #4] URL: https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/
+INFO     2026-04-10 03:31:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-10 03:31:21 [scraper.py:170] 📥 [HN #5] Charcuterie – Visual similarity Unicode explorer
+INFO     2026-04-10 03:31:21 [scraper.py:171] 🔗 [HN #5] URL: https://charcuterie.elastiq.ch/
+INFO     2026-04-10 03:31:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-10 03:31:21 [scraper.py:170] 📥 [HN #6] I still prefer MCP over skills
+INFO     2026-04-10 03:31:21 [scraper.py:171] 🔗 [HN #6] URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+INFO     2026-04-10 03:31:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-10 03:31:21 [scraper.py:170] 📥 [HN #7] PicoZ80 – Drop-In Z80 Replacement
+INFO     2026-04-10 03:31:21 [scraper.py:171] 🔗 [HN #7] URL: https://eaw.app/picoz80/
+INFO     2026-04-10 03:31:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-10 03:31:21 [scraper.py:170] 📥 [HN #8] Reverse engineering Gemini's SynthID detection
+INFO     2026-04-10 03:31:21 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/aloshdenny/reverse-SynthID
+INFO     2026-04-10 03:31:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-10 03:31:21 [scraper.py:170] 📥 [HN #9] RAM Has a Design Flaw from 1966. I Bypassed It [video]
+INFO     2026-04-10 03:31:21 [scraper.py:171] 🔗 [HN #9] URL: https://www.youtube.com/watch?v=KKbgulTp3FE
+INFO     2026-04-10 03:31:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-10 03:31:22 [scraper.py:170] 📥 [HN #10] Will I ever own a zettaflop?
+INFO     2026-04-10 03:31:22 [scraper.py:171] 🔗 [HN #10] URL: https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html
+INFO     2026-04-10 03:31:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-10 03:31:22 [scraper.py:178] 🎉 [HN] All done.
+
