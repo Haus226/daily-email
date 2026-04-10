@@ -25360,3 +25360,36 @@ INFO     2026-04-10 06:54:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.yco
 INFO     2026-04-10 06:54:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-10 06:54:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-10 10:56:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-10 10:56:10 [scraper.py:170] 📥 [HN #1] France Launches Government Linux Desktop Plan as Windows Exit Begins
+INFO     2026-04-10 10:56:10 [scraper.py:171] 🔗 [HN #1] URL: https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
+INFO     2026-04-10 10:56:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-10 10:56:10 [scraper.py:170] 📥 [HN #2] How NASA built Artemis II’s fault-tolerant computer
+INFO     2026-04-10 10:56:10 [scraper.py:171] 🔗 [HN #2] URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
+INFO     2026-04-10 10:56:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-10 10:56:10 [scraper.py:170] 📥 [HN #3] I still prefer MCP over skills
+INFO     2026-04-10 10:56:10 [scraper.py:171] 🔗 [HN #3] URL: https://david.coffee/i-still-prefer-mcp-over-skills/
+INFO     2026-04-10 10:56:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-10 10:56:10 [scraper.py:170] 📥 [HN #4] Show HN: Keeper – embedded secret store for Go (help me break it)
+INFO     2026-04-10 10:56:10 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/agberohq/keeper
+INFO     2026-04-10 10:56:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-10 10:56:10 [scraper.py:170] 📥 [HN #5] Native Instant Space Switching on macOS
+INFO     2026-04-10 10:56:10 [scraper.py:171] 🔗 [HN #5] URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/
+INFO     2026-04-10 10:56:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:170] 📥 [HN #6] Model-Based Testing for Dungeons & Dragons
+INFO     2026-04-10 10:56:11 [scraper.py:171] 🔗 [HN #6] URL: https://www.loskutoff.com/blog/model-based-testing-dnd/
+INFO     2026-04-10 10:56:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:170] 📥 [HN #7] ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity
+INFO     2026-04-10 10:56:11 [scraper.py:171] 🔗 [HN #7] URL: https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html
+INFO     2026-04-10 10:56:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:170] 📥 [HN #8] We've raised $17M to build what comes after Git
+INFO     2026-04-10 10:56:11 [scraper.py:171] 🔗 [HN #8] URL: https://blog.gitbutler.com/series-a
+INFO     2026-04-10 10:56:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:170] 📥 [HN #9] Artemis II and the invisible hazard on the way to the Moon
+INFO     2026-04-10 10:56:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1
+INFO     2026-04-10 10:56:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:170] 📥 [HN #10] Generative art over the years
+INFO     2026-04-10 10:56:11 [scraper.py:171] 🔗 [HN #10] URL: https://blog.veitheller.de/Generative_art_over_the_years.html
+INFO     2026-04-10 10:56:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-10 10:56:11 [scraper.py:178] 🎉 [HN] All done.
+
