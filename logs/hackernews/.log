@@ -25459,3 +25459,36 @@ INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-11 06:03:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-11 10:35:32 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-11 10:35:33 [scraper.py:170] 📥 [HN #1] Filing the corners off my MacBooks
+INFO     2026-04-11 10:35:33 [scraper.py:171] 🔗 [HN #1] URL: https://kentwalters.com/posts/corners/
+INFO     2026-04-11 10:35:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-11 10:35:33 [scraper.py:170] 📥 [HN #2] Optimal Strategy for Connect 4
+INFO     2026-04-11 10:35:33 [scraper.py:171] 🔗 [HN #2] URL: https://2swap.github.io/WeakC4/explanation/
+INFO     2026-04-11 10:35:33 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-11 10:35:33 [scraper.py:170] 📥 [HN #3] Starfling: A one-tap endless orbital slingshot game in a single HTML file
+INFO     2026-04-11 10:35:33 [scraper.py:171] 🔗 [HN #3] URL: https://playstarfling.com
+INFO     2026-04-11 10:35:33 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-11 10:35:33 [scraper.py:170] 📥 [HN #4] 1D Chess
+INFO     2026-04-11 10:35:33 [scraper.py:171] 🔗 [HN #4] URL: https://rowan441.github.io/1dchess/chess.html
+INFO     2026-04-11 10:35:33 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-11 10:35:33 [scraper.py:170] 📥 [HN #5] Volunteers turn a fan's recordings of 10K concerts into an online treasure trove
+INFO     2026-04-11 10:35:33 [scraper.py:171] 🔗 [HN #5] URL: https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62
+INFO     2026-04-11 10:35:33 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:170] 📥 [HN #6] Artemis II safely splashes down
+INFO     2026-04-11 10:35:34 [scraper.py:171] 🔗 [HN #6] URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/
+INFO     2026-04-11 10:35:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:170] 📥 [HN #7] Installing every* Firefox extension
+INFO     2026-04-11 10:35:34 [scraper.py:171] 🔗 [HN #7] URL: https://jack.cab/blog/every-firefox-extension
+INFO     2026-04-11 10:35:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:170] 📥 [HN #8] Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
+INFO     2026-04-11 10:35:34 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/news/articles/cr71lkzv49po
+INFO     2026-04-11 10:35:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:170] 📥 [HN #9] AI assistance when contributing to the Linux kernel
+INFO     2026-04-11 10:35:34 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+INFO     2026-04-11 10:35:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:170] 📥 [HN #10] WireGuard makes new Windows release following Microsoft signing resolution
+INFO     2026-04-11 10:35:34 [scraper.py:171] 🔗 [HN #10] URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+INFO     2026-04-11 10:35:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-11 10:35:34 [scraper.py:178] 🎉 [HN] All done.
+
