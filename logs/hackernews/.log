@@ -25426,3 +25426,36 @@ INFO     2026-04-11 02:54:29 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-11 02:54:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-11 02:54:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-11 06:03:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-11 06:03:40 [scraper.py:170] 📥 [HN #1] Filing the corners off my MacBooks
+INFO     2026-04-11 06:03:40 [scraper.py:171] 🔗 [HN #1] URL: https://kentwalters.com/posts/corners/
+INFO     2026-04-11 06:03:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-11 06:03:41 [scraper.py:170] 📥 [HN #2] 20 Years on AWS and Never Not My Job
+INFO     2026-04-11 06:03:41 [scraper.py:171] 🔗 [HN #2] URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html
+INFO     2026-04-11 06:03:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-11 06:03:41 [scraper.py:170] 📥 [HN #3] Artemis II safely splashes down
+INFO     2026-04-11 06:03:41 [scraper.py:171] 🔗 [HN #3] URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/
+INFO     2026-04-11 06:03:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-11 06:03:41 [scraper.py:170] 📥 [HN #4] 1D Chess
+INFO     2026-04-11 06:03:41 [scraper.py:171] 🔗 [HN #4] URL: https://rowan441.github.io/1dchess/chess.html
+INFO     2026-04-11 06:03:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #5] Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #5] URL: https://www.bbc.com/news/articles/cr71lkzv49po
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #6] Installing every* Firefox extension
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #6] URL: https://jack.cab/blog/every-firefox-extension
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #7] Bevy game development tutorials and in-depth resources
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #7] URL: https://taintedcoders.com/
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #8] WireGuard makes new Windows release following Microsoft signing resolution
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #8] URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #9] Starfling: A one-tap endless orbital slingshot game in a single HTML file
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #9] URL: https://playstarfling.com
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:170] 📥 [HN #10] AI assistance when contributing to the Linux kernel
+INFO     2026-04-11 06:03:42 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+INFO     2026-04-11 06:03:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-11 06:03:42 [scraper.py:178] 🎉 [HN] All done.
+
