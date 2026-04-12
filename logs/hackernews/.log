@@ -25525,3 +25525,36 @@ INFO     2026-04-12 03:35:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.v68
 INFO     2026-04-12 03:35:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-12 03:35:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-12 06:24:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-12 06:24:28 [scraper.py:170] 📥 [HN #1] The End of Eleventy
+INFO     2026-04-12 06:24:28 [scraper.py:171] 🔗 [HN #1] URL: https://brennan.day/the-end-of-eleventy/
+INFO     2026-04-12 06:24:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-12 06:24:28 [scraper.py:170] 📥 [HN #2] Small models also found the vulnerabilities that Mythos found
+INFO     2026-04-12 06:24:28 [scraper.py:171] 🔗 [HN #2] URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+INFO     2026-04-12 06:24:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-12 06:24:28 [scraper.py:170] 📥 [HN #3] US appeals court declares 158-year-old home distilling ban unconstitutional
+INFO     2026-04-12 06:24:28 [scraper.py:171] 🔗 [HN #3] URL: https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional
+INFO     2026-04-12 06:24:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-12 06:24:28 [scraper.py:170] 📥 [HN #4] How We Broke Top AI Agent Benchmarks: And What Comes Next
+INFO     2026-04-12 06:24:28 [scraper.py:171] 🔗 [HN #4] URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+INFO     2026-04-12 06:24:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-12 06:24:29 [scraper.py:170] 📥 [HN #5] How Complex is my Code?
+INFO     2026-04-12 06:24:29 [scraper.py:171] 🔗 [HN #5] URL: https://philodev.one/posts/2026-04-code-complexity/
+INFO     2026-04-12 06:24:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-12 06:24:29 [scraper.py:170] 📥 [HN #6] 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+INFO     2026-04-12 06:24:29 [scraper.py:171] 🔗 [HN #6] URL: https://zenodo.org/records/19513269
+INFO     2026-04-12 06:24:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-12 06:24:29 [scraper.py:170] 📥 [HN #7] Dark Castle
+INFO     2026-04-12 06:24:29 [scraper.py:171] 🔗 [HN #7] URL: https://darkcastle.co.uk/
+INFO     2026-04-12 06:24:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-12 06:24:29 [scraper.py:170] 📥 [HN #8] Pijul a FOSS distributed version control system
+INFO     2026-04-12 06:24:29 [scraper.py:171] 🔗 [HN #8] URL: https://pijul.org/
+INFO     2026-04-12 06:24:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-12 06:24:29 [scraper.py:170] 📥 [HN #9] How a dancer with ALS used brainwaves to perform live
+INFO     2026-04-12 06:24:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/
+INFO     2026-04-12 06:24:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-12 06:24:30 [scraper.py:170] 📥 [HN #10] Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+INFO     2026-04-12 06:24:30 [scraper.py:171] 🔗 [HN #10] URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+INFO     2026-04-12 06:24:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-12 06:24:30 [scraper.py:178] 🎉 [HN] All done.
+
