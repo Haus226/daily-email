@@ -3822,3 +3822,8 @@ INFO     2026-04-11 10:35:33 [scraper.py:47] 📥 [APOD] Title: Artemis II: Flig
 INFO     2026-04-11 10:35:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg
 INFO     2026-04-11 10:35:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-12 03:35:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-12 03:35:18 [scraper.py:47] 📥 [APOD] Title: Artemis II: Flight Day 6
+INFO     2026-04-12 03:35:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg
+INFO     2026-04-12 03:35:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
