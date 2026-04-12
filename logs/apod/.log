@@ -3832,3 +3832,8 @@ INFO     2026-04-12 06:24:28 [scraper.py:47] 📥 [APOD] Title: Comet R3 (PanSTA
 INFO     2026-04-12 06:24:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg
 INFO     2026-04-12 06:24:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-12 10:39:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-12 10:39:37 [scraper.py:47] 📥 [APOD] Title: Comet R3 (PanSTARRS) Brightens
+INFO     2026-04-12 10:39:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg
+INFO     2026-04-12 10:39:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

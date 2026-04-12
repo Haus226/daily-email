@@ -25558,3 +25558,36 @@ INFO     2026-04-12 06:24:30 [scraper.py:171] 🔗 [HN #10] URL: https://khronok
 INFO     2026-04-12 06:24:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-12 06:24:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-12 10:39:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-12 10:39:37 [scraper.py:170] 📥 [HN #1] An Interview with Pat Gelsinger
+INFO     2026-04-12 10:39:37 [scraper.py:171] 🔗 [HN #1] URL: https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026
+INFO     2026-04-12 10:39:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-12 10:39:37 [scraper.py:170] 📥 [HN #2] Tofolli gates are all you need
+INFO     2026-04-12 10:39:37 [scraper.py:171] 🔗 [HN #2] URL: https://www.johndcook.com/blog/2026/04/06/tofolli-gates/
+INFO     2026-04-12 10:39:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-12 10:39:37 [scraper.py:170] 📥 [HN #3] I run multiple $10K MRR companies on a $20/month tech stack
+INFO     2026-04-12 10:39:37 [scraper.py:171] 🔗 [HN #3] URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
+INFO     2026-04-12 10:39:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-12 10:39:37 [scraper.py:170] 📥 [HN #4] How We Broke Top AI Agent Benchmarks: And What Comes Next
+INFO     2026-04-12 10:39:37 [scraper.py:171] 🔗 [HN #4] URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+INFO     2026-04-12 10:39:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #5] The Miller Principle
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #5] URL: https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #6] The End of Eleventy
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #6] URL: https://brennan.day/the-end-of-eleventy/
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #7] US appeals court declares 158-year-old home distilling ban unconstitutional
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #7] URL: https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #8] Small models also found the vulnerabilities that Mythos found
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #8] URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #9] Apple update looks like Czech mate for locked-out iPhone user
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #9] URL: https://www.theregister.com/2026/04/12/ios_passcode_bug/
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:170] 📥 [HN #10] How Complex is my Code?
+INFO     2026-04-12 10:39:38 [scraper.py:171] 🔗 [HN #10] URL: https://philodev.one/posts/2026-04-code-complexity/
+INFO     2026-04-12 10:39:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-12 10:39:38 [scraper.py:178] 🎉 [HN] All done.
+
