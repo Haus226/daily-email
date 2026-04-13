@@ -25657,3 +25657,36 @@ INFO     2026-04-13 07:17:01 [scraper.py:171] 🔗 [HN #10] URL: https://alok.gi
 INFO     2026-04-13 07:17:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-13 07:17:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-13 11:17:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-13 11:17:51 [scraper.py:170] 📥 [HN #1] All elementary functions from a single binary operator
+INFO     2026-04-13 11:17:51 [scraper.py:171] 🔗 [HN #1] URL: https://arxiv.org/abs/2603.21852
+INFO     2026-04-13 11:17:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-13 11:17:51 [scraper.py:170] 📥 [HN #2] Show HN: I built a social media management tool in 3 weeks with Claude and Codex
+INFO     2026-04-13 11:17:51 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/brightbeanxyz/brightbean-studio
+INFO     2026-04-13 11:17:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-13 11:17:51 [scraper.py:170] 📥 [HN #3] The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind
+INFO     2026-04-13 11:17:52 [scraper.py:171] 🔗 [HN #3] URL: https://www.viktorcessan.com/the-economics-of-software-teams/
+INFO     2026-04-13 11:17:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-13 11:17:52 [scraper.py:170] 📥 [HN #4] Taking on CUDA with ROCm: 'One Step After Another'
+INFO     2026-04-13 11:17:52 [scraper.py:171] 🔗 [HN #4] URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+INFO     2026-04-13 11:17:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-13 11:17:52 [scraper.py:170] 📥 [HN #5] DIY Soft Drinks
+INFO     2026-04-13 11:17:52 [scraper.py:171] 🔗 [HN #5] URL: https://blinry.org/diy-soft-drinks/
+INFO     2026-04-13 11:17:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-13 11:17:52 [scraper.py:170] 📥 [HN #6] Bring Back Idiomatic Design (2023)
+INFO     2026-04-13 11:17:52 [scraper.py:171] 🔗 [HN #6] URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+INFO     2026-04-13 11:17:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-13 11:17:52 [scraper.py:170] 📥 [HN #7] Show HN: boringBar – a taskbar-style dock replacement for macOS
+INFO     2026-04-13 11:17:52 [scraper.py:171] 🔗 [HN #7] URL: https://boringbar.app/
+INFO     2026-04-13 11:17:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-13 11:17:53 [scraper.py:170] 📥 [HN #8] Most people can't juggle one ball
+INFO     2026-04-13 11:17:53 [scraper.py:171] 🔗 [HN #8] URL: https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball
+INFO     2026-04-13 11:17:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-13 11:17:53 [scraper.py:170] 📥 [HN #9] Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets
+INFO     2026-04-13 11:17:53 [scraper.py:171] 🔗 [HN #9] URL: https://arxiv.org/abs/2604.07902
+INFO     2026-04-13 11:17:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-13 11:17:53 [scraper.py:170] 📥 [HN #10] Ask HN: What Are You Working On? (April 2026)
+INFO     2026-04-13 11:17:53 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=47741527
+INFO     2026-04-13 11:17:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-13 11:17:53 [scraper.py:178] 🎉 [HN] All done.
+
