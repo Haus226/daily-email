@@ -10241,3 +10241,24 @@ INFO     2026-04-13 11:17:51 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-13 11:17:51 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-14 03:30:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-14 03:30:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-14 03:30:58 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-14 03:30:58 [scraper.py:133] 📥 [EO] Title: Megaberg Ends Its Long Odyssey at Sea
+INFO     2026-04-14 03:30:58 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/megaberg-ends-its-long-odyssey-at-sea/a23aiceberg_map_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-14 03:30:58 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-14 03:30:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-14 03:30:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-14 03:30:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-14 03:30:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-14 03:30:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-14 03:30:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-14 03:30:59 [scraper.py:133] 📥 [EO] Title: Megaberg Ends Its Long Odyssey at Sea
+INFO     2026-04-14 03:30:59 [scraper.py:133] 📥 [EO] Title: Megaberg Ends Its Long Odyssey at Sea
+INFO     2026-04-14 03:30:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/megaberg-ends-its-long-odyssey-at-sea/a23aiceberg_map_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-14 03:30:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/megaberg-ends-its-long-odyssey-at-sea/a23aiceberg_map_20260320_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-14 03:30:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-14 03:30:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -3852,3 +3852,8 @@ INFO     2026-04-13 11:17:51 [scraper.py:47] 📥 [APOD] Title: NGC 602 and Beyo
 INFO     2026-04-13 11:17:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg
 INFO     2026-04-13 11:17:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-14 03:30:58 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-14 03:30:58 [scraper.py:47] 📥 [APOD] Title: NGC 602 and Beyond
+INFO     2026-04-14 03:30:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg
+INFO     2026-04-14 03:30:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
