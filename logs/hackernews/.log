@@ -25756,3 +25756,36 @@ INFO     2026-04-14 06:54:19 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-14 06:54:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-14 06:54:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-14 11:04:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-14 11:04:27 [scraper.py:170] 📥 [HN #1] DaVinci Resolve – Photo
+INFO     2026-04-14 11:04:27 [scraper.py:171] 🔗 [HN #1] URL: https://www.blackmagicdesign.com/products/davinciresolve/photo
+INFO     2026-04-14 11:04:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-14 11:04:27 [scraper.py:170] 📥 [HN #2] Backblaze has stopped backing up your data
+INFO     2026-04-14 11:04:27 [scraper.py:171] 🔗 [HN #2] URL: https://rareese.com/posts/backblaze/
+INFO     2026-04-14 11:04:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-14 11:04:27 [scraper.py:170] 📥 [HN #3] A new spam policy for “back button hijacking”
+INFO     2026-04-14 11:04:27 [scraper.py:171] 🔗 [HN #3] URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking
+INFO     2026-04-14 11:04:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-14 11:04:27 [scraper.py:170] 📥 [HN #4] Someone bought 30 WordPress plugins and planted a backdoor in all of them
+INFO     2026-04-14 11:04:27 [scraper.py:171] 🔗 [HN #4] URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+INFO     2026-04-14 11:04:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-14 11:04:28 [scraper.py:170] 📥 [HN #5] Introspective Diffusion Language Models
+INFO     2026-04-14 11:04:28 [scraper.py:171] 🔗 [HN #5] URL: https://introspective-diffusion.github.io/
+INFO     2026-04-14 11:04:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-14 11:04:28 [scraper.py:170] 📥 [HN #6] GitHub Stacked PRs
+INFO     2026-04-14 11:04:28 [scraper.py:171] 🔗 [HN #6] URL: https://github.github.com/gh-stack/
+INFO     2026-04-14 11:04:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-14 11:04:28 [scraper.py:170] 📥 [HN #7] Distributed DuckDB Instance
+INFO     2026-04-14 11:04:28 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/citguru/openduck
+INFO     2026-04-14 11:04:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-14 11:04:28 [scraper.py:170] 📥 [HN #8] Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict
+INFO     2026-04-14 11:04:28 [scraper.py:171] 🔗 [HN #8] URL: https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/
+INFO     2026-04-14 11:04:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-14 11:04:28 [scraper.py:170] 📥 [HN #9] Lean proved this program correct; then I found a bug
+INFO     2026-04-14 11:04:28 [scraper.py:171] 🔗 [HN #9] URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html
+INFO     2026-04-14 11:04:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-14 11:04:29 [scraper.py:170] 📥 [HN #10] An AI Vibe Coding Horror Story
+INFO     2026-04-14 11:04:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.tobru.ch/an-ai-vibe-coding-horror-story/
+INFO     2026-04-14 11:04:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-14 11:04:29 [scraper.py:178] 🎉 [HN] All done.
+
