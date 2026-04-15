@@ -10325,3 +10325,24 @@ INFO     2026-04-15 03:29:57 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-15 03:29:57 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-15 06:56:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-15 06:56:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-15 06:56:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-15 06:56:20 [scraper.py:133] 📥 [EO] Title: Contours of the James Bay Lowlands
+INFO     2026-04-15 06:56:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-15 06:56:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-15 06:56:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-15 06:56:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-15 06:56:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-15 06:56:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-15 06:56:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-15 06:56:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-15 06:56:22 [scraper.py:133] 📥 [EO] Title: Contours of the James Bay Lowlands
+INFO     2026-04-15 06:56:22 [scraper.py:133] 📥 [EO] Title: Contours of the James Bay Lowlands
+INFO     2026-04-15 06:56:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-15 06:56:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-15 06:56:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-15 06:56:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
