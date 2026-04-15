@@ -25855,3 +25855,36 @@ INFO     2026-04-15 06:56:23 [scraper.py:171] 🔗 [HN #10] URL: https://taoofma
 INFO     2026-04-15 06:56:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-15 06:56:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-15 11:00:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-15 11:00:20 [scraper.py:170] 📥 [HN #1] Want to Write a Compiler? Just Read These Two Papers (2008)
+INFO     2026-04-15 11:00:20 [scraper.py:171] 🔗 [HN #1] URL: https://prog21.dadgum.com/30.html
+INFO     2026-04-15 11:00:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-15 11:00:21 [scraper.py:170] 📥 [HN #2] Good Sleep, Good Learning (2012)
+INFO     2026-04-15 11:00:21 [scraper.py:171] 🔗 [HN #2] URL: https://super-memory.com/articles/sleep.htm
+INFO     2026-04-15 11:00:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-15 11:00:21 [scraper.py:170] 📥 [HN #3] Fixing a 20-year-old bug in Enlightenment E16
+INFO     2026-04-15 11:00:21 [scraper.py:171] 🔗 [HN #3] URL: https://iczelia.net/posts/e16-20-year-old-bug/
+INFO     2026-04-15 11:00:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-15 11:00:21 [scraper.py:170] 📥 [HN #4] Claude Code Routines
+INFO     2026-04-15 11:00:21 [scraper.py:171] 🔗 [HN #4] URL: https://code.claude.com/docs/en/routines
+INFO     2026-04-15 11:00:21 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-15 11:00:21 [scraper.py:170] 📥 [HN #5] My AI-Assisted Workflow
+INFO     2026-04-15 11:00:21 [scraper.py:171] 🔗 [HN #5] URL: https://www.maiobarbero.dev/articles/ai-assisted-workflow/
+INFO     2026-04-15 11:00:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:170] 📥 [HN #6] Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis
+INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #6] URL: https://en.wikipedia.org/wiki/Costasiella_kuroshimae
+INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:170] 📥 [HN #7] Claude may require identity verification in some cases
+INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #7] URL: https://support.claude.com/en/articles/14328960-identity-verification-on-claude
+INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:170] 📥 [HN #8] Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference
+INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #8] URL: https://www.gizmoweek.com/gemma-4-runs-iphone/
+INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:170] 📥 [HN #9] Wacli – WhatsApp CLI: sync, search, send
+INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/steipete/wacli
+INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:170] 📥 [HN #10] A communist Apple II and fourteen years of not knowing what you're testing
+INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #10] URL: https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/
+INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-15 11:00:22 [scraper.py:178] 🎉 [HN] All done.
+
