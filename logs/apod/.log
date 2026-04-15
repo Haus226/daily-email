@@ -3865,3 +3865,8 @@ INFO     2026-04-14 11:04:27 [scraper.py:47] 📥 [APOD] Title: The Long Wispy T
 INFO     2026-04-14 11:04:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg
 INFO     2026-04-14 11:04:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-15 03:29:56 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-15 03:29:56 [scraper.py:47] 📥 [APOD] Title: The Long Wispy Tail of Comet R3 (PanSTARRS)
+INFO     2026-04-15 03:29:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg
+INFO     2026-04-15 03:29:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
