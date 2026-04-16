@@ -25921,3 +25921,36 @@ INFO     2026-04-16 03:36:44 [scraper.py:171] 🔗 [HN #10] URL: https://tratt.n
 INFO     2026-04-16 03:36:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-16 03:36:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-16 06:57:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-16 06:57:50 [scraper.py:170] 📥 [HN #1] Darkbloom – Private inference on idle Macs
+INFO     2026-04-16 06:57:50 [scraper.py:171] 🔗 [HN #1] URL: https://darkbloom.dev
+INFO     2026-04-16 06:57:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-16 06:57:50 [scraper.py:170] 📥 [HN #2] FSF trying to contact Google about spammer sending 10k+ mails from Gmail account
+INFO     2026-04-16 06:57:50 [scraper.py:171] 🔗 [HN #2] URL: https://daedal.io/@thomzane/116410863009847575
+INFO     2026-04-16 06:57:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-16 06:57:51 [scraper.py:170] 📥 [HN #3] Sal Khan's AI revolution hasn't happened yet
+INFO     2026-04-16 06:57:51 [scraper.py:171] 🔗 [HN #3] URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/
+INFO     2026-04-16 06:57:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-16 06:57:51 [scraper.py:170] 📥 [HN #4] RedSun: System user access on Win 11/10 and Server with the April 2026 Update
+INFO     2026-04-16 06:57:51 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/Nightmare-Eclipse/RedSun
+INFO     2026-04-16 06:57:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-16 06:57:51 [scraper.py:170] 📥 [HN #5] Stop Using Ollama
+INFO     2026-04-16 06:57:51 [scraper.py:171] 🔗 [HN #5] URL: https://sleepingrobots.com/dreams/stop-using-ollama/
+INFO     2026-04-16 06:57:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:170] 📥 [HN #6] IPv6 traffic crosses the 50% mark
+INFO     2026-04-16 06:57:52 [scraper.py:171] 🔗 [HN #6] URL: https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197
+INFO     2026-04-16 06:57:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:170] 📥 [HN #7] Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus
+INFO     2026-04-16 06:57:52 [scraper.py:171] 🔗 [HN #7] URL: https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45
+INFO     2026-04-16 06:57:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:170] 📥 [HN #8] The paper computer
+INFO     2026-04-16 06:57:52 [scraper.py:171] 🔗 [HN #8] URL: https://jsomers.net/blog/the-paper-computer
+INFO     2026-04-16 06:57:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:170] 📥 [HN #9] A Look into NaviDial, Japan's Legacy Phone Service
+INFO     2026-04-16 06:57:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service
+INFO     2026-04-16 06:57:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:170] 📥 [HN #10] Cybersecurity looks like proof of work now
+INFO     2026-04-16 06:57:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+INFO     2026-04-16 06:57:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-16 06:57:52 [scraper.py:178] 🎉 [HN] All done.
+
