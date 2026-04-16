@@ -3888,3 +3888,8 @@ INFO     2026-04-16 06:57:50 [scraper.py:47] 📥 [APOD] Title: South Celestial 
 INFO     2026-04-16 06:57:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
 INFO     2026-04-16 06:57:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-16 11:04:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-16 11:04:34 [scraper.py:47] 📥 [APOD] Title: South Celestial Tree
+INFO     2026-04-16 11:04:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
+INFO     2026-04-16 11:04:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
