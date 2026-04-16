@@ -25888,3 +25888,36 @@ INFO     2026-04-15 11:00:22 [scraper.py:171] 🔗 [HN #10] URL: https://llama.g
 INFO     2026-04-15 11:00:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-15 11:00:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-16 03:36:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-16 03:36:42 [scraper.py:170] 📥 [HN #1] Stealth signals are bypassing Iran’s internet blackout
+INFO     2026-04-16 03:36:42 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/iran-internet-blackout-satellite-tv
+INFO     2026-04-16 03:36:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-16 03:36:42 [scraper.py:170] 📥 [HN #2] Cybersecurity looks like proof of work now
+INFO     2026-04-16 03:36:42 [scraper.py:171] 🔗 [HN #2] URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+INFO     2026-04-16 03:36:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-16 03:36:42 [scraper.py:170] 📥 [HN #3] The paper computer
+INFO     2026-04-16 03:36:42 [scraper.py:171] 🔗 [HN #3] URL: https://jsomers.net/blog/the-paper-computer
+INFO     2026-04-16 03:36:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #4] I made a terminal pager
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #4] URL: https://theleo.zone/posts/pager/
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #5] Google broke its promise to me – now ICE has my data
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #5] URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #6] God sleeps in the minerals
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #6] URL: https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #7] Cal.com is going closed source
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #7] URL: https://cal.com/blog/cal-com-goes-closed-source-why
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #8] Introduction to Spherical Harmonics for Graphics Programmers
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #8] URL: https://gpfault.net/posts/sph.html
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-16 03:36:43 [scraper.py:170] 📥 [HN #9] PiCore - Raspberry Pi Port of Tiny Core Linux
+INFO     2026-04-16 03:36:43 [scraper.py:171] 🔗 [HN #9] URL: http://tinycorelinux.net/5.x/armv6/releases/README
+INFO     2026-04-16 03:36:43 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-16 03:36:44 [scraper.py:170] 📥 [HN #10] Retrofitting JIT Compilers into C Interpreters
+INFO     2026-04-16 03:36:44 [scraper.py:171] 🔗 [HN #10] URL: https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html
+INFO     2026-04-16 03:36:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-16 03:36:44 [scraper.py:178] 🎉 [HN] All done.
+
