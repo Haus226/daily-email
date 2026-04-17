@@ -26053,3 +26053,36 @@ INFO     2026-04-17 06:58:42 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-17 06:58:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-17 06:58:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-17 10:57:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-17 10:57:28 [scraper.py:170] 📥 [HN #1] Ada, Its Design, and the Language That Built the Languages
+INFO     2026-04-17 10:57:28 [scraper.py:171] 🔗 [HN #1] URL: https://www.iqiipi.com/the-quiet-colossus.html
+INFO     2026-04-17 10:57:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-17 10:57:28 [scraper.py:170] 📥 [HN #2] Claude Opus 4.7
+INFO     2026-04-17 10:57:28 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-opus-4-7
+INFO     2026-04-17 10:57:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-17 10:57:28 [scraper.py:170] 📥 [HN #3] Codex for almost everything
+INFO     2026-04-17 10:57:28 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/codex-for-almost-everything/
+INFO     2026-04-17 10:57:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-17 10:57:29 [scraper.py:170] 📥 [HN #4] FIM – Linux framebuffer image viewer
+INFO     2026-04-17 10:57:29 [scraper.py:171] 🔗 [HN #4] URL: https://www.nongnu.org/fbi-improved/
+INFO     2026-04-17 10:57:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-17 10:57:29 [scraper.py:170] 📥 [HN #5] A Python Interpreter Written in Python
+INFO     2026-04-17 10:57:29 [scraper.py:171] 🔗 [HN #5] URL: https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+INFO     2026-04-17 10:57:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-17 10:57:29 [scraper.py:170] 📥 [HN #6] CadQuery is an open-source Python library for building 3D CAD models
+INFO     2026-04-17 10:57:29 [scraper.py:171] 🔗 [HN #6] URL: https://cadquery.github.io/
+INFO     2026-04-17 10:57:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-17 10:57:29 [scraper.py:170] 📥 [HN #7] 30 Years of HPC: many hardware advances, little adoption of new languages
+INFO     2026-04-17 10:57:29 [scraper.py:171] 🔗 [HN #7] URL: https://chapel-lang.org/blog/posts/30years/
+INFO     2026-04-17 10:57:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-17 10:57:30 [scraper.py:170] 📥 [HN #8] Android CLI: Build Android apps 3x faster using any agent
+INFO     2026-04-17 10:57:30 [scraper.py:171] 🔗 [HN #8] URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+INFO     2026-04-17 10:57:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-17 10:57:30 [scraper.py:170] 📥 [HN #9] Show HN: SPICE simulation → oscilloscope → verification with Claude Code
+INFO     2026-04-17 10:57:30 [scraper.py:171] 🔗 [HN #9] URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+INFO     2026-04-17 10:57:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-17 10:57:30 [scraper.py:170] 📥 [HN #10] Human Accelerated Region 1
+INFO     2026-04-17 10:57:30 [scraper.py:171] 🔗 [HN #10] URL: https://en.wikipedia.org/wiki/Human_accelerated_region_1
+INFO     2026-04-17 10:57:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-17 10:57:30 [scraper.py:178] 🎉 [HN] All done.
+

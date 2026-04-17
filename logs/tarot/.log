@@ -3923,3 +3923,8 @@ INFO     2026-04-17 06:58:40 [scraper.py:390] 📥 [TAROT] Card: The Tower
 INFO     2026-04-17 06:58:40 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-04-17 06:58:40 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-04-17 10:57:27 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-04-17 10:57:27 [scraper.py:390] 📥 [TAROT] Card: The Tower
+INFO     2026-04-17 10:57:27 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-04-17 10:57:27 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
