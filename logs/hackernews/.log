@@ -25987,3 +25987,36 @@ INFO     2026-04-16 11:04:37 [scraper.py:171] 🔗 [HN #10] URL: https://heather
 INFO     2026-04-16 11:04:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-16 11:04:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-17 03:32:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-17 03:33:00 [scraper.py:170] 📥 [HN #1] Claude Opus 4.7
+INFO     2026-04-17 03:33:00 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/claude-opus-4-7
+INFO     2026-04-17 03:33:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-17 03:33:00 [scraper.py:170] 📥 [HN #2] Codex for almost everything
+INFO     2026-04-17 03:33:00 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/codex-for-almost-everything/
+INFO     2026-04-17 03:33:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-17 03:33:00 [scraper.py:170] 📥 [HN #3] CadQuery is an open-source Python library for building 3D CAD models
+INFO     2026-04-17 03:33:00 [scraper.py:171] 🔗 [HN #3] URL: https://cadquery.github.io/
+INFO     2026-04-17 03:33:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-17 03:33:01 [scraper.py:170] 📥 [HN #4] Show HN: Spice simulation → oscilloscope → verification with Claude Code
+INFO     2026-04-17 03:33:01 [scraper.py:171] 🔗 [HN #4] URL: https://lucasgerads.com/blog/lecroy-mcp-spice-demo/
+INFO     2026-04-17 03:33:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-17 03:33:01 [scraper.py:170] 📥 [HN #5] Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
+INFO     2026-04-17 03:33:01 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/gainsec/autoprober
+INFO     2026-04-17 03:33:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-17 03:33:01 [scraper.py:170] 📥 [HN #6] A Better R Programming Experience Thanks to Tree-sitter
+INFO     2026-04-17 03:33:01 [scraper.py:171] 🔗 [HN #6] URL: https://ropensci.org/blog/2026/04/02/tree-sitter-overview/
+INFO     2026-04-17 03:33:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-17 03:33:01 [scraper.py:170] 📥 [HN #7] Substrate AI Is Hiring Harness Engineers
+INFO     2026-04-17 03:33:01 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer
+INFO     2026-04-17 03:33:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-17 03:33:02 [scraper.py:170] 📥 [HN #8] Android CLI: Build Android apps 3x faster using any agent
+INFO     2026-04-17 03:33:02 [scraper.py:171] 🔗 [HN #8] URL: https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html
+INFO     2026-04-17 03:33:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-17 03:33:02 [scraper.py:170] 📥 [HN #9] Official Clojure Documentary page with Video, Shownotes, and Links
+INFO     2026-04-17 03:33:02 [scraper.py:171] 🔗 [HN #9] URL: https://clojure.org/about/documentary
+INFO     2026-04-17 03:33:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-17 03:33:02 [scraper.py:170] 📥 [HN #10] 288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio
+INFO     2026-04-17 03:33:02 [scraper.py:171] 🔗 [HN #10] URL: https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/
+INFO     2026-04-17 03:33:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-17 03:33:02 [scraper.py:178] 🎉 [HN] All done.
+
