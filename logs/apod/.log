@@ -3898,3 +3898,8 @@ INFO     2026-04-17 03:33:00 [scraper.py:47] 📥 [APOD] Title: South Celestial 
 INFO     2026-04-17 03:33:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
 INFO     2026-04-17 03:33:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-17 06:58:40 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-17 06:58:40 [scraper.py:47] 📥 [APOD] Title: M82: Starburst Galaxy with a Superwind
+INFO     2026-04-17 06:58:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg
+INFO     2026-04-17 06:58:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
