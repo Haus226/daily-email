@@ -3916,3 +3916,8 @@ INFO     2026-04-18 06:14:39 [scraper.py:47] 📥 [APOD] Title: PanSTARRS and Pl
 INFO     2026-04-18 06:14:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
 INFO     2026-04-18 06:14:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-18 10:41:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-18 10:41:36 [scraper.py:47] 📥 [APOD] Title: PanSTARRS and Planets
+INFO     2026-04-18 10:41:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
+INFO     2026-04-18 10:41:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

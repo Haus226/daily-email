@@ -26152,3 +26152,36 @@ INFO     2026-04-18 06:14:42 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-18 06:14:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-18 06:14:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-18 10:41:35 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-18 10:41:36 [scraper.py:170] 📥 [HN #1] Category Theory Illustrated – Orders
+INFO     2026-04-18 10:41:36 [scraper.py:171] 🔗 [HN #1] URL: https://abuseofnotation.github.io/category-theory-illustrated/04_order/
+INFO     2026-04-18 10:41:36 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-18 10:41:36 [scraper.py:170] 📥 [HN #2] Amiga Graphics
+INFO     2026-04-18 10:41:36 [scraper.py:171] 🔗 [HN #2] URL: https://amiga.lychesis.net/
+INFO     2026-04-18 10:41:36 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-18 10:41:36 [scraper.py:170] 📥 [HN #3] Michael Rabin Has Died
+INFO     2026-04-18 10:41:36 [scraper.py:171] 🔗 [HN #3] URL: https://en.wikipedia.org/wiki/Michael_O._Rabin
+INFO     2026-04-18 10:41:36 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-18 10:41:36 [scraper.py:170] 📥 [HN #4] Claude Design
+INFO     2026-04-18 10:41:36 [scraper.py:171] 🔗 [HN #4] URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+INFO     2026-04-18 10:41:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #5] Show HN: I made a calculator that works over disjoint sets of intervals
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #5] URL: https://victorpoughon.github.io/interval-calculator/
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #6] America Lost the Mandate of Heaven
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #6] URL: https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #7] Measuring Claude 4.7's tokenizer costs
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #7] URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #8] Towards trust in Emacs
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #8] URL: https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #9] All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #9] URL: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:170] 📥 [HN #10] The simple geometry behind any road
+INFO     2026-04-18 10:41:37 [scraper.py:171] 🔗 [HN #10] URL: https://sandboxspirit.com/blog/simple-geometry-of-roads/
+INFO     2026-04-18 10:41:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-18 10:41:37 [scraper.py:178] 🎉 [HN] All done.
+
