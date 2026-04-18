@@ -3911,3 +3911,8 @@ INFO     2026-04-18 03:20:38 [scraper.py:47] 📥 [APOD] Title: M82: Starburst G
 INFO     2026-04-18 03:20:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg
 INFO     2026-04-18 03:20:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-18 06:14:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-18 06:14:39 [scraper.py:47] 📥 [APOD] Title: PanSTARRS and Planets
+INFO     2026-04-18 06:14:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
+INFO     2026-04-18 06:14:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
