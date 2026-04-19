@@ -26251,3 +26251,36 @@ INFO     2026-04-19 06:48:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.jen
 INFO     2026-04-19 06:48:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-19 06:48:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-19 10:40:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-19 10:40:01 [scraper.py:170] 📥 [HN #1] SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)
+INFO     2026-04-19 10:40:01 [scraper.py:171] 🔗 [HN #1] URL: https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf
+INFO     2026-04-19 10:40:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-19 10:40:02 [scraper.py:170] 📥 [HN #2] Game Devs Explain the Tricks Involved with Letting You Pause a Game
+INFO     2026-04-19 10:40:02 [scraper.py:171] 🔗 [HN #2] URL: https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339
+INFO     2026-04-19 10:40:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-19 10:40:02 [scraper.py:170] 📥 [HN #3] NIST scientists create 'any wavelength' lasers
+INFO     2026-04-19 10:40:02 [scraper.py:171] 🔗 [HN #3] URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+INFO     2026-04-19 10:40:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-19 10:40:02 [scraper.py:170] 📥 [HN #4] What are skiplists good for?
+INFO     2026-04-19 10:40:02 [scraper.py:171] 🔗 [HN #4] URL: https://antithesis.com/blog/2026/skiptrees/
+INFO     2026-04-19 10:40:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-19 10:40:02 [scraper.py:170] 📥 [HN #5] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+INFO     2026-04-19 10:40:02 [scraper.py:171] 🔗 [HN #5] URL: https://tokens.billchambers.me/leaderboard
+INFO     2026-04-19 10:40:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-19 10:40:02 [scraper.py:170] 📥 [HN #6] College instructor turns to typewriters to curb AI-written work
+INFO     2026-04-19 10:40:02 [scraper.py:171] 🔗 [HN #6] URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+INFO     2026-04-19 10:40:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-19 10:40:03 [scraper.py:170] 📥 [HN #7] The electromechanical angle computer inside the B-52 bomber's star tracker
+INFO     2026-04-19 10:40:03 [scraper.py:171] 🔗 [HN #7] URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
+INFO     2026-04-19 10:40:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-19 10:40:03 [scraper.py:170] 📥 [HN #8] The world in which IPv6 was a good design
+INFO     2026-04-19 10:40:03 [scraper.py:171] 🔗 [HN #8] URL: https://apenwarr.ca/log/20170810
+INFO     2026-04-19 10:40:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-19 10:40:03 [scraper.py:170] 📥 [HN #9] Updating Gun Rocket through 10 years of Unity Engine
+INFO     2026-04-19 10:40:03 [scraper.py:171] 🔗 [HN #9] URL: https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine
+INFO     2026-04-19 10:40:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-19 10:40:03 [scraper.py:170] 📥 [HN #10] Binary Dependencies: Identifying the Hidden Packages We All Depend On
+INFO     2026-04-19 10:40:03 [scraper.py:171] 🔗 [HN #10] URL: https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/
+INFO     2026-04-19 10:40:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-19 10:40:03 [scraper.py:178] 🎉 [HN] All done.
+
