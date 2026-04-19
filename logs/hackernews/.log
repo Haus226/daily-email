@@ -26218,3 +26218,36 @@ INFO     2026-04-19 03:39:48 [scraper.py:171] 🔗 [HN #10] URL: https://kdenliv
 INFO     2026-04-19 03:39:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-19 03:39:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-19 06:48:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-19 06:48:23 [scraper.py:170] 📥 [HN #1] NIST scientists create 'any wavelength' lasers
+INFO     2026-04-19 06:48:23 [scraper.py:171] 🔗 [HN #1] URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+INFO     2026-04-19 06:48:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-19 06:48:24 [scraper.py:170] 📥 [HN #2] Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+INFO     2026-04-19 06:48:24 [scraper.py:171] 🔗 [HN #2] URL: https://tokens.billchambers.me/leaderboard
+INFO     2026-04-19 06:48:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-19 06:48:24 [scraper.py:170] 📥 [HN #3] College instructor turns to typewriters to curb AI-written work
+INFO     2026-04-19 06:48:24 [scraper.py:171] 🔗 [HN #3] URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+INFO     2026-04-19 06:48:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-19 06:48:25 [scraper.py:170] 📥 [HN #4] Updating Gun Rocket through 10 years of Unity Engine
+INFO     2026-04-19 06:48:25 [scraper.py:171] 🔗 [HN #4] URL: https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine
+INFO     2026-04-19 06:48:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-19 06:48:25 [scraper.py:170] 📥 [HN #5] What Are Skiplists Good For?
+INFO     2026-04-19 06:48:25 [scraper.py:171] 🔗 [HN #5] URL: https://antithesis.com/blog/2026/skiptrees/
+INFO     2026-04-19 06:48:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-19 06:48:25 [scraper.py:170] 📥 [HN #6] The electromechanical angle computer inside the B-52 bomber's star tracker
+INFO     2026-04-19 06:48:25 [scraper.py:171] 🔗 [HN #6] URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
+INFO     2026-04-19 06:48:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-19 06:48:25 [scraper.py:170] 📥 [HN #7] Why Japan has such good railways
+INFO     2026-04-19 06:48:25 [scraper.py:171] 🔗 [HN #7] URL: https://worksinprogress.co/issue/why-japan-has-such-good-railways/
+INFO     2026-04-19 06:48:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-19 06:48:26 [scraper.py:170] 📥 [HN #8] The becquerel as an SI unit for request rate
+INFO     2026-04-19 06:48:26 [scraper.py:171] 🔗 [HN #8] URL: https://entropicthoughts.com/si-units-for-request-rate
+INFO     2026-04-19 06:48:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-19 06:48:26 [scraper.py:170] 📥 [HN #9] Zero-Copy GPU Inference from WebAssembly on Apple Silicon
+INFO     2026-04-19 06:48:26 [scraper.py:171] 🔗 [HN #9] URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/
+INFO     2026-04-19 06:48:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-19 06:48:26 [scraper.py:170] 📥 [HN #10] Metatextual Literacy
+INFO     2026-04-19 06:48:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.jenn.site/metatextual-literacy/
+INFO     2026-04-19 06:48:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-19 06:48:26 [scraper.py:178] 🎉 [HN] All done.
+
