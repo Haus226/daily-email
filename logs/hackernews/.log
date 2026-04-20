@@ -26284,3 +26284,36 @@ INFO     2026-04-19 10:40:03 [scraper.py:171] 🔗 [HN #10] URL: https://vlad.we
 INFO     2026-04-19 10:40:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-19 10:40:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-20 03:41:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-20 03:41:13 [scraper.py:170] 📥 [HN #1] Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed
+INFO     2026-04-20 03:41:13 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/shivampkumar/trellis-mac
+INFO     2026-04-20 03:41:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-20 03:41:13 [scraper.py:170] 📥 [HN #2] A Brief History of Fish Sauce
+INFO     2026-04-20 03:41:13 [scraper.py:171] 🔗 [HN #2] URL: https://www.legalnomads.com/fish-sauce/
+INFO     2026-04-20 03:41:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-20 03:41:13 [scraper.py:170] 📥 [HN #3] Vercel April 2026 security incident
+INFO     2026-04-20 03:41:13 [scraper.py:171] 🔗 [HN #3] URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+INFO     2026-04-20 03:41:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-20 03:41:13 [scraper.py:170] 📥 [HN #4] The Bromine Chokepoint
+INFO     2026-04-20 03:41:13 [scraper.py:171] 🔗 [HN #4] URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+INFO     2026-04-20 03:41:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-20 03:41:13 [scraper.py:170] 📥 [HN #5] Mechanical Keyboard Sounds - A listening Museum
+INFO     2026-04-20 03:41:13 [scraper.py:171] 🔗 [HN #5] URL: https://sheets.works/data-viz/keyboard-sounds
+INFO     2026-04-20 03:41:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:170] 📥 [HN #6] Turtle WoW classic server announces shutdown after Blizzard wins injunction
+INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #6] URL: https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/
+INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:170] 📥 [HN #7] Swiss AI Initiative (2023)
+INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #7] URL: https://www.swiss-ai.org
+INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:170] 📥 [HN #8] Changes in the system prompt between Claude Opus 4.6 and 4.7
+INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #8] URL: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:170] 📥 [HN #9] Stop trying to engineer your way out of listening to people
+INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #9] URL: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/
+INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:170] 📥 [HN #10] 2,100 Swiss municipalities showing which provider handles their official email
+INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #10] URL: https://mxmap.ch/
+INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-20 03:41:14 [scraper.py:178] 🎉 [HN] All done.
+
