@@ -3939,3 +3939,8 @@ INFO     2026-04-20 03:41:12 [scraper.py:47] 📥 [APOD] Title: Eye on the Milky
 INFO     2026-04-20 03:41:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg
 INFO     2026-04-20 03:41:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-20 07:19:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-20 07:19:14 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTARRS over a Himalayan Valley
+INFO     2026-04-20 07:19:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg
+INFO     2026-04-20 07:19:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

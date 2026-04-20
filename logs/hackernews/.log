@@ -26317,3 +26317,36 @@ INFO     2026-04-20 03:41:14 [scraper.py:171] 🔗 [HN #10] URL: https://mxmap.c
 INFO     2026-04-20 03:41:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-20 03:41:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-20 07:19:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-20 07:19:14 [scraper.py:170] 📥 [HN #1] SDF Public Access Unix System
+INFO     2026-04-20 07:19:14 [scraper.py:171] 🔗 [HN #1] URL: https://sdf.org/?ssh
+INFO     2026-04-20 07:19:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-20 07:19:14 [scraper.py:170] 📥 [HN #2] Ben Lerner's Big Feelings
+INFO     2026-04-20 07:19:14 [scraper.py:171] 🔗 [HN #2] URL: https://www.vulture.com/article/ben-lerner-transcription-interview.html
+INFO     2026-04-20 07:19:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-20 07:19:14 [scraper.py:170] 📥 [HN #3] Stripe's Payment APIs: the first 10 years (2020)
+INFO     2026-04-20 07:19:14 [scraper.py:171] 🔗 [HN #3] URL: https://stripe.dev/blog/payment-api-design
+INFO     2026-04-20 07:19:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #4] Vercel April 2026 security incident
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #4] URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #5] A Brief History of Fish Sauce
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #5] URL: https://www.legalnomads.com/fish-sauce/
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #6] Claude Token Counter, now with model comparisons
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #6] URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #7] Stop trying to engineer your way out of listening to people
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #7] URL: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #8] Monumental ship burial beneath ancient Norwegian mound predates the Viking Age
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #8] URL: https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #9] The Bromine Chokepoint
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #9] URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:170] 📥 [HN #10] Zero-copy protobuf and ConnectRPC for Rust
+INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #10] URL: https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02
+INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-20 07:19:15 [scraper.py:178] 🎉 [HN] All done.
+
