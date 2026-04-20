@@ -26350,3 +26350,36 @@ INFO     2026-04-20 07:19:15 [scraper.py:171] 🔗 [HN #10] URL: https://medium.
 INFO     2026-04-20 07:19:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-20 07:19:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-20 11:18:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-20 11:19:00 [scraper.py:170] 📥 [HN #1] GitHub's Fake Star Economy
+INFO     2026-04-20 11:19:00 [scraper.py:171] 🔗 [HN #1] URL: https://awesomeagents.ai/news/github-fake-stars-investigation/
+INFO     2026-04-20 11:19:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-20 11:19:00 [scraper.py:170] 📥 [HN #2] Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery
+INFO     2026-04-20 11:19:00 [scraper.py:171] 🔗 [HN #2] URL: https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977
+INFO     2026-04-20 11:19:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-20 11:19:00 [scraper.py:170] 📥 [HN #3] SDF Public Access Unix System
+INFO     2026-04-20 11:19:00 [scraper.py:171] 🔗 [HN #3] URL: https://sdf.org/?ssh
+INFO     2026-04-20 11:19:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-20 11:19:01 [scraper.py:170] 📥 [HN #4] Vercel April 2026 security incident
+INFO     2026-04-20 11:19:01 [scraper.py:171] 🔗 [HN #4] URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+INFO     2026-04-20 11:19:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-20 11:19:01 [scraper.py:170] 📥 [HN #5] OpenClaw isn't fooling me. I remember MS-DOS
+INFO     2026-04-20 11:19:01 [scraper.py:171] 🔗 [HN #5] URL: https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/
+INFO     2026-04-20 11:19:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-20 11:19:01 [scraper.py:170] 📥 [HN #6] NSA is using Anthropic's Mythos despite blacklist
+INFO     2026-04-20 11:19:01 [scraper.py:171] 🔗 [HN #6] URL: https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/
+INFO     2026-04-20 11:19:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-20 11:19:01 [scraper.py:170] 📥 [HN #7] Focused microwaves allow 3D printers to fuse circuits onto almost anything
+INFO     2026-04-20 11:19:01 [scraper.py:171] 🔗 [HN #7] URL: https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/
+INFO     2026-04-20 11:19:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-20 11:19:02 [scraper.py:170] 📥 [HN #8] Claude Token Counter, now with model comparisons
+INFO     2026-04-20 11:19:02 [scraper.py:171] 🔗 [HN #8] URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/
+INFO     2026-04-20 11:19:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-20 11:19:02 [scraper.py:170] 📥 [HN #9] Stop trying to engineer your way out of listening to people
+INFO     2026-04-20 11:19:02 [scraper.py:171] 🔗 [HN #9] URL: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/
+INFO     2026-04-20 11:19:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-20 11:19:02 [scraper.py:170] 📥 [HN #10] Who Is Blake Whiting?
+INFO     2026-04-20 11:19:02 [scraper.py:171] 🔗 [HN #10] URL: https://theamericanscholar.org/who-is-blake-whiting/
+INFO     2026-04-20 11:19:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-20 11:19:02 [scraper.py:178] 🎉 [HN] All done.
+
