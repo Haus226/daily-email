@@ -26383,3 +26383,36 @@ INFO     2026-04-20 11:19:02 [scraper.py:171] 🔗 [HN #10] URL: https://theamer
 INFO     2026-04-20 11:19:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-20 11:19:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-21 03:33:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-21 03:33:56 [scraper.py:170] 📥 [HN #1] John Ternus to become Apple CEO
+INFO     2026-04-21 03:33:56 [scraper.py:171] 🔗 [HN #1] URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+INFO     2026-04-21 03:33:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-21 03:33:56 [scraper.py:170] 📥 [HN #2] How to make a fast dynamic language interpreter
+INFO     2026-04-21 03:33:56 [scraper.py:171] 🔗 [HN #2] URL: https://zef-lang.dev/implementation
+INFO     2026-04-21 03:33:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-21 03:33:56 [scraper.py:170] 📥 [HN #3] Jujutsu megamerges for fun and profit
+INFO     2026-04-21 03:33:56 [scraper.py:171] 🔗 [HN #3] URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit
+INFO     2026-04-21 03:33:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-21 03:33:56 [scraper.py:170] 📥 [HN #4] Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+INFO     2026-04-21 03:33:56 [scraper.py:171] 🔗 [HN #4] URL: https://qwen.ai/blog?id=qwen3.6-max-preview
+INFO     2026-04-21 03:33:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #5] Kimi vendor verifier – verify accuracy of inference providers
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.kimi.com/blog/kimi-vendor-verifier
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #6] Ternary Bonsai: Top Intelligence at 1.58 Bits
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #6] URL: https://prismml.com/news/ternary-bonsai
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #7] Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/gizmo64k/soulplayer-c64
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #8] ggsql: A Grammar of Graphics for SQL
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #8] URL: https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #9] Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:170] 📥 [HN #10] Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys
+INFO     2026-04-21 03:33:57 [scraper.py:171] 🔗 [HN #10] URL: https://words.filippo.io/128-bits/
+INFO     2026-04-21 03:33:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-21 03:33:57 [scraper.py:178] 🎉 [HN] All done.
+
