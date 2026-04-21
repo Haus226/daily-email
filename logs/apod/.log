@@ -3952,3 +3952,8 @@ INFO     2026-04-21 03:33:56 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTAR
 INFO     2026-04-21 03:33:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg
 INFO     2026-04-21 03:33:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-21 06:59:42 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-21 06:59:43 [scraper.py:47] 📥 [APOD] Title: Three Sky Arches over Snowy Alps
+INFO     2026-04-21 06:59:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg
+INFO     2026-04-21 06:59:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
