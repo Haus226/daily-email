@@ -10724,3 +10724,24 @@ INFO     2026-04-21 06:59:43 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-21 06:59:43 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-21 11:08:05 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-21 11:08:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-21 11:08:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-21 11:08:07 [scraper.py:133] 📥 [EO] Title: A School of Mud Volcano Islands in Azerbaijan
+INFO     2026-04-21 11:08:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-school-of-mud-volcano-islands-in-azerbaijan/azmudvolcanozm_oli_20250830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-21 11:08:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-21 11:08:07 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-21 11:08:07 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-21 11:08:08 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-21 11:08:08 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-21 11:08:08 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-21 11:08:08 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-21 11:08:08 [scraper.py:133] 📥 [EO] Title: A School of Mud Volcano Islands in Azerbaijan
+INFO     2026-04-21 11:08:08 [scraper.py:133] 📥 [EO] Title: A School of Mud Volcano Islands in Azerbaijan
+INFO     2026-04-21 11:08:08 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-school-of-mud-volcano-islands-in-azerbaijan/azmudvolcanozm_oli_20250830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-21 11:08:08 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-school-of-mud-volcano-islands-in-azerbaijan/azmudvolcanozm_oli_20250830_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-21 11:08:08 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-21 11:08:08 [scraper.py:154] ✅ [EO] Successfully fetched.
+

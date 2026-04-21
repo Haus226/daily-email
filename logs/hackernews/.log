@@ -26449,3 +26449,36 @@ INFO     2026-04-21 06:59:44 [scraper.py:171] 🔗 [HN #10] URL: https://isaacco
 INFO     2026-04-21 06:59:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-21 06:59:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-21 11:08:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-21 11:08:08 [scraper.py:170] 📥 [HN #1] John Ternus to become Apple CEO
+INFO     2026-04-21 11:08:08 [scraper.py:171] 🔗 [HN #1] URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+INFO     2026-04-21 11:08:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-21 11:08:08 [scraper.py:170] 📥 [HN #2] Anthropic says OpenClaw-style Claude CLI usage is allowed again
+INFO     2026-04-21 11:08:08 [scraper.py:171] 🔗 [HN #2] URL: https://docs.openclaw.ai/providers/anthropic
+INFO     2026-04-21 11:08:08 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-21 11:08:08 [scraper.py:170] 📥 [HN #3] MNT Reform is an open hardware laptop, designed and assembled in Germany
+INFO     2026-04-21 11:08:08 [scraper.py:171] 🔗 [HN #3] URL: http://mnt.stanleylieber.com/reform/
+INFO     2026-04-21 11:08:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-21 11:08:08 [scraper.py:170] 📥 [HN #4] A type-safe, realtime collaborative Graph Database in a CRDT
+INFO     2026-04-21 11:08:08 [scraper.py:171] 🔗 [HN #4] URL: https://codemix.com/graph
+INFO     2026-04-21 11:08:08 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-21 11:08:08 [scraper.py:170] 📥 [HN #5] Louis Zocchi, inventor of the d100, has died
+INFO     2026-04-21 11:08:08 [scraper.py:171] 🔗 [HN #5] URL: https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice
+INFO     2026-04-21 11:08:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:170] 📥 [HN #6] A Roblox cheat and one AI tool brought down Vercel's platform
+INFO     2026-04-21 11:08:09 [scraper.py:171] 🔗 [HN #6] URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform
+INFO     2026-04-21 11:08:09 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:170] 📥 [HN #7] The Beauty of Bonsai Styles
+INFO     2026-04-21 11:08:09 [scraper.py:171] 🔗 [HN #7] URL: https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles
+INFO     2026-04-21 11:08:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:170] 📥 [HN #8] Salmon exposed to cocaine and its main byproduct roam more widely
+INFO     2026-04-21 11:08:09 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust
+INFO     2026-04-21 11:08:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:170] 📥 [HN #9] How to make a fast dynamic language interpreter
+INFO     2026-04-21 11:08:09 [scraper.py:171] 🔗 [HN #9] URL: https://zef-lang.dev/implementation
+INFO     2026-04-21 11:08:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:170] 📥 [HN #10] Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+INFO     2026-04-21 11:08:09 [scraper.py:171] 🔗 [HN #10] URL: https://qwen.ai/blog?id=qwen3.6-max-preview
+INFO     2026-04-21 11:08:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-21 11:08:09 [scraper.py:178] 🎉 [HN] All done.
+
