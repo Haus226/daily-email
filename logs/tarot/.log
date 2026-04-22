@@ -3993,3 +3993,8 @@ INFO     2026-04-22 03:31:55 [scraper.py:390] 📥 [TAROT] Card: King of Wands
 INFO     2026-04-22 03:31:55 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-04-22 03:31:55 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-04-22 06:58:59 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-04-22 06:58:59 [scraper.py:390] 📥 [TAROT] Card: King of Wands
+INFO     2026-04-22 06:58:59 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-04-22 06:58:59 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

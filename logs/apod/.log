@@ -3967,3 +3967,6 @@ INFO     2026-04-22 03:31:55 [scraper.py:47] 📥 [APOD] Title: Three Sky Arches
 INFO     2026-04-22 03:31:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg
 INFO     2026-04-22 03:31:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-22 06:58:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-04-22 06:58:59 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
