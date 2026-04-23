@@ -26647,3 +26647,36 @@ INFO     2026-04-23 07:02:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.sca
 INFO     2026-04-23 07:02:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-23 07:02:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-23 11:10:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-23 11:10:27 [scraper.py:170] 📥 [HN #1] I am building a cloud
+INFO     2026-04-23 11:10:27 [scraper.py:171] 🔗 [HN #1] URL: https://crawshaw.io/blog/building-a-cloud
+INFO     2026-04-23 11:10:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-23 11:10:27 [scraper.py:170] 📥 [HN #2] Alberta startup sells no-tech tractors for half price
+INFO     2026-04-23 11:10:27 [scraper.py:171] 🔗 [HN #2] URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
+INFO     2026-04-23 11:10:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-23 11:10:27 [scraper.py:170] 📥 [HN #3] Your hex editor should color-code bytes
+INFO     2026-04-23 11:10:27 [scraper.py:171] 🔗 [HN #3] URL: https://simonomi.dev/blog/color-code-your-bytes/
+INFO     2026-04-23 11:10:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-23 11:10:27 [scraper.py:170] 📥 [HN #4] Apple fixes bug that cops used to extract deleted chat messages from iPhones
+INFO     2026-04-23 11:10:27 [scraper.py:171] 🔗 [HN #4] URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
+INFO     2026-04-23 11:10:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #5] Fundamental Theorem of Calculus
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #5] URL: https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #6] We found a stable Firefox identifier linking all your private Tor identities
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #6] URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #7] Our newsroom AI policy
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #7] URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #8] 5x5 Pixel font for tiny screens
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #8] URL: https://maurycyz.com/projects/mcufont/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #9] Isopods of the world
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #9] URL: https://isopod.site/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:170] 📥 [HN #10] A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?
+INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/
+INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-23 11:10:28 [scraper.py:178] 🎉 [HN] All done.
+
