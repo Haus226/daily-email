@@ -26680,3 +26680,36 @@ INFO     2026-04-23 11:10:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.qua
 INFO     2026-04-23 11:10:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-23 11:10:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-24 03:37:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-24 03:37:19 [scraper.py:170] 📥 [HN #1] Why I Write (1946)
+INFO     2026-04-24 03:37:19 [scraper.py:171] 🔗 [HN #1] URL: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+INFO     2026-04-24 03:37:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #2] GPT-5.5
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/introducing-gpt-5-5/
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #3] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #3] URL: https://socket.dev/blog/bitwarden-cli-compromised
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #4] Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/refactoringhq/tolaria
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #5] Meta tells staff it will cut 10% of jobs
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #5] URL: https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #6] MeshCore development team splits over trademark dispute and AI-generated code
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #6] URL: https://blog.meshcore.io/2026/04/23/the-split
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #7] TorchTPU: Running PyTorch Natively on TPUs at Google Scale
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #7] URL: https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-24 03:37:20 [scraper.py:170] 📥 [HN #8] I am building a cloud
+INFO     2026-04-24 03:37:20 [scraper.py:171] 🔗 [HN #8] URL: https://crawshaw.io/blog/building-a-cloud
+INFO     2026-04-24 03:37:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-24 03:37:21 [scraper.py:170] 📥 [HN #9] My phone replaced a brass plug
+INFO     2026-04-24 03:37:21 [scraper.py:171] 🔗 [HN #9] URL: https://drobinin.com/posts/my-phone-replaced-a-brass-plug/
+INFO     2026-04-24 03:37:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-24 03:37:21 [scraper.py:170] 📥 [HN #10] Your hex editor should color-code bytes
+INFO     2026-04-24 03:37:21 [scraper.py:171] 🔗 [HN #10] URL: https://simonomi.dev/blog/color-code-your-bytes/
+INFO     2026-04-24 03:37:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-24 03:37:21 [scraper.py:178] 🎉 [HN] All done.
+
