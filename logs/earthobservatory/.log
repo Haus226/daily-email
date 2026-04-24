@@ -10892,3 +10892,24 @@ INFO     2026-04-24 03:37:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-24 03:37:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-24 07:05:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-24 07:05:36 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-24 07:05:36 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-24 07:05:36 [scraper.py:133] 📥 [EO] Title: An Agricultural Mosaic in Taiwan
+INFO     2026-04-24 07:05:36 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/taiwan_agriculture_oli2_20260318_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-24 07:05:36 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-24 07:05:36 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-24 07:05:36 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-24 07:05:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-24 07:05:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-24 07:05:37 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-24 07:05:37 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-24 07:05:37 [scraper.py:133] 📥 [EO] Title: An Agricultural Mosaic in Taiwan
+INFO     2026-04-24 07:05:37 [scraper.py:133] 📥 [EO] Title: An Agricultural Mosaic in Taiwan
+INFO     2026-04-24 07:05:37 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/taiwan_agriculture_oli2_20260318_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-24 07:05:37 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/taiwan_agriculture_oli2_20260318_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-24 07:05:37 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-24 07:05:37 [scraper.py:154] ✅ [EO] Successfully fetched.
+
