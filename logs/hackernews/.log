@@ -26746,3 +26746,36 @@ INFO     2026-04-24 07:05:38 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-04-24 07:05:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-24 07:05:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-24 11:06:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-24 11:06:54 [scraper.py:170] 📥 [HN #1] S. Korea police arrest man over AI image of runaway wolf that misled authorities
+INFO     2026-04-24 11:06:54 [scraper.py:171] 🔗 [HN #1] URL: https://www.bbc.com/news/articles/c4gx1n0dl9no
+INFO     2026-04-24 11:06:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-24 11:06:54 [scraper.py:170] 📥 [HN #2] DeepSeek v4
+INFO     2026-04-24 11:06:54 [scraper.py:171] 🔗 [HN #2] URL: https://api-docs.deepseek.com/
+INFO     2026-04-24 11:06:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-24 11:06:55 [scraper.py:170] 📥 [HN #3] Spinel: Ruby AOT Native Compiler
+INFO     2026-04-24 11:06:55 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/matz/spinel
+INFO     2026-04-24 11:06:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-24 11:06:55 [scraper.py:170] 📥 [HN #4] Why I Write (1946)
+INFO     2026-04-24 11:06:55 [scraper.py:171] 🔗 [HN #4] URL: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
+INFO     2026-04-24 11:06:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-24 11:06:55 [scraper.py:170] 📥 [HN #5] Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture
+INFO     2026-04-24 11:06:55 [scraper.py:171] 🔗 [HN #5] URL: https://ynarwal.github.io/how-llms-work/
+INFO     2026-04-24 11:06:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:170] 📥 [HN #6] An update on recent Claude Code quality reports
+INFO     2026-04-24 11:06:56 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/engineering/april-23-postmortem
+INFO     2026-04-24 11:06:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:170] 📥 [HN #7] GPT-5.5
+INFO     2026-04-24 11:06:56 [scraper.py:171] 🔗 [HN #7] URL: https://openai.com/index/introducing-gpt-5-5/
+INFO     2026-04-24 11:06:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:170] 📥 [HN #8] US special forces soldier arrested after allegedly winning $400k on Maduro raid
+INFO     2026-04-24 11:06:56 [scraper.py:171] 🔗 [HN #8] URL: https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade
+INFO     2026-04-24 11:06:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:170] 📥 [HN #9] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign
+INFO     2026-04-24 11:06:56 [scraper.py:171] 🔗 [HN #9] URL: https://socket.dev/blog/bitwarden-cli-compromised
+INFO     2026-04-24 11:06:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:170] 📥 [HN #10] Show HN: Gova – The declarative GUI framework for Go
+INFO     2026-04-24 11:06:56 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/NV404/gova
+INFO     2026-04-24 11:06:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-24 11:06:56 [scraper.py:178] 🎉 [HN] All done.
+
