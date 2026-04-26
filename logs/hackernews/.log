@@ -26911,3 +26911,36 @@ INFO     2026-04-26 03:46:05 [scraper.py:171] 🔗 [HN #10] URL: https://blog.ko
 INFO     2026-04-26 03:46:05 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-26 03:46:05 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-26 07:00:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-26 07:00:44 [scraper.py:170] 📥 [HN #1] Amateur armed with ChatGPT solves an Erdős problem
+INFO     2026-04-26 07:00:44 [scraper.py:171] 🔗 [HN #1] URL: https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/
+INFO     2026-04-26 07:00:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-26 07:00:44 [scraper.py:170] 📥 [HN #2] Why has there been so little progress on Alzheimer's disease?
+INFO     2026-04-26 07:00:44 [scraper.py:171] 🔗 [HN #2] URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
+INFO     2026-04-26 07:00:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-26 07:00:44 [scraper.py:170] 📥 [HN #3] Tell HN: An app is silently installing itself on my iPhone every day
+INFO     2026-04-26 07:00:44 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=47906253
+INFO     2026-04-26 07:00:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-26 07:00:44 [scraper.py:170] 📥 [HN #4] USB Cheat Sheet (2022)
+INFO     2026-04-26 07:00:44 [scraper.py:171] 🔗 [HN #4] URL: https://fabiensanglard.net/usbcheat/index.html
+INFO     2026-04-26 07:00:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-26 07:00:44 [scraper.py:170] 📥 [HN #5] The route from Prussian military headquarters to Gary Gygax’s basement
+INFO     2026-04-26 07:00:44 [scraper.py:171] 🔗 [HN #5] URL: https://asteriskmag.com/issues/14/shall-we-play-a-game
+INFO     2026-04-26 07:00:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:170] 📥 [HN #6] Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)
+INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #6] URL: https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health
+INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:170] 📥 [HN #7] GnuPG – post-quantum crypto landing in mainline
+INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #7] URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html
+INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:170] 📥 [HN #8] Mahjong: A Visual Guide
+INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #8] URL: https://themahjong.guide/
+INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:170] 📥 [HN #9] EU Age Control: The trojan horse for digital IDs
+INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #9] URL: https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/
+INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:170] 📥 [HN #10] Flickr: The first and last great photo platform
+INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #10] URL: https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/
+INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-26 07:00:45 [scraper.py:178] 🎉 [HN] All done.
+

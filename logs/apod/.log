@@ -4021,3 +4021,8 @@ INFO     2026-04-26 03:46:04 [scraper.py:47] 📥 [APOD] Title: The Persistence 
 INFO     2026-04-26 03:46:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg
 INFO     2026-04-26 03:46:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-26 07:00:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-26 07:00:43 [scraper.py:47] 📥 [APOD] Title: Mystic Mountain Monster being Destroyed
+INFO     2026-04-26 07:00:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg
+INFO     2026-04-26 07:00:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
