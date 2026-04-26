@@ -26944,3 +26944,36 @@ INFO     2026-04-26 07:00:45 [scraper.py:171] 🔗 [HN #10] URL: https://petapix
 INFO     2026-04-26 07:00:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-26 07:00:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-26 10:47:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-26 10:47:02 [scraper.py:170] 📥 [HN #1] The West Forgot How to Make Things. Now It's Forgetting How to Code
+INFO     2026-04-26 10:47:02 [scraper.py:171] 🔗 [HN #1] URL: https://techtrenches.dev/p/the-west-forgot-how-to-make-things
+INFO     2026-04-26 10:47:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-26 10:47:02 [scraper.py:170] 📥 [HN #2] Eden AI – European Alternative to OpenRouter
+INFO     2026-04-26 10:47:02 [scraper.py:171] 🔗 [HN #2] URL: https://www.edenai.co
+INFO     2026-04-26 10:47:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-26 10:47:03 [scraper.py:170] 📥 [HN #3] Why has there been so little progress on Alzheimer's disease?
+INFO     2026-04-26 10:47:03 [scraper.py:171] 🔗 [HN #3] URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
+INFO     2026-04-26 10:47:03 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-26 10:47:03 [scraper.py:170] 📥 [HN #4] Statecharts: hierarchical state machines
+INFO     2026-04-26 10:47:03 [scraper.py:171] 🔗 [HN #4] URL: https://statecharts.dev/
+INFO     2026-04-26 10:47:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-26 10:47:03 [scraper.py:170] 📥 [HN #5] I spent 6 years building my Kanban as I hated how managers run the boards
+INFO     2026-04-26 10:47:03 [scraper.py:171] 🔗 [HN #5] URL: https://www.npmjs.com/package/ooko
+INFO     2026-04-26 10:47:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-26 10:47:03 [scraper.py:170] 📥 [HN #6] Amateur armed with ChatGPT solves an Erdős problem
+INFO     2026-04-26 10:47:03 [scraper.py:171] 🔗 [HN #6] URL: https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/
+INFO     2026-04-26 10:47:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-26 10:47:03 [scraper.py:170] 📥 [HN #7] Tell HN: An app is silently installing itself on my iPhone every day
+INFO     2026-04-26 10:47:03 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=47906253
+INFO     2026-04-26 10:47:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-26 10:47:04 [scraper.py:170] 📥 [HN #8] USB Cheat Sheet (2022)
+INFO     2026-04-26 10:47:04 [scraper.py:171] 🔗 [HN #8] URL: https://fabiensanglard.net/usbcheat/index.html
+INFO     2026-04-26 10:47:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-26 10:47:04 [scraper.py:170] 📥 [HN #9] Exposing Floating Point – Bartosz Ciechanowski (2019)
+INFO     2026-04-26 10:47:04 [scraper.py:171] 🔗 [HN #9] URL: https://ciechanow.ski/exposing-floating-point/
+INFO     2026-04-26 10:47:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-26 10:47:04 [scraper.py:170] 📥 [HN #10] GnuPG – post-quantum crypto landing in mainline
+INFO     2026-04-26 10:47:04 [scraper.py:171] 🔗 [HN #10] URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html
+INFO     2026-04-26 10:47:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-26 10:47:04 [scraper.py:178] 🎉 [HN] All done.
+
