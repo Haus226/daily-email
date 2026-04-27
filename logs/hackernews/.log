@@ -27010,3 +27010,36 @@ INFO     2026-04-27 03:50:35 [scraper.py:171] 🔗 [HN #10] URL: https://dystroy
 INFO     2026-04-27 03:50:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-27 03:50:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-27 07:36:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #1] Flipdiscs
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #1] URL: https://flipdisc.io
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #2] I bought Friendster for $30k – Here's what I'm doing with it
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #2] URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #3] TurboQuant: A first-principles walkthrough
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #3] URL: https://arkaung.github.io/interactive-turboquant/
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #4] Self-updating screenshots
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #4] URL: https://interblah.net/self-updating-screenshots
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #5] AI should elevate your thinking, not replace it
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #5] URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-27 07:36:35 [scraper.py:170] 📥 [HN #6] Three constraints before I build anything
+INFO     2026-04-27 07:36:35 [scraper.py:171] 🔗 [HN #6] URL: https://jordanlord.co.uk/blog/3-constraints/
+INFO     2026-04-27 07:36:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-27 07:36:36 [scraper.py:170] 📥 [HN #7] A Guide to CubeSat Mission and Bus Design
+INFO     2026-04-27 07:36:36 [scraper.py:171] 🔗 [HN #7] URL: https://pressbooks-dev.oer.hawaii.edu/epet302/
+INFO     2026-04-27 07:36:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-27 07:36:36 [scraper.py:170] 📥 [HN #8] When the cheap one is the cool one
+INFO     2026-04-27 07:36:36 [scraper.py:171] 🔗 [HN #8] URL: https://arun.is/blog/cheap-cool/
+INFO     2026-04-27 07:36:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-27 07:36:36 [scraper.py:170] 📥 [HN #9] Fast16: High-precision software sabotage 5 years before Stuxnet
+INFO     2026-04-27 07:36:36 [scraper.py:171] 🔗 [HN #9] URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+INFO     2026-04-27 07:36:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-27 07:36:36 [scraper.py:170] 📥 [HN #10] Box to save memory in Rust
+INFO     2026-04-27 07:36:36 [scraper.py:171] 🔗 [HN #10] URL: https://dystroy.org/blog/box-to-save-memory/
+INFO     2026-04-27 07:36:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-27 07:36:36 [scraper.py:178] 🎉 [HN] All done.
+
