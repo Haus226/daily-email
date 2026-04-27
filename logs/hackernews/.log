@@ -26977,3 +26977,36 @@ INFO     2026-04-26 10:47:04 [scraper.py:171] 🔗 [HN #10] URL: https://lists.g
 INFO     2026-04-26 10:47:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-26 10:47:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-27 03:50:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-27 03:50:33 [scraper.py:170] 📥 [HN #1] I bought Friendster for $30k – Here's what I'm doing with it
+INFO     2026-04-27 03:50:33 [scraper.py:171] 🔗 [HN #1] URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+INFO     2026-04-27 03:50:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-27 03:50:33 [scraper.py:170] 📥 [HN #2] Self-updating screenshots
+INFO     2026-04-27 03:50:33 [scraper.py:171] 🔗 [HN #2] URL: https://interblah.net/self-updating-screenshots
+INFO     2026-04-27 03:50:33 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-27 03:50:33 [scraper.py:170] 📥 [HN #3] Three constraints before I build anything
+INFO     2026-04-27 03:50:33 [scraper.py:171] 🔗 [HN #3] URL: https://jordanlord.co.uk/blog/3-constraints/
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-27 03:50:34 [scraper.py:170] 📥 [HN #4] TurboQuant: A First-Principles Walkthrough
+INFO     2026-04-27 03:50:34 [scraper.py:171] 🔗 [HN #4] URL: https://arkaung.github.io/interactive-turboquant/
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-27 03:50:34 [scraper.py:170] 📥 [HN #5] EvanFlow – A TDD driven feedback loop for Claude Code
+INFO     2026-04-27 03:50:34 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/evanklem/evanflow
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-27 03:50:34 [scraper.py:170] 📥 [HN #6] Fast16: High-precision software sabotage 5 years before Stuxnet
+INFO     2026-04-27 03:50:34 [scraper.py:171] 🔗 [HN #6] URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-27 03:50:34 [scraper.py:170] 📥 [HN #7] The Prompt API
+INFO     2026-04-27 03:50:34 [scraper.py:171] 🔗 [HN #7] URL: https://developer.chrome.com/docs/ai/prompt-api
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-27 03:50:34 [scraper.py:170] 📥 [HN #8] When the cheap one is the cool one
+INFO     2026-04-27 03:50:34 [scraper.py:171] 🔗 [HN #8] URL: https://arun.is/blog/cheap-cool/
+INFO     2026-04-27 03:50:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-27 03:50:35 [scraper.py:170] 📥 [HN #9] When Your Digital Life Vanishes
+INFO     2026-04-27 03:50:35 [scraper.py:171] 🔗 [HN #9] URL: https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes
+INFO     2026-04-27 03:50:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-27 03:50:35 [scraper.py:170] 📥 [HN #10] Box to save memory in Rust
+INFO     2026-04-27 03:50:35 [scraper.py:171] 🔗 [HN #10] URL: https://dystroy.org/blog/box-to-save-memory/
+INFO     2026-04-27 03:50:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-27 03:50:35 [scraper.py:178] 🎉 [HN] All done.
+
