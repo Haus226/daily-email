@@ -27076,3 +27076,36 @@ INFO     2026-04-27 11:44:27 [scraper.py:171] 🔗 [HN #10] URL: https://robbowe
 INFO     2026-04-27 11:44:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-27 11:44:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-28 03:54:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-28 03:54:43 [scraper.py:170] 📥 [HN #1] Talkie: a 13B vintage language model from 1930
+INFO     2026-04-28 03:54:43 [scraper.py:171] 🔗 [HN #1] URL: https://talkie-lm.com/introducing-talkie
+INFO     2026-04-28 03:54:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-28 03:54:43 [scraper.py:170] 📥 [HN #2] Microsoft and OpenAI end their exclusive and revenue-sharing deal
+INFO     2026-04-28 03:54:43 [scraper.py:171] 🔗 [HN #2] URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
+INFO     2026-04-28 03:54:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-28 03:54:43 [scraper.py:170] 📥 [HN #3] Integrated by Design
+INFO     2026-04-28 03:54:43 [scraper.py:171] 🔗 [HN #3] URL: https://vivianvoss.net/blog/integrated-by-design-launch
+INFO     2026-04-28 03:54:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-28 03:54:44 [scraper.py:170] 📥 [HN #4] Meetings are forcing functions
+INFO     2026-04-28 03:54:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.mooreds.com/wordpress/archives/3734
+INFO     2026-04-28 03:54:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-28 03:54:44 [scraper.py:170] 📥 [HN #5] Three men are facing charges in Toronto SMS Blaster arrests
+INFO     2026-04-28 03:54:44 [scraper.py:171] 🔗 [HN #5] URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/
+INFO     2026-04-28 03:54:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-28 03:54:44 [scraper.py:170] 📥 [HN #6] Ted Nyman – High Performance Git
+INFO     2026-04-28 03:54:44 [scraper.py:171] 🔗 [HN #6] URL: https://gitperf.com/
+INFO     2026-04-28 03:54:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-28 03:54:45 [scraper.py:170] 📥 [HN #7] Mo RAM, Mo Problems (2025)
+INFO     2026-04-28 03:54:45 [scraper.py:171] 🔗 [HN #7] URL: https://fabiensanglard.net/curse/
+INFO     2026-04-28 03:54:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-28 03:54:45 [scraper.py:170] 📥 [HN #8] Is my blue your blue?
+INFO     2026-04-28 03:54:45 [scraper.py:171] 🔗 [HN #8] URL: https://ismy.blue/
+INFO     2026-04-28 03:54:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-28 03:54:45 [scraper.py:170] 📥 [HN #9] Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs
+INFO     2026-04-28 03:54:45 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/cg4047qnpk2o
+INFO     2026-04-28 03:54:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-28 03:54:45 [scraper.py:170] 📥 [HN #10] The quiet resurgence of RF engineering
+INFO     2026-04-28 03:54:45 [scraper.py:171] 🔗 [HN #10] URL: https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/
+INFO     2026-04-28 03:54:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-28 03:54:45 [scraper.py:178] 🎉 [HN] All done.
+
