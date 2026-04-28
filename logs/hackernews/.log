@@ -27109,3 +27109,36 @@ INFO     2026-04-28 03:54:45 [scraper.py:171] 🔗 [HN #10] URL: https://atemple
 INFO     2026-04-28 03:54:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-28 03:54:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-28 07:33:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-28 07:33:08 [scraper.py:170] 📥 [HN #1] GTFOBins
+INFO     2026-04-28 07:33:08 [scraper.py:171] 🔗 [HN #1] URL: https://gtfobins.org/
+INFO     2026-04-28 07:33:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-28 07:33:08 [scraper.py:170] 📥 [HN #2] Talkie: a 13B vintage language model from 1930
+INFO     2026-04-28 07:33:08 [scraper.py:171] 🔗 [HN #2] URL: https://talkie-lm.com/introducing-talkie
+INFO     2026-04-28 07:33:08 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-28 07:33:08 [scraper.py:170] 📥 [HN #3] Microsoft and OpenAI end their exclusive and revenue-sharing deal
+INFO     2026-04-28 07:33:08 [scraper.py:171] 🔗 [HN #3] URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
+INFO     2026-04-28 07:33:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-28 07:33:08 [scraper.py:170] 📥 [HN #4] Is my blue your blue?
+INFO     2026-04-28 07:33:08 [scraper.py:171] 🔗 [HN #4] URL: https://ismy.blue/
+INFO     2026-04-28 07:33:08 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-28 07:33:08 [scraper.py:170] 📥 [HN #5] Pgrx: Build Postgres Extensions with Rust
+INFO     2026-04-28 07:33:08 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/pgcentralfoundation/pgrx
+INFO     2026-04-28 07:33:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:170] 📥 [HN #6] Mo RAM, Mo Problems (2025)
+INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #6] URL: https://fabiensanglard.net/curse/
+INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:170] 📥 [HN #7] High Performance Git
+INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #7] URL: https://gitperf.com/
+INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:170] 📥 [HN #8] Three men are facing charges in Toronto SMS Blaster arrests
+INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #8] URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/
+INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:170] 📥 [HN #9] LingBot-Map: Streaming 3D reconstruction with geometric context transformer
+INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #9] URL: https://technology.robbyant.com/lingbot-map
+INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:170] 📥 [HN #10] How I leared what a decoupling capacitor is for, the hard way
+INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #10] URL: https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor
+INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-28 07:33:09 [scraper.py:178] 🎉 [HN] All done.
+

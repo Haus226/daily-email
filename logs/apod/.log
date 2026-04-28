@@ -4049,3 +4049,8 @@ INFO     2026-04-28 03:54:43 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTAR
 INFO     2026-04-28 03:54:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg
 INFO     2026-04-28 03:54:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-28 07:33:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-28 07:33:07 [scraper.py:47] 📥 [APOD] Title: CG 30: Cometary Globules
+INFO     2026-04-28 07:33:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg
+INFO     2026-04-28 07:33:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
