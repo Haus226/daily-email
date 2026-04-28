@@ -27142,3 +27142,36 @@ INFO     2026-04-28 07:33:09 [scraper.py:171] 🔗 [HN #10] URL: https://nbelako
 INFO     2026-04-28 07:33:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-28 07:33:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-28 11:45:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-28 11:45:55 [scraper.py:170] 📥 [HN #1] The Social Edge of Intelligence: Individual Gain, Collective Loss
+INFO     2026-04-28 11:45:55 [scraper.py:171] 🔗 [HN #1] URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/
+INFO     2026-04-28 11:45:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-28 11:45:56 [scraper.py:170] 📥 [HN #2] Talkie: a 13B vintage language model from 1930
+INFO     2026-04-28 11:45:56 [scraper.py:171] 🔗 [HN #2] URL: https://talkie-lm.com/introducing-talkie
+INFO     2026-04-28 11:45:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-28 11:45:56 [scraper.py:170] 📥 [HN #3] The World's Most Complex Machine
+INFO     2026-04-28 11:45:56 [scraper.py:171] 🔗 [HN #3] URL: https://worksinprogress.co/issue/the-worlds-most-complex-machine/
+INFO     2026-04-28 11:45:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-28 11:45:56 [scraper.py:170] 📥 [HN #4] Microsoft and OpenAI end their exclusive and revenue-sharing deal
+INFO     2026-04-28 11:45:56 [scraper.py:171] 🔗 [HN #4] URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
+INFO     2026-04-28 11:45:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-28 11:45:56 [scraper.py:170] 📥 [HN #5] Can You Find the Comet?
+INFO     2026-04-28 11:45:56 [scraper.py:171] 🔗 [HN #5] URL: https://apod.nasa.gov/apod/ap260427.html
+INFO     2026-04-28 11:45:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-28 11:45:57 [scraper.py:170] 📥 [HN #6] Is my blue your blue? (2024)
+INFO     2026-04-28 11:45:57 [scraper.py:171] 🔗 [HN #6] URL: https://ismy.blue/
+INFO     2026-04-28 11:45:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-28 11:45:57 [scraper.py:170] 📥 [HN #7] GTFOBins
+INFO     2026-04-28 11:45:57 [scraper.py:171] 🔗 [HN #7] URL: https://gtfobins.org/
+INFO     2026-04-28 11:45:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-28 11:45:57 [scraper.py:170] 📥 [HN #8] WASM is not quite a stack machine
+INFO     2026-04-28 11:45:57 [scraper.py:171] 🔗 [HN #8] URL: https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/
+INFO     2026-04-28 11:45:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-28 11:45:57 [scraper.py:170] 📥 [HN #9] Mo RAM, Mo Problems (2025)
+INFO     2026-04-28 11:45:57 [scraper.py:171] 🔗 [HN #9] URL: https://fabiensanglard.net/curse/
+INFO     2026-04-28 11:45:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-28 11:45:58 [scraper.py:170] 📥 [HN #10] Who owns the code Claude Code wrote?
+INFO     2026-04-28 11:45:58 [scraper.py:171] 🔗 [HN #10] URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote
+INFO     2026-04-28 11:45:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-28 11:45:58 [scraper.py:178] 🎉 [HN] All done.
+
