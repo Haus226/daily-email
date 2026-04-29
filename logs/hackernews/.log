@@ -27241,3 +27241,36 @@ INFO     2026-04-29 07:26:58 [scraper.py:171] 🔗 [HN #10] URL: https://discove
 INFO     2026-04-29 07:26:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-29 07:26:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-29 11:38:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-29 11:38:08 [scraper.py:170] 📥 [HN #1] Soft launch of open-source code platform for government
+INFO     2026-04-29 11:38:08 [scraper.py:171] 🔗 [HN #1] URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/
+INFO     2026-04-29 11:38:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-29 11:38:08 [scraper.py:170] 📥 [HN #2] Ghostty is leaving GitHub
+INFO     2026-04-29 11:38:08 [scraper.py:171] 🔗 [HN #2] URL: https://mitchellh.com/writing/ghostty-leaving-github
+INFO     2026-04-29 11:38:08 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-29 11:38:08 [scraper.py:170] 📥 [HN #3] Show HN: Rip.so – a graveyard for dead internet things
+INFO     2026-04-29 11:38:08 [scraper.py:171] 🔗 [HN #3] URL: https://rip.so
+INFO     2026-04-29 11:38:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-29 11:38:08 [scraper.py:170] 📥 [HN #4] Bugs Rust won't catch
+INFO     2026-04-29 11:38:08 [scraper.py:171] 🔗 [HN #4] URL: https://corrode.dev/blog/bugs-rust-wont-catch/
+INFO     2026-04-29 11:38:08 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-29 11:38:09 [scraper.py:170] 📥 [HN #5] HardenedBSD Is Now Officially on Radicle
+INFO     2026-04-29 11:38:09 [scraper.py:171] 🔗 [HN #5] URL: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle
+INFO     2026-04-29 11:38:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-29 11:38:09 [scraper.py:170] 📥 [HN #6] How ChatGPT serves ads
+INFO     2026-04-29 11:38:09 [scraper.py:171] 🔗 [HN #6] URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+INFO     2026-04-29 11:38:09 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-29 11:38:09 [scraper.py:170] 📥 [HN #7] Before GitHub
+INFO     2026-04-29 11:38:09 [scraper.py:171] 🔗 [HN #7] URL: https://lucumr.pocoo.org/2026/4/28/before-github/
+INFO     2026-04-29 11:38:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-29 11:38:09 [scraper.py:170] 📥 [HN #8] Tell HN: An update from the new Tindie team
+INFO     2026-04-29 11:38:09 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=47945522
+INFO     2026-04-29 11:38:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-29 11:38:09 [scraper.py:170] 📥 [HN #9] Show HN: Rocky – Rust SQL engine with branches, replay, column lineage
+INFO     2026-04-29 11:38:09 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/rocky-data/rocky
+INFO     2026-04-29 11:38:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-29 11:38:10 [scraper.py:170] 📥 [HN #10] Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU
+INFO     2026-04-29 11:38:10 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md
+INFO     2026-04-29 11:38:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-29 11:38:10 [scraper.py:178] 🎉 [HN] All done.
+
