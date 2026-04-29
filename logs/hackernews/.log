@@ -27175,3 +27175,36 @@ INFO     2026-04-28 11:45:58 [scraper.py:171] 🔗 [HN #10] URL: https://legalla
 INFO     2026-04-28 11:45:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-28 11:45:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-29 03:51:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-29 03:51:54 [scraper.py:170] 📥 [HN #1] Ghostty is leaving GitHub
+INFO     2026-04-29 03:51:54 [scraper.py:171] 🔗 [HN #1] URL: https://mitchellh.com/writing/ghostty-leaving-github
+INFO     2026-04-29 03:51:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-29 03:51:54 [scraper.py:170] 📥 [HN #2] Before GitHub
+INFO     2026-04-29 03:51:54 [scraper.py:171] 🔗 [HN #2] URL: https://lucumr.pocoo.org/2026/4/28/before-github/
+INFO     2026-04-29 03:51:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-29 03:51:54 [scraper.py:170] 📥 [HN #3] How ChatGPT serves ads
+INFO     2026-04-29 03:51:54 [scraper.py:171] 🔗 [HN #3] URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+INFO     2026-04-29 03:51:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-29 03:51:54 [scraper.py:170] 📥 [HN #4] Regression: malware reminder on every read still causes subagent refusals
+INFO     2026-04-29 03:51:54 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/anthropics/claude-code/issues/49363
+INFO     2026-04-29 03:51:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #5] Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #6] We decreased our LLM costs with Opus
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #6] URL: https://www.mendral.com/blog/frontier-model-lower-costs
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #7] OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #7] URL: https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #8] We still don't have a more precise value for "Big G"
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #8] URL: https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #9] I won a championship that doesn't exist
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #9] URL: https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:170] 📥 [HN #10] Behavioral timescale synaptic plasticity rewires the brain after an experience
+INFO     2026-04-29 03:51:55 [scraper.py:171] 🔗 [HN #10] URL: https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/
+INFO     2026-04-29 03:51:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-29 03:51:55 [scraper.py:178] 🎉 [HN] All done.
+
