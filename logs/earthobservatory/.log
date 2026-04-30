@@ -11291,3 +11291,24 @@ INFO     2026-04-30 07:30:35 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-04-30 07:30:35 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-04-30 11:37:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-30 11:37:11 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-30 11:37:11 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-30 11:37:11 [scraper.py:133] 📥 [EO] Title: Winter’s End Is Written in the Clouds
+INFO     2026-04-30 11:37:11 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter's-end-is-written-in-the-clouds/akcloudswirls_tmo_20260319_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-30 11:37:11 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-30 11:37:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-30 11:37:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-04-30 11:37:11 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-30 11:37:11 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-04-30 11:37:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-30 11:37:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-04-30 11:37:12 [scraper.py:133] 📥 [EO] Title: Winter’s End Is Written in the Clouds
+INFO     2026-04-30 11:37:12 [scraper.py:133] 📥 [EO] Title: Winter’s End Is Written in the Clouds
+INFO     2026-04-30 11:37:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter's-end-is-written-in-the-clouds/akcloudswirls_tmo_20260319_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-30 11:37:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/winter's-end-is-written-in-the-clouds/akcloudswirls_tmo_20260319_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-04-30 11:37:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-04-30 11:37:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+

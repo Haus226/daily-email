@@ -27340,3 +27340,36 @@ INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #10] URL: https://pure-sy
 INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-30 07:30:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-30 11:37:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-30 11:37:11 [scraper.py:170] 📥 [HN #1] Granite 4.1: IBM's 8B Model Matching 32B MoE
+INFO     2026-04-30 11:37:11 [scraper.py:171] 🔗 [HN #1] URL: https://firethering.com/granite-4-1-ibm-open-source-model-family/
+INFO     2026-04-30 11:37:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-30 11:37:11 [scraper.py:170] 📥 [HN #2] Where the goblins came from
+INFO     2026-04-30 11:37:11 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/where-the-goblins-came-from/
+INFO     2026-04-30 11:37:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-30 11:37:12 [scraper.py:170] 📥 [HN #3] Mozilla's Opposition to Chrome's Prompt API
+INFO     2026-04-30 11:37:12 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/mozilla/standards-positions/issues/1213
+INFO     2026-04-30 11:37:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-30 11:37:12 [scraper.py:170] 📥 [HN #4] Noctua releases official 3D CAD models for its cooling fans
+INFO     2026-04-30 11:37:12 [scraper.py:171] 🔗 [HN #4] URL: https://www.noctua.at/en/3d-cad-models
+INFO     2026-04-30 11:37:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-30 11:37:12 [scraper.py:170] 📥 [HN #5] Zed 1.0
+INFO     2026-04-30 11:37:12 [scraper.py:171] 🔗 [HN #5] URL: https://zed.dev/blog/zed-1-0
+INFO     2026-04-30 11:37:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-30 11:37:12 [scraper.py:170] 📥 [HN #6] The Zig project's rationale for their anti-AI contribution policy
+INFO     2026-04-30 11:37:12 [scraper.py:171] 🔗 [HN #6] URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/
+INFO     2026-04-30 11:37:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-30 11:37:12 [scraper.py:170] 📥 [HN #7] Copy Fail
+INFO     2026-04-30 11:37:12 [scraper.py:171] 🔗 [HN #7] URL: https://copy.fail/
+INFO     2026-04-30 11:37:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-30 11:37:13 [scraper.py:170] 📥 [HN #8] Craig Venter has died
+INFO     2026-04-30 11:37:13 [scraper.py:171] 🔗 [HN #8] URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79
+INFO     2026-04-30 11:37:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-30 11:37:13 [scraper.py:170] 📥 [HN #9] A Primer on Bézier Curves – So What Makes a Bézier Curve?
+INFO     2026-04-30 11:37:13 [scraper.py:171] 🔗 [HN #9] URL: https://pomax.github.io/bezierinfo/
+INFO     2026-04-30 11:37:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-30 11:37:13 [scraper.py:170] 📥 [HN #10] "Parse, don't validate" through the years with C++
+INFO     2026-04-30 11:37:13 [scraper.py:171] 🔗 [HN #10] URL: https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/
+INFO     2026-04-30 11:37:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-30 11:37:13 [scraper.py:178] 🎉 [HN] All done.
+
