@@ -4079,3 +4079,8 @@ INFO     2026-04-30 03:52:42 [scraper.py:47] 📥 [APOD] Title: The Moon, Venus,
 INFO     2026-04-30 03:52:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg
 INFO     2026-04-30 03:52:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-04-30 07:30:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-04-30 07:30:34 [scraper.py:47] 📥 [APOD] Title: Waves on Titan
+INFO     2026-04-30 07:30:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2604/waves.mp4
+INFO     2026-04-30 07:30:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

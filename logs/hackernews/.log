@@ -27307,3 +27307,36 @@ INFO     2026-04-30 03:52:43 [scraper.py:171] 🔗 [HN #10] URL: https://devblog
 INFO     2026-04-30 03:52:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-30 03:52:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-04-30 07:30:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-04-30 07:30:34 [scraper.py:170] 📥 [HN #1] Where the goblins came from
+INFO     2026-04-30 07:30:34 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/where-the-goblins-came-from/
+INFO     2026-04-30 07:30:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-04-30 07:30:34 [scraper.py:170] 📥 [HN #2] Noctua releases official 3D CAD models for its cooling fans
+INFO     2026-04-30 07:30:34 [scraper.py:171] 🔗 [HN #2] URL: https://www.noctua.at/en/3d-cad-models
+INFO     2026-04-30 07:30:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-04-30 07:30:34 [scraper.py:170] 📥 [HN #3] Zed 1.0
+INFO     2026-04-30 07:30:34 [scraper.py:171] 🔗 [HN #3] URL: https://zed.dev/blog/zed-1-0
+INFO     2026-04-30 07:30:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-04-30 07:30:34 [scraper.py:170] 📥 [HN #4] Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs
+INFO     2026-04-30 07:30:34 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/cauchy221/Alignment-Whack-a-Mole-Code
+INFO     2026-04-30 07:30:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-04-30 07:30:34 [scraper.py:170] 📥 [HN #5] Craig Venter has died
+INFO     2026-04-30 07:30:34 [scraper.py:171] 🔗 [HN #5] URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79
+INFO     2026-04-30 07:30:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:170] 📥 [HN #6] Scott Aaronson on quantum: "Will you heed my warnings NOW?"
+INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #6] URL: https://scottaaronson.blog/?p=9718
+INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:170] 📥 [HN #7] The Zig project's rationale for their firm anti-AI contribution policy
+INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #7] URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/
+INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:170] 📥 [HN #8] Copy Fail
+INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #8] URL: https://copy.fail/
+INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:170] 📥 [HN #9] Biology is a Burrito: A text- and visual-based journey through a living cell
+INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #9] URL: https://burrito.bio/essays/biology-is-a-burrito
+INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:170] 📥 [HN #10] Functional programmers need to take a look at Zig
+INFO     2026-04-30 07:30:35 [scraper.py:171] 🔗 [HN #10] URL: https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html
+INFO     2026-04-30 07:30:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-04-30 07:30:35 [scraper.py:178] 🎉 [HN] All done.
+
