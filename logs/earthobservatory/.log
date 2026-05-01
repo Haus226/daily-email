@@ -11333,3 +11333,24 @@ INFO     2026-05-01 04:04:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-01 04:04:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-01 07:27:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-01 07:27:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-01 07:27:58 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-01 07:27:58 [scraper.py:133] 📥 [EO] Title: Cyclone Rains Spur Papua New Guinea Landslides
+INFO     2026-05-01 07:27:58 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20260420_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-01 07:27:58 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-01 07:27:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-01 07:27:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-01 07:27:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-01 07:27:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-01 07:27:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-01 07:27:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-01 07:27:59 [scraper.py:133] 📥 [EO] Title: Cyclone Rains Spur Papua New Guinea Landslides
+INFO     2026-05-01 07:27:59 [scraper.py:133] 📥 [EO] Title: Cyclone Rains Spur Papua New Guinea Landslides
+INFO     2026-05-01 07:27:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20260420_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-01 07:27:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cyclone-rains-spur-papua-new-guinea-landslides/papuanewguinea_landslide_oli2_20260420_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-01 07:27:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-01 07:27:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
