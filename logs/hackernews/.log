@@ -27373,3 +27373,36 @@ INFO     2026-04-30 11:37:13 [scraper.py:171] 🔗 [HN #10] URL: https://derekro
 INFO     2026-04-30 11:37:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-04-30 11:37:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-01 04:04:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-01 04:04:21 [scraper.py:170] 📥 [HN #1] Show HN: Winpodx – run Windows apps on Linux as native windows
+INFO     2026-05-01 04:04:21 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/kernalix7/winpodx
+INFO     2026-05-01 04:04:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-01 04:04:21 [scraper.py:170] 📥 [HN #2] How Mark Klein told the EFF about Room 641A [book excerpt]
+INFO     2026-05-01 04:04:21 [scraper.py:171] 🔗 [HN #2] URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
+INFO     2026-05-01 04:04:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-01 04:04:21 [scraper.py:170] 📥 [HN #3] Opus 4.7 knows the real Kelsey
+INFO     2026-05-01 04:04:21 [scraper.py:171] 🔗 [HN #3] URL: https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously
+INFO     2026-05-01 04:04:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #4] For Linux kernel vulnerabilities, there is no heads-up to distributions
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #4] URL: https://www.openwall.com/lists/oss-security/2026/04/30/10
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #5] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #5] URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #6] OpenWarp
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #6] URL: https://openwarp.zerx.dev
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #7] Can I disable all data collection from my vehicle?
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #7] URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #8] I Got Sick of Remembering Port Numbers
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #8] URL: https://gregraiz.com/blog/local-vibe/
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #9] Maladaptive Frugality
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #9] URL: https://herbertlui.net/maladaptive-frugality/
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:170] 📥 [HN #10] CPanel and WHM Authentication Bypass – CVE-2026-41940
+INFO     2026-05-01 04:04:22 [scraper.py:171] 🔗 [HN #10] URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/
+INFO     2026-05-01 04:04:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-01 04:04:22 [scraper.py:178] 🎉 [HN] All done.
+
