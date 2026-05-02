@@ -27505,3 +27505,36 @@ INFO     2026-05-02 03:37:13 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-02 03:37:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-02 03:37:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-02 07:02:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-02 07:02:50 [scraper.py:170] 📥 [HN #1] Why does it take so long to release black fan versions?
+INFO     2026-05-02 07:02:50 [scraper.py:171] 🔗 [HN #1] URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions
+INFO     2026-05-02 07:02:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-02 07:02:50 [scraper.py:170] 📥 [HN #2] Job Postings for Software Engineers Are Rapidly Rising
+INFO     2026-05-02 07:02:50 [scraper.py:171] 🔗 [HN #2] URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/
+INFO     2026-05-02 07:02:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-02 07:02:50 [scraper.py:170] 📥 [HN #3] Ti-84 Evo
+INFO     2026-05-02 07:02:50 [scraper.py:171] 🔗 [HN #3] URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
+INFO     2026-05-02 07:02:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-02 07:02:51 [scraper.py:170] 📥 [HN #4] Spirit Airlines Is Winding Down All Operations
+INFO     2026-05-02 07:02:51 [scraper.py:171] 🔗 [HN #4] URL: https://www.spiritrestructuring.com/
+INFO     2026-05-02 07:02:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-02 07:02:51 [scraper.py:170] 📥 [HN #5] Ask.com has closed
+INFO     2026-05-02 07:02:51 [scraper.py:171] 🔗 [HN #5] URL: https://www.ask.com/
+INFO     2026-05-02 07:02:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-02 07:02:51 [scraper.py:170] 📥 [HN #6] Artemis II Photo Timeline
+INFO     2026-05-02 07:02:51 [scraper.py:171] 🔗 [HN #6] URL: https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003
+INFO     2026-05-02 07:02:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-02 07:02:51 [scraper.py:170] 📥 [HN #7] New research suggests people can communicate and practice skills while dreaming
+INFO     2026-05-02 07:02:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
+INFO     2026-05-02 07:02:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-02 07:02:52 [scraper.py:170] 📥 [HN #8] To Restore an Island Paradise, Add Fungi
+INFO     2026-05-02 07:02:52 [scraper.py:171] 🔗 [HN #8] URL: https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi
+INFO     2026-05-02 07:02:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-02 07:02:52 [scraper.py:170] 📥 [HN #9] LFM2-24B-A2B: Scaling Up the LFM2 Architecture
+INFO     2026-05-02 07:02:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.liquid.ai/blog/lfm2-24b-a2b
+INFO     2026-05-02 07:02:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-02 07:02:52 [scraper.py:170] 📥 [HN #10] K3k: Kubernetes in Kubernetes
+INFO     2026-05-02 07:02:52 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/rancher/k3k
+INFO     2026-05-02 07:02:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-02 07:02:52 [scraper.py:178] 🎉 [HN] All done.
+
