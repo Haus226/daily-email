@@ -27472,3 +27472,36 @@ INFO     2026-05-01 11:06:58 [scraper.py:171] 🔗 [HN #10] URL: https://btxx.or
 INFO     2026-05-01 11:06:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-01 11:06:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-02 03:37:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-02 03:37:11 [scraper.py:170] 📥 [HN #1] Ti-84 Evo
+INFO     2026-05-02 03:37:11 [scraper.py:171] 🔗 [HN #1] URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
+INFO     2026-05-02 03:37:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-02 03:37:11 [scraper.py:170] 📥 [HN #2] Good developers learn to program. Most courses teach a language
+INFO     2026-05-02 03:37:11 [scraper.py:171] 🔗 [HN #2] URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language
+INFO     2026-05-02 03:37:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-02 03:37:11 [scraper.py:170] 📥 [HN #3] Artemis II Photo Timeline
+INFO     2026-05-02 03:37:11 [scraper.py:171] 🔗 [HN #3] URL: https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003
+INFO     2026-05-02 03:37:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-02 03:37:12 [scraper.py:170] 📥 [HN #4] New research suggests people can communicate and practice skills while dreaming
+INFO     2026-05-02 03:37:12 [scraper.py:171] 🔗 [HN #4] URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
+INFO     2026-05-02 03:37:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-02 03:37:12 [scraper.py:170] 📥 [HN #5] The smelly baby problem
+INFO     2026-05-02 03:37:12 [scraper.py:171] 🔗 [HN #5] URL: https://www.worksinprogress.news/p/how-disposable-diapers-conquered
+INFO     2026-05-02 03:37:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-02 03:37:12 [scraper.py:170] 📥 [HN #6] To Restore an Island Paradise, Add Fungi
+INFO     2026-05-02 03:37:12 [scraper.py:171] 🔗 [HN #6] URL: https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi
+INFO     2026-05-02 03:37:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-02 03:37:12 [scraper.py:170] 📥 [HN #7] A Report on Burnout in Open Source Software Communities (2025) [pdf]
+INFO     2026-05-02 03:37:12 [scraper.py:171] 🔗 [HN #7] URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf
+INFO     2026-05-02 03:37:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-02 03:37:13 [scraper.py:170] 📥 [HN #8] I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+INFO     2026-05-02 03:37:13 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=47975676
+INFO     2026-05-02 03:37:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-02 03:37:13 [scraper.py:170] 📥 [HN #9] Direct electrochemical black coffee quality appraisal using cyclic voltammetry
+INFO     2026-05-02 03:37:13 [scraper.py:171] 🔗 [HN #9] URL: https://www.nature.com/articles/s41467-026-71526-5
+INFO     2026-05-02 03:37:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-02 03:37:13 [scraper.py:170] 📥 [HN #10] Lib0xc: A set of C standard library-adjacent APIs for safer systems programming
+INFO     2026-05-02 03:37:13 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/microsoft/lib0xc
+INFO     2026-05-02 03:37:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-02 03:37:13 [scraper.py:178] 🎉 [HN] All done.
+
