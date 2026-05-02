@@ -27538,3 +27538,36 @@ INFO     2026-05-02 07:02:52 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-02 07:02:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-02 07:02:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-02 10:53:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-02 10:53:12 [scraper.py:170] 📥 [HN #1] How fast is a macOS VM, and how small could it be?
+INFO     2026-05-02 10:53:12 [scraper.py:171] 🔗 [HN #1] URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
+INFO     2026-05-02 10:53:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #2] Why does it take so long to release black fan versions?
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #2] URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #3] Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #3] URL: https://mljar.com/
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #4] Why are there both TMP and TEMP environment variables? (2015)
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #4] URL: https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #5] Show HN: DAC – open-source dashboard as code tool for agents and humans
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/bruin-data/dac
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #6] Show HN: Browser-based light pollution simulator using real photometric data
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #6] URL: https://iesna.eu/?wasm=skyglow_demo
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-02 10:53:13 [scraper.py:170] 📥 [HN #7] Ti-84 Evo
+INFO     2026-05-02 10:53:13 [scraper.py:171] 🔗 [HN #7] URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
+INFO     2026-05-02 10:53:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-02 10:53:14 [scraper.py:170] 📥 [HN #8] Show HN: Filling PDF forms with AI using client-side tool calling
+INFO     2026-05-02 10:53:14 [scraper.py:171] 🔗 [HN #8] URL: https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en
+INFO     2026-05-02 10:53:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-02 10:53:14 [scraper.py:170] 📥 [HN #9] SKILL.make: Makefile Styled Skill File
+INFO     2026-05-02 10:53:14 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/Teaonly/SKILL.make
+INFO     2026-05-02 10:53:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-02 10:53:14 [scraper.py:170] 📥 [HN #10] The USB Situation
+INFO     2026-05-02 10:53:14 [scraper.py:171] 🔗 [HN #10] URL: https://randsinrepose.com/archives/the-usb-situation/
+INFO     2026-05-02 10:53:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-02 10:53:14 [scraper.py:178] 🎉 [HN] All done.
+
