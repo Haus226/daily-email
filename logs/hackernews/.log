@@ -27637,3 +27637,36 @@ INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #10] URL: https://donottr
 INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-03 07:20:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-03 10:55:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-03 10:55:18 [scraper.py:170] 📥 [HN #1] A couple million lines of Haskell: Production engineering at Mercury
+INFO     2026-05-03 10:55:18 [scraper.py:171] 🔗 [HN #1] URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
+INFO     2026-05-03 10:55:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-03 10:55:18 [scraper.py:170] 📥 [HN #2] This Month in Ladybird – April 2026
+INFO     2026-05-03 10:55:18 [scraper.py:171] 🔗 [HN #2] URL: https://ladybird.org/newsletter/2026-04-30/
+INFO     2026-05-03 10:55:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-03 10:55:19 [scraper.py:170] 📥 [HN #3] Dav2d
+INFO     2026-05-03 10:55:19 [scraper.py:171] 🔗 [HN #3] URL: https://code.videolan.org/videolan/dav2d
+INFO     2026-05-03 10:55:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-03 10:55:19 [scraper.py:170] 📥 [HN #4] Unverified Evaluations in Dusk's PLONK
+INFO     2026-05-03 10:55:19 [scraper.py:171] 🔗 [HN #4] URL: https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/
+INFO     2026-05-03 10:55:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-03 10:55:19 [scraper.py:170] 📥 [HN #5] Six Years Perfecting Maps on WatchOS
+INFO     2026-05-03 10:55:19 [scraper.py:171] 🔗 [HN #5] URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+INFO     2026-05-03 10:55:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-03 10:55:19 [scraper.py:170] 📥 [HN #6] Group averages obscure how an individual's brain controls behavior: study
+INFO     2026-05-03 10:55:19 [scraper.py:171] 🔗 [HN #6] URL: https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html
+INFO     2026-05-03 10:55:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-03 10:55:19 [scraper.py:170] 📥 [HN #7] Do_not_track
+INFO     2026-05-03 10:55:19 [scraper.py:171] 🔗 [HN #7] URL: https://donottrack.sh/
+INFO     2026-05-03 10:55:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-03 10:55:20 [scraper.py:170] 📥 [HN #8] Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
+INFO     2026-05-03 10:55:20 [scraper.py:171] 🔗 [HN #8] URL: https://acai.sh/blog/specsmaxxing
+INFO     2026-05-03 10:55:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-03 10:55:20 [scraper.py:170] 📥 [HN #9] Neanderthals ran 'fat factories' 125,000 years ago (2025)
+INFO     2026-05-03 10:55:20 [scraper.py:171] 🔗 [HN #9] URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+INFO     2026-05-03 10:55:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-03 10:55:20 [scraper.py:170] 📥 [HN #10] Windows quality update: Progress we've made since March
+INFO     2026-05-03 10:55:20 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/
+INFO     2026-05-03 10:55:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-03 10:55:20 [scraper.py:178] 🎉 [HN] All done.
+
