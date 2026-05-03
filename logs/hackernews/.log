@@ -27604,3 +27604,36 @@ INFO     2026-05-03 03:59:38 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-03 03:59:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-03 03:59:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-03 07:20:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-03 07:20:51 [scraper.py:170] 📥 [HN #1] A Couple Million Lines of Haskell: Production Engineering at Mercury
+INFO     2026-05-03 07:20:51 [scraper.py:171] 🔗 [HN #1] URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
+INFO     2026-05-03 07:20:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-03 07:20:51 [scraper.py:170] 📥 [HN #2] This Month in Ladybird - April 2026
+INFO     2026-05-03 07:20:51 [scraper.py:171] 🔗 [HN #2] URL: https://ladybird.org/newsletter/2026-04-30/
+INFO     2026-05-03 07:20:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-03 07:20:51 [scraper.py:170] 📥 [HN #3] The IBM Granite 4.1 family of models
+INFO     2026-05-03 07:20:51 [scraper.py:171] 🔗 [HN #3] URL: https://research.ibm.com/blog/granite-4-1-ai-foundation-models
+INFO     2026-05-03 07:20:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-03 07:20:51 [scraper.py:170] 📥 [HN #4] Dav2d
+INFO     2026-05-03 07:20:51 [scraper.py:171] 🔗 [HN #4] URL: https://code.videolan.org/videolan/dav2d
+INFO     2026-05-03 07:20:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-03 07:20:51 [scraper.py:170] 📥 [HN #5] Six Years Perfecting Maps on WatchOS
+INFO     2026-05-03 07:20:51 [scraper.py:171] 🔗 [HN #5] URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:170] 📥 [HN #6] Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML
+INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #6] URL: https://acai.sh/blog/specsmaxxing
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:170] 📥 [HN #7] Windows quality update: Progress we've made since March
+INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #7] URL: https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:170] 📥 [HN #8] San Francisco streets with confusingly similar names
+INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #8] URL: https://j-nelson.net/san-francisco-streets-with-similar-names/
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:170] 📥 [HN #9] Neanderthals ran 'fat factories' 125,000 years ago (2025)
+INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:170] 📥 [HN #10] Do_not_track
+INFO     2026-05-03 07:20:52 [scraper.py:171] 🔗 [HN #10] URL: https://donottrack.sh/
+INFO     2026-05-03 07:20:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-03 07:20:52 [scraper.py:178] 🎉 [HN] All done.
+

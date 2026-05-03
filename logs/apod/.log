@@ -4124,3 +4124,8 @@ INFO     2026-05-03 03:59:36 [scraper.py:47] 📥 [APOD] Title: Seeing Titan
 INFO     2026-05-03 03:59:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg
 INFO     2026-05-03 03:59:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-03 07:20:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-03 07:20:50 [scraper.py:47] 📥 [APOD] Title: Trifid Pillars and Jets
+INFO     2026-05-03 07:20:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg
+INFO     2026-05-03 07:20:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
