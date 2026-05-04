@@ -27670,3 +27670,36 @@ INFO     2026-05-03 10:55:20 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.w
 INFO     2026-05-03 10:55:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-03 10:55:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-04 03:56:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-04 03:56:27 [scraper.py:170] 📥 [HN #1] BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+INFO     2026-05-04 03:56:27 [scraper.py:171] 🔗 [HN #1] URL: https://partyon.xyz/@nullagent/116499715071759135
+INFO     2026-05-04 03:56:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-04 03:56:27 [scraper.py:170] 📥 [HN #2] Using "underdrawings" for accurate text and numbers
+INFO     2026-05-04 03:56:27 [scraper.py:171] 🔗 [HN #2] URL: https://samcollins.blog/underdrawings/
+INFO     2026-05-04 03:56:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-04 03:56:27 [scraper.py:170] 📥 [HN #3] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper
+INFO     2026-05-04 03:56:27 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/aattaran/deepclaude
+INFO     2026-05-04 03:56:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-04 03:56:27 [scraper.py:170] 📥 [HN #4] Let's Buy Spirit Air
+INFO     2026-05-04 03:56:27 [scraper.py:171] 🔗 [HN #4] URL: https://letsbuyspiritair.com/
+INFO     2026-05-04 03:56:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #5] The 'Hidden' Costs of Great Abstractions
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #5] URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #6] Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #6] URL: https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #7] Southwest Headquarters Tour
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #7] URL: https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #8] US–Indian space mission maps extreme subsidence in Mexico City
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #8] URL: https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #9] Tar Files Created on macOS Display Errors When Extracting on Linux (2024)
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #9] URL: https://aruljohn.com/blog/macos-created-tar-files-linux-errors/
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:170] 📥 [HN #10] Introduction to Atom
+INFO     2026-05-04 03:56:28 [scraper.py:171] 🔗 [HN #10] URL: https://validator.w3.org/feed/docs/atom.html
+INFO     2026-05-04 03:56:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-04 03:56:28 [scraper.py:178] 🎉 [HN] All done.
+
