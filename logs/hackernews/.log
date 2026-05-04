@@ -27736,3 +27736,36 @@ INFO     2026-05-04 07:49:27 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-05-04 07:49:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-04 07:49:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-04 11:49:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-04 11:49:18 [scraper.py:170] 📥 [HN #1] GameStop makes $55.5B takeover offer for eBay
+INFO     2026-05-04 11:49:18 [scraper.py:171] 🔗 [HN #1] URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do
+INFO     2026-05-04 11:49:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-04 11:49:18 [scraper.py:170] 📥 [HN #2] ASML's Best Selling Product Isn't What You Think It Is
+INFO     2026-05-04 11:49:18 [scraper.py:171] 🔗 [HN #2] URL: https://www.siliconimist.com/p/asmls-best-selling-product
+INFO     2026-05-04 11:49:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-04 11:49:18 [scraper.py:170] 📥 [HN #3] Trademark violation: Fake Notepad++ for Mac
+INFO     2026-05-04 11:49:18 [scraper.py:171] 🔗 [HN #3] URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/
+INFO     2026-05-04 11:49:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-04 11:49:18 [scraper.py:170] 📥 [HN #4] Debunking the CIA's “magic” heartbeat sensor [video]
+INFO     2026-05-04 11:49:18 [scraper.py:171] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=SVTPv4sI_Jc
+INFO     2026-05-04 11:49:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #5] Using “underdrawings” for accurate text and numbers
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #5] URL: https://samcollins.blog/underdrawings/
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #6] Texico: Learn the principles of programming without even touching a computer
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #6] URL: https://www3.nhk.or.jp/nhkworld/en/shows/texico/
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #7] World's biggest RC A380 [video]
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=wr9YLGbhxng
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #8] BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #8] URL: https://partyon.xyz/@nullagent/116499715071759135
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #9] DeepClaude – Claude Code agent loop with DeepSeek V4 Pro
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/aattaran/deepclaude
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:170] 📥 [HN #10] Discovering hard disk physical geometry through microbenchmarking (2019)
+INFO     2026-05-04 11:49:19 [scraper.py:171] 🔗 [HN #10] URL: https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/
+INFO     2026-05-04 11:49:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-04 11:49:19 [scraper.py:178] 🎉 [HN] All done.
+
