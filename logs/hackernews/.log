@@ -27835,3 +27835,36 @@ INFO     2026-05-05 07:20:38 [scraper.py:171] 🔗 [HN #10] URL: https://www.lun
 INFO     2026-05-05 07:20:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-05 07:20:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-05 11:15:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-05 11:15:34 [scraper.py:170] 📥 [HN #1] Async Rust never left the MVP state
+INFO     2026-05-05 11:15:34 [scraper.py:171] 🔗 [HN #1] URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
+INFO     2026-05-05 11:15:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-05 11:15:34 [scraper.py:170] 📥 [HN #2] Should I Run Plain Docker Compose in Production in 2026?
+INFO     2026-05-05 11:15:34 [scraper.py:171] 🔗 [HN #2] URL: https://distr.sh/blog/running-docker-in-production/
+INFO     2026-05-05 11:15:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-05 11:15:34 [scraper.py:170] 📥 [HN #3] Bun is being ported from Zig to Rust
+INFO     2026-05-05 11:15:34 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
+INFO     2026-05-05 11:15:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-05 11:15:34 [scraper.py:170] 📥 [HN #4] Empty Screenings – Finds AMC movie screenings with few or no tickets sold
+INFO     2026-05-05 11:15:34 [scraper.py:171] 🔗 [HN #4] URL: https://walzr.com/empty-screenings
+INFO     2026-05-05 11:15:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-05 11:15:34 [scraper.py:170] 📥 [HN #5] Lessons for Agentic Coding: What should we do when code is cheap?
+INFO     2026-05-05 11:15:34 [scraper.py:171] 🔗 [HN #5] URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
+INFO     2026-05-05 11:15:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:170] 📥 [HN #6] When everyone has AI and the company still learns nothing
+INFO     2026-05-05 11:15:35 [scraper.py:171] 🔗 [HN #6] URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
+INFO     2026-05-05 11:15:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:170] 📥 [HN #7] Hand Drawn QR Codes
+INFO     2026-05-05 11:15:35 [scraper.py:171] 🔗 [HN #7] URL: https://sethmlarson.dev/hand-drawn-qr-codes
+INFO     2026-05-05 11:15:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:170] 📥 [HN #8] Google Chrome silently installs a 4 GB AI model on your device without consent
+INFO     2026-05-05 11:15:35 [scraper.py:171] 🔗 [HN #8] URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
+INFO     2026-05-05 11:15:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:170] 📥 [HN #9] How OpenAI delivers low-latency voice AI at scale
+INFO     2026-05-05 11:15:35 [scraper.py:171] 🔗 [HN #9] URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+INFO     2026-05-05 11:15:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:170] 📥 [HN #10] CVE-2026-31431: Copy Fail vs. rootless containers
+INFO     2026-05-05 11:15:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
+INFO     2026-05-05 11:15:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-05 11:15:35 [scraper.py:178] 🎉 [HN] All done.
+
