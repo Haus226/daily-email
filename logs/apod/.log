@@ -4154,3 +4154,8 @@ INFO     2026-05-05 03:37:44 [scraper.py:47] 📥 [APOD] Title: Superplumes Insi
 INFO     2026-05-05 03:37:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4
 INFO     2026-05-05 03:37:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-05 07:20:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-05 07:20:37 [scraper.py:47] 📥 [APOD] Title: Orion over Mount Teide
+INFO     2026-05-05 07:20:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg
+INFO     2026-05-05 07:20:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

@@ -27802,3 +27802,36 @@ INFO     2026-05-05 03:37:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.nbe
 INFO     2026-05-05 03:37:46 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-05 03:37:46 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-05 07:20:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #1] Train Your Own LLM from Scratch
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/angelos-p/llm-from-scratch
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #2] Bun is being ported from Zig to Rust
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #3] Hand Drawn QR Codes
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #3] URL: https://sethmlarson.dev/hand-drawn-qr-codes
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #4] About 10% of AMC movie showings sell zero tickets. This site finds them
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #4] URL: https://walzr.com/empty-screenings
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #5] The Car That Watches You Back: The Advertising Infrastructure of Modern Cars
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #5] URL: https://nobodyaskedforthis.lol/posts/connected-car/
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-05 07:20:37 [scraper.py:170] 📥 [HN #6] How OpenAI delivers low-latency voice AI at scale
+INFO     2026-05-05 07:20:37 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+INFO     2026-05-05 07:20:37 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-05 07:20:38 [scraper.py:170] 📥 [HN #7] CVE-2026-31431: Copy Fail vs. rootless containers
+INFO     2026-05-05 07:20:38 [scraper.py:171] 🔗 [HN #7] URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
+INFO     2026-05-05 07:20:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-05 07:20:38 [scraper.py:170] 📥 [HN #8] Agent Skills
+INFO     2026-05-05 07:20:38 [scraper.py:171] 🔗 [HN #8] URL: https://addyosmani.com/blog/agent-skills/
+INFO     2026-05-05 07:20:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-05 07:20:38 [scraper.py:170] 📥 [HN #9] When Networking Doesn't Work
+INFO     2026-05-05 07:20:38 [scraper.py:171] 🔗 [HN #9] URL: https://www.os2museum.com/wp/when-networking-doesnt-work/
+INFO     2026-05-05 07:20:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-05 07:20:38 [scraper.py:170] 📥 [HN #10] Nocturnal migratory birds follow rhythm of the moon
+INFO     2026-05-05 07:20:38 [scraper.py:171] 🔗 [HN #10] URL: https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon
+INFO     2026-05-05 07:20:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-05 07:20:38 [scraper.py:178] 🎉 [HN] All done.
+
