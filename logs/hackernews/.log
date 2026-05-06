@@ -27934,3 +27934,36 @@ INFO     2026-05-06 07:37:49 [scraper.py:171] 🔗 [HN #10] URL: https://reflex.
 INFO     2026-05-06 07:37:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-06 07:37:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-06 11:47:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-06 11:47:53 [scraper.py:170] 📥 [HN #1] Show HN: Red Squares – GitHub outages as contributions
+INFO     2026-05-06 11:47:53 [scraper.py:171] 🔗 [HN #1] URL: https://red-squares.cian.lol/
+INFO     2026-05-06 11:47:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-06 11:47:54 [scraper.py:170] 📥 [HN #2] Agents can now create Cloudflare accounts, buy domains, and deploy
+INFO     2026-05-06 11:47:54 [scraper.py:171] 🔗 [HN #2] URL: https://blog.cloudflare.com/agents-stripe-projects/
+INFO     2026-05-06 11:47:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-06 11:47:54 [scraper.py:170] 📥 [HN #3] StarFighter 16-Inch
+INFO     2026-05-06 11:47:54 [scraper.py:171] 🔗 [HN #3] URL: https://us.starlabs.systems/pages/starfighter
+INFO     2026-05-06 11:47:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #4] CARA 2.0 – “I Built a Better Robot Dog”
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #4] URL: https://www.aaedmusa.com/projects/cara2
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #5] Batteries Not Included, or Required, for These Smart Home Sensors
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #5] URL: https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #6] Knitting bullshit
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #6] URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #7] NZ Government to Disestablish the BSA
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.beehive.govt.nz/release/government-disestablish-bsa
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #8] Reverse-engineering the 1998 Ultima Online demo server
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #8] URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-06 11:47:55 [scraper.py:170] 📥 [HN #9] DNSSEC disruption affecting .de domains – Resolved
+INFO     2026-05-06 11:47:55 [scraper.py:171] 🔗 [HN #9] URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
+INFO     2026-05-06 11:47:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-06 11:47:56 [scraper.py:170] 📥 [HN #10] Accelerating Gemma 4: faster inference with multi-token prediction drafters
+INFO     2026-05-06 11:47:56 [scraper.py:171] 🔗 [HN #10] URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+INFO     2026-05-06 11:47:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-06 11:47:56 [scraper.py:178] 🎉 [HN] All done.
+
