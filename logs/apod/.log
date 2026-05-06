@@ -4169,3 +4169,8 @@ INFO     2026-05-06 03:53:34 [scraper.py:47] 📥 [APOD] Title: Orion over Mount
 INFO     2026-05-06 03:53:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg
 INFO     2026-05-06 03:53:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-06 07:37:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-06 07:37:47 [scraper.py:47] 📥 [APOD] Title: The Retrograde Dance of Saturn and Neptune
+INFO     2026-05-06 07:37:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg
+INFO     2026-05-06 07:37:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
