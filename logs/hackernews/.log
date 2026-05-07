@@ -28000,3 +28000,36 @@ INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #10] URL: https://cloud.g
 INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-07 03:52:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-07 07:44:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-07 07:44:46 [scraper.py:170] 📥 [HN #1] Valve releases Steam Controller CAD files under Creative Commons license
+INFO     2026-05-07 07:44:46 [scraper.py:171] 🔗 [HN #1] URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+INFO     2026-05-07 07:44:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-07 07:44:46 [scraper.py:170] 📥 [HN #2] Appearing productive in the workplace
+INFO     2026-05-07 07:44:46 [scraper.py:171] 🔗 [HN #2] URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+INFO     2026-05-07 07:44:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-07 07:44:46 [scraper.py:170] 📥 [HN #3] Permacomputing Principles
+INFO     2026-05-07 07:44:46 [scraper.py:171] 🔗 [HN #3] URL: https://permacomputing.net/principles/
+INFO     2026-05-07 07:44:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-07 07:44:46 [scraper.py:170] 📥 [HN #4] Diskless Linux boot using ZFS, iSCSI and PXE
+INFO     2026-05-07 07:44:46 [scraper.py:171] 🔗 [HN #4] URL: https://aniket.foo/posts/20260505-netboot/
+INFO     2026-05-07 07:44:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-07 07:44:46 [scraper.py:170] 📥 [HN #5] SQLite Is a Library of Congress Recommended Storage Format
+INFO     2026-05-07 07:44:46 [scraper.py:171] 🔗 [HN #5] URL: https://sqlite.org/locrsf.html
+INFO     2026-05-07 07:44:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-07 07:44:47 [scraper.py:170] 📥 [HN #6] Vibe coding and agentic engineering are getting closer than I'd like
+INFO     2026-05-07 07:44:47 [scraper.py:171] 🔗 [HN #6] URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+INFO     2026-05-07 07:44:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-07 07:44:47 [scraper.py:170] 📥 [HN #7] Chevrolet Performance eCrate package (400v/200hp)
+INFO     2026-05-07 07:44:47 [scraper.py:171] 🔗 [HN #7] URL: https://www.chevrolet.com/performance-parts/crate-engines/ecrate
+INFO     2026-05-07 07:44:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-07 07:44:47 [scraper.py:170] 📥 [HN #8] ProgramBench: Can Language Models Rebuild Programs from Scratch?
+INFO     2026-05-07 07:44:47 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2605.03546
+INFO     2026-05-07 07:44:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-07 07:44:47 [scraper.py:170] 📥 [HN #9] RSS Feeds Send Me More Traffic Than Google
+INFO     2026-05-07 07:44:47 [scraper.py:171] 🔗 [HN #9] URL: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/
+INFO     2026-05-07 07:44:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-07 07:44:48 [scraper.py:170] 📥 [HN #10] The Vatican's Website in Latin
+INFO     2026-05-07 07:44:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.vatican.va/latin/latin_index.html
+INFO     2026-05-07 07:44:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-07 07:44:48 [scraper.py:178] 🎉 [HN] All done.
+
