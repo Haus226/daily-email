@@ -27967,3 +27967,36 @@ INFO     2026-05-06 11:47:56 [scraper.py:171] 🔗 [HN #10] URL: https://blog.go
 INFO     2026-05-06 11:47:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-06 11:47:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-07 03:52:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-07 03:52:17 [scraper.py:170] 📥 [HN #1] Valve releases Steam Controller CAD files under Creative Commons license
+INFO     2026-05-07 03:52:17 [scraper.py:171] 🔗 [HN #1] URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+INFO     2026-05-07 03:52:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-07 03:52:17 [scraper.py:170] 📥 [HN #2] Permacomputing Principles
+INFO     2026-05-07 03:52:17 [scraper.py:171] 🔗 [HN #2] URL: https://permacomputing.net/principles/
+INFO     2026-05-07 03:52:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-07 03:52:17 [scraper.py:170] 📥 [HN #3] Appearing productive in the workplace
+INFO     2026-05-07 03:52:17 [scraper.py:171] 🔗 [HN #3] URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+INFO     2026-05-07 03:52:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-07 03:52:17 [scraper.py:170] 📥 [HN #4] The Vatican's Website in Latin
+INFO     2026-05-07 03:52:17 [scraper.py:171] 🔗 [HN #4] URL: https://www.vatican.va/latin/latin_index.html
+INFO     2026-05-07 03:52:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-07 03:52:17 [scraper.py:170] 📥 [HN #5] Vibe coding and agentic engineering are getting closer than I'd like
+INFO     2026-05-07 03:52:17 [scraper.py:171] 🔗 [HN #5] URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+INFO     2026-05-07 03:52:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:170] 📥 [HN #6] Finding the differences in a series of power supplies
+INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #6] URL: https://www.lttlabs.com/articles/2026/05/05/testing-psu-series
+INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:170] 📥 [HN #7] Pen pal programs endure in a digital age
+INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #7] URL: https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca
+INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:170] 📥 [HN #8] From Supabase to Clerk to Better Auth
+INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #8] URL: https://blog.val.town/better-auth
+INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:170] 📥 [HN #9] SQLite Is a Library of Congress Recommended Storage Format
+INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #9] URL: https://sqlite.org/locrsf.html
+INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:170] 📥 [HN #10] Google Cloud fraud defense, the next evolution of reCAPTCHA
+INFO     2026-05-07 03:52:18 [scraper.py:171] 🔗 [HN #10] URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
+INFO     2026-05-07 03:52:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-07 03:52:18 [scraper.py:178] 🎉 [HN] All done.
+
