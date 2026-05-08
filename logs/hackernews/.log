@@ -28066,3 +28066,36 @@ INFO     2026-05-07 11:48:17 [scraper.py:171] 🔗 [HN #10] URL: https://simonwi
 INFO     2026-05-07 11:48:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-07 11:48:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-08 03:42:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-08 03:42:37 [scraper.py:170] 📥 [HN #1] Canvas is down as ShinyHunters threatens to leak schools’ data
+INFO     2026-05-08 03:42:37 [scraper.py:171] 🔗 [HN #1] URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+INFO     2026-05-08 03:42:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-08 03:42:37 [scraper.py:170] 📥 [HN #2] Maybe you shouldn't install new software for a bit
+INFO     2026-05-08 03:42:37 [scraper.py:171] 🔗 [HN #2] URL: https://xeiaso.net/blog/2026/abstain-from-install/
+INFO     2026-05-08 03:42:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-08 03:42:37 [scraper.py:170] 📥 [HN #3] Dirtyfrag: Universal Linux LPE
+INFO     2026-05-08 03:42:37 [scraper.py:171] 🔗 [HN #3] URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
+INFO     2026-05-08 03:42:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-08 03:42:37 [scraper.py:170] 📥 [HN #4] Cloudflare to cut about 20% workforce
+INFO     2026-05-08 03:42:37 [scraper.py:171] 🔗 [HN #4] URL: https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/
+INFO     2026-05-08 03:42:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-08 03:42:38 [scraper.py:170] 📥 [HN #5] Pinocchio is weirder than you remembered
+INFO     2026-05-08 03:42:38 [scraper.py:171] 🔗 [HN #5] URL: https://storica.club/blog/pinocchio-in-italian/
+INFO     2026-05-08 03:42:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-08 03:42:38 [scraper.py:170] 📥 [HN #6] The map that keeps Burning Man honest
+INFO     2026-05-08 03:42:38 [scraper.py:171] 🔗 [HN #6] URL: https://www.not-ship.com/burning-man-moop/
+INFO     2026-05-08 03:42:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-08 03:42:38 [scraper.py:170] 📥 [HN #7] Agents need control flow, not more prompts
+INFO     2026-05-08 03:42:38 [scraper.py:171] 🔗 [HN #7] URL: https://bsuh.bearblog.dev/agents-need-control-flow/
+INFO     2026-05-08 03:42:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-08 03:42:39 [scraper.py:170] 📥 [HN #8] Plasticity and language in the anaesthetized human hippocampus
+INFO     2026-05-08 03:42:39 [scraper.py:171] 🔗 [HN #8] URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
+INFO     2026-05-08 03:42:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-08 03:42:39 [scraper.py:170] 📥 [HN #9] Natural Language Autoencoders: Turning Claude's Thoughts into Text
+INFO     2026-05-08 03:42:39 [scraper.py:171] 🔗 [HN #9] URL: https://www.anthropic.com/research/natural-language-autoencoders
+INFO     2026-05-08 03:42:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-08 03:42:39 [scraper.py:170] 📥 [HN #10] GNU IFUNC is the real culprit behind CVE-2024-3094
+INFO     2026-05-08 03:42:39 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/robertdfrench/ifuncd-up
+INFO     2026-05-08 03:42:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-08 03:42:39 [scraper.py:178] 🎉 [HN] All done.
+

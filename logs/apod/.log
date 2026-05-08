@@ -4194,3 +4194,8 @@ INFO     2026-05-07 11:48:16 [scraper.py:47] 📥 [APOD] Title: Supernova in a S
 INFO     2026-05-07 11:48:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/supernova.mp4
 INFO     2026-05-07 11:48:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-08 03:42:37 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-08 03:42:37 [scraper.py:47] 📥 [APOD] Title: Supernova in a Sideways Spiral
+INFO     2026-05-08 03:42:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/sn_2025kid_low.mp4
+INFO     2026-05-08 03:42:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
