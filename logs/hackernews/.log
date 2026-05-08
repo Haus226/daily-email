@@ -28132,3 +28132,36 @@ INFO     2026-05-08 06:54:41 [scraper.py:171] 🔗 [HN #10] URL: https://bsuh.be
 INFO     2026-05-08 06:54:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-08 06:54:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-08 11:16:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-08 11:16:51 [scraper.py:170] 📥 [HN #1] Canvas is down as ShinyHunters threatens to leak schools’ data
+INFO     2026-05-08 11:16:51 [scraper.py:171] 🔗 [HN #1] URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+INFO     2026-05-08 11:16:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-08 11:16:52 [scraper.py:170] 📥 [HN #2] Cloudflare to cut about 20% workforce
+INFO     2026-05-08 11:16:52 [scraper.py:171] 🔗 [HN #2] URL: https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/
+INFO     2026-05-08 11:16:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-08 11:16:52 [scraper.py:170] 📥 [HN #3] Maybe you shouldn't install new software for a bit
+INFO     2026-05-08 11:16:52 [scraper.py:171] 🔗 [HN #3] URL: https://xeiaso.net/blog/2026/abstain-from-install/
+INFO     2026-05-08 11:16:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-08 11:16:52 [scraper.py:170] 📥 [HN #4] Nintendo announces price increases for Nintendo Switch 2
+INFO     2026-05-08 11:16:52 [scraper.py:171] 🔗 [HN #4] URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
+INFO     2026-05-08 11:16:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-08 11:16:52 [scraper.py:170] 📥 [HN #5] Dirtyfrag: Universal Linux LPE
+INFO     2026-05-08 11:16:52 [scraper.py:171] 🔗 [HN #5] URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
+INFO     2026-05-08 11:16:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:170] 📥 [HN #6] ClojureScript Gets Async/Await
+INFO     2026-05-08 11:16:53 [scraper.py:171] 🔗 [HN #6] URL: https://clojurescript.org/news/2026-05-07-release
+INFO     2026-05-08 11:16:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:170] 📥 [HN #7] The map that keeps Burning Man honest
+INFO     2026-05-08 11:16:53 [scraper.py:171] 🔗 [HN #7] URL: https://www.not-ship.com/burning-man-moop/
+INFO     2026-05-08 11:16:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:170] 📥 [HN #8] Dithering with CSS
+INFO     2026-05-08 11:16:53 [scraper.py:171] 🔗 [HN #8] URL: https://ikesau.co/blog/dithering-with-css/
+INFO     2026-05-08 11:16:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:170] 📥 [HN #9] The surprisingly complex journey to text-selectable client-side generated PDFs
+INFO     2026-05-08 11:16:53 [scraper.py:171] 🔗 [HN #9] URL: https://sdocs.dev/blogs/journey-to-pdf-generation
+INFO     2026-05-08 11:16:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:170] 📥 [HN #10] Pinocchio is weirder than you remembered
+INFO     2026-05-08 11:16:53 [scraper.py:171] 🔗 [HN #10] URL: https://storica.club/blog/pinocchio-in-italian/
+INFO     2026-05-08 11:16:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-08 11:16:53 [scraper.py:178] 🎉 [HN] All done.
+

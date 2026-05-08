@@ -4238,3 +4238,8 @@ INFO     2026-05-08 06:54:39 [scraper.py:390] 📥 [TAROT] Card: Eight of Swords
 INFO     2026-05-08 06:54:39 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-05-08 06:54:39 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-05-08 11:16:51 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-05-08 11:16:51 [scraper.py:390] 📥 [TAROT] Card: Eight of Swords
+INFO     2026-05-08 11:16:51 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-05-08 11:16:51 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
