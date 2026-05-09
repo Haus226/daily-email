@@ -28231,3 +28231,36 @@ INFO     2026-05-09 07:11:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.qua
 INFO     2026-05-09 07:11:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-09 07:11:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-09 10:57:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-09 10:57:50 [scraper.py:170] 📥 [HN #1] A recent experience with ChatGPT 5.5 Pro
+INFO     2026-05-09 10:57:50 [scraper.py:171] 🔗 [HN #1] URL: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+INFO     2026-05-09 10:57:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #2] Google broke reCAPTCHA for de-googled Android users
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #2] URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #3] Using Claude Code: The unreasonable effectiveness of HTML
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/trq212/status/2052809885763747935
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #4] OpenAI’s WebRTC problem
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #4] URL: https://moq.dev/blog/webrtc-is-the-problem/
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #5] Mythical Man Month
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #5] URL: https://martinfowler.com/bliki/MythicalManMonth.html
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #6] David Attenborough's 100th Birthday
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cp3pww9g0p5o
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-09 10:57:51 [scraper.py:170] 📥 [HN #7] What causes lightning? The answer keeps getting more interesting
+INFO     2026-05-09 10:57:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/
+INFO     2026-05-09 10:57:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-09 10:57:52 [scraper.py:170] 📥 [HN #8] Making Julia as Fast as C++
+INFO     2026-05-09 10:57:52 [scraper.py:171] 🔗 [HN #8] URL: https://flow.byu.edu/posts/julia-c++
+INFO     2026-05-09 10:57:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-09 10:57:52 [scraper.py:170] 📥 [HN #9] Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)
+INFO     2026-05-09 10:57:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.wiisfi.com/
+INFO     2026-05-09 10:57:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-09 10:57:52 [scraper.py:170] 📥 [HN #10] AI is breaking two vulnerability cultures
+INFO     2026-05-09 10:57:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
+INFO     2026-05-09 10:57:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-09 10:57:52 [scraper.py:178] 🎉 [HN] All done.
+
