@@ -4209,3 +4209,8 @@ INFO     2026-05-08 11:16:51 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTAR
 INFO     2026-05-08 11:16:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg
 INFO     2026-05-08 11:16:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-09 03:44:44 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-09 03:44:44 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTARRS Before Rigel
+INFO     2026-05-09 03:44:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg
+INFO     2026-05-09 03:44:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
