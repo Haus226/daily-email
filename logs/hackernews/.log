@@ -28264,3 +28264,36 @@ INFO     2026-05-09 10:57:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.jef
 INFO     2026-05-09 10:57:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-09 10:57:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-10 04:01:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-10 04:01:14 [scraper.py:170] 📥 [HN #1] Show HN: Building a web server in assembly to give my life (a lack of) meaning
+INFO     2026-05-10 04:01:14 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/imtomt/ymawky
+INFO     2026-05-10 04:01:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-10 04:01:14 [scraper.py:170] 📥 [HN #2] Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
+INFO     2026-05-10 04:01:14 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/jarredsumner/status/2053047748191232310
+INFO     2026-05-10 04:01:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-10 04:01:14 [scraper.py:170] 📥 [HN #3] Casio S100X Japanese Lacquer Edition (JP Page Only)
+INFO     2026-05-10 04:01:14 [scraper.py:171] 🔗 [HN #3] URL: https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/
+INFO     2026-05-10 04:01:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #4] Internet Archive Switzerland
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #4] URL: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #5] Gemini API File Search is now multimodal
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #5] URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #6] I’ve banned query strings
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #6] URL: https://chrismorgan.info/no-query-strings
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #7] I'm writing a history of Visual Basic, Chapter 1 is up
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #7] URL: https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #8] Local privilege escalation via execve()
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #8] URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-10 04:01:15 [scraper.py:170] 📥 [HN #9] The Serial TTL connector we deserve
+INFO     2026-05-10 04:01:15 [scraper.py:171] 🔗 [HN #9] URL: https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/
+INFO     2026-05-10 04:01:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-10 04:01:16 [scraper.py:170] 📥 [HN #10] Show HN: Rust but Lisp
+INFO     2026-05-10 04:01:16 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ThatXliner/rust-but-lisp
+INFO     2026-05-10 04:01:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-10 04:01:16 [scraper.py:178] 🎉 [HN] All done.
+
