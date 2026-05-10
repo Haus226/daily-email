@@ -28330,3 +28330,36 @@ INFO     2026-05-10 07:27:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.fre
 INFO     2026-05-10 07:27:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-10 07:27:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-10 11:00:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-10 11:00:48 [scraper.py:170] 📥 [HN #1] Idempotency Is Easy Until the Second Request Is Different
+INFO     2026-05-10 11:00:48 [scraper.py:171] 🔗 [HN #1] URL: https://blog.dochia.dev/blog/idempotency/
+INFO     2026-05-10 11:00:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-10 11:00:48 [scraper.py:170] 📥 [HN #2] Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc
+INFO     2026-05-10 11:00:48 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/jarredsumner/status/2053047748191232310
+INFO     2026-05-10 11:00:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-10 11:00:48 [scraper.py:170] 📥 [HN #3] The One Dollar Counterfeiter
+INFO     2026-05-10 11:00:48 [scraper.py:171] 🔗 [HN #3] URL: https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html
+INFO     2026-05-10 11:00:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-10 11:00:48 [scraper.py:170] 📥 [HN #4] Show HN: Building a web server in assembly to give my life (a lack of) meaning
+INFO     2026-05-10 11:00:48 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/imtomt/ymawky
+INFO     2026-05-10 11:00:48 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-10 11:00:49 [scraper.py:170] 📥 [HN #5] We see something that works, and then we understand it
+INFO     2026-05-10 11:00:49 [scraper.py:171] 🔗 [HN #5] URL: https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/
+INFO     2026-05-10 11:00:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-10 11:00:49 [scraper.py:170] 📥 [HN #6] Casio S100X Japanese Lacquer Edition (JP Page Only)
+INFO     2026-05-10 11:00:49 [scraper.py:171] 🔗 [HN #6] URL: https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/
+INFO     2026-05-10 11:00:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-10 11:00:50 [scraper.py:170] 📥 [HN #7] Gemini API File Search is now multimodal
+INFO     2026-05-10 11:00:50 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+INFO     2026-05-10 11:00:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-10 11:00:50 [scraper.py:170] 📥 [HN #8] Internet Archive Switzerland
+INFO     2026-05-10 11:00:50 [scraper.py:171] 🔗 [HN #8] URL: https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/
+INFO     2026-05-10 11:00:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-10 11:00:50 [scraper.py:170] 📥 [HN #9] I’ve banned query strings
+INFO     2026-05-10 11:00:50 [scraper.py:171] 🔗 [HN #9] URL: https://chrismorgan.info/no-query-strings
+INFO     2026-05-10 11:00:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-10 11:00:50 [scraper.py:170] 📥 [HN #10] Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount
+INFO     2026-05-10 11:00:50 [scraper.py:171] 🔗 [HN #10] URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount
+INFO     2026-05-10 11:00:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-10 11:00:50 [scraper.py:178] 🎉 [HN] All done.
+
