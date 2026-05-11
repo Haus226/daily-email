@@ -4239,3 +4239,6 @@ INFO     2026-05-10 11:00:47 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTAR
 INFO     2026-05-10 11:00:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg
 INFO     2026-05-10 11:00:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-11 04:12:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-05-11 04:12:21 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
