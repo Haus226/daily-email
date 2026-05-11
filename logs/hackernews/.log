@@ -28429,3 +28429,36 @@ INFO     2026-05-11 08:27:53 [scraper.py:171] 🔗 [HN #10] URL: https://daniel.
 INFO     2026-05-11 08:27:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-11 08:27:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-11 12:39:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-11 12:39:18 [scraper.py:170] 📥 [HN #1] Ratty – A terminal emulator with inline 3D graphics
+INFO     2026-05-11 12:39:18 [scraper.py:171] 🔗 [HN #1] URL: https://ratty-term.org/
+INFO     2026-05-11 12:39:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-11 12:39:19 [scraper.py:170] 📥 [HN #2] Hardware Attestation as Monopoly Enabler
+INFO     2026-05-11 12:39:19 [scraper.py:171] 🔗 [HN #2] URL: https://grapheneos.social/@GrapheneOS/116550899908879585
+INFO     2026-05-11 12:39:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-11 12:39:19 [scraper.py:170] 📥 [HN #3] Local AI needs to be the norm
+INFO     2026-05-11 12:39:19 [scraper.py:171] 🔗 [HN #3] URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
+INFO     2026-05-11 12:39:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-11 12:39:19 [scraper.py:170] 📥 [HN #4] I'm going back to writing code by hand
+INFO     2026-05-11 12:39:19 [scraper.py:171] 🔗 [HN #4] URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+INFO     2026-05-11 12:39:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-11 12:39:19 [scraper.py:170] 📥 [HN #5] The greatest shot in television: James Burke had one chance to nail this scene (2024)
+INFO     2026-05-11 12:39:19 [scraper.py:171] 🔗 [HN #5] URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
+INFO     2026-05-11 12:39:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-11 12:39:20 [scraper.py:170] 📥 [HN #6] Running local models on an M4 with 24GB memory
+INFO     2026-05-11 12:39:20 [scraper.py:171] 🔗 [HN #6] URL: https://jola.dev/posts/running-local-models-on-m4
+INFO     2026-05-11 12:39:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-11 12:39:20 [scraper.py:170] 📥 [HN #7] Guitar tuner that uses phone accelerometer
+INFO     2026-05-11 12:39:20 [scraper.py:171] 🔗 [HN #7] URL: https://tautme.github.io/phone-sensors/accel-tuner.html
+INFO     2026-05-11 12:39:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-11 12:39:20 [scraper.py:170] 📥 [HN #8] Obsidian plugin was abused to deploy a remote access trojan
+INFO     2026-05-11 12:39:20 [scraper.py:171] 🔗 [HN #8] URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+INFO     2026-05-11 12:39:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-11 12:39:20 [scraper.py:170] 📥 [HN #9] An AI coding agent, used to write code, needs to reduce your maintenance costs
+INFO     2026-05-11 12:39:20 [scraper.py:171] 🔗 [HN #9] URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
+INFO     2026-05-11 12:39:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-11 12:39:21 [scraper.py:170] 📥 [HN #10] Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria
+INFO     2026-05-11 12:39:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/
+INFO     2026-05-11 12:39:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-11 12:39:21 [scraper.py:178] 🎉 [HN] All done.
+
