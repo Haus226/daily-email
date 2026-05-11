@@ -4242,3 +4242,6 @@ INFO     2026-05-10 11:00:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 INFO     2026-05-11 04:12:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-05-11 04:12:21 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
 
+INFO     2026-05-11 08:27:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-05-11 08:27:51 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
