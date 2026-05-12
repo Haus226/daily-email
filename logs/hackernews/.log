@@ -28495,3 +28495,36 @@ INFO     2026-05-12 03:56:06 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-12 03:56:06 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-12 03:56:06 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-12 07:46:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-12 07:46:46 [scraper.py:170] 📥 [HN #1] Postmortem: TanStack NPM supply-chain compromise
+INFO     2026-05-12 07:46:46 [scraper.py:171] 🔗 [HN #1] URL: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+INFO     2026-05-12 07:46:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-12 07:46:46 [scraper.py:170] 📥 [HN #2] They Live (1988) inspired Adblocker
+INFO     2026-05-12 07:46:46 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/davmlaw/they_live_adblocker
+INFO     2026-05-12 07:46:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-12 07:46:46 [scraper.py:170] 📥 [HN #3] If AI writes your code, why use Python?
+INFO     2026-05-12 07:46:46 [scraper.py:171] 🔗 [HN #3] URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
+INFO     2026-05-12 07:46:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #4] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #4] URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #5] Screenshots of Old Desktop OSes
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #5] URL: http://www.typewritten.org/Media/
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #6] Claude Platform on AWS
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #6] URL: https://claude.com/blog/claude-platform-on-aws
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #7] Extremely Low Frequencies
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #7] URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #8] Software Internals Book Club
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #8] URL: https://eatonphil.com/bookclub.html
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #9] Google says criminal hackers used AI to find a major software flaw
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:170] 📥 [HN #10] A lost ancient script reveals how writing as we know it began
+INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/
+INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-12 07:46:47 [scraper.py:178] 🎉 [HN] All done.
+
