@@ -28528,3 +28528,36 @@ INFO     2026-05-12 07:46:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.new
 INFO     2026-05-12 07:46:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-12 07:46:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-12 11:57:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-12 11:57:26 [scraper.py:170] 📥 [HN #1] Learning Software Architecture
+INFO     2026-05-12 11:57:26 [scraper.py:171] 🔗 [HN #1] URL: https://matklad.github.io/2026/05/12/software-architecture.html
+INFO     2026-05-12 11:57:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-12 11:57:26 [scraper.py:170] 📥 [HN #2] Screenshots of Old Desktop OSes
+INFO     2026-05-12 11:57:26 [scraper.py:171] 🔗 [HN #2] URL: http://www.typewritten.org/Media/
+INFO     2026-05-12 11:57:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-12 11:57:27 [scraper.py:170] 📥 [HN #3] Postmortem: TanStack NPM supply-chain compromise
+INFO     2026-05-12 11:57:27 [scraper.py:171] 🔗 [HN #3] URL: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+INFO     2026-05-12 11:57:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-12 11:57:27 [scraper.py:170] 📥 [HN #4] EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
+INFO     2026-05-12 11:57:27 [scraper.py:171] 🔗 [HN #4] URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html
+INFO     2026-05-12 11:57:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-12 11:57:27 [scraper.py:170] 📥 [HN #5] Toxicity on Social Media – The Noisy Room
+INFO     2026-05-12 11:57:27 [scraper.py:171] 🔗 [HN #5] URL: https://thenoisyroom.com
+INFO     2026-05-12 11:57:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-12 11:57:27 [scraper.py:170] 📥 [HN #6] They Live (1988) inspired Adblocker
+INFO     2026-05-12 11:57:27 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/davmlaw/they_live_adblocker
+INFO     2026-05-12 11:57:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-12 11:57:28 [scraper.py:170] 📥 [HN #7] If AI writes your code, why use Python?
+INFO     2026-05-12 11:57:28 [scraper.py:171] 🔗 [HN #7] URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
+INFO     2026-05-12 11:57:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-12 11:57:28 [scraper.py:170] 📥 [HN #8] Docker images are MB; a full game engine compiles to 35MB WASM
+INFO     2026-05-12 11:57:28 [scraper.py:171] 🔗 [HN #8] URL: https://bogomolov.work/blog/posts/wasm-vs-docker/
+INFO     2026-05-12 11:57:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-12 11:57:28 [scraper.py:170] 📥 [HN #9] Coursera and Udemy are now one company
+INFO     2026-05-12 11:57:28 [scraper.py:171] 🔗 [HN #9] URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/
+INFO     2026-05-12 11:57:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-12 11:57:28 [scraper.py:170] 📥 [HN #10] A HN post with negative points – how?
+INFO     2026-05-12 11:57:28 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=48104663
+INFO     2026-05-12 11:57:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-12 11:57:28 [scraper.py:178] 🎉 [HN] All done.
+
