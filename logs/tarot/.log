@@ -4308,3 +4308,8 @@ INFO     2026-05-13 04:04:34 [scraper.py:390] 📥 [TAROT] Card: The Star
 INFO     2026-05-13 04:04:34 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-05-13 04:04:34 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-05-13 07:53:51 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-05-13 07:53:51 [scraper.py:390] 📥 [TAROT] Card: The Star
+INFO     2026-05-13 07:53:51 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-05-13 07:53:51 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

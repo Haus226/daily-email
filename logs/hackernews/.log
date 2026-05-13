@@ -28594,3 +28594,36 @@ INFO     2026-05-13 04:04:36 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-13 04:04:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-13 04:04:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-13 07:53:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-13 07:53:52 [scraper.py:170] 📥 [HN #1] Deterministic Fully-Static Whole-Binary Translation Without Heuristics
+INFO     2026-05-13 07:53:52 [scraper.py:171] 🔗 [HN #1] URL: https://arxiv.org/abs/2605.08419
+INFO     2026-05-13 07:53:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-13 07:53:52 [scraper.py:170] 📥 [HN #2] Restore full BambuNetwork support for Bambu Lab printers
+INFO     2026-05-13 07:53:52 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+INFO     2026-05-13 07:53:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-13 07:53:52 [scraper.py:170] 📥 [HN #3] The vi family
+INFO     2026-05-13 07:53:52 [scraper.py:171] 🔗 [HN #3] URL: https://lpar.ATH0.com/posts/2026/05/the-vi-family/
+INFO     2026-05-13 07:53:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-13 07:53:52 [scraper.py:170] 📥 [HN #4] Googlebook
+INFO     2026-05-13 07:53:52 [scraper.py:171] 🔗 [HN #4] URL: https://googlebook.google/
+INFO     2026-05-13 07:53:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-13 07:53:52 [scraper.py:170] 📥 [HN #5] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
+INFO     2026-05-13 07:53:52 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/cactus-compute/needle
+INFO     2026-05-13 07:53:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:170] 📥 [HN #6] How to make your text look futuristic (2016)
+INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #6] URL: https://typesetinthefuture.com/2016/02/18/futuristic/
+INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:170] 📥 [HN #7] Kraftwerk's radical 1976 track
+INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
+INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:170] 📥 [HN #8] CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
+INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #8] URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
+INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:170] 📥 [HN #9] Why senior developers fail to communicate their expertise
+INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #9] URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
+INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:170] 📥 [HN #10] Traceway: MIT-licensed observability stack you can self-host in ~90s
+INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/tracewayapp/traceway
+INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-13 07:53:53 [scraper.py:178] 🎉 [HN] All done.
+
