@@ -12110,3 +12110,24 @@ INFO     2026-05-13 07:53:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-13 07:53:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-13 12:05:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 12:05:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 12:05:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 12:05:19 [scraper.py:133] 📥 [EO] Title: America’s Emerald Isle
+INFO     2026-05-13 12:05:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 12:05:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-13 12:05:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 12:05:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 12:05:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 12:05:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 12:05:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 12:05:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 12:05:19 [scraper.py:133] 📥 [EO] Title: America’s Emerald Isle
+INFO     2026-05-13 12:05:19 [scraper.py:133] 📥 [EO] Title: America’s Emerald Isle
+INFO     2026-05-13 12:05:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 12:05:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 12:05:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-13 12:05:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -28627,3 +28627,36 @@ INFO     2026-05-13 07:53:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-13 07:53:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-13 07:53:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-13 12:05:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-13 12:05:19 [scraper.py:170] 📥 [HN #1] I Moved My Digital Stack to Europe
+INFO     2026-05-13 12:05:19 [scraper.py:171] 🔗 [HN #1] URL: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/
+INFO     2026-05-13 12:05:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-13 12:05:19 [scraper.py:170] 📥 [HN #2] Deterministic Fully-Static Whole-Binary Translation Without Heuristics
+INFO     2026-05-13 12:05:19 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2605.08419
+INFO     2026-05-13 12:05:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-13 12:05:19 [scraper.py:170] 📥 [HN #3] New stainless steel can survive conditions for hydrogen production in seawater
+INFO     2026-05-13 12:05:19 [scraper.py:171] 🔗 [HN #3] URL: https://www.sciencedaily.com/releases/2026/05/260510030950.htm
+INFO     2026-05-13 12:05:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-13 12:05:20 [scraper.py:170] 📥 [HN #4] Restore full BambuNetwork support for Bambu Lab printers
+INFO     2026-05-13 12:05:20 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+INFO     2026-05-13 12:05:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-13 12:05:20 [scraper.py:170] 📥 [HN #5] Preserving Fisher-Price Pixter
+INFO     2026-05-13 12:05:20 [scraper.py:171] 🔗 [HN #5] URL: https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter
+INFO     2026-05-13 12:05:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-13 12:05:20 [scraper.py:170] 📥 [HN #6] Substrate (YC S24) Is Hiring a Technical Success Manager
+INFO     2026-05-13 12:05:20 [scraper.py:171] 🔗 [HN #6] URL: https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager
+INFO     2026-05-13 12:05:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-13 12:05:20 [scraper.py:170] 📥 [HN #7] Googlebook
+INFO     2026-05-13 12:05:20 [scraper.py:171] 🔗 [HN #7] URL: https://googlebook.google/
+INFO     2026-05-13 12:05:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-13 12:05:20 [scraper.py:170] 📥 [HN #8] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
+INFO     2026-05-13 12:05:20 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/cactus-compute/needle
+INFO     2026-05-13 12:05:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-13 12:05:21 [scraper.py:170] 📥 [HN #9] The Boring Part of Bell Labs (2025)
+INFO     2026-05-13 12:05:21 [scraper.py:171] 🔗 [HN #9] URL: https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/
+INFO     2026-05-13 12:05:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-13 12:05:21 [scraper.py:170] 📥 [HN #10] How to make your text look futuristic (2016)
+INFO     2026-05-13 12:05:21 [scraper.py:171] 🔗 [HN #10] URL: https://typesetinthefuture.com/2016/02/18/futuristic/
+INFO     2026-05-13 12:05:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-13 12:05:21 [scraper.py:178] 🎉 [HN] All done.
+
