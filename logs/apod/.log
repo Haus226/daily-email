@@ -4261,3 +4261,8 @@ INFO     2026-05-12 11:57:26 [scraper.py:47] 📥 [APOD] Title: The Conjunction 
 INFO     2026-05-12 11:57:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg
 INFO     2026-05-12 11:57:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-13 04:04:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-13 04:04:35 [scraper.py:47] 📥 [APOD] Title: The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+INFO     2026-05-13 04:04:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg
+INFO     2026-05-13 04:04:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

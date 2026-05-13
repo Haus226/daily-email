@@ -12068,3 +12068,24 @@ INFO     2026-05-12 11:57:27 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-12 11:57:27 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-13 04:04:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 04:04:34 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 04:04:34 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 04:04:34 [scraper.py:133] 📥 [EO] Title: Australia’s Cloudy Beauty
+INFO     2026-05-13 04:04:34 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 04:04:34 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-13 04:04:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 04:04:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-13 04:04:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 04:04:35 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-13 04:04:35 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 04:04:35 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-13 04:04:35 [scraper.py:133] 📥 [EO] Title: Australia’s Cloudy Beauty
+INFO     2026-05-13 04:04:35 [scraper.py:133] 📥 [EO] Title: Australia’s Cloudy Beauty
+INFO     2026-05-13 04:04:35 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 04:04:35 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-13 04:04:35 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-13 04:04:35 [scraper.py:154] ✅ [EO] Successfully fetched.
+
