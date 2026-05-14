@@ -28660,3 +28660,36 @@ INFO     2026-05-13 12:05:21 [scraper.py:171] 🔗 [HN #10] URL: https://typeset
 INFO     2026-05-13 12:05:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-13 12:05:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-14 04:03:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #1] Scorched Earth 2000 – Web
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #1] URL: http://www.scorch2000.com/web/
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #2] Cisco Workforce Reductions
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #2] URL: https://blogs.cisco.com/news/our-path-forward
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #3] Linux gaming is faster because Windows APIs are becoming Linux kernel features
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #3] URL: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #4] Setting up a free *.city.state.us locality domain (2025)
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #4] URL: https://fredchan.org/blog/locality-domains-guide/
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #5] A History of IDEs at Google
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #5] URL: https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-14 04:03:12 [scraper.py:170] 📥 [HN #6] The Emacsification of Software
+INFO     2026-05-14 04:03:12 [scraper.py:171] 🔗 [HN #6] URL: https://sockpuppet.org/blog/2026/05/12/emacsification/
+INFO     2026-05-14 04:03:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-14 04:03:13 [scraper.py:170] 📥 [HN #7] Chess puzzle I found in my dad's old book
+INFO     2026-05-14 04:03:13 [scraper.py:171] 🔗 [HN #7] URL: https://ardoedo.it/kempelen/
+INFO     2026-05-14 04:03:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-14 04:03:13 [scraper.py:170] 📥 [HN #8] Show HN: Nibble
+INFO     2026-05-14 04:03:13 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/glouw/nibble
+INFO     2026-05-14 04:03:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-14 04:03:13 [scraper.py:170] 📥 [HN #9] Twin brothers wipe 96 government databases minutes after being fired
+INFO     2026-05-14 04:03:13 [scraper.py:171] 🔗 [HN #9] URL: https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/
+INFO     2026-05-14 04:03:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-14 04:03:13 [scraper.py:170] 📥 [HN #10] Princeton mandates proctoring for in-person exams, upending 133 year precedent
+INFO     2026-05-14 04:03:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent
+INFO     2026-05-14 04:03:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-14 04:03:13 [scraper.py:178] 🎉 [HN] All done.
+
