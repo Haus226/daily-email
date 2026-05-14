@@ -28693,3 +28693,36 @@ INFO     2026-05-14 04:03:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.dai
 INFO     2026-05-14 04:03:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-14 04:03:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-14 07:47:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-14 07:47:10 [scraper.py:170] 📥 [HN #1] Claude for Small Business
+INFO     2026-05-14 07:47:10 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/claude-for-small-business
+INFO     2026-05-14 07:47:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-14 07:47:10 [scraper.py:170] 📥 [HN #2] Scorched Earth 2000 – Web
+INFO     2026-05-14 07:47:10 [scraper.py:171] 🔗 [HN #2] URL: http://www.scorch2000.com/web/
+INFO     2026-05-14 07:47:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-14 07:47:10 [scraper.py:170] 📥 [HN #3] Linux gaming is faster because Windows APIs are becoming Linux kernel features
+INFO     2026-05-14 07:47:10 [scraper.py:171] 🔗 [HN #3] URL: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
+INFO     2026-05-14 07:47:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-14 07:47:10 [scraper.py:170] 📥 [HN #4] LLMs are breaking 20 year old system design
+INFO     2026-05-14 07:47:10 [scraper.py:171] 🔗 [HN #4] URL: https://zknill.io/posts/llms-are-breaking-20-year-old-system-design/
+INFO     2026-05-14 07:47:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #5] Arena AI Model ELO History
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #5] URL: https://mayerwin.github.io/AI-Arena-History/
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #6] Setting up a free *.city.state.us locality domain (2025)
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #6] URL: https://fredchan.org/blog/locality-domains-guide/
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #7] Cisco workforce reductions
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #7] URL: https://blogs.cisco.com/news/our-path-forward
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #8] Extraordinary Ordinals
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #8] URL: https://text.marvinborner.de/2026-04-09-17.html
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #9] A History of IDEs at Google
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #9] URL: https://laurent.le-brun.eu/blog/a-history-of-ides-at-google
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:170] 📥 [HN #10] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
+INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/
+INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-14 07:47:11 [scraper.py:178] 🎉 [HN] All done.
+

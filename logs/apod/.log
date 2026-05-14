@@ -4281,3 +4281,8 @@ INFO     2026-05-14 04:03:11 [scraper.py:47] 📥 [APOD] Title: NGC 188: Old Clu
 INFO     2026-05-14 04:03:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg
 INFO     2026-05-14 04:03:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-14 07:47:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-14 07:47:09 [scraper.py:47] 📥 [APOD] Title: NGC 188: Old Cluster in the New General Catalog
+INFO     2026-05-14 07:47:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg
+INFO     2026-05-14 07:47:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
