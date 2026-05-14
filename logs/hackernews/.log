@@ -28726,3 +28726,36 @@ INFO     2026-05-14 07:47:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.jdh
 INFO     2026-05-14 07:47:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-14 07:47:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-14 11:53:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-14 11:53:22 [scraper.py:170] 📥 [HN #1] Claude for Small Business
+INFO     2026-05-14 11:53:22 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/claude-for-small-business
+INFO     2026-05-14 11:53:22 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-14 11:53:22 [scraper.py:170] 📥 [HN #2] Show HN: Running the second public ODoH relay
+INFO     2026-05-14 11:53:22 [scraper.py:171] 🔗 [HN #2] URL: https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html
+INFO     2026-05-14 11:53:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-14 11:53:23 [scraper.py:170] 📥 [HN #3] Scorched Earth 2000 – Web
+INFO     2026-05-14 11:53:23 [scraper.py:171] 🔗 [HN #3] URL: http://www.scorch2000.com/web/
+INFO     2026-05-14 11:53:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-14 11:53:23 [scraper.py:170] 📥 [HN #4] Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7
+INFO     2026-05-14 11:53:23 [scraper.py:171] 🔗 [HN #4] URL: https://classic7.lol/
+INFO     2026-05-14 11:53:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-14 11:53:23 [scraper.py:170] 📥 [HN #5] Linux gaming is faster because Windows APIs are becoming Linux kernel features
+INFO     2026-05-14 11:53:23 [scraper.py:171] 🔗 [HN #5] URL: https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/
+INFO     2026-05-14 11:53:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-14 11:53:23 [scraper.py:170] 📥 [HN #6] Myths about /dev/urandom
+INFO     2026-05-14 11:53:23 [scraper.py:171] 🔗 [HN #6] URL: https://www.2uo.de/myths-about-urandom/
+INFO     2026-05-14 11:53:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-14 11:53:24 [scraper.py:170] 📥 [HN #7] Setting up a free *.city.state.us locality domain (2025)
+INFO     2026-05-14 11:53:24 [scraper.py:171] 🔗 [HN #7] URL: https://fredchan.org/blog/locality-domains-guide/
+INFO     2026-05-14 11:53:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-14 11:53:24 [scraper.py:170] 📥 [HN #8] Leaving the Physical World
+INFO     2026-05-14 11:53:24 [scraper.py:171] 🔗 [HN #8] URL: https://www.eff.org/pages/leaving-physical-world
+INFO     2026-05-14 11:53:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-14 11:53:24 [scraper.py:170] 📥 [HN #9] Technical Dimensions of Live Feedback in Programming Systems
+INFO     2026-05-14 11:53:24 [scraper.py:171] 🔗 [HN #9] URL: https://joshuahhh.com/dims-of-feedback/
+INFO     2026-05-14 11:53:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-14 11:53:24 [scraper.py:170] 📥 [HN #10] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble
+INFO     2026-05-14 11:53:24 [scraper.py:171] 🔗 [HN #10] URL: https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/
+INFO     2026-05-14 11:53:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-14 11:53:24 [scraper.py:178] 🎉 [HN] All done.
+

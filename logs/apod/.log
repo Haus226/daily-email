@@ -4286,3 +4286,8 @@ INFO     2026-05-14 07:47:09 [scraper.py:47] 📥 [APOD] Title: NGC 188: Old Clu
 INFO     2026-05-14 07:47:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg
 INFO     2026-05-14 07:47:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-14 11:53:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-14 11:53:22 [scraper.py:47] 📥 [APOD] Title: Messier Catalog at Uniform Scale
+INFO     2026-05-14 11:53:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg
+INFO     2026-05-14 11:53:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

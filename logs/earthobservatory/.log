@@ -12173,3 +12173,24 @@ INFO     2026-05-14 07:47:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-14 07:47:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-14 11:53:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-14 11:53:21 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-14 11:53:21 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-14 11:53:21 [scraper.py:133] 📥 [EO] Title: Ice Moves Out of Aniak
+INFO     2026-05-14 11:53:21 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260507_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-14 11:53:21 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-14 11:53:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-14 11:53:21 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-14 11:53:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-14 11:53:22 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-14 11:53:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-14 11:53:22 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-14 11:53:22 [scraper.py:133] 📥 [EO] Title: Ice Moves Out of Aniak
+INFO     2026-05-14 11:53:22 [scraper.py:133] 📥 [EO] Title: Ice Moves Out of Aniak
+INFO     2026-05-14 11:53:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260507_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-14 11:53:22 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260507_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-14 11:53:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-14 11:53:22 [scraper.py:154] ✅ [EO] Successfully fetched.
+
