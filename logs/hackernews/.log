@@ -28759,3 +28759,36 @@ INFO     2026-05-14 11:53:24 [scraper.py:171] 🔗 [HN #10] URL: https://www.jdh
 INFO     2026-05-14 11:53:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-14 11:53:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-15 04:08:32 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-15 04:08:32 [scraper.py:170] 📥 [HN #1] Mullvad exit IPs are surprisingly identifying
+INFO     2026-05-15 04:08:32 [scraper.py:171] 🔗 [HN #1] URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/
+INFO     2026-05-15 04:08:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-15 04:08:32 [scraper.py:170] 📥 [HN #2] Removing the modem and GPS from my 2024 RAV4 hybrid
+INFO     2026-05-15 04:08:32 [scraper.py:171] 🔗 [HN #2] URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
+INFO     2026-05-15 04:08:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-15 04:08:33 [scraper.py:170] 📥 [HN #3] A few words on DS4
+INFO     2026-05-15 04:08:33 [scraper.py:171] 🔗 [HN #3] URL: https://antirez.com/news/165
+INFO     2026-05-15 04:08:33 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-15 04:08:33 [scraper.py:170] 📥 [HN #4] First public macOS kernel memory corruption exploit on Apple M5
+INFO     2026-05-15 04:08:33 [scraper.py:171] 🔗 [HN #4] URL: https://blog.calif.io/p/first-public-kernel-memory-corruption
+INFO     2026-05-15 04:08:33 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-15 04:08:33 [scraper.py:170] 📥 [HN #5] RTX 5090 and M4 MacBook Air: Can It Game?
+INFO     2026-05-15 04:08:33 [scraper.py:171] 🔗 [HN #5] URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
+INFO     2026-05-15 04:08:33 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-15 04:08:33 [scraper.py:170] 📥 [HN #6] Gyroflow: Video stabilization using gyroscope data
+INFO     2026-05-15 04:08:33 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/gyroflow/gyroflow
+INFO     2026-05-15 04:08:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-15 04:08:34 [scraper.py:170] 📥 [HN #7] Codex is now in the ChatGPT mobile app
+INFO     2026-05-15 04:08:34 [scraper.py:171] 🔗 [HN #7] URL: https://openai.com/index/work-with-codex-from-anywhere/
+INFO     2026-05-15 04:08:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-15 04:08:34 [scraper.py:170] 📥 [HN #8] New Nginx Exploit
+INFO     2026-05-15 04:08:34 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/DepthFirstDisclosures/Nginx-Rift
+INFO     2026-05-15 04:08:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-15 04:08:34 [scraper.py:170] 📥 [HN #9] Access to frontier AI will soon be limited by economic and security constraints
+INFO     2026-05-15 04:08:34 [scraper.py:171] 🔗 [HN #9] URL: https://writing.antonleicht.me/p/cut-off
+INFO     2026-05-15 04:08:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-15 04:08:34 [scraper.py:170] 📥 [HN #10] Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet
+INFO     2026-05-15 04:08:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing
+INFO     2026-05-15 04:08:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-15 04:08:34 [scraper.py:178] 🎉 [HN] All done.
+
