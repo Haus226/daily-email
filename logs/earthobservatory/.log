@@ -12215,3 +12215,24 @@ INFO     2026-05-15 04:08:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-15 04:08:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-15 11:56:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-15 11:56:57 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-15 11:56:57 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-15 11:56:57 [scraper.py:133] 📥 [EO] Title: Picturing Earth in a New Light
+INFO     2026-05-15 11:56:57 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_20142022_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-15 11:56:57 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-15 11:56:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-15 11:56:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-15 11:56:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-15 11:56:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-15 11:56:58 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-15 11:56:58 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-15 11:56:58 [scraper.py:133] 📥 [EO] Title: Picturing Earth in a New Light
+INFO     2026-05-15 11:56:58 [scraper.py:133] 📥 [EO] Title: Picturing Earth in a New Light
+INFO     2026-05-15 11:56:58 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_20142022_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-15 11:56:58 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_20142022_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-15 11:56:58 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-15 11:56:58 [scraper.py:154] ✅ [EO] Successfully fetched.
+
