@@ -4306,3 +4306,8 @@ INFO     2026-05-16 03:50:44 [scraper.py:47] 📥 [APOD] Title: R3 PanSTARRS: An
 INFO     2026-05-16 03:50:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg
 INFO     2026-05-16 03:50:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-16 07:19:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-16 07:19:39 [scraper.py:47] 📥 [APOD] Title: Aurora Slathers Up the Sky
+INFO     2026-05-16 07:19:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg
+INFO     2026-05-16 07:19:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
