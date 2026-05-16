@@ -28825,3 +28825,36 @@ INFO     2026-05-15 11:56:59 [scraper.py:171] 🔗 [HN #10] URL: https://antirez
 INFO     2026-05-15 11:56:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-15 11:56:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-16 03:50:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-16 03:50:44 [scraper.py:170] 📥 [HN #1] Project Gutenberg – keeps getting better
+INFO     2026-05-16 03:50:44 [scraper.py:171] 🔗 [HN #1] URL: https://www.gutenberg.org/
+INFO     2026-05-16 03:50:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-16 03:50:44 [scraper.py:170] 📥 [HN #2] I believe there are entire companies right now under AI psychosis
+INFO     2026-05-16 03:50:44 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/mitchellh/status/2055380239711457578
+INFO     2026-05-16 03:50:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-16 03:50:45 [scraper.py:170] 📥 [HN #3] Additive Blending on the Nintendo 64
+INFO     2026-05-16 03:50:45 [scraper.py:171] 🔗 [HN #3] URL: https://phoboslab.org/log/2026/05/n64-additive-blending
+INFO     2026-05-16 03:50:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-16 03:50:45 [scraper.py:170] 📥 [HN #4] Naturally Occurring Quasicrystals
+INFO     2026-05-16 03:50:45 [scraper.py:171] 🔗 [HN #4] URL: https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/
+INFO     2026-05-16 03:50:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-16 03:50:45 [scraper.py:170] 📥 [HN #5] The bird eye was pushed to an evolutionary extreme
+INFO     2026-05-16 03:50:45 [scraper.py:171] 🔗 [HN #5] URL: https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/
+INFO     2026-05-16 03:50:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-16 03:50:45 [scraper.py:170] 📥 [HN #6] Ploopy Bean: a trackpoint for every computer
+INFO     2026-05-16 03:50:45 [scraper.py:171] 🔗 [HN #6] URL: https://ploopy.co/shop/bean-pointing-stick/
+INFO     2026-05-16 03:50:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-16 03:50:45 [scraper.py:170] 📥 [HN #7] The main thing about P2P meth is that there's so much of it (2021)
+INFO     2026-05-16 03:50:45 [scraper.py:171] 🔗 [HN #7] URL: https://dynomight.net/p2p-meth/
+INFO     2026-05-16 03:50:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-16 03:50:46 [scraper.py:170] 📥 [HN #8] How to Write to SSDs [pdf]
+INFO     2026-05-16 03:50:46 [scraper.py:171] 🔗 [HN #8] URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
+INFO     2026-05-16 03:50:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-16 03:50:46 [scraper.py:170] 📥 [HN #9] A 0-click exploit chain for the Pixel 10
+INFO     2026-05-16 03:50:46 [scraper.py:171] 🔗 [HN #9] URL: https://projectzero.google/2026/05/pixel-10-exploit.html
+INFO     2026-05-16 03:50:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-16 03:50:46 [scraper.py:170] 📥 [HN #10] Show HN: Epiq – Distributed Git based issue tracker TUI
+INFO     2026-05-16 03:50:46 [scraper.py:171] 🔗 [HN #10] URL: https://ljtn.github.io/epiq/
+INFO     2026-05-16 03:50:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-16 03:50:46 [scraper.py:178] 🎉 [HN] All done.
+
