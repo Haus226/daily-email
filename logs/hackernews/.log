@@ -28924,3 +28924,36 @@ INFO     2026-05-16 11:02:45 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-05-16 11:02:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-16 11:02:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-17 04:08:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-17 04:08:48 [scraper.py:170] 📥 [HN #1] Zerostack – A Unix-inspired coding agent written in pure Rust
+INFO     2026-05-17 04:08:48 [scraper.py:171] 🔗 [HN #1] URL: https://crates.io/crates/zerostack/1.0.0
+INFO     2026-05-17 04:08:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-17 04:08:48 [scraper.py:170] 📥 [HN #2] Hosting a website on an 8-bit microcontroller
+INFO     2026-05-17 04:08:48 [scraper.py:171] 🔗 [HN #2] URL: https://maurycyz.com/projects/mcusite/
+INFO     2026-05-17 04:08:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-17 04:08:48 [scraper.py:170] 📥 [HN #3] A nicer voltmeter clock
+INFO     2026-05-17 04:08:48 [scraper.py:171] 🔗 [HN #3] URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
+INFO     2026-05-17 04:08:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #4] Unknowable Math Can Help Hide Secrets
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #4] URL: https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #5] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #5] URL: https://openai.com/index/malta-chatgpt-plus-partnership/
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #6] SANA-WM, a 2.6B open-source world model for 1-minute 720p video
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #6] URL: https://nvlabs.github.io/Sana/WM/
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #7] Self-Distillation Enables Continual Learning [pdf]
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2601.19897
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #8] MCP Hello Page
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #8] URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #9] A molecule with half-Möbius topology
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #9] URL: https://www.science.org/doi/10.1126/science.aea3321
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:170] 📥 [HN #10] C++26 Shipped a SIMD Library Nobody Asked For
+INFO     2026-05-17 04:08:49 [scraper.py:171] 🔗 [HN #10] URL: https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody
+INFO     2026-05-17 04:08:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-17 04:08:49 [scraper.py:178] 🎉 [HN] All done.
+
