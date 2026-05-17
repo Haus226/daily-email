@@ -4326,3 +4326,8 @@ INFO     2026-05-17 07:35:40 [scraper.py:47] 📥 [APOD] Title: NGC 1300: Barred
 INFO     2026-05-17 07:35:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg
 INFO     2026-05-17 07:35:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-17 11:07:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-17 11:07:20 [scraper.py:47] 📥 [APOD] Title: NGC 1300: Barred Spiral Galaxy
+INFO     2026-05-17 11:07:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg
+INFO     2026-05-17 11:07:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
