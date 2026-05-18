@@ -29089,3 +29089,36 @@ INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #10] URL: https://hellmoo
 INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-18 08:48:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-18 13:46:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-18 13:46:57 [scraper.py:170] 📥 [HN #1] I automated opt-outs for 500 data broker sites (open source)
+INFO     2026-05-18 13:46:57 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/stephenlthorn/auto-identity-remove
+INFO     2026-05-18 13:46:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-18 13:46:57 [scraper.py:170] 📥 [HN #2] The foundations of a provably secure operating system (PSOS) (1979) [pdf]
+INFO     2026-05-18 13:46:57 [scraper.py:171] 🔗 [HN #2] URL: http://www.csl.sri.com/users/neumann/psos.pdf
+INFO     2026-05-18 13:46:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-18 13:46:58 [scraper.py:170] 📥 [HN #3] Benedict Evans: AI eats the world (Spring 26) [pdf]
+INFO     2026-05-18 13:46:58 [scraper.py:171] 🔗 [HN #3] URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
+INFO     2026-05-18 13:46:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-18 13:46:58 [scraper.py:170] 📥 [HN #4] Linux security mailing list 'almost unmanageable'
+INFO     2026-05-18 13:46:58 [scraper.py:171] 🔗 [HN #4] URL: https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633
+INFO     2026-05-18 13:46:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-18 13:46:58 [scraper.py:170] 📥 [HN #5] Math Jokes in Alice in Wonderland
+INFO     2026-05-18 13:46:58 [scraper.py:171] 🔗 [HN #5] URL: https://storica.club/blog/alice-is-math-jokes/
+INFO     2026-05-18 13:46:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-18 13:46:58 [scraper.py:170] 📥 [HN #6] Writing Z80 assembly, 4 decades later:-)
+INFO     2026-05-18 13:46:58 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/
+INFO     2026-05-18 13:46:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-18 13:46:58 [scraper.py:170] 📥 [HN #7] GenCAD
+INFO     2026-05-18 13:46:58 [scraper.py:171] 🔗 [HN #7] URL: https://gencad.github.io/
+INFO     2026-05-18 13:46:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-18 13:46:59 [scraper.py:170] 📥 [HN #8] It is time to give up the dualism introduced by the debate on consciousness
+INFO     2026-05-18 13:46:59 [scraper.py:171] 🔗 [HN #8] URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/
+INFO     2026-05-18 13:46:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-18 13:46:59 [scraper.py:170] 📥 [HN #9] 'We mould trees to grow into the shape of chairs'
+INFO     2026-05-18 13:46:59 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o
+INFO     2026-05-18 13:46:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-18 13:46:59 [scraper.py:170] 📥 [HN #10] Enough with the AI FOMO, go slow-mo, says Domo CDO
+INFO     2026-05-18 13:46:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840
+INFO     2026-05-18 13:46:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-18 13:46:59 [scraper.py:178] 🎉 [HN] All done.
+
