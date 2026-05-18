@@ -4336,3 +4336,8 @@ INFO     2026-05-18 04:21:11 [scraper.py:47] 📥 [APOD] Title: Unraveling NGC 3
 INFO     2026-05-18 04:21:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg
 INFO     2026-05-18 04:21:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-18 08:48:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-18 08:48:27 [scraper.py:47] 📥 [APOD] Title: Unraveling NGC 3169
+INFO     2026-05-18 08:48:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg
+INFO     2026-05-18 08:48:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

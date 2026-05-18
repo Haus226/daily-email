@@ -29056,3 +29056,36 @@ INFO     2026-05-18 04:21:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.sci
 INFO     2026-05-18 04:21:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-18 04:21:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-18 08:48:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-18 08:48:27 [scraper.py:170] 📥 [HN #1] GenCAD
+INFO     2026-05-18 08:48:27 [scraper.py:171] 🔗 [HN #1] URL: https://gencad.github.io/
+INFO     2026-05-18 08:48:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-18 08:48:27 [scraper.py:170] 📥 [HN #2] Crystals found inside wreckage from the first nuclear bomb test
+INFO     2026-05-18 08:48:27 [scraper.py:171] 🔗 [HN #2] URL: https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/
+INFO     2026-05-18 08:48:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-18 08:48:27 [scraper.py:170] 📥 [HN #3] It is time to give up the dualism introduced by the debate on consciousness
+INFO     2026-05-18 08:48:27 [scraper.py:171] 🔗 [HN #3] URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/
+INFO     2026-05-18 08:48:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #4] I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/tech4bot/rk3562deb
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #5] Ask an Astronaut: 333 hours of Q&A footage with astronauts
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #5] URL: https://askanastronaut.issinrealtime.org/
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #6] Prolog Coding Horror
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #6] URL: https://www.metalevel.at/prolog/horror
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #7] Jank now has its own custom IR
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #7] URL: https://jank-lang.org/blog/2026-05-08-optimization/
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #8] kharp – k version 3 Language Interpreter in C#
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/ERufian/ksharp
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #9] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/MinishLab/semble
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:170] 📥 [HN #10] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound
+INFO     2026-05-18 08:48:28 [scraper.py:171] 🔗 [HN #10] URL: https://hellmood.111mb.de//wake_up_16b_writeup.html
+INFO     2026-05-18 08:48:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-18 08:48:28 [scraper.py:178] 🎉 [HN] All done.
+
