@@ -29287,3 +29287,36 @@ INFO     2026-05-20 08:29:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-20 08:29:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-20 08:29:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-20 12:25:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-20 12:25:23 [scraper.py:170] 📥 [HN #1] Everything in C is undefined behavior
+INFO     2026-05-20 12:25:23 [scraper.py:171] 🔗 [HN #1] URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
+INFO     2026-05-20 12:25:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-20 12:25:24 [scraper.py:170] 📥 [HN #2] Map of Metal
+INFO     2026-05-20 12:25:24 [scraper.py:171] 🔗 [HN #2] URL: https://mapofmetal.com/
+INFO     2026-05-20 12:25:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-20 12:25:24 [scraper.py:170] 📥 [HN #3] Learnings from 100K lines of Rust with AI (2025)
+INFO     2026-05-20 12:25:24 [scraper.py:171] 🔗 [HN #3] URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html
+INFO     2026-05-20 12:25:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-20 12:25:24 [scraper.py:170] 📥 [HN #4] Gemini 3.5 Flash
+INFO     2026-05-20 12:25:24 [scraper.py:171] 🔗 [HN #4] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+INFO     2026-05-20 12:25:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-20 12:25:25 [scraper.py:170] 📥 [HN #5] FiveThirtyEight articles on the Internet Archive
+INFO     2026-05-20 12:25:25 [scraper.py:171] 🔗 [HN #5] URL: https://fivethirtyeightindex.com/
+INFO     2026-05-20 12:25:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-20 12:25:25 [scraper.py:170] 📥 [HN #6] I’ve built a virtual museum with nearly every operating system you can think of
+INFO     2026-05-20 12:25:25 [scraper.py:171] 🔗 [HN #6] URL: https://virtualosmuseum.org/
+INFO     2026-05-20 12:25:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-20 12:25:25 [scraper.py:170] 📥 [HN #7] Japan is gripped by mass allergies. A 1950s project is to blame
+INFO     2026-05-20 12:25:25 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan
+INFO     2026-05-20 12:25:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-20 12:25:25 [scraper.py:170] 📥 [HN #8] Qwen3.7-Max: The Agent Frontier
+INFO     2026-05-20 12:25:25 [scraper.py:171] 🔗 [HN #8] URL: https://qwen.ai/blog?id=qwen3.7
+INFO     2026-05-20 12:25:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-20 12:25:25 [scraper.py:170] 📥 [HN #9] Infomaniak transitions to a foundation model to protect user data privacy
+INFO     2026-05-20 12:25:25 [scraper.py:171] 🔗 [HN #9] URL: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/
+INFO     2026-05-20 12:25:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-20 12:25:26 [scraper.py:170] 📥 [HN #10] Nobody understands the point of hybrid cars [video]
+INFO     2026-05-20 12:25:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=KnUFH5GX_fI
+INFO     2026-05-20 12:25:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-20 12:25:26 [scraper.py:178] 🎉 [HN] All done.
+
