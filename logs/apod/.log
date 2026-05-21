@@ -4376,3 +4376,8 @@ INFO     2026-05-20 12:25:23 [scraper.py:47] 📥 [APOD] Title: The Dark Wolf Ne
 INFO     2026-05-20 12:25:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg
 INFO     2026-05-20 12:25:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-21 04:25:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-21 04:25:32 [scraper.py:47] 📥 [APOD] Title: A Collision of Galaxy Clusters
+INFO     2026-05-21 04:25:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/a2029.jpg
+INFO     2026-05-21 04:25:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
