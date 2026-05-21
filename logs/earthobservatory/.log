@@ -12572,3 +12572,24 @@ INFO     2026-05-21 04:25:32 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-21 04:25:32 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-21 08:37:16 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-21 08:37:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-21 08:37:18 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-21 08:37:18 [scraper.py:133] 📥 [EO] Title: New Eruption in the Bismarck Sea
+INFO     2026-05-21 08:37:18 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-21 08:37:18 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-21 08:37:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-21 08:37:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-21 08:37:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-21 08:37:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-21 08:37:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-21 08:37:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-21 08:37:19 [scraper.py:133] 📥 [EO] Title: New Eruption in the Bismarck Sea
+INFO     2026-05-21 08:37:19 [scraper.py:133] 📥 [EO] Title: New Eruption in the Bismarck Sea
+INFO     2026-05-21 08:37:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-21 08:37:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-21 08:37:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-21 08:37:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
