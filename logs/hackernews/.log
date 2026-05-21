@@ -29386,3 +29386,36 @@ INFO     2026-05-21 08:37:20 [scraper.py:171] 🔗 [HN #10] URL: https://docs.fl
 INFO     2026-05-21 08:37:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-21 08:37:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-21 12:44:46 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-21 12:44:46 [scraper.py:170] 📥 [HN #1] Flipper One – we need your help
+INFO     2026-05-21 12:44:46 [scraper.py:171] 🔗 [HN #1] URL: https://blog.flipper.net/flipper-one-we-need-your-help/
+INFO     2026-05-21 12:44:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-21 12:44:47 [scraper.py:170] 📥 [HN #2] Python 3.15: features that didn't make the headlines
+INFO     2026-05-21 12:44:47 [scraper.py:171] 🔗 [HN #2] URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html
+INFO     2026-05-21 12:44:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-21 12:44:47 [scraper.py:170] 📥 [HN #3] Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK
+INFO     2026-05-21 12:44:47 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/helvesec/rmux
+INFO     2026-05-21 12:44:47 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-21 12:44:47 [scraper.py:170] 📥 [HN #4] An OpenAI model has disproved a central conjecture in discrete geometry
+INFO     2026-05-21 12:44:47 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+INFO     2026-05-21 12:44:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-21 12:44:48 [scraper.py:170] 📥 [HN #5] Fender escalates legal campaign against S-style guitars
+INFO     2026-05-21 12:44:48 [scraper.py:171] 🔗 [HN #5] URL: https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments
+INFO     2026-05-21 12:44:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-21 12:44:48 [scraper.py:170] 📥 [HN #6] GitHub confirms breach of 3,800 repos via malicious VSCode extension
+INFO     2026-05-21 12:44:48 [scraper.py:171] 🔗 [HN #6] URL: https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
+INFO     2026-05-21 12:44:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-21 12:44:48 [scraper.py:170] 📥 [HN #7] Cekura (YC F24) Is Hiring
+INFO     2026-05-21 12:44:48 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+INFO     2026-05-21 12:44:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-21 12:44:48 [scraper.py:170] 📥 [HN #8] Google officially announces that ads will be included in AI Mode search results
+INFO     2026-05-21 12:44:48 [scraper.py:171] 🔗 [HN #8] URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
+INFO     2026-05-21 12:44:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-21 12:44:48 [scraper.py:170] 📥 [HN #9] Lost Images from the 1945 Trinity Nuclear Test Restored
+INFO     2026-05-21 12:44:48 [scraper.py:171] 🔗 [HN #9] URL: https://spectrum.ieee.org/trinity-nuclear-test
+INFO     2026-05-21 12:44:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-21 12:44:49 [scraper.py:170] 📥 [HN #10] Show HN: I reverse engineered Apple's video wallpapers
+INFO     2026-05-21 12:44:49 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/kageroumado/phosphene
+INFO     2026-05-21 12:44:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-21 12:44:49 [scraper.py:178] 🎉 [HN] All done.
+

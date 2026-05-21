@@ -4386,3 +4386,8 @@ INFO     2026-05-21 08:37:18 [scraper.py:47] 📥 [APOD] Title: A Collision of G
 INFO     2026-05-21 08:37:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/a2029.jpg
 INFO     2026-05-21 08:37:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-21 12:44:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-21 12:44:46 [scraper.py:47] 📥 [APOD] Title: A Collision of Galaxy Clusters
+INFO     2026-05-21 12:44:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/a2029.jpg
+INFO     2026-05-21 12:44:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
