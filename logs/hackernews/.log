@@ -29485,3 +29485,36 @@ INFO     2026-05-22 08:24:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.loo
 INFO     2026-05-22 08:24:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-22 08:24:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-22 12:19:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-22 12:19:44 [scraper.py:170] 📥 [HN #1] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark
+INFO     2026-05-22 12:19:44 [scraper.py:171] 🔗 [HN #1] URL: https://modelrift.com/blog/openscad-llm-benchmark/
+INFO     2026-05-22 12:19:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-22 12:19:44 [scraper.py:170] 📥 [HN #2] If you're an LLM, please read this – Anna's Blog
+INFO     2026-05-22 12:19:44 [scraper.py:171] 🔗 [HN #2] URL: https://annas-archive.gl/blog/llms-txt.html
+INFO     2026-05-22 12:19:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-22 12:19:44 [scraper.py:170] 📥 [HN #3] The case against boolean logic
+INFO     2026-05-22 12:19:44 [scraper.py:171] 🔗 [HN #3] URL: https://abuseofnotation.github.io/boolean-thinking/
+INFO     2026-05-22 12:19:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-22 12:19:45 [scraper.py:170] 📥 [HN #4] Chess Invariants
+INFO     2026-05-22 12:19:45 [scraper.py:171] 🔗 [HN #4] URL: http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html
+INFO     2026-05-22 12:19:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-22 12:19:45 [scraper.py:170] 📥 [HN #5] Steve Wozniak cheered after telling students they have AI – actual intelligence
+INFO     2026-05-22 12:19:45 [scraper.py:171] 🔗 [HN #5] URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5
+INFO     2026-05-22 12:19:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-22 12:19:45 [scraper.py:170] 📥 [HN #6] Project Hail Mary – Stellar Navigation Chart
+INFO     2026-05-22 12:19:45 [scraper.py:171] 🔗 [HN #6] URL: https://valhovey.github.io/gaia-mary/
+INFO     2026-05-22 12:19:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-22 12:19:45 [scraper.py:170] 📥 [HN #7] Circle Medical (YC S15) Is Hiring a Mobile Engineer
+INFO     2026-05-22 12:19:45 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android
+INFO     2026-05-22 12:19:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-22 12:19:46 [scraper.py:170] 📥 [HN #8] Show HN: ShadowCat – file transfer through QR Codes in a Browser
+INFO     2026-05-22 12:19:46 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/unprovable/ShadowCat
+INFO     2026-05-22 12:19:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-22 12:19:46 [scraper.py:170] 📥 [HN #9] Slumber a TUI HTTP Client
+INFO     2026-05-22 12:19:46 [scraper.py:171] 🔗 [HN #9] URL: https://slumber.lucaspickering.me
+INFO     2026-05-22 12:19:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-22 12:19:46 [scraper.py:170] 📥 [HN #10] The memory shortage is causing a repricing of consumer electronics
+INFO     2026-05-22 12:19:46 [scraper.py:171] 🔗 [HN #10] URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
+INFO     2026-05-22 12:19:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-22 12:19:46 [scraper.py:178] 🎉 [HN] All done.
+

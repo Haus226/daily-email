@@ -4401,3 +4401,8 @@ INFO     2026-05-22 08:24:56 [scraper.py:47] 📥 [APOD] Title: The Nebulous Rea
 INFO     2026-05-22 08:24:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg
 INFO     2026-05-22 08:24:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-22 12:19:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-22 12:19:44 [scraper.py:47] 📥 [APOD] Title: The Nebulous Realm of WR 134
+INFO     2026-05-22 12:19:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg
+INFO     2026-05-22 12:19:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
