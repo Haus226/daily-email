@@ -4438,3 +4438,8 @@ INFO     2026-05-22 04:20:23 [scraper.py:390] 📥 [TAROT] Card: The Sun
 INFO     2026-05-22 04:20:23 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-05-22 04:20:23 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-05-22 08:24:56 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-05-22 08:24:56 [scraper.py:390] 📥 [TAROT] Card: The Sun
+INFO     2026-05-22 08:24:56 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-05-22 08:24:56 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

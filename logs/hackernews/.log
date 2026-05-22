@@ -29452,3 +29452,36 @@ INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #10] URL: https://blog.si
 INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-22 04:20:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-22 08:24:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-22 08:24:56 [scraper.py:170] 📥 [HN #1] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs
+INFO     2026-05-22 08:24:56 [scraper.py:171] 🔗 [HN #1] URL: https://arxiv.org/abs/2605.19269
+INFO     2026-05-22 08:24:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-22 08:24:56 [scraper.py:170] 📥 [HN #2] Project Hail Mary – Stellar Navigation Chart
+INFO     2026-05-22 08:24:56 [scraper.py:171] 🔗 [HN #2] URL: https://valhovey.github.io/gaia-mary/
+INFO     2026-05-22 08:24:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #3] Slumber a TUI HTTP Client
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #3] URL: https://slumber.lucaspickering.me
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #4] The surprising story behind the first British person in space
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #5] Cleve Moler has died
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #6] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #6] URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #7] Deepfakes Tore a High School Apart
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #7] URL: https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-22 08:24:57 [scraper.py:170] 📥 [HN #8] The memory shortage is causing a repricing of consumer electronics
+INFO     2026-05-22 08:24:57 [scraper.py:171] 🔗 [HN #8] URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
+INFO     2026-05-22 08:24:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-22 08:24:58 [scraper.py:170] 📥 [HN #9] Was my $48K GPU server worth it?
+INFO     2026-05-22 08:24:58 [scraper.py:171] 🔗 [HN #9] URL: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
+INFO     2026-05-22 08:24:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-22 08:24:58 [scraper.py:170] 📥 [HN #10] Uv is fantastic, but its package management UX is a mess
+INFO     2026-05-22 08:24:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/
+INFO     2026-05-22 08:24:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-22 08:24:58 [scraper.py:178] 🎉 [HN] All done.
+
