@@ -29419,3 +29419,36 @@ INFO     2026-05-21 12:44:49 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-21 12:44:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-21 12:44:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-22 04:20:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-22 04:20:24 [scraper.py:170] 📥 [HN #1] Project Hail Mary – Stellar Navigation Chart
+INFO     2026-05-22 04:20:24 [scraper.py:171] 🔗 [HN #1] URL: https://valhovey.github.io/gaia-mary/
+INFO     2026-05-22 04:20:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-22 04:20:24 [scraper.py:170] 📥 [HN #2] Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+INFO     2026-05-22 04:20:24 [scraper.py:171] 🔗 [HN #2] URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
+INFO     2026-05-22 04:20:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-22 04:20:24 [scraper.py:170] 📥 [HN #3] The Death of the Brick and Mortar Toy Store
+INFO     2026-05-22 04:20:24 [scraper.py:171] 🔗 [HN #3] URL: https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/
+INFO     2026-05-22 04:20:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-22 04:20:24 [scraper.py:170] 📥 [HN #4] Using Kagi Search with Low Vision
+INFO     2026-05-22 04:20:24 [scraper.py:171] 🔗 [HN #4] URL: https://veroniiiica.com/using-kagi-search-with-low-vision/
+INFO     2026-05-22 04:20:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-22 04:20:24 [scraper.py:170] 📥 [HN #5] Samsung chip workers will get an average $340k bonus as AI profits soar
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #5] URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:170] 📥 [HN #6] Was my $48K GPU server worth it?
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #6] URL: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:170] 📥 [HN #7] Uv is fantastic, but its package management UX is a mess
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #7] URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:170] 📥 [HN #8] Mycorrhizal Fungi, Nature's Key to Plant Survival and Success
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #8] URL: https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:170] 📥 [HN #9] Show HN: Freenet, a peer-to-peer platform for decentralized apps
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #9] URL: https://freenet.org/
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:170] 📥 [HN #10] Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
+INFO     2026-05-22 04:20:25 [scraper.py:171] 🔗 [HN #10] URL: https://blog.simbastack.com/indexed-a-year-of-video-locally/
+INFO     2026-05-22 04:20:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-22 04:20:25 [scraper.py:178] 🎉 [HN] All done.
+

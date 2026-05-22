@@ -4391,3 +4391,8 @@ INFO     2026-05-21 12:44:46 [scraper.py:47] 📥 [APOD] Title: A Collision of G
 INFO     2026-05-21 12:44:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/a2029.jpg
 INFO     2026-05-21 12:44:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-22 04:20:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-22 04:20:24 [scraper.py:47] 📥 [APOD] Title: The Nebulous Realm of WR 134
+INFO     2026-05-22 04:20:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg
+INFO     2026-05-22 04:20:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
