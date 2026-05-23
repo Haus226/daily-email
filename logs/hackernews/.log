@@ -29551,3 +29551,36 @@ INFO     2026-05-23 03:58:58 [scraper.py:171] 🔗 [HN #10] URL: https://krebson
 INFO     2026-05-23 03:58:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-23 03:58:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-23 11:12:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-23 11:12:13 [scraper.py:170] 📥 [HN #1] Shipping a laptop to a refugee camp in Uganda
+INFO     2026-05-23 11:12:13 [scraper.py:171] 🔗 [HN #1] URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
+INFO     2026-05-23 11:12:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-23 11:12:14 [scraper.py:170] 📥 [HN #2] Rubish: A Unix shell written in pure Ruby
+INFO     2026-05-23 11:12:14 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/amatsuda/rubish
+INFO     2026-05-23 11:12:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-23 11:12:14 [scraper.py:170] 📥 [HN #3] Why Japanese companies do so many different things
+INFO     2026-05-23 11:12:14 [scraper.py:171] 🔗 [HN #3] URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
+INFO     2026-05-23 11:12:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-23 11:12:14 [scraper.py:170] 📥 [HN #4] The quadratic sandwich
+INFO     2026-05-23 11:12:14 [scraper.py:171] 🔗 [HN #4] URL: https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html
+INFO     2026-05-23 11:12:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-23 11:12:14 [scraper.py:170] 📥 [HN #5] BambuStudio has been violating PrusaSlicer AGPL license since their fork
+INFO     2026-05-23 11:12:14 [scraper.py:171] 🔗 [HN #5] URL: https://xcancel.com/josefprusa/status/2054602354851254330
+INFO     2026-05-23 11:12:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:170] 📥 [HN #6] Project Glasswing: An Initial Update
+INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/research/glasswing-initial-update
+INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:170] 📥 [HN #7] Microsoft starts canceling Claude Code licenses
+INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #7] URL: https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
+INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:170] 📥 [HN #8] Blood Pumping Mechanism of the Hoof (2020)
+INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #8] URL: https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/
+INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:170] 📥 [HN #9] Yeunjoo Choi from Igalia on Chromium
+INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #9] URL: https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html
+INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:170] 📥 [HN #10] Sleep research led to a new sleep apnea drug
+INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #10] URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
+INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-23 11:12:15 [scraper.py:178] 🎉 [HN] All done.
+
