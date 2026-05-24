@@ -4421,3 +4421,8 @@ INFO     2026-05-24 04:19:27 [scraper.py:47] 📥 [APOD] Title: A Martian Eclips
 INFO     2026-05-24 04:19:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4
 INFO     2026-05-24 04:19:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-24 07:51:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-24 07:51:21 [scraper.py:47] 📥 [APOD] Title: A Martian Eclipse: Phobos Crosses the Sun
+INFO     2026-05-24 07:51:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4
+INFO     2026-05-24 07:51:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
