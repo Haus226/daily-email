@@ -29584,3 +29584,36 @@ INFO     2026-05-23 11:12:15 [scraper.py:171] 🔗 [HN #10] URL: https://temerty
 INFO     2026-05-23 11:12:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-23 11:12:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-24 04:19:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-24 04:19:27 [scraper.py:170] 📥 [HN #1] Microsoft open-sources "the earliest DOS source code discovered to date"
+INFO     2026-05-24 04:19:27 [scraper.py:171] 🔗 [HN #1] URL: https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/
+INFO     2026-05-24 04:19:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-24 04:19:27 [scraper.py:170] 📥 [HN #2] Scammers are abusing an internal Microsoft account to send spam links
+INFO     2026-05-24 04:19:27 [scraper.py:171] 🔗 [HN #2] URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/
+INFO     2026-05-24 04:19:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-24 04:19:28 [scraper.py:170] 📥 [HN #3] Wake up! 16b
+INFO     2026-05-24 04:19:28 [scraper.py:171] 🔗 [HN #3] URL: https://hellmood.111mb.de/wake_up_16b_writeup.html
+INFO     2026-05-24 04:19:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-24 04:19:28 [scraper.py:170] 📥 [HN #4] Time to talk about my writerdeck
+INFO     2026-05-24 04:19:28 [scraper.py:171] 🔗 [HN #4] URL: https://veronicaexplains.net/my-first-writerdeck/
+INFO     2026-05-24 04:19:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-24 04:19:28 [scraper.py:170] 📥 [HN #5] Green card seekers must leave U.S. to apply, Trump administration says
+INFO     2026-05-24 04:19:28 [scraper.py:171] 🔗 [HN #5] URL: https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html
+INFO     2026-05-24 04:19:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:170] 📥 [HN #6] On The <dl> (2021)
+INFO     2026-05-24 04:19:29 [scraper.py:171] 🔗 [HN #6] URL: https://benmyers.dev/blog/on-the-dl/
+INFO     2026-05-24 04:19:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:170] 📥 [HN #7] My two-part desk setup (2025)
+INFO     2026-05-24 04:19:29 [scraper.py:171] 🔗 [HN #7] URL: https://arslan.io/2025/11/18/my-two-part-desk-setup/
+INFO     2026-05-24 04:19:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:170] 📥 [HN #8] Sales and Dungeons: Thermal printer TTRPG utility
+INFO     2026-05-24 04:19:29 [scraper.py:171] 🔗 [HN #8] URL: https://sales-and-dungeons.app/
+INFO     2026-05-24 04:19:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:170] 📥 [HN #9] My I3-Emacs Integration
+INFO     2026-05-24 04:19:29 [scraper.py:171] 🔗 [HN #9] URL: https://khz.ac/software/i3-integration.html
+INFO     2026-05-24 04:19:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:170] 📥 [HN #10] Judson's Last Ride
+INFO     2026-05-24 04:19:29 [scraper.py:171] 🔗 [HN #10] URL: https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html
+INFO     2026-05-24 04:19:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-24 04:19:29 [scraper.py:178] 🎉 [HN] All done.
+

@@ -12707,3 +12707,24 @@ INFO     2026-05-23 11:12:14 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-23 11:12:14 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-24 04:19:24 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-24 04:19:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-24 04:19:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-24 04:19:27 [scraper.py:133] 📥 [EO] Title: Tornado Draws a Jagged Line in Mississippi
+INFO     2026-05-24 04:19:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tornado-draws-a-jagged-line-in-mississippi/mississippitornado_oli_20260512_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-24 04:19:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-24 04:19:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-24 04:19:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-24 04:19:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-24 04:19:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-24 04:19:28 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-24 04:19:28 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-24 04:19:28 [scraper.py:133] 📥 [EO] Title: Tornado Draws a Jagged Line in Mississippi
+INFO     2026-05-24 04:19:28 [scraper.py:133] 📥 [EO] Title: Tornado Draws a Jagged Line in Mississippi
+INFO     2026-05-24 04:19:28 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tornado-draws-a-jagged-line-in-mississippi/mississippitornado_oli_20260512_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-24 04:19:28 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tornado-draws-a-jagged-line-in-mississippi/mississippitornado_oli_20260512_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-24 04:19:28 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-24 04:19:28 [scraper.py:154] ✅ [EO] Successfully fetched.
+
