@@ -29749,3 +29749,36 @@ INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #10] URL: https://www.dou
 INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-25 09:01:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-25 13:29:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-25 13:29:37 [scraper.py:170] 📥 [HN #1] Search engines alternatives now that Google isn't Google anymore
+INFO     2026-05-25 13:29:37 [scraper.py:171] 🔗 [HN #1] URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/
+INFO     2026-05-25 13:29:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-25 13:29:37 [scraper.py:170] 📥 [HN #2] Magnifica Humanitas (Encyclical Letter)
+INFO     2026-05-25 13:29:37 [scraper.py:171] 🔗 [HN #2] URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+INFO     2026-05-25 13:29:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-25 13:29:37 [scraper.py:170] 📥 [HN #3] Leave Me Behind
+INFO     2026-05-25 13:29:37 [scraper.py:171] 🔗 [HN #3] URL: http://androidessence.com/leave-me-behind/
+INFO     2026-05-25 13:29:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-25 13:29:37 [scraper.py:170] 📥 [HN #4] IBM Spins Off the First Pure-Play Quantum Chip Foundry
+INFO     2026-05-25 13:29:37 [scraper.py:171] 🔗 [HN #4] URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/
+INFO     2026-05-25 13:29:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #5] Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #5] URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #6] Show HN: Audiomass – a free, open-source multitrack audio editor for the web
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #6] URL: https://audiomass.co/?multitrack=1
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #7] Show HN: Geomatic – a command-driven geometry studio enabled with autodiff
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #7] URL: https://www.tinyvolt.com/geomatic
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #8] you_can::turn_off_the_borrow_checker
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #8] URL: https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #9] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #9] URL: https://esengine.github.io/DeepSeek-Reasonix/
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:170] 📥 [HN #10] AI errno(2) values
+INFO     2026-05-25 13:29:38 [scraper.py:171] 🔗 [HN #10] URL: https://www.netmeister.org/blog/ai-errno.html
+INFO     2026-05-25 13:29:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-25 13:29:38 [scraper.py:178] 🎉 [HN] All done.
+

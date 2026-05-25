@@ -4441,3 +4441,8 @@ INFO     2026-05-25 09:01:06 [scraper.py:47] 📥 [APOD] Title: Thackeray's Glob
 INFO     2026-05-25 09:01:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg
 INFO     2026-05-25 09:01:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-25 13:29:36 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-25 13:29:36 [scraper.py:47] 📥 [APOD] Title: Thackeray's Globules
+INFO     2026-05-25 13:29:36 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg
+INFO     2026-05-25 13:29:36 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
