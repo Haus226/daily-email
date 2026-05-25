@@ -29716,3 +29716,36 @@ INFO     2026-05-25 04:41:36 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-05-25 04:41:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-25 04:41:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-25 09:01:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-25 09:01:06 [scraper.py:170] 📥 [HN #1] Jira Is Turing-Complete
+INFO     2026-05-25 09:01:06 [scraper.py:171] 🔗 [HN #1] URL: https://seriot.ch/computation/jira.html
+INFO     2026-05-25 09:01:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-25 09:01:07 [scraper.py:170] 📥 [HN #2] Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)
+INFO     2026-05-25 09:01:07 [scraper.py:171] 🔗 [HN #2] URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/
+INFO     2026-05-25 09:01:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-25 09:01:07 [scraper.py:170] 📥 [HN #3] Show HN: Audiomass – a free, open-source multitrack audio editor for the web
+INFO     2026-05-25 09:01:07 [scraper.py:171] 🔗 [HN #3] URL: https://audiomass.co/?multitrack=1
+INFO     2026-05-25 09:01:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-25 09:01:07 [scraper.py:170] 📥 [HN #4] I love my Bluetooth keyboard
+INFO     2026-05-25 09:01:07 [scraper.py:171] 🔗 [HN #4] URL: https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/
+INFO     2026-05-25 09:01:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #5] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #5] URL: https://esengine.github.io/DeepSeek-Reasonix/
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #6] Migrating from Go to Rust
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #6] URL: https://corrode.dev/learn/migration-guides/go-to-rust/
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #7] White Rabbit – sub-nanosecond synchronization for large distributed systems
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #7] URL: https://ohwr.org/projects/white-rabbit/
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #8] Bug 1950764: Work Around Crash on Intel Raptor Lake CPU
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #8] URL: https://phabricator.services.mozilla.com/D301917
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #9] A fundamental principle of aeronautical engineering has been overturned
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #9] URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:170] 📥 [HN #10] I spent 50 hours drawing a line graph
+INFO     2026-05-25 09:01:08 [scraper.py:171] 🔗 [HN #10] URL: https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html
+INFO     2026-05-25 09:01:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-25 09:01:08 [scraper.py:178] 🎉 [HN] All done.
+
