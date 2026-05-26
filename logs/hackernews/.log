@@ -29815,3 +29815,36 @@ INFO     2026-05-26 04:16:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.ref
 INFO     2026-05-26 04:16:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-26 04:16:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-26 08:35:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #1] DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #1] URL: https://dynip.dev/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #2] Using AI to write better code more slowly
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #2] URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #3] The User Is Visibly Frustrated
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #3] URL: https://pscanf.com/s/354/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #4] Taking a walk may lead to more creativity than sitting, study finds (2014)
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #4] URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #5] Earthion: A New Mega Drive-Style Shoot-Em-Up
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #5] URL: https://earthiongame.com/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #6] Use Boring Languages with LLMs
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #6] URL: https://jry.io/writing/use-boring-languages-with-llms/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #7] How Shamir's Secret Sharing Works
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #7] URL: https://ente.com/blog/how-shamirs-secret-sharing-works/
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-26 08:35:17 [scraper.py:170] 📥 [HN #8] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?
+INFO     2026-05-26 08:35:17 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=48275508
+INFO     2026-05-26 08:35:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-26 08:35:18 [scraper.py:170] 📥 [HN #9] Ferrari Luce
+INFO     2026-05-26 08:35:18 [scraper.py:171] 🔗 [HN #9] URL: https://www.ferrari.com/en-EN/auto/ferrari-luce
+INFO     2026-05-26 08:35:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-26 08:35:18 [scraper.py:170] 📥 [HN #10] A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft
+INFO     2026-05-26 08:35:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/
+INFO     2026-05-26 08:35:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-26 08:35:18 [scraper.py:178] 🎉 [HN] All done.
+
