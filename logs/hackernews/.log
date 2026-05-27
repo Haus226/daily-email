@@ -29881,3 +29881,36 @@ INFO     2026-05-27 04:39:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-05-27 04:39:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-27 04:39:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-27 08:41:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-27 08:41:19 [scraper.py:170] 📥 [HN #1] The Structural Barriers to AI Lawyers
+INFO     2026-05-27 08:41:19 [scraper.py:171] 🔗 [HN #1] URL: https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers
+INFO     2026-05-27 08:41:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-27 08:41:19 [scraper.py:170] 📥 [HN #2] The Melancholy of Slaying Monsters
+INFO     2026-05-27 08:41:19 [scraper.py:171] 🔗 [HN #2] URL: https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/
+INFO     2026-05-27 08:41:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-27 08:41:19 [scraper.py:170] 📥 [HN #3] What Gets Kept
+INFO     2026-05-27 08:41:19 [scraper.py:171] 🔗 [HN #3] URL: https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind
+INFO     2026-05-27 08:41:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #4] Cloudflare Flagship
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #4] URL: https://developers.cloudflare.com/flagship/
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #5] BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #5] URL: https://badhost.org/
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #6] That Methyl Methacrylate Tank
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #6] URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #7] Prompt Politeness Affects LLM Accuracy (2025)
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2510.04950
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #8] Cate v1.0 is out: The Infinite canvas workspace for developers
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/0-AI-UG/cate
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #9] A few interesting modern pixel fonts
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #9] URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:170] 📥 [HN #10] I built a Git-tracked book production pipeline
+INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
+INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-27 08:41:20 [scraper.py:178] 🎉 [HN] All done.
+
