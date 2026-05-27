@@ -29848,3 +29848,36 @@ INFO     2026-05-26 08:35:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.bgr
 INFO     2026-05-26 08:35:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-26 08:35:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-27 04:39:46 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-27 04:39:46 [scraper.py:170] 📥 [HN #1] The just-say-no engineer was a ZIRP phenomenon
+INFO     2026-05-27 04:39:46 [scraper.py:171] 🔗 [HN #1] URL: https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/
+INFO     2026-05-27 04:39:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-27 04:39:46 [scraper.py:170] 📥 [HN #2] Cloudflare Flagship
+INFO     2026-05-27 04:39:46 [scraper.py:171] 🔗 [HN #2] URL: https://developers.cloudflare.com/flagship/
+INFO     2026-05-27 04:39:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-27 04:39:46 [scraper.py:170] 📥 [HN #3] Chemistry behind the Garden Grove chemical tank
+INFO     2026-05-27 04:39:46 [scraper.py:171] 🔗 [HN #3] URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
+INFO     2026-05-27 04:39:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-27 04:39:47 [scraper.py:170] 📥 [HN #4] Where does next-token prediction leave us?
+INFO     2026-05-27 04:39:47 [scraper.py:171] 🔗 [HN #4] URL: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/
+INFO     2026-05-27 04:39:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-27 04:39:47 [scraper.py:170] 📥 [HN #5] The Forgotten Art of the LAN Party (2023)
+INFO     2026-05-27 04:39:47 [scraper.py:171] 🔗 [HN #5] URL: https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/
+INFO     2026-05-27 04:39:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-27 04:39:47 [scraper.py:170] 📥 [HN #6] A few interesting modern pixel fonts
+INFO     2026-05-27 04:39:47 [scraper.py:171] 🔗 [HN #6] URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
+INFO     2026-05-27 04:39:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-27 04:39:47 [scraper.py:170] 📥 [HN #7] I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline
+INFO     2026-05-27 04:39:47 [scraper.py:171] 🔗 [HN #7] URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
+INFO     2026-05-27 04:39:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-27 04:39:47 [scraper.py:170] 📥 [HN #8] From Rust to Ruby
+INFO     2026-05-27 04:39:47 [scraper.py:171] 🔗 [HN #8] URL: https://xlii.space/eng/from-rust-to-ruby/
+INFO     2026-05-27 04:39:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-27 04:39:48 [scraper.py:170] 📥 [HN #9] A portentous reunion
+INFO     2026-05-27 04:39:48 [scraper.py:171] 🔗 [HN #9] URL: https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
+INFO     2026-05-27 04:39:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-27 04:39:48 [scraper.py:170] 📥 [HN #10] IBM Confidential: System/360 File Organization [video]
+INFO     2026-05-27 04:39:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=zokKqP0plrM
+INFO     2026-05-27 04:39:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-27 04:39:48 [scraper.py:178] 🎉 [HN] All done.
+

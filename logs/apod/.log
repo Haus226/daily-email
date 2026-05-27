@@ -4456,3 +4456,8 @@ INFO     2026-05-26 08:35:16 [scraper.py:47] 📥 [APOD] Title: NGC 3660 and Bur
 INFO     2026-05-26 08:35:16 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg
 INFO     2026-05-26 08:35:16 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-27 04:39:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-27 04:39:47 [scraper.py:47] 📥 [APOD] Title: PK 164 +31.1: The Headphone Nebula
+INFO     2026-05-27 04:39:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg
+INFO     2026-05-27 04:39:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

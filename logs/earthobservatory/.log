@@ -12875,3 +12875,24 @@ INFO     2026-05-26 08:35:17 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-26 08:35:17 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-05-27 04:39:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-27 04:39:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-27 04:39:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-27 04:39:46 [scraper.py:133] 📥 [EO] Title: A Full Moon Checkup
+INFO     2026-05-27 04:39:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-full-moon-checkup/Landsatcalibration_oli2_20260103_tn.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-27 04:39:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-27 04:39:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-27 04:39:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-05-27 04:39:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-27 04:39:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-05-27 04:39:48 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-27 04:39:48 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-05-27 04:39:48 [scraper.py:133] 📥 [EO] Title: Ever Restless Mount Dukono Erupts
+INFO     2026-05-27 04:39:48 [scraper.py:133] 📥 [EO] Title: Ever Restless Mount Dukono Erupts
+INFO     2026-05-27 04:39:48 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ever-restless-mount-dukono-erupts/dukonovolcano_oli2_20260513_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-27 04:39:48 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ever-restless-mount-dukono-erupts/dukonovolcano_oli2_20260513_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-05-27 04:39:48 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-05-27 04:39:48 [scraper.py:154] ✅ [EO] Successfully fetched.
+
