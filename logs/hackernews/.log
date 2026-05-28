@@ -29947,3 +29947,36 @@ INFO     2026-05-28 04:19:37 [scraper.py:171] 🔗 [HN #10] URL: https://www.yco
 INFO     2026-05-28 04:19:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-28 04:19:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-28 08:47:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-28 08:47:17 [scraper.py:170] 📥 [HN #1] A Eureka machine that thinks like nature and explores what AI cannot
+INFO     2026-05-28 08:47:17 [scraper.py:171] 🔗 [HN #1] URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/
+INFO     2026-05-28 08:47:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-28 08:47:17 [scraper.py:170] 📥 [HN #2] YouTube to automatically label AI-generated videos
+INFO     2026-05-28 08:47:17 [scraper.py:171] 🔗 [HN #2] URL: https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
+INFO     2026-05-28 08:47:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #3] I analysed 20 years of my chats
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #3] URL: https://drobinin.com/posts/am-i-a-bad-friend/
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #4] Hallucinate – Massively Multiplayer Online Rave
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #4] URL: https://hallucinate.site
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #5] I think Anthropic and OpenAI have found product-market fit
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #5] URL: https://simonwillison.net/2026/May/27/product-market-fit/
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #6] AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #6] URL: https://almartis.xyz/gpu-free-datacenter.html
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #7] SimCity 3k in 4k (2025)
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #7] URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-28 08:47:18 [scraper.py:170] 📥 [HN #8] What Apple and Google are doing to push notifications
+INFO     2026-05-28 08:47:18 [scraper.py:171] 🔗 [HN #8] URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+INFO     2026-05-28 08:47:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-28 08:47:19 [scraper.py:170] 📥 [HN #9] The Green Side of the Lua
+INFO     2026-05-28 08:47:19 [scraper.py:171] 🔗 [HN #9] URL: https://arxiv.org/abs/2601.16670
+INFO     2026-05-28 08:47:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-28 08:47:19 [scraper.py:170] 📥 [HN #10] I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)
+INFO     2026-05-28 08:47:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
+INFO     2026-05-28 08:47:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-28 08:47:19 [scraper.py:178] 🎉 [HN] All done.
+
