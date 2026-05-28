@@ -29914,3 +29914,36 @@ INFO     2026-05-27 08:41:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.djs
 INFO     2026-05-27 08:41:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-27 08:41:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-28 04:19:35 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-28 04:19:35 [scraper.py:170] 📥 [HN #1] YouTube to automatically label AI-generated videos
+INFO     2026-05-28 04:19:35 [scraper.py:171] 🔗 [HN #1] URL: https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
+INFO     2026-05-28 04:19:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-28 04:19:35 [scraper.py:170] 📥 [HN #2] Can we have the day off?
+INFO     2026-05-28 04:19:35 [scraper.py:171] 🔗 [HN #2] URL: https://mlsu.io/posts/day-off/
+INFO     2026-05-28 04:19:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-28 04:19:36 [scraper.py:170] 📥 [HN #3] I think Anthropic and OpenAI have found product-market fit
+INFO     2026-05-28 04:19:36 [scraper.py:171] 🔗 [HN #3] URL: https://simonwillison.net/2026/May/27/product-market-fit/
+INFO     2026-05-28 04:19:36 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-28 04:19:36 [scraper.py:170] 📥 [HN #4] What Apple and Google are doing to push notifications
+INFO     2026-05-28 04:19:36 [scraper.py:171] 🔗 [HN #4] URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+INFO     2026-05-28 04:19:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-28 04:19:36 [scraper.py:170] 📥 [HN #5] SimCity 3k in 4k (2025)
+INFO     2026-05-28 04:19:36 [scraper.py:171] 🔗 [HN #5] URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
+INFO     2026-05-28 04:19:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-28 04:19:36 [scraper.py:170] 📥 [HN #6] Why Ctrl+V won't paste images in Claude Code on WSL, with a fix
+INFO     2026-05-28 04:19:36 [scraper.py:171] 🔗 [HN #6] URL: https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/
+INFO     2026-05-28 04:19:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-28 04:19:37 [scraper.py:170] 📥 [HN #7] The Ask
+INFO     2026-05-28 04:19:37 [scraper.py:171] 🔗 [HN #7] URL: https://randsinrepose.com/archives/the-ask/
+INFO     2026-05-28 04:19:37 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-28 04:19:37 [scraper.py:170] 📥 [HN #8] I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)
+INFO     2026-05-28 04:19:37 [scraper.py:171] 🔗 [HN #8] URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
+INFO     2026-05-28 04:19:37 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-28 04:19:37 [scraper.py:170] 📥 [HN #9] Rust (and Slint) on a Jailbroken Kindle
+INFO     2026-05-28 04:19:37 [scraper.py:171] 🔗 [HN #9] URL: https://sverre.me/blog/rust-on-kindle/
+INFO     2026-05-28 04:19:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-28 04:19:37 [scraper.py:170] 📥 [HN #10] RamAIn (YC W26) Is Hiring
+INFO     2026-05-28 04:19:37 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer
+INFO     2026-05-28 04:19:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-28 04:19:37 [scraper.py:178] 🎉 [HN] All done.
+
