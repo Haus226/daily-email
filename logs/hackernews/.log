@@ -30046,3 +30046,36 @@ INFO     2026-05-29 04:22:15 [scraper.py:171] 🔗 [HN #10] URL: https://discour
 INFO     2026-05-29 04:22:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-29 04:22:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-29 08:45:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-29 08:45:29 [scraper.py:170] 📥 [HN #1] Volkswagen blocks Home Assistant by requiring client assertion
+INFO     2026-05-29 08:45:29 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967
+INFO     2026-05-29 08:45:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-29 08:45:29 [scraper.py:170] 📥 [HN #2] Claude Opus 4.8
+INFO     2026-05-29 08:45:29 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-opus-4-8
+INFO     2026-05-29 08:45:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-29 08:45:30 [scraper.py:170] 📥 [HN #3] Bricks and Minifigs Stole a Man's $200k Lego Collection
+INFO     2026-05-29 08:45:30 [scraper.py:171] 🔗 [HN #3] URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
+INFO     2026-05-29 08:45:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-29 08:45:30 [scraper.py:170] 📥 [HN #4] I made a million dollar product from my dorm room (2025)
+INFO     2026-05-29 08:45:30 [scraper.py:171] 🔗 [HN #4] URL: https://nick.winans.io/blog/nice-nano/
+INFO     2026-05-29 08:45:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-29 08:45:30 [scraper.py:170] 📥 [HN #5] Claude Code – Everything You Can Configure That the Docs Don't Tell You
+INFO     2026-05-29 08:45:30 [scraper.py:171] 🔗 [HN #5] URL: https://buildingbetter.tech/p/i-read-the-claude-code-source-code
+INFO     2026-05-29 08:45:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-29 08:45:30 [scraper.py:170] 📥 [HN #6] Italians and Dutch share the same gestural instinct for teaching
+INFO     2026-05-29 08:45:30 [scraper.py:171] 🔗 [HN #6] URL: https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching
+INFO     2026-05-29 08:45:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-29 08:45:30 [scraper.py:170] 📥 [HN #7] Cars collect a startling amount of data about you
+INFO     2026-05-29 08:45:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse
+INFO     2026-05-29 08:45:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-29 08:45:31 [scraper.py:170] 📥 [HN #8] Ten Basic Clouds
+INFO     2026-05-29 08:45:31 [scraper.py:171] 🔗 [HN #8] URL: https://www.noaa.gov/jetstream/clouds/ten-basic-clouds
+INFO     2026-05-29 08:45:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-29 08:45:31 [scraper.py:170] 📥 [HN #9] Nitpicking the shell history scene in 'Tron: Legacy'
+INFO     2026-05-29 08:45:31 [scraper.py:171] 🔗 [HN #9] URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/
+INFO     2026-05-29 08:45:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-29 08:45:31 [scraper.py:170] 📥 [HN #10] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue
+INFO     2026-05-29 08:45:31 [scraper.py:171] 🔗 [HN #10] URL: https://llmgame.scalex.dev
+INFO     2026-05-29 08:45:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-29 08:45:31 [scraper.py:178] 🎉 [HN] All done.
+
