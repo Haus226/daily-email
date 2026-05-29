@@ -4481,3 +4481,8 @@ INFO     2026-05-28 13:52:26 [scraper.py:47] 📥 [APOD] Title: NGC 1514: The Cr
 INFO     2026-05-28 13:52:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg
 INFO     2026-05-28 13:52:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-29 04:22:13 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-29 04:22:14 [scraper.py:47] 📥 [APOD] Title: Messier 104
+INFO     2026-05-29 04:22:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg
+INFO     2026-05-29 04:22:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

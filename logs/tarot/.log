@@ -4523,3 +4523,8 @@ INFO     2026-05-28 13:52:26 [scraper.py:390] 📥 [TAROT] Card: Nine of Pentacl
 INFO     2026-05-28 13:52:26 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-05-28 13:52:26 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-05-29 04:22:13 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-05-29 04:22:13 [scraper.py:390] 📥 [TAROT] Card: The Moon
+INFO     2026-05-29 04:22:14 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-05-29 04:22:14 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
