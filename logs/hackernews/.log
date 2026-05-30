@@ -30178,3 +30178,36 @@ INFO     2026-05-30 07:43:25 [scraper.py:171] 🔗 [HN #10] URL: https://railsat
 INFO     2026-05-30 07:43:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-30 07:43:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-30 11:20:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-30 11:20:50 [scraper.py:170] 📥 [HN #1] Zig: Build System Reworked
+INFO     2026-05-30 11:20:50 [scraper.py:171] 🔗 [HN #1] URL: https://ziglang.org/devlog/2026/#2026-05-26
+INFO     2026-05-30 11:20:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-30 11:20:50 [scraper.py:170] 📥 [HN #2] Pandoc Templates
+INFO     2026-05-30 11:20:50 [scraper.py:171] 🔗 [HN #2] URL: https://pandoc-templates.org/
+INFO     2026-05-30 11:20:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-30 11:20:50 [scraper.py:170] 📥 [HN #3] The Kaiser and a "Mediocre Man" Theory of History
+INFO     2026-05-30 11:20:50 [scraper.py:171] 🔗 [HN #3] URL: https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory
+INFO     2026-05-30 11:20:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-30 11:20:50 [scraper.py:170] 📥 [HN #4] SQLite is all you need for durable workflows
+INFO     2026-05-30 11:20:50 [scraper.py:171] 🔗 [HN #4] URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+INFO     2026-05-30 11:20:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-30 11:20:50 [scraper.py:170] 📥 [HN #5] Danish pension fund excludes SpaceX citing governance and valuation
+INFO     2026-05-30 11:20:50 [scraper.py:171] 🔗 [HN #5] URL: https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/
+INFO     2026-05-30 11:20:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-30 11:20:51 [scraper.py:170] 📥 [HN #6] Snowboard Kids 2 is 100% Decompiled
+INFO     2026-05-30 11:20:51 [scraper.py:171] 🔗 [HN #6] URL: https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
+INFO     2026-05-30 11:20:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-30 11:20:51 [scraper.py:170] 📥 [HN #7] Notes from the Mistral AI Now Summit
+INFO     2026-05-30 11:20:51 [scraper.py:171] 🔗 [HN #7] URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
+INFO     2026-05-30 11:20:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-30 11:20:51 [scraper.py:170] 📥 [HN #8] What It Takes to Preserve Floppy Disks
+INFO     2026-05-30 11:20:51 [scraper.py:171] 🔗 [HN #8] URL: https://spectrum.ieee.org/floppy-disk-data-preservation-archives
+INFO     2026-05-30 11:20:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-30 11:20:51 [scraper.py:170] 📥 [HN #9] Floor and Ceil versus Denormals on CPU and GPU
+INFO     2026-05-30 11:20:51 [scraper.py:171] 🔗 [HN #9] URL: https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu
+INFO     2026-05-30 11:20:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-30 11:20:52 [scraper.py:170] 📥 [HN #10] MCP is dead?
+INFO     2026-05-30 11:20:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.quandri.io/engineering-blog/mcp-is-dead
+INFO     2026-05-30 11:20:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-30 11:20:52 [scraper.py:178] 🎉 [HN] All done.
+

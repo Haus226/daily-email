@@ -4506,3 +4506,8 @@ INFO     2026-05-30 07:43:23 [scraper.py:47] 📥 [APOD] Title: Supermoon Versus
 INFO     2026-05-30 07:43:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg
 INFO     2026-05-30 07:43:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-30 11:20:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-30 11:20:50 [scraper.py:47] 📥 [APOD] Title: Supermoon Versus Micromoon
+INFO     2026-05-30 11:20:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg
+INFO     2026-05-30 11:20:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
