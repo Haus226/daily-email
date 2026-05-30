@@ -30112,3 +30112,36 @@ INFO     2026-05-29 12:47:20 [scraper.py:171] 🔗 [HN #10] URL: https://buildin
 INFO     2026-05-29 12:47:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-29 12:47:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-30 04:07:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-30 04:07:34 [scraper.py:170] 📥 [HN #1] Naphtha Shortages Having a Growing Impact in Japan
+INFO     2026-05-30 04:07:34 [scraper.py:171] 🔗 [HN #1] URL: https://www.nippon.com/en/japan-data/h02783/
+INFO     2026-05-30 04:07:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-30 04:07:35 [scraper.py:170] 📥 [HN #2] SQLite is all you need for durable workflows
+INFO     2026-05-30 04:07:35 [scraper.py:171] 🔗 [HN #2] URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+INFO     2026-05-30 04:07:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-30 04:07:35 [scraper.py:170] 📥 [HN #3] The dead economy theory
+INFO     2026-05-30 04:07:35 [scraper.py:171] 🔗 [HN #3] URL: https://www.owenmcgrann.com/p/the-dead-economy-theory
+INFO     2026-05-30 04:07:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-30 04:07:35 [scraper.py:170] 📥 [HN #4] Snowboard Kids 2 is 100% Decompiled
+INFO     2026-05-30 04:07:35 [scraper.py:171] 🔗 [HN #4] URL: https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
+INFO     2026-05-30 04:07:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-30 04:07:35 [scraper.py:170] 📥 [HN #5] Perry Compiles TypeScript directly to executables using SWC and LLVM
+INFO     2026-05-30 04:07:35 [scraper.py:171] 🔗 [HN #5] URL: https://www.perryts.com/
+INFO     2026-05-30 04:07:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:170] 📥 [HN #6] Notes from the Mistral AI Now Summit
+INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #6] URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
+INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:170] 📥 [HN #7] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer
+INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #7] URL: https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/
+INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:170] 📥 [HN #8] MCP is dead?
+INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #8] URL: https://www.quandri.io/engineering-blog/mcp-is-dead
+INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:170] 📥 [HN #9] Math-to-Manim
+INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/HarleyCoops/Math-To-Manim
+INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:170] 📥 [HN #10] Shift will clean homes for free to train future robots
+INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #10] URL: https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
+INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-30 04:07:36 [scraper.py:178] 🎉 [HN] All done.
+
