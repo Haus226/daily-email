@@ -30145,3 +30145,36 @@ INFO     2026-05-30 04:07:36 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-05-30 04:07:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-30 04:07:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-30 07:43:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-30 07:43:23 [scraper.py:170] 📥 [HN #1] SQLite is all you need for durable workflows
+INFO     2026-05-30 07:43:23 [scraper.py:171] 🔗 [HN #1] URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+INFO     2026-05-30 07:43:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-30 07:43:23 [scraper.py:170] 📥 [HN #2] Perry Compiles TypeScript directly to executables using SWC and LLVM
+INFO     2026-05-30 07:43:23 [scraper.py:171] 🔗 [HN #2] URL: https://www.perryts.com/
+INFO     2026-05-30 07:43:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-30 07:43:23 [scraper.py:170] 📥 [HN #3] Algebraic Effects for the Rest of Us
+INFO     2026-05-30 07:43:23 [scraper.py:171] 🔗 [HN #3] URL: https://overreacted.io/algebraic-effects-for-the-rest-of-us/
+INFO     2026-05-30 07:43:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #4] Snowboard Kids 2 is 100% Decompiled
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #4] URL: https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #5] Notes from the Mistral AI Now Summit
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #5] URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #6] MCP is dead?
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #6] URL: https://www.quandri.io/engineering-blog/mcp-is-dead
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #7] What It Takes to Preserve Floppy Disks
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #7] URL: https://spectrum.ieee.org/floppy-disk-data-preservation-archives
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #8] Naphtha shortages in Japan
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #8] URL: https://www.nippon.com/en/japan-data/h02783/
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-30 07:43:24 [scraper.py:170] 📥 [HN #9] Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer
+INFO     2026-05-30 07:43:24 [scraper.py:171] 🔗 [HN #9] URL: https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/
+INFO     2026-05-30 07:43:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-30 07:43:25 [scraper.py:170] 📥 [HN #10] A new register allocator for ZJIT
+INFO     2026-05-30 07:43:25 [scraper.py:171] 🔗 [HN #10] URL: https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/
+INFO     2026-05-30 07:43:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-30 07:43:25 [scraper.py:178] 🎉 [HN] All done.
+
