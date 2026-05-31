@@ -30211,3 +30211,36 @@ INFO     2026-05-30 11:20:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.qua
 INFO     2026-05-30 11:20:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-30 11:20:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-05-31 04:42:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-05-31 04:42:06 [scraper.py:170] 📥 [HN #1] Microsoft degrades functionality of perpetually-licensed offline products
+INFO     2026-05-31 04:42:06 [scraper.py:171] 🔗 [HN #1] URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+INFO     2026-05-31 04:42:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-05-31 04:42:06 [scraper.py:170] 📥 [HN #2] Domain expertise has always been the real moat
+INFO     2026-05-31 04:42:06 [scraper.py:171] 🔗 [HN #2] URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+INFO     2026-05-31 04:42:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-05-31 04:42:06 [scraper.py:170] 📥 [HN #3] A Gentle Introduction to Lattice-Based Cryptography [pdf]
+INFO     2026-05-31 04:42:06 [scraper.py:171] 🔗 [HN #3] URL: https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf
+INFO     2026-05-31 04:42:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-05-31 04:42:06 [scraper.py:170] 📥 [HN #4] Shantell Sans (2023)
+INFO     2026-05-31 04:42:06 [scraper.py:171] 🔗 [HN #4] URL: https://shantellsans.com/process
+INFO     2026-05-31 04:42:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-05-31 04:42:07 [scraper.py:170] 📥 [HN #5] Racket v9.2 is now available
+INFO     2026-05-31 04:42:07 [scraper.py:171] 🔗 [HN #5] URL: https://blog.racket-lang.org/2026/05/racket-v9-2.html
+INFO     2026-05-31 04:42:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-05-31 04:42:07 [scraper.py:170] 📥 [HN #6] I found a seashell in the middle of the desert
+INFO     2026-05-31 04:42:07 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert
+INFO     2026-05-31 04:42:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-05-31 04:42:07 [scraper.py:170] 📥 [HN #7] Accenture to acquire Ookla
+INFO     2026-05-31 04:42:07 [scraper.py:171] 🔗 [HN #7] URL: https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+INFO     2026-05-31 04:42:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-05-31 04:42:07 [scraper.py:170] 📥 [HN #8] The AV2 Video Standard Has Released (Final v1.0 Specification)
+INFO     2026-05-31 04:42:07 [scraper.py:171] 🔗 [HN #8] URL: https://av2.aomedia.org
+INFO     2026-05-31 04:42:07 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-05-31 04:42:07 [scraper.py:170] 📥 [HN #9] Jef Raskin, the Visionary Behind the Mac (2013)
+INFO     2026-05-31 04:42:07 [scraper.py:171] 🔗 [HN #9] URL: https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/
+INFO     2026-05-31 04:42:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-05-31 04:42:08 [scraper.py:170] 📥 [HN #10] Cheese Paper: a text editor specifically designed for writing
+INFO     2026-05-31 04:42:08 [scraper.py:171] 🔗 [HN #10] URL: https://brie.gay/cheese-paper/
+INFO     2026-05-31 04:42:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-05-31 04:42:08 [scraper.py:178] 🎉 [HN] All done.
+

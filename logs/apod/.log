@@ -4511,3 +4511,8 @@ INFO     2026-05-30 11:20:50 [scraper.py:47] 📥 [APOD] Title: Supermoon Versus
 INFO     2026-05-30 11:20:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg
 INFO     2026-05-30 11:20:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-05-31 04:42:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-05-31 04:42:06 [scraper.py:47] 📥 [APOD] Title: Eagle Nebula Pillars in Infrared from Hubble
+INFO     2026-05-31 04:42:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg
+INFO     2026-05-31 04:42:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
