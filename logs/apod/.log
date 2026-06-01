@@ -4536,3 +4536,8 @@ INFO     2026-06-01 10:26:21 [scraper.py:47] 📥 [APOD] Title: Saturn at Night
 INFO     2026-06-01 10:26:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg
 INFO     2026-06-01 10:26:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-01 15:56:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-01 15:56:54 [scraper.py:47] 📥 [APOD] Title: Saturn at Night
+INFO     2026-06-01 15:56:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg
+INFO     2026-06-01 15:56:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

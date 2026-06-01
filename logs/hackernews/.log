@@ -30376,3 +30376,36 @@ INFO     2026-06-01 10:26:23 [scraper.py:171] 🔗 [HN #10] URL: https://prismml
 INFO     2026-06-01 10:26:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-01 10:26:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-01 15:56:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-01 15:56:54 [scraper.py:170] 📥 [HN #1] NPM packages from Red Hat have been compromised
+INFO     2026-06-01 15:56:54 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/RedHatInsights/javascript-clients/issues/492
+INFO     2026-06-01 15:56:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-01 15:56:55 [scraper.py:170] 📥 [HN #2] CS336: Language Modeling from Scratch
+INFO     2026-06-01 15:56:55 [scraper.py:171] 🔗 [HN #2] URL: https://cs336.stanford.edu/
+INFO     2026-06-01 15:56:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-01 15:56:55 [scraper.py:170] 📥 [HN #3] Windows GOG DOS Games on M-Series Macs
+INFO     2026-06-01 15:56:55 [scraper.py:171] 🔗 [HN #3] URL: https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/
+INFO     2026-06-01 15:56:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-01 15:56:55 [scraper.py:170] 📥 [HN #4] Flipper Zero Zig Template
+INFO     2026-06-01 15:56:55 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/NishantJoshi00/flipper-template
+INFO     2026-06-01 15:56:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-01 15:56:55 [scraper.py:170] 📥 [HN #5] A 10 year old Xeon is all you need
+INFO     2026-06-01 15:56:55 [scraper.py:171] 🔗 [HN #5] URL: https://point.free/blog/gemma-4-on-a-2016-xeon/
+INFO     2026-06-01 15:56:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-01 15:56:55 [scraper.py:170] 📥 [HN #6] The Pirate Bay Remains Resilient, 20 Years After the Raid
+INFO     2026-06-01 15:56:55 [scraper.py:171] 🔗 [HN #6] URL: https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/
+INFO     2026-06-01 15:56:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-01 15:56:56 [scraper.py:170] 📥 [HN #7] Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity
+INFO     2026-06-01 15:56:56 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=48356312
+INFO     2026-06-01 15:56:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-01 15:56:56 [scraper.py:170] 📥 [HN #8] Sysadmining Like It's 2009
+INFO     2026-06-01 15:56:56 [scraper.py:171] 🔗 [HN #8] URL: https://lambdacreate.com/posts/sysadmining-like-its-2009
+INFO     2026-06-01 15:56:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-01 15:56:56 [scraper.py:170] 📥 [HN #9] The Dirt That Refused to Die
+INFO     2026-06-01 15:56:56 [scraper.py:171] 🔗 [HN #9] URL: https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
+INFO     2026-06-01 15:56:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-01 15:56:56 [scraper.py:170] 📥 [HN #10] Linux Basics for Hackers
+INFO     2026-06-01 15:56:56 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ahegazy0/linux-basics-for-hackers-notes
+INFO     2026-06-01 15:56:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-01 15:56:56 [scraper.py:178] 🎉 [HN] All done.
+
