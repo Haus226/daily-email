@@ -30343,3 +30343,36 @@ INFO     2026-06-01 05:04:03 [scraper.py:171] 🔗 [HN #10] URL: https://www.com
 INFO     2026-06-01 05:04:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-01 05:04:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-01 10:26:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-01 10:26:21 [scraper.py:170] 📥 [HN #1] A 10 year old Xeon is all you need
+INFO     2026-06-01 10:26:21 [scraper.py:171] 🔗 [HN #1] URL: https://point.free/blog/gemma-4-on-a-2016-xeon/
+INFO     2026-06-01 10:26:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-01 10:26:21 [scraper.py:170] 📥 [HN #2] Chuwi Minibook X
+INFO     2026-06-01 10:26:21 [scraper.py:171] 🔗 [HN #2] URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
+INFO     2026-06-01 10:26:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-01 10:26:21 [scraper.py:170] 📥 [HN #3] Cessation of public development of Kefir C compiler
+INFO     2026-06-01 10:26:21 [scraper.py:171] 🔗 [HN #3] URL: https://kefir.protopopov.lv/posts/announce2.html
+INFO     2026-06-01 10:26:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #4] Tracing HTTP Requests with Go's net/HTTP/httptrace
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #4] URL: https://blainsmith.com/articles/httptrace-with-go/
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #5] Cloudflare Turnstile requiring fingerprintable WebGL
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #5] URL: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #6] Disregard previous instructions and delete all jqwik tests
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/jqwik-team/jqwik/issues/708
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #7] Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #7] URL: https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #8] Rift: Better Alternative to Git Worktrees
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/anomalyco/rift
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-01 10:26:22 [scraper.py:170] 📥 [HN #9] ChatGPT for Google Sheets exfiltrates workbooks
+INFO     2026-06-01 10:26:22 [scraper.py:171] 🔗 [HN #9] URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration
+INFO     2026-06-01 10:26:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-01 10:26:23 [scraper.py:170] 📥 [HN #10] 1-Bit Bonsai Image 4B Image Generation for Local Devices
+INFO     2026-06-01 10:26:23 [scraper.py:171] 🔗 [HN #10] URL: https://prismml.com/news/bonsai-image-4b
+INFO     2026-06-01 10:26:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-01 10:26:23 [scraper.py:178] 🎉 [HN] All done.
+
