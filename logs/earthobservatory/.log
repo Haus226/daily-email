@@ -13169,3 +13169,24 @@ INFO     2026-05-31 11:40:54 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-05-31 11:40:54 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-01 05:03:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-01 05:04:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-01 05:04:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-01 05:04:01 [scraper.py:133] 📥 [EO] Title: Gravity Waves From Super Typhoon Sinlaku
+INFO     2026-06-01 05:04:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_airs_20260413_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-01 05:04:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-01 05:04:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-01 05:04:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-01 05:04:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-01 05:04:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-01 05:04:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-01 05:04:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-01 05:04:02 [scraper.py:133] 📥 [EO] Title: Gravity Waves From Super Typhoon Sinlaku
+INFO     2026-06-01 05:04:02 [scraper.py:133] 📥 [EO] Title: Gravity Waves From Super Typhoon Sinlaku
+INFO     2026-06-01 05:04:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_airs_20260413_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-01 05:04:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/gravity-waves-from-super-typhoon-sinlaku/sinlaku_gravitywaves_airs_20260413_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-01 05:04:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-01 05:04:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -30310,3 +30310,36 @@ INFO     2026-05-31 11:40:55 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-05-31 11:40:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-05-31 11:40:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-01 05:04:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-01 05:04:01 [scraper.py:170] 📥 [HN #1] Chuwi Minibook X
+INFO     2026-06-01 05:04:01 [scraper.py:171] 🔗 [HN #1] URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
+INFO     2026-06-01 05:04:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-01 05:04:01 [scraper.py:170] 📥 [HN #2] Cloudflare Turnstile requiring fingerprintable WebGL
+INFO     2026-06-01 05:04:01 [scraper.py:171] 🔗 [HN #2] URL: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting
+INFO     2026-06-01 05:04:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #3] Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #3] URL: https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #4] 1-Bit Bonsai Image 4B Image Generation for Local Devices
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #4] URL: https://prismml.com/news/bonsai-image-4b
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #5] Dav2d
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #5] URL: https://jbkempf.com/blog/2026/dav2d/
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #6] ChatGPT for Google Sheets exfiltrates workbooks
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #6] URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #7] United Airlines 767 returns to Newark after Bluetooth name sparks alert
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #7] URL: https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-01 05:04:02 [scraper.py:170] 📥 [HN #8] Meta launches Instagram, Facebook, and WhatsApp subscriptions
+INFO     2026-06-01 05:04:02 [scraper.py:171] 🔗 [HN #8] URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/
+INFO     2026-06-01 05:04:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-01 05:04:03 [scraper.py:170] 📥 [HN #9] New Beam Spring Keyboards
+INFO     2026-06-01 05:04:03 [scraper.py:171] 🔗 [HN #9] URL: https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/
+INFO     2026-06-01 05:04:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-01 05:04:03 [scraper.py:170] 📥 [HN #10] The four programming questions from my 1994 Microsoft internship interview (2023)
+INFO     2026-06-01 05:04:03 [scraper.py:171] 🔗 [HN #10] URL: https://www.computerenhance.com/p/the-four-programming-questions-from
+INFO     2026-06-01 05:04:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-01 05:04:03 [scraper.py:178] 🎉 [HN] All done.
+

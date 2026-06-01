@@ -4526,3 +4526,8 @@ INFO     2026-05-31 11:40:54 [scraper.py:47] 📥 [APOD] Title: Eagle Nebula Pil
 INFO     2026-05-31 11:40:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg
 INFO     2026-05-31 11:40:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-01 05:04:01 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-01 05:04:01 [scraper.py:47] 📥 [APOD] Title: Saturn at Night
+INFO     2026-06-01 05:04:01 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg
+INFO     2026-06-01 05:04:01 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
