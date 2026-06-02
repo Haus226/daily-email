@@ -13232,3 +13232,24 @@ INFO     2026-06-01 15:56:55 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-01 15:56:55 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-02 04:50:05 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-02 04:50:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-02 04:50:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-02 04:50:07 [scraper.py:133] 📥 [EO] Title: Fire’s Footprint on Santa Rosa Island
+INFO     2026-06-02 04:50:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-02 04:50:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-02 04:50:07 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-02 04:50:07 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-02 04:50:08 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-02 04:50:08 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-02 04:50:08 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-02 04:50:08 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-02 04:50:08 [scraper.py:133] 📥 [EO] Title: Fire’s Footprint on Santa Rosa Island
+INFO     2026-06-02 04:50:08 [scraper.py:133] 📥 [EO] Title: Fire’s Footprint on Santa Rosa Island
+INFO     2026-06-02 04:50:08 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-02 04:50:08 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-02 04:50:08 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-02 04:50:08 [scraper.py:154] ✅ [EO] Successfully fetched.
+
