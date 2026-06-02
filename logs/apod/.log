@@ -4551,3 +4551,8 @@ INFO     2026-06-02 09:13:21 [scraper.py:47] 📥 [APOD] Title: The Vela Superno
 INFO     2026-06-02 09:13:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg
 INFO     2026-06-02 09:13:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-02 14:03:52 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-02 14:03:53 [scraper.py:47] 📥 [APOD] Title: The Vela Supernova Remnant
+INFO     2026-06-02 14:03:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg
+INFO     2026-06-02 14:03:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

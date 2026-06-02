@@ -30475,3 +30475,36 @@ INFO     2026-06-02 09:13:22 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-02 09:13:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-02 09:13:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-02 14:03:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-02 14:03:53 [scraper.py:170] 📥 [HN #1] Why Janet? (2023)
+INFO     2026-06-02 14:03:53 [scraper.py:171] 🔗 [HN #1] URL: https://ianthehenry.com/posts/why-janet/
+INFO     2026-06-02 14:03:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-02 14:03:53 [scraper.py:170] 📥 [HN #2] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai
+INFO     2026-06-02 14:03:53 [scraper.py:171] 🔗 [HN #2] URL: https://blog.adafruit.com/
+INFO     2026-06-02 14:03:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-02 14:03:53 [scraper.py:170] 📥 [HN #3] Apple rejected my dictation app for using the accessibility API
+INFO     2026-06-02 14:03:53 [scraper.py:171] 🔗 [HN #3] URL: https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/
+INFO     2026-06-02 14:03:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #4] CSS-Native Parallax Effect
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #4] URL: https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #5] Expanding Project Glasswing
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #5] URL: https://www.anthropic.com/news/expanding-project-glasswing
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #6] The newest Instagram “exploit” is the goofiest I've seen
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #6] URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #7] You Don't Love Systemd Timers Enough
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #7] URL: https://blog.tjll.net/you-dont-love-systemd-timers-enough/
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #8] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #8] URL: https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-02 14:03:54 [scraper.py:170] 📥 [HN #9] Muxcard, a dyi credit card size computer
+INFO     2026-06-02 14:03:54 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/krauseler/muxcard
+INFO     2026-06-02 14:03:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-02 14:03:55 [scraper.py:170] 📥 [HN #10] Great Question (YC W21) Is Hiring Applied AI Interns
+INFO     2026-06-02 14:03:55 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern
+INFO     2026-06-02 14:03:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-02 14:03:55 [scraper.py:178] 🎉 [HN] All done.
+
