@@ -30574,3 +30574,36 @@ INFO     2026-06-03 09:58:07 [scraper.py:171] 🔗 [HN #10] URL: https://www.sci
 INFO     2026-06-03 09:58:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-03 09:58:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-03 14:40:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-03 14:40:20 [scraper.py:170] 📥 [HN #1] Hacking your PC using your speaker without ever touching it
+INFO     2026-06-03 14:40:20 [scraper.py:171] 🔗 [HN #1] URL: https://blog.nns.ee/2026/06/03/katana-badusb/
+INFO     2026-06-03 14:40:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-03 14:40:20 [scraper.py:170] 📥 [HN #2] Meta workers can opt out of being tracked at work up to 30 min
+INFO     2026-06-03 14:40:20 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/news/articles/c93x0k194yno
+INFO     2026-06-03 14:40:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-03 14:40:20 [scraper.py:170] 📥 [HN #3] Every Byte Matters
+INFO     2026-06-03 14:40:20 [scraper.py:171] 🔗 [HN #3] URL: https://fzakaria.com/2026/06/01/every-byte-matters
+INFO     2026-06-03 14:40:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-03 14:40:20 [scraper.py:170] 📥 [HN #4] PlayStation Architecture
+INFO     2026-06-03 14:40:20 [scraper.py:171] 🔗 [HN #4] URL: https://www.copetti.org/writings/consoles/playstation/
+INFO     2026-06-03 14:40:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-03 14:40:21 [scraper.py:170] 📥 [HN #5] Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)
+INFO     2026-06-03 14:40:21 [scraper.py:171] 🔗 [HN #5] URL: https://dl.acm.org/doi/pdf/10.1145/1995966.1996008
+INFO     2026-06-03 14:40:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-03 14:40:21 [scraper.py:170] 📥 [HN #6] 1-Click GitHub Token Stealing via a VSCode Bug
+INFO     2026-06-03 14:40:21 [scraper.py:171] 🔗 [HN #6] URL: https://blog.ammaraskar.com/github-token-stealing/
+INFO     2026-06-03 14:40:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-03 14:40:21 [scraper.py:170] 📥 [HN #7] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2
+INFO     2026-06-03 14:40:21 [scraper.py:171] 🔗 [HN #7] URL: https://handwritten.danieljanus.pl/2026-06-01-edsger.html
+INFO     2026-06-03 14:40:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-03 14:40:21 [scraper.py:170] 📥 [HN #8] I built a ceiling projection mapping of the planes flying over my house
+INFO     2026-06-03 14:40:21 [scraper.py:171] 🔗 [HN #8] URL: https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/
+INFO     2026-06-03 14:40:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-03 14:40:21 [scraper.py:170] 📥 [HN #9] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)
+INFO     2026-06-03 14:40:21 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/s-macke/Test-Drive-3-Maps
+INFO     2026-06-03 14:40:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-03 14:40:22 [scraper.py:170] 📥 [HN #10] Use your Nvidia GPU's VRAM as swap space on Linux
+INFO     2026-06-03 14:40:22 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/c0dejedi/nbd-vram
+INFO     2026-06-03 14:40:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-03 14:40:22 [scraper.py:178] 🎉 [HN] All done.
+

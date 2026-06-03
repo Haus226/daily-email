@@ -4566,3 +4566,8 @@ INFO     2026-06-03 09:58:05 [scraper.py:47] 📥 [APOD] Title: Andromeda Throug
 INFO     2026-06-03 09:58:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/andromeda_1024.png
 INFO     2026-06-03 09:58:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-03 14:40:20 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-03 14:40:20 [scraper.py:47] 📥 [APOD] Title: Andromeda Through Gas and Dust
+INFO     2026-06-03 14:40:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/andromeda_1024.png
+INFO     2026-06-03 14:40:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
