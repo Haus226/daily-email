@@ -30541,3 +30541,36 @@ INFO     2026-06-03 05:01:11 [scraper.py:171] 🔗 [HN #10] URL: https://moddedb
 INFO     2026-06-03 05:01:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-03 05:01:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-03 09:58:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-03 09:58:05 [scraper.py:170] 📥 [HN #1] 1-Click GitHub Token Stealing via a VSCode Bug
+INFO     2026-06-03 09:58:05 [scraper.py:171] 🔗 [HN #1] URL: https://blog.ammaraskar.com/github-token-stealing/
+INFO     2026-06-03 09:58:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-03 09:58:05 [scraper.py:170] 📥 [HN #2] Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2
+INFO     2026-06-03 09:58:05 [scraper.py:171] 🔗 [HN #2] URL: https://handwritten.danieljanus.pl/2026-06-01-edsger.html
+INFO     2026-06-03 09:58:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-03 09:58:06 [scraper.py:170] 📥 [HN #3] Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)
+INFO     2026-06-03 09:58:06 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/s-macke/Test-Drive-3-Maps
+INFO     2026-06-03 09:58:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-03 09:58:06 [scraper.py:170] 📥 [HN #4] Use your Nvidia GPU's VRAM as swap space on Linux
+INFO     2026-06-03 09:58:06 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/c0dejedi/nbd-vram
+INFO     2026-06-03 09:58:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-03 09:58:06 [scraper.py:170] 📥 [HN #5] AI outperforms law professors in Stanford Law study
+INFO     2026-06-03 09:58:06 [scraper.py:171] 🔗 [HN #5] URL: https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
+INFO     2026-06-03 09:58:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-03 09:58:06 [scraper.py:170] 📥 [HN #6] The Unreasonable Redundancy of Nature's Protein Folds
+INFO     2026-06-03 09:58:06 [scraper.py:171] 🔗 [HN #6] URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/
+INFO     2026-06-03 09:58:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-03 09:58:07 [scraper.py:170] 📥 [HN #7] MAI-Code-1-Flash
+INFO     2026-06-03 09:58:07 [scraper.py:171] 🔗 [HN #7] URL: https://microsoft.ai/news/introducingmai-code-1-flash/
+INFO     2026-06-03 09:58:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-03 09:58:07 [scraper.py:170] 📥 [HN #8] It is an amazing time for programmers
+INFO     2026-06-03 09:58:07 [scraper.py:171] 🔗 [HN #8] URL: https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers
+INFO     2026-06-03 09:58:07 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-03 09:58:07 [scraper.py:170] 📥 [HN #9] CT scans of BYD car parts
+INFO     2026-06-03 09:58:07 [scraper.py:171] 🔗 [HN #9] URL: https://www.lumafield.com/scan-of-the-month/byd
+INFO     2026-06-03 09:58:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-03 09:58:07 [scraper.py:170] 📥 [HN #10] Microsoft Doubles Down on Controversial Quantum Computing Claims
+INFO     2026-06-03 09:58:07 [scraper.py:171] 🔗 [HN #10] URL: https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans
+INFO     2026-06-03 09:58:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-03 09:58:07 [scraper.py:178] 🎉 [HN] All done.
+
