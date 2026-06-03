@@ -30508,3 +30508,36 @@ INFO     2026-06-02 14:03:55 [scraper.py:171] 🔗 [HN #10] URL: https://www.yco
 INFO     2026-06-02 14:03:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-02 14:03:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-03 05:01:07 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-03 05:01:09 [scraper.py:170] 📥 [HN #1] 1-Click GitHub Token Stealing via a VSCode Bug
+INFO     2026-06-03 05:01:09 [scraper.py:171] 🔗 [HN #1] URL: https://blog.ammaraskar.com/github-token-stealing/
+INFO     2026-06-03 05:01:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-03 05:01:09 [scraper.py:170] 📥 [HN #2] The American Missile Crisis
+INFO     2026-06-03 05:01:09 [scraper.py:171] 🔗 [HN #2] URL: https://research.contrary.com/report/the-american-missile-crisis
+INFO     2026-06-03 05:01:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-03 05:01:09 [scraper.py:170] 📥 [HN #3] Use your Nvidia GPU's VRAM as swap space on Linux
+INFO     2026-06-03 05:01:09 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/c0dejedi/nbd-vram
+INFO     2026-06-03 05:01:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-03 05:01:10 [scraper.py:170] 📥 [HN #4] MAI-Code-1-Flash
+INFO     2026-06-03 05:01:10 [scraper.py:171] 🔗 [HN #4] URL: https://microsoft.ai/news/introducingmai-code-1-flash/
+INFO     2026-06-03 05:01:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-03 05:01:10 [scraper.py:170] 📥 [HN #5] Agentic Mfw
+INFO     2026-06-03 05:01:10 [scraper.py:171] 🔗 [HN #5] URL: https://agenticmotherfucking.website
+INFO     2026-06-03 05:01:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-03 05:01:10 [scraper.py:170] 📥 [HN #6] CT scans of BYD car parts
+INFO     2026-06-03 05:01:10 [scraper.py:171] 🔗 [HN #6] URL: https://www.lumafield.com/scan-of-the-month/byd
+INFO     2026-06-03 05:01:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-03 05:01:10 [scraper.py:170] 📥 [HN #7] Roku LT Operating System open source distribution
+INFO     2026-06-03 05:01:10 [scraper.py:171] 🔗 [HN #7] URL: https://blog.roku.com/developer/roku-lt-os
+INFO     2026-06-03 05:01:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-03 05:01:11 [scraper.py:170] 📥 [HN #8] The Unreasonable Redundancy of Nature's Protein Folds
+INFO     2026-06-03 05:01:11 [scraper.py:171] 🔗 [HN #8] URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/
+INFO     2026-06-03 05:01:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-03 05:01:11 [scraper.py:170] 📥 [HN #9] Capstone – multi-platform, multi-architecture disassembly framework
+INFO     2026-06-03 05:01:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.capstone-engine.org/
+INFO     2026-06-03 05:01:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-03 05:01:11 [scraper.py:170] 📥 [HN #10] Gmail thinks I'm stupid, so I left
+INFO     2026-06-03 05:01:11 [scraper.py:171] 🔗 [HN #10] URL: https://moddedbear.com/gmail-thinks-im-stupid-so-i-left
+INFO     2026-06-03 05:01:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-03 05:01:11 [scraper.py:178] 🎉 [HN] All done.
+
