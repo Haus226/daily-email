@@ -30673,3 +30673,36 @@ INFO     2026-06-04 08:53:58 [scraper.py:171] 🔗 [HN #10] URL: https://simonwi
 INFO     2026-06-04 08:53:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-04 08:53:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-04 12:44:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-04 12:44:28 [scraper.py:170] 📥 [HN #1] UK media fails to disclose defence sector links in nearly 60% of cases
+INFO     2026-06-04 12:44:28 [scraper.py:171] 🔗 [HN #1] URL: https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/
+INFO     2026-06-04 12:44:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-04 12:44:28 [scraper.py:170] 📥 [HN #2] Gaussian Point Splatting
+INFO     2026-06-04 12:44:28 [scraper.py:171] 🔗 [HN #2] URL: https://momentsingraphics.de/Siggraph2026.html
+INFO     2026-06-04 12:44:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-04 12:44:29 [scraper.py:170] 📥 [HN #3] They’re made out of weights
+INFO     2026-06-04 12:44:29 [scraper.py:171] 🔗 [HN #3] URL: https://maxleiter.com/blog/weights
+INFO     2026-06-04 12:44:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-04 12:44:29 [scraper.py:170] 📥 [HN #4] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes
+INFO     2026-06-04 12:44:29 [scraper.py:171] 🔗 [HN #4] URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
+INFO     2026-06-04 12:44:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-04 12:44:29 [scraper.py:170] 📥 [HN #5] Elixir v1.20: Now a gradually typed language
+INFO     2026-06-04 12:44:29 [scraper.py:171] 🔗 [HN #5] URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+INFO     2026-06-04 12:44:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-04 12:44:29 [scraper.py:170] 📥 [HN #6] U.S. Army Corps of Engineers Bay Model
+INFO     2026-06-04 12:44:29 [scraper.py:171] 🔗 [HN #6] URL: https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model
+INFO     2026-06-04 12:44:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-04 12:44:30 [scraper.py:170] 📥 [HN #7] AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools
+INFO     2026-06-04 12:44:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus
+INFO     2026-06-04 12:44:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-04 12:44:30 [scraper.py:170] 📥 [HN #8] Kiki – a tiny homepage construction kit with a small footprint
+INFO     2026-06-04 12:44:30 [scraper.py:171] 🔗 [HN #8] URL: https://tomotama.com/kiki
+INFO     2026-06-04 12:44:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-04 12:44:30 [scraper.py:170] 📥 [HN #9] Gemma 4 12B: A unified, encoder-free multimodal model
+INFO     2026-06-04 12:44:30 [scraper.py:171] 🔗 [HN #9] URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+INFO     2026-06-04 12:44:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-04 12:44:30 [scraper.py:170] 📥 [HN #10] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites
+INFO     2026-06-04 12:44:30 [scraper.py:171] 🔗 [HN #10] URL: https://uruky.com/?il=en
+INFO     2026-06-04 12:44:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-04 12:44:30 [scraper.py:178] 🎉 [HN] All done.
+
