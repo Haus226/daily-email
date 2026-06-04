@@ -4613,3 +4613,8 @@ INFO     2026-06-03 14:40:20 [scraper.py:390] 📥 [TAROT] Card: Ten of Wands
 INFO     2026-06-03 14:40:20 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-06-03 14:40:20 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-06-04 04:53:37 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-06-04 04:53:37 [scraper.py:390] 📥 [TAROT] Card: Six of Cups
+INFO     2026-06-04 04:53:37 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-06-04 04:53:37 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
