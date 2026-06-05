@@ -30706,3 +30706,36 @@ INFO     2026-06-04 12:44:30 [scraper.py:171] 🔗 [HN #10] URL: https://uruky.c
 INFO     2026-06-04 12:44:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-04 12:44:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-05 04:37:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-05 04:37:51 [scraper.py:170] 📥 [HN #1] Meta enables ADB on deprecated Portal devices [video]
+INFO     2026-06-05 04:37:51 [scraper.py:171] 🔗 [HN #1] URL: https://fb.watch/HxPu0fSyeH/
+INFO     2026-06-05 04:37:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-05 04:37:51 [scraper.py:170] 📥 [HN #2] Azure Linux 4.0 is Microsoft's first general-purpose Linux
+INFO     2026-06-05 04:37:51 [scraper.py:171] 🔗 [HN #2] URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/
+INFO     2026-06-05 04:37:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-05 04:37:51 [scraper.py:170] 📥 [HN #3] Anthropic's open-source framework for AI-powered vulnerability discovery
+INFO     2026-06-05 04:37:51 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/anthropics/defending-code-reference-harness
+INFO     2026-06-05 04:37:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #4] Do transformers need three projections? Systematic study of QKV variants
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #4] URL: https://arxiv.org/abs/2606.04032
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #5] Open Code Review – An AI-powered code review CLI tool
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/alibaba/open-code-review
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #6] VoidZero Is Joining Cloudflare
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #6] URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #7] I'm skeptical about efforts to revolutionize schooling
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #7] URL: https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #8] The Causes of Long Covid
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/content/blog-post/causes-long-covid
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-05 04:37:52 [scraper.py:170] 📥 [HN #9] What happens if Japan takes in zero immigrants?
+INFO     2026-06-05 04:37:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero
+INFO     2026-06-05 04:37:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-05 04:37:53 [scraper.py:170] 📥 [HN #10] Branchless Quicksort faster than std:sort and pdqsort with C and C++ API
+INFO     2026-06-05 04:37:53 [scraper.py:171] 🔗 [HN #10] URL: https://tiki.li/blog/blqsort
+INFO     2026-06-05 04:37:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-05 04:37:53 [scraper.py:178] 🎉 [HN] All done.
+

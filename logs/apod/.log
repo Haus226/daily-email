@@ -4586,3 +4586,8 @@ INFO     2026-06-04 12:44:28 [scraper.py:47] 📥 [APOD] Title: A Planetary Nebu
 INFO     2026-06-04 12:44:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg
 INFO     2026-06-04 12:44:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-05 04:37:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-05 04:37:51 [scraper.py:47] 📥 [APOD] Title: The Hydra Cluster of Galaxies
+INFO     2026-06-05 04:37:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg
+INFO     2026-06-05 04:37:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
