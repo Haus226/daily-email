@@ -30772,3 +30772,36 @@ INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-05 08:47:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-05 12:38:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-05 12:38:42 [scraper.py:170] 📥 [HN #1] US tobacco firms applied tobacco strategies to globalize ultra-processed foods
+INFO     2026-06-05 12:38:42 [scraper.py:171] 🔗 [HN #1] URL: https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501
+INFO     2026-06-05 12:38:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-05 12:38:42 [scraper.py:170] 📥 [HN #2] Tracing a powerful GNSS interference source over Europe
+INFO     2026-06-05 12:38:42 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2606.03673
+INFO     2026-06-05 12:38:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-05 12:38:42 [scraper.py:170] 📥 [HN #3] Redis 8.8: New array data structure, rate limiter, performance improvements
+INFO     2026-06-05 12:38:42 [scraper.py:171] 🔗 [HN #3] URL: https://redis.io/blog/announcing-redis-8-8/
+INFO     2026-06-05 12:38:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-05 12:38:42 [scraper.py:170] 📥 [HN #4] Changing How We Develop Ladybird
+INFO     2026-06-05 12:38:42 [scraper.py:171] 🔗 [HN #4] URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/
+INFO     2026-06-05 12:38:42 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #5] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #5] URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #6] databow: a Rust CLI to query any database with an ADBC driver
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #6] URL: https://columnar.tech/blog/introducing-databow//
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #7] Nango (YC W23, dev infra) is hiring staff back end engineers
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #7] URL: https://nango.dev/careers
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #8] We spent $50 to measure Pearl's "AI mining" – 320K GPUs produce zero AI
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2606.04819
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #9] Fine-tuning an LLM to write docs like it's 1995
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #9] URL: https://passo.uno/fine-tuning-docs-llm/
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:170] 📥 [HN #10] Meta enables ADB on deprecated Portal devices [video]
+INFO     2026-06-05 12:38:43 [scraper.py:171] 🔗 [HN #10] URL: https://fb.watch/HxPu0fSyeH/
+INFO     2026-06-05 12:38:43 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-05 12:38:43 [scraper.py:178] 🎉 [HN] All done.
+
