@@ -30739,3 +30739,36 @@ INFO     2026-06-05 04:37:53 [scraper.py:171] 🔗 [HN #10] URL: https://tiki.li
 INFO     2026-06-05 04:37:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-05 04:37:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-05 08:47:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-05 08:47:08 [scraper.py:170] 📥 [HN #1] Changing How We Develop Ladybird
+INFO     2026-06-05 08:47:08 [scraper.py:171] 🔗 [HN #1] URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/
+INFO     2026-06-05 08:47:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-05 08:47:09 [scraper.py:170] 📥 [HN #2] C++: The Documentary
+INFO     2026-06-05 08:47:09 [scraper.py:171] 🔗 [HN #2] URL: https://herbsutter.com/2026/06/04/c-the-documentary-released-today/
+INFO     2026-06-05 08:47:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-05 08:47:09 [scraper.py:170] 📥 [HN #3] Meta enables ADB on deprecated Portal devices [video]
+INFO     2026-06-05 08:47:09 [scraper.py:171] 🔗 [HN #3] URL: https://fb.watch/HxPu0fSyeH/
+INFO     2026-06-05 08:47:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-05 08:47:09 [scraper.py:170] 📥 [HN #4] Fine-tuning an LLM to write docs like it's 1995
+INFO     2026-06-05 08:47:09 [scraper.py:171] 🔗 [HN #4] URL: https://passo.uno/fine-tuning-docs-llm/
+INFO     2026-06-05 08:47:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #5] Leap in DNA synthesis slashes time to build new genetic sequences
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #5] URL: https://spectrum.ieee.org/faster-dna-synthesis-sidewinder
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #6] The IsUpMap lets you check the status of over 100 major sites at once
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #6] URL: https://isupmap.com/
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #7] Anthropic's open-source framework for AI-powered vulnerability discovery
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/anthropics/defending-code-reference-harness
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #8] Do transformers need three projections? Systematic study of QKV variants
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2606.04032
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #9] Open Code Review – An AI-powered code review CLI tool
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/alibaba/open-code-review
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:170] 📥 [HN #10] ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol
+INFO     2026-06-05 08:47:10 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/geo-tp/ESP32-Bit-Pirate
+INFO     2026-06-05 08:47:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-05 08:47:10 [scraper.py:178] 🎉 [HN] All done.
+
