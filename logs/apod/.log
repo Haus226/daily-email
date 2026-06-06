@@ -4601,3 +4601,8 @@ INFO     2026-06-05 12:38:42 [scraper.py:47] 📥 [APOD] Title: The Hydra Cluste
 INFO     2026-06-05 12:38:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg
 INFO     2026-06-05 12:38:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-06 04:11:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-06 04:11:15 [scraper.py:47] 📥 [APOD] Title: Charon: Moon of Pluto
+INFO     2026-06-06 04:11:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg
+INFO     2026-06-06 04:11:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

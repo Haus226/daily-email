@@ -13484,3 +13484,24 @@ INFO     2026-06-05 12:38:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-05 12:38:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-06 04:11:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-06 04:11:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-06 04:11:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-06 04:11:14 [scraper.py:133] 📥 [EO] Title: Fighting Fire With Fire
+INFO     2026-06-06 04:11:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-06 04:11:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-06 04:11:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-06 04:11:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-06 04:11:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-06 04:11:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-06 04:11:16 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-06 04:11:16 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-06 04:11:16 [scraper.py:133] 📥 [EO] Title: Fighting Fire With Fire
+INFO     2026-06-06 04:11:16 [scraper.py:133] 📥 [EO] Title: Fighting Fire With Fire
+INFO     2026-06-06 04:11:16 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-06 04:11:16 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-06 04:11:16 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-06 04:11:16 [scraper.py:154] ✅ [EO] Successfully fetched.
+
