@@ -30871,3 +30871,36 @@ INFO     2026-06-06 07:48:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.aut
 INFO     2026-06-06 07:48:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-06 07:48:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-06 11:27:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-06 11:27:13 [scraper.py:170] 📥 [HN #1] GrapheneOS user reported to authorities for using GrapheneOS
+INFO     2026-06-06 11:27:13 [scraper.py:171] 🔗 [HN #1] URL: https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos
+INFO     2026-06-06 11:27:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-06 11:27:13 [scraper.py:170] 📥 [HN #2] Zig Zen Update
+INFO     2026-06-06 11:27:13 [scraper.py:171] 🔗 [HN #2] URL: https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2
+INFO     2026-06-06 11:27:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-06 11:27:13 [scraper.py:170] 📥 [HN #3] How LLMs work
+INFO     2026-06-06 11:27:13 [scraper.py:171] 🔗 [HN #3] URL: https://www.0xkato.xyz/how-llms-actually-work/
+INFO     2026-06-06 11:27:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-06 11:27:13 [scraper.py:170] 📥 [HN #4] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic
+INFO     2026-06-06 11:27:13 [scraper.py:171] 🔗 [HN #4] URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
+INFO     2026-06-06 11:27:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-06 11:27:13 [scraper.py:170] 📥 [HN #5] The intracies of modern camera lens repair (2024)
+INFO     2026-06-06 11:27:13 [scraper.py:171] 🔗 [HN #5] URL: https://salvagedcircuitry.com/sigma-45mm.html
+INFO     2026-06-06 11:27:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:170] 📥 [HN #6] Pre-Modern Armies for Worldbuilders, Part I: Why They Fight
+INFO     2026-06-06 11:27:14 [scraper.py:171] 🔗 [HN #6] URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/
+INFO     2026-06-06 11:27:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:170] 📥 [HN #7] New method turns ocean water into drinking water, without waste
+INFO     2026-06-06 11:27:14 [scraper.py:171] 🔗 [HN #7] URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
+INFO     2026-06-06 11:27:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:170] 📥 [HN #8] Astronauts told to return to ISS after sheltering over air leak repairs
+INFO     2026-06-06 11:27:14 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/news/live/c4g44ew3g1kt
+INFO     2026-06-06 11:27:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:170] 📥 [HN #9] Social Cache Busting
+INFO     2026-06-06 11:27:14 [scraper.py:171] 🔗 [HN #9] URL: https://www.autodidacts.io/social-cache-busting/
+INFO     2026-06-06 11:27:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:170] 📥 [HN #10] Ask HN: What was your "oh shit" moment with GenAI?
+INFO     2026-06-06 11:27:14 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=48406174
+INFO     2026-06-06 11:27:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-06 11:27:14 [scraper.py:178] 🎉 [HN] All done.
+
