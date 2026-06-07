@@ -4626,3 +4626,8 @@ INFO     2026-06-07 08:26:13 [scraper.py:47] 📥 [APOD] Title: Jupiter and Venu
 INFO     2026-06-07 08:26:13 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg
 INFO     2026-06-07 08:26:13 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-07 11:48:25 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-07 11:48:25 [scraper.py:47] 📥 [APOD] Title: Jupiter and Venus from Earth
+INFO     2026-06-07 11:48:25 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg
+INFO     2026-06-07 11:48:25 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

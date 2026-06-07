@@ -30970,3 +30970,36 @@ INFO     2026-06-07 08:26:15 [scraper.py:171] 🔗 [HN #10] URL: https://pdimage
 INFO     2026-06-07 08:26:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-07 08:26:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-07 11:48:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-07 11:48:25 [scraper.py:170] 📥 [HN #1] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
+INFO     2026-06-07 11:48:25 [scraper.py:171] 🔗 [HN #1] URL: https://www.ioccc.org/2025/
+INFO     2026-06-07 11:48:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-07 11:48:26 [scraper.py:170] 📥 [HN #2] Speculative KV coding: losslessly compressing KV cache by up to ~4×
+INFO     2026-06-07 11:48:26 [scraper.py:171] 🔗 [HN #2] URL: https://fergusfinn.com/blog/kv-entropy-coder/
+INFO     2026-06-07 11:48:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-07 11:48:26 [scraper.py:170] 📥 [HN #3] Scientists ejected from diabetes conference for distributing journal reprints
+INFO     2026-06-07 11:48:26 [scraper.py:171] 🔗 [HN #3] URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/
+INFO     2026-06-07 11:48:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-07 11:48:26 [scraper.py:170] 📥 [HN #4] Win16 Memory Management
+INFO     2026-06-07 11:48:26 [scraper.py:171] 🔗 [HN #4] URL: http://www.os2museum.com/wp/win16-memory-management/
+INFO     2026-06-07 11:48:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-07 11:48:26 [scraper.py:170] 📥 [HN #5] Valve P2P networking broken for more than 2 months
+INFO     2026-06-07 11:48:26 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
+INFO     2026-06-07 11:48:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:170] 📥 [HN #6] Field of clones: How horse replicas came to dominate polo
+INFO     2026-06-07 11:48:27 [scraper.py:171] 🔗 [HN #6] URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
+INFO     2026-06-07 11:48:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:170] 📥 [HN #7] My Software North Star
+INFO     2026-06-07 11:48:27 [scraper.py:171] 🔗 [HN #7] URL: https://kristoff.it/blog/north-star/
+INFO     2026-06-07 11:48:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:170] 📥 [HN #8] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
+INFO     2026-06-07 11:48:27 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2601.14470
+INFO     2026-06-07 11:48:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:170] 📥 [HN #9] Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+INFO     2026-06-07 11:48:27 [scraper.py:171] 🔗 [HN #9] URL: https://ntsc.rs/
+INFO     2026-06-07 11:48:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:170] 📥 [HN #10] Harness engineering: Leveraging Codex in an agent-first world
+INFO     2026-06-07 11:48:27 [scraper.py:171] 🔗 [HN #10] URL: https://openai.com/index/harness-engineering/
+INFO     2026-06-07 11:48:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-07 11:48:27 [scraper.py:178] 🎉 [HN] All done.
+
