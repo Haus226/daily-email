@@ -30937,3 +30937,36 @@ INFO     2026-06-07 04:47:10 [scraper.py:171] 🔗 [HN #10] URL: https://symboli
 INFO     2026-06-07 04:47:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-07 04:47:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-07 08:26:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-07 08:26:13 [scraper.py:170] 📥 [HN #1] The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
+INFO     2026-06-07 08:26:13 [scraper.py:171] 🔗 [HN #1] URL: https://www.ioccc.org/2025/
+INFO     2026-06-07 08:26:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-07 08:26:13 [scraper.py:170] 📥 [HN #2] I design with Claude more than Figma now
+INFO     2026-06-07 08:26:13 [scraper.py:171] 🔗 [HN #2] URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
+INFO     2026-06-07 08:26:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-07 08:26:14 [scraper.py:170] 📥 [HN #3] Valve P2P networking broken for more than 2 months
+INFO     2026-06-07 08:26:14 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
+INFO     2026-06-07 08:26:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-07 08:26:14 [scraper.py:170] 📥 [HN #4] Field of clones: How horse replicas came to dominate polo
+INFO     2026-06-07 08:26:14 [scraper.py:171] 🔗 [HN #4] URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
+INFO     2026-06-07 08:26:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-07 08:26:14 [scraper.py:170] 📥 [HN #5] My Software North Star
+INFO     2026-06-07 08:26:14 [scraper.py:171] 🔗 [HN #5] URL: https://kristoff.it/blog/north-star/
+INFO     2026-06-07 08:26:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-07 08:26:14 [scraper.py:170] 📥 [HN #6] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
+INFO     2026-06-07 08:26:14 [scraper.py:171] 🔗 [HN #6] URL: https://arxiv.org/abs/2601.14470
+INFO     2026-06-07 08:26:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-07 08:26:15 [scraper.py:170] 📥 [HN #7] Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+INFO     2026-06-07 08:26:15 [scraper.py:171] 🔗 [HN #7] URL: https://ntsc.rs/
+INFO     2026-06-07 08:26:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-07 08:26:15 [scraper.py:170] 📥 [HN #8] Harness engineering: Leveraging Codex in an agent-first world
+INFO     2026-06-07 08:26:15 [scraper.py:171] 🔗 [HN #8] URL: https://openai.com/index/harness-engineering/
+INFO     2026-06-07 08:26:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-07 08:26:15 [scraper.py:170] 📥 [HN #9] Symbolica 2.0: Programmable Symbols for Python and Rust
+INFO     2026-06-07 08:26:15 [scraper.py:171] 🔗 [HN #9] URL: https://symbolica.io/posts/symbolica_2_0_release/
+INFO     2026-06-07 08:26:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-07 08:26:15 [scraper.py:170] 📥 [HN #10] Public Domain Image Archive
+INFO     2026-06-07 08:26:15 [scraper.py:171] 🔗 [HN #10] URL: https://pdimagearchive.org/
+INFO     2026-06-07 08:26:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-07 08:26:15 [scraper.py:178] 🎉 [HN] All done.
+
