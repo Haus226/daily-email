@@ -31069,3 +31069,36 @@ INFO     2026-06-08 09:26:37 [scraper.py:171] 🔗 [HN #10] URL: https://runtime
 INFO     2026-06-08 09:26:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-08 09:26:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-08 14:07:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-08 14:07:09 [scraper.py:170] 📥 [HN #1] Zig by Example
+INFO     2026-06-08 14:07:09 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/boringcollege/zig-by-example
+INFO     2026-06-08 14:07:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-08 14:07:09 [scraper.py:170] 📥 [HN #2] Anti-social: It's fads, not friends, which now dominate social media feeds
+INFO     2026-06-08 14:07:09 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
+INFO     2026-06-08 14:07:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-08 14:07:09 [scraper.py:170] 📥 [HN #3] Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code
+INFO     2026-06-08 14:07:09 [scraper.py:171] 🔗 [HN #3] URL: https://intunedhq.com
+INFO     2026-06-08 14:07:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-08 14:07:09 [scraper.py:170] 📥 [HN #4] Spanish traders set the standard forGnuCash database design
+INFO     2026-06-08 14:07:09 [scraper.py:171] 🔗 [HN #4] URL: https://handson.money/blog/2026-06-06-horse-arse-and-design/
+INFO     2026-06-08 14:07:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-08 14:07:09 [scraper.py:170] 📥 [HN #5] The Cypherpunk Library
+INFO     2026-06-08 14:07:09 [scraper.py:171] 🔗 [HN #5] URL: https://www.cypherpunkbooks.com
+INFO     2026-06-08 14:07:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:170] 📥 [HN #6] How much of Thermo Fisher's antibody data has been manipulated?
+INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #6] URL: https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/
+INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:170] 📥 [HN #7] Zig Structs of Arrays (2024)
+INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #7] URL: https://andreashohmann.com/zig-struct-of-arrays/
+INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:170] 📥 [HN #8] Dopamine Fracking
+INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #8] URL: https://igerman.cc/blog/dopamine-fracking/
+INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:170] 📥 [HN #9] 1k Data Breaches Later, the Disclosure Lag Is Worse
+INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #9] URL: https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:170] 📥 [HN #10] Building from zero after addiction, prison, and a felony
+INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #10] URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-08 14:07:10 [scraper.py:178] 🎉 [HN] All done.
+
