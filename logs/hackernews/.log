@@ -31036,3 +31036,36 @@ INFO     2026-06-08 04:52:03 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-08 04:52:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-08 04:52:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-08 09:26:35 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-08 09:26:35 [scraper.py:170] 📥 [HN #1] The Cypherpunk Library
+INFO     2026-06-08 09:26:35 [scraper.py:171] 🔗 [HN #1] URL: https://www.cypherpunkbooks.com
+INFO     2026-06-08 09:26:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-08 09:26:35 [scraper.py:170] 📥 [HN #2] Dopamine Fracking
+INFO     2026-06-08 09:26:35 [scraper.py:171] 🔗 [HN #2] URL: https://igerman.cc/blog/dopamine-fracking/
+INFO     2026-06-08 09:26:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-08 09:26:35 [scraper.py:170] 📥 [HN #3] 1k Data Breaches Later, the Disclosure Lag Is Worse
+INFO     2026-06-08 09:26:35 [scraper.py:171] 🔗 [HN #3] URL: https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+INFO     2026-06-08 09:26:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-08 09:26:36 [scraper.py:170] 📥 [HN #4] APC–2 – A professional record cutter for producing original playback discs
+INFO     2026-06-08 09:26:36 [scraper.py:171] 🔗 [HN #4] URL: https://teenage.engineering/products/apc-2
+INFO     2026-06-08 09:26:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-08 09:26:36 [scraper.py:170] 📥 [HN #5] Building from zero after addiction, prison, and a felony
+INFO     2026-06-08 09:26:36 [scraper.py:171] 🔗 [HN #5] URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+INFO     2026-06-08 09:26:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-08 09:26:36 [scraper.py:170] 📥 [HN #6] OneDrive data now has an expiry date
+INFO     2026-06-08 09:26:36 [scraper.py:171] 🔗 [HN #6] URL: https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data
+INFO     2026-06-08 09:26:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-08 09:26:36 [scraper.py:170] 📥 [HN #7] The Smallest Brain You Can Build: A Perceptron in Python
+INFO     2026-06-08 09:26:36 [scraper.py:171] 🔗 [HN #7] URL: https://ranpara.net/posts/perceptron-explained-from-scratch/
+INFO     2026-06-08 09:26:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-08 09:26:36 [scraper.py:170] 📥 [HN #8] Richard Scolyer Has Died
+INFO     2026-06-08 09:26:36 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/news/articles/c14yz5jg476o
+INFO     2026-06-08 09:26:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-08 09:26:37 [scraper.py:170] 📥 [HN #9] Playing with Vision Embeddings
+INFO     2026-06-08 09:26:37 [scraper.py:171] 🔗 [HN #9] URL: https://prestonbjensen.com/posts/playing-with-vision-embeddings
+INFO     2026-06-08 09:26:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-08 09:26:37 [scraper.py:170] 📥 [HN #10] DeepSeek V4 Pro beats GPT-5.5 Pro on precision
+INFO     2026-06-08 09:26:37 [scraper.py:171] 🔗 [HN #10] URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
+INFO     2026-06-08 09:26:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-08 09:26:37 [scraper.py:178] 🎉 [HN] All done.
+

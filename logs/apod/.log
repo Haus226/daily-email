@@ -4636,3 +4636,8 @@ INFO     2026-06-08 04:52:02 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTAR
 INFO     2026-06-08 04:52:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg
 INFO     2026-06-08 04:52:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-08 09:26:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-08 09:26:35 [scraper.py:47] 📥 [APOD] Title: Comet R3 PanSTARRS Through Time
+INFO     2026-06-08 09:26:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg
+INFO     2026-06-08 09:26:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
