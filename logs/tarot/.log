@@ -4673,3 +4673,8 @@ INFO     2026-06-07 11:48:25 [scraper.py:390] 📥 [TAROT] Card: Knight of Penta
 INFO     2026-06-07 11:48:25 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-06-07 11:48:25 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-06-08 04:52:01 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-06-08 04:52:01 [scraper.py:390] 📥 [TAROT] Card: Five of Pentacles
+INFO     2026-06-08 04:52:01 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-06-08 04:52:01 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

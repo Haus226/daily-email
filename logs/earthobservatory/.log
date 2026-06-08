@@ -13610,3 +13610,24 @@ INFO     2026-06-07 11:48:26 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-07 11:48:26 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-08 04:52:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-08 04:52:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-08 04:52:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-08 04:52:01 [scraper.py:133] 📥 [EO] Title: Digging Back in Time in the UAE
+INFO     2026-06-08 04:52:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/digging-back-in-time-in-the-uae/fayapaleo_oli_20251023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-08 04:52:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-08 04:52:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-08 04:52:01 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-08 04:52:02 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-08 04:52:02 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-08 04:52:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-08 04:52:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-08 04:52:02 [scraper.py:133] 📥 [EO] Title: Digging Back in Time in the UAE
+INFO     2026-06-08 04:52:02 [scraper.py:133] 📥 [EO] Title: Digging Back in Time in the UAE
+INFO     2026-06-08 04:52:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/digging-back-in-time-in-the-uae/fayapaleo_oli_20251023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-08 04:52:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/digging-back-in-time-in-the-uae/fayapaleo_oli_20251023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-08 04:52:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-08 04:52:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
