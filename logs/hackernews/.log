@@ -31102,3 +31102,36 @@ INFO     2026-06-08 14:07:10 [scraper.py:171] 🔗 [HN #10] URL: https://gavinra
 INFO     2026-06-08 14:07:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-08 14:07:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-09 04:14:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-09 04:14:45 [scraper.py:170] 📥 [HN #1] Job: Head of Stonehenge
+INFO     2026-06-09 04:14:45 [scraper.py:171] 🔗 [HN #1] URL: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449
+INFO     2026-06-09 04:14:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-09 04:14:45 [scraper.py:170] 📥 [HN #2] Apple reveals new AI architecture built around Google Gemini models
+INFO     2026-06-09 04:14:45 [scraper.py:171] 🔗 [HN #2] URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+INFO     2026-06-09 04:14:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-09 04:14:45 [scraper.py:170] 📥 [HN #3] Siri AI
+INFO     2026-06-09 04:14:45 [scraper.py:171] 🔗 [HN #3] URL: https://www.apple.com/apple-intelligence/
+INFO     2026-06-09 04:14:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #4] Show HN: Performative-UI – A react component library of design tropes
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #4] URL: https://vorpus.github.io/performativeUI/
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #5] xAI is looking more like a datacentre REIT than a frontier lab
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #5] URL: https://martinalderson.com/posts/xais-new-rental-business/
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #6] MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #6] URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #7] GoGoGrandparent (YC S16) is hiring Back end Engineers
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #8] Anti-social: It's fads, not friends, which now dominate social media feeds
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-09 04:14:46 [scraper.py:170] 📥 [HN #9] EU-banned pesticides found in rice, tea and spices
+INFO     2026-06-09 04:14:46 [scraper.py:171] 🔗 [HN #9] URL: https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices
+INFO     2026-06-09 04:14:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-09 04:14:47 [scraper.py:170] 📥 [HN #10] Apple Core AI Framework
+INFO     2026-06-09 04:14:47 [scraper.py:171] 🔗 [HN #10] URL: https://developer.apple.com/documentation/coreai/
+INFO     2026-06-09 04:14:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-09 04:14:47 [scraper.py:178] 🎉 [HN] All done.
+
