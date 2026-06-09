@@ -31168,3 +31168,36 @@ INFO     2026-06-09 08:33:45 [scraper.py:171] 🔗 [HN #10] URL: https://mimo.xi
 INFO     2026-06-09 08:33:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-09 08:33:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-09 12:38:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-09 12:38:16 [scraper.py:170] 📥 [HN #1] GentleOS – Classic operating system with a lovely retro GUI
+INFO     2026-06-09 12:38:16 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/luke8086/gentleos32
+INFO     2026-06-09 12:38:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-09 12:38:16 [scraper.py:170] 📥 [HN #2] Microsoft's open source tools were hacked to steal passwords of AI developers
+INFO     2026-06-09 12:38:16 [scraper.py:171] 🔗 [HN #2] URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/
+INFO     2026-06-09 12:38:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-09 12:38:17 [scraper.py:170] 📥 [HN #3] Making Graphics Like it's 1993
+INFO     2026-06-09 12:38:17 [scraper.py:171] 🔗 [HN #3] URL: https://staniks.github.io/articles/catlantean-3d-blog-1/
+INFO     2026-06-09 12:38:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-09 12:38:17 [scraper.py:170] 📥 [HN #4] OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
+INFO     2026-06-09 12:38:17 [scraper.py:171] 🔗 [HN #4] URL: https://opencv.org/opencv-5/
+INFO     2026-06-09 12:38:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-09 12:38:17 [scraper.py:170] 📥 [HN #5] Forever Young: how one molecule can lock plants in a youthful state (2025)
+INFO     2026-06-09 12:38:17 [scraper.py:171] 🔗 [HN #5] URL: https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age
+INFO     2026-06-09 12:38:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-09 12:38:17 [scraper.py:170] 📥 [HN #6] Apple reveals new AI architecture built around Google Gemini models
+INFO     2026-06-09 12:38:17 [scraper.py:171] 🔗 [HN #6] URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+INFO     2026-06-09 12:38:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-09 12:38:17 [scraper.py:170] 📥 [HN #7] Emerge Career (YC S22) Is Hiring a Founding Growth Marketer
+INFO     2026-06-09 12:38:17 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer
+INFO     2026-06-09 12:38:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-09 12:38:18 [scraper.py:170] 📥 [HN #8] Softmax: Why neural networks need non-linearity? life isn't straight-line simple
+INFO     2026-06-09 12:38:18 [scraper.py:171] 🔗 [HN #8] URL: https://blog.sparsh.dev/softmax-activation-function/
+INFO     2026-06-09 12:38:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-09 12:38:18 [scraper.py:170] 📥 [HN #9] Thi.ng – open-source building blocks for computational design and art
+INFO     2026-06-09 12:38:18 [scraper.py:171] 🔗 [HN #9] URL: https://thi.ng
+INFO     2026-06-09 12:38:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-09 12:38:18 [scraper.py:170] 📥 [HN #10] Eagle Computer: The rise and fall of an early PC clone
+INFO     2026-06-09 12:38:18 [scraper.py:171] 🔗 [HN #10] URL: https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/
+INFO     2026-06-09 12:38:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-09 12:38:18 [scraper.py:178] 🎉 [HN] All done.
+
