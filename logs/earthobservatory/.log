@@ -13736,3 +13736,24 @@ INFO     2026-06-09 12:38:17 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-09 12:38:17 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-10 04:25:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-10 04:25:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-10 04:26:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-10 04:26:00 [scraper.py:133] 📥 [EO] Title: Tyndall’s Trail of Bergs
+INFO     2026-06-10 04:26:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-10 04:26:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-10 04:26:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-10 04:26:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-10 04:26:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-10 04:26:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-10 04:26:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-10 04:26:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-10 04:26:00 [scraper.py:133] 📥 [EO] Title: Tyndall’s Trail of Bergs
+INFO     2026-06-10 04:26:00 [scraper.py:133] 📥 [EO] Title: Tyndall’s Trail of Bergs
+INFO     2026-06-10 04:26:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-10 04:26:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tyndall’s-trail-of-bergs/ISS074-E-582898_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-10 04:26:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-10 04:26:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+

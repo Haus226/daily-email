@@ -31201,3 +31201,36 @@ INFO     2026-06-09 12:38:18 [scraper.py:171] 🔗 [HN #10] URL: https://dfarq.h
 INFO     2026-06-09 12:38:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-09 12:38:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-10 04:26:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-10 04:26:00 [scraper.py:170] 📥 [HN #1] macOS Container Machines
+INFO     2026-06-10 04:26:00 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/apple/container/blob/main/docs/container-machine.md
+INFO     2026-06-10 04:26:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-10 04:26:00 [scraper.py:170] 📥 [HN #2] Claude Fable 5
+INFO     2026-06-10 04:26:00 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
+INFO     2026-06-10 04:26:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-10 04:26:00 [scraper.py:170] 📥 [HN #3] Upcoming breaking changes for npm v12
+INFO     2026-06-10 04:26:00 [scraper.py:171] 🔗 [HN #3] URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
+INFO     2026-06-10 04:26:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-10 04:26:01 [scraper.py:170] 📥 [HN #4] Rich Sutton on AI creativity and discovery
+INFO     2026-06-10 04:26:01 [scraper.py:171] 🔗 [HN #4] URL: https://twitter.com/RichardSSutton/status/2061216087744946656
+INFO     2026-06-10 04:26:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-10 04:26:01 [scraper.py:170] 📥 [HN #5] German ruling declares Google liable for false answers in AI Overviews
+INFO     2026-06-10 04:26:01 [scraper.py:171] 🔗 [HN #5] URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+INFO     2026-06-10 04:26:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-10 04:26:01 [scraper.py:170] 📥 [HN #6] The oldest surviving animated feature film at 100
+INFO     2026-06-10 04:26:01 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film
+INFO     2026-06-10 04:26:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-10 04:26:01 [scraper.py:170] 📥 [HN #7] RIP software hackathons. Long live the hardware hackathon
+INFO     2026-06-10 04:26:01 [scraper.py:171] 🔗 [HN #7] URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/
+INFO     2026-06-10 04:26:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-10 04:26:02 [scraper.py:170] 📥 [HN #8] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks
+INFO     2026-06-10 04:26:02 [scraper.py:171] 🔗 [HN #8] URL: https://aarushgupta.io/posts/kan-fpga/
+INFO     2026-06-10 04:26:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-10 04:26:02 [scraper.py:170] 📥 [HN #9] More Molly Guards
+INFO     2026-06-10 04:26:02 [scraper.py:171] 🔗 [HN #9] URL: https://unsung.aresluna.org/more-molly-guards/
+INFO     2026-06-10 04:26:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-10 04:26:02 [scraper.py:170] 📥 [HN #10] If Claude Fable stops helping you, you'll never know
+INFO     2026-06-10 04:26:02 [scraper.py:171] 🔗 [HN #10] URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
+INFO     2026-06-10 04:26:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-10 04:26:02 [scraper.py:178] 🎉 [HN] All done.
+
