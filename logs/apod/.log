@@ -4664,3 +4664,8 @@ INFO     2026-06-10 04:26:00 [scraper.py:47] 📥 [APOD] Title: The Eagle Nebula
 INFO     2026-06-10 04:26:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg
 INFO     2026-06-10 04:26:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-10 08:53:53 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-10 08:53:54 [scraper.py:47] 📥 [APOD] Title: The Eagle Nebula and Friends
+INFO     2026-06-10 08:53:54 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg
+INFO     2026-06-10 08:53:54 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
