@@ -4677,3 +4677,8 @@ INFO     2026-06-11 04:48:14 [scraper.py:47] 📥 [APOD] Title: The Mermaid Nebu
 INFO     2026-06-11 04:48:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg
 INFO     2026-06-11 04:48:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-11 09:15:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-11 09:15:12 [scraper.py:47] 📥 [APOD] Title: The Mermaid Nebula Supernova Remnant
+INFO     2026-06-11 09:15:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg
+INFO     2026-06-11 09:15:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
