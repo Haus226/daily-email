@@ -31366,3 +31366,36 @@ INFO     2026-06-11 09:15:14 [scraper.py:171] 🔗 [HN #10] URL: https://farnoy.
 INFO     2026-06-11 09:15:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-11 09:15:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-11 13:59:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-11 13:59:38 [scraper.py:170] 📥 [HN #1] Lines of Code Got a Better Publicist
+INFO     2026-06-11 13:59:38 [scraper.py:171] 🔗 [HN #1] URL: https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/
+INFO     2026-06-11 13:59:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-11 13:59:38 [scraper.py:170] 📥 [HN #2] Pokémon Go Scans Trained the Navigation Tech for Military Drones
+INFO     2026-06-11 13:59:38 [scraper.py:171] 🔗 [HN #2] URL: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/
+INFO     2026-06-11 13:59:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-11 13:59:38 [scraper.py:170] 📥 [HN #3] AI agent runs amok in Fedora and elsewhere
+INFO     2026-06-11 13:59:38 [scraper.py:171] 🔗 [HN #3] URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
+INFO     2026-06-11 13:59:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-11 13:59:38 [scraper.py:170] 📥 [HN #4] Build a Basic AI Agent from Scratch: Long Task Planning
+INFO     2026-06-11 13:59:38 [scraper.py:171] 🔗 [HN #4] URL: https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d
+INFO     2026-06-11 13:59:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-11 13:59:38 [scraper.py:170] 📥 [HN #5] Web Browsers on Video Game Consoles
+INFO     2026-06-11 13:59:38 [scraper.py:171] 🔗 [HN #5] URL: https://vale.rocks/posts/game-console-browsers
+INFO     2026-06-11 13:59:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:170] 📥 [HN #6] Workers are spending over 6 hours a week botsitting AI, fueling job frustration
+INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #6] URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6
+INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:170] 📥 [HN #7] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
+INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #7] URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:170] 📥 [HN #8] Core PPI up 9.6% annualized (0.8% MoM) in May
+INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #8] URL: https://www.bls.gov/news.release/ppi.nr0.htm
+INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:170] 📥 [HN #9] πFS
+INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/philipl/pifs
+INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:170] 📥 [HN #10] Anthropic requires 30 day data retention for Fable and Mythos
+INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #10] URL: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
+INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-11 13:59:39 [scraper.py:178] 🎉 [HN] All done.
+
