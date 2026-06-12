@@ -31465,3 +31465,36 @@ INFO     2026-06-12 09:03:07 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-06-12 09:03:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-12 09:03:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-12 12:54:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-12 12:54:10 [scraper.py:170] 📥 [HN #1] AI agent bankrupted their operator while trying to scan DN42
+INFO     2026-06-12 12:54:10 [scraper.py:171] 🔗 [HN #1] URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+INFO     2026-06-12 12:54:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-12 12:54:10 [scraper.py:170] 📥 [HN #2] If you are asking for human attention, demonstrate human effort
+INFO     2026-06-12 12:54:10 [scraper.py:171] 🔗 [HN #2] URL: https://tombedor.dev/human-attention-and-human-effort/
+INFO     2026-06-12 12:54:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-12 12:54:10 [scraper.py:170] 📥 [HN #3] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
+INFO     2026-06-12 12:54:10 [scraper.py:171] 🔗 [HN #3] URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
+INFO     2026-06-12 12:54:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-12 12:54:10 [scraper.py:170] 📥 [HN #4] Maxproof
+INFO     2026-06-12 12:54:10 [scraper.py:171] 🔗 [HN #4] URL: https://arxiv.org/abs/2606.13473
+INFO     2026-06-12 12:54:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-12 12:54:10 [scraper.py:170] 📥 [HN #5] Ryanair dark UX patterns summer 2026 refresher
+INFO     2026-06-12 12:54:10 [scraper.py:171] 🔗 [HN #5] URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/
+INFO     2026-06-12 12:54:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:170] 📥 [HN #6] The Future of Email
+INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #6] URL: https://www.fastmail.com/blog/the-future-of-email/
+INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:170] 📥 [HN #7] AUR Packages Compromised with Infostealer and Rootkit
+INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #7] URL: https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577
+INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:170] 📥 [HN #8] Show HN: Homebrew 6.0.0
+INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #8] URL: https://brew.sh/2026/06/11/homebrew-6.0.0/
+INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:170] 📥 [HN #9] Kimi K2.7-Code: open-source coding model with better token efficiency
+INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #9] URL: https://huggingface.co/moonshotai/Kimi-K2.7-Code
+INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:170] 📥 [HN #10] How we made hit video game Prince of Persia
+INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia
+INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-12 12:54:11 [scraper.py:178] 🎉 [HN] All done.
+

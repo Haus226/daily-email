@@ -4693,3 +4693,8 @@ INFO     2026-06-12 09:03:05 [scraper.py:47] 📥 [APOD] Title: Venus and Jupite
 INFO     2026-06-12 09:03:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg
 INFO     2026-06-12 09:03:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-12 12:54:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-12 12:54:10 [scraper.py:47] 📥 [APOD] Title: Venus and Jupiter: Conjunction from Avebury
+INFO     2026-06-12 12:54:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg
+INFO     2026-06-12 12:54:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
