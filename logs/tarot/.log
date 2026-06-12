@@ -4733,3 +4733,8 @@ INFO     2026-06-11 13:59:37 [scraper.py:390] 📥 [TAROT] Card: Wheel Of Fortun
 INFO     2026-06-11 13:59:38 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-06-11 13:59:38 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-06-12 04:51:09 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-06-12 04:51:09 [scraper.py:390] 📥 [TAROT] Card: Six of Cups
+INFO     2026-06-12 04:51:09 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-06-12 04:51:09 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

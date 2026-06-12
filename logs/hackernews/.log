@@ -31399,3 +31399,36 @@ INFO     2026-06-11 13:59:39 [scraper.py:171] 🔗 [HN #10] URL: https://support
 INFO     2026-06-11 13:59:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-11 13:59:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-12 04:51:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-12 04:51:09 [scraper.py:170] 📥 [HN #1] Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
+INFO     2026-06-12 04:51:09 [scraper.py:171] 🔗 [HN #1] URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
+INFO     2026-06-12 04:51:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-12 04:51:09 [scraper.py:170] 📥 [HN #2] If you are asking for human attention, demonstrate human effort
+INFO     2026-06-12 04:51:09 [scraper.py:171] 🔗 [HN #2] URL: https://tombedor.dev/human-attention-and-human-effort/
+INFO     2026-06-12 04:51:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-12 04:51:09 [scraper.py:170] 📥 [HN #3] Show HN: Homebrew 6.0.0
+INFO     2026-06-12 04:51:09 [scraper.py:171] 🔗 [HN #3] URL: https://brew.sh/2026/06/11/homebrew-6.0.0/
+INFO     2026-06-12 04:51:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-12 04:51:10 [scraper.py:170] 📥 [HN #4] Claude Fable is relentlessly proactive
+INFO     2026-06-12 04:51:10 [scraper.py:171] 🔗 [HN #4] URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
+INFO     2026-06-12 04:51:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-12 04:51:10 [scraper.py:170] 📥 [HN #5] Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
+INFO     2026-06-12 04:51:10 [scraper.py:171] 🔗 [HN #5] URL: https://fablepool.com
+INFO     2026-06-12 04:51:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-12 04:51:10 [scraper.py:170] 📥 [HN #6] How we made hit video game Prince of Persia
+INFO     2026-06-12 04:51:10 [scraper.py:171] 🔗 [HN #6] URL: https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia
+INFO     2026-06-12 04:51:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-12 04:51:10 [scraper.py:170] 📥 [HN #7] MiMo Code is now released and open-source
+INFO     2026-06-12 04:51:10 [scraper.py:171] 🔗 [HN #7] URL: https://mimo.xiaomi.com/mimocode
+INFO     2026-06-12 04:51:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-12 04:51:10 [scraper.py:170] 📥 [HN #8] Anthropic apologizes for invisible Claude Fable guardrails
+INFO     2026-06-12 04:51:10 [scraper.py:171] 🔗 [HN #8] URL: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+INFO     2026-06-12 04:51:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-12 04:51:11 [scraper.py:170] 📥 [HN #9] Petition to Withdraw Canada's Bill C-22
+INFO     2026-06-12 04:51:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416
+INFO     2026-06-12 04:51:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-12 04:51:11 [scraper.py:170] 📥 [HN #10] A jacket that harvests drinking water from the air
+INFO     2026-06-12 04:51:11 [scraper.py:171] 🔗 [HN #10] URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+INFO     2026-06-12 04:51:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-12 04:51:11 [scraper.py:178] 🎉 [HN] All done.
+
