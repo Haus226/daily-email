@@ -31498,3 +31498,36 @@ INFO     2026-06-12 12:54:11 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-06-12 12:54:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-12 12:54:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-13 04:39:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-13 04:39:05 [scraper.py:170] 📥 [HN #1] Statement on US government directive to suspend access to Fable 5 and Mythos 5
+INFO     2026-06-13 04:39:05 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/fable-mythos-access
+INFO     2026-06-13 04:39:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-13 04:39:05 [scraper.py:170] 📥 [HN #2] Open source AI must win
+INFO     2026-06-13 04:39:05 [scraper.py:171] 🔗 [HN #2] URL: https://opensourceaimustwin.com/?share=v2
+INFO     2026-06-13 04:39:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-13 04:39:05 [scraper.py:170] 📥 [HN #3] We've suspended access to Claude Mythos 5 and Claude Fable 5
+INFO     2026-06-13 04:39:05 [scraper.py:171] 🔗 [HN #3] URL: https://status.claude.com/incidents/s9w82lp9dcn9
+INFO     2026-06-13 04:39:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #4] Renault: Electric motors with no rare earths
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #4] URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #5] CRISPR tech selectively shreds cancer cells, including "undruggable" cancers
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #5] URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #6] Show HN: Putt.day a daily mini golf game
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #6] URL: https://putt.day/
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #7] Twenty One Zero-Days in FFmpeg
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #7] URL: https://depthfirst.com/research/21-zero-days-in-ffmpeg
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #8] Swift at Apple: Migrating the TrueType hinting interpreter
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #8] URL: https://www.swift.org/blog/migrating-truetype-hinting-to-swift/
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-13 04:39:06 [scraper.py:170] 📥 [HN #9] How to setup a local coding agent on macOS
+INFO     2026-06-13 04:39:06 [scraper.py:171] 🔗 [HN #9] URL: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos
+INFO     2026-06-13 04:39:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-13 04:39:07 [scraper.py:170] 📥 [HN #10] Malware developers added nuclear and biological weapons text to to their spyware
+INFO     2026-06-13 04:39:07 [scraper.py:171] 🔗 [HN #10] URL: https://twitter.com/jsrailton/status/2064661778978533571
+INFO     2026-06-13 04:39:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-13 04:39:07 [scraper.py:178] 🎉 [HN] All done.
+
