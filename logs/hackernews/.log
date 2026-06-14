@@ -31663,3 +31663,36 @@ INFO     2026-06-14 08:42:59 [scraper.py:171] 🔗 [HN #10] URL: https://replica
 INFO     2026-06-14 08:42:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-14 08:42:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-14 11:58:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-14 11:58:21 [scraper.py:170] 📥 [HN #1] Honda Civics and the Evil Valet
+INFO     2026-06-14 11:58:21 [scraper.py:171] 🔗 [HN #1] URL: https://juniperspring.org/posts/honda-evil-valet/
+INFO     2026-06-14 11:58:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-14 11:58:21 [scraper.py:170] 📥 [HN #2] Free SQL→ER diagram tool, runs in the browser, nothing uploaded
+INFO     2026-06-14 11:58:21 [scraper.py:171] 🔗 [HN #2] URL: https://sqltoerdiagram.com/
+INFO     2026-06-14 11:58:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #3] GLM 5.2 Is Out
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/jietang/status/2065784751345287314
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #4] Noise infusion banned from statistical products published by Census Bureau
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #4] URL: https://desfontain.es/blog/banning-noise.html
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #5] 500-year-old monasteries outperform at digital transformation (U. of Zurich)
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #5] URL: https://phys.org/news/2026-05-historic-monasteries-digital-countries.html
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #6] Every Frame Perfect
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #6] URL: https://tonsky.me/blog/every-frame-perfect/
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #7] Don't trust large context windows
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #7] URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-14 11:58:22 [scraper.py:170] 📥 [HN #8] Treating pancreatic tumours may have revealed cancer's master switch
+INFO     2026-06-14 11:58:22 [scraper.py:171] 🔗 [HN #8] URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+INFO     2026-06-14 11:58:22 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-14 11:58:23 [scraper.py:170] 📥 [HN #9] Tribblix: The retro Illumos distribution
+INFO     2026-06-14 11:58:23 [scraper.py:171] 🔗 [HN #9] URL: http://tribblix.org/
+INFO     2026-06-14 11:58:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-14 11:58:23 [scraper.py:170] 📥 [HN #10] Windows 1.0 and the WinAPI, 40 Years Later
+INFO     2026-06-14 11:58:23 [scraper.py:171] 🔗 [HN #10] URL: https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918
+INFO     2026-06-14 11:58:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-14 11:58:23 [scraper.py:178] 🎉 [HN] All done.
+
