@@ -31597,3 +31597,36 @@ INFO     2026-06-13 11:54:01 [scraper.py:171] 🔗 [HN #10] URL: https://ikyle.m
 INFO     2026-06-13 11:54:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-13 11:54:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-14 04:57:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-14 04:57:37 [scraper.py:170] 📥 [HN #1] 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys
+INFO     2026-06-14 04:57:37 [scraper.py:171] 🔗 [HN #1] URL: https://juniperspring.org/posts/honda-evil-valet/
+INFO     2026-06-14 04:57:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-14 04:57:37 [scraper.py:170] 📥 [HN #2] Noise infusion banned from statistical products published by Census Bureau
+INFO     2026-06-14 04:57:37 [scraper.py:171] 🔗 [HN #2] URL: https://desfontain.es/blog/banning-noise.html
+INFO     2026-06-14 04:57:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-14 04:57:37 [scraper.py:170] 📥 [HN #3] GLM 5.2 Is Out
+INFO     2026-06-14 04:57:37 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/jietang/status/2065784751345287314
+INFO     2026-06-14 04:57:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-14 04:57:37 [scraper.py:170] 📥 [HN #4] The Redistribution of Housing Wealth Caused by Rent Control [pdf]
+INFO     2026-06-14 04:57:37 [scraper.py:171] 🔗 [HN #4] URL: https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf
+INFO     2026-06-14 04:57:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-14 04:57:38 [scraper.py:170] 📥 [HN #5] Every Frame Perfect
+INFO     2026-06-14 04:57:38 [scraper.py:171] 🔗 [HN #5] URL: https://tonsky.me/blog/every-frame-perfect/
+INFO     2026-06-14 04:57:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-14 04:57:38 [scraper.py:170] 📥 [HN #6] Building a serial and VGA "everything console"
+INFO     2026-06-14 04:57:38 [scraper.py:171] 🔗 [HN #6] URL: http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html
+INFO     2026-06-14 04:57:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-14 04:57:38 [scraper.py:170] 📥 [HN #7] FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language
+INFO     2026-06-14 04:57:38 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/kekcleader/FreeOberon
+INFO     2026-06-14 04:57:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-14 04:57:38 [scraper.py:170] 📥 [HN #8] Treating pancreatic tumours may have revealed cancer's master switch
+INFO     2026-06-14 04:57:38 [scraper.py:171] 🔗 [HN #8] URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+INFO     2026-06-14 04:57:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-14 04:57:38 [scraper.py:170] 📥 [HN #9] Python 3.14 garbage collection rigamarole
+INFO     2026-06-14 04:57:38 [scraper.py:171] 🔗 [HN #9] URL: https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html
+INFO     2026-06-14 04:57:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-14 04:57:39 [scraper.py:170] 📥 [HN #10] Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
+INFO     2026-06-14 04:57:39 [scraper.py:171] 🔗 [HN #10] URL: https://blog.pyodide.org/posts/314-release/
+INFO     2026-06-14 04:57:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-14 04:57:39 [scraper.py:178] 🎉 [HN] All done.
+
