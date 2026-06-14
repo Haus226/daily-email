@@ -31630,3 +31630,36 @@ INFO     2026-06-14 04:57:39 [scraper.py:171] 🔗 [HN #10] URL: https://blog.py
 INFO     2026-06-14 04:57:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-14 04:57:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-14 08:42:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-14 08:42:57 [scraper.py:170] 📥 [HN #1] Phoenix LiveView 1.2 Released
+INFO     2026-06-14 08:42:57 [scraper.py:171] 🔗 [HN #1] URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released
+INFO     2026-06-14 08:42:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-14 08:42:57 [scraper.py:170] 📥 [HN #2] Honda Civics and the Evil Valet
+INFO     2026-06-14 08:42:57 [scraper.py:171] 🔗 [HN #2] URL: https://juniperspring.org/posts/honda-evil-valet/
+INFO     2026-06-14 08:42:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-14 08:42:57 [scraper.py:170] 📥 [HN #3] Don't trust large context windows
+INFO     2026-06-14 08:42:57 [scraper.py:171] 🔗 [HN #3] URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+INFO     2026-06-14 08:42:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-14 08:42:57 [scraper.py:170] 📥 [HN #4] Free SQL→ER diagram tool, runs in the browser, nothing uploaded
+INFO     2026-06-14 08:42:57 [scraper.py:171] 🔗 [HN #4] URL: https://sqltoerdiagram.com/
+INFO     2026-06-14 08:42:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-14 08:42:58 [scraper.py:170] 📥 [HN #5] GLM 5.2 Is Out
+INFO     2026-06-14 08:42:58 [scraper.py:171] 🔗 [HN #5] URL: https://twitter.com/jietang/status/2065784751345287314
+INFO     2026-06-14 08:42:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-14 08:42:58 [scraper.py:170] 📥 [HN #6] Noise infusion banned from statistical products published by Census Bureau
+INFO     2026-06-14 08:42:58 [scraper.py:171] 🔗 [HN #6] URL: https://desfontain.es/blog/banning-noise.html
+INFO     2026-06-14 08:42:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-14 08:42:59 [scraper.py:170] 📥 [HN #7] Consciousness likely not unique to earthlings, paper says
+INFO     2026-06-14 08:42:59 [scraper.py:171] 🔗 [HN #7] URL: https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says
+INFO     2026-06-14 08:42:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-14 08:42:59 [scraper.py:170] 📥 [HN #8] Tribblix: The retro Illumos distribution
+INFO     2026-06-14 08:42:59 [scraper.py:171] 🔗 [HN #8] URL: http://tribblix.org/
+INFO     2026-06-14 08:42:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-14 08:42:59 [scraper.py:170] 📥 [HN #9] Every Frame Perfect
+INFO     2026-06-14 08:42:59 [scraper.py:171] 🔗 [HN #9] URL: https://tonsky.me/blog/every-frame-perfect/
+INFO     2026-06-14 08:42:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-14 08:42:59 [scraper.py:170] 📥 [HN #10] Beagle: Git, URIs and all the dirty words
+INFO     2026-06-14 08:42:59 [scraper.py:171] 🔗 [HN #10] URL: https://replicated.wiki/blog/uris.html
+INFO     2026-06-14 08:42:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-14 08:42:59 [scraper.py:178] 🎉 [HN] All done.
+
