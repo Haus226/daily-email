@@ -31762,3 +31762,36 @@ INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.fra
 INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-15 11:18:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-15 15:46:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #1] CrankGPT
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #1] URL: https://crankgpt.com
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #2] Iroh 1.0
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #2] URL: https://www.iroh.computer/blog/v1
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #3] Hetzner increased dedicated server prices 3-4x
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=48542064
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #4] Copper transport drug restores memory and clears toxic Alzheimer's proteins
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #4] URL: https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #5] Apple Foundation Models
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #5] URL: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-15 15:46:35 [scraper.py:170] 📥 [HN #6] Your ePub Is fine
+INFO     2026-06-15 15:46:35 [scraper.py:171] 🔗 [HN #6] URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+INFO     2026-06-15 15:46:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-15 15:46:36 [scraper.py:170] 📥 [HN #7] Salesforce to Acquire Fin (formerly Intercom) for $3.6BN
+INFO     2026-06-15 15:46:36 [scraper.py:171] 🔗 [HN #7] URL: https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL
+INFO     2026-06-15 15:46:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-15 15:46:36 [scraper.py:170] 📥 [HN #8] Show HN: Can Europe train a frontier AI model on the compute it owns?
+INFO     2026-06-15 15:46:36 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/sammysltd/euromesh
+INFO     2026-06-15 15:46:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-15 15:46:36 [scraper.py:170] 📥 [HN #9] Openrouter Fusion API
+INFO     2026-06-15 15:46:36 [scraper.py:171] 🔗 [HN #9] URL: https://openrouter.ai/openrouter/fusion
+INFO     2026-06-15 15:46:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-15 15:46:36 [scraper.py:170] 📥 [HN #10] Show HN: I wrote a C++ ray tracer from scratch without AI
+INFO     2026-06-15 15:46:36 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/themartiano/luz
+INFO     2026-06-15 15:46:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-15 15:46:36 [scraper.py:178] 🎉 [HN] All done.
+
