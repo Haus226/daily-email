@@ -31696,3 +31696,36 @@ INFO     2026-06-14 11:58:23 [scraper.py:171] 🔗 [HN #10] URL: https://medium.
 INFO     2026-06-14 11:58:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-14 11:58:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-15 05:16:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-15 05:16:33 [scraper.py:170] 📥 [HN #1] Your ePub Is fine
+INFO     2026-06-15 05:16:33 [scraper.py:171] 🔗 [HN #1] URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+INFO     2026-06-15 05:16:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-15 05:16:33 [scraper.py:170] 📥 [HN #2] Even more batteries included with Emacs
+INFO     2026-06-15 05:16:33 [scraper.py:171] 🔗 [HN #2] URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/
+INFO     2026-06-15 05:16:33 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #3] Show HN: Kage – Shadow any website to a single binary for offline viewing
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/tamnd/kage
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #4] Bitsy
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #4] URL: https://bitsy.org/
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #5] 21 years and counting of 'eight fallacies of distributed computing' (2025)
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #5] URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #6] Prove you're human by winning a claw machine
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #6] URL: https://feralui.vercel.app/#/captcha
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #7] Firewood Splitting Simulator
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #7] URL: https://screen.toys/firewood/
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-15 05:16:34 [scraper.py:170] 📥 [HN #8] Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
+INFO     2026-06-15 05:16:34 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/nex-agi/Nex-N2/issues/4
+INFO     2026-06-15 05:16:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-15 05:16:35 [scraper.py:170] 📥 [HN #9] Why does paper fold so well?
+INFO     2026-06-15 05:16:35 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.co.uk/programmes/w3ct8k70
+INFO     2026-06-15 05:16:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-15 05:16:35 [scraper.py:170] 📥 [HN #10] Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call
+INFO     2026-06-15 05:16:35 [scraper.py:171] 🔗 [HN #10] URL: https://traceapp.info
+INFO     2026-06-15 05:16:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-15 05:16:35 [scraper.py:178] 🎉 [HN] All done.
+
