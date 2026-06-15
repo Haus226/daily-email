@@ -31729,3 +31729,36 @@ INFO     2026-06-15 05:16:35 [scraper.py:171] 🔗 [HN #10] URL: https://traceap
 INFO     2026-06-15 05:16:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-15 05:16:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-15 11:18:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-15 11:18:12 [scraper.py:170] 📥 [HN #1] Anthropic's Safety Superpower
+INFO     2026-06-15 11:18:12 [scraper.py:171] 🔗 [HN #1] URL: https://stratechery.com/2026/anthropics-safety-superpower/
+INFO     2026-06-15 11:18:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-15 11:18:12 [scraper.py:170] 📥 [HN #2] Your ePub Is fine
+INFO     2026-06-15 11:18:12 [scraper.py:171] 🔗 [HN #2] URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+INFO     2026-06-15 11:18:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-15 11:18:12 [scraper.py:170] 📥 [HN #3] What the Fuck Happened to Nerds
+INFO     2026-06-15 11:18:12 [scraper.py:171] 🔗 [HN #3] URL: https://mrmarket.lol/what-the-fuck-happened-to-nerds/
+INFO     2026-06-15 11:18:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-15 11:18:12 [scraper.py:170] 📥 [HN #4] Apple Foundation Models
+INFO     2026-06-15 11:18:12 [scraper.py:171] 🔗 [HN #4] URL: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models
+INFO     2026-06-15 11:18:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #5] Foreign business owners are scrambling to raise capital to stay in Japan
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #5] URL: https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #6] Even more batteries included with Emacs
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #6] URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #7] Openrouter Fusion API
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #7] URL: https://openrouter.ai/openrouter/fusion
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #8] Curl will not accept vulnerability reports during July 2026
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #8] URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #9] Show HN: Kage – Shadow any website to a single binary for offline viewing
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/tamnd/kage
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:170] 📥 [HN #10] There Is(Ǝ) – Such That (∋)
+INFO     2026-06-15 11:18:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.fractalkitty.com/there-is-3-such-that/
+INFO     2026-06-15 11:18:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-15 11:18:13 [scraper.py:178] 🎉 [HN] All done.
+

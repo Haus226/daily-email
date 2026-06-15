@@ -4723,3 +4723,8 @@ INFO     2026-06-15 05:16:33 [scraper.py:47] 📥 [APOD] Title: Triple Shockwave
 INFO     2026-06-15 05:16:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg
 INFO     2026-06-15 05:16:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-15 11:18:11 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-15 11:18:12 [scraper.py:47] 📥 [APOD] Title: Triple Shockwave from Sun Crossing Rocket
+INFO     2026-06-15 11:18:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg
+INFO     2026-06-15 11:18:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
