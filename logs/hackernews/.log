@@ -31861,3 +31861,36 @@ INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #10] URL: https://devblog
 INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-16 10:13:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-16 15:10:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-16 15:10:10 [scraper.py:170] 📥 [HN #1] Mechanical Watch (2022)
+INFO     2026-06-16 15:10:10 [scraper.py:171] 🔗 [HN #1] URL: https://ciechanow.ski/mechanical-watch/
+INFO     2026-06-16 15:10:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-16 15:10:10 [scraper.py:170] 📥 [HN #2] Correlated randomness in Slay the Spire 2
+INFO     2026-06-16 15:10:10 [scraper.py:171] 🔗 [HN #2] URL: https://tck.mn/blog/correlated-randomness-sts2/
+INFO     2026-06-16 15:10:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-16 15:10:10 [scraper.py:170] 📥 [HN #3] Subquadratic – Introducing SubQ 1.1 Small
+INFO     2026-06-16 15:10:10 [scraper.py:171] 🔗 [HN #3] URL: https://subq.ai/subq-1-1-small-technical-report
+INFO     2026-06-16 15:10:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-16 15:10:11 [scraper.py:170] 📥 [HN #4] I admire Fabrice Bellard. He is almost certainly a better overall programmer
+INFO     2026-06-16 15:10:11 [scraper.py:171] 🔗 [HN #4] URL: https://twitter.com/ID_AA_Carmack/status/2064095424420487226
+INFO     2026-06-16 15:10:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-16 15:10:11 [scraper.py:170] 📥 [HN #5] The time the x86 emulator team found code so bad they fixed it during emulation
+INFO     2026-06-16 15:10:11 [scraper.py:171] 🔗 [HN #5] URL: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419
+INFO     2026-06-16 15:10:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-16 15:10:11 [scraper.py:170] 📥 [HN #6] A backdoor in a LinkedIn job offer
+INFO     2026-06-16 15:10:11 [scraper.py:171] 🔗 [HN #6] URL: https://roman.pt/posts/linkedin-backdoor/
+INFO     2026-06-16 15:10:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-16 15:10:11 [scraper.py:170] 📥 [HN #7] Running local models is good now
+INFO     2026-06-16 15:10:11 [scraper.py:171] 🔗 [HN #7] URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
+INFO     2026-06-16 15:10:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-16 15:10:12 [scraper.py:170] 📥 [HN #8] An interview with an Apple emoji designer
+INFO     2026-06-16 15:10:12 [scraper.py:171] 🔗 [HN #8] URL: https://shadycharacters.co.uk/2026/06/ollie-wagner/
+INFO     2026-06-16 15:10:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-16 15:10:12 [scraper.py:170] 📥 [HN #9] Show HN: Hackers for Granny (defense against industrialized elder fraud)
+INFO     2026-06-16 15:10:12 [scraper.py:171] 🔗 [HN #9] URL: https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html
+INFO     2026-06-16 15:10:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-16 15:10:12 [scraper.py:170] 📥 [HN #10] Google Chrome update will close the door on ad blockers
+INFO     2026-06-16 15:10:12 [scraper.py:171] 🔗 [HN #10] URL: https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/
+INFO     2026-06-16 15:10:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-16 15:10:12 [scraper.py:178] 🎉 [HN] All done.
+

@@ -4741,3 +4741,8 @@ INFO     2026-06-16 10:13:56 [scraper.py:47] 📥 [APOD] Title: Moons, Rings, Sh
 INFO     2026-06-16 10:13:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg
 INFO     2026-06-16 10:13:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-16 15:10:10 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-16 15:10:10 [scraper.py:47] 📥 [APOD] Title: Moons, Rings, Shadows, Clouds: Saturn (Cassini)
+INFO     2026-06-16 15:10:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg
+INFO     2026-06-16 15:10:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
