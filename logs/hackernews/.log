@@ -31828,3 +31828,36 @@ INFO     2026-06-16 05:20:23 [scraper.py:171] 🔗 [HN #10] URL: https://www.goo
 INFO     2026-06-16 05:20:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-16 05:20:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-16 10:13:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-16 10:13:56 [scraper.py:170] 📥 [HN #1] The time the x86 emulator team found code so bad they fixed it during emulation
+INFO     2026-06-16 10:13:56 [scraper.py:171] 🔗 [HN #1] URL: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419
+INFO     2026-06-16 10:13:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-16 10:13:56 [scraper.py:170] 📥 [HN #2] A backdoor in a LinkedIn job offer
+INFO     2026-06-16 10:13:56 [scraper.py:171] 🔗 [HN #2] URL: https://roman.pt/posts/linkedin-backdoor/
+INFO     2026-06-16 10:13:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-16 10:13:57 [scraper.py:170] 📥 [HN #3] John Carmack on Fabrice Bellard
+INFO     2026-06-16 10:13:57 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/ID_AA_Carmack/status/2064095424420487226
+INFO     2026-06-16 10:13:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-16 10:13:57 [scraper.py:170] 📥 [HN #4] New way of making espresso with ultrasound
+INFO     2026-06-16 10:13:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso
+INFO     2026-06-16 10:13:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-16 10:13:57 [scraper.py:170] 📥 [HN #5] Iroh 1.0
+INFO     2026-06-16 10:13:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.iroh.computer/blog/v1
+INFO     2026-06-16 10:13:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-16 10:13:57 [scraper.py:170] 📥 [HN #6] Banned Book Library in a Wi-Fi Smart Light Bulb
+INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.richardosgood.com/posts/banned-book-library/
+INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-16 10:13:58 [scraper.py:170] 📥 [HN #7] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?
+INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=48542100
+INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-16 10:13:58 [scraper.py:170] 📥 [HN #8] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
+INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #8] URL: https://tinywind.io
+INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-16 10:13:58 [scraper.py:170] 📥 [HN #9] Getting Creative with Perlin Noise Fields
+INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #9] URL: https://sighack.com/post/getting-creative-with-perlin-noise-fields
+INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-16 10:13:58 [scraper.py:170] 📥 [HN #10] Understanding the rationale behind a rule when trying to circumvent it
+INFO     2026-06-16 10:13:58 [scraper.py:171] 🔗 [HN #10] URL: https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415
+INFO     2026-06-16 10:13:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-16 10:13:58 [scraper.py:178] 🎉 [HN] All done.
+
