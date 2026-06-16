@@ -4793,3 +4793,8 @@ INFO     2026-06-15 15:46:34 [scraper.py:390] 📥 [TAROT] Card: Seven of Cups
 INFO     2026-06-15 15:46:34 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-06-15 15:46:34 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-06-16 05:20:21 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-06-16 05:20:21 [scraper.py:390] 📥 [TAROT] Card: Six of Pentacles
+INFO     2026-06-16 05:20:21 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-06-16 05:20:21 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
