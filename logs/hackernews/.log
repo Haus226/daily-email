@@ -31960,3 +31960,36 @@ INFO     2026-06-17 09:53:39 [scraper.py:171] 🔗 [HN #10] URL: https://tim.blo
 INFO     2026-06-17 09:53:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-17 09:53:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-17 13:41:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-17 13:41:22 [scraper.py:170] 📥 [HN #1] Want your images back? Sure... That'll be $5!
+INFO     2026-06-17 13:41:22 [scraper.py:171] 🔗 [HN #1] URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars
+INFO     2026-06-17 13:41:22 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-17 13:41:22 [scraper.py:170] 📥 [HN #2] GLM-5.2 is the new leading open weights model on Artificial Analysis
+INFO     2026-06-17 13:41:22 [scraper.py:171] 🔗 [HN #2] URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
+INFO     2026-06-17 13:41:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-17 13:41:23 [scraper.py:170] 📥 [HN #3] Sixty percent of US consumers say 'AI' in brand messaging is a turnoff
+INFO     2026-06-17 13:41:23 [scraper.py:171] 🔗 [HN #3] URL: https://wpvip.com/future-of-the-web-2026/
+INFO     2026-06-17 13:41:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-17 13:41:23 [scraper.py:170] 📥 [HN #4] RFC 10008: The new HTTP Query Method
+INFO     2026-06-17 13:41:23 [scraper.py:171] 🔗 [HN #4] URL: https://www.rfc-editor.org/info/rfc10008/
+INFO     2026-06-17 13:41:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-17 13:41:23 [scraper.py:170] 📥 [HN #5] MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C
+INFO     2026-06-17 13:41:23 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/rxi/microui
+INFO     2026-06-17 13:41:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-17 13:41:23 [scraper.py:170] 📥 [HN #6] Show HN: High-Res Neural Cellular Automata
+INFO     2026-06-17 13:41:23 [scraper.py:171] 🔗 [HN #6] URL: https://cells2pixels.github.io/
+INFO     2026-06-17 13:41:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-17 13:41:24 [scraper.py:170] 📥 [HN #7] Hacker News but for Independent Blogs
+INFO     2026-06-17 13:41:24 [scraper.py:171] 🔗 [HN #7] URL: https://bubbles.town/
+INFO     2026-06-17 13:41:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-17 13:41:24 [scraper.py:170] 📥 [HN #8] GrapheneOS has been ported to Android 17
+INFO     2026-06-17 13:41:24 [scraper.py:171] 🔗 [HN #8] URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+INFO     2026-06-17 13:41:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-17 13:41:24 [scraper.py:170] 📥 [HN #9] Running local models is good now
+INFO     2026-06-17 13:41:24 [scraper.py:171] 🔗 [HN #9] URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
+INFO     2026-06-17 13:41:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-17 13:41:24 [scraper.py:170] 📥 [HN #10] Abandoned and Little-Known Airfields
+INFO     2026-06-17 13:41:24 [scraper.py:171] 🔗 [HN #10] URL: https://airfields-freeman.com/
+INFO     2026-06-17 13:41:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-17 13:41:24 [scraper.py:178] 🎉 [HN] All done.
+

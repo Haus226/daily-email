@@ -4756,3 +4756,8 @@ INFO     2026-06-17 09:53:37 [scraper.py:47] 📥 [APOD] Title: Longmore 8: The 
 INFO     2026-06-17 09:53:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg
 INFO     2026-06-17 09:53:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-17 13:41:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-17 13:41:22 [scraper.py:47] 📥 [APOD] Title: Longmore 8: The Hamster Wheel Nebula
+INFO     2026-06-17 13:41:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg
+INFO     2026-06-17 13:41:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
