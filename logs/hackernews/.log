@@ -31927,3 +31927,36 @@ INFO     2026-06-17 04:59:51 [scraper.py:171] 🔗 [HN #10] URL: https://gist.gi
 INFO     2026-06-17 04:59:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-17 04:59:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-17 09:53:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-17 09:53:37 [scraper.py:170] 📥 [HN #1] GrapheneOS has been ported to Android 17
+INFO     2026-06-17 09:53:37 [scraper.py:171] 🔗 [HN #1] URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+INFO     2026-06-17 09:53:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-17 09:53:37 [scraper.py:170] 📥 [HN #2] Running local models is good now
+INFO     2026-06-17 09:53:37 [scraper.py:171] 🔗 [HN #2] URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
+INFO     2026-06-17 09:53:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-17 09:53:37 [scraper.py:170] 📥 [HN #3] Humiliating IIS servers for fun and jail time
+INFO     2026-06-17 09:53:37 [scraper.py:171] 🔗 [HN #3] URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
+INFO     2026-06-17 09:53:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-17 09:53:38 [scraper.py:170] 📥 [HN #4] Subterranean fungi networks more than 100 quadrillion km in length
+INFO     2026-06-17 09:53:38 [scraper.py:171] 🔗 [HN #4] URL: https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study
+INFO     2026-06-17 09:53:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-17 09:53:38 [scraper.py:170] 📥 [HN #5] TIL: You can make HTTP requests without curl using Bash /dev/TCP
+INFO     2026-06-17 09:53:38 [scraper.py:171] 🔗 [HN #5] URL: https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/
+INFO     2026-06-17 09:53:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-17 09:53:38 [scraper.py:170] 📥 [HN #6] Wolfram Language and Mathematica version 15
+INFO     2026-06-17 09:53:38 [scraper.py:171] 🔗 [HN #6] URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/
+INFO     2026-06-17 09:53:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-17 09:53:38 [scraper.py:170] 📥 [HN #7] Calvin and Hobbes and the price of integrity
+INFO     2026-06-17 09:53:38 [scraper.py:171] 🔗 [HN #7] URL: https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of
+INFO     2026-06-17 09:53:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-17 09:53:38 [scraper.py:170] 📥 [HN #8] The founder's playbook: Building an AI-native startup
+INFO     2026-06-17 09:53:38 [scraper.py:171] 🔗 [HN #8] URL: https://claude.com/blog/the-founders-playbook
+INFO     2026-06-17 09:53:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-17 09:53:39 [scraper.py:170] 📥 [HN #9] Hacker News but for Independent Blogs
+INFO     2026-06-17 09:53:39 [scraper.py:171] 🔗 [HN #9] URL: https://bubbles.town/
+INFO     2026-06-17 09:53:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-17 09:53:39 [scraper.py:170] 📥 [HN #10] Has AI already killed self-help nonfiction books?
+INFO     2026-06-17 09:53:39 [scraper.py:171] 🔗 [HN #10] URL: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
+INFO     2026-06-17 09:53:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-17 09:53:39 [scraper.py:178] 🎉 [HN] All done.
+
