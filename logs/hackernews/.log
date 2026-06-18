@@ -31993,3 +31993,36 @@ INFO     2026-06-17 13:41:24 [scraper.py:171] 🔗 [HN #10] URL: https://airfiel
 INFO     2026-06-17 13:41:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-17 13:41:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-18 04:49:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-18 04:49:37 [scraper.py:170] 📥 [HN #1] Midjourney Medical
+INFO     2026-06-18 04:49:37 [scraper.py:171] 🔗 [HN #1] URL: https://www.midjourney.com/medical/blogpost
+INFO     2026-06-18 04:49:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-18 04:49:37 [scraper.py:170] 📥 [HN #2] Lore – Open source version control system designed for scalability
+INFO     2026-06-18 04:49:37 [scraper.py:171] 🔗 [HN #2] URL: https://lore.org/
+INFO     2026-06-18 04:49:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-18 04:49:38 [scraper.py:170] 📥 [HN #3] Local Qwen isn't a worse Opus, it's a different tool
+INFO     2026-06-18 04:49:38 [scraper.py:171] 🔗 [HN #3] URL: https://blog.alexellis.io/local-ai-is-not-opus/
+INFO     2026-06-18 04:49:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-18 04:49:38 [scraper.py:170] 📥 [HN #4] US holds off blacklisting DeepSeek, more than 100 firms deemed security risks
+INFO     2026-06-18 04:49:38 [scraper.py:171] 🔗 [HN #4] URL: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/
+INFO     2026-06-18 04:49:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-18 04:49:38 [scraper.py:170] 📥 [HN #5] Taxonomy of the Occlupanida (parasitoids on bread bag tags)
+INFO     2026-06-18 04:49:38 [scraper.py:171] 🔗 [HN #5] URL: https://www.horg.com/horg/?page_id=921
+INFO     2026-06-18 04:49:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-18 04:49:38 [scraper.py:170] 📥 [HN #6] Storied Colors – a catalogue of named colors
+INFO     2026-06-18 04:49:38 [scraper.py:171] 🔗 [HN #6] URL: https://storiedcolors.com/
+INFO     2026-06-18 04:49:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-18 04:49:39 [scraper.py:170] 📥 [HN #7] Clojure Hosted on Go
+INFO     2026-06-18 04:49:39 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/glojurelang/glojure
+INFO     2026-06-18 04:49:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-18 04:49:39 [scraper.py:170] 📥 [HN #8] Show HN: Spin Lab
+INFO     2026-06-18 04:49:39 [scraper.py:171] 🔗 [HN #8] URL: https://srijanshukla.com/artifacts/spin-lab/
+INFO     2026-06-18 04:49:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-18 04:49:39 [scraper.py:170] 📥 [HN #9] [x86] AI Compute Extensions (ACE) Specification
+INFO     2026-06-18 04:49:39 [scraper.py:171] 🔗 [HN #9] URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
+INFO     2026-06-18 04:49:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-18 04:49:39 [scraper.py:170] 📥 [HN #10] Loreline – Tools for writing interactive fiction
+INFO     2026-06-18 04:49:39 [scraper.py:171] 🔗 [HN #10] URL: https://loreline.app/en/
+INFO     2026-06-18 04:49:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-18 04:49:39 [scraper.py:178] 🎉 [HN] All done.
+

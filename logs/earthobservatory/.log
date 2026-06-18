@@ -14240,3 +14240,24 @@ INFO     2026-06-17 13:41:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-17 13:41:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-18 04:49:36 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-18 04:49:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-18 04:49:37 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-18 04:49:37 [scraper.py:133] 📥 [EO] Title: Low Water at San Carlos Reservoir
+INFO     2026-06-18 04:49:37 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli2_20260522_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-18 04:49:37 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-18 04:49:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-18 04:49:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-18 04:49:38 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-18 04:49:38 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-18 04:49:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-18 04:49:39 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-18 04:49:39 [scraper.py:133] 📥 [EO] Title: El Niño Is Underway
+INFO     2026-06-18 04:49:39 [scraper.py:133] 📥 [EO] Title: El Niño Is Underway
+INFO     2026-06-18 04:49:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-18 04:49:39 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-18 04:49:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-18 04:49:39 [scraper.py:154] ✅ [EO] Successfully fetched.
+
