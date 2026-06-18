@@ -4767,3 +4767,8 @@ ERROR    2026-06-18 04:49:37 [scraper.py:71] ❌ [APOD] Failed to fetch: list in
 INFO     2026-06-18 09:19:41 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-06-18 09:19:42 [scraper.py:71] ❌ [APOD] Failed to fetch: list index out of range
 
+INFO     2026-06-18 12:53:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-18 12:53:47 [scraper.py:47] 📥 [APOD] Title: Possible Supernova Remnant in Galactic Center
+INFO     2026-06-18 12:53:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/sgrc.jpg
+INFO     2026-06-18 12:53:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

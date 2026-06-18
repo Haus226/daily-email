@@ -32059,3 +32059,36 @@ INFO     2026-06-18 09:19:44 [scraper.py:171] 🔗 [HN #10] URL: https://www.tom
 INFO     2026-06-18 09:19:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-18 09:19:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-18 12:53:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-18 12:53:47 [scraper.py:170] 📥 [HN #1] Hospitals and universities repurposing drugs at 90% lower cost
+INFO     2026-06-18 12:53:47 [scraper.py:171] 🔗 [HN #1] URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost
+INFO     2026-06-18 12:53:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-18 12:53:48 [scraper.py:170] 📥 [HN #2] Emacs 31 Is Around the Corner: The Changes I'm Daily Driving
+INFO     2026-06-18 12:53:48 [scraper.py:171] 🔗 [HN #2] URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
+INFO     2026-06-18 12:53:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-18 12:53:48 [scraper.py:170] 📥 [HN #3] Midjourney Medical
+INFO     2026-06-18 12:53:48 [scraper.py:171] 🔗 [HN #3] URL: https://www.midjourney.com/medical/blogpost
+INFO     2026-06-18 12:53:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-18 12:53:49 [scraper.py:170] 📥 [HN #4] DeepSeek Introduces Vision
+INFO     2026-06-18 12:53:49 [scraper.py:171] 🔗 [HN #4] URL: https://chat.deepseek.com/
+INFO     2026-06-18 12:53:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-18 12:53:49 [scraper.py:170] 📥 [HN #5] Local Qwen isn't a worse Opus, it's a different tool
+INFO     2026-06-18 12:53:49 [scraper.py:171] 🔗 [HN #5] URL: https://blog.alexellis.io/local-ai-is-not-opus/
+INFO     2026-06-18 12:53:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-18 12:53:49 [scraper.py:170] 📥 [HN #6] Has W Social switched to closed source?
+INFO     2026-06-18 12:53:49 [scraper.py:171] 🔗 [HN #6] URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/
+INFO     2026-06-18 12:53:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-18 12:53:49 [scraper.py:170] 📥 [HN #7] Lore – Open source version control system designed for scalability
+INFO     2026-06-18 12:53:49 [scraper.py:171] 🔗 [HN #7] URL: https://lore.org/
+INFO     2026-06-18 12:53:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-18 12:53:50 [scraper.py:170] 📥 [HN #8] We built a persistent agent memory layer on Elasticsearch with 0.89 recall
+INFO     2026-06-18 12:53:50 [scraper.py:171] 🔗 [HN #8] URL: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
+INFO     2026-06-18 12:53:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-18 12:53:50 [scraper.py:170] 📥 [HN #9] I hate compilers
+INFO     2026-06-18 12:53:50 [scraper.py:171] 🔗 [HN #9] URL: https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/
+INFO     2026-06-18 12:53:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-18 12:53:50 [scraper.py:170] 📥 [HN #10] Vinyl Cache and Varnish Cache
+INFO     2026-06-18 12:53:50 [scraper.py:171] 🔗 [HN #10] URL: https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish
+INFO     2026-06-18 12:53:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-18 12:53:50 [scraper.py:178] 🎉 [HN] All done.
+
