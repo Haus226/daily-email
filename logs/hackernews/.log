@@ -32026,3 +32026,36 @@ INFO     2026-06-18 04:49:39 [scraper.py:171] 🔗 [HN #10] URL: https://lorelin
 INFO     2026-06-18 04:49:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-18 04:49:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-18 09:19:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-18 09:19:42 [scraper.py:170] 📥 [HN #1] Midjourney Medical
+INFO     2026-06-18 09:19:42 [scraper.py:171] 🔗 [HN #1] URL: https://www.midjourney.com/medical/blogpost
+INFO     2026-06-18 09:19:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-18 09:19:42 [scraper.py:170] 📥 [HN #2] DeepSeek Introduces Vision
+INFO     2026-06-18 09:19:42 [scraper.py:171] 🔗 [HN #2] URL: https://chat.deepseek.com/
+INFO     2026-06-18 09:19:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-18 09:19:42 [scraper.py:170] 📥 [HN #3] The Australian Government to Require SMS/MMS Sender ID Registraion
+INFO     2026-06-18 09:19:42 [scraper.py:171] 🔗 [HN #3] URL: https://www.acma.gov.au/sms-sender-id-register
+INFO     2026-06-18 09:19:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #4] Local Qwen isn't a worse Opus, it's a different tool
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #4] URL: https://blog.alexellis.io/local-ai-is-not-opus/
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #5] Lore – Open source version control system designed for scalability
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #5] URL: https://lore.org/
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #6] I need your clothes, your boots, and your motorcycle
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #6] URL: https://rbelmont.mameworld.info/?p=1725
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #7] The Forge We Deserve
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #7] URL: https://btao.org/posts/2026-05-09-the-forge-we-deserve/
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #8] US holds off blacklisting DeepSeek, more than 100 firms deemed security risks
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #8] URL: https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-18 09:19:43 [scraper.py:170] 📥 [HN #9] Sogen – High-performance Windows and Linux userspace emulator
+INFO     2026-06-18 09:19:43 [scraper.py:171] 🔗 [HN #9] URL: https://sogen.dev/
+INFO     2026-06-18 09:19:43 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-18 09:19:44 [scraper.py:170] 📥 [HN #10] AMD silently removes memory encryption from consumer Ryzen CPUs
+INFO     2026-06-18 09:19:44 [scraper.py:171] 🔗 [HN #10] URL: https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change
+INFO     2026-06-18 09:19:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-18 09:19:44 [scraper.py:178] 🎉 [HN] All done.
+
