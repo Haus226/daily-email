@@ -32092,3 +32092,36 @@ INFO     2026-06-18 12:53:50 [scraper.py:171] 🔗 [HN #10] URL: https://vinyl-c
 INFO     2026-06-18 12:53:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-18 12:53:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-19 05:10:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-19 05:10:31 [scraper.py:170] 📥 [HN #1] Let's Encrypt has been down most of today
+INFO     2026-06-19 05:10:31 [scraper.py:171] 🔗 [HN #1] URL: https://letsencrypt.status.io/#2026
+INFO     2026-06-19 05:10:31 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-19 05:10:32 [scraper.py:170] 📥 [HN #2] Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest
+INFO     2026-06-19 05:10:32 [scraper.py:171] 🔗 [HN #2] URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885
+INFO     2026-06-19 05:10:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-19 05:10:32 [scraper.py:170] 📥 [HN #3] To study how chips work, MIT researchers built their own operating system
+INFO     2026-06-19 05:10:32 [scraper.py:171] 🔗 [HN #3] URL: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610
+INFO     2026-06-19 05:10:32 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-19 05:10:32 [scraper.py:170] 📥 [HN #4] DuckDB Internals: Why Is DuckDB Fast? (Part 1)
+INFO     2026-06-19 05:10:32 [scraper.py:171] 🔗 [HN #4] URL: https://www.greybeam.ai/blog/duckdb-internals-part-1
+INFO     2026-06-19 05:10:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-19 05:10:32 [scraper.py:170] 📥 [HN #5] Zero-Touch OAuth for MCP
+INFO     2026-06-19 05:10:32 [scraper.py:171] 🔗 [HN #5] URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
+INFO     2026-06-19 05:10:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-19 05:10:33 [scraper.py:170] 📥 [HN #6] How Japan's railways stayed one while splitting apart
+INFO     2026-06-19 05:10:33 [scraper.py:171] 🔗 [HN #6] URL: https://arun.is/blog/jr-logo/
+INFO     2026-06-19 05:10:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-19 05:10:33 [scraper.py:170] 📥 [HN #7] I found 10k GitHub repositories distributing Trojan malware
+INFO     2026-06-19 05:10:33 [scraper.py:171] 🔗 [HN #7] URL: https://orchidfiles.com/github-repositories-distributing-malware/
+INFO     2026-06-19 05:10:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-19 05:10:33 [scraper.py:170] 📥 [HN #8] Building a robotics research setup that lives next to my desk
+INFO     2026-06-19 05:10:33 [scraper.py:171] 🔗 [HN #8] URL: https://dfdxlabs.com/research/2026/robotics-setup/
+INFO     2026-06-19 05:10:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-19 05:10:34 [scraper.py:170] 📥 [HN #9] Datasette Apps: Host custom HTML applications inside Datasette
+INFO     2026-06-19 05:10:34 [scraper.py:171] 🔗 [HN #9] URL: https://simonwillison.net/2026/Jun/18/datasette-apps/
+INFO     2026-06-19 05:10:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-19 05:10:34 [scraper.py:170] 📥 [HN #10] Cell-based architecture for resilient payment systems
+INFO     2026-06-19 05:10:34 [scraper.py:171] 🔗 [HN #10] URL: https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/
+INFO     2026-06-19 05:10:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-19 05:10:34 [scraper.py:178] 🎉 [HN] All done.
+

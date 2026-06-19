@@ -4772,3 +4772,8 @@ INFO     2026-06-18 12:53:47 [scraper.py:47] 📥 [APOD] Title: Possible Superno
 INFO     2026-06-18 12:53:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/sgrc.jpg
 INFO     2026-06-18 12:53:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-19 05:10:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-19 05:10:31 [scraper.py:47] 📥 [APOD] Title: Starry Night II
+INFO     2026-06-19 05:10:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg
+INFO     2026-06-19 05:10:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
