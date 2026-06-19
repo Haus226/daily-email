@@ -32158,3 +32158,36 @@ INFO     2026-06-19 09:47:16 [scraper.py:171] 🔗 [HN #10] URL: https://blog.mo
 INFO     2026-06-19 09:47:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-19 09:47:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-19 13:34:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-19 13:34:56 [scraper.py:170] 📥 [HN #1] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
+INFO     2026-06-19 13:34:56 [scraper.py:171] 🔗 [HN #1] URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
+INFO     2026-06-19 13:34:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-19 13:34:56 [scraper.py:170] 📥 [HN #2] Leave a Trace
+INFO     2026-06-19 13:34:56 [scraper.py:171] 🔗 [HN #2] URL: https://www.jakeworth.com/posts/leave-a-trace
+INFO     2026-06-19 13:34:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-19 13:34:56 [scraper.py:170] 📥 [HN #3] The room the economy can't see
+INFO     2026-06-19 13:34:56 [scraper.py:171] 🔗 [HN #3] URL: https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/
+INFO     2026-06-19 13:34:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-19 13:34:57 [scraper.py:170] 📥 [HN #4] DuckDB Internals: Why Is DuckDB Fast? (Part 1)
+INFO     2026-06-19 13:34:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.greybeam.ai/blog/duckdb-internals-part-1
+INFO     2026-06-19 13:34:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-19 13:34:57 [scraper.py:170] 📥 [HN #5] To study how chips work, MIT researchers built their own operating system
+INFO     2026-06-19 13:34:57 [scraper.py:171] 🔗 [HN #5] URL: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610
+INFO     2026-06-19 13:34:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-19 13:34:57 [scraper.py:170] 📥 [HN #6] Zen and the Art of Machine Learning Research
+INFO     2026-06-19 13:34:57 [scraper.py:171] 🔗 [HN #6] URL: https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning
+INFO     2026-06-19 13:34:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-19 13:34:57 [scraper.py:170] 📥 [HN #7] So You Want to Define a Well-Known URI
+INFO     2026-06-19 13:34:57 [scraper.py:171] 🔗 [HN #7] URL: https://mnot.net/blog/2026/well_known_uris
+INFO     2026-06-19 13:34:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-19 13:34:57 [scraper.py:170] 📥 [HN #8] Ten years of ClickHouse in open source
+INFO     2026-06-19 13:34:57 [scraper.py:171] 🔗 [HN #8] URL: https://clickhouse.com/blog/open-source-10
+INFO     2026-06-19 13:34:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-19 13:34:58 [scraper.py:170] 📥 [HN #9] I found 10k GitHub repositories distributing Trojan malware
+INFO     2026-06-19 13:34:58 [scraper.py:171] 🔗 [HN #9] URL: https://orchidfiles.com/github-repositories-distributing-malware/
+INFO     2026-06-19 13:34:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-19 13:34:58 [scraper.py:170] 📥 [HN #10] Gribouille 0.3.0: A Grammar of Graphics for Typst
+INFO     2026-06-19 13:34:58 [scraper.py:171] 🔗 [HN #10] URL: https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/
+INFO     2026-06-19 13:34:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-19 13:34:58 [scraper.py:178] 🎉 [HN] All done.
+
