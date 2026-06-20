@@ -32191,3 +32191,36 @@ INFO     2026-06-19 13:34:58 [scraper.py:171] 🔗 [HN #10] URL: https://mickael
 INFO     2026-06-19 13:34:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-19 13:34:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-20 04:22:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-20 04:22:24 [scraper.py:170] 📥 [HN #1] How to feed a dictator
+INFO     2026-06-20 04:22:24 [scraper.py:171] 🔗 [HN #1] URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film
+INFO     2026-06-20 04:22:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-20 04:22:24 [scraper.py:170] 📥 [HN #2] Data Compression Explained
+INFO     2026-06-20 04:22:24 [scraper.py:171] 🔗 [HN #2] URL: https://mattmahoney.net/dc/dce.html
+INFO     2026-06-20 04:22:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #3] Think of the children: How to force real ID for all internet traffic (2023)
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #3] URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #4] There are no instances in ATProto
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #4] URL: https://overreacted.io/there-are-no-instances-in-atproto/
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #5] Surprising Economics of Load-Balanced Systems
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #5] URL: https://brooker.co.za/blog/2020/08/06/erlang.html
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #6] I used sound waves to make espresso
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #6] URL: https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #7] Norway imposes near ban on AI in elementary school
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #7] URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #8] Hyundai buys Boston Dynamics
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #8] URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-20 04:22:25 [scraper.py:170] 📥 [HN #9] Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
+INFO     2026-06-20 04:22:25 [scraper.py:171] 🔗 [HN #9] URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
+INFO     2026-06-20 04:22:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-20 04:22:26 [scraper.py:170] 📥 [HN #10] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
+INFO     2026-06-20 04:22:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
+INFO     2026-06-20 04:22:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-20 04:22:26 [scraper.py:178] 🎉 [HN] All done.
+

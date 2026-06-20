@@ -4787,3 +4787,8 @@ INFO     2026-06-19 13:34:56 [scraper.py:47] 📥 [APOD] Title: Starry Night II
 INFO     2026-06-19 13:34:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg
 INFO     2026-06-19 13:34:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-20 04:22:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-20 04:22:24 [scraper.py:47] 📥 [APOD] Title: Daytime Moon Meets Evening Star
+INFO     2026-06-20 04:22:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg
+INFO     2026-06-20 04:22:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
