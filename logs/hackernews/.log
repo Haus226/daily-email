@@ -32257,3 +32257,36 @@ INFO     2026-06-20 08:23:18 [scraper.py:171] 🔗 [HN #10] URL: https://vocabow
 INFO     2026-06-20 08:23:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-20 08:23:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-20 11:56:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-20 11:56:23 [scraper.py:170] 📥 [HN #1] I Stored a Website in a Favicon
+INFO     2026-06-20 11:56:23 [scraper.py:171] 🔗 [HN #1] URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
+INFO     2026-06-20 11:56:23 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-20 11:56:23 [scraper.py:170] 📥 [HN #2] Where to Find the Colors Your Screen Can't Show You
+INFO     2026-06-20 11:56:23 [scraper.py:171] 🔗 [HN #2] URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/
+INFO     2026-06-20 11:56:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-20 11:56:24 [scraper.py:170] 📥 [HN #3] CSSQuake
+INFO     2026-06-20 11:56:24 [scraper.py:171] 🔗 [HN #3] URL: https://cssquake.com/
+INFO     2026-06-20 11:56:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-20 11:56:24 [scraper.py:170] 📥 [HN #4] Data Compression Explained (2012)
+INFO     2026-06-20 11:56:24 [scraper.py:171] 🔗 [HN #4] URL: https://mattmahoney.net/dc/dce.html
+INFO     2026-06-20 11:56:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-20 11:56:24 [scraper.py:170] 📥 [HN #5] There are no instances in ATProto
+INFO     2026-06-20 11:56:24 [scraper.py:171] 🔗 [HN #5] URL: https://overreacted.io/there-are-no-instances-in-atproto/
+INFO     2026-06-20 11:56:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-20 11:56:24 [scraper.py:170] 📥 [HN #6] Can you see three trees?
+INFO     2026-06-20 11:56:24 [scraper.py:171] 🔗 [HN #6] URL: https://www.not-ship.com/can-you-see-three-trees/
+INFO     2026-06-20 11:56:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-20 11:56:25 [scraper.py:170] 📥 [HN #7] The discovery that changed how scientists think about memory
+INFO     2026-06-20 11:56:25 [scraper.py:171] 🔗 [HN #7] URL: https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize
+INFO     2026-06-20 11:56:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-20 11:56:25 [scraper.py:170] 📥 [HN #8] 16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating
+INFO     2026-06-20 11:56:25 [scraper.py:171] 🔗 [HN #8] URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating
+INFO     2026-06-20 11:56:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-20 11:56:25 [scraper.py:170] 📥 [HN #9] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2
+INFO     2026-06-20 11:56:25 [scraper.py:171] 🔗 [HN #9] URL: https://arrowtsx.dev/bigger-models/
+INFO     2026-06-20 11:56:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-20 11:56:25 [scraper.py:170] 📥 [HN #10] The Cold War's Accidental Whale Observatory
+INFO     2026-06-20 11:56:25 [scraper.py:171] 🔗 [HN #10] URL: https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/
+INFO     2026-06-20 11:56:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-20 11:56:25 [scraper.py:178] 🎉 [HN] All done.
+
