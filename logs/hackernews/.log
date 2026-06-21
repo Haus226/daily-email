@@ -32323,3 +32323,36 @@ INFO     2026-06-21 05:06:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.smp
 INFO     2026-06-21 05:06:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-21 05:06:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-21 08:59:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #1] A 3D voxel game engine written in APL
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/namgyaaal/avoxelgame
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #2] Google Hits 50% IPv6
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #2] URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #3] Developers don't understand CORS (2019)
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #3] URL: https://fosterelli.co/developers-dont-understand-cors
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #4] Zigzag Decoding with AVX-512
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #4] URL: https://zeux.io/2026/06/17/zigzag-decoding-avx512/
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #5] Loupe – A iOS app that raises awareness about what native apps can see
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/mysk-research/loupe
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-21 08:59:39 [scraper.py:170] 📥 [HN #6] Renting a sewing machine from the library
+INFO     2026-06-21 08:59:39 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+INFO     2026-06-21 08:59:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-21 08:59:40 [scraper.py:170] 📥 [HN #7] Epoll vs. io_uring in Linux
+INFO     2026-06-21 08:59:40 [scraper.py:171] 🔗 [HN #7] URL: https://sibexi.co/posts/epoll-vs-io_uring/
+INFO     2026-06-21 08:59:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-21 08:59:40 [scraper.py:170] 📥 [HN #8] Building reliable agentic AI systems
+INFO     2026-06-21 08:59:40 [scraper.py:171] 🔗 [HN #8] URL: https://martinfowler.com/articles/reliable-llm-bayer.html
+INFO     2026-06-21 08:59:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-21 08:59:40 [scraper.py:170] 📥 [HN #9] Slow breathing modulates brain function and risk behavior
+INFO     2026-06-21 08:59:40 [scraper.py:171] 🔗 [HN #9] URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
+INFO     2026-06-21 08:59:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-21 08:59:40 [scraper.py:170] 📥 [HN #10] Show HN: TownSquare, a tiny presence layer for websites
+INFO     2026-06-21 08:59:40 [scraper.py:171] 🔗 [HN #10] URL: https://townsquare.cauenapier.com/
+INFO     2026-06-21 08:59:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-21 08:59:40 [scraper.py:178] 🎉 [HN] All done.
+
