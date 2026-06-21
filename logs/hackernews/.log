@@ -32290,3 +32290,36 @@ INFO     2026-06-20 11:56:25 [scraper.py:171] 🔗 [HN #10] URL: https://theread
 INFO     2026-06-20 11:56:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-20 11:56:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-21 05:06:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-21 05:06:17 [scraper.py:170] 📥 [HN #1] Renting a sewing machine from the library
+INFO     2026-06-21 05:06:17 [scraper.py:171] 🔗 [HN #1] URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+INFO     2026-06-21 05:06:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-21 05:06:17 [scraper.py:170] 📥 [HN #2] Epoll vs. io_uring in Linux
+INFO     2026-06-21 05:06:17 [scraper.py:171] 🔗 [HN #2] URL: https://sibexi.co/posts/epoll-vs-io_uring/
+INFO     2026-06-21 05:06:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-21 05:06:18 [scraper.py:170] 📥 [HN #3] Developers don't understand CORS (2019)
+INFO     2026-06-21 05:06:18 [scraper.py:171] 🔗 [HN #3] URL: https://fosterelli.co/developers-dont-understand-cors
+INFO     2026-06-21 05:06:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-21 05:06:18 [scraper.py:170] 📥 [HN #4] Loupe – A iOS app that raises awareness about what native apps can see
+INFO     2026-06-21 05:06:18 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/mysk-research/loupe
+INFO     2026-06-21 05:06:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-21 05:06:18 [scraper.py:170] 📥 [HN #5] Show HN: TownSquare, a tiny presence layer for websites
+INFO     2026-06-21 05:06:18 [scraper.py:171] 🔗 [HN #5] URL: https://townsquare.cauenapier.com/
+INFO     2026-06-21 05:06:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-21 05:06:18 [scraper.py:170] 📥 [HN #6] Slow breathing modulates brain function and risk behavior
+INFO     2026-06-21 05:06:18 [scraper.py:171] 🔗 [HN #6] URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
+INFO     2026-06-21 05:06:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-21 05:06:19 [scraper.py:170] 📥 [HN #7] 15-minute at-home Lyme disease tick test
+INFO     2026-06-21 05:06:19 [scraper.py:171] 🔗 [HN #7] URL: https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/
+INFO     2026-06-21 05:06:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-21 05:06:19 [scraper.py:170] 📥 [HN #8] Project Fetch: Phase Two
+INFO     2026-06-21 05:06:19 [scraper.py:171] 🔗 [HN #8] URL: https://www.anthropic.com/research/project-fetch-phase-two
+INFO     2026-06-21 05:06:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-21 05:06:19 [scraper.py:170] 📥 [HN #9] When I reject AI code even if it works
+INFO     2026-06-21 05:06:19 [scraper.py:171] 🔗 [HN #9] URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/
+INFO     2026-06-21 05:06:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-21 05:06:19 [scraper.py:170] 📥 [HN #10] SMPTE Makes Its Standards Freely Accessible
+INFO     2026-06-21 05:06:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community
+INFO     2026-06-21 05:06:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-21 05:06:19 [scraper.py:178] 🎉 [HN] All done.
+

@@ -4800,3 +4800,8 @@ INFO     2026-06-20 11:56:23 [scraper.py:47] 📥 [APOD] Title: Daytime Moon Mee
 INFO     2026-06-20 11:56:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg
 INFO     2026-06-20 11:56:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-21 05:06:17 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-21 05:06:17 [scraper.py:47] 📥 [APOD] Title: Keogram: The Sky in 2025
+INFO     2026-06-21 05:06:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg
+INFO     2026-06-21 05:06:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
