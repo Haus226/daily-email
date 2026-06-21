@@ -4810,3 +4810,8 @@ INFO     2026-06-21 08:59:38 [scraper.py:47] 📥 [APOD] Title: Keogram: The Sky
 INFO     2026-06-21 08:59:38 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg
 INFO     2026-06-21 08:59:38 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-21 12:10:50 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-21 12:10:51 [scraper.py:47] 📥 [APOD] Title: Keogram: The Sky in 2025
+INFO     2026-06-21 12:10:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg
+INFO     2026-06-21 12:10:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

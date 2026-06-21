@@ -32356,3 +32356,36 @@ INFO     2026-06-21 08:59:40 [scraper.py:171] 🔗 [HN #10] URL: https://townsqu
 INFO     2026-06-21 08:59:40 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-21 08:59:40 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-21 12:10:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-21 12:10:51 [scraper.py:170] 📥 [HN #1] A 3D voxel game engine written in APL
+INFO     2026-06-21 12:10:51 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/namgyaaal/avoxelgame
+INFO     2026-06-21 12:10:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-21 12:10:51 [scraper.py:170] 📥 [HN #2] Google Hits 50% IPv6
+INFO     2026-06-21 12:10:51 [scraper.py:171] 🔗 [HN #2] URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
+INFO     2026-06-21 12:10:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-21 12:10:51 [scraper.py:170] 📥 [HN #3] The case against geometric algebra
+INFO     2026-06-21 12:10:51 [scraper.py:171] 🔗 [HN #3] URL: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html
+INFO     2026-06-21 12:10:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-21 12:10:52 [scraper.py:170] 📥 [HN #4] Loupe – A iOS app that raises awareness about what native apps can see
+INFO     2026-06-21 12:10:52 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/mysk-research/loupe
+INFO     2026-06-21 12:10:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-21 12:10:52 [scraper.py:170] 📥 [HN #5] Zigzag Decoding with AVX-512
+INFO     2026-06-21 12:10:52 [scraper.py:171] 🔗 [HN #5] URL: https://zeux.io/2026/06/17/zigzag-decoding-avx512/
+INFO     2026-06-21 12:10:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-21 12:10:52 [scraper.py:170] 📥 [HN #6] Developers don't understand CORS (2019)
+INFO     2026-06-21 12:10:52 [scraper.py:171] 🔗 [HN #6] URL: https://fosterelli.co/developers-dont-understand-cors
+INFO     2026-06-21 12:10:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-21 12:10:53 [scraper.py:170] 📥 [HN #7] Running MicroVMs in Proxmox VE, the Easy Way
+INFO     2026-06-21 12:10:53 [scraper.py:171] 🔗 [HN #7] URL: https://taoofmac.com/space/blog/2026/06/18/1845
+INFO     2026-06-21 12:10:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-21 12:10:53 [scraper.py:170] 📥 [HN #8] Renting a sewing machine from the library
+INFO     2026-06-21 12:10:53 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+INFO     2026-06-21 12:10:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-21 12:10:53 [scraper.py:170] 📥 [HN #9] A tale of two path separators
+INFO     2026-06-21 12:10:53 [scraper.py:171] 🔗 [HN #9] URL: https://alexwlchan.net/2021/slashes/
+INFO     2026-06-21 12:10:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-21 12:10:53 [scraper.py:170] 📥 [HN #10] Windows UI evolution: Clicking an unassociated file
+INFO     2026-06-21 12:10:53 [scraper.py:171] 🔗 [HN #10] URL: https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html
+INFO     2026-06-21 12:10:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-21 12:10:53 [scraper.py:178] 🎉 [HN] All done.
+
