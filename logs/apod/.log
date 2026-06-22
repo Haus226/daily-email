@@ -4820,3 +4820,8 @@ INFO     2026-06-22 05:17:57 [scraper.py:47] 📥 [APOD] Title: M27: The Dumbbel
 INFO     2026-06-22 05:17:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg
 INFO     2026-06-22 05:17:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-22 10:43:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-22 10:43:55 [scraper.py:47] 📥 [APOD] Title: M27: The Dumbbell Nebula
+INFO     2026-06-22 10:43:55 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg
+INFO     2026-06-22 10:43:55 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
