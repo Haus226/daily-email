@@ -32389,3 +32389,36 @@ INFO     2026-06-21 12:10:53 [scraper.py:171] 🔗 [HN #10] URL: https://movq.de
 INFO     2026-06-21 12:10:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-21 12:10:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-22 05:17:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-22 05:17:57 [scraper.py:170] 📥 [HN #1] Did my old job only exist because of fraud?
+INFO     2026-06-22 05:17:57 [scraper.py:171] 🔗 [HN #1] URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
+INFO     2026-06-22 05:17:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #2] Help I accidentally a wigglegram
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #2] URL: https://lmao.center/blog/wiggle-accidents/
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #3] Apertus – Open Foundation Model for Sovereign AI
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #3] URL: https://apertvs.ai/
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #4] Sakana Fugu
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #4] URL: https://sakana.ai/fugu/
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #5] Everything is logarithms
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #5] URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #6] There is minimal downside to switching to open models
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.marble.onl/posts/cancel_claude.html
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #7] Memory Safe Inline Assembly
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #7] URL: https://fil-c.org/inlineasm
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-22 05:17:58 [scraper.py:170] 📥 [HN #8] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions
+INFO     2026-06-22 05:17:58 [scraper.py:171] 🔗 [HN #8] URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
+INFO     2026-06-22 05:17:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-22 05:17:59 [scraper.py:170] 📥 [HN #9] Danish privacy activist Lars Andersen raided by police
+INFO     2026-06-22 05:17:59 [scraper.py:171] 🔗 [HN #9] URL: https://twitter.com/LarsAnders1620/status/2068208864747540516#m
+INFO     2026-06-22 05:17:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-22 05:17:59 [scraper.py:170] 📥 [HN #10] 1983 Northern Telecom Commodore Phone
+INFO     2026-06-22 05:17:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/
+INFO     2026-06-22 05:17:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-22 05:17:59 [scraper.py:178] 🎉 [HN] All done.
+
