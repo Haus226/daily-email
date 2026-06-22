@@ -32455,3 +32455,36 @@ INFO     2026-06-22 10:43:57 [scraper.py:171] 🔗 [HN #10] URL: https://alexkri
 INFO     2026-06-22 10:43:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-22 10:43:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-22 15:23:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-22 15:23:51 [scraper.py:170] 📥 [HN #1] Pledging Another $400k to the Zig Software Foundation
+INFO     2026-06-22 15:23:51 [scraper.py:171] 🔗 [HN #1] URL: https://mitchellh.com/writing/zig-donation-2026
+INFO     2026-06-22 15:23:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-22 15:23:51 [scraper.py:170] 📥 [HN #2] Never Give Them Your Face
+INFO     2026-06-22 15:23:51 [scraper.py:171] 🔗 [HN #2] URL: https://nevergivethemyourface.com/
+INFO     2026-06-22 15:23:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-22 15:23:51 [scraper.py:170] 📥 [HN #3] Claude Code's "extended thinking" is a summary- not authentic thinking
+INFO     2026-06-22 15:23:51 [scraper.py:171] 🔗 [HN #3] URL: https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
+INFO     2026-06-22 15:23:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-22 15:23:51 [scraper.py:170] 📥 [HN #4] Deno Desktop
+INFO     2026-06-22 15:23:51 [scraper.py:171] 🔗 [HN #4] URL: https://docs.deno.com/runtime/desktop/
+INFO     2026-06-22 15:23:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-22 15:23:51 [scraper.py:170] 📥 [HN #5] Moebius: 0.2B image inpainting model with 10B-level performance
+INFO     2026-06-22 15:23:51 [scraper.py:171] 🔗 [HN #5] URL: https://hustvl.github.io/Moebius/
+INFO     2026-06-22 15:23:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:170] 📥 [HN #6] Codex logging bug may write TBs to local SSDs
+INFO     2026-06-22 15:23:52 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/openai/codex/issues/28224
+INFO     2026-06-22 15:23:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:170] 📥 [HN #7] GLM 5.2 vs. Opus
+INFO     2026-06-22 15:23:52 [scraper.py:171] 🔗 [HN #7] URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/
+INFO     2026-06-22 15:23:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:170] 📥 [HN #8] I built Ponytrail, a local audit trail for AI coding-agent edits
+INFO     2026-06-22 15:23:52 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/0xroylee/ponytrail
+INFO     2026-06-22 15:23:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:170] 📥 [HN #9] Die analysis of the 8087 math coprocessor's fast bit shifter
+INFO     2026-06-22 15:23:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html
+INFO     2026-06-22 15:23:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:170] 📥 [HN #10] Show HN: Got sick of ads, so I made my own logic puzzle site
+INFO     2026-06-22 15:23:52 [scraper.py:171] 🔗 [HN #10] URL: https://puzzlelair.com/
+INFO     2026-06-22 15:23:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-22 15:23:52 [scraper.py:178] 🎉 [HN] All done.
+

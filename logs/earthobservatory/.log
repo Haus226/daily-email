@@ -14534,3 +14534,24 @@ INFO     2026-06-22 10:43:56 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-22 10:43:56 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-06-22 15:23:49 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-22 15:23:50 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-22 15:23:50 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-22 15:23:50 [scraper.py:133] 📥 [EO] Title: Signs of Thaw in the Bering Sea
+INFO     2026-06-22 15:23:50 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-22 15:23:50 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-22 15:23:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-22 15:23:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-06-22 15:23:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-22 15:23:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-06-22 15:23:52 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-22 15:23:52 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-06-22 15:23:52 [scraper.py:133] 📥 [EO] Title: Signs of Thaw in the Bering Sea
+INFO     2026-06-22 15:23:52 [scraper.py:133] 📥 [EO] Title: Signs of Thaw in the Bering Sea
+INFO     2026-06-22 15:23:52 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-22 15:23:52 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-06-22 15:23:52 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-06-22 15:23:52 [scraper.py:154] ✅ [EO] Successfully fetched.
+
