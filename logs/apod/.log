@@ -4830,3 +4830,8 @@ INFO     2026-06-22 15:23:51 [scraper.py:47] 📥 [APOD] Title: M27: The Dumbbel
 INFO     2026-06-22 15:23:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg
 INFO     2026-06-22 15:23:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-23 04:11:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-23 04:11:49 [scraper.py:47] 📥 [APOD] Title: Flying Past Neptune's Moon Triton
+INFO     2026-06-23 04:11:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4
+INFO     2026-06-23 04:11:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
