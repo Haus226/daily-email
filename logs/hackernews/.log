@@ -32620,3 +32620,36 @@ INFO     2026-06-24 04:15:07 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-24 04:15:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-24 04:15:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-24 08:25:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-24 08:25:48 [scraper.py:170] 📥 [HN #1] Vulnerability reports are not special anymore
+INFO     2026-06-24 08:25:48 [scraper.py:171] 🔗 [HN #1] URL: https://words.filippo.io/vuln-reports/
+INFO     2026-06-24 08:25:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-24 08:25:48 [scraper.py:170] 📥 [HN #2] Raspberry Pi Pico W as USB Wi-Fi Adapter
+INFO     2026-06-24 08:25:48 [scraper.py:171] 🔗 [HN #2] URL: https://gitlab.com/baiyibai/pico-usb-wifi
+INFO     2026-06-24 08:25:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-24 08:25:48 [scraper.py:170] 📥 [HN #3] Show HN: An ASCII 3D Rendering Engine
+INFO     2026-06-24 08:25:48 [scraper.py:171] 🔗 [HN #3] URL: https://glyphcss.com
+INFO     2026-06-24 08:25:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-24 08:25:49 [scraper.py:170] 📥 [HN #4] Jerry's Map
+INFO     2026-06-24 08:25:49 [scraper.py:171] 🔗 [HN #4] URL: http://www.jerrysmap.com/the-map
+INFO     2026-06-24 08:25:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-24 08:25:49 [scraper.py:170] 📥 [HN #5] FUTO Swipe – A new swipe typing model
+INFO     2026-06-24 08:25:49 [scraper.py:171] 🔗 [HN #5] URL: https://swipe.futo.tech/
+INFO     2026-06-24 08:25:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-24 08:25:49 [scraper.py:170] 📥 [HN #6] In memory of the man who put red and green squiggles under words
+INFO     2026-06-24 08:25:49 [scraper.py:171] 🔗 [HN #6] URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+INFO     2026-06-24 08:25:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-24 08:25:49 [scraper.py:170] 📥 [HN #7] Qwen-AgentWorld: Language World Models for General Agents
+INFO     2026-06-24 08:25:49 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2606.24597
+INFO     2026-06-24 08:25:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-24 08:25:49 [scraper.py:170] 📥 [HN #8] "Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds
+INFO     2026-06-24 08:25:49 [scraper.py:171] 🔗 [HN #8] URL: https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf
+INFO     2026-06-24 08:25:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-24 08:25:50 [scraper.py:170] 📥 [HN #9] Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design
+INFO     2026-06-24 08:25:50 [scraper.py:171] 🔗 [HN #9] URL: https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn
+INFO     2026-06-24 08:25:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-24 08:25:50 [scraper.py:170] 📥 [HN #10] Remaking BBC test cards to teach you video processing
+INFO     2026-06-24 08:25:50 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=U_6HxPkrgcg
+INFO     2026-06-24 08:25:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-24 08:25:50 [scraper.py:178] 🎉 [HN] All done.
+
