@@ -32587,3 +32587,36 @@ INFO     2026-06-23 12:33:25 [scraper.py:171] 🔗 [HN #10] URL: https://ex-vi.s
 INFO     2026-06-23 12:33:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-23 12:33:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-24 04:15:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-24 04:15:05 [scraper.py:170] 📥 [HN #1] Vulnerability reports are not special anymore
+INFO     2026-06-24 04:15:05 [scraper.py:171] 🔗 [HN #1] URL: https://words.filippo.io/vuln-reports/
+INFO     2026-06-24 04:15:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-24 04:15:05 [scraper.py:170] 📥 [HN #2] Jerry's Map
+INFO     2026-06-24 04:15:05 [scraper.py:171] 🔗 [HN #2] URL: http://www.jerrysmap.com/the-map
+INFO     2026-06-24 04:15:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-24 04:15:05 [scraper.py:170] 📥 [HN #3] FUTO Swipe – A new swipe typing model
+INFO     2026-06-24 04:15:05 [scraper.py:171] 🔗 [HN #3] URL: https://swipe.futo.tech/
+INFO     2026-06-24 04:15:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #4] A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #4] URL: https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #5] In memory of the man who put red and green squiggles under words
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #5] URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #6] Printing Gaussian Splats
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #6] URL: https://www.patreon.com/DanyBittel/posts/printing-splats-161333338
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #7] Usbliter8: an A12/A13 SecureROM Exploit
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #7] URL: https://ps.tc/pages/blog-usbliter8.html
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #8] Swift Package Index joins Apple
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #8] URL: https://swiftpackageindex.com/blog/swift-package-index-joins-apple
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-24 04:15:06 [scraper.py:170] 📥 [HN #9] Extreme Heat conference cancelled due to extreme heat warning
+INFO     2026-06-24 04:15:06 [scraper.py:171] 🔗 [HN #9] URL: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/
+INFO     2026-06-24 04:15:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-24 04:15:07 [scraper.py:170] 📥 [HN #10] DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers
+INFO     2026-06-24 04:15:07 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/End2End-Diffusion/diffusion-bench
+INFO     2026-06-24 04:15:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-24 04:15:07 [scraper.py:178] 🎉 [HN] All done.
+
