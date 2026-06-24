@@ -4853,3 +4853,8 @@ INFO     2026-06-24 08:25:48 [scraper.py:47] 📥 [APOD] Title: SDO Observes a C
 INFO     2026-06-24 08:25:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4
 INFO     2026-06-24 08:25:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-24 12:19:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-24 12:19:26 [scraper.py:47] 📥 [APOD] Title: SDO Observes a Coronal Mass Ejection
+INFO     2026-06-24 12:19:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4
+INFO     2026-06-24 12:19:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

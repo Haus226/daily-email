@@ -32653,3 +32653,36 @@ INFO     2026-06-24 08:25:50 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-06-24 08:25:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-24 08:25:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-24 12:19:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-24 12:19:26 [scraper.py:170] 📥 [HN #1] We're making Bunny DNS free: because a faster internet won't build itself
+INFO     2026-06-24 12:19:26 [scraper.py:171] 🔗 [HN #1] URL: https://bunny.net/blog/were-making-bunny-dns-free/
+INFO     2026-06-24 12:19:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-24 12:19:27 [scraper.py:170] 📥 [HN #2] Krea 2 Technical Report
+INFO     2026-06-24 12:19:27 [scraper.py:171] 🔗 [HN #2] URL: https://www.krea.ai/blog/krea-2-technical-report
+INFO     2026-06-24 12:19:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-24 12:19:27 [scraper.py:170] 📥 [HN #3] Statistics that live in your SQL
+INFO     2026-06-24 12:19:27 [scraper.py:171] 🔗 [HN #3] URL: https://kolistat.com/blog/the-stats-duck-v0-6-0/
+INFO     2026-06-24 12:19:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-24 12:19:27 [scraper.py:170] 📥 [HN #4] Vulnerability reports are not special anymore
+INFO     2026-06-24 12:19:27 [scraper.py:171] 🔗 [HN #4] URL: https://words.filippo.io/vuln-reports/
+INFO     2026-06-24 12:19:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-24 12:19:27 [scraper.py:170] 📥 [HN #5] A deadly fungus that can infect cats and people is spreading
+INFO     2026-06-24 12:19:27 [scraper.py:171] 🔗 [HN #5] URL: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading
+INFO     2026-06-24 12:19:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-24 12:19:27 [scraper.py:170] 📥 [HN #6] Raspberry Pi Pico W as USB Wi-Fi Adapter
+INFO     2026-06-24 12:19:27 [scraper.py:171] 🔗 [HN #6] URL: https://gitlab.com/baiyibai/pico-usb-wifi
+INFO     2026-06-24 12:19:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-24 12:19:28 [scraper.py:170] 📥 [HN #7] Jerry's Map
+INFO     2026-06-24 12:19:28 [scraper.py:171] 🔗 [HN #7] URL: http://www.jerrysmap.com/the-map
+INFO     2026-06-24 12:19:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-24 12:19:28 [scraper.py:170] 📥 [HN #8] In memory of the man who put red and green squiggles under words
+INFO     2026-06-24 12:19:28 [scraper.py:171] 🔗 [HN #8] URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+INFO     2026-06-24 12:19:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-24 12:19:28 [scraper.py:170] 📥 [HN #9] Too many R packages: CRAN is inundated with submissions
+INFO     2026-06-24 12:19:28 [scraper.py:171] 🔗 [HN #9] URL: https://rworks.dev/posts/too-many-R-packages/
+INFO     2026-06-24 12:19:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-24 12:19:28 [scraper.py:170] 📥 [HN #10] FUTO Swipe – A new swipe typing model
+INFO     2026-06-24 12:19:28 [scraper.py:171] 🔗 [HN #10] URL: https://swipe.futo.tech/
+INFO     2026-06-24 12:19:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-24 12:19:28 [scraper.py:178] 🎉 [HN] All done.
+
