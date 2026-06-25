@@ -32752,3 +32752,36 @@ INFO     2026-06-25 08:26:28 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-25 08:26:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-25 08:26:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-25 12:22:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-25 12:22:11 [scraper.py:170] 📥 [HN #1] Dolphin Emulator Progress Release 2606
+INFO     2026-06-25 12:22:11 [scraper.py:171] 🔗 [HN #1] URL: https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/
+INFO     2026-06-25 12:22:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-25 12:22:11 [scraper.py:170] 📥 [HN #2] Half-Life 2 in a Browser
+INFO     2026-06-25 12:22:11 [scraper.py:171] 🔗 [HN #2] URL: https://hl2.slqnt.dev/
+INFO     2026-06-25 12:22:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-25 12:22:12 [scraper.py:170] 📥 [HN #3] Anthropic says Alibaba illicitly extracted Claude AI model capabilities
+INFO     2026-06-25 12:22:12 [scraper.py:171] 🔗 [HN #3] URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
+INFO     2026-06-25 12:22:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-25 12:22:12 [scraper.py:170] 📥 [HN #4] OpenAI unveils its first custom chip, built by Broadcom
+INFO     2026-06-25 12:22:12 [scraper.py:171] 🔗 [HN #4] URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+INFO     2026-06-25 12:22:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-25 12:22:12 [scraper.py:170] 📥 [HN #5] Cloudflare launched self-managed OAuth for all
+INFO     2026-06-25 12:22:12 [scraper.py:171] 🔗 [HN #5] URL: https://blog.cloudflare.com/oauth-for-all/
+INFO     2026-06-25 12:22:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-25 12:22:12 [scraper.py:170] 📥 [HN #6] Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub
+INFO     2026-06-25 12:22:12 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/BohemiaInteractive/CWR
+INFO     2026-06-25 12:22:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-25 12:22:13 [scraper.py:170] 📥 [HN #7] LastPass notifies users of yet another data breach
+INFO     2026-06-25 12:22:13 [scraper.py:171] 🔗 [HN #7] URL: https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/
+INFO     2026-06-25 12:22:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-25 12:22:13 [scraper.py:170] 📥 [HN #8] Blogging can just be stating the obvious
+INFO     2026-06-25 12:22:13 [scraper.py:171] 🔗 [HN #8] URL: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
+INFO     2026-06-25 12:22:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-25 12:22:13 [scraper.py:170] 📥 [HN #9] LuaJIT 3.0 proposed syntax extensions
+INFO     2026-06-25 12:22:13 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/LuaJIT/LuaJIT/issues/1475
+INFO     2026-06-25 12:22:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-25 12:22:13 [scraper.py:170] 📥 [HN #10] Markdy: Like Mermaid Diagrams, but for Motion
+INFO     2026-06-25 12:22:13 [scraper.py:171] 🔗 [HN #10] URL: https://markdy.com
+INFO     2026-06-25 12:22:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-25 12:22:13 [scraper.py:178] 🎉 [HN] All done.
+
