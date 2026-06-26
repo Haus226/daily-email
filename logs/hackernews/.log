@@ -32851,3 +32851,36 @@ INFO     2026-06-26 08:32:53 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-06-26 08:32:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-26 08:32:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-26 12:11:32 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-26 12:11:32 [scraper.py:170] 📥 [HN #1] We All Depend on Open Source. We Will Defend It Together
+INFO     2026-06-26 12:11:32 [scraper.py:171] 🔗 [HN #1] URL: https://akrites.org/letter/
+INFO     2026-06-26 12:11:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-26 12:11:32 [scraper.py:170] 📥 [HN #2] Captcha proves you're human. HATCHA proves you're not
+INFO     2026-06-26 12:11:32 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/mondaycom/HATCHA
+INFO     2026-06-26 12:11:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-26 12:11:33 [scraper.py:170] 📥 [HN #3] Om Malik has died
+INFO     2026-06-26 12:11:33 [scraper.py:171] 🔗 [HN #3] URL: https://om.co/2026/06/24/1966-2026/
+INFO     2026-06-26 12:11:33 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-26 12:11:33 [scraper.py:170] 📥 [HN #4] An entire Herculaneum scroll has been read for the first time
+INFO     2026-06-26 12:11:33 [scraper.py:171] 🔗 [HN #4] URL: https://scrollprize.org/firstscroll
+INFO     2026-06-26 12:11:33 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-26 12:11:33 [scraper.py:170] 📥 [HN #5] Libre Barcode Project
+INFO     2026-06-26 12:11:33 [scraper.py:171] 🔗 [HN #5] URL: https://graphicore.github.io/librebarcode/
+INFO     2026-06-26 12:11:33 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-26 12:11:33 [scraper.py:170] 📥 [HN #6] Framework's 10G Ethernet module exposes USB-C's complexity
+INFO     2026-06-26 12:11:33 [scraper.py:171] 🔗 [HN #6] URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
+INFO     2026-06-26 12:11:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-26 12:11:34 [scraper.py:170] 📥 [HN #7] What happened after 2k people tried to hack my AI assistant
+INFO     2026-06-26 12:11:34 [scraper.py:171] 🔗 [HN #7] URL: https://www.fernandoi.cl/posts/hackmyclaw/
+INFO     2026-06-26 12:11:34 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-26 12:11:34 [scraper.py:170] 📥 [HN #8] The 'papers, please' era of the internet will decimate your privacy
+INFO     2026-06-26 12:11:34 [scraper.py:171] 🔗 [HN #8] URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
+INFO     2026-06-26 12:11:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-26 12:11:34 [scraper.py:170] 📥 [HN #9] The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
+INFO     2026-06-26 12:11:34 [scraper.py:171] 🔗 [HN #9] URL: https://gchandbook.org/
+INFO     2026-06-26 12:11:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-26 12:11:34 [scraper.py:170] 📥 [HN #10] 22-year-old Mozart's handwritten notebook unearthed in 'major discovery'
+INFO     2026-06-26 12:11:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/
+INFO     2026-06-26 12:11:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-26 12:11:34 [scraper.py:178] 🎉 [HN] All done.
+
