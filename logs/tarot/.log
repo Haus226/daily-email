@@ -4948,3 +4948,8 @@ INFO     2026-06-26 04:21:39 [scraper.py:390] 📥 [TAROT] Card: Ace of Pentacle
 INFO     2026-06-26 04:21:39 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-06-26 04:21:39 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-06-26 08:32:51 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-06-26 08:32:51 [scraper.py:390] 📥 [TAROT] Card: Ace of Pentacles
+INFO     2026-06-26 08:32:52 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-06-26 08:32:52 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
