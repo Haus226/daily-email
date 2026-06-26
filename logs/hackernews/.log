@@ -32785,3 +32785,36 @@ INFO     2026-06-25 12:22:13 [scraper.py:171] 🔗 [HN #10] URL: https://markdy.
 INFO     2026-06-25 12:22:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-25 12:22:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-26 04:21:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-26 04:21:39 [scraper.py:170] 📥 [HN #1] Om Malik has died
+INFO     2026-06-26 04:21:39 [scraper.py:171] 🔗 [HN #1] URL: https://om.co/2026/06/24/1966-2026/
+INFO     2026-06-26 04:21:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-26 04:21:39 [scraper.py:170] 📥 [HN #2] An entire Herculaneum scroll has been read for the first time
+INFO     2026-06-26 04:21:39 [scraper.py:171] 🔗 [HN #2] URL: https://scrollprize.org/firstscroll
+INFO     2026-06-26 04:21:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-26 04:21:39 [scraper.py:170] 📥 [HN #3] Libre Barcode Project
+INFO     2026-06-26 04:21:39 [scraper.py:171] 🔗 [HN #3] URL: https://graphicore.github.io/librebarcode/
+INFO     2026-06-26 04:21:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-26 04:21:40 [scraper.py:170] 📥 [HN #4] Framework's 10G Ethernet module exposes USB-C's complexity
+INFO     2026-06-26 04:21:40 [scraper.py:171] 🔗 [HN #4] URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
+INFO     2026-06-26 04:21:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-26 04:21:40 [scraper.py:170] 📥 [HN #5] Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line
+INFO     2026-06-26 04:21:40 [scraper.py:171] 🔗 [HN #5] URL: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true
+INFO     2026-06-26 04:21:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-26 04:21:40 [scraper.py:170] 📥 [HN #6] Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB
+INFO     2026-06-26 04:21:40 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=48644463
+INFO     2026-06-26 04:21:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-26 04:21:40 [scraper.py:170] 📥 [HN #7] The 'papers, please' era of the internet will decimate your privacy
+INFO     2026-06-26 04:21:40 [scraper.py:171] 🔗 [HN #7] URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
+INFO     2026-06-26 04:21:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-26 04:21:41 [scraper.py:170] 📥 [HN #8] The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)
+INFO     2026-06-26 04:21:41 [scraper.py:171] 🔗 [HN #8] URL: https://gchandbook.org/
+INFO     2026-06-26 04:21:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-26 04:21:41 [scraper.py:170] 📥 [HN #9] Oxide computer 3D rack guided tour
+INFO     2026-06-26 04:21:41 [scraper.py:171] 🔗 [HN #9] URL: https://explorer.oxide.computer/
+INFO     2026-06-26 04:21:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-26 04:21:41 [scraper.py:170] 📥 [HN #10] A game where you're an OS and have to manage processes, memory and I/O events
+INFO     2026-06-26 04:21:41 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/plbrault/youre-the-os
+INFO     2026-06-26 04:21:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-26 04:21:41 [scraper.py:178] 🎉 [HN] All done.
+
