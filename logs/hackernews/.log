@@ -32917,3 +32917,36 @@ INFO     2026-06-27 04:08:12 [scraper.py:171] 🔗 [HN #10] URL: https://kirill.
 INFO     2026-06-27 04:08:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-27 04:08:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-27 07:52:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-27 07:52:06 [scraper.py:170] 📥 [HN #1] OpenTTD 16.0-Beta1
+INFO     2026-06-27 07:52:06 [scraper.py:171] 🔗 [HN #1] URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1
+INFO     2026-06-27 07:52:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-27 07:52:06 [scraper.py:170] 📥 [HN #2] Previewing GPT‑5.6 Sol: a next-generation model
+INFO     2026-06-27 07:52:06 [scraper.py:171] 🔗 [HN #2] URL: https://openai.com/index/previewing-gpt-5-6-sol/
+INFO     2026-06-27 07:52:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-27 07:52:06 [scraper.py:170] 📥 [HN #3] WordStar: A Writer's Word Processor (1996)
+INFO     2026-06-27 07:52:06 [scraper.py:171] 🔗 [HN #3] URL: https://www.sfwriter.com/wordstar.htm
+INFO     2026-06-27 07:52:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-27 07:52:07 [scraper.py:170] 📥 [HN #4] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+INFO     2026-06-27 07:52:07 [scraper.py:171] 🔗 [HN #4] URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+INFO     2026-06-27 07:52:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-27 07:52:07 [scraper.py:170] 📥 [HN #5] IBM MCGA Gate Array Reverse Engineering
+INFO     2026-06-27 07:52:07 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/schlae/IBM_MCGA
+INFO     2026-06-27 07:52:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-27 07:52:07 [scraper.py:170] 📥 [HN #6] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
+INFO     2026-06-27 07:52:07 [scraper.py:171] 🔗 [HN #6] URL: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
+INFO     2026-06-27 07:52:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-27 07:52:07 [scraper.py:170] 📥 [HN #7] Fusion Programming Language
+INFO     2026-06-27 07:52:07 [scraper.py:171] 🔗 [HN #7] URL: https://fusion-lang.org/
+INFO     2026-06-27 07:52:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-27 07:52:08 [scraper.py:170] 📥 [HN #8] MicroVMs: Run isolated sandboxes with full lifecycle control
+INFO     2026-06-27 07:52:08 [scraper.py:171] 🔗 [HN #8] URL: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
+INFO     2026-06-27 07:52:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-27 07:52:08 [scraper.py:170] 📥 [HN #9] Show HN: Hacker News on a train station-style flip board
+INFO     2026-06-27 07:52:08 [scraper.py:171] 🔗 [HN #9] URL: https://popflame.quickish.space/hn-flipboard/
+INFO     2026-06-27 07:52:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-27 07:52:08 [scraper.py:170] 📥 [HN #10] Hellishly Slow Level 13 Deflate Compression
+INFO     2026-06-27 07:52:08 [scraper.py:171] 🔗 [HN #10] URL: https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/
+INFO     2026-06-27 07:52:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-27 07:52:08 [scraper.py:178] 🎉 [HN] All done.
+
