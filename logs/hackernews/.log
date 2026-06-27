@@ -32950,3 +32950,36 @@ INFO     2026-06-27 07:52:08 [scraper.py:171] 🔗 [HN #10] URL: https://kirill.
 INFO     2026-06-27 07:52:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-27 07:52:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-27 11:27:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-27 11:27:29 [scraper.py:170] 📥 [HN #1] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]
+INFO     2026-06-27 11:27:29 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
+INFO     2026-06-27 11:27:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-27 11:27:29 [scraper.py:170] 📥 [HN #2] Fintech Engineering Handbook
+INFO     2026-06-27 11:27:29 [scraper.py:171] 🔗 [HN #2] URL: https://w.pitula.me/fintech-engineering-handbook/
+INFO     2026-06-27 11:27:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-27 11:27:29 [scraper.py:170] 📥 [HN #3] Previewing GPT‑5.6 Sol: a next-generation model
+INFO     2026-06-27 11:27:29 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/previewing-gpt-5-6-sol/
+INFO     2026-06-27 11:27:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-27 11:27:30 [scraper.py:170] 📥 [HN #4] Long Wave radio era set to end with switch-off
+INFO     2026-06-27 11:27:30 [scraper.py:171] 🔗 [HN #4] URL: https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service
+INFO     2026-06-27 11:27:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-27 11:27:30 [scraper.py:170] 📥 [HN #5] Linux on Older Hardware: The Complete Revival Guide
+INFO     2026-06-27 11:27:30 [scraper.py:171] 🔗 [HN #5] URL: https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm
+INFO     2026-06-27 11:27:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-27 11:27:30 [scraper.py:170] 📥 [HN #6] Beer CSS – Build material design in record time
+INFO     2026-06-27 11:27:30 [scraper.py:171] 🔗 [HN #6] URL: https://www.beercss.com
+INFO     2026-06-27 11:27:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-27 11:27:30 [scraper.py:170] 📥 [HN #7] WordStar: A Writer's Word Processor (1996)
+INFO     2026-06-27 11:27:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.sfwriter.com/wordstar.htm
+INFO     2026-06-27 11:27:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-27 11:27:30 [scraper.py:170] 📥 [HN #8] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+INFO     2026-06-27 11:27:30 [scraper.py:171] 🔗 [HN #8] URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+INFO     2026-06-27 11:27:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-27 11:27:31 [scraper.py:170] 📥 [HN #9] The US Army Issued Ocarinas to Soldiers in World War II
+INFO     2026-06-27 11:27:31 [scraper.py:171] 🔗 [HN #9] URL: https://www.flutetunes.com/articles/my-flute-goes-to-war/
+INFO     2026-06-27 11:27:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-27 11:27:31 [scraper.py:170] 📥 [HN #10] Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512
+INFO     2026-06-27 11:27:31 [scraper.py:171] 🔗 [HN #10] URL: https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab
+INFO     2026-06-27 11:27:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-27 11:27:31 [scraper.py:178] 🎉 [HN] All done.
+
