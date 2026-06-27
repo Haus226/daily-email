@@ -4886,3 +4886,8 @@ INFO     2026-06-26 12:11:32 [scraper.py:47] 📥 [APOD] Title: Milky Way Urban 
 INFO     2026-06-26 12:11:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg
 INFO     2026-06-26 12:11:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-27 04:08:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-27 04:08:10 [scraper.py:47] 📥 [APOD] Title: Mars Marathon by Perseverance
+INFO     2026-06-27 04:08:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg
+INFO     2026-06-27 04:08:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

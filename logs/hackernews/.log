@@ -32884,3 +32884,36 @@ INFO     2026-06-26 12:11:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.cla
 INFO     2026-06-26 12:11:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-26 12:11:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-27 04:08:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-27 04:08:10 [scraper.py:170] 📥 [HN #1] Previewing GPT‑5.6 Sol: a next-generation model
+INFO     2026-06-27 04:08:10 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/previewing-gpt-5-6-sol/
+INFO     2026-06-27 04:08:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-27 04:08:10 [scraper.py:170] 📥 [HN #2] Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+INFO     2026-06-27 04:08:10 [scraper.py:171] 🔗 [HN #2] URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+INFO     2026-06-27 04:08:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-27 04:08:10 [scraper.py:170] 📥 [HN #3] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
+INFO     2026-06-27 04:08:10 [scraper.py:171] 🔗 [HN #3] URL: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
+INFO     2026-06-27 04:08:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-27 04:08:11 [scraper.py:170] 📥 [HN #4] Show HN: Hacker News on a train station-style flip board
+INFO     2026-06-27 04:08:11 [scraper.py:171] 🔗 [HN #4] URL: https://popflame.quickish.space/hn-flipboard/
+INFO     2026-06-27 04:08:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-27 04:08:11 [scraper.py:170] 📥 [HN #5] MicroVMs: Run isolated sandboxes with full lifecycle control
+INFO     2026-06-27 04:08:11 [scraper.py:171] 🔗 [HN #5] URL: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
+INFO     2026-06-27 04:08:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-27 04:08:11 [scraper.py:170] 📥 [HN #6] AI in mathematics is forcing big questions
+INFO     2026-06-27 04:08:11 [scraper.py:171] 🔗 [HN #6] URL: https://spectrum.ieee.org/ai-in-mathematics
+INFO     2026-06-27 04:08:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-27 04:08:11 [scraper.py:170] 📥 [HN #7] A C++ implementation of a fast hash map and hash set using hopscotch hashing
+INFO     2026-06-27 04:08:11 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/Tessil/hopscotch-map
+INFO     2026-06-27 04:08:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-27 04:08:12 [scraper.py:170] 📥 [HN #8] U.S. government will decide who gets to use GPT-5.6
+INFO     2026-06-27 04:08:12 [scraper.py:171] 🔗 [HN #8] URL: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
+INFO     2026-06-27 04:08:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-27 04:08:12 [scraper.py:170] 📥 [HN #9] WordStar: A Writer's Word Processor (1996)
+INFO     2026-06-27 04:08:12 [scraper.py:171] 🔗 [HN #9] URL: https://www.sfwriter.com/wordstar.htm
+INFO     2026-06-27 04:08:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-27 04:08:12 [scraper.py:170] 📥 [HN #10] Hellishly Slow Level 13 Deflate Compression
+INFO     2026-06-27 04:08:12 [scraper.py:171] 🔗 [HN #10] URL: https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/
+INFO     2026-06-27 04:08:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-27 04:08:12 [scraper.py:178] 🎉 [HN] All done.
+
