@@ -4906,3 +4906,8 @@ INFO     2026-06-28 04:41:03 [scraper.py:47] 📥 [APOD] Title: AR 4478: Giant S
 INFO     2026-06-28 04:41:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
 INFO     2026-06-28 04:41:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-28 08:25:27 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-28 08:25:28 [scraper.py:47] 📥 [APOD] Title: AR 4478: Giant Sunspot Group
+INFO     2026-06-28 08:25:28 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
+INFO     2026-06-28 08:25:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
