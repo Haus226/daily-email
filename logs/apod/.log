@@ -4901,3 +4901,8 @@ INFO     2026-06-27 11:27:29 [scraper.py:47] 📥 [APOD] Title: Mars Marathon by
 INFO     2026-06-27 11:27:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg
 INFO     2026-06-27 11:27:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-28 04:41:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-28 04:41:03 [scraper.py:47] 📥 [APOD] Title: AR 4478: Giant Sunspot Group
+INFO     2026-06-28 04:41:03 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg
+INFO     2026-06-28 04:41:03 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

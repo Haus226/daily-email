@@ -32983,3 +32983,36 @@ INFO     2026-06-27 11:27:31 [scraper.py:171] 🔗 [HN #10] URL: https://medium.
 INFO     2026-06-27 11:27:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-27 11:27:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-28 04:41:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-28 04:41:03 [scraper.py:170] 📥 [HN #1] Marfa Public Radio Puts You to Sleep
+INFO     2026-06-28 04:41:04 [scraper.py:171] 🔗 [HN #1] URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
+INFO     2026-06-28 04:41:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-28 04:41:04 [scraper.py:170] 📥 [HN #2] Show HN: Decomp Academy – Learn to decompile GameCube games into matching C
+INFO     2026-06-28 04:41:04 [scraper.py:171] 🔗 [HN #2] URL: https://decomp-academy.dev
+INFO     2026-06-28 04:41:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-28 04:41:04 [scraper.py:170] 📥 [HN #3] AMD Strix Halo RDMA Cluster Setup Guide
+INFO     2026-06-28 04:41:04 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
+INFO     2026-06-28 04:41:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-28 04:41:04 [scraper.py:170] 📥 [HN #4] Anonymous GitHub account mass-dropping undisclosed 0-days
+INFO     2026-06-28 04:41:04 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/bikini/exploitarium
+INFO     2026-06-28 04:41:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-28 04:41:04 [scraper.py:170] 📥 [HN #5] OpenRA
+INFO     2026-06-28 04:41:04 [scraper.py:171] 🔗 [HN #5] URL: https://www.openra.net/
+INFO     2026-06-28 04:41:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:170] 📥 [HN #6] Wayfinder Router: deterministic routing of queries between local and hosted LLM
+INFO     2026-06-28 04:41:05 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/itsthelore/wayfinder-router
+INFO     2026-06-28 04:41:05 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:170] 📥 [HN #7] Choosing a Public DNS Resolver
+INFO     2026-06-28 04:41:05 [scraper.py:171] 🔗 [HN #7] URL: https://evilbit.de/dns-resolver-guide.html
+INFO     2026-06-28 04:41:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:170] 📥 [HN #8] Ford hired AI and sacked humans. It backfired badly
+INFO     2026-06-28 04:41:05 [scraper.py:171] 🔗 [HN #8] URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
+INFO     2026-06-28 04:41:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:170] 📥 [HN #9] Space Shuttle Endeavour's 20-story vertical display
+INFO     2026-06-28 04:41:05 [scraper.py:171] 🔗 [HN #9] URL: https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack
+INFO     2026-06-28 04:41:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:170] 📥 [HN #10] Regular expressions that work "everywhere"
+INFO     2026-06-28 04:41:05 [scraper.py:171] 🔗 [HN #10] URL: https://www.johndcook.com/blog/2026/06/23/regex-everywhere/
+INFO     2026-06-28 04:41:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-28 04:41:05 [scraper.py:178] 🎉 [HN] All done.
+
