@@ -33148,3 +33148,36 @@ INFO     2026-06-29 09:52:53 [scraper.py:171] 🔗 [HN #10] URL: https://antoine
 INFO     2026-06-29 09:52:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-29 09:52:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-29 14:04:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-29 14:04:20 [scraper.py:170] 📥 [HN #1] Tidal AI Policy
+INFO     2026-06-29 14:04:20 [scraper.py:171] 🔗 [HN #1] URL: https://tidal.com/ai-policy
+INFO     2026-06-29 14:04:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-29 14:04:20 [scraper.py:170] 📥 [HN #2] Sandia National Labs SA3000 8085 CPU
+INFO     2026-06-29 14:04:20 [scraper.py:171] 🔗 [HN #2] URL: https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/
+INFO     2026-06-29 14:04:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-29 14:04:20 [scraper.py:170] 📥 [HN #3] Building Principia for Windows XP
+INFO     2026-06-29 14:04:20 [scraper.py:171] 🔗 [HN #3] URL: https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/
+INFO     2026-06-29 14:04:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-29 14:04:20 [scraper.py:170] 📥 [HN #4] HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88
+INFO     2026-06-29 14:04:20 [scraper.py:171] 🔗 [HN #4] URL: https://danunparsed.com/p/hackerrank-open-source-ats
+INFO     2026-06-29 14:04:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-29 14:04:20 [scraper.py:170] 📥 [HN #5] Type-checked non-empty strings
+INFO     2026-06-29 14:04:20 [scraper.py:171] 🔗 [HN #5] URL: https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html
+INFO     2026-06-29 14:04:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:170] 📥 [HN #6] GLM 5.2 beats Claude in our benchmarks
+INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #6] URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:170] 📥 [HN #7] Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped
+INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #7] URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/
+INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:170] 📥 [HN #8] Halvar's Guide to Entrepreneurship
+INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #8] URL: https://thomasdullien.github.io/guides/entrepreneurship/
+INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:170] 📥 [HN #9] What happens when you run a CUDA kernel?
+INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #9] URL: https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/
+INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:170] 📥 [HN #10] Rebuilding the Computer Room
+INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #10] URL: https://alexwlchan.net/2026/computer-room/
+INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-29 14:04:21 [scraper.py:178] 🎉 [HN] All done.
+
