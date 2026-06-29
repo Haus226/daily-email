@@ -33082,3 +33082,36 @@ INFO     2026-06-28 11:47:27 [scraper.py:171] 🔗 [HN #10] URL: https://shapeof
 INFO     2026-06-28 11:47:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-28 11:47:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-29 04:49:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-29 04:49:44 [scraper.py:170] 📥 [HN #1] GLM 5.2 beats Claude in our benchmarks
+INFO     2026-06-29 04:49:44 [scraper.py:171] 🔗 [HN #1] URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+INFO     2026-06-29 04:49:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-29 04:49:44 [scraper.py:170] 📥 [HN #2] Age verification is just a precursor to automated attribution of speech
+INFO     2026-06-29 04:49:44 [scraper.py:171] 🔗 [HN #2] URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
+INFO     2026-06-29 04:49:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-29 04:49:44 [scraper.py:170] 📥 [HN #3] Historical memory prices 1960-2026
+INFO     2026-06-29 04:49:44 [scraper.py:171] 🔗 [HN #3] URL: https://dam.stanford.edu/memory-prices.html
+INFO     2026-06-29 04:49:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-29 04:49:44 [scraper.py:170] 📥 [HN #4] 5k menus from the New York Public Library’s Buttolph Collection (1880-1920)
+INFO     2026-06-29 04:49:44 [scraper.py:171] 🔗 [HN #4] URL: https://pudding.cool/2026/06/menu-story/
+INFO     2026-06-29 04:49:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-29 04:49:45 [scraper.py:170] 📥 [HN #5] Knowledge Distillation of Black-Box Large Language Models (2024)
+INFO     2026-06-29 04:49:45 [scraper.py:171] 🔗 [HN #5] URL: https://arxiv.org/abs/2401.07013
+INFO     2026-06-29 04:49:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-29 04:49:45 [scraper.py:170] 📥 [HN #6] I used Claude Code to get a second opinion on my MRI
+INFO     2026-06-29 04:49:45 [scraper.py:171] 🔗 [HN #6] URL: https://antoine.fi/mri-analysis-using-claude-code-opus
+INFO     2026-06-29 04:49:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-29 04:49:45 [scraper.py:170] 📥 [HN #7] Deciphering Basmala
+INFO     2026-06-29 04:49:45 [scraper.py:171] 🔗 [HN #7] URL: https://blog.plover.com/lang/bismillah.html
+INFO     2026-06-29 04:49:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-29 04:49:45 [scraper.py:170] 📥 [HN #8] TOP500 at ISC’26: We have a New Number 1 Supercomputer
+INFO     2026-06-29 04:49:46 [scraper.py:171] 🔗 [HN #8] URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number
+INFO     2026-06-29 04:49:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-29 04:49:46 [scraper.py:170] 📥 [HN #9] Show HN: Zanagrams
+INFO     2026-06-29 04:49:46 [scraper.py:171] 🔗 [HN #9] URL: https://zanagrams.com/
+INFO     2026-06-29 04:49:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-29 04:49:46 [scraper.py:170] 📥 [HN #10] Idler Magazine
+INFO     2026-06-29 04:49:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.idler.co.uk/
+INFO     2026-06-29 04:49:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-29 04:49:46 [scraper.py:178] 🎉 [HN] All done.
+
