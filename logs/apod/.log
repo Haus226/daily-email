@@ -4921,3 +4921,8 @@ INFO     2026-06-29 04:49:44 [scraper.py:47] 📥 [APOD] Title: M82: Galaxy with
 INFO     2026-06-29 04:49:44 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg
 INFO     2026-06-29 04:49:44 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-06-29 09:52:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-06-29 09:52:51 [scraper.py:47] 📥 [APOD] Title: M82: Galaxy with a Supergalactic Wind
+INFO     2026-06-29 09:52:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg
+INFO     2026-06-29 09:52:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
