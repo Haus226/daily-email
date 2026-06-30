@@ -33214,3 +33214,36 @@ INFO     2026-06-30 04:16:26 [scraper.py:171] 🔗 [HN #10] URL: https://theinte
 INFO     2026-06-30 04:16:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-30 04:16:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-30 08:33:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-30 08:33:02 [scraper.py:170] 📥 [HN #1] Open Source Low Tech
+INFO     2026-06-30 08:33:02 [scraper.py:171] 🔗 [HN #1] URL: https://opensourcelowtech.org/
+INFO     2026-06-30 08:33:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-30 08:33:02 [scraper.py:170] 📥 [HN #2] Qwen 3.6 27B is the sweet spot for local development
+INFO     2026-06-30 08:33:02 [scraper.py:171] 🔗 [HN #2] URL: https://quesma.com/blog/qwen-36-is-awesome/
+INFO     2026-06-30 08:33:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-30 08:33:02 [scraper.py:170] 📥 [HN #3] .self: A new top-level domain designed to support self-hosting
+INFO     2026-06-30 08:33:02 [scraper.py:171] 🔗 [HN #3] URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
+INFO     2026-06-30 08:33:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-30 08:33:02 [scraper.py:170] 📥 [HN #4] Free the Icons
+INFO     2026-06-30 08:33:02 [scraper.py:171] 🔗 [HN #4] URL: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
+INFO     2026-06-30 08:33:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-30 08:33:02 [scraper.py:170] 📥 [HN #5] Memory Safe Context Switching
+INFO     2026-06-30 08:33:02 [scraper.py:171] 🔗 [HN #5] URL: https://fil-c.org/context_switches
+INFO     2026-06-30 08:33:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-30 08:33:03 [scraper.py:170] 📥 [HN #6] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active
+INFO     2026-06-30 08:33:03 [scraper.py:171] 🔗 [HN #6] URL: https://longcat.chat/blog/longcat-2.0/
+INFO     2026-06-30 08:33:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-30 08:33:03 [scraper.py:170] 📥 [HN #7] The end of the AArch64 desktop experiment
+INFO     2026-06-30 08:33:03 [scraper.py:171] 🔗 [HN #7] URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/
+INFO     2026-06-30 08:33:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-30 08:33:03 [scraper.py:170] 📥 [HN #8] Old Computer Challenge
+INFO     2026-06-30 08:33:03 [scraper.py:171] 🔗 [HN #8] URL: http://occ.sdf.org/
+INFO     2026-06-30 08:33:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-30 08:33:03 [scraper.py:170] 📥 [HN #9] Exploring PDP-1 Lisp (1960)
+INFO     2026-06-30 08:33:03 [scraper.py:171] 🔗 [HN #9] URL: https://obsolescence.dev/pdp1-lisp-introduction.html
+INFO     2026-06-30 08:33:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-30 08:33:04 [scraper.py:170] 📥 [HN #10] Rocketlab acquires Iridium
+INFO     2026-06-30 08:33:04 [scraper.py:171] 🔗 [HN #10] URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
+INFO     2026-06-30 08:33:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-30 08:33:04 [scraper.py:178] 🎉 [HN] All done.
+
