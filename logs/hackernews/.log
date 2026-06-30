@@ -33181,3 +33181,36 @@ INFO     2026-06-29 14:04:21 [scraper.py:171] 🔗 [HN #10] URL: https://alexwlc
 INFO     2026-06-29 14:04:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-06-29 14:04:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-06-30 04:16:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-06-30 04:16:24 [scraper.py:170] 📥 [HN #1] Qwen 3.6 27B is the sweet spot for local development
+INFO     2026-06-30 04:16:24 [scraper.py:171] 🔗 [HN #1] URL: https://quesma.com/blog/qwen-36-is-awesome/
+INFO     2026-06-30 04:16:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-06-30 04:16:24 [scraper.py:170] 📥 [HN #2] .self: A new top-level domain designed to support self-hosting
+INFO     2026-06-30 04:16:24 [scraper.py:171] 🔗 [HN #2] URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
+INFO     2026-06-30 04:16:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #3] Free the Icons
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #3] URL: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #4] Memory Safe Context Switching (longjmp, setjmp) in Fil-C
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #4] URL: https://fil-c.org/context_switches
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #5] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #5] URL: https://longcat.chat/blog/longcat-2.0/
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #6] Exploring PDP-1 Lisp (1960)
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #6] URL: https://obsolescence.dev/pdp1-lisp-introduction.html
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #7] Rocketlab acquires Iridium
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #7] URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-06-30 04:16:25 [scraper.py:170] 📥 [HN #8] Scientists find molecular-level evidence for two structures in liquid water
+INFO     2026-06-30 04:16:25 [scraper.py:171] 🔗 [HN #8] URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
+INFO     2026-06-30 04:16:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-06-30 04:16:26 [scraper.py:170] 📥 [HN #9] Ornith-1.0: self-improving open-source models for agentic coding
+INFO     2026-06-30 04:16:26 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/deepreinforce-ai/Ornith-1
+INFO     2026-06-30 04:16:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-06-30 04:16:26 [scraper.py:170] 📥 [HN #10] 30-year sentence for transporting zines is a five-alarm fire for free speech
+INFO     2026-06-30 04:16:26 [scraper.py:171] 🔗 [HN #10] URL: https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/
+INFO     2026-06-30 04:16:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-06-30 04:16:26 [scraper.py:178] 🎉 [HN] All done.
+
