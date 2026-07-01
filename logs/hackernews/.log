@@ -33346,3 +33346,36 @@ INFO     2026-07-01 08:51:32 [scraper.py:171] 🔗 [HN #10] URL: https://reclaim
 INFO     2026-07-01 08:51:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-01 08:51:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-01 12:33:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-01 12:33:49 [scraper.py:170] 📥 [HN #1] Asahi Linux 7.1 Progress Report
+INFO     2026-07-01 12:33:49 [scraper.py:171] 🔗 [HN #1] URL: https://asahilinux.org/2026/06/progress-report-7-1/
+INFO     2026-07-01 12:33:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-01 12:33:49 [scraper.py:170] 📥 [HN #2] Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice
+INFO     2026-07-01 12:33:49 [scraper.py:171] 🔗 [HN #2] URL: https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium
+INFO     2026-07-01 12:33:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-01 12:33:49 [scraper.py:170] 📥 [HN #3] Claude Code is steganographically marking requests
+INFO     2026-07-01 12:33:49 [scraper.py:171] 🔗 [HN #3] URL: https://thereallo.dev/blog/claude-code-prompt-steganography
+INFO     2026-07-01 12:33:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-01 12:33:49 [scraper.py:170] 📥 [HN #4] Newly discovered spider builds spring loaded snare to catch ants
+INFO     2026-07-01 12:33:49 [scraper.py:171] 🔗 [HN #4] URL: https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html
+INFO     2026-07-01 12:33:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-01 12:33:49 [scraper.py:170] 📥 [HN #5] Claude Sonnet 5
+INFO     2026-07-01 12:33:49 [scraper.py:171] 🔗 [HN #5] URL: https://www.anthropic.com/news/claude-sonnet-5
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:170] 📥 [HN #6] The Internet I Grew Up with Doesn't Exist Anymore
+INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #6] URL: https://cleberg.net/blog/internet.html
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:170] 📥 [HN #7] ArXiv's Next Chapter
+INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #7] URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:170] 📥 [HN #8] Godot will no longer accept AI-authored code contributions
+INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #8] URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:170] 📥 [HN #9] Show HN: HackerNows – Native iOS HN Client
+INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #9] URL: https://hackernows.app/
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:170] 📥 [HN #10] Google copybara: moving code between repositories
+INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/google/copybara
+INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-01 12:33:50 [scraper.py:178] 🎉 [HN] All done.
+
