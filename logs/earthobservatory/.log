@@ -15059,3 +15059,24 @@ INFO     2026-06-30 12:09:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-06-30 12:09:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-01 04:44:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-01 04:44:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-01 04:44:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-01 04:44:47 [scraper.py:133] 📥 [EO] Title: Minute Man National Historical Park
+INFO     2026-07-01 04:44:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-01 04:44:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-01 04:44:47 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-01 04:44:47 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-01 04:44:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-01 04:44:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-01 04:44:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-01 04:44:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-01 04:44:47 [scraper.py:133] 📥 [EO] Title: Minute Man National Historical Park
+INFO     2026-07-01 04:44:47 [scraper.py:133] 📥 [EO] Title: Minute Man National Historical Park
+INFO     2026-07-01 04:44:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-01 04:44:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/88000/88300/minuteman_oli_2015288_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-01 04:44:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-01 04:44:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+

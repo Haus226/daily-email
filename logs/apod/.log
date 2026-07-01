@@ -4946,3 +4946,8 @@ INFO     2026-06-30 12:09:22 [scraper.py:47] 📥 [APOD] Title: Unusually Smooth
 INFO     2026-06-30 12:09:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg
 INFO     2026-06-30 12:09:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-01 04:44:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-01 04:44:47 [scraper.py:47] 📥 [APOD] Title: The Cotton Candy Clouds of Rho Ophiuchi
+INFO     2026-07-01 04:44:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg
+INFO     2026-07-01 04:44:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
