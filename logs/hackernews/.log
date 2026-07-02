@@ -33445,3 +33445,36 @@ INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #10] URL: https://blog.go
 INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-02 08:14:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-02 12:09:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-02 12:09:05 [scraper.py:170] 📥 [HN #1] Android Developer Verification: Threat masquerading as Protection
+INFO     2026-07-02 12:09:05 [scraper.py:171] 🔗 [HN #1] URL: https://f-droid.org/2026/07/01/adv-malware.html
+INFO     2026-07-02 12:09:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-02 12:09:05 [scraper.py:170] 📥 [HN #2] Kimi K2.7 Code is generally available in GitHub Copilot
+INFO     2026-07-02 12:09:05 [scraper.py:171] 🔗 [HN #2] URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+INFO     2026-07-02 12:09:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-02 12:09:05 [scraper.py:170] 📥 [HN #3] The Fall of the Theorem Economy
+INFO     2026-07-02 12:09:05 [scraper.py:171] 🔗 [HN #3] URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy
+INFO     2026-07-02 12:09:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-02 12:09:05 [scraper.py:170] 📥 [HN #4] Oomwoo, an open-source robot vacuum you build yourself
+INFO     2026-07-02 12:09:05 [scraper.py:171] 🔗 [HN #4] URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
+INFO     2026-07-02 12:09:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-02 12:09:07 [scraper.py:170] 📥 [HN #5] ZCode – Harness for GLM-5.2
+INFO     2026-07-02 12:09:07 [scraper.py:171] 🔗 [HN #5] URL: https://zcode.z.ai/en
+INFO     2026-07-02 12:09:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-02 12:09:08 [scraper.py:170] 📥 [HN #6] WinPE as a stateless harness for Windows driver testing and fuzzing
+INFO     2026-07-02 12:09:08 [scraper.py:171] 🔗 [HN #6] URL: https://bednars.me/blog/winpe-harness
+INFO     2026-07-02 12:09:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-02 12:09:08 [scraper.py:170] 📥 [HN #7] Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
+INFO     2026-07-02 12:09:08 [scraper.py:171] 🔗 [HN #7] URL: https://www.mixedbread.com/blog/asymmetric-quant
+INFO     2026-07-02 12:09:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-02 12:09:09 [scraper.py:170] 📥 [HN #8] Vite+ Beta
+INFO     2026-07-02 12:09:09 [scraper.py:171] 🔗 [HN #8] URL: https://voidzero.dev/posts/announcing-vite-plus-beta
+INFO     2026-07-02 12:09:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-02 12:09:09 [scraper.py:170] 📥 [HN #9] Bring back crappy forums
+INFO     2026-07-02 12:09:09 [scraper.py:171] 🔗 [HN #9] URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
+INFO     2026-07-02 12:09:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-02 12:09:09 [scraper.py:170] 📥 [HN #10] My Favorite Keyboards
+INFO     2026-07-02 12:09:09 [scraper.py:171] 🔗 [HN #10] URL: https://fabiensanglard.net/keyboards/index.html
+INFO     2026-07-02 12:09:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-02 12:09:09 [scraper.py:178] 🎉 [HN] All done.
+
