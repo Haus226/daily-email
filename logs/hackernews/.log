@@ -33412,3 +33412,36 @@ INFO     2026-07-02 04:11:47 [scraper.py:171] 🔗 [HN #10] URL: https://hydroge
 INFO     2026-07-02 04:11:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-02 04:11:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-02 08:14:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-02 08:14:21 [scraper.py:170] 📥 [HN #1] Kimi K2.7 Code is generally available in GitHub Copilot
+INFO     2026-07-02 08:14:21 [scraper.py:171] 🔗 [HN #1] URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+INFO     2026-07-02 08:14:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-02 08:14:22 [scraper.py:170] 📥 [HN #2] A new Android malware from Google
+INFO     2026-07-02 08:14:22 [scraper.py:171] 🔗 [HN #2] URL: https://f-droid.org/2026/07/01/adv-malware.html
+INFO     2026-07-02 08:14:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-02 08:14:22 [scraper.py:170] 📥 [HN #3] ZCode – Harness for GLM-5.2
+INFO     2026-07-02 08:14:22 [scraper.py:171] 🔗 [HN #3] URL: https://zcode.z.ai/en
+INFO     2026-07-02 08:14:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-02 08:14:22 [scraper.py:170] 📥 [HN #4] Oomwoo, an open-source robot vacuum you build yourself
+INFO     2026-07-02 08:14:22 [scraper.py:171] 🔗 [HN #4] URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
+INFO     2026-07-02 08:14:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-02 08:14:22 [scraper.py:170] 📥 [HN #5] Bring back crappy forums
+INFO     2026-07-02 08:14:22 [scraper.py:171] 🔗 [HN #5] URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
+INFO     2026-07-02 08:14:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:170] 📥 [HN #6] CursorBench 3.1
+INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #6] URL: https://cursor.com/evals
+INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:170] 📥 [HN #7] Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction
+INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #7] URL: https://www.mixedbread.com/blog/asymmetric-quant
+INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:170] 📥 [HN #8] What to learn to be a graphics programmer
+INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #8] URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
+INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:170] 📥 [HN #9] FFmpeg 9.1's new AAC encoder
+INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #9] URL: https://hydrogenaudio.org/index.php/topic,129691.0.html
+INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:170] 📥 [HN #10] Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
+INFO     2026-07-02 08:14:23 [scraper.py:171] 🔗 [HN #10] URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
+INFO     2026-07-02 08:14:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-02 08:14:23 [scraper.py:178] 🎉 [HN] All done.
+
