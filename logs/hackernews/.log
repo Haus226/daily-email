@@ -33379,3 +33379,36 @@ INFO     2026-07-01 12:33:50 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-07-01 12:33:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-01 12:33:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-02 04:11:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #1] Bring Back Crappy Forums
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #1] URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #2] ZCode – Harness for GLM-5.2
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #2] URL: https://zcode.z.ai/en
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #3] Show HN: Searchable directory of 22k+ products from worker-owned co-ops
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #3] URL: https://www.workerowned.info/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #4] Building an Open-Source Robot Vacuum – Meet Oomwoo
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #4] URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #5] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #5] URL: https://senior-swe-bench.snorkel.ai/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #6] For first time, a cell built from scratch grows and divides
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #6] URL: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #7] Global review confirms mRNA vaccines are safe, effective and full of promise 
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #7] URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-02 04:11:46 [scraper.py:170] 📥 [HN #8] What to learn to be a graphics programmer
+INFO     2026-07-02 04:11:46 [scraper.py:171] 🔗 [HN #8] URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
+INFO     2026-07-02 04:11:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-02 04:11:47 [scraper.py:170] 📥 [HN #9] Physical disc production ending in Jan 2028 for new games on PlayStation
+INFO     2026-07-02 04:11:47 [scraper.py:171] 🔗 [HN #9] URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+INFO     2026-07-02 04:11:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-02 04:11:47 [scraper.py:170] 📥 [HN #10] FFmpeg 9.1's new AAC encoder
+INFO     2026-07-02 04:11:47 [scraper.py:171] 🔗 [HN #10] URL: https://hydrogenaudio.org/index.php/topic,129691.0.html
+INFO     2026-07-02 04:11:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-02 04:11:47 [scraper.py:178] 🎉 [HN] All done.
+
