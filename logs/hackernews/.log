@@ -33544,3 +33544,36 @@ INFO     2026-07-03 08:13:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.zac
 INFO     2026-07-03 08:13:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-03 08:13:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-03 12:09:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-03 12:09:28 [scraper.py:170] 📥 [HN #1] Half-Baked Product
+INFO     2026-07-03 12:09:28 [scraper.py:171] 🔗 [HN #1] URL: https://weli.dev/blog/half-baked-product/
+INFO     2026-07-03 12:09:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-03 12:09:28 [scraper.py:170] 📥 [HN #2] Virginia bans sale of geolocation data
+INFO     2026-07-03 12:09:28 [scraper.py:171] 🔗 [HN #2] URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
+INFO     2026-07-03 12:09:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-03 12:09:28 [scraper.py:170] 📥 [HN #3] Gun Mistakes in Fiction Writing: Handgun Edition
+INFO     2026-07-03 12:09:28 [scraper.py:171] 🔗 [HN #3] URL: https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition
+INFO     2026-07-03 12:09:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-03 12:09:29 [scraper.py:170] 📥 [HN #4] Right to Local Intelligence
+INFO     2026-07-03 12:09:29 [scraper.py:171] 🔗 [HN #4] URL: https://righttointelligence.org/
+INFO     2026-07-03 12:09:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-03 12:09:29 [scraper.py:170] 📥 [HN #5] Wordgard: The new in-browser rich-text editor from the creator of ProseMirror
+INFO     2026-07-03 12:09:29 [scraper.py:171] 🔗 [HN #5] URL: https://wordgard.net/
+INFO     2026-07-03 12:09:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-03 12:09:29 [scraper.py:170] 📥 [HN #6] CarPlay Is Additive
+INFO     2026-07-03 12:09:29 [scraper.py:171] 🔗 [HN #6] URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
+INFO     2026-07-03 12:09:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-03 12:09:29 [scraper.py:170] 📥 [HN #7] Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says
+INFO     2026-07-03 12:09:29 [scraper.py:171] 🔗 [HN #7] URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/
+INFO     2026-07-03 12:09:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-03 12:09:30 [scraper.py:170] 📥 [HN #8] crustc: entirety of `rustc`, translated to C
+INFO     2026-07-03 12:09:30 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/FractalFir/crustc
+INFO     2026-07-03 12:09:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-03 12:09:30 [scraper.py:170] 📥 [HN #9] Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory
+INFO     2026-07-03 12:09:30 [scraper.py:171] 🔗 [HN #9] URL: https://mathstodon.xyz/@iblech/116769502749142438
+INFO     2026-07-03 12:09:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-03 12:09:30 [scraper.py:170] 📥 [HN #10] How working with a blind client revealed invisible accessibility gaps
+INFO     2026-07-03 12:09:30 [scraper.py:171] 🔗 [HN #10] URL: https://iinteractive.com/resources/blog/read-only
+INFO     2026-07-03 12:09:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-03 12:09:30 [scraper.py:178] 🎉 [HN] All done.
+
