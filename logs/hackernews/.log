@@ -33511,3 +33511,36 @@ INFO     2026-07-03 03:58:28 [scraper.py:171] 🔗 [HN #10] URL: https://blog.po
 INFO     2026-07-03 03:58:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-03 03:58:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-03 08:13:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-03 08:13:26 [scraper.py:170] 📥 [HN #1] Virginia bans sale of geolocation data
+INFO     2026-07-03 08:13:26 [scraper.py:171] 🔗 [HN #1] URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
+INFO     2026-07-03 08:13:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-03 08:13:26 [scraper.py:170] 📥 [HN #2] CarPlay Is Additive
+INFO     2026-07-03 08:13:26 [scraper.py:171] 🔗 [HN #2] URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
+INFO     2026-07-03 08:13:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-03 08:13:26 [scraper.py:170] 📥 [HN #3] Right to Local Intelligence
+INFO     2026-07-03 08:13:27 [scraper.py:171] 🔗 [HN #3] URL: https://righttointelligence.org/
+INFO     2026-07-03 08:13:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-03 08:13:27 [scraper.py:170] 📥 [HN #4] crustc: entirety of `rustc`, translated to C
+INFO     2026-07-03 08:13:27 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/FractalFir/crustc
+INFO     2026-07-03 08:13:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-03 08:13:27 [scraper.py:170] 📥 [HN #5] The Safari MCP server for web developers
+INFO     2026-07-03 08:13:27 [scraper.py:171] 🔗 [HN #5] URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
+INFO     2026-07-03 08:13:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-03 08:13:27 [scraper.py:170] 📥 [HN #6] Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory
+INFO     2026-07-03 08:13:27 [scraper.py:171] 🔗 [HN #6] URL: https://mathstodon.xyz/@iblech/116769502749142438
+INFO     2026-07-03 08:13:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-03 08:13:28 [scraper.py:170] 📥 [HN #7] Reality has a surprising amount of detail (2017)
+INFO     2026-07-03 08:13:28 [scraper.py:171] 🔗 [HN #7] URL: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+INFO     2026-07-03 08:13:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-03 08:13:28 [scraper.py:170] 📥 [HN #8] 14× faster embeddings: how we rebuilt the ONNX path in Manticore
+INFO     2026-07-03 08:13:28 [scraper.py:171] 🔗 [HN #8] URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/
+INFO     2026-07-03 08:13:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-03 08:13:28 [scraper.py:170] 📥 [HN #9] Podman v6.0.0
+INFO     2026-07-03 08:13:28 [scraper.py:171] 🔗 [HN #9] URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/
+INFO     2026-07-03 08:13:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-03 08:13:28 [scraper.py:170] 📥 [HN #10] Exapunks (2018)
+INFO     2026-07-03 08:13:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.zachtronics.com/exapunks/
+INFO     2026-07-03 08:13:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-03 08:13:28 [scraper.py:178] 🎉 [HN] All done.
+
