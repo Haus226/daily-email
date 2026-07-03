@@ -15185,3 +15185,24 @@ INFO     2026-07-02 12:09:05 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-02 12:09:05 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-03 03:58:24 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-03 03:58:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-03 03:58:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-03 03:58:26 [scraper.py:133] 📥 [EO] Title: Colonial National Historical Park
+INFO     2026-07-03 03:58:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-03 03:58:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-03 03:58:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-03 03:58:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-03 03:58:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-03 03:58:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-03 03:58:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-03 03:58:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-03 03:58:26 [scraper.py:133] 📥 [EO] Title: Colonial National Historical Park
+INFO     2026-07-03 03:58:26 [scraper.py:133] 📥 [EO] Title: Colonial National Historical Park
+INFO     2026-07-03 03:58:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-03 03:58:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/92000/92382/colonialpark_oli_2016161.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-03 03:58:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-03 03:58:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
