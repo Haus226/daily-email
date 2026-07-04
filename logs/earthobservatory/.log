@@ -15248,3 +15248,24 @@ INFO     2026-07-03 12:09:29 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-03 12:09:29 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-04 03:51:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-04 03:51:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-04 03:51:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-04 03:51:59 [scraper.py:133] 📥 [EO] Title: The Birthplace of the United States
+INFO     2026-07-04 03:51:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/90000/90513/philadelphia_oli_2013152_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-04 03:51:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-04 03:51:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-04 03:51:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-04 03:52:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-04 03:52:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-04 03:52:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-04 03:52:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-04 03:52:01 [scraper.py:133] 📥 [EO] Title: The Birthplace of the United States
+INFO     2026-07-04 03:52:01 [scraper.py:133] 📥 [EO] Title: The Birthplace of the United States
+INFO     2026-07-04 03:52:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/90000/90513/philadelphia_oli_2013152_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-04 03:52:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/90000/90513/philadelphia_oli_2013152_wide.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-04 03:52:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-04 03:52:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
