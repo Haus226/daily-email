@@ -4999,3 +4999,8 @@ INFO     2026-07-04 07:50:48 [scraper.py:47] 📥 [APOD] Title: Pathfinder on Ma
 INFO     2026-07-04 07:50:48 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg
 INFO     2026-07-04 07:50:48 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-04 11:27:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-04 11:27:30 [scraper.py:47] 📥 [APOD] Title: Pathfinder on Mars
+INFO     2026-07-04 11:27:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg
+INFO     2026-07-04 11:27:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
