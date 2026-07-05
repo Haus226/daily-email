@@ -33676,3 +33676,36 @@ INFO     2026-07-04 11:27:32 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-07-04 11:27:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-04 11:27:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-05 04:10:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-05 04:10:47 [scraper.py:170] 📥 [HN #1] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+INFO     2026-07-05 04:10:47 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+INFO     2026-07-05 04:10:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-05 04:10:47 [scraper.py:170] 📥 [HN #2] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+INFO     2026-07-05 04:10:47 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/openai/codex/issues/30364
+INFO     2026-07-05 04:10:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-05 04:10:48 [scraper.py:170] 📥 [HN #3] If you're a button, you have one job
+INFO     2026-07-05 04:10:48 [scraper.py:171] 🔗 [HN #3] URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+INFO     2026-07-05 04:10:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-05 04:10:48 [scraper.py:170] 📥 [HN #4] Jellyfish can heal wounds in minutes. Scientists want their secrets
+INFO     2026-07-05 04:10:48 [scraper.py:171] 🔗 [HN #4] URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+INFO     2026-07-05 04:10:48 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-05 04:10:48 [scraper.py:170] 📥 [HN #5] Google Books (or similar) all book scans – $200k bounty (2025)
+INFO     2026-07-05 04:10:48 [scraper.py:171] 🔗 [HN #5] URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234
+INFO     2026-07-05 04:10:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-05 04:10:49 [scraper.py:170] 📥 [HN #6] Leaking YouTube creators' private videos
+INFO     2026-07-05 04:10:49 [scraper.py:171] 🔗 [HN #6] URL: https://javoriuski.com/post/youtube
+INFO     2026-07-05 04:10:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-05 04:10:49 [scraper.py:170] 📥 [HN #7] Atomic Force Microscope high-speed video, stainless etching, bacteria, and more
+INFO     2026-07-05 04:10:49 [scraper.py:171] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=DyIQkqBXhS0
+INFO     2026-07-05 04:10:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-05 04:10:49 [scraper.py:170] 📥 [HN #8] Better Models: Worse Tools
+INFO     2026-07-05 04:10:49 [scraper.py:171] 🔗 [HN #8] URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/
+INFO     2026-07-05 04:10:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-05 04:10:49 [scraper.py:170] 📥 [HN #9] Explanation of everything you can see in htop/top on Linux (2019)
+INFO     2026-07-05 04:10:49 [scraper.py:171] 🔗 [HN #9] URL: https://peteris.rocks/blog/htop/
+INFO     2026-07-05 04:10:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-05 04:10:50 [scraper.py:170] 📥 [HN #10] Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)
+INFO     2026-07-05 04:10:50 [scraper.py:171] 🔗 [HN #10] URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
+INFO     2026-07-05 04:10:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-05 04:10:50 [scraper.py:178] 🎉 [HN] All done.
+

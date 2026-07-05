@@ -5004,3 +5004,8 @@ INFO     2026-07-04 11:27:30 [scraper.py:47] 📥 [APOD] Title: Pathfinder on Ma
 INFO     2026-07-04 11:27:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg
 INFO     2026-07-04 11:27:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-05 04:10:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-05 04:10:47 [scraper.py:47] 📥 [APOD] Title: Saturn's Iapetus: Painted Moon
+INFO     2026-07-05 04:10:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg
+INFO     2026-07-05 04:10:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
