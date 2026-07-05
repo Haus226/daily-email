@@ -33709,3 +33709,36 @@ INFO     2026-07-05 04:10:50 [scraper.py:171] 🔗 [HN #10] URL: https://writerb
 INFO     2026-07-05 04:10:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-05 04:10:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-05 08:05:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-05 08:05:58 [scraper.py:170] 📥 [HN #1] Shadcn/UI now defaults to Base UI instead of Radix
+INFO     2026-07-05 08:05:58 [scraper.py:171] 🔗 [HN #1] URL: https://ui.shadcn.com/docs/changelog
+INFO     2026-07-05 08:05:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-05 08:05:58 [scraper.py:170] 📥 [HN #2] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+INFO     2026-07-05 08:05:58 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+INFO     2026-07-05 08:05:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-05 08:05:58 [scraper.py:170] 📥 [HN #3] If you're a button, you have one job
+INFO     2026-07-05 08:05:58 [scraper.py:171] 🔗 [HN #3] URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+INFO     2026-07-05 08:05:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-05 08:05:59 [scraper.py:170] 📥 [HN #4] sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)
+INFO     2026-07-05 08:05:59 [scraper.py:171] 🔗 [HN #4] URL: https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/
+INFO     2026-07-05 08:05:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-05 08:05:59 [scraper.py:170] 📥 [HN #5] Pandoc Lua Filters
+INFO     2026-07-05 08:05:59 [scraper.py:171] 🔗 [HN #5] URL: https://pandoc.org/lua-filters.html
+INFO     2026-07-05 08:05:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-05 08:05:59 [scraper.py:170] 📥 [HN #6] Megawatts by Microwave
+INFO     2026-07-05 08:05:59 [scraper.py:171] 🔗 [HN #6] URL: https://computer.rip/2026-07-04-microwave-and-power.html
+INFO     2026-07-05 08:05:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-05 08:05:59 [scraper.py:170] 📥 [HN #7] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+INFO     2026-07-05 08:05:59 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/openai/codex/issues/30364
+INFO     2026-07-05 08:05:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-05 08:06:00 [scraper.py:170] 📥 [HN #8] Google Books (or similar) all book scans – $200k bounty (2025)
+INFO     2026-07-05 08:06:00 [scraper.py:171] 🔗 [HN #8] URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234
+INFO     2026-07-05 08:06:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-05 08:06:00 [scraper.py:170] 📥 [HN #9] Jellyfish can heal wounds in minutes. Scientists want their secrets
+INFO     2026-07-05 08:06:00 [scraper.py:171] 🔗 [HN #9] URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+INFO     2026-07-05 08:06:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-05 08:06:00 [scraper.py:170] 📥 [HN #10] Leaking YouTube creators' private videos
+INFO     2026-07-05 08:06:00 [scraper.py:171] 🔗 [HN #10] URL: https://javoriuski.com/post/youtube
+INFO     2026-07-05 08:06:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-05 08:06:00 [scraper.py:178] 🎉 [HN] All done.
+
