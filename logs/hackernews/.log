@@ -33742,3 +33742,36 @@ INFO     2026-07-05 08:06:00 [scraper.py:171] 🔗 [HN #10] URL: https://javoriu
 INFO     2026-07-05 08:06:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-05 08:06:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-05 11:35:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-05 11:35:14 [scraper.py:170] 📥 [HN #1] Shadcn/UI now defaults to Base UI instead of Radix
+INFO     2026-07-05 11:35:14 [scraper.py:171] 🔗 [HN #1] URL: https://ui.shadcn.com/docs/changelog
+INFO     2026-07-05 11:35:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-05 11:35:14 [scraper.py:170] 📥 [HN #2] Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+INFO     2026-07-05 11:35:14 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+INFO     2026-07-05 11:35:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-05 11:35:15 [scraper.py:170] 📥 [HN #3] If you're a button, you have one job
+INFO     2026-07-05 11:35:15 [scraper.py:171] 🔗 [HN #3] URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+INFO     2026-07-05 11:35:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-05 11:35:15 [scraper.py:170] 📥 [HN #4] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+INFO     2026-07-05 11:35:15 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/openai/codex/issues/30364
+INFO     2026-07-05 11:35:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-05 11:35:15 [scraper.py:170] 📥 [HN #5] Fast Software, the Best Software
+INFO     2026-07-05 11:35:15 [scraper.py:171] 🔗 [HN #5] URL: https://craigmod.com/essays/fast_software/
+INFO     2026-07-05 11:35:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-05 11:35:15 [scraper.py:170] 📥 [HN #6] Pandoc Lua Filters
+INFO     2026-07-05 11:35:15 [scraper.py:171] 🔗 [HN #6] URL: https://pandoc.org/lua-filters.html
+INFO     2026-07-05 11:35:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-05 11:35:16 [scraper.py:170] 📥 [HN #7] Pi square is nearly 10
+INFO     2026-07-05 11:35:16 [scraper.py:171] 🔗 [HN #7] URL: https://mihai.page/pi-square-is-10/
+INFO     2026-07-05 11:35:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-05 11:35:16 [scraper.py:170] 📥 [HN #8] Jellyfish can heal wounds in minutes. Scientists want their secrets
+INFO     2026-07-05 11:35:16 [scraper.py:171] 🔗 [HN #8] URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+INFO     2026-07-05 11:35:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-05 11:35:16 [scraper.py:170] 📥 [HN #9] Common 3D Benchy Problems, Causes and Fixes
+INFO     2026-07-05 11:35:16 [scraper.py:171] 🔗 [HN #9] URL: https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/
+INFO     2026-07-05 11:35:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-05 11:35:16 [scraper.py:170] 📥 [HN #10] Europe's new climate in seven charts
+INFO     2026-07-05 11:35:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc.com/news/articles/c8e2j0j87reo
+INFO     2026-07-05 11:35:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-05 11:35:16 [scraper.py:178] 🎉 [HN] All done.
+
