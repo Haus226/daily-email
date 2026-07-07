@@ -5030,3 +5030,8 @@ INFO     2026-07-06 13:45:07 [scraper.py:47] 📥 [APOD] Title: Dueling Bands ov
 INFO     2026-07-06 13:45:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg
 INFO     2026-07-06 13:45:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-07 04:07:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-07 04:07:47 [scraper.py:47] 📥 [APOD] Title: NGC 6188: Dragons of Ara
+INFO     2026-07-07 04:07:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg
+INFO     2026-07-07 04:07:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

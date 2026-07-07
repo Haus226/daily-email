@@ -33874,3 +33874,36 @@ INFO     2026-07-06 13:45:09 [scraper.py:171] 🔗 [HN #10] URL: https://chronic
 INFO     2026-07-06 13:45:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-06 13:45:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-07 04:07:46 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-07 04:07:47 [scraper.py:170] 📥 [HN #1] Fable turned reMarkable into Tom Riddle's diary from Harry Potter
+INFO     2026-07-07 04:07:47 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/MaximeRivest/Riddle
+INFO     2026-07-07 04:07:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-07 04:07:47 [scraper.py:170] 📥 [HN #2] OpenWrt One – Open Hardware Router
+INFO     2026-07-07 04:07:47 [scraper.py:171] 🔗 [HN #2] URL: https://openwrt.org/toh/openwrt/one
+INFO     2026-07-07 04:07:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-07 04:07:48 [scraper.py:170] 📥 [HN #3] How to sequence your own DNA at home
+INFO     2026-07-07 04:07:48 [scraper.py:171] 🔗 [HN #3] URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home
+INFO     2026-07-07 04:07:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-07 04:07:48 [scraper.py:170] 📥 [HN #4] CoMaps – FOSS Offline Maps
+INFO     2026-07-07 04:07:48 [scraper.py:171] 🔗 [HN #4] URL: https://www.comaps.app/
+INFO     2026-07-07 04:07:48 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-07 04:07:48 [scraper.py:170] 📥 [HN #5] GLM 5.2 and the coming AI margin collapse
+INFO     2026-07-07 04:07:48 [scraper.py:171] 🔗 [HN #5] URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+INFO     2026-07-07 04:07:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-07 04:07:48 [scraper.py:170] 📥 [HN #6] Small AI Models Gain Traction In places with unreliable networks
+INFO     2026-07-07 04:07:48 [scraper.py:171] 🔗 [HN #6] URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
+INFO     2026-07-07 04:07:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-07 04:07:49 [scraper.py:170] 📥 [HN #7] Ternlight – 7 MB embedding model that runs in browser (WASM)
+INFO     2026-07-07 04:07:49 [scraper.py:171] 🔗 [HN #7] URL: https://ternlight-demo.vercel.app/
+INFO     2026-07-07 04:07:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-07 04:07:49 [scraper.py:170] 📥 [HN #8] A global workspace in language models
+INFO     2026-07-07 04:07:49 [scraper.py:171] 🔗 [HN #8] URL: https://www.anthropic.com/research/global-workspace
+INFO     2026-07-07 04:07:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-07 04:07:49 [scraper.py:170] 📥 [HN #9] Pruning RAG context down to what the answer actually needs
+INFO     2026-07-07 04:07:49 [scraper.py:171] 🔗 [HN #9] URL: https://www.kapa.ai/blog/how-we-prune-rag-context
+INFO     2026-07-07 04:07:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-07 04:07:49 [scraper.py:170] 📥 [HN #10] Resetting Xbox
+INFO     2026-07-07 04:07:49 [scraper.py:171] 🔗 [HN #10] URL: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/
+INFO     2026-07-07 04:07:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-07 04:07:49 [scraper.py:178] 🎉 [HN] All done.
+
