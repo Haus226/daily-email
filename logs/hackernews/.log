@@ -33940,3 +33940,36 @@ INFO     2026-07-07 08:27:37 [scraper.py:171] 🔗 [HN #10] URL: https://www.ant
 INFO     2026-07-07 08:27:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-07 08:27:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-07 12:27:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-07 12:27:19 [scraper.py:170] 📥 [HN #1] OpenWrt One – Open Hardware Router
+INFO     2026-07-07 12:27:19 [scraper.py:171] 🔗 [HN #1] URL: https://openwrt.org/toh/openwrt/one
+INFO     2026-07-07 12:27:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-07 12:27:19 [scraper.py:170] 📥 [HN #2] CoMaps – FOSS Offline Maps
+INFO     2026-07-07 12:27:19 [scraper.py:171] 🔗 [HN #2] URL: https://www.comaps.app/
+INFO     2026-07-07 12:27:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-07 12:27:19 [scraper.py:170] 📥 [HN #3] GLM 5.2 and the coming AI margin collapse
+INFO     2026-07-07 12:27:20 [scraper.py:171] 🔗 [HN #3] URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+INFO     2026-07-07 12:27:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-07 12:27:20 [scraper.py:170] 📥 [HN #4] Dolosse – a South African invention used over the world
+INFO     2026-07-07 12:27:20 [scraper.py:171] 🔗 [HN #4] URL: https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/
+INFO     2026-07-07 12:27:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-07 12:27:20 [scraper.py:170] 📥 [HN #5] How to sequence your own DNA at home
+INFO     2026-07-07 12:27:20 [scraper.py:171] 🔗 [HN #5] URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home
+INFO     2026-07-07 12:27:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:170] 📥 [HN #6] 9 Mothers (YC P26) Is Hiring in Austin, TX
+INFO     2026-07-07 12:27:21 [scraper.py:171] 🔗 [HN #6] URL: https://9mothers.com/careers
+INFO     2026-07-07 12:27:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:170] 📥 [HN #7] Small AI Models Gain Traction In places with unreliable networks
+INFO     2026-07-07 12:27:21 [scraper.py:171] 🔗 [HN #7] URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
+INFO     2026-07-07 12:27:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:170] 📥 [HN #8] Top researchers leave USA for the Netherlands (in Dutch)
+INFO     2026-07-07 12:27:21 [scraper.py:171] 🔗 [HN #8] URL: https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland
+INFO     2026-07-07 12:27:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:170] 📥 [HN #9] Historic Photos of NASA's Cavernous Wind Tunnels
+INFO     2026-07-07 12:27:21 [scraper.py:171] 🔗 [HN #9] URL: https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/
+INFO     2026-07-07 12:27:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:170] 📥 [HN #10] Microsoft Can Track Users via a Windows Device ID
+INFO     2026-07-07 12:27:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device
+INFO     2026-07-07 12:27:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-07 12:27:21 [scraper.py:178] 🎉 [HN] All done.
+
