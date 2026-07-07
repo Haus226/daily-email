@@ -5035,3 +5035,8 @@ INFO     2026-07-07 04:07:47 [scraper.py:47] 📥 [APOD] Title: NGC 6188: Dragon
 INFO     2026-07-07 04:07:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg
 INFO     2026-07-07 04:07:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-07 08:27:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-07 08:27:35 [scraper.py:47] 📥 [APOD] Title: NGC 6188: Dragons of Ara
+INFO     2026-07-07 08:27:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg
+INFO     2026-07-07 08:27:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
