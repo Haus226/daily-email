@@ -34039,3 +34039,36 @@ INFO     2026-07-08 07:33:01 [scraper.py:171] 🔗 [HN #10] URL: https://twitter
 INFO     2026-07-08 07:33:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-08 07:33:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-08 11:46:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-08 11:46:54 [scraper.py:170] 📥 [HN #1] Decoding the obfuscated bash script on a Uniqlo t-shirt
+INFO     2026-07-08 11:46:54 [scraper.py:171] 🔗 [HN #1] URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
+INFO     2026-07-08 11:46:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-08 11:46:54 [scraper.py:170] 📥 [HN #2] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos
+INFO     2026-07-08 11:46:54 [scraper.py:171] 🔗 [HN #2] URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+INFO     2026-07-08 11:46:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-08 11:46:54 [scraper.py:170] 📥 [HN #3] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)
+INFO     2026-07-08 11:46:54 [scraper.py:171] 🔗 [HN #3] URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
+INFO     2026-07-08 11:46:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-08 11:46:54 [scraper.py:170] 📥 [HN #4] Geosql: A Claude/Codex skill for geospatial data
+INFO     2026-07-08 11:46:54 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/dekart-xyz/geosql
+INFO     2026-07-08 11:46:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #5] Apple to increase spend with Broadcom to produce billions more U.S. chips
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #5] URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #6] Tenda firmware (multiple versions) contains hidden authentication backdoor
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #6] URL: https://kb.cert.org/vuls/id/213560
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #7] EVE Online's Carbon engine is now open source: Fenris Creations explains why
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #8] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #8] URL: https://www.digipres.org/the-floppy-guide/
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #9] Structure and Interpretation of Computer Programs Video Lectures (1986)
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #9] URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:170] 📥 [HN #10] Chat Control 1.0 and 2.0 Explained
+INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #10] URL: https://fightchatcontrol.eu/chat-control-overview
+INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-08 11:46:55 [scraper.py:178] 🎉 [HN] All done.
+
