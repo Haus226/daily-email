@@ -34006,3 +34006,36 @@ INFO     2026-07-08 03:32:58 [scraper.py:171] 🔗 [HN #10] URL: https://twitter
 INFO     2026-07-08 03:32:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-08 03:32:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-08 07:32:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-08 07:32:59 [scraper.py:170] 📥 [HN #1] How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)
+INFO     2026-07-08 07:32:59 [scraper.py:171] 🔗 [HN #1] URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
+INFO     2026-07-08 07:32:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-08 07:32:59 [scraper.py:170] 📥 [HN #2] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos
+INFO     2026-07-08 07:32:59 [scraper.py:171] 🔗 [HN #2] URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+INFO     2026-07-08 07:32:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-08 07:32:59 [scraper.py:170] 📥 [HN #3] Tenda firmware (multiple versions) contains hidden authentication backdoor
+INFO     2026-07-08 07:32:59 [scraper.py:171] 🔗 [HN #3] URL: https://kb.cert.org/vuls/id/213560
+INFO     2026-07-08 07:32:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-08 07:32:59 [scraper.py:170] 📥 [HN #4] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks
+INFO     2026-07-08 07:32:59 [scraper.py:171] 🔗 [HN #4] URL: https://www.digipres.org/the-floppy-guide/
+INFO     2026-07-08 07:32:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-08 07:33:00 [scraper.py:170] 📥 [HN #5] GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup
+INFO     2026-07-08 07:33:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.gao.gov/products/gao-26-108193
+INFO     2026-07-08 07:33:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-08 07:33:00 [scraper.py:170] 📥 [HN #6] Structure and Interpretation of Computer Programs Video Lectures (1986)
+INFO     2026-07-08 07:33:00 [scraper.py:171] 🔗 [HN #6] URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
+INFO     2026-07-08 07:33:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-08 07:33:00 [scraper.py:170] 📥 [HN #7] Canada's only watchmaking school still ticking after 80 years
+INFO     2026-07-08 07:33:00 [scraper.py:171] 🔗 [HN #7] URL: https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211
+INFO     2026-07-08 07:33:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-08 07:33:00 [scraper.py:170] 📥 [HN #8] Chat Control 1.0 and 2.0 Explained
+INFO     2026-07-08 07:33:00 [scraper.py:171] 🔗 [HN #8] URL: https://fightchatcontrol.eu/chat-control-overview
+INFO     2026-07-08 07:33:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-08 07:33:01 [scraper.py:170] 📥 [HN #9] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro
+INFO     2026-07-08 07:33:01 [scraper.py:171] 🔗 [HN #9] URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
+INFO     2026-07-08 07:33:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-08 07:33:01 [scraper.py:170] 📥 [HN #10] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday
+INFO     2026-07-08 07:33:01 [scraper.py:171] 🔗 [HN #10] URL: https://twitter.com/OpenAI/status/2074704958419792299
+INFO     2026-07-08 07:33:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-08 07:33:01 [scraper.py:178] 🎉 [HN] All done.
+
