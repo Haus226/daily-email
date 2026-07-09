@@ -34072,3 +34072,36 @@ INFO     2026-07-08 11:46:55 [scraper.py:171] 🔗 [HN #10] URL: https://fightch
 INFO     2026-07-08 11:46:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-08 11:46:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-09 04:01:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-09 04:01:39 [scraper.py:170] 📥 [HN #1] John Deere owners will get the right to repair equipment under FTC settlement
+INFO     2026-07-09 04:01:39 [scraper.py:171] 🔗 [HN #1] URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+INFO     2026-07-09 04:01:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-09 04:01:39 [scraper.py:170] 📥 [HN #2] I Think I Have LLM Burnout
+INFO     2026-07-09 04:01:39 [scraper.py:171] 🔗 [HN #2] URL: https://www.alecscollon.com/blog/llm-burnout/
+INFO     2026-07-09 04:01:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-09 04:01:39 [scraper.py:170] 📥 [HN #3] Chatto is now open source
+INFO     2026-07-09 04:01:40 [scraper.py:171] 🔗 [HN #3] URL: https://www.hmans.dev/blog/chatto-is-open-source
+INFO     2026-07-09 04:01:40 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-09 04:01:40 [scraper.py:170] 📥 [HN #4] Separating signal from noise in coding evaluations
+INFO     2026-07-09 04:01:40 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
+INFO     2026-07-09 04:01:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-09 04:01:40 [scraper.py:170] 📥 [HN #5] Cloudflare Drop
+INFO     2026-07-09 04:01:40 [scraper.py:171] 🔗 [HN #5] URL: https://www.cloudflare.com/drop/
+INFO     2026-07-09 04:01:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-09 04:01:40 [scraper.py:170] 📥 [HN #6] Remote Attestation
+INFO     2026-07-09 04:01:40 [scraper.py:171] 🔗 [HN #6] URL: https://www.liamcvw.com/p/remote-attestation
+INFO     2026-07-09 04:01:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-09 04:01:41 [scraper.py:170] 📥 [HN #7] We made Grok 4.5, GPT-5.5, and Claude build the same apps
+INFO     2026-07-09 04:01:41 [scraper.py:171] 🔗 [HN #7] URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off
+INFO     2026-07-09 04:01:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-09 04:01:41 [scraper.py:170] 📥 [HN #8] Patching MechCommander's "left arm bug" for fun and profit
+INFO     2026-07-09 04:01:41 [scraper.py:171] 🔗 [HN #8] URL: https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/
+INFO     2026-07-09 04:01:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-09 04:01:41 [scraper.py:170] 📥 [HN #9] Mistral's Robostral Navigate: a state of the art robotics navigation model
+INFO     2026-07-09 04:01:41 [scraper.py:171] 🔗 [HN #9] URL: https://mistral.ai/news/robostral-navigate/
+INFO     2026-07-09 04:01:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-09 04:01:41 [scraper.py:170] 📥 [HN #10] Unicode's transliteration rules are Turing-complete
+INFO     2026-07-09 04:01:41 [scraper.py:171] 🔗 [HN #10] URL: https://seriot.ch/computation/uts35/
+INFO     2026-07-09 04:01:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-09 04:01:41 [scraper.py:178] 🎉 [HN] All done.
+
