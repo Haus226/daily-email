@@ -34105,3 +34105,36 @@ INFO     2026-07-09 04:01:41 [scraper.py:171] 🔗 [HN #10] URL: https://seriot.
 INFO     2026-07-09 04:01:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-09 04:01:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-09 12:36:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-09 12:36:50 [scraper.py:170] 📥 [HN #1] John Deere owners will get the right to repair equipment under FTC settlement
+INFO     2026-07-09 12:36:50 [scraper.py:171] 🔗 [HN #1] URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+INFO     2026-07-09 12:36:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-09 12:36:50 [scraper.py:170] 📥 [HN #2] Spider venom kills varroa mites without harming honeybees
+INFO     2026-07-09 12:36:50 [scraper.py:171] 🔗 [HN #2] URL: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming
+INFO     2026-07-09 12:36:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-09 12:36:50 [scraper.py:170] 📥 [HN #3] Meta reuses old RAM in new servers with custom bridge chip
+INFO     2026-07-09 12:36:50 [scraper.py:171] 🔗 [HN #3] URL: https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html
+INFO     2026-07-09 12:36:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-09 12:36:51 [scraper.py:170] 📥 [HN #4] EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"
+INFO     2026-07-09 12:36:51 [scraper.py:171] 🔗 [HN #4] URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+INFO     2026-07-09 12:36:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-09 12:36:51 [scraper.py:170] 📥 [HN #5] Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75
+INFO     2026-07-09 12:36:51 [scraper.py:171] 🔗 [HN #5] URL: https://www.bbc.com/news/articles/cg5pd9z2487o
+INFO     2026-07-09 12:36:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-09 12:36:51 [scraper.py:170] 📥 [HN #6] In-browser programmable robot simulator
+INFO     2026-07-09 12:36:51 [scraper.py:171] 🔗 [HN #6] URL: https://bittlex-sim.petoi.com/
+INFO     2026-07-09 12:36:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-09 12:36:51 [scraper.py:170] 📥 [HN #7] TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time
+INFO     2026-07-09 12:36:51 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=48844517
+INFO     2026-07-09 12:36:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-09 12:36:52 [scraper.py:170] 📥 [HN #8] Why developers are ditching GitHub for Codeberg and self-hosting alternatives
+INFO     2026-07-09 12:36:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/
+INFO     2026-07-09 12:36:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-09 12:36:52 [scraper.py:170] 📥 [HN #9] I Built the Only 2026 WWII Jeep
+INFO     2026-07-09 12:36:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/
+INFO     2026-07-09 12:36:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-09 12:36:52 [scraper.py:170] 📥 [HN #10] Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI
+INFO     2026-07-09 12:36:52 [scraper.py:171] 🔗 [HN #10] URL: https://nexte.st/
+INFO     2026-07-09 12:36:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-09 12:36:52 [scraper.py:178] 🎉 [HN] All done.
+

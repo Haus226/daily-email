@@ -5065,3 +5065,8 @@ INFO     2026-07-09 04:01:39 [scraper.py:47] 📥 [APOD] Title: Swift Boost Miss
 INFO     2026-07-09 04:01:39 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4
 INFO     2026-07-09 04:01:39 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-09 12:36:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-09 12:36:50 [scraper.py:47] 📥 [APOD] Title: The Red Glow of the Cosmic Bat Nebula
+INFO     2026-07-09 12:36:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg
+INFO     2026-07-09 12:36:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
