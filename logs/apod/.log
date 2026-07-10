@@ -5070,3 +5070,8 @@ INFO     2026-07-09 12:36:50 [scraper.py:47] 📥 [APOD] Title: The Red Glow of 
 INFO     2026-07-09 12:36:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg
 INFO     2026-07-09 12:36:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-10 04:01:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-10 04:01:46 [scraper.py:47] 📥 [APOD] Title: The Red Glow of the Cosmic Bat Nebula
+INFO     2026-07-10 04:01:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg
+INFO     2026-07-10 04:01:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

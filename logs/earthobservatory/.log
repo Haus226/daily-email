@@ -15605,3 +15605,24 @@ INFO     2026-07-09 12:36:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-09 12:36:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-10 04:01:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-10 04:01:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-10 04:01:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-10 04:01:46 [scraper.py:133] 📥 [EO] Title: Where Venezuela’s Earthquakes Shifted the Ground
+INFO     2026-07-10 04:01:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-10 04:01:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-10 04:01:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-10 04:01:46 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-10 04:01:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-10 04:01:47 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-10 04:01:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-10 04:01:47 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-10 04:01:47 [scraper.py:133] 📥 [EO] Title: Where Venezuela’s Earthquakes Shifted the Ground
+INFO     2026-07-10 04:01:47 [scraper.py:133] 📥 [EO] Title: Where Venezuela’s Earthquakes Shifted the Ground
+INFO     2026-07-10 04:01:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-10 04:01:47 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/where-venezuela’s-earthquakes-shifted-the-ground/venezuela_nisar_20260630_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-10 04:01:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-10 04:01:47 [scraper.py:154] ✅ [EO] Successfully fetched.
+
