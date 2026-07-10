@@ -34171,3 +34171,36 @@ INFO     2026-07-10 04:01:48 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-07-10 04:01:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-10 04:01:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-10 08:27:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-10 08:27:02 [scraper.py:170] 📥 [HN #1] Show HN: Getting GLM 5.2 running on my slow computer
+INFO     2026-07-10 08:27:02 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/JustVugg/colibri
+INFO     2026-07-10 08:27:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-10 08:27:02 [scraper.py:170] 📥 [HN #2] EU Parliament greenlights Chat Control 1.0
+INFO     2026-07-10 08:27:02 [scraper.py:171] 🔗 [HN #2] URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+INFO     2026-07-10 08:27:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-10 08:27:02 [scraper.py:170] 📥 [HN #3] Train sim created by just one person is being called the best ever made
+INFO     2026-07-10 08:27:02 [scraper.py:171] 🔗 [HN #3] URL: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429
+INFO     2026-07-10 08:27:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-10 08:27:02 [scraper.py:170] 📥 [HN #4] Show HN: 18 Words
+INFO     2026-07-10 08:27:02 [scraper.py:171] 🔗 [HN #4] URL: https://18words.com/
+INFO     2026-07-10 08:27:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-10 08:27:02 [scraper.py:170] 📥 [HN #5] GPT-5.6
+INFO     2026-07-10 08:27:02 [scraper.py:171] 🔗 [HN #5] URL: https://openai.com/index/gpt-5-6/
+INFO     2026-07-10 08:27:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-10 08:27:03 [scraper.py:170] 📥 [HN #6] Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+INFO     2026-07-10 08:27:03 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/malisper/pgrust
+INFO     2026-07-10 08:27:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-10 08:27:03 [scraper.py:170] 📥 [HN #7] Interview with Mitchell Hashimoto about Ghostty and Zig
+INFO     2026-07-10 08:27:03 [scraper.py:171] 🔗 [HN #7] URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
+INFO     2026-07-10 08:27:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-10 08:27:03 [scraper.py:170] 📥 [HN #8] AI-generated videos to maximally drive a target brain region
+INFO     2026-07-10 08:27:03 [scraper.py:171] 🔗 [HN #8] URL: https://nevo-project.epfl.ch/
+INFO     2026-07-10 08:27:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-10 08:27:03 [scraper.py:170] 📥 [HN #9] Hy3
+INFO     2026-07-10 08:27:03 [scraper.py:171] 🔗 [HN #9] URL: https://hy.tencent.com/research/hy3
+INFO     2026-07-10 08:27:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-10 08:27:04 [scraper.py:170] 📥 [HN #10] The glass backbone: Why the Army's logistics will break in the next war
+INFO     2026-07-10 08:27:04 [scraper.py:171] 🔗 [HN #10] URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/
+INFO     2026-07-10 08:27:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-10 08:27:04 [scraper.py:178] 🎉 [HN] All done.
+
