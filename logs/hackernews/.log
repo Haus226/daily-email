@@ -34204,3 +34204,36 @@ INFO     2026-07-10 08:27:04 [scraper.py:171] 🔗 [HN #10] URL: https://mwi.wes
 INFO     2026-07-10 08:27:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-10 08:27:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-10 12:25:30 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-10 12:25:30 [scraper.py:170] 📥 [HN #1] GPT-5.6
+INFO     2026-07-10 12:25:30 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/gpt-5-6/
+INFO     2026-07-10 12:25:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-10 12:25:31 [scraper.py:170] 📥 [HN #2] In Emacs, Everything Looks Like a Service
+INFO     2026-07-10 12:25:31 [scraper.py:171] 🔗 [HN #2] URL: http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html
+INFO     2026-07-10 12:25:31 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-10 12:25:31 [scraper.py:170] 📥 [HN #3] Show HN: Getting GLM 5.2 running on my slow computer
+INFO     2026-07-10 12:25:31 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/JustVugg/colibri
+INFO     2026-07-10 12:25:31 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-10 12:25:31 [scraper.py:170] 📥 [HN #4] EU Parliament greenlights Chat Control 1.0
+INFO     2026-07-10 12:25:31 [scraper.py:171] 🔗 [HN #4] URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+INFO     2026-07-10 12:25:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-10 12:25:31 [scraper.py:170] 📥 [HN #5] EU Commission: addictive design Instagram and Facebook in breach of the DSA
+INFO     2026-07-10 12:25:31 [scraper.py:171] 🔗 [HN #5] URL: https://ec.europa.eu/commission/presscorner/home/en
+INFO     2026-07-10 12:25:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:170] 📥 [HN #6] The mathematical secrets of Barcelona's Sagrada Familia
+INFO     2026-07-10 12:25:32 [scraper.py:171] 🔗 [HN #6] URL: https://mappingignorance.org/2026/06/30/sagrada-familia/
+INFO     2026-07-10 12:25:32 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:170] 📥 [HN #7] Laylo (YC S20) Is Hiring a Head of Finance
+INFO     2026-07-10 12:25:32 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance
+INFO     2026-07-10 12:25:32 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:170] 📥 [HN #8] Train sim created by just one person is being called the best ever made
+INFO     2026-07-10 12:25:32 [scraper.py:171] 🔗 [HN #8] URL: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429
+INFO     2026-07-10 12:25:32 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:170] 📥 [HN #9] Show HN: 18 Words
+INFO     2026-07-10 12:25:32 [scraper.py:171] 🔗 [HN #9] URL: https://18words.com/
+INFO     2026-07-10 12:25:32 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:170] 📥 [HN #10] Good Tools Are Invisible
+INFO     2026-07-10 12:25:32 [scraper.py:171] 🔗 [HN #10] URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
+INFO     2026-07-10 12:25:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-10 12:25:32 [scraper.py:178] 🎉 [HN] All done.
+
