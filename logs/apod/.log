@@ -5090,3 +5090,8 @@ INFO     2026-07-11 03:28:42 [scraper.py:47] 📥 [APOD] Title: Western Moon, Ea
 INFO     2026-07-11 03:28:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg
 INFO     2026-07-11 03:28:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-11 07:15:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-11 07:15:14 [scraper.py:47] 📥 [APOD] Title: Messier 24: Sagittarius Star Cloud
+INFO     2026-07-11 07:15:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/M24_1088.jpg
+INFO     2026-07-11 07:15:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

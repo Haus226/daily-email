@@ -34270,3 +34270,36 @@ INFO     2026-07-11 03:28:44 [scraper.py:171] 🔗 [HN #10] URL: https://mimo.xi
 INFO     2026-07-11 03:28:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-11 03:28:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-11 07:15:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-11 07:15:14 [scraper.py:170] 📥 [HN #1] The Vintage Beauty of Soviet Control Rooms
+INFO     2026-07-11 07:15:14 [scraper.py:171] 🔗 [HN #1] URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/
+INFO     2026-07-11 07:15:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-11 07:15:14 [scraper.py:170] 📥 [HN #2] Einstein's relativity rules chemical bonds in heavy elements, new research shows
+INFO     2026-07-11 07:15:14 [scraper.py:171] 🔗 [HN #2] URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+INFO     2026-07-11 07:15:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-11 07:15:15 [scraper.py:170] 📥 [HN #3] What's the best way to do authentication in modern applications
+INFO     2026-07-11 07:15:15 [scraper.py:171] 🔗 [HN #3] URL: https://neciudan.dev/most-secure-way-to-store-auth-token
+INFO     2026-07-11 07:15:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-11 07:15:15 [scraper.py:170] 📥 [HN #4] QuadRF can spot drones and see WiFi through my wall
+INFO     2026-07-11 07:15:15 [scraper.py:171] 🔗 [HN #4] URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+INFO     2026-07-11 07:15:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-11 07:15:15 [scraper.py:170] 📥 [HN #5] Apple sues OpenAI, accuses ex-employees of stealing trade secrets
+INFO     2026-07-11 07:15:15 [scraper.py:171] 🔗 [HN #5] URL: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+INFO     2026-07-11 07:15:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:170] 📥 [HN #6] An iroh powered smart fan
+INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #6] URL: https://www.iroh.computer/blog/an-iroh-powered-smart-fan
+INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:170] 📥 [HN #7] An update on residential proxies and the scraper situation
+INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #7] URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/
+INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:170] 📥 [HN #8] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth
+INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #8] URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/
+INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:170] 📥 [HN #9] GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
+INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #9] URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
+INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:170] 📥 [HN #10] AI 2040: Plan A
+INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #10] URL: https://ai-2040.com/
+INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-11 07:15:16 [scraper.py:178] 🎉 [HN] All done.
+
