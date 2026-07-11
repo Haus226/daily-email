@@ -34303,3 +34303,36 @@ INFO     2026-07-11 07:15:16 [scraper.py:171] 🔗 [HN #10] URL: https://ai-2040
 INFO     2026-07-11 07:15:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-11 07:15:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-11 11:05:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-11 11:05:59 [scraper.py:170] 📥 [HN #1] Einstein's relativity rules chemical bonds in heavy elements, new research shows
+INFO     2026-07-11 11:05:59 [scraper.py:171] 🔗 [HN #1] URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+INFO     2026-07-11 11:05:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-11 11:05:59 [scraper.py:170] 📥 [HN #2] QuadRF can spot drones and see WiFi through my wall
+INFO     2026-07-11 11:05:59 [scraper.py:171] 🔗 [HN #2] URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+INFO     2026-07-11 11:05:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-11 11:05:59 [scraper.py:170] 📥 [HN #3] Otary – Image and Geometry Python Library Now Has Tutorials
+INFO     2026-07-11 11:05:59 [scraper.py:171] 🔗 [HN #3] URL: https://alexandrepoupeau.com/otary/learn/
+INFO     2026-07-11 11:05:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #4] Apple sues OpenAI, accuses ex-employees of stealing trade secrets
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #4] URL: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #5] Almost $1B Later, the US Still Can't Make a Medical Glove
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #6] An iroh powered smart fan
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #6] URL: https://www.iroh.computer/blog/an-iroh-powered-smart-fan
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #7] The vintage beauty of Soviet control rooms (2018)
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #7] URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #8] An update on residential proxies and the scraper situation
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #8] URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #9] SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #9] URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:170] 📥 [HN #10] Good Tools Are Invisible
+INFO     2026-07-11 11:06:00 [scraper.py:171] 🔗 [HN #10] URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
+INFO     2026-07-11 11:06:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-11 11:06:00 [scraper.py:178] 🎉 [HN] All done.
+
