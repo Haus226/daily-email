@@ -5110,3 +5110,8 @@ INFO     2026-07-12 07:30:59 [scraper.py:47] 📥 [APOD] Title: Galaxy NGC 474: 
 INFO     2026-07-12 07:30:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg
 INFO     2026-07-12 07:30:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-12 11:10:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-12 11:10:30 [scraper.py:47] 📥 [APOD] Title: Galaxy NGC 474: Shells and Star Streams
+INFO     2026-07-12 11:10:30 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg
+INFO     2026-07-12 11:10:30 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
