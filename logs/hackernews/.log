@@ -34501,3 +34501,36 @@ INFO     2026-07-13 08:20:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.eng
 INFO     2026-07-13 08:20:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-13 08:20:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-13 12:32:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-13 12:32:01 [scraper.py:170] 📥 [HN #1] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke
+INFO     2026-07-13 12:32:01 [scraper.py:171] 🔗 [HN #1] URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/
+INFO     2026-07-13 12:32:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-13 12:32:01 [scraper.py:170] 📥 [HN #2] A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese
+INFO     2026-07-13 12:32:01 [scraper.py:171] 🔗 [HN #2] URL: https://jivx.com/densha
+INFO     2026-07-13 12:32:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-13 12:32:01 [scraper.py:170] 📥 [HN #3] Show HN: DOM-docx – HTML to native, editable Word docs (MIT)
+INFO     2026-07-13 12:32:01 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/floodtide/dom-docx
+INFO     2026-07-13 12:32:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-13 12:32:02 [scraper.py:170] 📥 [HN #4] Interrail: 6,379Km and 13 Countries over 7 weeks
+INFO     2026-07-13 12:32:02 [scraper.py:171] 🔗 [HN #4] URL: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/
+INFO     2026-07-13 12:32:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-13 12:32:02 [scraper.py:170] 📥 [HN #5] The social physics of conversation: Communication patterns matter
+INFO     2026-07-13 12:32:02 [scraper.py:171] 🔗 [HN #5] URL: https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership
+INFO     2026-07-13 12:32:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-13 12:32:02 [scraper.py:170] 📥 [HN #6] Backtrack-Free Cursive
+INFO     2026-07-13 12:32:02 [scraper.py:171] 🔗 [HN #6] URL: https://mmapped.blog/posts/52-backtrack-free-cursive
+INFO     2026-07-13 12:32:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-13 12:32:02 [scraper.py:170] 📥 [HN #7] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years
+INFO     2026-07-13 12:32:02 [scraper.py:171] 🔗 [HN #7] URL: https://nebusec.ai/research/ionstack-part-2/
+INFO     2026-07-13 12:32:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-13 12:32:03 [scraper.py:170] 📥 [HN #8] We Put an L7 Firewall in the Kernel
+INFO     2026-07-13 12:32:03 [scraper.py:171] 🔗 [HN #8] URL: https://yeet.cx/blog/l7-firewall-in-the-kernel
+INFO     2026-07-13 12:32:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-13 12:32:03 [scraper.py:170] 📥 [HN #9] Beavis Ultrasound PnP ISA Sound Card Replica
+INFO     2026-07-13 12:32:03 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/schlae/BeavisUltrasound
+INFO     2026-07-13 12:32:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-13 12:32:03 [scraper.py:170] 📥 [HN #10] Cyberpunk Comics, Manga and Graphic Novels
+INFO     2026-07-13 12:32:03 [scraper.py:171] 🔗 [HN #10] URL: https://shellzine.net/cyberpunk-comics/
+INFO     2026-07-13 12:32:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-13 12:32:03 [scraper.py:178] 🎉 [HN] All done.
+
