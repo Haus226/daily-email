@@ -34468,3 +34468,36 @@ INFO     2026-07-13 03:42:04 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-07-13 03:42:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-13 03:42:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-13 08:20:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-13 08:20:10 [scraper.py:170] 📥 [HN #1] Backtrack-Free Cursive
+INFO     2026-07-13 08:20:10 [scraper.py:171] 🔗 [HN #1] URL: https://mmapped.blog/posts/52-backtrack-free-cursive
+INFO     2026-07-13 08:20:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-13 08:20:10 [scraper.py:170] 📥 [HN #2] Beavis Ultrasound PnP ISA Sound Card Replica
+INFO     2026-07-13 08:20:10 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/schlae/BeavisUltrasound
+INFO     2026-07-13 08:20:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-13 08:20:11 [scraper.py:170] 📥 [HN #3] GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years
+INFO     2026-07-13 08:20:11 [scraper.py:171] 🔗 [HN #3] URL: https://nebusec.ai/research/ionstack-part-2/
+INFO     2026-07-13 08:20:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-13 08:20:11 [scraper.py:170] 📥 [HN #4] Cyberpunk Comics, Manga and Graphic Novels
+INFO     2026-07-13 08:20:11 [scraper.py:171] 🔗 [HN #4] URL: https://shellzine.net/cyberpunk-comics/
+INFO     2026-07-13 08:20:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-13 08:20:11 [scraper.py:170] 📥 [HN #5] The social physics of conversation: Communication patterns matter
+INFO     2026-07-13 08:20:11 [scraper.py:171] 🔗 [HN #5] URL: https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership
+INFO     2026-07-13 08:20:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-13 08:20:11 [scraper.py:170] 📥 [HN #6] Tiny Emulators
+INFO     2026-07-13 08:20:11 [scraper.py:171] 🔗 [HN #6] URL: https://floooh.github.io/tiny8bit-preview/index.html
+INFO     2026-07-13 08:20:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-13 08:20:11 [scraper.py:170] 📥 [HN #7] So you want to learn physics (second edition, 2021)
+INFO     2026-07-13 08:20:11 [scraper.py:171] 🔗 [HN #7] URL: https://www.susanrigetti.com/physics
+INFO     2026-07-13 08:20:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-13 08:20:12 [scraper.py:170] 📥 [HN #8] Designing and assembling my first PCB
+INFO     2026-07-13 08:20:12 [scraper.py:171] 🔗 [HN #8] URL: https://vilkeliskis.com/b/2026/0711.html
+INFO     2026-07-13 08:20:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-13 08:20:12 [scraper.py:170] 📥 [HN #9] Ask HN: Add flag for AI-generated articles
+INFO     2026-07-13 08:20:12 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=48886741
+INFO     2026-07-13 08:20:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-13 08:20:12 [scraper.py:170] 📥 [HN #10] Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial
+INFO     2026-07-13 08:20:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/
+INFO     2026-07-13 08:20:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-13 08:20:12 [scraper.py:178] 🎉 [HN] All done.
+
