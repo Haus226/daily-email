@@ -34600,3 +34600,36 @@ INFO     2026-07-14 07:12:55 [scraper.py:171] 🔗 [HN #10] URL: https://satelli
 INFO     2026-07-14 07:12:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-14 07:12:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-14 11:25:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-14 11:25:44 [scraper.py:170] 📥 [HN #1] Japan develops a method to recover up to 90% of lithium from used EV batteries
+INFO     2026-07-14 11:25:44 [scraper.py:171] 🔗 [HN #1] URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/
+INFO     2026-07-14 11:25:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-14 11:25:44 [scraper.py:170] 📥 [HN #2] Codex starts encrypting prompts, uses ciphertext for inference instead
+INFO     2026-07-14 11:25:44 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/openai/codex/issues/28058
+INFO     2026-07-14 11:25:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #3] Alternative(s) to run CUDA on non-Nvidia hardware
+INFO     2026-07-14 11:25:45 [scraper.py:171] 🔗 [HN #3] URL: https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/
+INFO     2026-07-14 11:25:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #4] Show HN: Beautiful QR Codes
+INFO     2026-07-14 11:25:45 [scraper.py:171] 🔗 [HN #4] URL: https://scanwayy.com
+INFO     2026-07-14 11:25:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #5] The git history command
+INFO     2026-07-14 11:25:45 [scraper.py:171] 🔗 [HN #5] URL: https://lalitm.com/post/git-history/
+INFO     2026-07-14 11:25:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #6] Australian energy retailers must provide three hours of free daytime electricity
+INFO     2026-07-14 11:25:45 [scraper.py:171] 🔗 [HN #6] URL: https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/
+INFO     2026-07-14 11:25:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #7] Notable Knot Index (2016)
+INFO     2026-07-14 11:25:45 [scraper.py:171] 🔗 [HN #7] URL: https://knots.neocities.org/knotindex
+INFO     2026-07-14 11:25:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-14 11:25:45 [scraper.py:170] 📥 [HN #8] Indian scientists produce most detailed 3D atlas of the human brainstem
+INFO     2026-07-14 11:25:46 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/news/articles/cg53l737v1qo
+INFO     2026-07-14 11:25:46 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-14 11:25:46 [scraper.py:170] 📥 [HN #9] Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps
+INFO     2026-07-14 11:25:46 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/rejourneyco/rejourney
+INFO     2026-07-14 11:25:46 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-14 11:25:46 [scraper.py:170] 📥 [HN #10] The Future Worth Building Is Human – Thinking Machines Lab
+INFO     2026-07-14 11:25:46 [scraper.py:171] 🔗 [HN #10] URL: https://thinkingmachines.ai/blog/the-future-worth-building-is-human/
+INFO     2026-07-14 11:25:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-14 11:25:46 [scraper.py:178] 🎉 [HN] All done.
+
