@@ -34633,3 +34633,36 @@ INFO     2026-07-14 11:25:46 [scraper.py:171] 🔗 [HN #10] URL: https://thinkin
 INFO     2026-07-14 11:25:46 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-14 11:25:46 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-15 03:16:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-15 03:16:49 [scraper.py:170] 📥 [HN #1] Vancouver PD website features Quick Escape button that wipes itself from history
+INFO     2026-07-15 03:16:49 [scraper.py:171] 🔗 [HN #1] URL: https://vpd.ca/
+INFO     2026-07-15 03:16:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-15 03:16:49 [scraper.py:170] 📥 [HN #2] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
+INFO     2026-07-15 03:16:49 [scraper.py:171] 🔗 [HN #2] URL: https://tailscale.com/security-bulletins
+INFO     2026-07-15 03:16:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-15 03:16:49 [scraper.py:170] 📥 [HN #3] Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning
+INFO     2026-07-15 03:16:49 [scraper.py:171] 🔗 [HN #3] URL: https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/
+INFO     2026-07-15 03:16:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #4] Bonsai 27B: A 27B-Class model that runs on a phone
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #4] URL: https://prismml.com/news/bonsai-27b
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #5] Dependabot version updates introduce default package cooldown
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #5] URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #6] Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #6] URL: https://www.starfleetmath.com/
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #7] The Tower Keeps Rising
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #7] URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #8] Financing the AI boom: from cash flows to debt [pdf]
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #8] URL: https://www.bis.org/publ/bisbull120.pdf
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-15 03:16:50 [scraper.py:170] 📥 [HN #9] Cursor 0day: When Full Disclosure Becomes the Only Protection Left
+INFO     2026-07-15 03:16:50 [scraper.py:171] 🔗 [HN #9] URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+INFO     2026-07-15 03:16:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-15 03:16:51 [scraper.py:170] 📥 [HN #10] Your 'app' could have been a webpage (so I fixed it for you)
+INFO     2026-07-15 03:16:51 [scraper.py:171] 🔗 [HN #10] URL: https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/
+INFO     2026-07-15 03:16:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-15 03:16:51 [scraper.py:178] 🎉 [HN] All done.
+
