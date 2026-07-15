@@ -15962,3 +15962,24 @@ INFO     2026-07-15 07:18:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-15 07:18:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-15 11:36:04 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-15 11:36:05 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-15 11:36:05 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-15 11:36:05 [scraper.py:133] 📥 [EO] Title: Heat Dome Broils the Western U.S.
+INFO     2026-07-15 11:36:05 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-15 11:36:05 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-15 11:36:05 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-15 11:36:05 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-15 11:36:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-15 11:36:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-15 11:36:06 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-15 11:36:06 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-15 11:36:06 [scraper.py:133] 📥 [EO] Title: Heat Dome Broils the Western U.S.
+INFO     2026-07-15 11:36:06 [scraper.py:133] 📥 [EO] Title: Heat Dome Broils the Western U.S.
+INFO     2026-07-15 11:36:06 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-15 11:36:06 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-15 11:36:06 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-15 11:36:06 [scraper.py:154] ✅ [EO] Successfully fetched.
+

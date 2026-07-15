@@ -34699,3 +34699,36 @@ INFO     2026-07-15 07:18:51 [scraper.py:171] 🔗 [HN #10] URL: https://mindgar
 INFO     2026-07-15 07:18:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-15 07:18:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-15 11:36:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-15 11:36:05 [scraper.py:170] 📥 [HN #1] Jurassic Park computers in excruciating detail
+INFO     2026-07-15 11:36:05 [scraper.py:171] 🔗 [HN #1] URL: https://fabiensanglard.net/jurrasic_park_computers/index.html
+INFO     2026-07-15 11:36:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-15 11:36:06 [scraper.py:170] 📥 [HN #2] Vancouver PD website features Quick Escape button that wipes itself from history
+INFO     2026-07-15 11:36:06 [scraper.py:171] 🔗 [HN #2] URL: https://vpd.ca/
+INFO     2026-07-15 11:36:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-15 11:36:06 [scraper.py:170] 📥 [HN #3] Bonsai 27B: A 27B-Class model that runs on a phone
+INFO     2026-07-15 11:36:06 [scraper.py:171] 🔗 [HN #3] URL: https://prismml.com/news/bonsai-27b
+INFO     2026-07-15 11:36:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-15 11:36:06 [scraper.py:170] 📥 [HN #4] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
+INFO     2026-07-15 11:36:06 [scraper.py:171] 🔗 [HN #4] URL: https://tailscale.com/security-bulletins
+INFO     2026-07-15 11:36:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-15 11:36:07 [scraper.py:170] 📥 [HN #5] Who's running all those tiny RPKI servers?
+INFO     2026-07-15 11:36:07 [scraper.py:171] 🔗 [HN #5] URL: https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/
+INFO     2026-07-15 11:36:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-15 11:36:07 [scraper.py:170] 📥 [HN #6] Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor
+INFO     2026-07-15 11:36:07 [scraper.py:171] 🔗 [HN #6] URL: https://dl.acm.org/doi/10.1145/3800645.3813051
+INFO     2026-07-15 11:36:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-15 11:36:07 [scraper.py:170] 📥 [HN #7] The Tower Keeps Rising
+INFO     2026-07-15 11:36:07 [scraper.py:171] 🔗 [HN #7] URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+INFO     2026-07-15 11:36:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-15 11:36:07 [scraper.py:170] 📥 [HN #8] I tricked Claude into leaking your deepest, darkest secrets
+INFO     2026-07-15 11:36:07 [scraper.py:171] 🔗 [HN #8] URL: https://www.ayush.digital/blog/the-memory-heist
+INFO     2026-07-15 11:36:07 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-15 11:36:07 [scraper.py:170] 📥 [HN #9] RISC-V Is Inevitable: State of the Union Keynote Argues
+INFO     2026-07-15 11:36:07 [scraper.py:171] 🔗 [HN #9] URL: https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/
+INFO     2026-07-15 11:36:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-15 11:36:08 [scraper.py:170] 📥 [HN #10] Cursor 0day: When Full Disclosure Becomes the Only Protection Left
+INFO     2026-07-15 11:36:08 [scraper.py:171] 🔗 [HN #10] URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+INFO     2026-07-15 11:36:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-15 11:36:08 [scraper.py:178] 🎉 [HN] All done.
+
