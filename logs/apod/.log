@@ -5168,3 +5168,8 @@ INFO     2026-07-16 07:26:10 [scraper.py:47] 📥 [APOD] Title: NGC 300: A Cosmi
 INFO     2026-07-16 07:26:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg
 INFO     2026-07-16 07:26:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-16 11:39:49 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-16 11:39:50 [scraper.py:47] 📥 [APOD] Title: NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
+INFO     2026-07-16 11:39:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg
+INFO     2026-07-16 11:39:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
