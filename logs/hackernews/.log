@@ -34732,3 +34732,36 @@ INFO     2026-07-15 11:36:08 [scraper.py:171] 🔗 [HN #10] URL: https://mindgar
 INFO     2026-07-15 11:36:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-15 11:36:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-16 03:23:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-16 03:23:51 [scraper.py:170] 📥 [HN #1] Inkling: Our Open-Weights Model
+INFO     2026-07-16 03:23:51 [scraper.py:171] 🔗 [HN #1] URL: https://thinkingmachines.ai/news/introducing-inkling/
+INFO     2026-07-16 03:23:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-16 03:23:51 [scraper.py:170] 📥 [HN #2] SQLite should have (Rust-style) editions
+INFO     2026-07-16 03:23:51 [scraper.py:171] 🔗 [HN #2] URL: https://mort.coffee/home/sqlite-editions/
+INFO     2026-07-16 03:23:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-16 03:23:51 [scraper.py:170] 📥 [HN #3] G# – A modern .NET language with Go, Kotlin, and Swift ergonomics
+INFO     2026-07-16 03:23:51 [scraper.py:171] 🔗 [HN #3] URL: https://davidobando.github.io/gsharp/
+INFO     2026-07-16 03:23:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-16 03:23:52 [scraper.py:170] 📥 [HN #4] Grok Build is open source
+INFO     2026-07-16 03:23:52 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/xai-org/grok-build
+INFO     2026-07-16 03:23:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-16 03:23:52 [scraper.py:170] 📥 [HN #5] Governments, companies, nonprofits should invest in free, open source AI [pdf]
+INFO     2026-07-16 03:23:52 [scraper.py:171] 🔗 [HN #5] URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf
+INFO     2026-07-16 03:23:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-16 03:23:52 [scraper.py:170] 📥 [HN #6] Stripe and Advent have made a joint offer to acquire PayPal – sources
+INFO     2026-07-16 03:23:52 [scraper.py:171] 🔗 [HN #6] URL: https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
+INFO     2026-07-16 03:23:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-16 03:23:53 [scraper.py:170] 📥 [HN #7] Bluesky Trademarks ATProto
+INFO     2026-07-16 03:23:53 [scraper.py:171] 🔗 [HN #7] URL: https://atproto.com/blog/at-protocol-trademark
+INFO     2026-07-16 03:23:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-16 03:23:53 [scraper.py:170] 📥 [HN #8] LLM Networking with MikroTik
+INFO     2026-07-16 03:23:53 [scraper.py:171] 🔗 [HN #8] URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html
+INFO     2026-07-16 03:23:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-16 03:23:53 [scraper.py:170] 📥 [HN #9] Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)
+INFO     2026-07-16 03:23:53 [scraper.py:171] 🔗 [HN #9] URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials
+INFO     2026-07-16 03:23:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-16 03:23:53 [scraper.py:170] 📥 [HN #10] CatchCat – Pokémon Go for Cats, IRL
+INFO     2026-07-16 03:23:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.catchcat.lol/
+INFO     2026-07-16 03:23:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-16 03:23:53 [scraper.py:178] 🎉 [HN] All done.
+
