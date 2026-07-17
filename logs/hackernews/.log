@@ -34831,3 +34831,36 @@ INFO     2026-07-16 11:39:52 [scraper.py:171] 🔗 [HN #10] URL: https://mort.co
 INFO     2026-07-16 11:39:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-16 11:39:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-17 03:26:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-17 03:26:33 [scraper.py:170] 📥 [HN #1] Kimi K3: Open Frontier Intelligence
+INFO     2026-07-17 03:26:33 [scraper.py:171] 🔗 [HN #1] URL: https://www.kimi.com/blog/kimi-k3
+INFO     2026-07-17 03:26:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-17 03:26:34 [scraper.py:170] 📥 [HN #2] Microsoft Comic Chat is now open source
+INFO     2026-07-17 03:26:34 [scraper.py:171] 🔗 [HN #2] URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
+INFO     2026-07-17 03:26:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-17 03:26:34 [scraper.py:170] 📥 [HN #3] LM Studio Bionic: the AI agent for open models
+INFO     2026-07-17 03:26:34 [scraper.py:171] 🔗 [HN #3] URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
+INFO     2026-07-17 03:26:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-17 03:26:34 [scraper.py:170] 📥 [HN #4] Decoy Font
+INFO     2026-07-17 03:26:34 [scraper.py:171] 🔗 [HN #4] URL: https://www.mixfont.com/experiments/decoy-font
+INFO     2026-07-17 03:26:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-17 03:26:34 [scraper.py:170] 📥 [HN #5] M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida
+INFO     2026-07-17 03:26:34 [scraper.py:171] 🔗 [HN #5] URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive
+INFO     2026-07-17 03:26:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:170] 📥 [HN #6] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol
+INFO     2026-07-17 03:26:35 [scraper.py:171] 🔗 [HN #6] URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
+INFO     2026-07-17 03:26:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:170] 📥 [HN #7] NotebookLM is now Gemini Notebook
+INFO     2026-07-17 03:26:35 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
+INFO     2026-07-17 03:26:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:170] 📥 [HN #8] The Little Book of Reinforcement Learning
+INFO     2026-07-17 03:26:35 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/alxndrTL/little-book-rl/
+INFO     2026-07-17 03:26:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:170] 📥 [HN #9] Simulating everything, sort of: The promise and limits of world models
+INFO     2026-07-17 03:26:35 [scraper.py:171] 🔗 [HN #9] URL: https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/
+INFO     2026-07-17 03:26:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:170] 📥 [HN #10] Solod: Go can be a better C
+INFO     2026-07-17 03:26:35 [scraper.py:171] 🔗 [HN #10] URL: https://solod.dev
+INFO     2026-07-17 03:26:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-17 03:26:35 [scraper.py:178] 🎉 [HN] All done.
+
