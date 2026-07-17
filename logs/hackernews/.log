@@ -34897,3 +34897,36 @@ INFO     2026-07-17 07:21:22 [scraper.py:171] 🔗 [HN #10] URL: https://lmstudi
 INFO     2026-07-17 07:21:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-17 07:21:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-17 11:21:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-17 11:22:00 [scraper.py:170] 📥 [HN #1] EEG shows brain can simultaneous encode two speech streams
+INFO     2026-07-17 11:22:00 [scraper.py:171] 🔗 [HN #1] URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876
+INFO     2026-07-17 11:22:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-17 11:22:00 [scraper.py:170] 📥 [HN #2] Kimi K3: Open Frontier Intelligence
+INFO     2026-07-17 11:22:00 [scraper.py:171] 🔗 [HN #2] URL: https://www.kimi.com/blog/kimi-k3
+INFO     2026-07-17 11:22:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-17 11:22:00 [scraper.py:170] 📥 [HN #3] Pebble Mega Update – July 2026
+INFO     2026-07-17 11:22:00 [scraper.py:171] 🔗 [HN #3] URL: https://repebble.com/blog/pebble-mega-update-july-2026
+INFO     2026-07-17 11:22:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-17 11:22:00 [scraper.py:170] 📥 [HN #4] SQLite Is All You Need
+INFO     2026-07-17 11:22:00 [scraper.py:171] 🔗 [HN #4] URL: https://www.dbpro.app/blog/sqlite-is-all-you-need
+INFO     2026-07-17 11:22:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-17 11:22:01 [scraper.py:170] 📥 [HN #5] How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues
+INFO     2026-07-17 11:22:01 [scraper.py:171] 🔗 [HN #5] URL: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/
+INFO     2026-07-17 11:22:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-17 11:22:01 [scraper.py:170] 📥 [HN #6] Microsoft Comic Chat is now open source
+INFO     2026-07-17 11:22:01 [scraper.py:171] 🔗 [HN #6] URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/
+INFO     2026-07-17 11:22:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-17 11:22:01 [scraper.py:170] 📥 [HN #7] Decoy Font
+INFO     2026-07-17 11:22:01 [scraper.py:171] 🔗 [HN #7] URL: https://www.mixfont.com/experiments/decoy-font
+INFO     2026-07-17 11:22:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-17 11:22:01 [scraper.py:170] 📥 [HN #8] An Engineer's Guide to USB Typе-С (2024)
+INFO     2026-07-17 11:22:01 [scraper.py:171] 🔗 [HN #8] URL: https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029
+INFO     2026-07-17 11:22:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-17 11:22:01 [scraper.py:170] 📥 [HN #9] LM Studio Bionic: the AI agent for open models
+INFO     2026-07-17 11:22:01 [scraper.py:171] 🔗 [HN #9] URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic
+INFO     2026-07-17 11:22:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-17 11:22:02 [scraper.py:170] 📥 [HN #10] Solod: Go can be a better C
+INFO     2026-07-17 11:22:02 [scraper.py:171] 🔗 [HN #10] URL: https://solod.dev
+INFO     2026-07-17 11:22:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-17 11:22:02 [scraper.py:178] 🎉 [HN] All done.
+

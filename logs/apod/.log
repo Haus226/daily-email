@@ -5183,3 +5183,8 @@ INFO     2026-07-17 07:21:20 [scraper.py:47] 📥 [APOD] Title: The Dust Trail o
 INFO     2026-07-17 07:21:20 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg
 INFO     2026-07-17 07:21:20 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-17 11:21:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-17 11:22:00 [scraper.py:47] 📥 [APOD] Title: The Dust Trail of Comet Tempel 2
+INFO     2026-07-17 11:22:00 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg
+INFO     2026-07-17 11:22:00 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
