@@ -34930,3 +34930,36 @@ INFO     2026-07-17 11:22:02 [scraper.py:171] 🔗 [HN #10] URL: https://solod.d
 INFO     2026-07-17 11:22:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-17 11:22:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-18 03:16:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-18 03:16:02 [scraper.py:170] 📥 [HN #1] Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
+INFO     2026-07-18 03:16:02 [scraper.py:171] 🔗 [HN #1] URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+INFO     2026-07-18 03:16:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-18 03:16:02 [scraper.py:170] 📥 [HN #2] AWS: Inaccurate Estimated Billing Data – $1.7 billion
+INFO     2026-07-18 03:16:02 [scraper.py:171] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=48945241
+INFO     2026-07-18 03:16:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-18 03:16:02 [scraper.py:170] 📥 [HN #3] Thanks HN for 15 years of support and helping me find my life's work
+INFO     2026-07-18 03:16:02 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=48949551
+INFO     2026-07-18 03:16:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-18 03:16:03 [scraper.py:170] 📥 [HN #4] The Zilog Z80 has turned 50
+INFO     2026-07-18 03:16:03 [scraper.py:171] 🔗 [HN #4] URL: https://goliath32.com/blog/z80.html
+INFO     2026-07-18 03:16:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-18 03:16:03 [scraper.py:170] 📥 [HN #5] The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold
+INFO     2026-07-18 03:16:03 [scraper.py:171] 🔗 [HN #5] URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier
+INFO     2026-07-18 03:16:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-18 03:16:03 [scraper.py:170] 📥 [HN #6] First atmosphere found on Earth-like planet in habitable zone of distant star
+INFO     2026-07-18 03:16:03 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cy4kdd1e0ejo
+INFO     2026-07-18 03:16:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-18 03:16:03 [scraper.py:170] 📥 [HN #7] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig
+INFO     2026-07-18 03:16:03 [scraper.py:171] 🔗 [HN #7] URL: https://moonstone.sh/
+INFO     2026-07-18 03:16:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-18 03:16:04 [scraper.py:170] 📥 [HN #8] Vāgdhenu: A Sanskrit Chanting TTS System
+INFO     2026-07-18 03:16:04 [scraper.py:171] 🔗 [HN #8] URL: https://prathosh.in/vagdhenu/
+INFO     2026-07-18 03:16:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-18 03:16:04 [scraper.py:170] 📥 [HN #9] Learning a few things about running SQLite
+INFO     2026-07-18 03:16:04 [scraper.py:171] 🔗 [HN #9] URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
+INFO     2026-07-18 03:16:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-18 03:16:04 [scraper.py:170] 📥 [HN #10] DrDroid (YC W23) Is Hiring
+INFO     2026-07-18 03:16:04 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
+INFO     2026-07-18 03:16:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-18 03:16:04 [scraper.py:178] 🎉 [HN] All done.
+
