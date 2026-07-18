@@ -5193,3 +5193,8 @@ INFO     2026-07-18 03:16:02 [scraper.py:47] 📥 [APOD] Title: The Dust Trail o
 INFO     2026-07-18 03:16:02 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg
 INFO     2026-07-18 03:16:02 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-18 07:01:48 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-18 07:01:49 [scraper.py:47] 📥 [APOD] Title: Shadow and Rainbow
+INFO     2026-07-18 07:01:49 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg
+INFO     2026-07-18 07:01:49 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

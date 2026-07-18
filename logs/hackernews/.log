@@ -34963,3 +34963,36 @@ INFO     2026-07-18 03:16:04 [scraper.py:171] 🔗 [HN #10] URL: https://www.yco
 INFO     2026-07-18 03:16:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-18 03:16:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-18 07:01:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-18 07:01:49 [scraper.py:170] 📥 [HN #1] Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
+INFO     2026-07-18 07:01:49 [scraper.py:171] 🔗 [HN #1] URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+INFO     2026-07-18 07:01:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-18 07:01:49 [scraper.py:170] 📥 [HN #2] Regressive JPEGs
+INFO     2026-07-18 07:01:49 [scraper.py:171] 🔗 [HN #2] URL: https://maurycyz.com/projects/bad_jpeg/
+INFO     2026-07-18 07:01:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-18 07:01:49 [scraper.py:170] 📥 [HN #3] Reviving a 15-year-old netbook with Arch Linux
+INFO     2026-07-18 07:01:49 [scraper.py:171] 🔗 [HN #3] URL: https://parksb.github.io/en/article/41.html
+INFO     2026-07-18 07:01:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-18 07:01:50 [scraper.py:170] 📥 [HN #4] AWS: Inaccurate Estimated Billing Data – $1.7 billion
+INFO     2026-07-18 07:01:50 [scraper.py:171] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=48945241
+INFO     2026-07-18 07:01:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-18 07:01:50 [scraper.py:170] 📥 [HN #5] Thanks HN for 15 years of support and helping me find my life's work
+INFO     2026-07-18 07:01:50 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=48949551
+INFO     2026-07-18 07:01:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-18 07:01:50 [scraper.py:170] 📥 [HN #6] First atmosphere found on Earth-like planet in habitable zone of distant star
+INFO     2026-07-18 07:01:50 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cy4kdd1e0ejo
+INFO     2026-07-18 07:01:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-18 07:01:50 [scraper.py:170] 📥 [HN #7] The Zilog Z80 has turned 50
+INFO     2026-07-18 07:01:50 [scraper.py:171] 🔗 [HN #7] URL: https://goliath32.com/blog/z80.html
+INFO     2026-07-18 07:01:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-18 07:01:51 [scraper.py:170] 📥 [HN #8] Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig
+INFO     2026-07-18 07:01:51 [scraper.py:171] 🔗 [HN #8] URL: https://moonstone.sh/
+INFO     2026-07-18 07:01:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-18 07:01:51 [scraper.py:170] 📥 [HN #9] TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years
+INFO     2026-07-18 07:01:51 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
+INFO     2026-07-18 07:01:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-18 07:01:51 [scraper.py:170] 📥 [HN #10] I Started a "Dirt Notebook"
+INFO     2026-07-18 07:01:51 [scraper.py:171] 🔗 [HN #10] URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
+INFO     2026-07-18 07:01:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-18 07:01:51 [scraper.py:178] 🎉 [HN] All done.
+
