@@ -34996,3 +34996,36 @@ INFO     2026-07-18 07:01:51 [scraper.py:171] 🔗 [HN #10] URL: https://pinewin
 INFO     2026-07-18 07:01:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-18 07:01:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-18 11:04:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-18 11:04:27 [scraper.py:170] 📥 [HN #1] Regressive JPEGs
+INFO     2026-07-18 11:04:27 [scraper.py:171] 🔗 [HN #1] URL: https://maurycyz.com/projects/bad_jpeg/
+INFO     2026-07-18 11:04:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-18 11:04:27 [scraper.py:170] 📥 [HN #2] Funny item co-occurrences in 3.2M Instacart orders
+INFO     2026-07-18 11:04:27 [scraper.py:171] 🔗 [HN #2] URL: https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/
+INFO     2026-07-18 11:04:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-18 11:04:27 [scraper.py:170] 📥 [HN #3] AWS: Inaccurate Estimated Billing Data – $1.7 billion
+INFO     2026-07-18 11:04:27 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=48945241
+INFO     2026-07-18 11:04:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-18 11:04:28 [scraper.py:170] 📥 [HN #4] LG monitors silently install software through Windows Update without consent
+INFO     2026-07-18 11:04:28 [scraper.py:171] 🔗 [HN #4] URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
+INFO     2026-07-18 11:04:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-18 11:04:28 [scraper.py:170] 📥 [HN #5] Thanks HN for 15 years of support and helping me find my life's work
+INFO     2026-07-18 11:04:28 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=48949551
+INFO     2026-07-18 11:04:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-18 11:04:28 [scraper.py:170] 📥 [HN #6] Qubes OS Security in the Public Record
+INFO     2026-07-18 11:04:28 [scraper.py:171] 🔗 [HN #6] URL: https://arxiv.org/abs/2607.14587
+INFO     2026-07-18 11:04:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-18 11:04:28 [scraper.py:170] 📥 [HN #7] Porting nanochat to a TPU: what carries over from PyTorch, and what breaks
+INFO     2026-07-18 11:04:28 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/tucan9389/nanochat-jax/discussions/1
+INFO     2026-07-18 11:04:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-18 11:04:29 [scraper.py:170] 📥 [HN #8] Reviving a 15-year-old netbook with Arch Linux
+INFO     2026-07-18 11:04:29 [scraper.py:171] 🔗 [HN #8] URL: https://parksb.github.io/en/article/41.html
+INFO     2026-07-18 11:04:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-18 11:04:29 [scraper.py:170] 📥 [HN #9] First atmosphere found on Earth-like planet in habitable zone of distant star
+INFO     2026-07-18 11:04:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/cy4kdd1e0ejo
+INFO     2026-07-18 11:04:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-18 11:04:29 [scraper.py:170] 📥 [HN #10] Waldi: A quiet place to write, and to be read
+INFO     2026-07-18 11:04:29 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/waaldev/waldi
+INFO     2026-07-18 11:04:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-18 11:04:29 [scraper.py:178] 🎉 [HN] All done.
+
