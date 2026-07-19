@@ -5203,3 +5203,8 @@ INFO     2026-07-18 11:04:27 [scraper.py:47] 📥 [APOD] Title: Shadow and Rainb
 INFO     2026-07-18 11:04:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg
 INFO     2026-07-18 11:04:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-19 03:36:28 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-19 03:36:29 [scraper.py:47] 📥 [APOD] Title: Shadow and Rainbow
+INFO     2026-07-19 03:36:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg
+INFO     2026-07-19 03:36:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
