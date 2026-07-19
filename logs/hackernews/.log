@@ -35095,3 +35095,36 @@ INFO     2026-07-19 07:30:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.mak
 INFO     2026-07-19 07:30:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-19 07:30:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-19 11:08:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-19 11:08:51 [scraper.py:170] 📥 [HN #1] Claude Code uses Bun written in Rust now
+INFO     2026-07-19 11:08:51 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+INFO     2026-07-19 11:08:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-19 11:08:51 [scraper.py:170] 📥 [HN #2] Qwen 3.8 Max Preview
+INFO     2026-07-19 11:08:51 [scraper.py:171] 🔗 [HN #2] URL: https://www.qwencloud.com/pricing/token-plan
+INFO     2026-07-19 11:08:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-19 11:08:52 [scraper.py:170] 📥 [HN #3] Qwen3.8 is launching and going open-weight soon
+INFO     2026-07-19 11:08:52 [scraper.py:171] 🔗 [HN #3] URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+INFO     2026-07-19 11:08:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-19 11:08:52 [scraper.py:170] 📥 [HN #4] Transcribe.cpp
+INFO     2026-07-19 11:08:52 [scraper.py:171] 🔗 [HN #4] URL: https://workshop.cjpais.com/projects/transcribe-cpp
+INFO     2026-07-19 11:08:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-19 11:08:52 [scraper.py:170] 📥 [HN #5] Blender 5.2 LTS
+INFO     2026-07-19 11:08:52 [scraper.py:171] 🔗 [HN #5] URL: https://www.blender.org/download/releases/5-2-lts/
+INFO     2026-07-19 11:08:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-19 11:08:52 [scraper.py:170] 📥 [HN #6] OpenAI reduces Codex Model Context Size from 372k to 272k
+INFO     2026-07-19 11:08:52 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/openai/codex/pull/33972/files
+INFO     2026-07-19 11:08:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-19 11:08:53 [scraper.py:170] 📥 [HN #7] Half a Second – a book about the XZ backdoor
+INFO     2026-07-19 11:08:53 [scraper.py:171] 🔗 [HN #7] URL: https://www.half-second.com/
+INFO     2026-07-19 11:08:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-19 11:08:53 [scraper.py:170] 📥 [HN #8] Speech Recognition and TTS in less than 500kb
+INFO     2026-07-19 11:08:53 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/moonshine-ai/moonshine/tree/main/micro
+INFO     2026-07-19 11:08:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-19 11:08:53 [scraper.py:170] 📥 [HN #9] Better and Cheaper Than IPTV
+INFO     2026-07-19 11:08:53 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/stupside/castor
+INFO     2026-07-19 11:08:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-19 11:08:53 [scraper.py:170] 📥 [HN #10] Codex Resets
+INFO     2026-07-19 11:08:53 [scraper.py:171] 🔗 [HN #10] URL: https://codex-resets.com/
+INFO     2026-07-19 11:08:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-19 11:08:53 [scraper.py:178] 🎉 [HN] All done.
+
