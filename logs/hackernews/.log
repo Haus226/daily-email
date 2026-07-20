@@ -35128,3 +35128,36 @@ INFO     2026-07-19 11:08:53 [scraper.py:171] 🔗 [HN #10] URL: https://codex-r
 INFO     2026-07-19 11:08:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-19 11:08:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-20 03:50:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-20 03:50:34 [scraper.py:170] 📥 [HN #1] Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+INFO     2026-07-20 03:50:34 [scraper.py:171] 🔗 [HN #1] URL: https://news.ycombinator.com/item?id=48968606
+INFO     2026-07-20 03:50:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-20 03:50:34 [scraper.py:170] 📥 [HN #2] Claude Code uses Bun written in Rust now
+INFO     2026-07-20 03:50:34 [scraper.py:171] 🔗 [HN #2] URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+INFO     2026-07-20 03:50:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-20 03:50:35 [scraper.py:170] 📥 [HN #3] The Zen of Parallel Programming
+INFO     2026-07-20 03:50:35 [scraper.py:171] 🔗 [HN #3] URL: https://smolnero.com/posts/the-zen-of-parallel-programming
+INFO     2026-07-20 03:50:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-20 03:50:35 [scraper.py:170] 📥 [HN #4] What I learned selling 2,500 MIDI recorders: Hardware is not so hard
+INFO     2026-07-20 03:50:35 [scraper.py:171] 🔗 [HN #4] URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+INFO     2026-07-20 03:50:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-20 03:50:35 [scraper.py:170] 📥 [HN #5] Minecraft: Java Edition now uses SDL3
+INFO     2026-07-20 03:50:35 [scraper.py:171] 🔗 [HN #5] URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4
+INFO     2026-07-20 03:50:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-20 03:50:35 [scraper.py:170] 📥 [HN #6] A new Intel Itanium (IA-64) emulator that boots Windows
+INFO     2026-07-20 03:50:35 [scraper.py:171] 🔗 [HN #6] URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html
+INFO     2026-07-20 03:50:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-20 03:50:35 [scraper.py:170] 📥 [HN #7] Biggest Probabilistic Computer Turns Noise into Answers
+INFO     2026-07-20 03:50:35 [scraper.py:171] 🔗 [HN #7] URL: https://spectrum.ieee.org/biggest-probabilistic-computer
+INFO     2026-07-20 03:50:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-20 03:50:36 [scraper.py:170] 📥 [HN #8] Orion Browser by Kagi
+INFO     2026-07-20 03:50:36 [scraper.py:171] 🔗 [HN #8] URL: https://orionbrowser.com/
+INFO     2026-07-20 03:50:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-20 03:50:36 [scraper.py:170] 📥 [HN #9] Moonshine: Lets you stream games from your PC to any device running Moonlight
+INFO     2026-07-20 03:50:36 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/hgaiser/moonshine
+INFO     2026-07-20 03:50:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-20 03:50:36 [scraper.py:170] 📥 [HN #10] Who Is America's Homer?
+INFO     2026-07-20 03:50:36 [scraper.py:171] 🔗 [HN #10] URL: https://www.plough.com/articles/who-is-americas-homer
+INFO     2026-07-20 03:50:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-20 03:50:36 [scraper.py:178] 🎉 [HN] All done.
+
