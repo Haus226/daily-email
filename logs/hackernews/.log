@@ -35194,3 +35194,36 @@ INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.lab
 INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-20 08:10:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-20 12:16:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-20 12:16:57 [scraper.py:170] 📥 [HN #1] Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25
+INFO     2026-07-20 12:16:57 [scraper.py:171] 🔗 [HN #1] URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
+INFO     2026-07-20 12:16:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-20 12:16:57 [scraper.py:170] 📥 [HN #2] Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+INFO     2026-07-20 12:16:57 [scraper.py:171] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=48968606
+INFO     2026-07-20 12:16:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-20 12:16:57 [scraper.py:170] 📥 [HN #3] Moonshine: Lets you stream games from your PC to any device running Moonlight
+INFO     2026-07-20 12:16:57 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/hgaiser/moonshine
+INFO     2026-07-20 12:16:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-20 12:16:58 [scraper.py:170] 📥 [HN #4] Airbus Takes Flight from AWS
+INFO     2026-07-20 12:16:58 [scraper.py:171] 🔗 [HN #4] URL: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109
+INFO     2026-07-20 12:16:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-20 12:16:58 [scraper.py:170] 📥 [HN #5] The Trump administration's Threat to Scientific Research
+INFO     2026-07-20 12:16:58 [scraper.py:171] 🔗 [HN #5] URL: https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html
+INFO     2026-07-20 12:16:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-20 12:16:58 [scraper.py:170] 📥 [HN #6] LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
+INFO     2026-07-20 12:16:58 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/Saivineeth147/lora-speedrun
+INFO     2026-07-20 12:16:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-20 12:16:58 [scraper.py:170] 📥 [HN #7] Claude Code uses Bun written in Rust now
+INFO     2026-07-20 12:16:58 [scraper.py:171] 🔗 [HN #7] URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+INFO     2026-07-20 12:16:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-20 12:16:58 [scraper.py:170] 📥 [HN #8] Eliminating Go bounds checks with unsafe
+INFO     2026-07-20 12:16:58 [scraper.py:171] 🔗 [HN #8] URL: https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe
+INFO     2026-07-20 12:16:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-20 12:16:59 [scraper.py:170] 📥 [HN #9] What does the Riemann zeta function have to do with the distribution of primes?
+INFO     2026-07-20 12:16:59 [scraper.py:171] 🔗 [HN #9] URL: https://hidden-phenomena.com/articles/rh
+INFO     2026-07-20 12:16:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-20 12:16:59 [scraper.py:170] 📥 [HN #10] Orion Browser by Kagi
+INFO     2026-07-20 12:16:59 [scraper.py:171] 🔗 [HN #10] URL: https://orionbrowser.com/
+INFO     2026-07-20 12:16:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-20 12:16:59 [scraper.py:178] 🎉 [HN] All done.
+
