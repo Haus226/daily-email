@@ -35161,3 +35161,36 @@ INFO     2026-07-20 03:50:36 [scraper.py:171] 🔗 [HN #10] URL: https://www.plo
 INFO     2026-07-20 03:50:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-20 03:50:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-20 08:10:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-20 08:10:19 [scraper.py:170] 📥 [HN #1] Xiaomi-Robotics-1
+INFO     2026-07-20 08:10:19 [scraper.py:171] 🔗 [HN #1] URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html
+INFO     2026-07-20 08:10:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-20 08:10:19 [scraper.py:170] 📥 [HN #2] LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques
+INFO     2026-07-20 08:10:19 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/Saivineeth147/lora-speedrun
+INFO     2026-07-20 08:10:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-20 08:10:19 [scraper.py:170] 📥 [HN #3] I'm Done with Mullvad
+INFO     2026-07-20 08:10:19 [scraper.py:171] 🔗 [HN #3] URL: https://moonwriting.blog/i-m-done-with-mullvad
+INFO     2026-07-20 08:10:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-20 08:10:19 [scraper.py:170] 📥 [HN #4] Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+INFO     2026-07-20 08:10:19 [scraper.py:171] 🔗 [HN #4] URL: https://news.ycombinator.com/item?id=48968606
+INFO     2026-07-20 08:10:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-20 08:10:19 [scraper.py:170] 📥 [HN #5] Moonshine: Lets you stream games from your PC to any device running Moonlight
+INFO     2026-07-20 08:10:19 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/hgaiser/moonshine
+INFO     2026-07-20 08:10:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:170] 📥 [HN #6] Self-Powered Trailers Promise Leaner Freight Runs
+INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #6] URL: https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization
+INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:170] 📥 [HN #7] 1-Bit LLM in the Browser
+INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #7] URL: https://huggingface.co/spaces/webml-community/bonsai-webgpu
+INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:170] 📥 [HN #8] Claude Code uses Bun written in Rust now
+INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #8] URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:170] 📥 [HN #9] Orion Browser by Kagi
+INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #9] URL: https://orionbrowser.com/
+INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:170] 📥 [HN #10] Sealed tomb filled with paintings and inscriptions discovered in Egypt
+INFO     2026-07-20 08:10:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/
+INFO     2026-07-20 08:10:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-20 08:10:20 [scraper.py:178] 🎉 [HN] All done.
+
