@@ -35227,3 +35227,36 @@ INFO     2026-07-20 12:16:59 [scraper.py:171] 🔗 [HN #10] URL: https://orionbr
 INFO     2026-07-20 12:16:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-20 12:16:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-21 03:30:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-21 03:30:15 [scraper.py:170] 📥 [HN #1] Who's afraid of Chinese models?
+INFO     2026-07-21 03:30:15 [scraper.py:171] 🔗 [HN #1] URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+INFO     2026-07-21 03:30:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-21 03:30:16 [scraper.py:170] 📥 [HN #2] Jellyfin founder Andrew leaves team
+INFO     2026-07-21 03:30:16 [scraper.py:171] 🔗 [HN #2] URL: https://forum.jellyfin.org/t-project-leadership-changes
+INFO     2026-07-21 03:30:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-21 03:30:16 [scraper.py:170] 📥 [HN #3] Kimi Work
+INFO     2026-07-21 03:30:16 [scraper.py:171] 🔗 [HN #3] URL: https://www.kimi.com/products/kimi-work
+INFO     2026-07-21 03:30:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-21 03:30:16 [scraper.py:170] 📥 [HN #4] Jelly UI: Soft-body physics for native HTML form controls
+INFO     2026-07-21 03:30:16 [scraper.py:171] 🔗 [HN #4] URL: https://jelly-ui.com/
+INFO     2026-07-21 03:30:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-21 03:30:17 [scraper.py:170] 📥 [HN #5] Human mathematicians are being outcounterexampled
+INFO     2026-07-21 03:30:17 [scraper.py:171] 🔗 [HN #5] URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+INFO     2026-07-21 03:30:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-21 03:30:17 [scraper.py:170] 📥 [HN #6] Hacker wipes Romania's land registry database
+INFO     2026-07-21 03:30:17 [scraper.py:171] 🔗 [HN #6] URL: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/
+INFO     2026-07-21 03:30:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-21 03:30:17 [scraper.py:170] 📥 [HN #7] Nativ: Run frontier open models locally on your Mac
+INFO     2026-07-21 03:30:17 [scraper.py:171] 🔗 [HN #7] URL: https://blaizzy.github.io/nativ/
+INFO     2026-07-21 03:30:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-21 03:30:18 [scraper.py:170] 📥 [HN #8] Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public
+INFO     2026-07-21 03:30:18 [scraper.py:171] 🔗 [HN #8] URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country
+INFO     2026-07-21 03:30:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-21 03:30:18 [scraper.py:170] 📥 [HN #9] I wrote an bash enumerator because I was sick of xargs
+INFO     2026-07-21 03:30:18 [scraper.py:171] 🔗 [HN #9] URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/
+INFO     2026-07-21 03:30:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-21 03:30:18 [scraper.py:170] 📥 [HN #10] Airport Simulator
+INFO     2026-07-21 03:30:18 [scraper.py:171] 🔗 [HN #10] URL: https://airport.apunen.com/
+INFO     2026-07-21 03:30:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-21 03:30:18 [scraper.py:178] 🎉 [HN] All done.
+
