@@ -5243,3 +5243,8 @@ INFO     2026-07-21 07:35:22 [scraper.py:47] 📥 [APOD] Title: Turtle Rock on M
 INFO     2026-07-21 07:35:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg
 INFO     2026-07-21 07:35:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-21 11:46:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-21 11:46:33 [scraper.py:47] 📥 [APOD] Title: Turtle Rock on Mars
+INFO     2026-07-21 11:46:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg
+INFO     2026-07-21 11:46:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

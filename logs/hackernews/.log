@@ -35293,3 +35293,36 @@ INFO     2026-07-21 07:35:24 [scraper.py:171] 🔗 [HN #10] URL: https://blaizzy
 INFO     2026-07-21 07:35:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-21 07:35:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-21 11:46:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-21 11:46:33 [scraper.py:170] 📥 [HN #1] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge
+INFO     2026-07-21 11:46:33 [scraper.py:171] 🔗 [HN #1] URL: https://qwen.ai/blog?id=qwen-image-3.0
+INFO     2026-07-21 11:46:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-21 11:46:34 [scraper.py:170] 📥 [HN #2] The Growing Compute Shortage
+INFO     2026-07-21 11:46:34 [scraper.py:171] 🔗 [HN #2] URL: https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage
+INFO     2026-07-21 11:46:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-21 11:46:34 [scraper.py:170] 📥 [HN #3] Incremental – A library for incremental computations
+INFO     2026-07-21 11:46:34 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/janestreet/incremental
+INFO     2026-07-21 11:46:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-21 11:46:34 [scraper.py:170] 📥 [HN #4] Who's afraid of Chinese models?
+INFO     2026-07-21 11:46:34 [scraper.py:171] 🔗 [HN #4] URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+INFO     2026-07-21 11:46:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-21 11:46:34 [scraper.py:170] 📥 [HN #5] Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects
+INFO     2026-07-21 11:46:34 [scraper.py:171] 🔗 [HN #5] URL: https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/
+INFO     2026-07-21 11:46:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-21 11:46:34 [scraper.py:170] 📥 [HN #6] Kimi Work
+INFO     2026-07-21 11:46:34 [scraper.py:171] 🔗 [HN #6] URL: https://www.kimi.com/products/kimi-work
+INFO     2026-07-21 11:46:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-21 11:46:35 [scraper.py:170] 📥 [HN #7] Jelly UI: Soft-body physics for native HTML form controls
+INFO     2026-07-21 11:46:35 [scraper.py:171] 🔗 [HN #7] URL: https://jelly-ui.com/
+INFO     2026-07-21 11:46:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-21 11:46:35 [scraper.py:170] 📥 [HN #8] Running Doom on Our Custom CPU and Going Viral
+INFO     2026-07-21 11:46:35 [scraper.py:171] 🔗 [HN #8] URL: https://www.armaangomes.com/blogs/doom/
+INFO     2026-07-21 11:46:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-21 11:46:35 [scraper.py:170] 📥 [HN #9] Human mathematicians are being outcounterexampled
+INFO     2026-07-21 11:46:35 [scraper.py:171] 🔗 [HN #9] URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+INFO     2026-07-21 11:46:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-21 11:46:35 [scraper.py:170] 📥 [HN #10] How to pack ternary numbers in 8-bit bytes
+INFO     2026-07-21 11:46:35 [scraper.py:171] 🔗 [HN #10] URL: https://compilade.net/blog/ternary-packing
+INFO     2026-07-21 11:46:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-21 11:46:35 [scraper.py:178] 🎉 [HN] All done.
+
