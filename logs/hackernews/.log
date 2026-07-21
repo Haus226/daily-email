@@ -35260,3 +35260,36 @@ INFO     2026-07-21 03:30:18 [scraper.py:171] 🔗 [HN #10] URL: https://airport
 INFO     2026-07-21 03:30:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-21 03:30:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-21 07:35:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-21 07:35:22 [scraper.py:170] 📥 [HN #1] Incremental – A library for incremental computations
+INFO     2026-07-21 07:35:22 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/janestreet/incremental
+INFO     2026-07-21 07:35:22 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-21 07:35:22 [scraper.py:170] 📥 [HN #2] Who's afraid of Chinese models?
+INFO     2026-07-21 07:35:22 [scraper.py:171] 🔗 [HN #2] URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+INFO     2026-07-21 07:35:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-21 07:35:23 [scraper.py:170] 📥 [HN #3] Running Doom on Our Custom CPU and Going Viral
+INFO     2026-07-21 07:35:23 [scraper.py:171] 🔗 [HN #3] URL: https://www.armaangomes.com/blogs/doom/
+INFO     2026-07-21 07:35:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-21 07:35:23 [scraper.py:170] 📥 [HN #4] A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste
+INFO     2026-07-21 07:35:23 [scraper.py:171] 🔗 [HN #4] URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/
+INFO     2026-07-21 07:35:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-21 07:35:23 [scraper.py:170] 📥 [HN #5] Kimi Work
+INFO     2026-07-21 07:35:23 [scraper.py:171] 🔗 [HN #5] URL: https://www.kimi.com/products/kimi-work
+INFO     2026-07-21 07:35:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-21 07:35:23 [scraper.py:170] 📥 [HN #6] Five US tech giants' hidden debts soar to $1.65T on opaque AI funding
+INFO     2026-07-21 07:35:23 [scraper.py:171] 🔗 [HN #6] URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding
+INFO     2026-07-21 07:35:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-21 07:35:24 [scraper.py:170] 📥 [HN #7] Jelly UI: Soft-body physics for native HTML form controls
+INFO     2026-07-21 07:35:24 [scraper.py:171] 🔗 [HN #7] URL: https://jelly-ui.com/
+INFO     2026-07-21 07:35:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-21 07:35:24 [scraper.py:170] 📥 [HN #8] Human mathematicians are being outcounterexampled
+INFO     2026-07-21 07:35:24 [scraper.py:171] 🔗 [HN #8] URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+INFO     2026-07-21 07:35:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-21 07:35:24 [scraper.py:170] 📥 [HN #9] Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts
+INFO     2026-07-21 07:35:24 [scraper.py:171] 🔗 [HN #9] URL: https://exsitu.app/map
+INFO     2026-07-21 07:35:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-21 07:35:24 [scraper.py:170] 📥 [HN #10] Nativ: Run frontier open models locally on your Mac
+INFO     2026-07-21 07:35:24 [scraper.py:171] 🔗 [HN #10] URL: https://blaizzy.github.io/nativ/
+INFO     2026-07-21 07:35:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-21 07:35:24 [scraper.py:178] 🎉 [HN] All done.
+
