@@ -35392,3 +35392,36 @@ INFO     2026-07-22 07:37:32 [scraper.py:171] 🔗 [HN #10] URL: https://www.rea
 INFO     2026-07-22 07:37:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-22 07:37:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-22 11:47:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-22 11:47:33 [scraper.py:170] 📥 [HN #1] OpenAI and Hugging Face address security incident during model evaluation
+INFO     2026-07-22 11:47:33 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+INFO     2026-07-22 11:47:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-22 11:47:33 [scraper.py:170] 📥 [HN #2] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+INFO     2026-07-22 11:47:33 [scraper.py:171] 🔗 [HN #2] URL: https://fireworks.ai/blog/kimik3-fable
+INFO     2026-07-22 11:47:33 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-22 11:47:34 [scraper.py:170] 📥 [HN #3] Introduction to Formal Verification with Lean Part 1
+INFO     2026-07-22 11:47:34 [scraper.py:171] 🔗 [HN #3] URL: https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)
+INFO     2026-07-22 11:47:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-22 11:47:34 [scraper.py:170] 📥 [HN #4] Intel Starts Shipping High-NA EUV Silicon
+INFO     2026-07-22 11:47:34 [scraper.py:171] 🔗 [HN #4] URL: https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
+INFO     2026-07-22 11:47:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-22 11:47:34 [scraper.py:170] 📥 [HN #5] Original Apollo 11 Guidance Computer source code for command and lunar modules
+INFO     2026-07-22 11:47:34 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/chrislgarry/Apollo-11
+INFO     2026-07-22 11:47:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-22 11:47:34 [scraper.py:170] 📥 [HN #6] Advertise in ChatGPT
+INFO     2026-07-22 11:47:34 [scraper.py:171] 🔗 [HN #6] URL: https://ads.openai.com/
+INFO     2026-07-22 11:47:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-22 11:47:35 [scraper.py:170] 📥 [HN #7] AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware
+INFO     2026-07-22 11:47:35 [scraper.py:171] 🔗 [HN #7] URL: https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review
+INFO     2026-07-22 11:47:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-22 11:47:35 [scraper.py:170] 📥 [HN #8] FreeInk: Open ecosystem for e-readers
+INFO     2026-07-22 11:47:35 [scraper.py:171] 🔗 [HN #8] URL: https://freeink.org/
+INFO     2026-07-22 11:47:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-22 11:47:35 [scraper.py:170] 📥 [HN #9] Judge approves $1.5B Anthropic settlement for pirated books used to train Claude
+INFO     2026-07-22 11:47:35 [scraper.py:171] 🔗 [HN #9] URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63
+INFO     2026-07-22 11:47:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-22 11:47:35 [scraper.py:170] 📥 [HN #10] Late.sh – a command-line Clubhouse for computer people
+INFO     2026-07-22 11:47:35 [scraper.py:171] 🔗 [HN #10] URL: https://late.sh/
+INFO     2026-07-22 11:47:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-22 11:47:35 [scraper.py:178] 🎉 [HN] All done.
+
