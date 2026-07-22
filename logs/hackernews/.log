@@ -35326,3 +35326,36 @@ INFO     2026-07-21 11:46:35 [scraper.py:171] 🔗 [HN #10] URL: https://compila
 INFO     2026-07-21 11:46:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-21 11:46:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-22 03:29:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-22 03:29:15 [scraper.py:170] 📥 [HN #1] OpenAI and Hugging Face address security incident during model evaluation
+INFO     2026-07-22 03:29:15 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+INFO     2026-07-22 03:29:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-22 03:29:15 [scraper.py:170] 📥 [HN #2] Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA
+INFO     2026-07-22 03:29:15 [scraper.py:171] 🔗 [HN #2] URL: https://fireworks.ai/blog/kimik3-fable
+INFO     2026-07-22 03:29:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-22 03:29:16 [scraper.py:170] 📥 [HN #3] LG to Ban Residential Proxies from Smart TV Apps
+INFO     2026-07-22 03:29:16 [scraper.py:171] 🔗 [HN #3] URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+INFO     2026-07-22 03:29:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-22 03:29:16 [scraper.py:170] 📥 [HN #4] FreeInk: Open ecosystem for e-readers
+INFO     2026-07-22 03:29:16 [scraper.py:171] 🔗 [HN #4] URL: https://freeink.org/
+INFO     2026-07-22 03:29:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-22 03:29:16 [scraper.py:170] 📥 [HN #5] A digestion of the Jacobian conjecture counterexample
+INFO     2026-07-22 03:29:16 [scraper.py:171] 🔗 [HN #5] URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
+INFO     2026-07-22 03:29:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:170] 📥 [HN #6] Advertise in ChatGPT
+INFO     2026-07-22 03:29:17 [scraper.py:171] 🔗 [HN #6] URL: https://ads.openai.com/
+INFO     2026-07-22 03:29:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:170] 📥 [HN #7] Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+INFO     2026-07-22 03:29:17 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+INFO     2026-07-22 03:29:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:170] 📥 [HN #8] Ten Steps Towards Happiness (2015)
+INFO     2026-07-22 03:29:17 [scraper.py:171] 🔗 [HN #8] URL: http://hintjens.com/blog:99
+INFO     2026-07-22 03:29:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:170] 📥 [HN #9] How an AI Anime Is Created
+INFO     2026-07-22 03:29:17 [scraper.py:171] 🔗 [HN #9] URL: https://www.aventos.dev/our-process?view=blog
+INFO     2026-07-22 03:29:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:170] 📥 [HN #10] "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok
+INFO     2026-07-22 03:29:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
+INFO     2026-07-22 03:29:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-22 03:29:17 [scraper.py:178] 🎉 [HN] All done.
+
