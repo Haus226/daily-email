@@ -5263,3 +5263,8 @@ INFO     2026-07-22 11:47:33 [scraper.py:47] 📥 [APOD] Title: The Corona Austr
 INFO     2026-07-22 11:47:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg
 INFO     2026-07-22 11:47:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-23 03:33:59 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-23 03:33:59 [scraper.py:47] 📥 [APOD] Title: The Corona Australis Molecular Cloud and the Chandelier Cluster
+INFO     2026-07-23 03:33:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg
+INFO     2026-07-23 03:33:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

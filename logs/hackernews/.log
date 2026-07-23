@@ -35425,3 +35425,36 @@ INFO     2026-07-22 11:47:35 [scraper.py:171] 🔗 [HN #10] URL: https://late.sh
 INFO     2026-07-22 11:47:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-22 11:47:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-23 03:33:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-23 03:34:00 [scraper.py:170] 📥 [HN #1] Petals: Run LLMs at home, BitTorrent-style
+INFO     2026-07-23 03:34:00 [scraper.py:171] 🔗 [HN #1] URL: https://petals.dev/
+INFO     2026-07-23 03:34:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-23 03:34:00 [scraper.py:170] 📥 [HN #2] Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample
+INFO     2026-07-23 03:34:00 [scraper.py:171] 🔗 [HN #2] URL: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56
+INFO     2026-07-23 03:34:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-23 03:34:00 [scraper.py:170] 📥 [HN #3] Quality non-fiction books are the antithesis of AI slop
+INFO     2026-07-23 03:34:00 [scraper.py:171] 🔗 [HN #3] URL: https://resobscura.substack.com/p/quality-non-fiction-books-are-the
+INFO     2026-07-23 03:34:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-23 03:34:00 [scraper.py:170] 📥 [HN #4] GigaToken: ~1000x faster Language model tokenization
+INFO     2026-07-23 03:34:00 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/marcelroed/gigatoken/
+INFO     2026-07-23 03:34:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-23 03:34:00 [scraper.py:170] 📥 [HN #5] Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)
+INFO     2026-07-23 03:34:00 [scraper.py:171] 🔗 [HN #5] URL: https://bento.page/slides/
+INFO     2026-07-23 03:34:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:170] 📥 [HN #6] Codeberg Bans Cryptocurrency Projects
+INFO     2026-07-23 03:34:01 [scraper.py:171] 🔗 [HN #6] URL: https://codeberg.org/Codeberg/org/pulls/1254
+INFO     2026-07-23 03:34:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:170] 📥 [HN #7] OpenAI's accidental cyberattack against Hugging Face is science fiction
+INFO     2026-07-23 03:34:01 [scraper.py:171] 🔗 [HN #7] URL: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
+INFO     2026-07-23 03:34:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:170] 📥 [HN #8] Medici family mystery may be solved after more than 400 years
+INFO     2026-07-23 03:34:01 [scraper.py:171] 🔗 [HN #8] URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
+INFO     2026-07-23 03:34:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:170] 📥 [HN #9] Everyone Should Know SIMD
+INFO     2026-07-23 03:34:01 [scraper.py:171] 🔗 [HN #9] URL: https://mitchellh.com/writing/everyone-should-know-simd
+INFO     2026-07-23 03:34:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:170] 📥 [HN #10] Are AI Labs Pelicanmaxxing?
+INFO     2026-07-23 03:34:01 [scraper.py:171] 🔗 [HN #10] URL: https://dylancastillo.co/posts/pelicanmaxxing.html
+INFO     2026-07-23 03:34:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-23 03:34:01 [scraper.py:178] 🎉 [HN] All done.
+
