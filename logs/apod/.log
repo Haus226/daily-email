@@ -5288,3 +5288,8 @@ INFO     2026-07-24 07:35:41 [scraper.py:47] 📥 [APOD] Title: RCW 86: Historic
 INFO     2026-07-24 07:35:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg
 INFO     2026-07-24 07:35:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-24 11:42:39 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-24 11:42:40 [scraper.py:47] 📥 [APOD] Title: RCW 86: Historical Supernova Remnant
+INFO     2026-07-24 11:42:40 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg
+INFO     2026-07-24 11:42:40 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
