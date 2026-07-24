@@ -5278,3 +5278,8 @@ INFO     2026-07-23 11:50:22 [scraper.py:47] 📥 [APOD] Title: The Large Magell
 INFO     2026-07-23 11:50:22 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg
 INFO     2026-07-23 11:50:22 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-24 03:30:14 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-24 03:30:14 [scraper.py:47] 📥 [APOD] Title: The Large Magellanic Cloud
+INFO     2026-07-24 03:30:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg
+INFO     2026-07-24 03:30:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

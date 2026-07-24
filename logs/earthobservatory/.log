@@ -16487,3 +16487,24 @@ INFO     2026-07-23 11:50:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-23 11:50:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-24 03:30:11 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-24 03:30:14 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-24 03:30:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-24 03:30:14 [scraper.py:133] 📥 [EO] Title: Olympic Mountain Glory
+INFO     2026-07-24 03:30:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-24 03:30:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-24 03:30:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-24 03:30:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-24 03:30:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-24 03:30:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-24 03:30:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-24 03:30:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-24 03:30:15 [scraper.py:133] 📥 [EO] Title: Olympic Mountain Glory
+INFO     2026-07-24 03:30:15 [scraper.py:133] 📥 [EO] Title: Olympic Mountain Glory
+INFO     2026-07-24 03:30:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-24 03:30:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/olympic-mountain-glory/ISS047-E-104144_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-24 03:30:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-24 03:30:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
