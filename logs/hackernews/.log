@@ -35689,3 +35689,36 @@ INFO     2026-07-25 07:22:04 [scraper.py:171] 🔗 [HN #10] URL: https://news.st
 INFO     2026-07-25 07:22:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-25 07:22:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-25 11:10:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-25 11:10:38 [scraper.py:170] 📥 [HN #1] Android May Soon Restrict On-Device ADB
+INFO     2026-07-25 11:10:38 [scraper.py:171] 🔗 [HN #1] URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/
+INFO     2026-07-25 11:10:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-25 11:10:38 [scraper.py:170] 📥 [HN #2] Claude Opus 5
+INFO     2026-07-25 11:10:38 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-opus-5
+INFO     2026-07-25 11:10:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-25 11:10:38 [scraper.py:170] 📥 [HN #3] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach
+INFO     2026-07-25 11:10:38 [scraper.py:171] 🔗 [HN #3] URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
+INFO     2026-07-25 11:10:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-25 11:10:38 [scraper.py:170] 📥 [HN #4] Building a Tiny 3D Renderer for a Tiny Handheld
+INFO     2026-07-25 11:10:38 [scraper.py:171] 🔗 [HN #4] URL: https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld
+INFO     2026-07-25 11:10:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-25 11:10:39 [scraper.py:170] 📥 [HN #5] ARC-AGI Leaderboard
+INFO     2026-07-25 11:10:39 [scraper.py:171] 🔗 [HN #5] URL: https://arcprize.org/leaderboard
+INFO     2026-07-25 11:10:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-25 11:10:39 [scraper.py:170] 📥 [HN #6] GC and Exceptions in Wasmtime
+INFO     2026-07-25 11:10:39 [scraper.py:171] 🔗 [HN #6] URL: https://bytecodealliance.org/articles/wasmtime-gc
+INFO     2026-07-25 11:10:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-25 11:10:39 [scraper.py:170] 📥 [HN #7] NYC Apartment Aquaponics
+INFO     2026-07-25 11:10:39 [scraper.py:171] 🔗 [HN #7] URL: https://erinmurphy.dev/projects/project-2/
+INFO     2026-07-25 11:10:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-25 11:10:39 [scraper.py:170] 📥 [HN #8] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities
+INFO     2026-07-25 11:10:39 [scraper.py:171] 🔗 [HN #8] URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
+INFO     2026-07-25 11:10:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-25 11:10:40 [scraper.py:170] 📥 [HN #9] Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico
+INFO     2026-07-25 11:10:40 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html
+INFO     2026-07-25 11:10:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-25 11:10:40 [scraper.py:170] 📥 [HN #10] Postgres LISTEN/NOTIFY actually scales
+INFO     2026-07-25 11:10:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+INFO     2026-07-25 11:10:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-25 11:10:40 [scraper.py:178] 🎉 [HN] All done.
+
