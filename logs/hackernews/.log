@@ -35656,3 +35656,36 @@ INFO     2026-07-25 03:27:57 [scraper.py:171] 🔗 [HN #10] URL: https://news.mi
 INFO     2026-07-25 03:27:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-25 03:27:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-25 07:22:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-25 07:22:02 [scraper.py:170] 📥 [HN #1] ARC-AGI Leaderboard
+INFO     2026-07-25 07:22:02 [scraper.py:171] 🔗 [HN #1] URL: https://arcprize.org/leaderboard
+INFO     2026-07-25 07:22:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-25 07:22:02 [scraper.py:170] 📥 [HN #2] Claude Opus 5
+INFO     2026-07-25 07:22:02 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/news/claude-opus-5
+INFO     2026-07-25 07:22:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-25 07:22:02 [scraper.py:170] 📥 [HN #3] GC and Exceptions in Wasmtime
+INFO     2026-07-25 07:22:02 [scraper.py:171] 🔗 [HN #3] URL: https://bytecodealliance.org/articles/wasmtime-gc
+INFO     2026-07-25 07:22:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-25 07:22:03 [scraper.py:170] 📥 [HN #4] Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach
+INFO     2026-07-25 07:22:03 [scraper.py:171] 🔗 [HN #4] URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
+INFO     2026-07-25 07:22:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-25 07:22:03 [scraper.py:170] 📥 [HN #5] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities
+INFO     2026-07-25 07:22:03 [scraper.py:171] 🔗 [HN #5] URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
+INFO     2026-07-25 07:22:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-25 07:22:03 [scraper.py:170] 📥 [HN #6] Postgres LISTEN/NOTIFY actually scales
+INFO     2026-07-25 07:22:03 [scraper.py:171] 🔗 [HN #6] URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+INFO     2026-07-25 07:22:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-25 07:22:04 [scraper.py:170] 📥 [HN #7] Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
+INFO     2026-07-25 07:22:04 [scraper.py:171] 🔗 [HN #7] URL: https://artificialanalysis.ai/models
+INFO     2026-07-25 07:22:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-25 07:22:04 [scraper.py:170] 📥 [HN #8] India's first privately-developed rocket reaches orbit on debut launch
+INFO     2026-07-25 07:22:04 [scraper.py:171] 🔗 [HN #8] URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
+INFO     2026-07-25 07:22:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-25 07:22:04 [scraper.py:170] 📥 [HN #9] My security camera shipped a GitHub admin token in its login page
+INFO     2026-07-25 07:22:04 [scraper.py:171] 🔗 [HN #9] URL: https://hhh.hn/hanwha-github-token/
+INFO     2026-07-25 07:22:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-25 07:22:04 [scraper.py:170] 📥 [HN #10] Sperm Whales blow bubbles to achieve restful, vertical sleep
+INFO     2026-07-25 07:22:04 [scraper.py:171] 🔗 [HN #10] URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/
+INFO     2026-07-25 07:22:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-25 07:22:04 [scraper.py:178] 🎉 [HN] All done.
+
