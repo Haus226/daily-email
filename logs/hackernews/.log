@@ -35722,3 +35722,36 @@ INFO     2026-07-25 11:10:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.dbo
 INFO     2026-07-25 11:10:40 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-25 11:10:40 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-26 03:41:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-26 03:41:15 [scraper.py:170] 📥 [HN #1] JetZero
+INFO     2026-07-26 03:41:15 [scraper.py:171] 🔗 [HN #1] URL: https://www.jetzero.aero
+INFO     2026-07-26 03:41:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-26 03:41:15 [scraper.py:170] 📥 [HN #2] Show HN: I mapped every US golf course – 16k+ courses, free, no signup
+INFO     2026-07-26 03:41:15 [scraper.py:171] 🔗 [HN #2] URL: https://golfcoursebrowser.com/
+INFO     2026-07-26 03:41:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-26 03:41:15 [scraper.py:170] 📥 [HN #3] Stolen Buttons
+INFO     2026-07-26 03:41:15 [scraper.py:171] 🔗 [HN #3] URL: https://anatolyzenkov.com/stolen-buttons
+INFO     2026-07-26 03:41:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-26 03:41:16 [scraper.py:170] 📥 [HN #4] Clinical failure rates over the decades: yikes
+INFO     2026-07-26 03:41:16 [scraper.py:171] 🔗 [HN #4] URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+INFO     2026-07-26 03:41:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-26 03:41:16 [scraper.py:170] 📥 [HN #5] Systems and Delays
+INFO     2026-07-26 03:41:16 [scraper.py:171] 🔗 [HN #5] URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html
+INFO     2026-07-26 03:41:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-26 03:41:16 [scraper.py:170] 📥 [HN #6] Inflect-Micro-v2: complete voice in 9.36M parameters
+INFO     2026-07-26 03:41:16 [scraper.py:171] 🔗 [HN #6] URL: https://huggingface.co/owensong/Inflect-Micro-v2
+INFO     2026-07-26 03:41:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-26 03:41:17 [scraper.py:170] 📥 [HN #7] Cloudflare's new AI traffic options for customers
+INFO     2026-07-26 03:41:17 [scraper.py:171] 🔗 [HN #7] URL: https://blog.cloudflare.com/content-independence-day-ai-options/
+INFO     2026-07-26 03:41:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-26 03:41:17 [scraper.py:170] 📥 [HN #8] An ESP32 based plane radar for my desk
+INFO     2026-07-26 03:41:17 [scraper.py:171] 🔗 [HN #8] URL: https://blog.ktz.me/esp32-plane-radar/
+INFO     2026-07-26 03:41:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-26 03:41:17 [scraper.py:170] 📥 [HN #9] Git rebase -I is not that scary
+INFO     2026-07-26 03:41:17 [scraper.py:171] 🔗 [HN #9] URL: https://cachebag.sh/journal/interactive-rebasing/
+INFO     2026-07-26 03:41:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-26 03:41:17 [scraper.py:170] 📥 [HN #10] The new rules of context engineering for Claude 5 generation models
+INFO     2026-07-26 03:41:17 [scraper.py:171] 🔗 [HN #10] URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+INFO     2026-07-26 03:41:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-26 03:41:17 [scraper.py:178] 🎉 [HN] All done.
+
