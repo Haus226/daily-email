@@ -35854,3 +35854,36 @@ INFO     2026-07-27 03:51:00 [scraper.py:171] 🔗 [HN #10] URL: https://swag.ht
 INFO     2026-07-27 03:51:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-27 03:51:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-27 08:36:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-27 08:36:05 [scraper.py:170] 📥 [HN #1] Kimi-K3 Releases on HuggingFace 7/27
+INFO     2026-07-27 08:36:05 [scraper.py:171] 🔗 [HN #1] URL: https://huggingface.co/moonshotai/Kimi-K3
+INFO     2026-07-27 08:36:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-27 08:36:05 [scraper.py:170] 📥 [HN #2] PGSimCity - How PostgreSQL Works
+INFO     2026-07-27 08:36:05 [scraper.py:171] 🔗 [HN #2] URL: https://nikolays.github.io/PGSimCity/
+INFO     2026-07-27 08:36:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-27 08:36:05 [scraper.py:170] 📥 [HN #3] Show HN: Physically accurate black hole you can put in your room
+INFO     2026-07-27 08:36:05 [scraper.py:171] 🔗 [HN #3] URL: https://blackhole.plav.in
+INFO     2026-07-27 08:36:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #4] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/vercel-labs/scriptc
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #5] French firefighters face 'pyrocumulonimbus' for first time
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #5] URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #6] Decker, a platform that builds on the legacy of Hypercard and classic macOS
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #6] URL: https://beyondloom.com/decker/
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #7] Why care about programming languages
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #7] URL: https://ebellani.github.io/blog/2026/why-care-about-programming-languages/
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #8] US citizen charged after GrapheneOS phone wipes during airport search
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #8] URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-27 08:36:06 [scraper.py:170] 📥 [HN #9] We have proof automation now
+INFO     2026-07-27 08:36:06 [scraper.py:171] 🔗 [HN #9] URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+INFO     2026-07-27 08:36:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-27 08:36:07 [scraper.py:170] 📥 [HN #10] The Zen of Parallel Programming: The Posture of a Kernel
+INFO     2026-07-27 08:36:07 [scraper.py:171] 🔗 [HN #10] URL: https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel
+INFO     2026-07-27 08:36:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-27 08:36:07 [scraper.py:178] 🎉 [HN] All done.
+
