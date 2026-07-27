@@ -5333,3 +5333,8 @@ INFO     2026-07-27 08:36:05 [scraper.py:47] 📥 [APOD] Title: NGC 7635: The Bu
 INFO     2026-07-27 08:36:05 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg
 INFO     2026-07-27 08:36:05 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-27 12:54:56 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-27 12:54:57 [scraper.py:47] 📥 [APOD] Title: NGC 7635: The Bubble Nebula
+INFO     2026-07-27 12:54:57 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg
+INFO     2026-07-27 12:54:57 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

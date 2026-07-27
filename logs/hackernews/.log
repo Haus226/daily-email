@@ -35887,3 +35887,36 @@ INFO     2026-07-27 08:36:07 [scraper.py:171] 🔗 [HN #10] URL: https://smolner
 INFO     2026-07-27 08:36:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-27 08:36:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-27 12:54:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-27 12:54:57 [scraper.py:170] 📥 [HN #1] How is the Bun Rewrite in Rust going?
+INFO     2026-07-27 12:54:57 [scraper.py:171] 🔗 [HN #1] URL: https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
+INFO     2026-07-27 12:54:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-27 12:54:57 [scraper.py:170] 📥 [HN #2] Kimi-K3 Releases on HuggingFace 7/27
+INFO     2026-07-27 12:54:57 [scraper.py:171] 🔗 [HN #2] URL: https://huggingface.co/moonshotai/Kimi-K3
+INFO     2026-07-27 12:54:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-27 12:54:57 [scraper.py:170] 📥 [HN #3] Elevated errors on Claude Opus 5
+INFO     2026-07-27 12:54:57 [scraper.py:171] 🔗 [HN #3] URL: https://status.claude.com/incidents/mfdtrknpxghq
+INFO     2026-07-27 12:54:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-27 12:54:57 [scraper.py:170] 📥 [HN #4] The Birth of the American 12-string Guitar
+INFO     2026-07-27 12:54:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.harpguitars.net/history/grunewald/12-string.htm
+INFO     2026-07-27 12:54:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-27 12:54:58 [scraper.py:170] 📥 [HN #5] PGSimCity - How PostgreSQL Works
+INFO     2026-07-27 12:54:58 [scraper.py:171] 🔗 [HN #5] URL: https://nikolays.github.io/PGSimCity/
+INFO     2026-07-27 12:54:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-27 12:54:58 [scraper.py:170] 📥 [HN #6] Libsm64: Mario 64 as a library for use in external game engines
+INFO     2026-07-27 12:54:58 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/libsm64/libsm64
+INFO     2026-07-27 12:54:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-27 12:54:58 [scraper.py:170] 📥 [HN #7] Magnolias Are So Old That They're Pollinated by Beetles, Not Bees
+INFO     2026-07-27 12:54:58 [scraper.py:171] 🔗 [HN #7] URL: https://mymodernmet.com/magnolia-ancient-flowers-beetles/
+INFO     2026-07-27 12:54:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-27 12:54:58 [scraper.py:170] 📥 [HN #8] Removing React.js from the codebase and adapting Htmx for UI interactivity
+INFO     2026-07-27 12:54:58 [scraper.py:171] 🔗 [HN #8] URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+INFO     2026-07-27 12:54:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-27 12:54:58 [scraper.py:170] 📥 [HN #9] Building a Fast Lock-Free Queue in Modern C++ from Scratch
+INFO     2026-07-27 12:54:58 [scraper.py:171] 🔗 [HN #9] URL: https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/
+INFO     2026-07-27 12:54:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-27 12:54:59 [scraper.py:170] 📥 [HN #10] AI companies are shredding rare books
+INFO     2026-07-27 12:54:59 [scraper.py:171] 🔗 [HN #10] URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565
+INFO     2026-07-27 12:54:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-27 12:54:59 [scraper.py:178] 🎉 [HN] All done.
+
