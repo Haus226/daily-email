@@ -35821,3 +35821,36 @@ INFO     2026-07-26 11:19:25 [scraper.py:171] 🔗 [HN #10] URL: https://powerfu
 INFO     2026-07-26 11:19:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-26 11:19:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-27 03:50:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-27 03:50:57 [scraper.py:170] 📥 [HN #1] PGSimCity - How PostgreSQL Works
+INFO     2026-07-27 03:50:57 [scraper.py:171] 🔗 [HN #1] URL: https://nikolays.github.io/PGSimCity/
+INFO     2026-07-27 03:50:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-27 03:50:58 [scraper.py:170] 📥 [HN #2] Show HN: Physically accurate black hole you can put in your room
+INFO     2026-07-27 03:50:58 [scraper.py:171] 🔗 [HN #2] URL: https://blackhole.plav.in
+INFO     2026-07-27 03:50:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-27 03:50:58 [scraper.py:170] 📥 [HN #3] Decker, a platform that builds on the legacy of Hypercard and classic macOS
+INFO     2026-07-27 03:50:58 [scraper.py:171] 🔗 [HN #3] URL: https://beyondloom.com/decker/
+INFO     2026-07-27 03:50:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-27 03:50:58 [scraper.py:170] 📥 [HN #4] French firefighters face 'pyrocumulonimbus' for first time
+INFO     2026-07-27 03:50:58 [scraper.py:171] 🔗 [HN #4] URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
+INFO     2026-07-27 03:50:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-27 03:50:59 [scraper.py:170] 📥 [HN #5] Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary
+INFO     2026-07-27 03:50:59 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/vercel-labs/scriptc
+INFO     2026-07-27 03:50:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-27 03:50:59 [scraper.py:170] 📥 [HN #6] We have proof automation now
+INFO     2026-07-27 03:50:59 [scraper.py:171] 🔗 [HN #6] URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+INFO     2026-07-27 03:50:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-27 03:50:59 [scraper.py:170] 📥 [HN #7] US citizen charged after GrapheneOS phone wipes during airport search
+INFO     2026-07-27 03:50:59 [scraper.py:171] 🔗 [HN #7] URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+INFO     2026-07-27 03:50:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-27 03:50:59 [scraper.py:170] 📥 [HN #8] Jacobian Conjecture for Baby
+INFO     2026-07-27 03:50:59 [scraper.py:171] 🔗 [HN #8] URL: https://muchmirul.github.io/jacobian-conjecture/
+INFO     2026-07-27 03:50:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-27 03:50:59 [scraper.py:170] 📥 [HN #9] Introduction to Data-Oriented Design [pdf]
+INFO     2026-07-27 03:50:59 [scraper.py:171] 🔗 [HN #9] URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf
+INFO     2026-07-27 03:50:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-27 03:51:00 [scraper.py:170] 📥 [HN #10] Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy
+INFO     2026-07-27 03:51:00 [scraper.py:171] 🔗 [HN #10] URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game
+INFO     2026-07-27 03:51:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-27 03:51:00 [scraper.py:178] 🎉 [HN] All done.
+
