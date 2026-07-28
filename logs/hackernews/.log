@@ -35953,3 +35953,36 @@ INFO     2026-07-28 03:21:49 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-07-28 03:21:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-28 03:21:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-28 07:42:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-28 07:42:20 [scraper.py:170] 📥 [HN #1] Our position on open-weights models
+INFO     2026-07-28 07:42:20 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/news/position-open-weights-models
+INFO     2026-07-28 07:42:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-28 07:42:20 [scraper.py:170] 📥 [HN #2] Neutrino-1 8B
+INFO     2026-07-28 07:42:20 [scraper.py:171] 🔗 [HN #2] URL: https://www.fermionresearch.com/models/neutrino-8b/
+INFO     2026-07-28 07:42:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-28 07:42:20 [scraper.py:170] 📥 [HN #3] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts
+INFO     2026-07-28 07:42:20 [scraper.py:171] 🔗 [HN #3] URL: https://arsastronomica.com/
+INFO     2026-07-28 07:42:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-28 07:42:21 [scraper.py:170] 📥 [HN #4] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review
+INFO     2026-07-28 07:42:21 [scraper.py:171] 🔗 [HN #4] URL: https://fermisense.com/when-machines-take-the-wheel/
+INFO     2026-07-28 07:42:21 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-28 07:42:21 [scraper.py:170] 📥 [HN #5] Using an open model feels surprisingly good
+INFO     2026-07-28 07:42:21 [scraper.py:171] 🔗 [HN #5] URL: https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/
+INFO     2026-07-28 07:42:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-28 07:42:21 [scraper.py:170] 📥 [HN #6] Why do we think we understand the world more than we actually do?
+INFO     2026-07-28 07:42:21 [scraper.py:171] 🔗 [HN #6] URL: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth
+INFO     2026-07-28 07:42:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-28 07:42:21 [scraper.py:170] 📥 [HN #7] Benchmarking Opus 5 on SlopCodeBench
+INFO     2026-07-28 07:42:21 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+INFO     2026-07-28 07:42:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-28 07:42:21 [scraper.py:170] 📥 [HN #8] Vehicle Motion Cues
+INFO     2026-07-28 07:42:21 [scraper.py:171] 🔗 [HN #8] URL: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios
+INFO     2026-07-28 07:42:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-28 07:42:22 [scraper.py:170] 📥 [HN #9] PyTorch: A Reference Language
+INFO     2026-07-28 07:42:22 [scraper.py:171] 🔗 [HN #9] URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/
+INFO     2026-07-28 07:42:22 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-28 07:42:22 [scraper.py:170] 📥 [HN #10] RTX 2080 Ti Memory Upgrade to 22 GB
+INFO     2026-07-28 07:42:22 [scraper.py:171] 🔗 [HN #10] URL: https://gpusolutions.net/rbservices/graphics-card-upgrade/
+INFO     2026-07-28 07:42:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-28 07:42:22 [scraper.py:178] 🎉 [HN] All done.
+
