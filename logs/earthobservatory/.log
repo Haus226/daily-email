@@ -16781,3 +16781,24 @@ INFO     2026-07-28 07:42:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-28 07:42:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-28 11:58:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-28 11:58:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-28 11:58:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-28 11:58:13 [scraper.py:133] 📥 [EO] Title: Smoke Blankets Oregon
+INFO     2026-07-28 11:58:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-28 11:58:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-28 11:58:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-28 11:58:13 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-28 11:58:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-28 11:58:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-28 11:58:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-28 11:58:13 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-28 11:58:13 [scraper.py:133] 📥 [EO] Title: Smoke Blankets Oregon
+INFO     2026-07-28 11:58:13 [scraper.py:133] 📥 [EO] Title: Smoke Blankets Oregon
+INFO     2026-07-28 11:58:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-28 11:58:13 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-28 11:58:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-28 11:58:13 [scraper.py:154] ✅ [EO] Successfully fetched.
+

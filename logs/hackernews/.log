@@ -35986,3 +35986,36 @@ INFO     2026-07-28 07:42:22 [scraper.py:171] 🔗 [HN #10] URL: https://gpusolu
 INFO     2026-07-28 07:42:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-28 07:42:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-28 11:58:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-28 11:58:13 [scraper.py:170] 📥 [HN #1] 7.1 Earthquake in Japan
+INFO     2026-07-28 11:58:13 [scraper.py:171] 🔗 [HN #1] URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en
+INFO     2026-07-28 11:58:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-28 11:58:13 [scraper.py:170] 📥 [HN #2] About the security content of macOS Tahoe 26.6
+INFO     2026-07-28 11:58:13 [scraper.py:171] 🔗 [HN #2] URL: https://support.apple.com/en-us/128067
+INFO     2026-07-28 11:58:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-28 11:58:13 [scraper.py:170] 📥 [HN #3] Google's Beyond Zero: Enterprise Security for the AI Era
+INFO     2026-07-28 11:58:13 [scraper.py:171] 🔗 [HN #3] URL: https://spawn-queue.acm.org/doi/10.1145/3819083
+INFO     2026-07-28 11:58:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-28 11:58:14 [scraper.py:170] 📥 [HN #4] Our position on open-weights models
+INFO     2026-07-28 11:58:14 [scraper.py:171] 🔗 [HN #4] URL: https://www.anthropic.com/news/position-open-weights-models
+INFO     2026-07-28 11:58:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-28 11:58:14 [scraper.py:170] 📥 [HN #5] How to Survive Boiling Water
+INFO     2026-07-28 11:58:14 [scraper.py:171] 🔗 [HN #5] URL: https://taxa.substack.com/p/how-to-survive-boiling-water
+INFO     2026-07-28 11:58:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-28 11:58:14 [scraper.py:170] 📥 [HN #6] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review
+INFO     2026-07-28 11:58:14 [scraper.py:171] 🔗 [HN #6] URL: https://fermisense.com/when-machines-take-the-wheel/
+INFO     2026-07-28 11:58:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-28 11:58:14 [scraper.py:170] 📥 [HN #7] Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts
+INFO     2026-07-28 11:58:14 [scraper.py:171] 🔗 [HN #7] URL: https://arsastronomica.com/
+INFO     2026-07-28 11:58:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-28 11:58:14 [scraper.py:170] 📥 [HN #8] Benchmarking Opus 5 on SlopCodeBench
+INFO     2026-07-28 11:58:14 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+INFO     2026-07-28 11:58:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-28 11:58:15 [scraper.py:170] 📥 [HN #9] Golang Maps: how Swiss Tables replaced the old bucket design
+INFO     2026-07-28 11:58:15 [scraper.py:171] 🔗 [HN #9] URL: https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/
+INFO     2026-07-28 11:58:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-28 11:58:15 [scraper.py:170] 📥 [HN #10] Vehicle Motion Cues
+INFO     2026-07-28 11:58:15 [scraper.py:171] 🔗 [HN #10] URL: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios
+INFO     2026-07-28 11:58:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-28 11:58:15 [scraper.py:178] 🎉 [HN] All done.
+
