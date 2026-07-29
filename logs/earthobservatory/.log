@@ -16844,3 +16844,24 @@ INFO     2026-07-29 07:47:18 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-07-29 07:47:18 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-07-29 12:00:55 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-29 12:00:56 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-29 12:00:56 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-29 12:00:56 [scraper.py:133] 📥 [EO] Title: Sizing Up the Sargassum Belt
+INFO     2026-07-29 12:00:56 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-29 12:00:56 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-29 12:00:56 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-29 12:00:56 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-07-29 12:00:57 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-29 12:00:57 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-07-29 12:00:57 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-29 12:00:57 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-07-29 12:00:57 [scraper.py:133] 📥 [EO] Title: Sizing Up the Sargassum Belt
+INFO     2026-07-29 12:00:57 [scraper.py:133] 📥 [EO] Title: Sizing Up the Sargassum Belt
+INFO     2026-07-29 12:00:57 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-29 12:00:57 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-07-29 12:00:57 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-07-29 12:00:57 [scraper.py:154] ✅ [EO] Successfully fetched.
+

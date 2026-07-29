@@ -36085,3 +36085,36 @@ INFO     2026-07-29 07:47:19 [scraper.py:171] 🔗 [HN #10] URL: https://reframe
 INFO     2026-07-29 07:47:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-29 07:47:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-29 12:00:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-29 12:00:57 [scraper.py:170] 📥 [HN #1] National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
+INFO     2026-07-29 12:00:57 [scraper.py:171] 🔗 [HN #1] URL: https://www.fcc.gov/sites/default/files/robots-nsd.pdf
+INFO     2026-07-29 12:00:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-29 12:00:57 [scraper.py:170] 📥 [HN #2] More Tailscale tricks for your jailbroken Kindle
+INFO     2026-07-29 12:00:57 [scraper.py:171] 🔗 [HN #2] URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
+INFO     2026-07-29 12:00:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-29 12:00:57 [scraper.py:170] 📥 [HN #3] KOReader
+INFO     2026-07-29 12:00:57 [scraper.py:171] 🔗 [HN #3] URL: https://koreader.rocks/
+INFO     2026-07-29 12:00:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-29 12:00:57 [scraper.py:170] 📥 [HN #4] SpecForge – A Platform for Authoring Formal Specifications
+INFO     2026-07-29 12:00:57 [scraper.py:171] 🔗 [HN #4] URL: https://docs.imiron.io/v/0.5.10/en/tour.html
+INFO     2026-07-29 12:00:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-29 12:00:58 [scraper.py:170] 📥 [HN #5] Amiga Graphics Archive
+INFO     2026-07-29 12:00:58 [scraper.py:171] 🔗 [HN #5] URL: https://amiga.lychesis.net/index.html
+INFO     2026-07-29 12:00:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-29 12:00:58 [scraper.py:170] 📥 [HN #6] User Interfaces of the Demo Scene
+INFO     2026-07-29 12:00:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.datagubbe.se/scenegui/
+INFO     2026-07-29 12:00:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-29 12:00:58 [scraper.py:170] 📥 [HN #7] SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers
+INFO     2026-07-29 12:00:58 [scraper.py:171] 🔗 [HN #7] URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
+INFO     2026-07-29 12:00:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-29 12:00:58 [scraper.py:170] 📥 [HN #8] Document-borne AI worms can self-propagate through Copilot for Word
+INFO     2026-07-29 12:00:58 [scraper.py:171] 🔗 [HN #8] URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+INFO     2026-07-29 12:00:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-29 12:00:58 [scraper.py:170] 📥 [HN #9] Lisp moving Forth moving Lisp
+INFO     2026-07-29 12:00:58 [scraper.py:171] 🔗 [HN #9] URL: https://letoverlambda.com/textmode.cl/guest/chap8.html
+INFO     2026-07-29 12:00:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-29 12:00:59 [scraper.py:170] 📥 [HN #10] They Stole Your Attention
+INFO     2026-07-29 12:00:59 [scraper.py:171] 🔗 [HN #10] URL: https://moai.studio/blog/posts/they-stole-your-attention.html
+INFO     2026-07-29 12:00:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-29 12:00:59 [scraper.py:178] 🎉 [HN] All done.
+
