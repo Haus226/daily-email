@@ -36052,3 +36052,36 @@ INFO     2026-07-29 03:23:17 [scraper.py:171] 🔗 [HN #10] URL: https://reframe
 INFO     2026-07-29 03:23:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-29 03:23:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-29 07:47:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-29 07:47:17 [scraper.py:170] 📥 [HN #1] More Tailscale tricks for your jailbroken Kindle
+INFO     2026-07-29 07:47:17 [scraper.py:171] 🔗 [HN #1] URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes
+INFO     2026-07-29 07:47:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-29 07:47:17 [scraper.py:170] 📥 [HN #2] User Interfaces of the Demo Scene
+INFO     2026-07-29 07:47:17 [scraper.py:171] 🔗 [HN #2] URL: https://www.datagubbe.se/scenegui/
+INFO     2026-07-29 07:47:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-29 07:47:17 [scraper.py:170] 📥 [HN #3] Codex Security
+INFO     2026-07-29 07:47:17 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/openai/codex-security
+INFO     2026-07-29 07:47:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-29 07:47:18 [scraper.py:170] 📥 [HN #4] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+INFO     2026-07-29 07:47:18 [scraper.py:171] 🔗 [HN #4] URL: https://learnvector.ai/
+INFO     2026-07-29 07:47:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-29 07:47:18 [scraper.py:170] 📥 [HN #5] Cracking Windows Open: Porting RADV to Win32
+INFO     2026-07-29 07:47:18 [scraper.py:171] 🔗 [HN #5] URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html
+INFO     2026-07-29 07:47:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-29 07:47:18 [scraper.py:170] 📥 [HN #6] Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+INFO     2026-07-29 07:47:18 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/twalichiewicz/HNewhere
+INFO     2026-07-29 07:47:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-29 07:47:18 [scraper.py:170] 📥 [HN #7] Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design
+INFO     2026-07-29 07:47:18 [scraper.py:171] 🔗 [HN #7] URL: https://transformer-transformer.github.io/
+INFO     2026-07-29 07:47:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-29 07:47:19 [scraper.py:170] 📥 [HN #8] Substack writers, you need a website
+INFO     2026-07-29 07:47:19 [scraper.py:171] 🔗 [HN #8] URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+INFO     2026-07-29 07:47:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-29 07:47:19 [scraper.py:170] 📥 [HN #9] Half-Life ported to Mac OS 9
+INFO     2026-07-29 07:47:19 [scraper.py:171] 🔗 [HN #9] URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+INFO     2026-07-29 07:47:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-29 07:47:19 [scraper.py:170] 📥 [HN #10] ReFrame – The EPaper Camera
+INFO     2026-07-29 07:47:19 [scraper.py:171] 🔗 [HN #10] URL: https://reframe.camera/
+INFO     2026-07-29 07:47:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-29 07:47:19 [scraper.py:178] 🎉 [HN] All done.
+
