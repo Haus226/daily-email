@@ -36019,3 +36019,36 @@ INFO     2026-07-28 11:58:15 [scraper.py:171] 🔗 [HN #10] URL: https://support
 INFO     2026-07-28 11:58:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-28 11:58:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-29 03:23:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-29 03:23:14 [scraper.py:170] 📥 [HN #1] Codex Security
+INFO     2026-07-29 03:23:14 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/openai/codex-security
+INFO     2026-07-29 03:23:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-29 03:23:15 [scraper.py:170] 📥 [HN #2] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences
+INFO     2026-07-29 03:23:15 [scraper.py:171] 🔗 [HN #2] URL: https://learnvector.ai/
+INFO     2026-07-29 03:23:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-29 03:23:15 [scraper.py:170] 📥 [HN #3] Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+INFO     2026-07-29 03:23:15 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/twalichiewicz/HNewhere
+INFO     2026-07-29 03:23:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-29 03:23:15 [scraper.py:170] 📥 [HN #4] Half-Life ported to Mac OS 9
+INFO     2026-07-29 03:23:15 [scraper.py:171] 🔗 [HN #4] URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+INFO     2026-07-29 03:23:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-29 03:23:15 [scraper.py:170] 📥 [HN #5] Substack writers, you need a website
+INFO     2026-07-29 03:23:15 [scraper.py:171] 🔗 [HN #5] URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+INFO     2026-07-29 03:23:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-29 03:23:16 [scraper.py:170] 📥 [HN #6] Chip stocks slide in US and Asia as AI jitters rattle investors
+INFO     2026-07-29 03:23:16 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cly8zng43npo
+INFO     2026-07-29 03:23:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-29 03:23:16 [scraper.py:170] 📥 [HN #7] Truth is not a direction: a Tarski attack on LLM probes
+INFO     2026-07-29 03:23:16 [scraper.py:171] 🔗 [HN #7] URL: https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html
+INFO     2026-07-29 03:23:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-29 03:23:16 [scraper.py:170] 📥 [HN #8] Teach yourself programming in ten years (1998)
+INFO     2026-07-29 03:23:16 [scraper.py:171] 🔗 [HN #8] URL: https://www.norvig.com/21-days.html
+INFO     2026-07-29 03:23:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-29 03:23:16 [scraper.py:170] 📥 [HN #9] Hubble: Open-source notetaking app for you and your agents
+INFO     2026-07-29 03:23:16 [scraper.py:171] 🔗 [HN #9] URL: https://www.hubble.md/
+INFO     2026-07-29 03:23:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-29 03:23:17 [scraper.py:170] 📥 [HN #10] ReFrame – The EPaper Camera
+INFO     2026-07-29 03:23:17 [scraper.py:171] 🔗 [HN #10] URL: https://reframe.camera/
+INFO     2026-07-29 03:23:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-29 03:23:17 [scraper.py:178] 🎉 [HN] All done.
+
