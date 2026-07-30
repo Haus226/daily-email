@@ -36184,3 +36184,36 @@ INFO     2026-07-30 07:37:00 [scraper.py:171] 🔗 [HN #10] URL: https://hugging
 INFO     2026-07-30 07:37:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-30 07:37:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-30 11:52:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-30 11:52:13 [scraper.py:170] 📥 [HN #1] Gpiozero Flow
+INFO     2026-07-30 11:52:13 [scraper.py:171] 🔗 [HN #1] URL: https://bennuttall.com/blog/2026/07/gpiozero-flow/
+INFO     2026-07-30 11:52:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-30 11:52:13 [scraper.py:170] 📥 [HN #2] Azulejo
+INFO     2026-07-30 11:52:13 [scraper.py:171] 🔗 [HN #2] URL: https://en.wikipedia.org/wiki/Azulejo
+INFO     2026-07-30 11:52:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-30 11:52:14 [scraper.py:170] 📥 [HN #3] AI's top startups are barely publishing their research
+INFO     2026-07-30 11:52:14 [scraper.py:171] 🔗 [HN #3] URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+INFO     2026-07-30 11:52:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-30 11:52:14 [scraper.py:170] 📥 [HN #4] Carolina Cloud pays SOFR on unused prepaid credits
+INFO     2026-07-30 11:52:14 [scraper.py:171] 🔗 [HN #4] URL: https://docs.carolinacloud.io/organizations/prepaid-interest/
+INFO     2026-07-30 11:52:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-30 11:52:14 [scraper.py:170] 📥 [HN #5] The coolest use for the Vision Pro
+INFO     2026-07-30 11:52:14 [scraper.py:171] 🔗 [HN #5] URL: https://christianselig.com/2026/07/vision-pro-house/
+INFO     2026-07-30 11:52:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-30 11:52:15 [scraper.py:170] 📥 [HN #6] Google will expand age checks on Android worldwide till the end of the year
+INFO     2026-07-30 11:52:15 [scraper.py:171] 🔗 [HN #6] URL: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
+INFO     2026-07-30 11:52:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-30 11:52:15 [scraper.py:170] 📥 [HN #7] The first watch featuring computer functions
+INFO     2026-07-30 11:52:15 [scraper.py:171] 🔗 [HN #7] URL: https://by.seiko-design.com/140th/en/topic/58.html
+INFO     2026-07-30 11:52:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-30 11:52:15 [scraper.py:170] 📥 [HN #8] Superlogical
+INFO     2026-07-30 11:52:15 [scraper.py:171] 🔗 [HN #8] URL: https://www.superlogical.com/
+INFO     2026-07-30 11:52:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-30 11:52:15 [scraper.py:170] 📥 [HN #9] LLM Honeypot
+INFO     2026-07-30 11:52:15 [scraper.py:171] 🔗 [HN #9] URL: https://llm2human.pages.dev/
+INFO     2026-07-30 11:52:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-30 11:52:16 [scraper.py:170] 📥 [HN #10] Ron Gilbert started production on Thimbleweed Park 2
+INFO     2026-07-30 11:52:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.grumpygamer.com/twp2_announce/
+INFO     2026-07-30 11:52:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-30 11:52:16 [scraper.py:178] 🎉 [HN] All done.
+
