@@ -36118,3 +36118,36 @@ INFO     2026-07-29 12:00:59 [scraper.py:171] 🔗 [HN #10] URL: https://moai.st
 INFO     2026-07-29 12:00:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-29 12:00:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-30 02:56:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-30 02:56:28 [scraper.py:170] 📥 [HN #1] AI's top startups are barely publishing their research
+INFO     2026-07-30 02:56:28 [scraper.py:171] 🔗 [HN #1] URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+INFO     2026-07-30 02:56:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-30 02:56:28 [scraper.py:170] 📥 [HN #2] The coolest use for the Vision Pro
+INFO     2026-07-30 02:56:28 [scraper.py:171] 🔗 [HN #2] URL: https://christianselig.com/2026/07/vision-pro-house/
+INFO     2026-07-30 02:56:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-30 02:56:28 [scraper.py:170] 📥 [HN #3] A pharmacy chain in Vermont implemented AI for efficiency
+INFO     2026-07-30 02:56:28 [scraper.py:171] 🔗 [HN #3] URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/
+INFO     2026-07-30 02:56:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-30 02:56:28 [scraper.py:170] 📥 [HN #4] Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+INFO     2026-07-30 02:56:28 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/drumih/turbo-fieldfare
+INFO     2026-07-30 02:56:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #5] Superlogical
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #5] URL: https://www.superlogical.com/
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #6] LLM Honeypot
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #6] URL: https://llm2human.pages.dev/
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #7] Keychron announces first open-source firmware for gaming mice
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #7] URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #8] The Productivity Mirage
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #8] URL: https://frantic.im/mirage/
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #9] The Cold Email
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #9] URL: https://zachholman.com/posts/cold-email
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:170] 📥 [HN #10] Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident
+INFO     2026-07-30 02:56:29 [scraper.py:171] 🔗 [HN #10] URL: https://huggingface.co/blog/agent-intrusion-technical-timeline
+INFO     2026-07-30 02:56:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-30 02:56:29 [scraper.py:178] 🎉 [HN] All done.
+
