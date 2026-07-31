@@ -36250,3 +36250,36 @@ INFO     2026-07-31 03:39:22 [scraper.py:171] 🔗 [HN #10] URL: https://rune.bu
 INFO     2026-07-31 03:39:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-07-31 03:39:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-07-31 07:54:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-07-31 07:54:19 [scraper.py:170] 📥 [HN #1] The session you cannot take with you
+INFO     2026-07-31 07:54:19 [scraper.py:171] 🔗 [HN #1] URL: https://earendil.com/posts/session-portability/
+INFO     2026-07-31 07:54:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-07-31 07:54:19 [scraper.py:170] 📥 [HN #2] JEP 401: Value Objects (Preview) merged to OpenJDK master
+INFO     2026-07-31 07:54:19 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/openjdk/jdk/pull/31120
+INFO     2026-07-31 07:54:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-07-31 07:54:20 [scraper.py:170] 📥 [HN #3] DeepSeek-V4-Flash Update
+INFO     2026-07-31 07:54:20 [scraper.py:171] 🔗 [HN #3] URL: https://api-docs.deepseek.com/updates/
+INFO     2026-07-31 07:54:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-07-31 07:54:20 [scraper.py:170] 📥 [HN #4] Stacked PRs are now live on GitHub
+INFO     2026-07-31 07:54:20 [scraper.py:171] 🔗 [HN #4] URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+INFO     2026-07-31 07:54:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-07-31 07:54:20 [scraper.py:170] 📥 [HN #5] Show HN: What should the GUI for AI agents look like?
+INFO     2026-07-31 07:54:20 [scraper.py:171] 🔗 [HN #5] URL: https://marbleos.com/demo
+INFO     2026-07-31 07:54:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-07-31 07:54:20 [scraper.py:170] 📥 [HN #6] Where USB Memory Sticks are Born (2013)
+INFO     2026-07-31 07:54:20 [scraper.py:171] 🔗 [HN #6] URL: https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/
+INFO     2026-07-31 07:54:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-07-31 07:54:20 [scraper.py:170] 📥 [HN #7] I flagged two research papers for fake authors and both were accepted as orals
+INFO     2026-07-31 07:54:20 [scraper.py:171] 🔗 [HN #7] URL: https://geospatialml.com/posts/reviewing-ai-slop/
+INFO     2026-07-31 07:54:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-07-31 07:54:21 [scraper.py:170] 📥 [HN #8] The mean means nothing: data visualization to debug a latency problem
+INFO     2026-07-31 07:54:21 [scraper.py:171] 🔗 [HN #8] URL: https://fzakaria.com/2026/07/27/the-mean-means-nothing
+INFO     2026-07-31 07:54:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-07-31 07:54:21 [scraper.py:170] 📥 [HN #9] Gemini Robotics 2 brings whole body intelligence to robots
+INFO     2026-07-31 07:54:21 [scraper.py:171] 🔗 [HN #9] URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
+INFO     2026-07-31 07:54:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-07-31 07:54:21 [scraper.py:170] 📥 [HN #10] Show HN: Gander, an Android file viewer that asks for no permissions at all
+INFO     2026-07-31 07:54:21 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/mokshablr/gander
+INFO     2026-07-31 07:54:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-07-31 07:54:21 [scraper.py:178] 🎉 [HN] All done.
+
