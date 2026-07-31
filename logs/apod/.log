@@ -5385,3 +5385,8 @@ INFO     2026-07-31 07:54:18 [scraper.py:47] 📥 [APOD] Title: NGC 4372 and the
 INFO     2026-07-31 07:54:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg
 INFO     2026-07-31 07:54:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-07-31 12:00:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-07-31 12:00:09 [scraper.py:47] 📥 [APOD] Title: NGC 4372 and the Dark Doodad
+INFO     2026-07-31 12:00:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg
+INFO     2026-07-31 12:00:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
