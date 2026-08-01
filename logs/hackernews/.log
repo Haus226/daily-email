@@ -36349,3 +36349,36 @@ INFO     2026-08-01 03:38:31 [scraper.py:171] 🔗 [HN #10] URL: https://servo.o
 INFO     2026-08-01 03:38:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-01 03:38:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-01 07:30:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-01 07:30:51 [scraper.py:170] 📥 [HN #1] Elevators
+INFO     2026-08-01 07:30:51 [scraper.py:171] 🔗 [HN #1] URL: https://john.fun/elevators
+INFO     2026-08-01 07:30:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-01 07:30:51 [scraper.py:170] 📥 [HN #2] Flint: A Visualization Language for the AI Era
+INFO     2026-08-01 07:30:51 [scraper.py:171] 🔗 [HN #2] URL: https://microsoft.github.io/flint-chart/
+INFO     2026-08-01 07:30:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-01 07:30:51 [scraper.py:170] 📥 [HN #3] Ten Ways NAS Is Getting Enshitified
+INFO     2026-08-01 07:30:51 [scraper.py:171] 🔗 [HN #3] URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/
+INFO     2026-08-01 07:30:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #4] How to Exist
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #4] URL: https://www.raptitude.com/2026/07/how-to-exist/
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #5] qm – Multiplayer agent harness for work
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/yc-software/qm
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #6] The development pipeline is a production system
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #6] URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #7] Progressive Web Components
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #7] URL: https://arielsalminen.com/2026/progressive-web-components/
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #8] The Absurdity of Albert Camus
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-01 07:30:52 [scraper.py:170] 📥 [HN #9] Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide
+INFO     2026-08-01 07:30:52 [scraper.py:171] 🔗 [HN #9] URL: https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html
+INFO     2026-08-01 07:30:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-01 07:30:53 [scraper.py:170] 📥 [HN #10] A Week in Matrix
+INFO     2026-08-01 07:30:53 [scraper.py:171] 🔗 [HN #10] URL: https://piegames.de/dumps/a-week-in-matrix/
+INFO     2026-08-01 07:30:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-01 07:30:53 [scraper.py:178] 🎉 [HN] All done.
+

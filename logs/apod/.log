@@ -5395,3 +5395,8 @@ INFO     2026-08-01 03:38:27 [scraper.py:47] 📥 [APOD] Title: NGC 4372 and the
 INFO     2026-08-01 03:38:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg
 INFO     2026-08-01 03:38:28 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-01 07:30:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-01 07:30:51 [scraper.py:47] 📥 [APOD] Title: Buck Moon and Belt of Venus
+INFO     2026-08-01 07:30:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg
+INFO     2026-08-01 07:30:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
