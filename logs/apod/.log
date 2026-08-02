@@ -5415,3 +5415,8 @@ INFO     2026-08-02 07:34:21 [scraper.py:47] 📥 [APOD] Title: A Fire Rainbow o
 INFO     2026-08-02 07:34:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg
 INFO     2026-08-02 07:34:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-02 11:16:31 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-02 11:16:32 [scraper.py:47] 📥 [APOD] Title: A Fire Rainbow over West Virginia
+INFO     2026-08-02 11:16:32 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg
+INFO     2026-08-02 11:16:32 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

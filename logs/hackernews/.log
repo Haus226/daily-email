@@ -36481,3 +36481,36 @@ INFO     2026-08-02 07:34:23 [scraper.py:171] 🔗 [HN #10] URL: https://mitsloa
 INFO     2026-08-02 07:34:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-02 07:34:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-02 11:16:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-02 11:16:32 [scraper.py:170] 📥 [HN #1] Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
+INFO     2026-08-02 11:16:32 [scraper.py:171] 🔗 [HN #1] URL: https://publicdomainreview.org/essay/ars-notoria/
+INFO     2026-08-02 11:16:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-02 11:16:32 [scraper.py:170] 📥 [HN #2] Is the Industrial Revolution a good precedent for explosive growth today?
+INFO     2026-08-02 11:16:32 [scraper.py:171] 🔗 [HN #2] URL: https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html
+INFO     2026-08-02 11:16:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-02 11:16:32 [scraper.py:170] 📥 [HN #3] Show HN: Bor – Open-source policy management for Linux desktops
+INFO     2026-08-02 11:16:32 [scraper.py:171] 🔗 [HN #3] URL: https://getbor.dev/blog/2026-08-02-bor-v080-release/
+INFO     2026-08-02 11:16:32 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-02 11:16:32 [scraper.py:170] 📥 [HN #4] Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+INFO     2026-08-02 11:16:32 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/syncular/syncular
+INFO     2026-08-02 11:16:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-02 11:16:32 [scraper.py:170] 📥 [HN #5] Go 1.27 Interactive Tour
+INFO     2026-08-02 11:16:32 [scraper.py:171] 🔗 [HN #5] URL: https://victoriametrics.com/blog/go-1-27/index.html
+INFO     2026-08-02 11:16:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:170] 📥 [HN #6] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
+INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/tom-ilan/cycloidal_gearbox
+INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:170] 📥 [HN #7] Maze Toys
+INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #7] URL: https://maze.toys
+INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:170] 📥 [HN #8] A big win for Android interoperability
+INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #8] URL: https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/
+INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:170] 📥 [HN #9] Seedance 2.5
+INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #9] URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:170] 📥 [HN #10] MkLinux and the pimped-out Apple Workgroup Server 9150
+INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #10] URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-02 11:16:33 [scraper.py:178] 🎉 [HN] All done.
+
