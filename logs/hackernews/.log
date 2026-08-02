@@ -36415,3 +36415,36 @@ INFO     2026-08-01 11:16:44 [scraper.py:171] 🔗 [HN #10] URL: https://www.ajw
 INFO     2026-08-01 11:16:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-01 11:16:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-02 03:38:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #1] Go 1.27 Interactive Tour
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #1] URL: https://victoriametrics.com/blog/go-1-27/index.html
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #2] Plug-in solar is coming. Plug-in batteries should follow
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #2] URL: https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #3] MkLinux and the pimped-out Apple Workgroup Server 9150
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #3] URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #4] Seedance 2.5
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #4] URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #5] Diátaxis
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #5] URL: https://diataxis.fr/
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #6] ASRock BC-250: Building the Budget Steam Machine
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #6] URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-02 03:38:17 [scraper.py:170] 📥 [HN #7] The teenage hitmen recruited to kill across Europe
+INFO     2026-08-02 03:38:17 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/news/articles/czrjyevmv61o
+INFO     2026-08-02 03:38:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-02 03:38:18 [scraper.py:170] 📥 [HN #8] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
+INFO     2026-08-02 03:38:18 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/tom-ilan/cycloidal_gearbox
+INFO     2026-08-02 03:38:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-02 03:38:18 [scraper.py:170] 📥 [HN #9] RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+INFO     2026-08-02 03:38:18 [scraper.py:171] 🔗 [HN #9] URL: https://www.rfc-editor.org/rfc/rfc10015.html
+INFO     2026-08-02 03:38:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-02 03:38:18 [scraper.py:170] 📥 [HN #10] Four Time Scales for Technology Development and Deployment
+INFO     2026-08-02 03:38:18 [scraper.py:171] 🔗 [HN #10] URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/
+INFO     2026-08-02 03:38:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-02 03:38:18 [scraper.py:178] 🎉 [HN] All done.
+
