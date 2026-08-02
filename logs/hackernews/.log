@@ -36448,3 +36448,36 @@ INFO     2026-08-02 03:38:18 [scraper.py:171] 🔗 [HN #10] URL: https://rodneyb
 INFO     2026-08-02 03:38:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-02 03:38:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-02 07:34:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-02 07:34:21 [scraper.py:170] 📥 [HN #1] Go 1.27 Interactive Tour
+INFO     2026-08-02 07:34:21 [scraper.py:171] 🔗 [HN #1] URL: https://victoriametrics.com/blog/go-1-27/index.html
+INFO     2026-08-02 07:34:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-02 07:34:21 [scraper.py:170] 📥 [HN #2] Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+INFO     2026-08-02 07:34:21 [scraper.py:171] 🔗 [HN #2] URL: https://www.wafer.ai/blog/kimi-k3-mi355x
+INFO     2026-08-02 07:34:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-02 07:34:22 [scraper.py:170] 📥 [HN #3] MkLinux and the pimped-out Apple Workgroup Server 9150
+INFO     2026-08-02 07:34:22 [scraper.py:171] 🔗 [HN #3] URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+INFO     2026-08-02 07:34:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-02 07:34:22 [scraper.py:170] 📥 [HN #4] Seedance 2.5
+INFO     2026-08-02 07:34:22 [scraper.py:171] 🔗 [HN #4] URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+INFO     2026-08-02 07:34:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-02 07:34:22 [scraper.py:170] 📥 [HN #5] Diátaxis
+INFO     2026-08-02 07:34:22 [scraper.py:171] 🔗 [HN #5] URL: https://diataxis.fr/
+INFO     2026-08-02 07:34:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-02 07:34:22 [scraper.py:170] 📥 [HN #6] ASRock BC-250: Building the Budget Steam Machine
+INFO     2026-08-02 07:34:22 [scraper.py:171] 🔗 [HN #6] URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/
+INFO     2026-08-02 07:34:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-02 07:34:22 [scraper.py:170] 📥 [HN #7] Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built
+INFO     2026-08-02 07:34:22 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/tom-ilan/cycloidal_gearbox
+INFO     2026-08-02 07:34:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-02 07:34:23 [scraper.py:170] 📥 [HN #8] Elena, a library for building Progressive Web Components
+INFO     2026-08-02 07:34:23 [scraper.py:171] 🔗 [HN #8] URL: https://elenajs.com/
+INFO     2026-08-02 07:34:23 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-02 07:34:23 [scraper.py:170] 📥 [HN #9] Unraveling the mysteries of habit formation
+INFO     2026-08-02 07:34:23 [scraper.py:171] 🔗 [HN #9] URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28
+INFO     2026-08-02 07:34:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-02 07:34:23 [scraper.py:170] 📥 [HN #10] AI financial advice is surprisingly good, especially if you ask right questions
+INFO     2026-08-02 07:34:23 [scraper.py:171] 🔗 [HN #10] URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions
+INFO     2026-08-02 07:34:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-02 07:34:23 [scraper.py:178] 🎉 [HN] All done.
+
