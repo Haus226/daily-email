@@ -36514,3 +36514,36 @@ INFO     2026-08-02 11:16:33 [scraper.py:171] 🔗 [HN #10] URL: http://oldvcr.b
 INFO     2026-08-02 11:16:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-02 11:16:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-03 03:40:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-03 03:40:31 [scraper.py:170] 📥 [HN #1] Qwen3.8-Max: A New Bar for Coding and Cowork
+INFO     2026-08-03 03:40:31 [scraper.py:171] 🔗 [HN #1] URL: https://qwen.ai/blog?id=qwen3.8
+INFO     2026-08-03 03:40:31 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-03 03:40:32 [scraper.py:170] 📥 [HN #2] CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+INFO     2026-08-03 03:40:32 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/johnsonjh/cpm386
+INFO     2026-08-03 03:40:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-03 03:40:32 [scraper.py:170] 📥 [HN #3] Show HN: Isopolis – Isometric pixel map of SF
+INFO     2026-08-03 03:40:32 [scraper.py:171] 🔗 [HN #3] URL: https://sf.isopolis.city/
+INFO     2026-08-03 03:40:32 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-03 03:40:32 [scraper.py:170] 📥 [HN #4] Karpathy’s Pelican
+INFO     2026-08-03 03:40:32 [scraper.py:171] 🔗 [HN #4] URL: https://twitter.com/karpathy/status/2083749667410727319
+INFO     2026-08-03 03:40:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-03 03:40:33 [scraper.py:170] 📥 [HN #5] Show HN: ssh ssh.place
+INFO     2026-08-03 03:40:33 [scraper.py:171] 🔗 [HN #5] URL: https://ssh.place
+INFO     2026-08-03 03:40:33 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-03 03:40:33 [scraper.py:170] 📥 [HN #6] Why Book Corners won't sync contributions back to OpenStreetMap
+INFO     2026-08-03 03:40:33 [scraper.py:171] 🔗 [HN #6] URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
+INFO     2026-08-03 03:40:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-03 03:40:33 [scraper.py:170] 📥 [HN #7] Autoregressive Language Model on the 6502 Processor
+INFO     2026-08-03 03:40:33 [scraper.py:171] 🔗 [HN #7] URL: https://mattbeton.com/blog/bitnet-6502.html
+INFO     2026-08-03 03:40:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-03 03:40:33 [scraper.py:170] 📥 [HN #8] RFC 9851: TLS 1.2 is in Feature Freeze
+INFO     2026-08-03 03:40:33 [scraper.py:171] 🔗 [HN #8] URL: https://www.rfc-editor.org/rfc/rfc9851.html
+INFO     2026-08-03 03:40:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-03 03:40:34 [scraper.py:170] 📥 [HN #9] Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+INFO     2026-08-03 03:40:34 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/wie-project/kakehashi
+INFO     2026-08-03 03:40:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-03 03:40:34 [scraper.py:170] 📥 [HN #10] Note-Taking and Personal Knowledge Management
+INFO     2026-08-03 03:40:34 [scraper.py:171] 🔗 [HN #10] URL: https://unattributed.cc/note-taking-and-personal-knowledge-management
+INFO     2026-08-03 03:40:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-03 03:40:34 [scraper.py:178] 🎉 [HN] All done.
+
