@@ -36580,3 +36580,36 @@ INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-03 08:34:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-03 12:55:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-03 12:55:00 [scraper.py:170] 📥 [HN #1] Critical CVE issued for hallucinated SQLite vulnerability
+INFO     2026-08-03 12:55:00 [scraper.py:171] 🔗 [HN #1] URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
+INFO     2026-08-03 12:55:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-03 12:55:00 [scraper.py:170] 📥 [HN #2] Don't be a meat proxy
+INFO     2026-08-03 12:55:00 [scraper.py:171] 🔗 [HN #2] URL: https://gruhn.me/blog/2026-08-03/
+INFO     2026-08-03 12:55:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-03 12:55:00 [scraper.py:170] 📥 [HN #3] Qwen3.8-Max: A New Bar for Coding and Cowork
+INFO     2026-08-03 12:55:00 [scraper.py:171] 🔗 [HN #3] URL: https://qwen.ai/blog?id=qwen3.8
+INFO     2026-08-03 12:55:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-03 12:55:01 [scraper.py:170] 📥 [HN #4] Bonsai: Janestreet's UI Library
+INFO     2026-08-03 12:55:01 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/janestreet/bonsai
+INFO     2026-08-03 12:55:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-03 12:55:01 [scraper.py:170] 📥 [HN #5] Prevent cognitive debt by manually retyping LLM-generated code
+INFO     2026-08-03 12:55:01 [scraper.py:171] 🔗 [HN #5] URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+INFO     2026-08-03 12:55:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-03 12:55:01 [scraper.py:170] 📥 [HN #6] Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
+INFO     2026-08-03 12:55:01 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/garagehq/nightcrawler/
+INFO     2026-08-03 12:55:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-03 12:55:01 [scraper.py:170] 📥 [HN #7] Octane – React's programming model, compiled
+INFO     2026-08-03 12:55:01 [scraper.py:171] 🔗 [HN #7] URL: https://octanejs.dev
+INFO     2026-08-03 12:55:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-03 12:55:01 [scraper.py:170] 📥 [HN #8] Rust project goals: Immobile types and guaranteed destructors
+INFO     2026-08-03 12:55:01 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+INFO     2026-08-03 12:55:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-03 12:55:02 [scraper.py:170] 📥 [HN #9] ICE Collected Nearly 1M People's DNA Last Year–Including Young Children
+INFO     2026-08-03 12:55:02 [scraper.py:171] 🔗 [HN #9] URL: https://www.wired.com/story/ice-dna-collection-fbi-codis/
+INFO     2026-08-03 12:55:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-03 12:55:02 [scraper.py:170] 📥 [HN #10] The true power of regular expressions (2012)
+INFO     2026-08-03 12:55:02 [scraper.py:171] 🔗 [HN #10] URL: https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html
+INFO     2026-08-03 12:55:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-03 12:55:02 [scraper.py:178] 🎉 [HN] All done.
+
