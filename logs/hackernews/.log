@@ -36547,3 +36547,36 @@ INFO     2026-08-03 03:40:34 [scraper.py:171] 🔗 [HN #10] URL: https://unattri
 INFO     2026-08-03 03:40:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-03 03:40:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-03 08:34:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-03 08:34:25 [scraper.py:170] 📥 [HN #1] Don't be a meat proxy
+INFO     2026-08-03 08:34:25 [scraper.py:171] 🔗 [HN #1] URL: https://gruhn.me/blog/2026-08-03/
+INFO     2026-08-03 08:34:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-03 08:34:25 [scraper.py:170] 📥 [HN #2] Qwen3.8-Max: A New Bar for Coding and Cowork
+INFO     2026-08-03 08:34:25 [scraper.py:171] 🔗 [HN #2] URL: https://qwen.ai/blog?id=qwen3.8
+INFO     2026-08-03 08:34:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-03 08:34:25 [scraper.py:170] 📥 [HN #3] More German than many Germans
+INFO     2026-08-03 08:34:25 [scraper.py:171] 🔗 [HN #3] URL: https://mertbulan.com/more-german-than-many-germans/
+INFO     2026-08-03 08:34:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-03 08:34:25 [scraper.py:170] 📥 [HN #4] Rust project goals: Immobile types and guaranteed destructors
+INFO     2026-08-03 08:34:25 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+INFO     2026-08-03 08:34:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-03 08:34:25 [scraper.py:170] 📥 [HN #5] Show HN: Isopolis – Isometric pixel map of SF
+INFO     2026-08-03 08:34:25 [scraper.py:171] 🔗 [HN #5] URL: https://sf.isopolis.city/
+INFO     2026-08-03 08:34:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:170] 📥 [HN #6] Karpathy’s Pelican
+INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #6] URL: https://twitter.com/karpathy/status/2083749667410727319
+INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:170] 📥 [HN #7] AI migrated legacy COBOL programs to Java, bugs included
+INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2607.28271
+INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:170] 📥 [HN #8] Show HN: ssh ssh.place
+INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #8] URL: https://ssh.place
+INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:170] 📥 [HN #9] Why we write our own C and C++ inference engines
+INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #9] URL: https://localai.io/blog/why-we-write-our-own-engines/
+INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:170] 📥 [HN #10] CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+INFO     2026-08-03 08:34:26 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/johnsonjh/cpm386
+INFO     2026-08-03 08:34:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-03 08:34:26 [scraper.py:178] 🎉 [HN] All done.
+

@@ -5425,3 +5425,8 @@ INFO     2026-08-03 03:40:31 [scraper.py:47] 📥 [APOD] Title: A Fire Rainbow o
 INFO     2026-08-03 03:40:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg
 INFO     2026-08-03 03:40:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-03 08:34:24 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-03 08:34:24 [scraper.py:47] 📥 [APOD] Title: Vaporizing Meteor Photobombs the Lacerta Nebula
+INFO     2026-08-03 08:34:24 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg
+INFO     2026-08-03 08:34:24 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
