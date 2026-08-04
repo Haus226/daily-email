@@ -17222,3 +17222,24 @@ INFO     2026-08-04 07:43:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-04 07:43:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-04 12:02:03 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-04 12:02:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-04 12:02:06 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-04 12:02:06 [scraper.py:133] 📥 [EO] Title: A Bare Summer for Barnes Ice Cap
+INFO     2026-08-04 12:02:06 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapwide_oli2_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-04 12:02:06 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-04 12:02:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-04 12:02:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-04 12:02:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-04 12:02:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-04 12:02:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-04 12:02:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-04 12:02:07 [scraper.py:133] 📥 [EO] Title: A Bare Summer for Barnes Ice Cap
+INFO     2026-08-04 12:02:07 [scraper.py:133] 📥 [EO] Title: A Bare Summer for Barnes Ice Cap
+INFO     2026-08-04 12:02:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapwide_oli2_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-04 12:02:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bare-summer-for-barnes-ice-cap/barnesicecapwide_oli2_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-04 12:02:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-04 12:02:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
