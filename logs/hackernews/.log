@@ -36646,3 +36646,36 @@ INFO     2026-08-04 03:25:09 [scraper.py:171] 🔗 [HN #10] URL: https://blog.cl
 INFO     2026-08-04 03:25:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-04 03:25:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-04 07:43:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-04 07:43:10 [scraper.py:170] 📥 [HN #1] LLMs reward expertise
+INFO     2026-08-04 07:43:10 [scraper.py:171] 🔗 [HN #1] URL: https://www.seangoedecke.com/llms-reward-expertise/
+INFO     2026-08-04 07:43:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-04 07:43:11 [scraper.py:170] 📥 [HN #2] Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone
+INFO     2026-08-04 07:43:11 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/leonickson1/Swiftlet
+INFO     2026-08-04 07:43:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-04 07:43:11 [scraper.py:170] 📥 [HN #3] Amazonian civilization had estimated 3M people in 3% of forest area
+INFO     2026-08-04 07:43:11 [scraper.py:171] 🔗 [HN #3] URL: https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
+INFO     2026-08-04 07:43:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-04 07:43:11 [scraper.py:170] 📥 [HN #4] Ten advances in mathematics and theoretical computer science
+INFO     2026-08-04 07:43:11 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/ten-advances-in-mathematics/
+INFO     2026-08-04 07:43:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-04 07:43:11 [scraper.py:170] 📥 [HN #5] Devtools must be open source
+INFO     2026-08-04 07:43:11 [scraper.py:171] 🔗 [HN #5] URL: https://blog.exe.dev/devtools-must-be-open-source
+INFO     2026-08-04 07:43:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-04 07:43:11 [scraper.py:170] 📥 [HN #6] Apple is getting this wrong
+INFO     2026-08-04 07:43:11 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/apple-is-getting-this-wrong/
+INFO     2026-08-04 07:43:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-04 07:43:12 [scraper.py:170] 📥 [HN #7] CollectWise (YC F24) Is Hiring
+INFO     2026-08-04 07:43:12 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer
+INFO     2026-08-04 07:43:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-04 07:43:12 [scraper.py:170] 📥 [HN #8] There Will Come Soft Rains (1950) [pdf]
+INFO     2026-08-04 07:43:12 [scraper.py:171] 🔗 [HN #8] URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
+INFO     2026-08-04 07:43:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-04 07:43:12 [scraper.py:170] 📥 [HN #9] Ask HN: Who is hiring? (August 2026)
+INFO     2026-08-04 07:43:12 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=49156683
+INFO     2026-08-04 07:43:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-04 07:43:12 [scraper.py:170] 📥 [HN #10] That time when I failed the Microsoft interview
+INFO     2026-08-04 07:43:12 [scraper.py:171] 🔗 [HN #10] URL: https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/
+INFO     2026-08-04 07:43:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-04 07:43:12 [scraper.py:178] 🎉 [HN] All done.
+
