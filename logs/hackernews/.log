@@ -36745,3 +36745,36 @@ INFO     2026-08-05 03:20:23 [scraper.py:171] 🔗 [HN #10] URL: https://twitter
 INFO     2026-08-05 03:20:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-05 03:20:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-05 07:44:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-05 07:44:17 [scraper.py:170] 📥 [HN #1] Stateless MCP has recaptured my interest
+INFO     2026-08-05 07:44:17 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2026/Jul/31/stateless-mcp/
+INFO     2026-08-05 07:44:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-05 07:44:18 [scraper.py:170] 📥 [HN #2] Pi's Minimalism Is Its Advantage
+INFO     2026-08-05 07:44:18 [scraper.py:171] 🔗 [HN #2] URL: https://earendil.com/posts/pi-autoresearch-and-databricks/
+INFO     2026-08-05 07:44:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-05 07:44:18 [scraper.py:170] 📥 [HN #3] The Golden Age of British Ice Cream
+INFO     2026-08-05 07:44:18 [scraper.py:171] 🔗 [HN #3] URL: https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream
+INFO     2026-08-05 07:44:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-05 07:44:18 [scraper.py:170] 📥 [HN #4] "Gravity is worth asking about."
+INFO     2026-08-05 07:44:18 [scraper.py:171] 🔗 [HN #4] URL: https://unsung.aresluna.org/gravity-is-worth-asking-about/
+INFO     2026-08-05 07:44:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-05 07:44:18 [scraper.py:170] 📥 [HN #5] Zero-Mem: Zero-Token Memory Operations for LLM Agents
+INFO     2026-08-05 07:44:18 [scraper.py:171] 🔗 [HN #5] URL: https://arxiv.org/abs/2607.29377
+INFO     2026-08-05 07:44:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-05 07:44:18 [scraper.py:170] 📥 [HN #6] Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+INFO     2026-08-05 07:44:18 [scraper.py:171] 🔗 [HN #6] URL: https://mistral.ai/news/shieldstral/
+INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-05 07:44:19 [scraper.py:170] 📥 [HN #7] IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+INFO     2026-08-05 07:44:19 [scraper.py:171] 🔗 [HN #7] URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
+INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-05 07:44:19 [scraper.py:170] 📥 [HN #8] Eight Myths on Software Engineering and GenAI
+INFO     2026-08-05 07:44:19 [scraper.py:171] 🔗 [HN #8] URL: https://queue.acm.org/detail.cfm?id=3807963
+INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-05 07:44:19 [scraper.py:170] 📥 [HN #9] Show HN: Simple algorithm and color space to generate diverse skin tones
+INFO     2026-08-05 07:44:19 [scraper.py:171] 🔗 [HN #9] URL: https://toneyalexander.github.io/inclusive-color-space/
+INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-05 07:44:19 [scraper.py:170] 📥 [HN #10] Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone
+INFO     2026-08-05 07:44:19 [scraper.py:171] 🔗 [HN #10] URL: https://deepgrove.ai/maple-preview
+INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-05 07:44:19 [scraper.py:178] 🎉 [HN] All done.
+
