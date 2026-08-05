@@ -36778,3 +36778,36 @@ INFO     2026-08-05 07:44:19 [scraper.py:171] 🔗 [HN #10] URL: https://deepgro
 INFO     2026-08-05 07:44:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-05 07:44:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-05 11:59:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-05 11:59:46 [scraper.py:170] 📥 [HN #1] Position: LLMs Can't Jump
+INFO     2026-08-05 11:59:46 [scraper.py:171] 🔗 [HN #1] URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
+INFO     2026-08-05 11:59:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-05 11:59:46 [scraper.py:170] 📥 [HN #2] Civilian plane crash in New Mexico tied to military GPS blocking
+INFO     2026-08-05 11:59:46 [scraper.py:171] 🔗 [HN #2] URL: https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/
+INFO     2026-08-05 11:59:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-05 11:59:47 [scraper.py:170] 📥 [HN #3] Stateless MCP has recaptured my interest
+INFO     2026-08-05 11:59:47 [scraper.py:171] 🔗 [HN #3] URL: https://simonwillison.net/2026/Jul/31/stateless-mcp/
+INFO     2026-08-05 11:59:47 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-05 11:59:47 [scraper.py:170] 📥 [HN #4] Helsinki Hacker News Meetup
+INFO     2026-08-05 11:59:47 [scraper.py:171] 🔗 [HN #4] URL: https://calpaterson.com/helsinki-hn.html
+INFO     2026-08-05 11:59:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-05 11:59:47 [scraper.py:170] 📥 [HN #5] “Gravity is worth asking about”
+INFO     2026-08-05 11:59:47 [scraper.py:171] 🔗 [HN #5] URL: https://unsung.aresluna.org/gravity-is-worth-asking-about/
+INFO     2026-08-05 11:59:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-05 11:59:47 [scraper.py:170] 📥 [HN #6] Pi's Minimalism Is Its Advantage
+INFO     2026-08-05 11:59:47 [scraper.py:171] 🔗 [HN #6] URL: https://earendil.com/posts/pi-autoresearch-and-databricks/
+INFO     2026-08-05 11:59:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-05 11:59:48 [scraper.py:170] 📥 [HN #7] Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+INFO     2026-08-05 11:59:48 [scraper.py:171] 🔗 [HN #7] URL: https://mistral.ai/news/shieldstral/
+INFO     2026-08-05 11:59:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-05 11:59:48 [scraper.py:170] 📥 [HN #8] Birduino: A card-triggered audio player for [learning] the birds
+INFO     2026-08-05 11:59:48 [scraper.py:171] 🔗 [HN #8] URL: https://hannahilea.com/blog/birduino/
+INFO     2026-08-05 11:59:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-05 11:59:48 [scraper.py:170] 📥 [HN #9] Show HN: Simple algorithm and color space to generate diverse skin tones
+INFO     2026-08-05 11:59:48 [scraper.py:171] 🔗 [HN #9] URL: https://toneyalexander.github.io/inclusive-color-space/
+INFO     2026-08-05 11:59:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-05 11:59:48 [scraper.py:170] 📥 [HN #10] Scaling NumPy on Free-Threaded Python
+INFO     2026-08-05 11:59:48 [scraper.py:171] 🔗 [HN #10] URL: https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python
+INFO     2026-08-05 11:59:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-05 11:59:48 [scraper.py:178] 🎉 [HN] All done.
+
