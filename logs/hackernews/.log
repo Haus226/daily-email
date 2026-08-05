@@ -36712,3 +36712,36 @@ INFO     2026-08-04 12:02:09 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-08-04 12:02:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-04 12:02:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-05 03:20:20 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-05 03:20:21 [scraper.py:170] 📥 [HN #1] libexpat now funded by the City of Munich for up to 6 months
+INFO     2026-08-05 03:20:21 [scraper.py:171] 🔗 [HN #1] URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
+INFO     2026-08-05 03:20:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-05 03:20:21 [scraper.py:170] 📥 [HN #2] Eight Myths on Software Engineering and GenAI
+INFO     2026-08-05 03:20:21 [scraper.py:171] 🔗 [HN #2] URL: https://queue.acm.org/detail.cfm?id=3807963
+INFO     2026-08-05 03:20:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-05 03:20:21 [scraper.py:170] 📥 [HN #3] Pi's Minimalism Is Its Advantage
+INFO     2026-08-05 03:20:21 [scraper.py:171] 🔗 [HN #3] URL: https://earendil.com/posts/pi-autoresearch-and-databricks/
+INFO     2026-08-05 03:20:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-05 03:20:22 [scraper.py:170] 📥 [HN #4] Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+INFO     2026-08-05 03:20:22 [scraper.py:171] 🔗 [HN #4] URL: https://mistral.ai/news/shieldstral/
+INFO     2026-08-05 03:20:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-05 03:20:22 [scraper.py:170] 📥 [HN #5] IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+INFO     2026-08-05 03:20:22 [scraper.py:171] 🔗 [HN #5] URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
+INFO     2026-08-05 03:20:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-05 03:20:22 [scraper.py:170] 📥 [HN #6] DuckDB – Data power tools for your laptop, now in Clojure (2023)
+INFO     2026-08-05 03:20:22 [scraper.py:171] 🔗 [HN #6] URL: https://techascent.com/blog/just-ducking-around.html
+INFO     2026-08-05 03:20:22 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-05 03:20:22 [scraper.py:170] 📥 [HN #7] After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+INFO     2026-08-05 03:20:22 [scraper.py:171] 🔗 [HN #7] URL: https://www.asiae.co.kr/en/article/2026080416131786841
+INFO     2026-08-05 03:20:22 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-05 03:20:23 [scraper.py:170] 📥 [HN #8] Bugtraq Is Back
+INFO     2026-08-05 03:20:23 [scraper.py:171] 🔗 [HN #8] URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/
+INFO     2026-08-05 03:20:23 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-05 03:20:23 [scraper.py:170] 📥 [HN #9] Show HN: Simple algorithm and color space to generate diverse skin tones
+INFO     2026-08-05 03:20:23 [scraper.py:171] 🔗 [HN #9] URL: https://toneyalexander.github.io/inclusive-color-space/
+INFO     2026-08-05 03:20:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-05 03:20:23 [scraper.py:170] 📥 [HN #10] I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
+INFO     2026-08-05 03:20:23 [scraper.py:171] 🔗 [HN #10] URL: https://twitter.com/gwern/status/2084739205071343837
+INFO     2026-08-05 03:20:23 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-05 03:20:23 [scraper.py:178] 🎉 [HN] All done.
+
