@@ -36811,3 +36811,36 @@ INFO     2026-08-05 11:59:48 [scraper.py:171] 🔗 [HN #10] URL: https://labs.qu
 INFO     2026-08-05 11:59:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-05 11:59:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-06 03:23:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-06 03:23:11 [scraper.py:170] 📥 [HN #1] Nashville uses eminent domain to block data center near zoo
+INFO     2026-08-06 03:23:11 [scraper.py:171] 🔗 [HN #1] URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
+INFO     2026-08-06 03:23:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-06 03:23:11 [scraper.py:170] 📥 [HN #2] LLMs won't break symmetric crypto
+INFO     2026-08-06 03:23:11 [scraper.py:171] 🔗 [HN #2] URL: https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto
+INFO     2026-08-06 03:23:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-06 03:23:12 [scraper.py:170] 📥 [HN #3] Discovery Loop
+INFO     2026-08-06 03:23:12 [scraper.py:171] 🔗 [HN #3] URL: https://www.discoveryloop.com/
+INFO     2026-08-06 03:23:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-06 03:23:12 [scraper.py:170] 📥 [HN #4] Zed DeltaDB
+INFO     2026-08-06 03:23:12 [scraper.py:171] 🔗 [HN #4] URL: https://zed.dev/deltadb
+INFO     2026-08-06 03:23:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-06 03:23:12 [scraper.py:170] 📥 [HN #5] The title cards in Blade Runner are amazing
+INFO     2026-08-06 03:23:12 [scraper.py:171] 🔗 [HN #5] URL: https://randsinrepose.com/archives/blade-runner-title-cards/
+INFO     2026-08-06 03:23:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-06 03:23:12 [scraper.py:170] 📥 [HN #6] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+INFO     2026-08-06 03:23:12 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+INFO     2026-08-06 03:23:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-06 03:23:13 [scraper.py:170] 📥 [HN #7] Muse Code and Muse Spark 1.2
+INFO     2026-08-06 03:23:13 [scraper.py:171] 🔗 [HN #7] URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+INFO     2026-08-06 03:23:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-06 03:23:13 [scraper.py:170] 📥 [HN #8] Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+INFO     2026-08-06 03:23:13 [scraper.py:171] 🔗 [HN #8] URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
+INFO     2026-08-06 03:23:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-06 03:23:13 [scraper.py:170] 📥 [HN #9] Prime Agent: A self-improving RLM agent
+INFO     2026-08-06 03:23:13 [scraper.py:171] 🔗 [HN #9] URL: https://www.primeintellect.ai/blog/prime-agent
+INFO     2026-08-06 03:23:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-06 03:23:13 [scraper.py:170] 📥 [HN #10] Born Against, or why hobby programming communities are against LLM usage
+INFO     2026-08-06 03:23:13 [scraper.py:171] 🔗 [HN #10] URL: https://blog.fogus.me/llm/born-against.html
+INFO     2026-08-06 03:23:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-06 03:23:13 [scraper.py:178] 🎉 [HN] All done.
+
