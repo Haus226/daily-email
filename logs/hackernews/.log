@@ -36877,3 +36877,36 @@ INFO     2026-08-06 07:43:32 [scraper.py:171] 🔗 [HN #10] URL: https://quanteg
 INFO     2026-08-06 07:43:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-06 07:43:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-06 12:02:30 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-06 12:02:31 [scraper.py:170] 📥 [HN #1] How to Make a Nintendo 64 Game in 2026
+INFO     2026-08-06 12:02:31 [scraper.py:171] 🔗 [HN #1] URL: https://phoboslab.org/log/2026/08/xibalba64-making-of
+INFO     2026-08-06 12:02:31 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-06 12:02:31 [scraper.py:170] 📥 [HN #2] Crime Pays but Botany Doesn't
+INFO     2026-08-06 12:02:31 [scraper.py:171] 🔗 [HN #2] URL: https://www.crimepaysbutbotanydoesnt.com/reading-list
+INFO     2026-08-06 12:02:31 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-06 12:02:31 [scraper.py:170] 📥 [HN #3] Pareto Front
+INFO     2026-08-06 12:02:31 [scraper.py:171] 🔗 [HN #3] URL: https://en.wikipedia.org/wiki/Pareto_front
+INFO     2026-08-06 12:02:31 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-06 12:02:31 [scraper.py:170] 📥 [HN #4] Let's all meet up in the Y2K
+INFO     2026-08-06 12:02:31 [scraper.py:171] 🔗 [HN #4] URL: https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/
+INFO     2026-08-06 12:02:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-06 12:02:32 [scraper.py:170] 📥 [HN #5] Discovery Loop
+INFO     2026-08-06 12:02:32 [scraper.py:171] 🔗 [HN #5] URL: https://www.discoveryloop.com/
+INFO     2026-08-06 12:02:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-06 12:02:32 [scraper.py:170] 📥 [HN #6] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+INFO     2026-08-06 12:02:32 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+INFO     2026-08-06 12:02:32 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-06 12:02:33 [scraper.py:170] 📥 [HN #7] Zed DeltaDB
+INFO     2026-08-06 12:02:33 [scraper.py:171] 🔗 [HN #7] URL: https://zed.dev/deltadb
+INFO     2026-08-06 12:02:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-06 12:02:33 [scraper.py:170] 📥 [HN #8] The title cards in Blade Runner are amazing
+INFO     2026-08-06 12:02:33 [scraper.py:171] 🔗 [HN #8] URL: https://randsinrepose.com/archives/blade-runner-title-cards/
+INFO     2026-08-06 12:02:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-06 12:02:33 [scraper.py:170] 📥 [HN #9] On non-rooted Android 17, ADB uninstall of system apps fails
+INFO     2026-08-06 12:02:33 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426
+INFO     2026-08-06 12:02:33 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-06 12:02:33 [scraper.py:170] 📥 [HN #10] How Americans View Capitalism, Socialism and Free Enterprise
+INFO     2026-08-06 12:02:33 [scraper.py:171] 🔗 [HN #10] URL: https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx
+INFO     2026-08-06 12:02:33 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-06 12:02:33 [scraper.py:178] 🎉 [HN] All done.
+
