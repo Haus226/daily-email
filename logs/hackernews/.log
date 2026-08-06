@@ -36844,3 +36844,36 @@ INFO     2026-08-06 03:23:13 [scraper.py:171] 🔗 [HN #10] URL: https://blog.fo
 INFO     2026-08-06 03:23:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-06 03:23:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-06 07:43:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-06 07:43:30 [scraper.py:170] 📥 [HN #1] Crime Pays but Botany Doesn't
+INFO     2026-08-06 07:43:30 [scraper.py:171] 🔗 [HN #1] URL: https://www.crimepaysbutbotanydoesnt.com/reading-list
+INFO     2026-08-06 07:43:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-06 07:43:30 [scraper.py:170] 📥 [HN #2] Discovery Loop
+INFO     2026-08-06 07:43:30 [scraper.py:171] 🔗 [HN #2] URL: https://www.discoveryloop.com/
+INFO     2026-08-06 07:43:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-06 07:43:30 [scraper.py:170] 📥 [HN #3] Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+INFO     2026-08-06 07:43:30 [scraper.py:171] 🔗 [HN #3] URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+INFO     2026-08-06 07:43:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-06 07:43:31 [scraper.py:170] 📥 [HN #4] Zed DeltaDB
+INFO     2026-08-06 07:43:31 [scraper.py:171] 🔗 [HN #4] URL: https://zed.dev/deltadb
+INFO     2026-08-06 07:43:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-06 07:43:31 [scraper.py:170] 📥 [HN #5] Branchless Rust: Making a Filter 4x Faster by Removing an If
+INFO     2026-08-06 07:43:31 [scraper.py:171] 🔗 [HN #5] URL: https://www.greyblake.com/blog/branchless-rust/
+INFO     2026-08-06 07:43:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-06 07:43:31 [scraper.py:170] 📥 [HN #6] Nashville uses eminent domain to block data center near zoo
+INFO     2026-08-06 07:43:31 [scraper.py:171] 🔗 [HN #6] URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project
+INFO     2026-08-06 07:43:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-06 07:43:31 [scraper.py:170] 📥 [HN #7] The title cards in Blade Runner are amazing
+INFO     2026-08-06 07:43:31 [scraper.py:171] 🔗 [HN #7] URL: https://randsinrepose.com/archives/blade-runner-title-cards/
+INFO     2026-08-06 07:43:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-06 07:43:32 [scraper.py:170] 📥 [HN #8] Muse Code and Muse Spark 1.2
+INFO     2026-08-06 07:43:32 [scraper.py:171] 🔗 [HN #8] URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+INFO     2026-08-06 07:43:32 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-06 07:43:32 [scraper.py:170] 📥 [HN #9] Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+INFO     2026-08-06 07:43:32 [scraper.py:171] 🔗 [HN #9] URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
+INFO     2026-08-06 07:43:32 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-06 07:43:32 [scraper.py:170] 📥 [HN #10] Quantego: A Family of Lego Models of IBM Quantum Computers
+INFO     2026-08-06 07:43:32 [scraper.py:171] 🔗 [HN #10] URL: https://quantego.org/
+INFO     2026-08-06 07:43:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-06 07:43:32 [scraper.py:178] 🎉 [HN] All done.
+
