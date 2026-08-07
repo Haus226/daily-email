@@ -36910,3 +36910,36 @@ INFO     2026-08-06 12:02:33 [scraper.py:171] 🔗 [HN #10] URL: https://news.ga
 INFO     2026-08-06 12:02:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-06 12:02:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-07 03:09:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-07 03:09:59 [scraper.py:170] 📥 [HN #1] AMD acquires Taalas to boost inference performance by etching models in silicon
+INFO     2026-08-07 03:09:59 [scraper.py:171] 🔗 [HN #1] URL: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
+INFO     2026-08-07 03:09:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-07 03:09:59 [scraper.py:170] 📥 [HN #2] Mario Meets Pareto
+INFO     2026-08-07 03:09:59 [scraper.py:171] 🔗 [HN #2] URL: https://www.mayerowitz.io/blog/mario-meets-pareto
+INFO     2026-08-07 03:09:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-07 03:09:59 [scraper.py:170] 📥 [HN #3] Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun
+INFO     2026-08-07 03:09:59 [scraper.py:171] 🔗 [HN #3] URL: https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/
+INFO     2026-08-07 03:09:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-07 03:09:59 [scraper.py:170] 📥 [HN #4] I stopped trusting USB-C cable labels and started testing them
+INFO     2026-08-07 03:09:59 [scraper.py:171] 🔗 [HN #4] URL: https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/
+INFO     2026-08-07 03:09:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-07 03:10:00 [scraper.py:170] 📥 [HN #5] Welcoming the Nepalese Government to Have I Been Pwned
+INFO     2026-08-07 03:10:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/
+INFO     2026-08-07 03:10:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-07 03:10:00 [scraper.py:170] 📥 [HN #6] Taste Is All That's Left
+INFO     2026-08-07 03:10:00 [scraper.py:171] 🔗 [HN #6] URL: https://notashelf.dev/posts/taste-is-all-thats-left
+INFO     2026-08-07 03:10:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-07 03:10:00 [scraper.py:170] 📥 [HN #7] Bioengineered chewing gum may offer a way to fight HPV and other microbes
+INFO     2026-08-07 03:10:00 [scraper.py:171] 🔗 [HN #7] URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm
+INFO     2026-08-07 03:10:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-07 03:10:00 [scraper.py:170] 📥 [HN #8] Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)
+INFO     2026-08-07 03:10:00 [scraper.py:171] 🔗 [HN #8] URL: https://www.aleksagordic.com/blog/vllm
+INFO     2026-08-07 03:10:00 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-07 03:10:01 [scraper.py:170] 📥 [HN #9] Herdr is joining Y Combinator. The runtime stays open
+INFO     2026-08-07 03:10:01 [scraper.py:171] 🔗 [HN #9] URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/
+INFO     2026-08-07 03:10:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-07 03:10:01 [scraper.py:170] 📥 [HN #10] Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users
+INFO     2026-08-07 03:10:01 [scraper.py:171] 🔗 [HN #10] URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
+INFO     2026-08-07 03:10:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-07 03:10:01 [scraper.py:178] 🎉 [HN] All done.
+
