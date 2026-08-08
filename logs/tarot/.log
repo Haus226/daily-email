@@ -5593,3 +5593,8 @@ INFO     2026-08-08 05:45:06 [scraper.py:390] 📥 [TAROT] Card: Ace of Wands
 INFO     2026-08-08 05:45:06 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-08-08 05:45:06 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-08-08 10:33:39 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-08-08 10:33:39 [scraper.py:390] 📥 [TAROT] Card: Ace of Wands
+INFO     2026-08-08 10:33:39 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-08-08 10:33:39 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
