@@ -37009,3 +37009,36 @@ INFO     2026-08-07 10:52:30 [scraper.py:171] 🔗 [HN #10] URL: https://www.mak
 INFO     2026-08-07 10:52:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-07 10:52:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-08 02:06:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-08 02:06:19 [scraper.py:170] 📥 [HN #1] The Nixpkgs core team has disbanded
+INFO     2026-08-08 02:06:19 [scraper.py:171] 🔗 [HN #1] URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413
+INFO     2026-08-08 02:06:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-08 02:06:20 [scraper.py:170] 📥 [HN #2] DeepSeek V4 Flash 0731
+INFO     2026-08-08 02:06:20 [scraper.py:171] 🔗 [HN #2] URL: https://arcprize.org/results/deepseek-v4-flash-0731
+INFO     2026-08-08 02:06:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-08 02:06:20 [scraper.py:170] 📥 [HN #3] U.S. Department of Energy Launches the Genesis Open Models Initiative
+INFO     2026-08-08 02:06:20 [scraper.py:171] 🔗 [HN #3] URL: https://genesisopenmodels.anl.gov/
+INFO     2026-08-08 02:06:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-08 02:06:20 [scraper.py:170] 📥 [HN #4] Assembly Hall of Shame
+INFO     2026-08-08 02:06:20 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame
+INFO     2026-08-08 02:06:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-08 02:06:20 [scraper.py:170] 📥 [HN #5] Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
+INFO     2026-08-08 02:06:20 [scraper.py:171] 🔗 [HN #5] URL: https://ancientlibrary.net/
+INFO     2026-08-08 02:06:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:170] 📥 [HN #6] What happens if an entire class of workers loses faith in their careers
+INFO     2026-08-08 02:06:21 [scraper.py:171] 🔗 [HN #6] URL: https://www.noemamag.com/why-is-everyone-in-tech-so-sad/
+INFO     2026-08-08 02:06:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:170] 📥 [HN #7] Responding to the next frontier of critical cyber capabilities
+INFO     2026-08-08 02:06:21 [scraper.py:171] 🔗 [HN #7] URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
+INFO     2026-08-08 02:06:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:170] 📥 [HN #8] Oracle bans AI-generated code from OpenJDK
+INFO     2026-08-08 02:06:21 [scraper.py:171] 🔗 [HN #8] URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
+INFO     2026-08-08 02:06:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:170] 📥 [HN #9] Managing AI Coding Costs at Scale
+INFO     2026-08-08 02:06:21 [scraper.py:171] 🔗 [HN #9] URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale
+INFO     2026-08-08 02:06:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:170] 📥 [HN #10] An all-sky map of half a million supermassive black holes
+INFO     2026-08-08 02:06:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.sdss.org/black-hole-mapper-release-20/
+INFO     2026-08-08 02:06:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-08 02:06:21 [scraper.py:178] 🎉 [HN] All done.
+
