@@ -37108,3 +37108,36 @@ INFO     2026-08-08 10:33:41 [scraper.py:171] 🔗 [HN #10] URL: https://ancient
 INFO     2026-08-08 10:33:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-08 10:33:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-09 02:18:47 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-09 02:18:47 [scraper.py:170] 📥 [HN #1] My server is a phone now
+INFO     2026-08-09 02:18:47 [scraper.py:171] 🔗 [HN #1] URL: https://seg6.space/posts/phone-server/
+INFO     2026-08-09 02:18:47 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-09 02:18:47 [scraper.py:170] 📥 [HN #2] Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+INFO     2026-08-09 02:18:47 [scraper.py:171] 🔗 [HN #2] URL: https://os8088.com/
+INFO     2026-08-09 02:18:47 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-09 02:18:48 [scraper.py:170] 📥 [HN #3] Improving Heuristics for A* Pathfinding
+INFO     2026-08-09 02:18:48 [scraper.py:171] 🔗 [HN #3] URL: https://www.redblobgames.com/pathfinding/heuristics/differential.html
+INFO     2026-08-09 02:18:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-09 02:18:48 [scraper.py:170] 📥 [HN #4] Fastmail offers EU data region
+INFO     2026-08-09 02:18:48 [scraper.py:171] 🔗 [HN #4] URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+INFO     2026-08-09 02:18:48 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-09 02:18:48 [scraper.py:170] 📥 [HN #5] Shopify replaced Redis with MySQL for inventory reservations–and it scaled
+INFO     2026-08-09 02:18:48 [scraper.py:171] 🔗 [HN #5] URL: https://shopify.engineering/scaling-inventory-reservations
+INFO     2026-08-09 02:18:48 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-09 02:18:48 [scraper.py:170] 📥 [HN #6] _for-sale DNS records
+INFO     2026-08-09 02:18:48 [scraper.py:171] 🔗 [HN #6] URL: https://specification.website/spec/foundations/for-sale-dns/
+INFO     2026-08-09 02:18:48 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-09 02:18:48 [scraper.py:170] 📥 [HN #7] The Sound and Music of 'Hyper Light Drifter' [video]
+INFO     2026-08-09 02:18:48 [scraper.py:171] 🔗 [HN #7] URL: https://gdcvault.com/play/1024135/The-Sound-and-Music-of
+INFO     2026-08-09 02:18:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-09 02:18:49 [scraper.py:170] 📥 [HN #8] Open-source interactive map for the Aug 12 total solar eclipse
+INFO     2026-08-09 02:18:49 [scraper.py:171] 🔗 [HN #8] URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute
+INFO     2026-08-09 02:18:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-09 02:18:49 [scraper.py:170] 📥 [HN #9] Dithered QR Codes
+INFO     2026-08-09 02:18:49 [scraper.py:171] 🔗 [HN #9] URL: https://www.andrewt.net/dithered-qr-codes/wtf/
+INFO     2026-08-09 02:18:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-09 02:18:50 [scraper.py:170] 📥 [HN #10] Can Intel finally beat ARM on performance per Watt?
+INFO     2026-08-09 02:18:50 [scraper.py:171] 🔗 [HN #10] URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/
+INFO     2026-08-09 02:18:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-09 02:18:50 [scraper.py:178] 🎉 [HN] All done.
+
