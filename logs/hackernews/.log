@@ -37141,3 +37141,36 @@ INFO     2026-08-09 02:18:50 [scraper.py:171] 🔗 [HN #10] URL: https://hackada
 INFO     2026-08-09 02:18:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-09 02:18:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-09 05:50:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-09 05:50:06 [scraper.py:170] 📥 [HN #1] "The original URL for this prediction will no longer be available in 11 years." (2011)
+INFO     2026-08-09 05:50:06 [scraper.py:171] 🔗 [HN #1] URL: https://longbets.org/601/
+INFO     2026-08-09 05:50:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-09 05:50:06 [scraper.py:170] 📥 [HN #2] My server is a phone now
+INFO     2026-08-09 05:50:06 [scraper.py:171] 🔗 [HN #2] URL: https://seg6.space/posts/phone-server/
+INFO     2026-08-09 05:50:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-09 05:50:06 [scraper.py:170] 📥 [HN #3] Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+INFO     2026-08-09 05:50:06 [scraper.py:171] 🔗 [HN #3] URL: https://os8088.com/
+INFO     2026-08-09 05:50:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-09 05:50:06 [scraper.py:170] 📥 [HN #4] Improving Heuristics for A* Pathfinding
+INFO     2026-08-09 05:50:06 [scraper.py:171] 🔗 [HN #4] URL: https://www.redblobgames.com/pathfinding/heuristics/differential.html
+INFO     2026-08-09 05:50:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-09 05:50:06 [scraper.py:170] 📥 [HN #5] Dithered QR Codes
+INFO     2026-08-09 05:50:06 [scraper.py:171] 🔗 [HN #5] URL: https://www.andrewt.net/dithered-qr-codes/wtf/
+INFO     2026-08-09 05:50:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-09 05:50:07 [scraper.py:170] 📥 [HN #6] Shopify replaced Redis with MySQL for inventory reservations–and it scaled
+INFO     2026-08-09 05:50:07 [scraper.py:171] 🔗 [HN #6] URL: https://shopify.engineering/scaling-inventory-reservations
+INFO     2026-08-09 05:50:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-09 05:50:07 [scraper.py:170] 📥 [HN #7] Fastmail offers EU data region
+INFO     2026-08-09 05:50:07 [scraper.py:171] 🔗 [HN #7] URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+INFO     2026-08-09 05:50:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-09 05:50:08 [scraper.py:170] 📥 [HN #8] Melatonin impairs morning cognition in healthy young adults
+INFO     2026-08-09 05:50:08 [scraper.py:171] 🔗 [HN #8] URL: https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621
+INFO     2026-08-09 05:50:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-09 05:50:08 [scraper.py:170] 📥 [HN #9] Incentives Are for Losers
+INFO     2026-08-09 05:50:08 [scraper.py:171] 🔗 [HN #9] URL: https://www.experimental-history.com/p/incentives-are-for-losers
+INFO     2026-08-09 05:50:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-09 05:50:08 [scraper.py:170] 📥 [HN #10] Unexpected events and prosocial behavior: the Batman effect
+INFO     2026-08-09 05:50:08 [scraper.py:171] 🔗 [HN #10] URL: https://www.nature.com/articles/s44184-025-00171-5
+INFO     2026-08-09 05:50:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-09 05:50:08 [scraper.py:178] 🎉 [HN] All done.
+
