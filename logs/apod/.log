@@ -5520,3 +5520,8 @@ INFO     2026-08-09 05:50:06 [scraper.py:47] 📥 [APOD] Title: Contemplating th
 INFO     2026-08-09 05:50:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg
 INFO     2026-08-09 05:50:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-09 10:35:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-09 10:35:09 [scraper.py:47] 📥 [APOD] Title: Contemplating the Sun
+INFO     2026-08-09 10:35:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg
+INFO     2026-08-09 10:35:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
