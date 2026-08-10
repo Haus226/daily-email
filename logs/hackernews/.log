@@ -37273,3 +37273,36 @@ INFO     2026-08-10 06:14:00 [scraper.py:171] 🔗 [HN #10] URL: https://www.nbe
 INFO     2026-08-10 06:14:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-10 06:14:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-10 11:08:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-10 11:08:50 [scraper.py:170] 📥 [HN #1] Meta Muse Glimmer – open weights 30B local coding model
+INFO     2026-08-10 11:08:50 [scraper.py:171] 🔗 [HN #1] URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+INFO     2026-08-10 11:08:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-10 11:08:50 [scraper.py:170] 📥 [HN #2] Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+INFO     2026-08-10 11:08:50 [scraper.py:171] 🔗 [HN #2] URL: https://www.docker.com/products/docker-sandboxes/
+INFO     2026-08-10 11:08:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-10 11:08:51 [scraper.py:170] 📥 [HN #3] What Happened to HackerOne?
+INFO     2026-08-10 11:08:51 [scraper.py:171] 🔗 [HN #3] URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/
+INFO     2026-08-10 11:08:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-10 11:08:51 [scraper.py:170] 📥 [HN #4] Tail-Call Interpreters in Rust – Jimmy Ostler
+INFO     2026-08-10 11:08:51 [scraper.py:171] 🔗 [HN #4] URL: https://lordgoati.us/blog/tail-call/
+INFO     2026-08-10 11:08:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-10 11:08:51 [scraper.py:170] 📥 [HN #5] Run Android ARM64 VR APKs on Apple Vision Pro
+INFO     2026-08-10 11:08:51 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/shinyquagsire23/Klepton
+INFO     2026-08-10 11:08:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-10 11:08:51 [scraper.py:170] 📥 [HN #6] One Email, Three Identities: SPF, DKIM and DMARC Explained
+INFO     2026-08-10 11:08:51 [scraper.py:171] 🔗 [HN #6] URL: https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc
+INFO     2026-08-10 11:08:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-10 11:08:51 [scraper.py:170] 📥 [HN #7] Show HN: Voice driven murder mystery, Interview AI suspects with your voice
+INFO     2026-08-10 11:08:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.whodunnitai.com/
+INFO     2026-08-10 11:08:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-10 11:08:52 [scraper.py:170] 📥 [HN #8] An Interesting Fourier Transform – 1/F Noise
+INFO     2026-08-10 11:08:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.dsprelated.com/showarticle/40.php
+INFO     2026-08-10 11:08:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-10 11:08:52 [scraper.py:170] 📥 [HN #9] How I use LLMs to learn complex topics
+INFO     2026-08-10 11:08:52 [scraper.py:171] 🔗 [HN #9] URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
+INFO     2026-08-10 11:08:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-10 11:08:52 [scraper.py:170] 📥 [HN #10] Taxi drivers rarely die of Alzheimer's
+INFO     2026-08-10 11:08:52 [scraper.py:171] 🔗 [HN #10] URL: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
+INFO     2026-08-10 11:08:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-10 11:08:52 [scraper.py:178] 🎉 [HN] All done.
+
