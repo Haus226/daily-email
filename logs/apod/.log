@@ -5538,3 +5538,8 @@ INFO     2026-08-10 11:08:50 [scraper.py:47] 📥 [APOD] Title: Three Galaxy Pai
 INFO     2026-08-10 11:08:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg
 INFO     2026-08-10 11:08:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-11 02:15:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-11 02:15:51 [scraper.py:47] 📥 [APOD] Title: Three Galaxy Pairs
+INFO     2026-08-11 02:15:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg
+INFO     2026-08-11 02:15:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
