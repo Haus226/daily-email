@@ -5648,3 +5648,8 @@ INFO     2026-08-12 02:31:51 [scraper.py:390] 📥 [TAROT] Card: Queen of Wands
 INFO     2026-08-12 02:31:51 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-08-12 02:31:51 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-08-12 06:18:32 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-08-12 06:18:32 [scraper.py:390] 📥 [TAROT] Card: Queen of Wands
+INFO     2026-08-12 06:18:32 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-08-12 06:18:32 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
