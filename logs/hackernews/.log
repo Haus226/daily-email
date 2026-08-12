@@ -37471,3 +37471,36 @@ INFO     2026-08-12 06:18:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.ft.
 INFO     2026-08-12 06:18:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-12 06:18:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-12 11:00:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-12 11:00:10 [scraper.py:170] 📥 [HN #1] Tim Gowers: What sort of maths are LLMs good at?
+INFO     2026-08-12 11:00:10 [scraper.py:171] 🔗 [HN #1] URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
+INFO     2026-08-12 11:00:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-12 11:00:11 [scraper.py:170] 📥 [HN #2] Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
+INFO     2026-08-12 11:00:11 [scraper.py:171] 🔗 [HN #2] URL: https://woxi.ad-si.com
+INFO     2026-08-12 11:00:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-12 11:00:11 [scraper.py:170] 📥 [HN #3] LinkedIn CringeBot 3000
+INFO     2026-08-12 11:00:11 [scraper.py:171] 🔗 [HN #3] URL: https://www.cringebot3000.com/
+INFO     2026-08-12 11:00:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-12 11:00:11 [scraper.py:170] 📥 [HN #4] Dutch Train Map Simulator
+INFO     2026-08-12 11:00:11 [scraper.py:171] 🔗 [HN #4] URL: https://spoorkaart.zaza.dev
+INFO     2026-08-12 11:00:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #5] Facebook is paying controversial creators to produce rage-bait content
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #5] URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #6] High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #6] URL: https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #7] The hardest working font in Manhattan (2025)
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #7] URL: https://aresluna.org/the-hardest-working-font-in-manhattan/
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #8] Compression is prediction
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #8] URL: https://ngrok.com/blog/compression-is-prediction
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #9] Worms: The Future of Yesterday's Worms Today
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #9] URL: https://worm.net/
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:170] 📥 [HN #10] A shell exclamation mark is not for yelling. Be lazy
+INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #10] URL: https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark
+INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-12 11:00:12 [scraper.py:178] 🎉 [HN] All done.
+

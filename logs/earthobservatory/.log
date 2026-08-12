@@ -17726,3 +17726,24 @@ INFO     2026-08-12 06:18:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-12 06:18:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-12 11:00:07 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-12 11:00:10 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-12 11:00:10 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-12 11:00:10 [scraper.py:133] 📥 [EO] Title: Stops Along the Path of Totality
+INFO     2026-08-12 11:00:10 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/eclipsepath_modis_20260812_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-12 11:00:10 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-12 11:00:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-12 11:00:10 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-12 11:00:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-12 11:00:12 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-12 11:00:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-12 11:00:12 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-12 11:00:12 [scraper.py:133] 📥 [EO] Title: Stops Along the Path of Totality
+INFO     2026-08-12 11:00:12 [scraper.py:133] 📥 [EO] Title: Stops Along the Path of Totality
+INFO     2026-08-12 11:00:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/eclipsepath_modis_20260812_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-12 11:00:12 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/eclipsepath_modis_20260812_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-12 11:00:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-12 11:00:12 [scraper.py:154] ✅ [EO] Successfully fetched.
+
