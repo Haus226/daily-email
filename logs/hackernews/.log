@@ -37570,3 +37570,36 @@ INFO     2026-08-13 06:20:15 [scraper.py:171] 🔗 [HN #10] URL: http://funcall.
 INFO     2026-08-13 06:20:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-13 06:20:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-13 11:00:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-13 11:00:45 [scraper.py:170] 📥 [HN #1] ChatGPT Desktop (Codex Desktop) for Linux
+INFO     2026-08-13 11:00:45 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/codex/
+INFO     2026-08-13 11:00:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-13 11:00:45 [scraper.py:170] 📥 [HN #2] The lattice of sets of natural numbers is rich
+INFO     2026-08-13 11:00:45 [scraper.py:171] 🔗 [HN #2] URL: https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/
+INFO     2026-08-13 11:00:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-13 11:00:46 [scraper.py:170] 📥 [HN #3] DeepSeek V4 Pro 0813
+INFO     2026-08-13 11:00:46 [scraper.py:171] 🔗 [HN #3] URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+INFO     2026-08-13 11:00:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-13 11:00:46 [scraper.py:170] 📥 [HN #4] Tracking down the 16-year-old WAL-reset SQLite bug
+INFO     2026-08-13 11:00:46 [scraper.py:171] 🔗 [HN #4] URL: https://tailscale.com/blog/sqlite-wal-reset-bug
+INFO     2026-08-13 11:00:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-13 11:00:47 [scraper.py:170] 📥 [HN #5] Qwen3.8-2.4T
+INFO     2026-08-13 11:00:47 [scraper.py:171] 🔗 [HN #5] URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+INFO     2026-08-13 11:00:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-13 11:00:47 [scraper.py:170] 📥 [HN #6] Delta
+INFO     2026-08-13 11:00:47 [scraper.py:171] 🔗 [HN #6] URL: https://zed.dev/blog/introducing-delta
+INFO     2026-08-13 11:00:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-13 11:00:47 [scraper.py:170] 📥 [HN #7] Principia Mathematica is modern and insightful
+INFO     2026-08-13 11:00:47 [scraper.py:171] 🔗 [HN #7] URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+INFO     2026-08-13 11:00:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-13 11:00:47 [scraper.py:170] 📥 [HN #8] Antiqua–Fraktur dispute
+INFO     2026-08-13 11:00:47 [scraper.py:171] 🔗 [HN #8] URL: https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute
+INFO     2026-08-13 11:00:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-13 11:00:48 [scraper.py:170] 📥 [HN #9] The punched card tabulator
+INFO     2026-08-13 11:00:48 [scraper.py:171] 🔗 [HN #9] URL: https://www.ibm.com/history/punched-card-tabulator
+INFO     2026-08-13 11:00:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-13 11:00:48 [scraper.py:170] 📥 [HN #10] uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
+INFO     2026-08-13 11:00:48 [scraper.py:171] 🔗 [HN #10] URL: https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html
+INFO     2026-08-13 11:00:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-13 11:00:48 [scraper.py:178] 🎉 [HN] All done.
+
