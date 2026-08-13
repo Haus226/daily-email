@@ -5568,3 +5568,8 @@ INFO     2026-08-12 11:00:10 [scraper.py:47] 📥 [APOD] Title: Perseids Over a 
 INFO     2026-08-12 11:00:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg
 INFO     2026-08-12 11:00:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-13 02:33:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-13 02:33:26 [scraper.py:47] 📥 [APOD] Title: Perseids Over a little Planet
+INFO     2026-08-13 02:33:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg
+INFO     2026-08-13 02:33:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

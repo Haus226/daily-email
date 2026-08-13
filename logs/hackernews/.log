@@ -37504,3 +37504,36 @@ INFO     2026-08-12 11:00:12 [scraper.py:171] 🔗 [HN #10] URL: https://refp.se
 INFO     2026-08-12 11:00:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-12 11:00:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-13 02:33:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-13 02:33:26 [scraper.py:170] 📥 [HN #1] DeepSeek V4 Pro 0813
+INFO     2026-08-13 02:33:26 [scraper.py:171] 🔗 [HN #1] URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+INFO     2026-08-13 02:33:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-13 02:33:26 [scraper.py:170] 📥 [HN #2] Delta
+INFO     2026-08-13 02:33:26 [scraper.py:171] 🔗 [HN #2] URL: https://zed.dev/blog/introducing-delta
+INFO     2026-08-13 02:33:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-13 02:33:27 [scraper.py:170] 📥 [HN #3] Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
+INFO     2026-08-13 02:33:27 [scraper.py:171] 🔗 [HN #3] URL: https://tailscale.com/blog/sqlite-wal-reset-bug
+INFO     2026-08-13 02:33:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-13 02:33:27 [scraper.py:170] 📥 [HN #4] Qwen3.8-2.4T
+INFO     2026-08-13 02:33:27 [scraper.py:171] 🔗 [HN #4] URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+INFO     2026-08-13 02:33:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-13 02:33:27 [scraper.py:170] 📥 [HN #5] What's New in Flutter 3.47
+INFO     2026-08-13 02:33:27 [scraper.py:171] 🔗 [HN #5] URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
+INFO     2026-08-13 02:33:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-13 02:33:27 [scraper.py:170] 📥 [HN #6] Happy 45th Birthday to the IBM PC and Model F/XT
+INFO     2026-08-13 02:33:27 [scraper.py:171] 🔗 [HN #6] URL: https://sharktastica.co.uk/articles/pc-fxt-45
+INFO     2026-08-13 02:33:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-13 02:33:28 [scraper.py:170] 📥 [HN #7] Principia Mathematica is modern and insightful
+INFO     2026-08-13 02:33:28 [scraper.py:171] 🔗 [HN #7] URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+INFO     2026-08-13 02:33:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-13 02:33:28 [scraper.py:170] 📥 [HN #8] Build Wide, Ship Narrow
+INFO     2026-08-13 02:33:28 [scraper.py:171] 🔗 [HN #8] URL: https://adapt.com/blog/build-wide-ship-narrow
+INFO     2026-08-13 02:33:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-13 02:33:28 [scraper.py:170] 📥 [HN #9] Why Target Common Lisp for Code Generation?
+INFO     2026-08-13 02:33:28 [scraper.py:171] 🔗 [HN #9] URL: http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+INFO     2026-08-13 02:33:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-13 02:33:28 [scraper.py:170] 📥 [HN #10] 2026 Eclipse Webcams
+INFO     2026-08-13 02:33:28 [scraper.py:171] 🔗 [HN #10] URL: https://jonty.github.io/2026_eclipse_webcams/
+INFO     2026-08-13 02:33:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-13 02:33:28 [scraper.py:178] 🎉 [HN] All done.
+
