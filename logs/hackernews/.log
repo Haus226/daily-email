@@ -37603,3 +37603,36 @@ INFO     2026-08-13 11:00:48 [scraper.py:171] 🔗 [HN #10] URL: https://digital
 INFO     2026-08-13 11:00:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-13 11:00:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-14 02:31:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-14 02:31:44 [scraper.py:170] 📥 [HN #1] Gemini 3.7 Flash
+INFO     2026-08-14 02:31:44 [scraper.py:171] 🔗 [HN #1] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+INFO     2026-08-14 02:31:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-14 02:31:44 [scraper.py:170] 📥 [HN #2] SparrowMap – Cameras that watch government vehicles
+INFO     2026-08-14 02:31:44 [scraper.py:171] 🔗 [HN #2] URL: https://sparrowmap.com/
+INFO     2026-08-14 02:31:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-14 02:31:44 [scraper.py:170] 📥 [HN #3] Bluesky Protocol Services
+INFO     2026-08-14 02:31:44 [scraper.py:171] 🔗 [HN #3] URL: https://atproto.com/blog/introducing-bluesky-protocol-services
+INFO     2026-08-14 02:31:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-14 02:31:44 [scraper.py:170] 📥 [HN #4] Accelerating GPT-5.6 Sol Ultrafast
+INFO     2026-08-14 02:31:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+INFO     2026-08-14 02:31:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #5] DeepSeek Harness developer preview
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #5] URL: https://deepseek.com/harness/en/
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #6] Understanding is the new bottleneck
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #6] URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #7] Donkey.bas is 45 Years Old – 131 line of Glory
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #7] URL: https://donkeybas.com/
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #8] Mistral OCR 4.1
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #8] URL: https://docs.mistral.ai/models/ocr-4-1
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #9] NP-overrated
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #9] URL: https://gruhn.me/blog/2026-08-13/
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:170] 📥 [HN #10] Spaghettifying DRAM
+INFO     2026-08-14 02:31:45 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts
+INFO     2026-08-14 02:31:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-14 02:31:45 [scraper.py:178] 🎉 [HN] All done.
+
