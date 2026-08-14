@@ -17831,3 +17831,24 @@ INFO     2026-08-14 02:31:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-14 02:31:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-14 06:18:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-14 06:18:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-14 06:18:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-14 06:18:15 [scraper.py:133] 📥 [EO] Title: A Sunflower’s View of Totality
+INFO     2026-08-14 06:18:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-14 06:18:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-14 06:18:15 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-14 06:18:15 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-14 06:18:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-14 06:18:16 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-14 06:18:17 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-14 06:18:17 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-14 06:18:17 [scraper.py:133] 📥 [EO] Title: A Sunflower’s View of Totality
+INFO     2026-08-14 06:18:17 [scraper.py:133] 📥 [EO] Title: A Sunflower’s View of Totality
+INFO     2026-08-14 06:18:17 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-14 06:18:17 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-14 06:18:17 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-14 06:18:17 [scraper.py:154] ✅ [EO] Successfully fetched.
+
