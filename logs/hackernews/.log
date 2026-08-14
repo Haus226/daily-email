@@ -37669,3 +37669,36 @@ INFO     2026-08-14 06:18:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.geo
 INFO     2026-08-14 06:18:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-14 06:18:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-14 10:57:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-14 10:57:56 [scraper.py:170] 📥 [HN #1] GLM-5.3: Frontier coding with emergent cyber capabilities
+INFO     2026-08-14 10:57:56 [scraper.py:171] 🔗 [HN #1] URL: https://z.ai/blog/glm-5.3
+INFO     2026-08-14 10:57:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-14 10:57:56 [scraper.py:170] 📥 [HN #2] DeepSeek peak/off-peak pricing update
+INFO     2026-08-14 10:57:56 [scraper.py:171] 🔗 [HN #2] URL: https://api-docs.deepseek.com/news/news260813/
+INFO     2026-08-14 10:57:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-14 10:57:56 [scraper.py:170] 📥 [HN #3] I want extern "fil-C"
+INFO     2026-08-14 10:57:56 [scraper.py:171] 🔗 [HN #3] URL: https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/
+INFO     2026-08-14 10:57:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-14 10:57:57 [scraper.py:170] 📥 [HN #4] For the love of god stop using CPU limits in Kubernetes
+INFO     2026-08-14 10:57:57 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/inevolin/k8s-cpu-limits-analyzed
+INFO     2026-08-14 10:57:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-14 10:57:57 [scraper.py:170] 📥 [HN #5] Gemini 3.7 Flash
+INFO     2026-08-14 10:57:57 [scraper.py:171] 🔗 [HN #5] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+INFO     2026-08-14 10:57:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-14 10:57:57 [scraper.py:170] 📥 [HN #6] Major oil slick washes up on Iran coast after Hormuz ship strike
+INFO     2026-08-14 10:57:57 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/news/articles/cr7kpdkg13zo
+INFO     2026-08-14 10:57:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-14 10:57:58 [scraper.py:170] 📥 [HN #7] Accelerating GPT-5.6 Sol Ultrafast
+INFO     2026-08-14 10:57:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+INFO     2026-08-14 10:57:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-14 10:57:58 [scraper.py:170] 📥 [HN #8] Hello, me. It's been a while
+INFO     2026-08-14 10:57:58 [scraper.py:171] 🔗 [HN #8] URL: https://themech.net/2026/08/hello-me-its-been-a-while/
+INFO     2026-08-14 10:57:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-14 10:57:58 [scraper.py:170] 📥 [HN #9] Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri
+INFO     2026-08-14 10:57:58 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/JustVugg/lumabri
+INFO     2026-08-14 10:57:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-14 10:57:58 [scraper.py:170] 📥 [HN #10] Show HN: C# Game Engine with its own scripting language and IDE
+INFO     2026-08-14 10:57:58 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ArcadeMakerSources/ArcadeMaker
+INFO     2026-08-14 10:57:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-14 10:57:58 [scraper.py:178] 🎉 [HN] All done.
+
