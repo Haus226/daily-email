@@ -37768,3 +37768,36 @@ INFO     2026-08-15 05:30:07 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-08-15 05:30:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-15 05:30:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-15 10:23:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-15 10:23:15 [scraper.py:170] 📥 [HN #1] The other Sean Byrne doesn't exist
+INFO     2026-08-15 10:23:15 [scraper.py:171] 🔗 [HN #1] URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/
+INFO     2026-08-15 10:23:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-15 10:23:15 [scraper.py:170] 📥 [HN #2] Qwen 3.8 27B
+INFO     2026-08-15 10:23:15 [scraper.py:171] 🔗 [HN #2] URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
+INFO     2026-08-15 10:23:15 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-15 10:23:15 [scraper.py:170] 📥 [HN #3] Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum
+INFO     2026-08-15 10:23:15 [scraper.py:171] 🔗 [HN #3] URL: https://baselashraf81.github.io/eigendrum/
+INFO     2026-08-15 10:23:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-15 10:23:15 [scraper.py:170] 📥 [HN #4] Going Dark, and the era of law enforcement hacking
+INFO     2026-08-15 10:23:15 [scraper.py:171] 🔗 [HN #4] URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
+INFO     2026-08-15 10:23:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-15 10:23:16 [scraper.py:170] 📥 [HN #5] In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace
+INFO     2026-08-15 10:23:16 [scraper.py:171] 🔗 [HN #5] URL: https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/
+INFO     2026-08-15 10:23:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-15 10:23:16 [scraper.py:170] 📥 [HN #6] Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+INFO     2026-08-15 10:23:16 [scraper.py:171] 🔗 [HN #6] URL: https://uecker.codeberg.page/2026-07-14.html
+INFO     2026-08-15 10:23:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-15 10:23:16 [scraper.py:170] 📥 [HN #7] Understanding WCAG 2.2 as ePub and PDF
+INFO     2026-08-15 10:23:16 [scraper.py:171] 🔗 [HN #7] URL: https://doeken.org/wcag-ebook
+INFO     2026-08-15 10:23:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-15 10:23:16 [scraper.py:170] 📥 [HN #8] Show HN: ThoughtDAG – An editable context graph for LLM conversations
+INFO     2026-08-15 10:23:16 [scraper.py:171] 🔗 [HN #8] URL: https://chenxiachan.github.io/thoughtdag/
+INFO     2026-08-15 10:23:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-15 10:23:16 [scraper.py:170] 📥 [HN #9] Google is making private AI practical with homomorphic encryption
+INFO     2026-08-15 10:23:16 [scraper.py:171] 🔗 [HN #9] URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
+INFO     2026-08-15 10:23:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-15 10:23:17 [scraper.py:170] 📥 [HN #10] Coin-sized device can hack a Boeing 737
+INFO     2026-08-15 10:23:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/
+INFO     2026-08-15 10:23:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-15 10:23:17 [scraper.py:178] 🎉 [HN] All done.
+
