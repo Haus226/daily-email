@@ -37735,3 +37735,36 @@ INFO     2026-08-15 01:41:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.ft.
 INFO     2026-08-15 01:41:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-15 01:41:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-15 05:30:05 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-15 05:30:05 [scraper.py:170] 📥 [HN #1] Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+INFO     2026-08-15 05:30:05 [scraper.py:171] 🔗 [HN #1] URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive
+INFO     2026-08-15 05:30:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-15 05:30:05 [scraper.py:170] 📥 [HN #2] Qwen 3.8 27B
+INFO     2026-08-15 05:30:05 [scraper.py:171] 🔗 [HN #2] URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8
+INFO     2026-08-15 05:30:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-15 05:30:06 [scraper.py:170] 📥 [HN #3] Going Dark, and the era of law enforcement hacking
+INFO     2026-08-15 05:30:06 [scraper.py:171] 🔗 [HN #3] URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
+INFO     2026-08-15 05:30:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-15 05:30:06 [scraper.py:170] 📥 [HN #4] The other Sean Byrne doesn't exist
+INFO     2026-08-15 05:30:06 [scraper.py:171] 🔗 [HN #4] URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/
+INFO     2026-08-15 05:30:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-15 05:30:06 [scraper.py:170] 📥 [HN #5] I close SSH port 22 (and what I use instead)
+INFO     2026-08-15 05:30:06 [scraper.py:171] 🔗 [HN #5] URL: https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/
+INFO     2026-08-15 05:30:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-15 05:30:06 [scraper.py:170] 📥 [HN #6] The Ploopy A+ Trackball Is Here
+INFO     2026-08-15 05:30:06 [scraper.py:171] 🔗 [HN #6] URL: https://blog.ploopy.co/the-aplus-is-finally-here-499
+INFO     2026-08-15 05:30:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-15 05:30:06 [scraper.py:170] 📥 [HN #7] Google is making private AI practical with homomorphic encryption
+INFO     2026-08-15 05:30:06 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/
+INFO     2026-08-15 05:30:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-15 05:30:07 [scraper.py:170] 📥 [HN #8] eigendrum
+INFO     2026-08-15 05:30:07 [scraper.py:171] 🔗 [HN #8] URL: https://eigendrum.com/#p=circle
+INFO     2026-08-15 05:30:07 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-15 05:30:07 [scraper.py:170] 📥 [HN #9] AI Driven Testing
+INFO     2026-08-15 05:30:07 [scraper.py:171] 🔗 [HN #9] URL: https://app.deltix.ai
+INFO     2026-08-15 05:30:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-15 05:30:07 [scraper.py:170] 📥 [HN #10] Simplifying and Refactoring Introductory Calculus
+INFO     2026-08-15 05:30:07 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/1811.03459
+INFO     2026-08-15 05:30:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-15 05:30:07 [scraper.py:178] 🎉 [HN] All done.
+
