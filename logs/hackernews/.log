@@ -37900,3 +37900,36 @@ INFO     2026-08-16 10:23:32 [scraper.py:171] 🔗 [HN #10] URL: https://tinkeri
 INFO     2026-08-16 10:23:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-16 10:23:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-17 01:46:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-17 01:46:40 [scraper.py:170] 📥 [HN #1] The Life and Death of Direct File [pdf]
+INFO     2026-08-17 01:46:40 [scraper.py:171] 🔗 [HN #1] URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
+INFO     2026-08-17 01:46:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-17 01:46:41 [scraper.py:170] 📥 [HN #2] A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+INFO     2026-08-17 01:46:41 [scraper.py:171] 🔗 [HN #2] URL: https://rvembedded.com/blog_post/12/
+INFO     2026-08-17 01:46:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-17 01:46:41 [scraper.py:170] 📥 [HN #3] Qwen 3.8 27B is excellent, but it defaults to overthinking things
+INFO     2026-08-17 01:46:41 [scraper.py:171] 🔗 [HN #3] URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+INFO     2026-08-17 01:46:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-17 01:46:41 [scraper.py:170] 📥 [HN #4] Rhombus 1.1 is now available
+INFO     2026-08-17 01:46:41 [scraper.py:171] 🔗 [HN #4] URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+INFO     2026-08-17 01:46:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-17 01:46:41 [scraper.py:170] 📥 [HN #5] Claude: System Prompts
+INFO     2026-08-17 01:46:41 [scraper.py:171] 🔗 [HN #5] URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+INFO     2026-08-17 01:46:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-17 01:46:42 [scraper.py:170] 📥 [HN #6] SIMD in the 90s: Programming Intel's Pentium MMX
+INFO     2026-08-17 01:46:42 [scraper.py:171] 🔗 [HN #6] URL: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
+INFO     2026-08-17 01:46:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-17 01:46:42 [scraper.py:170] 📥 [HN #7] Low-Tech Ceramic Water Filter
+INFO     2026-08-17 01:46:42 [scraper.py:171] 🔗 [HN #7] URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
+INFO     2026-08-17 01:46:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-17 01:46:42 [scraper.py:170] 📥 [HN #8] Reticulum – Decentralized Mesh Network
+INFO     2026-08-17 01:46:42 [scraper.py:171] 🔗 [HN #8] URL: https://reticulum.network/
+INFO     2026-08-17 01:46:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-17 01:46:42 [scraper.py:170] 📥 [HN #9] Models Are Getting Dumber on Purpose
+INFO     2026-08-17 01:46:42 [scraper.py:171] 🔗 [HN #9] URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose
+INFO     2026-08-17 01:46:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-17 01:46:43 [scraper.py:170] 📥 [HN #10] The AI Credit Resale Economy
+INFO     2026-08-17 01:46:43 [scraper.py:171] 🔗 [HN #10] URL: https://vectoral.com/blog/who-are-the-token-brokers
+INFO     2026-08-17 01:46:43 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-17 01:46:43 [scraper.py:178] 🎉 [HN] All done.
+
