@@ -37933,3 +37933,36 @@ INFO     2026-08-17 01:46:43 [scraper.py:171] 🔗 [HN #10] URL: https://vectora
 INFO     2026-08-17 01:46:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-17 01:46:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-17 05:38:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-17 05:38:48 [scraper.py:170] 📥 [HN #1] Qwen 3.8 27B is excellent, but it defaults to overthinking things
+INFO     2026-08-17 05:38:48 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+INFO     2026-08-17 05:38:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #2] Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #2] URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #3] The Life and Death of Direct File [pdf]
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #3] URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #4] AGI-64 Brings Sierra Adventures to the Commodore 64
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #4] URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #5] A third world engineer responds to ”RISC-V: They should have known better“
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #5] URL: https://rvembedded.com/blog_post/12/
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #6] Claude: System Prompts
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #6] URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #7] Rhombus 1.1 is now available
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #7] URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-17 05:38:49 [scraper.py:170] 📥 [HN #8] Reticulum – Decentralized Mesh Network
+INFO     2026-08-17 05:38:49 [scraper.py:171] 🔗 [HN #8] URL: https://reticulum.network/
+INFO     2026-08-17 05:38:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-17 05:38:50 [scraper.py:170] 📥 [HN #9] Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)
+INFO     2026-08-17 05:38:50 [scraper.py:171] 🔗 [HN #9] URL: https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/
+INFO     2026-08-17 05:38:50 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-17 05:38:50 [scraper.py:170] 📥 [HN #10] Low-Tech Ceramic Water Filter
+INFO     2026-08-17 05:38:50 [scraper.py:171] 🔗 [HN #10] URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
+INFO     2026-08-17 05:38:50 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-17 05:38:50 [scraper.py:178] 🎉 [HN] All done.
+
