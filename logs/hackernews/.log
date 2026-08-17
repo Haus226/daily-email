@@ -37966,3 +37966,36 @@ INFO     2026-08-17 05:38:50 [scraper.py:171] 🔗 [HN #10] URL: https://wiki.lo
 INFO     2026-08-17 05:38:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-17 05:38:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-17 10:32:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-17 10:32:13 [scraper.py:170] 📥 [HN #1] Qwen 3.8 27B is excellent, but it defaults to overthinking things
+INFO     2026-08-17 10:32:13 [scraper.py:171] 🔗 [HN #1] URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+INFO     2026-08-17 10:32:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #2] On A.I. regulation and messaging
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/DarioAmodei/status/2088758816376807762
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #3] A third world engineer responds to “RISC-V: They should have known better”
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #3] URL: https://rvembedded.com/blog_post/12/
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #4] HackEurope 2026: A short rant on AI and hackathons
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #4] URL: https://duti.dev/blog/2026/spr/
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #5] Anthropic's 'watermark' text adulteration in Claude is a perversion of writing
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #5] URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #6] The continuing "Q collar" scandal
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #6] URL: https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-17 10:32:14 [scraper.py:170] 📥 [HN #7] Reticulum – Decentralized Mesh Network
+INFO     2026-08-17 10:32:14 [scraper.py:171] 🔗 [HN #7] URL: https://reticulum.network/
+INFO     2026-08-17 10:32:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-17 10:32:15 [scraper.py:170] 📥 [HN #8] Claude: System Prompts
+INFO     2026-08-17 10:32:15 [scraper.py:171] 🔗 [HN #8] URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+INFO     2026-08-17 10:32:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-17 10:32:15 [scraper.py:170] 📥 [HN #9] Linear algebra done right
+INFO     2026-08-17 10:32:15 [scraper.py:171] 🔗 [HN #9] URL: https://linear.axler.net/
+INFO     2026-08-17 10:32:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-17 10:32:15 [scraper.py:170] 📥 [HN #10] Gakutensoku
+INFO     2026-08-17 10:32:15 [scraper.py:171] 🔗 [HN #10] URL: https://en.wikipedia.org/wiki/Gakutensoku
+INFO     2026-08-17 10:32:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-17 10:32:15 [scraper.py:178] 🎉 [HN] All done.
+
