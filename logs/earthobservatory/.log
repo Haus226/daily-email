@@ -18104,3 +18104,24 @@ INFO     2026-08-18 05:34:27 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-18 05:34:27 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-18 10:28:24 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-18 10:28:25 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-18 10:28:25 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-18 10:28:25 [scraper.py:133] 📥 [EO] Title: Lala Batters Hawaii
+INFO     2026-08-18 10:28:25 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-18 10:28:25 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-18 10:28:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-18 10:28:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-18 10:28:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-18 10:28:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-18 10:28:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-18 10:28:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-18 10:28:26 [scraper.py:133] 📥 [EO] Title: Lala Batters Hawaii
+INFO     2026-08-18 10:28:26 [scraper.py:133] 📥 [EO] Title: Lala Batters Hawaii
+INFO     2026-08-18 10:28:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-18 10:28:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-18 10:28:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-18 10:28:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
