@@ -38098,3 +38098,36 @@ INFO     2026-08-18 10:28:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-08-18 10:28:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-18 10:28:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-19 01:43:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-19 01:43:29 [scraper.py:170] 📥 [HN #1] A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+INFO     2026-08-19 01:43:29 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/DenisSergeevitch/desktop-fly
+INFO     2026-08-19 01:43:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-19 01:43:29 [scraper.py:170] 📥 [HN #2] The Amazon tax
+INFO     2026-08-19 01:43:29 [scraper.py:171] 🔗 [HN #2] URL: https://seths.blog/2026/08/the-amazon-tax/
+INFO     2026-08-19 01:43:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-19 01:43:29 [scraper.py:170] 📥 [HN #3] Cerebras CS4
+INFO     2026-08-19 01:43:29 [scraper.py:171] 🔗 [HN #3] URL: https://www.cerebras.ai/cs4
+INFO     2026-08-19 01:43:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-19 01:43:29 [scraper.py:170] 📥 [HN #4] Solo – a .so loader for static Linux binaries
+INFO     2026-08-19 01:43:29 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/pg83/solo
+INFO     2026-08-19 01:43:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #5] New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #5] URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #6] How does IKEA come up with names for its products?
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #6] URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #7] Show HN: Interactive, animated architecture of any HuggingFace models
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #7] URL: https://modelmap.cc
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #8] Scientists stunned by children's lung recovery in ultra low emission zone
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/news/articles/c1l1r1zne1ro
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #9] Turbovec – Google's TurboQuant for vector search in Rust
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/RyanCodrai/turbovec
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:170] 📥 [HN #10] AI usage patterns in software teams
+INFO     2026-08-19 01:43:30 [scraper.py:171] 🔗 [HN #10] URL: https://linear.app/data
+INFO     2026-08-19 01:43:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-19 01:43:30 [scraper.py:178] 🎉 [HN] All done.
+
