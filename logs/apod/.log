@@ -5673,3 +5673,8 @@ INFO     2026-08-19 10:29:14 [scraper.py:47] 📥 [APOD] Title: The Case of the 
 INFO     2026-08-19 10:29:14 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4
 INFO     2026-08-19 10:29:14 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-20 01:42:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-20 01:42:07 [scraper.py:47] 📥 [APOD] Title: The Case of the Mysterious Maybe Meteor
+INFO     2026-08-20 01:42:07 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4
+INFO     2026-08-20 01:42:07 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

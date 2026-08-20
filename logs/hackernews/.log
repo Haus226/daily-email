@@ -38197,3 +38197,36 @@ INFO     2026-08-19 10:29:16 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-08-19 10:29:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-19 10:29:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-20 01:42:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-20 01:42:07 [scraper.py:170] 📥 [HN #1] OpenRouter is joining Stripe
+INFO     2026-08-20 01:42:07 [scraper.py:171] 🔗 [HN #1] URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+INFO     2026-08-20 01:42:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-20 01:42:07 [scraper.py:170] 📥 [HN #2] Go 1.27
+INFO     2026-08-20 01:42:07 [scraper.py:171] 🔗 [HN #2] URL: https://go.dev/blog/go1.27
+INFO     2026-08-20 01:42:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-20 01:42:07 [scraper.py:170] 📥 [HN #3] Google replaced Git tags for certain source code with obtaining via Google Drive
+INFO     2026-08-20 01:42:07 [scraper.py:171] 🔗 [HN #3] URL: https://grapheneos.social/@GrapheneOS/117057099753905023
+INFO     2026-08-20 01:42:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-20 01:42:07 [scraper.py:170] 📥 [HN #4] Unlocking a locked/deactivated e-waste Cricut Maker
+INFO     2026-08-20 01:42:07 [scraper.py:171] 🔗 [HN #4] URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+INFO     2026-08-20 01:42:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-20 01:42:08 [scraper.py:170] 📥 [HN #5] Unsloth Dynamic 3.0 GGUFs
+INFO     2026-08-20 01:42:08 [scraper.py:171] 🔗 [HN #5] URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+INFO     2026-08-20 01:42:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-20 01:42:08 [scraper.py:170] 📥 [HN #6] Manabu Kosaka's Handmade Paper Sculptures
+INFO     2026-08-20 01:42:08 [scraper.py:171] 🔗 [HN #6] URL: https://coca11272000.wixsite.com/manabukosaka
+INFO     2026-08-20 01:42:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-20 01:42:08 [scraper.py:170] 📥 [HN #7] A joke domain purchase turned in geopolitical warfare
+INFO     2026-08-20 01:42:08 [scraper.py:171] 🔗 [HN #7] URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+INFO     2026-08-20 01:42:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-20 01:42:08 [scraper.py:170] 📥 [HN #8] Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+INFO     2026-08-20 01:42:08 [scraper.py:171] 🔗 [HN #8] URL: https://os8088.com/spotlight/
+INFO     2026-08-20 01:42:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-20 01:42:08 [scraper.py:170] 📥 [HN #9] Casio F-B100W-1A
+INFO     2026-08-20 01:42:08 [scraper.py:171] 🔗 [HN #9] URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/
+INFO     2026-08-20 01:42:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-20 01:42:09 [scraper.py:170] 📥 [HN #10] DFlash 2: Keep Drafting Parallel
+INFO     2026-08-20 01:42:09 [scraper.py:171] 🔗 [HN #10] URL: https://inco.ai/blog/dflash2/
+INFO     2026-08-20 01:42:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-20 01:42:09 [scraper.py:178] 🎉 [HN] All done.
+
