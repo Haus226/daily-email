@@ -38263,3 +38263,36 @@ INFO     2026-08-20 05:35:50 [scraper.py:171] 🔗 [HN #10] URL: https://unsloth
 INFO     2026-08-20 05:35:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-20 05:35:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-20 10:30:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-20 10:30:43 [scraper.py:170] 📥 [HN #1] Don't Paste the AI, please
+INFO     2026-08-20 10:30:43 [scraper.py:171] 🔗 [HN #1] URL: https://dontpastetheai.com/
+INFO     2026-08-20 10:30:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-20 10:30:43 [scraper.py:170] 📥 [HN #2] Windows brings out the Rorschach test in everyone
+INFO     2026-08-20 10:30:43 [scraper.py:171] 🔗 [HN #2] URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803
+INFO     2026-08-20 10:30:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-20 10:30:44 [scraper.py:170] 📥 [HN #3] OpenRouter is joining Stripe
+INFO     2026-08-20 10:30:44 [scraper.py:171] 🔗 [HN #3] URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+INFO     2026-08-20 10:30:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-20 10:30:44 [scraper.py:170] 📥 [HN #4] Turns are Better than Radians (2022)
+INFO     2026-08-20 10:30:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.computerenhance.com/p/turns-are-better-than-radians
+INFO     2026-08-20 10:30:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-20 10:30:44 [scraper.py:170] 📥 [HN #5] Go 1.27
+INFO     2026-08-20 10:30:44 [scraper.py:171] 🔗 [HN #5] URL: https://go.dev/blog/go1.27
+INFO     2026-08-20 10:30:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-20 10:30:44 [scraper.py:170] 📥 [HN #6] Google has stopped pushing Git tags for some Android source code
+INFO     2026-08-20 10:30:44 [scraper.py:171] 🔗 [HN #6] URL: https://grapheneos.social/@GrapheneOS/117057099753905023
+INFO     2026-08-20 10:30:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-20 10:30:45 [scraper.py:170] 📥 [HN #7] A faster way to calculate the day of the week
+INFO     2026-08-20 10:30:45 [scraper.py:171] 🔗 [HN #7] URL: https://www.benjoffe.com/fast-day-of-week
+INFO     2026-08-20 10:30:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-20 10:30:45 [scraper.py:170] 📥 [HN #8] A joke domain purchase turned in geopolitical warfare
+INFO     2026-08-20 10:30:45 [scraper.py:171] 🔗 [HN #8] URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+INFO     2026-08-20 10:30:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-20 10:30:45 [scraper.py:170] 📥 [HN #9] Manabu Kosaka's Handmade Paper Sculptures
+INFO     2026-08-20 10:30:45 [scraper.py:171] 🔗 [HN #9] URL: https://coca11272000.wixsite.com/manabukosaka
+INFO     2026-08-20 10:30:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-20 10:30:45 [scraper.py:170] 📥 [HN #10] Free v4 front end for your v6 site
+INFO     2026-08-20 10:30:45 [scraper.py:171] 🔗 [HN #10] URL: https://v4-frontend.netiter.com/
+INFO     2026-08-20 10:30:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-20 10:30:45 [scraper.py:178] 🎉 [HN] All done.
+
