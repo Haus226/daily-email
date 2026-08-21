@@ -38362,3 +38362,36 @@ INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.zil
 INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-21 05:37:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-21 10:30:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-21 10:30:46 [scraper.py:170] 📥 [HN #1] The Lost Treasure of Sid Meier's Pirates
+INFO     2026-08-21 10:30:46 [scraper.py:171] 🔗 [HN #1] URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/
+INFO     2026-08-21 10:30:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-21 10:30:46 [scraper.py:170] 📥 [HN #2] We Rebuilt the Linux MicroVM Stack on Apple Silicon
+INFO     2026-08-21 10:30:46 [scraper.py:171] 🔗 [HN #2] URL: https://encore.dev/blog/firecracker-apple-silicon
+INFO     2026-08-21 10:30:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-21 10:30:46 [scraper.py:170] 📥 [HN #3] Small, native web tricks worth remembering
+INFO     2026-08-21 10:30:46 [scraper.py:171] 🔗 [HN #3] URL: https://htmlcat.net/
+INFO     2026-08-21 10:30:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-21 10:30:46 [scraper.py:170] 📥 [HN #4] The August 17 outage
+INFO     2026-08-21 10:30:46 [scraper.py:171] 🔗 [HN #4] URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+INFO     2026-08-21 10:30:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-21 10:30:46 [scraper.py:170] 📥 [HN #5] The case against a C alternative (2022)
+INFO     2026-08-21 10:30:46 [scraper.py:171] 🔗 [HN #5] URL: https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative
+INFO     2026-08-21 10:30:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:170] 📥 [HN #6] I like 'em thick: an apology to my English teachers
+INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #6] URL: https://www.experimental-history.com/p/i-like-em-thick
+INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:170] 📥 [HN #7] HTML Can Do That
+INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #7] URL: https://chrisburnell.com/html-can-do-that/
+INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:170] 📥 [HN #8] Malicious Rust crate Arrayref runs a build-time payload
+INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #8] URL: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:170] 📥 [HN #9] Ox Alpha
+INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #9] URL: https://openrouter.ai/stealth/ox-alpha
+INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:170] 📥 [HN #10] Flat Chair by Sara Paculdo
+INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/
+INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-21 10:30:47 [scraper.py:178] 🎉 [HN] All done.
+
