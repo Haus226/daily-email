@@ -18251,3 +18251,24 @@ INFO     2026-08-20 10:30:44 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-20 10:30:44 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-21 01:47:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-21 01:47:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-21 01:47:29 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-21 01:47:29 [scraper.py:133] 📥 [EO] Title: An Uncommon Drifter in the Denmark Strait
+INFO     2026-08-21 01:47:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-21 01:47:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-21 01:47:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-21 01:47:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-21 01:47:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-21 01:47:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-21 01:47:29 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-21 01:47:29 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-21 01:47:29 [scraper.py:133] 📥 [EO] Title: An Uncommon Drifter in the Denmark Strait
+INFO     2026-08-21 01:47:29 [scraper.py:133] 📥 [EO] Title: An Uncommon Drifter in the Denmark Strait
+INFO     2026-08-21 01:47:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-21 01:47:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-21 01:47:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-21 01:47:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
