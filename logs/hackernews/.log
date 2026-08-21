@@ -38329,3 +38329,36 @@ INFO     2026-08-21 01:47:31 [scraper.py:171] 🔗 [HN #10] URL: https://jsomers
 INFO     2026-08-21 01:47:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-21 01:47:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-21 05:37:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-21 05:37:15 [scraper.py:170] 📥 [HN #1] Codex on AWS bedrock bug causing 10x charges
+INFO     2026-08-21 05:37:15 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/openai/codex/issues/37674
+INFO     2026-08-21 05:37:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-21 05:37:16 [scraper.py:170] 📥 [HN #2] The August 17 outage
+INFO     2026-08-21 05:37:16 [scraper.py:171] 🔗 [HN #2] URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+INFO     2026-08-21 05:37:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-21 05:37:16 [scraper.py:170] 📥 [HN #3] I like 'em thick: an apology to my English teachers
+INFO     2026-08-21 05:37:16 [scraper.py:171] 🔗 [HN #3] URL: https://www.experimental-history.com/p/i-like-em-thick
+INFO     2026-08-21 05:37:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-21 05:37:16 [scraper.py:170] 📥 [HN #4] HTML Can Do That
+INFO     2026-08-21 05:37:16 [scraper.py:171] 🔗 [HN #4] URL: https://chrisburnell.com/html-can-do-that/
+INFO     2026-08-21 05:37:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-21 05:37:16 [scraper.py:170] 📥 [HN #5] Malicious Rust crate Arrayref runs a build-time payload
+INFO     2026-08-21 05:37:16 [scraper.py:171] 🔗 [HN #5] URL: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+INFO     2026-08-21 05:37:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:170] 📥 [HN #6] I should have loved biology (2020)
+INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #6] URL: https://jsomers.net/i-should-have-loved-biology/
+INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:170] 📥 [HN #7] Ox Alpha
+INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #7] URL: https://openrouter.ai/stealth/ox-alpha
+INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:170] 📥 [HN #8] CIA funding helped keep NeXT afloat in the 80s
+INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #8] URL: https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
+INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:170] 📥 [HN #9] AI companies destroy physical books – let's scan rare books before it's too late
+INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #9] URL: https://annas-archive.gl/blog/physical-destruction.html
+INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:170] 📥 [HN #10] Captain Zilog
+INFO     2026-08-21 05:37:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.zilog.com/captain_zilog/
+INFO     2026-08-21 05:37:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-21 05:37:17 [scraper.py:178] 🎉 [HN] All done.
+
