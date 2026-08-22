@@ -38395,3 +38395,36 @@ INFO     2026-08-21 10:30:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.tox
 INFO     2026-08-21 10:30:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-21 10:30:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-22 01:40:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-22 01:40:52 [scraper.py:170] 📥 [HN #1] Kobo can run apps now
+INFO     2026-08-22 01:40:52 [scraper.py:171] 🔗 [HN #1] URL: https://bandarlabs.github.io/Cobalt/
+INFO     2026-08-22 01:40:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-22 01:40:52 [scraper.py:170] 📥 [HN #2] Felony Bench
+INFO     2026-08-22 01:40:52 [scraper.py:171] 🔗 [HN #2] URL: https://www.felonybench.com/
+INFO     2026-08-22 01:40:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-22 01:40:52 [scraper.py:170] 📥 [HN #3] Three important steps in my maturation process
+INFO     2026-08-22 01:40:52 [scraper.py:171] 🔗 [HN #3] URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
+INFO     2026-08-22 01:40:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-22 01:40:53 [scraper.py:170] 📥 [HN #4] Scientists release biggest 2D map of the universe
+INFO     2026-08-22 01:40:53 [scraper.py:171] 🔗 [HN #4] URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/
+INFO     2026-08-22 01:40:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-22 01:40:53 [scraper.py:170] 📥 [HN #5] Kagi added a setting for removing paywalled links from search results
+INFO     2026-08-22 01:40:53 [scraper.py:171] 🔗 [HN #5] URL: https://kagi.com/changelog#11296
+INFO     2026-08-22 01:40:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-22 01:40:53 [scraper.py:170] 📥 [HN #6] Rust Glancer: Rust LSP using 100x less RAM
+INFO     2026-08-22 01:40:53 [scraper.py:171] 🔗 [HN #6] URL: https://rust-glancer.github.io/blog/hello-world/
+INFO     2026-08-22 01:40:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-22 01:40:53 [scraper.py:170] 📥 [HN #7] Show HN: OzBrain, a shared brain for knowledge between agents and your team
+INFO     2026-08-22 01:40:53 [scraper.py:171] 🔗 [HN #7] URL: https://ozbrain.com
+INFO     2026-08-22 01:40:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-22 01:40:54 [scraper.py:170] 📥 [HN #8] HN: The Good Parts (2016)
+INFO     2026-08-22 01:40:54 [scraper.py:171] 🔗 [HN #8] URL: https://danluu.com/hn-comments/
+INFO     2026-08-22 01:40:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-22 01:40:54 [scraper.py:170] 📥 [HN #9] I accidentally logged hundreds of thousands of phone calls to military bases
+INFO     2026-08-22 01:40:54 [scraper.py:171] 🔗 [HN #9] URL: https://lina.sh/blog/hijacking-e164-arpa
+INFO     2026-08-22 01:40:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-22 01:40:54 [scraper.py:170] 📥 [HN #10] Felony charges for citizen deleting phone data at US Border
+INFO     2026-08-22 01:40:54 [scraper.py:171] 🔗 [HN #10] URL: https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html
+INFO     2026-08-22 01:40:54 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-22 01:40:54 [scraper.py:178] 🎉 [HN] All done.
+
