@@ -5708,3 +5708,8 @@ INFO     2026-08-22 01:40:52 [scraper.py:47] 📥 [APOD] Title: Time-Lapse of th
 INFO     2026-08-22 01:40:52 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/eso2612b.mp4
 INFO     2026-08-22 01:40:52 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-22 05:32:29 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-22 05:32:29 [scraper.py:47] 📥 [APOD] Title: Mostly Perseids
+INFO     2026-08-22 05:32:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
+INFO     2026-08-22 05:32:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
