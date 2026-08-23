@@ -5723,3 +5723,6 @@ INFO     2026-08-23 01:50:29 [scraper.py:47] 📥 [APOD] Title: Mostly Perseids
 INFO     2026-08-23 01:50:29 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
 INFO     2026-08-23 01:50:29 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-23 05:33:55 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-08-23 05:33:55 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
+
