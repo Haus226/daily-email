@@ -5732,3 +5732,8 @@ ERROR    2026-08-23 10:24:11 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneTy
 INFO     2026-08-24 01:48:06 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-08-24 01:48:06 [scraper.py:71] ❌ [APOD] Failed to fetch: 'NoneType' object has no attribute 'find'
 
+INFO     2026-08-24 05:42:15 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-24 05:42:15 [scraper.py:47] 📥 [APOD] Title: Comet 220P in Outburst
+INFO     2026-08-24 05:42:15 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg
+INFO     2026-08-24 05:42:15 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
