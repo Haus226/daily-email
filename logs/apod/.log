@@ -5747,3 +5747,8 @@ INFO     2026-08-25 01:42:51 [scraper.py:47] 📥 [APOD] Title: Comet 220P in Ou
 INFO     2026-08-25 01:42:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg
 INFO     2026-08-25 01:42:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-25 05:36:23 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-25 05:36:23 [scraper.py:47] 📥 [APOD] Title: Earth's Shadow Visualized with Lunar Eclipses
+INFO     2026-08-25 05:36:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg
+INFO     2026-08-25 05:36:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
