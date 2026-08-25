@@ -5838,3 +5838,8 @@ INFO     2026-08-24 10:37:19 [scraper.py:390] 📥 [TAROT] Card: Knight of Cups
 INFO     2026-08-24 10:37:19 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-08-24 10:37:19 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-08-25 01:42:50 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-08-25 01:42:50 [scraper.py:390] 📥 [TAROT] Card: Three of Cups
+INFO     2026-08-25 01:42:50 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-08-25 01:42:50 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
