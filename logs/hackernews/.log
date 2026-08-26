@@ -38857,3 +38857,36 @@ INFO     2026-08-26 05:38:50 [scraper.py:171] 🔗 [HN #10] URL: https://sethmla
 INFO     2026-08-26 05:38:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-26 05:38:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-26 10:35:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-26 10:35:27 [scraper.py:170] 📥 [HN #1] Oldinsurancemaps.net is now a Charter Project
+INFO     2026-08-26 10:35:27 [scraper.py:171] 🔗 [HN #1] URL: https://openstreetmap.us/news/2026/08/oim-charter-project/
+INFO     2026-08-26 10:35:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-26 10:35:27 [scraper.py:170] 📥 [HN #2] RAG Is Simpler Than You Think
+INFO     2026-08-26 10:35:27 [scraper.py:171] 🔗 [HN #2] URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think
+INFO     2026-08-26 10:35:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-26 10:35:27 [scraper.py:170] 📥 [HN #3] Nobody Wants Artisanal Code Anymore
+INFO     2026-08-26 10:35:27 [scraper.py:171] 🔗 [HN #3] URL: https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore
+INFO     2026-08-26 10:35:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-26 10:35:28 [scraper.py:170] 📥 [HN #4] Value Classes Still Need Compiler Sympathy
+INFO     2026-08-26 10:35:28 [scraper.py:171] 🔗 [HN #4] URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/
+INFO     2026-08-26 10:35:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-26 10:35:28 [scraper.py:170] 📥 [HN #5] Show HN: Buslens – where can I get to by bus? (UK)
+INFO     2026-08-26 10:35:28 [scraper.py:171] 🔗 [HN #5] URL: https://rupertlinacre.com/buslens/
+INFO     2026-08-26 10:35:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-26 10:35:28 [scraper.py:170] 📥 [HN #6] Apple introduces M6 and M5 Ultra
+INFO     2026-08-26 10:35:28 [scraper.py:171] 🔗 [HN #6] URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+INFO     2026-08-26 10:35:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-26 10:35:28 [scraper.py:170] 📥 [HN #7] Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]
+INFO     2026-08-26 10:35:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=656058JxTM0
+INFO     2026-08-26 10:35:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-26 10:35:29 [scraper.py:170] 📥 [HN #8] FDA authorizes first wearable device that monitors ketone and blood sugar levels
+INFO     2026-08-26 10:35:29 [scraper.py:171] 🔗 [HN #8] URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+INFO     2026-08-26 10:35:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-26 10:35:29 [scraper.py:170] 📥 [HN #9] Queryable Executables
+INFO     2026-08-26 10:35:29 [scraper.py:171] 🔗 [HN #9] URL: https://fzakaria.com/2026/08/24/actually-queryable-executables
+INFO     2026-08-26 10:35:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-26 10:35:29 [scraper.py:170] 📥 [HN #10] OpenAI Jalapeño: Better than Nvidia Blackwell
+INFO     2026-08-26 10:35:29 [scraper.py:171] 🔗 [HN #10] URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+INFO     2026-08-26 10:35:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-26 10:35:29 [scraper.py:178] 🎉 [HN] All done.
+
