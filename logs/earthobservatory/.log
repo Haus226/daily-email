@@ -18566,3 +18566,24 @@ INFO     2026-08-25 10:33:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-08-25 10:33:20 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-08-26 01:48:12 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-26 01:48:13 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-26 01:48:14 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-26 01:48:14 [scraper.py:133] 📥 [EO] Title: Michigan’s Les Cheneaux Islands
+INFO     2026-08-26 01:48:14 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/michigan’s-les-cheneaux-islands/cheneaux_oli2_20260723_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-26 01:48:14 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-26 01:48:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-26 01:48:14 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-08-26 01:48:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-26 01:48:15 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-08-26 01:48:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-26 01:48:15 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-08-26 01:48:15 [scraper.py:133] 📥 [EO] Title: Michigan’s Les Cheneaux Islands
+INFO     2026-08-26 01:48:15 [scraper.py:133] 📥 [EO] Title: Michigan’s Les Cheneaux Islands
+INFO     2026-08-26 01:48:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/michigan’s-les-cheneaux-islands/cheneaux_oli2_20260723_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-26 01:48:15 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/michigan’s-les-cheneaux-islands/cheneaux_oli2_20260723_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-08-26 01:48:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-08-26 01:48:15 [scraper.py:154] ✅ [EO] Successfully fetched.
+
