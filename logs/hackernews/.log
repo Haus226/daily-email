@@ -38923,3 +38923,36 @@ INFO     2026-08-27 08:54:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.cle
 INFO     2026-08-27 08:54:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-27 08:54:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-27 16:19:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-27 16:19:02 [scraper.py:170] 📥 [HN #1] 507 Mechanical Movements
+INFO     2026-08-27 16:19:02 [scraper.py:171] 🔗 [HN #1] URL: https://507movements.com/
+INFO     2026-08-27 16:19:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-27 16:19:03 [scraper.py:170] 📥 [HN #2] Software engineering is about managing complexity
+INFO     2026-08-27 16:19:03 [scraper.py:171] 🔗 [HN #2] URL: https://hack8s.com/422/once-again-software-engineering-is-about-managing-complexity
+INFO     2026-08-27 16:19:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-27 16:19:03 [scraper.py:170] 📥 [HN #3] Pollen Robotics (Hugging Face) Microduck
+INFO     2026-08-27 16:19:03 [scraper.py:171] 🔗 [HN #3] URL: https://pollen-robotics.com/microduck/
+INFO     2026-08-27 16:19:03 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-27 16:19:03 [scraper.py:170] 📥 [HN #4] Nvidia agrees to acquire Hugging Face for $13B
+INFO     2026-08-27 16:19:03 [scraper.py:171] 🔗 [HN #4] URL: https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8
+INFO     2026-08-27 16:19:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-27 16:19:03 [scraper.py:170] 📥 [HN #5] Emacs 31: An unofficial guide to Markdown-ts-mode
+INFO     2026-08-27 16:19:03 [scraper.py:171] 🔗 [HN #5] URL: https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31
+INFO     2026-08-27 16:19:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-27 16:19:04 [scraper.py:170] 📥 [HN #6] Uefa pursuing criminal legal action against Infantino
+INFO     2026-08-27 16:19:04 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.com/sport/football/articles/cx2zl5kwlxjo
+INFO     2026-08-27 16:19:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-27 16:19:04 [scraper.py:170] 📥 [HN #7] Launching Route 53 Files
+INFO     2026-08-27 16:19:04 [scraper.py:171] 🔗 [HN #7] URL: https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html
+INFO     2026-08-27 16:19:04 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-27 16:19:04 [scraper.py:170] 📥 [HN #8] CoMaps integration with the wider FLOSS ecosystem
+INFO     2026-08-27 16:19:04 [scraper.py:171] 🔗 [HN #8] URL: https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/
+INFO     2026-08-27 16:19:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-27 16:19:04 [scraper.py:170] 📥 [HN #9] Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots
+INFO     2026-08-27 16:19:04 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=49466715
+INFO     2026-08-27 16:19:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-27 16:19:05 [scraper.py:170] 📥 [HN #10] Yayoi Kusama has died
+INFO     2026-08-27 16:19:05 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc.com/news/articles/c3v4k0re3vwo
+INFO     2026-08-27 16:19:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-27 16:19:05 [scraper.py:178] 🎉 [HN] All done.
+
