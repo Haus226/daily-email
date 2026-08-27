@@ -38890,3 +38890,36 @@ INFO     2026-08-26 10:35:29 [scraper.py:171] 🔗 [HN #10] URL: https://newslet
 INFO     2026-08-26 10:35:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-26 10:35:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-27 08:54:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-27 08:54:51 [scraper.py:170] 📥 [HN #1] Nvidia agrees to acquire Hugging Face for $13B
+INFO     2026-08-27 08:54:51 [scraper.py:171] 🔗 [HN #1] URL: https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8
+INFO     2026-08-27 08:54:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-27 08:54:51 [scraper.py:170] 📥 [HN #2] Mechanical Turk shutting down September 30
+INFO     2026-08-27 08:54:51 [scraper.py:171] 🔗 [HN #2] URL: https://www.mturk.com/
+INFO     2026-08-27 08:54:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-27 08:54:51 [scraper.py:170] 📥 [HN #3] GLM-5.3-Flash
+INFO     2026-08-27 08:54:51 [scraper.py:171] 🔗 [HN #3] URL: https://z.ai/blog/glm-5.3-flash
+INFO     2026-08-27 08:54:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-27 08:54:52 [scraper.py:170] 📥 [HN #4] Asahi Linux Progress Report: Linux 7.2
+INFO     2026-08-27 08:54:52 [scraper.py:171] 🔗 [HN #4] URL: https://asahilinux.org/2026/08/progress-report-7-2/
+INFO     2026-08-27 08:54:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-27 08:54:52 [scraper.py:170] 📥 [HN #5] Tailcat – Like netcat, but over Tailscale’s data plane
+INFO     2026-08-27 08:54:52 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/tailscale/tailcat
+INFO     2026-08-27 08:54:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-27 08:54:52 [scraper.py:170] 📥 [HN #6] Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+INFO     2026-08-27 08:54:52 [scraper.py:171] 🔗 [HN #6] URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
+INFO     2026-08-27 08:54:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-27 08:54:52 [scraper.py:170] 📥 [HN #7] CEO fired developers to make room for AI. Developers create open source AI CEO
+INFO     2026-08-27 08:54:52 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/SenteLabsAI/OpenExecutive
+INFO     2026-08-27 08:54:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-27 08:54:53 [scraper.py:170] 📥 [HN #8] U.S. State Department pauses immigrant visa applications
+INFO     2026-08-27 08:54:53 [scraper.py:171] 🔗 [HN #8] URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23
+INFO     2026-08-27 08:54:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-27 08:54:53 [scraper.py:170] 📥 [HN #9] An ongoing 3D-printer AGPL violation
+INFO     2026-08-27 08:54:53 [scraper.py:171] 🔗 [HN #9] URL: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/
+INFO     2026-08-27 08:54:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-27 08:54:53 [scraper.py:170] 📥 [HN #10] Stripe acquires Clerky
+INFO     2026-08-27 08:54:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.clerky.com/blog/clerky-is-joining-stripe
+INFO     2026-08-27 08:54:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-27 08:54:53 [scraper.py:178] 🎉 [HN] All done.
+

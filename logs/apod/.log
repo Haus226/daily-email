@@ -5772,3 +5772,8 @@ INFO     2026-08-26 10:35:27 [scraper.py:47] 📥 [APOD] Title: JWST Images The 
 INFO     2026-08-26 10:35:27 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg
 INFO     2026-08-26 10:35:27 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-27 08:54:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-27 08:54:51 [scraper.py:47] 📥 [APOD] Title: Colorful Aurora over Icelandic Waterfall
+INFO     2026-08-27 08:54:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg
+INFO     2026-08-27 08:54:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
