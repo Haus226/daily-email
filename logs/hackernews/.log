@@ -38956,3 +38956,36 @@ INFO     2026-08-27 16:19:05 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc
 INFO     2026-08-27 16:19:05 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-27 16:19:05 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-27 20:10:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-27 20:10:50 [scraper.py:170] 📥 [HN #1] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+INFO     2026-08-27 20:10:50 [scraper.py:171] 🔗 [HN #1] URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+INFO     2026-08-27 20:10:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-27 20:10:50 [scraper.py:170] 📥 [HN #2] Small Models Have Arrived
+INFO     2026-08-27 20:10:50 [scraper.py:171] 🔗 [HN #2] URL: https://calv.info/small-models-have-arrived
+INFO     2026-08-27 20:10:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-27 20:10:50 [scraper.py:170] 📥 [HN #3] 507 Mechanical Movements
+INFO     2026-08-27 20:10:50 [scraper.py:171] 🔗 [HN #3] URL: https://507movements.com/
+INFO     2026-08-27 20:10:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-27 20:10:51 [scraper.py:170] 📥 [HN #4] We found a division by zero bug in FFmpeg with a vibecoded fuzzer
+INFO     2026-08-27 20:10:51 [scraper.py:171] 🔗 [HN #4] URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290
+INFO     2026-08-27 20:10:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-27 20:10:51 [scraper.py:170] 📥 [HN #5] Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+INFO     2026-08-27 20:10:51 [scraper.py:171] 🔗 [HN #5] URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc
+INFO     2026-08-27 20:10:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-27 20:10:51 [scraper.py:170] 📥 [HN #6] Gemini Omni 1.1 Flash
+INFO     2026-08-27 20:10:51 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/
+INFO     2026-08-27 20:10:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-27 20:10:51 [scraper.py:170] 📥 [HN #7] Autism mutations drive neurodevelopmental pathology
+INFO     2026-08-27 20:10:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.science.org/doi/10.1126/science.ady4523
+INFO     2026-08-27 20:10:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-27 20:10:52 [scraper.py:170] 📥 [HN #8] Decompiling a Nintendo 64 game in 84 days
+INFO     2026-08-27 20:10:52 [scraper.py:171] 🔗 [HN #8] URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/
+INFO     2026-08-27 20:10:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-27 20:10:52 [scraper.py:170] 📥 [HN #9] Microduck
+INFO     2026-08-27 20:10:52 [scraper.py:171] 🔗 [HN #9] URL: https://pollen-robotics.com/microduck/
+INFO     2026-08-27 20:10:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-27 20:10:52 [scraper.py:170] 📥 [HN #10] Previewing the Model Hardware Standard
+INFO     2026-08-27 20:10:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.anthropic.com/news/model-hardware-standard-research-preview
+INFO     2026-08-27 20:10:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-27 20:10:52 [scraper.py:178] 🎉 [HN] All done.
+
