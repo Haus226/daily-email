@@ -38989,3 +38989,36 @@ INFO     2026-08-27 20:10:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.ant
 INFO     2026-08-27 20:10:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-27 20:10:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-28 11:07:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-28 11:07:34 [scraper.py:170] 📥 [HN #1] Hilariously Fast Volume Computation with the Divergence Theorem
+INFO     2026-08-28 11:07:34 [scraper.py:171] 🔗 [HN #1] URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html
+INFO     2026-08-28 11:07:34 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-28 11:07:34 [scraper.py:170] 📥 [HN #2] Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+INFO     2026-08-28 11:07:34 [scraper.py:171] 🔗 [HN #2] URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+INFO     2026-08-28 11:07:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-28 11:07:34 [scraper.py:170] 📥 [HN #3] Small Models Have Arrived
+INFO     2026-08-28 11:07:34 [scraper.py:171] 🔗 [HN #3] URL: https://calv.info/small-models-have-arrived
+INFO     2026-08-28 11:07:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-28 11:07:34 [scraper.py:170] 📥 [HN #4] Sovereign Tech Agency invests €500k in Flatpak
+INFO     2026-08-28 11:07:34 [scraper.py:171] 🔗 [HN #4] URL: https://modal.cx/blog/announcing-flatpak-sta/
+INFO     2026-08-28 11:07:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-28 11:07:35 [scraper.py:170] 📥 [HN #5] 507 Mechanical Movements
+INFO     2026-08-28 11:07:35 [scraper.py:171] 🔗 [HN #5] URL: https://507movements.com/
+INFO     2026-08-28 11:07:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-28 11:07:35 [scraper.py:170] 📥 [HN #6] Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
+INFO     2026-08-28 11:07:35 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/elyosh/OpenTIE/
+INFO     2026-08-28 11:07:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-28 11:07:35 [scraper.py:170] 📥 [HN #7] Gemini-3.5-Transcribe
+INFO     2026-08-28 11:07:35 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+INFO     2026-08-28 11:07:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-28 11:07:35 [scraper.py:170] 📥 [HN #8] Microduck
+INFO     2026-08-28 11:07:35 [scraper.py:171] 🔗 [HN #8] URL: https://pollen-robotics.com/microduck/
+INFO     2026-08-28 11:07:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-28 11:07:35 [scraper.py:170] 📥 [HN #9] Doctors are finally learning to manage antidepressant withdrawal
+INFO     2026-08-28 11:07:35 [scraper.py:171] 🔗 [HN #9] URL: https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/
+INFO     2026-08-28 11:07:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-28 11:07:36 [scraper.py:170] 📥 [HN #10] We found a division by zero bug in FFmpeg with a vibecoded fuzzer
+INFO     2026-08-28 11:07:36 [scraper.py:171] 🔗 [HN #10] URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290
+INFO     2026-08-28 11:07:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-28 11:07:36 [scraper.py:178] 🎉 [HN] All done.
+

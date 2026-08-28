@@ -5787,3 +5787,8 @@ INFO     2026-08-27 20:10:50 [scraper.py:47] 📥 [APOD] Title: Colorful Aurora 
 INFO     2026-08-27 20:10:50 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg
 INFO     2026-08-27 20:10:50 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-28 11:07:33 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-28 11:07:34 [scraper.py:47] 📥 [APOD] Title: The Sky Turns Above Paranal
+INFO     2026-08-28 11:07:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg
+INFO     2026-08-28 11:07:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
