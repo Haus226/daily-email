@@ -39055,3 +39055,36 @@ INFO     2026-08-28 17:15:16 [scraper.py:171] 🔗 [HN #10] URL: https://dactyl.
 INFO     2026-08-28 17:15:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-28 17:15:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-28 21:07:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-28 21:07:28 [scraper.py:170] 📥 [HN #1] GUIs should be fully keyboard-driven
+INFO     2026-08-28 21:07:28 [scraper.py:171] 🔗 [HN #1] URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+INFO     2026-08-28 21:07:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-28 21:07:29 [scraper.py:170] 📥 [HN #2] 25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA
+INFO     2026-08-28 21:07:29 [scraper.py:171] 🔗 [HN #2] URL: https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/
+INFO     2026-08-28 21:07:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-28 21:07:29 [scraper.py:170] 📥 [HN #3] Htmx 4.0
+INFO     2026-08-28 21:07:29 [scraper.py:171] 🔗 [HN #3] URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+INFO     2026-08-28 21:07:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-28 21:07:29 [scraper.py:170] 📥 [HN #4] Just the rumour of a bug is enough to find an exploit these days
+INFO     2026-08-28 21:07:29 [scraper.py:171] 🔗 [HN #4] URL: https://anil.recoil.org/notes/rumour-is-the-exploit
+INFO     2026-08-28 21:07:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-28 21:07:29 [scraper.py:170] 📥 [HN #5] U.S. sanctions against the A/I Collective
+INFO     2026-08-28 21:07:29 [scraper.py:171] 🔗 [HN #5] URL: https://www.inventati.org/
+INFO     2026-08-28 21:07:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:170] 📥 [HN #6] Stopping the smart TV from being used against you
+INFO     2026-08-28 21:07:30 [scraper.py:171] 🔗 [HN #6] URL: https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/
+INFO     2026-08-28 21:07:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:170] 📥 [HN #7] Inception-style curved map for turn-by-turn directions
+INFO     2026-08-28 21:07:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.orbify.eu/demo/
+INFO     2026-08-28 21:07:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:170] 📥 [HN #8] Isitdoneyet.gg is a website I made to figure out if games are complete
+INFO     2026-08-28 21:07:30 [scraper.py:171] 🔗 [HN #8] URL: https://isitdoneyet.gg/
+INFO     2026-08-28 21:07:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:170] 📥 [HN #9] Curvature Beziers: Improving on a timeless recipe
+INFO     2026-08-28 21:07:30 [scraper.py:171] 🔗 [HN #9] URL: https://acko.net/blog/curvature-beziers/
+INFO     2026-08-28 21:07:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:170] 📥 [HN #10] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+INFO     2026-08-28 21:07:30 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/2608.23691
+INFO     2026-08-28 21:07:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-28 21:07:30 [scraper.py:178] 🎉 [HN] All done.
+
