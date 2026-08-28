@@ -39022,3 +39022,36 @@ INFO     2026-08-28 11:07:36 [scraper.py:171] 🔗 [HN #10] URL: https://code.ff
 INFO     2026-08-28 11:07:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-28 11:07:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-28 17:15:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-28 17:15:14 [scraper.py:170] 📥 [HN #1] Get your Windows license refund
+INFO     2026-08-28 17:15:14 [scraper.py:171] 🔗 [HN #1] URL: https://en.refund4freedom.org/
+INFO     2026-08-28 17:15:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-28 17:15:14 [scraper.py:170] 📥 [HN #2] Just the rumour of a bug is enough to find an exploit these days
+INFO     2026-08-28 17:15:14 [scraper.py:171] 🔗 [HN #2] URL: https://anil.recoil.org/notes/rumour-is-the-exploit
+INFO     2026-08-28 17:15:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-28 17:15:14 [scraper.py:170] 📥 [HN #3] Inception-style curved map for turn-by-turn directions
+INFO     2026-08-28 17:15:14 [scraper.py:171] 🔗 [HN #3] URL: https://www.orbify.eu/demo/
+INFO     2026-08-28 17:15:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-28 17:15:15 [scraper.py:170] 📥 [HN #4] U.S. sanctions against the A/I Collective
+INFO     2026-08-28 17:15:15 [scraper.py:171] 🔗 [HN #4] URL: https://www.inventati.org/
+INFO     2026-08-28 17:15:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-28 17:15:15 [scraper.py:170] 📥 [HN #5] GLM-5.3 is now open-weight
+INFO     2026-08-28 17:15:15 [scraper.py:171] 🔗 [HN #5] URL: https://twitter.com/Zai_org/status/2093354097122455713
+INFO     2026-08-28 17:15:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-28 17:15:15 [scraper.py:170] 📥 [HN #6] Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
+INFO     2026-08-28 17:15:15 [scraper.py:171] 🔗 [HN #6] URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering
+INFO     2026-08-28 17:15:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-28 17:15:15 [scraper.py:170] 📥 [HN #7] Htmx 4.0.0
+INFO     2026-08-28 17:15:15 [scraper.py:171] 🔗 [HN #7] URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+INFO     2026-08-28 17:15:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-28 17:15:16 [scraper.py:170] 📥 [HN #8] GUIs should be fully keyboard-driven
+INFO     2026-08-28 17:15:16 [scraper.py:171] 🔗 [HN #8] URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+INFO     2026-08-28 17:15:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-28 17:15:16 [scraper.py:170] 📥 [HN #9] State of the Map 2026
+INFO     2026-08-28 17:15:16 [scraper.py:171] 🔗 [HN #9] URL: https://2026.stateofthemap.org/
+INFO     2026-08-28 17:15:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-28 17:15:16 [scraper.py:170] 📥 [HN #10] How Dactyl Works
+INFO     2026-08-28 17:15:16 [scraper.py:171] 🔗 [HN #10] URL: https://dactyl.dev/blog/how-dactyl-works/
+INFO     2026-08-28 17:15:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-28 17:15:16 [scraper.py:178] 🎉 [HN] All done.
+
