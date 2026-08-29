@@ -39154,3 +39154,18 @@ INFO     2026-08-29 11:32:30 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-08-29 11:32:30 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-29 11:32:30 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-29 14:56:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-29 14:56:50 [scraper.py:170] 📥 [HN #1] Debian votes to allow "responsible use of generative AI"
+INFO     2026-08-29 14:56:50 [scraper.py:171] 🔗 [HN #1] URL: https://lwn.net/Articles/1091231/
+INFO     2026-08-29 14:56:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-29 14:56:50 [scraper.py:170] 📥 [HN #2] Indirect Calling of Nested Functions on GCC Without Executable Stack
+INFO     2026-08-29 14:56:50 [scraper.py:171] 🔗 [HN #2] URL: https://uecker.codeberg.page/2026-08-29.html
+INFO     2026-08-29 14:56:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-29 14:56:50 [scraper.py:170] 📥 [HN #3] Samsung's Processing-in-Memory (PIM)
+INFO     2026-08-29 14:56:50 [scraper.py:171] 🔗 [HN #3] URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
+INFO     2026-08-29 14:56:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-29 14:56:51 [scraper.py:170] 📥 [HN #4] Show HN: Typebase – A single-folder back end you write in TypeScript
+INFO     2026-08-29 14:56:51 [scraper.py:171] 🔗 [HN #4] URL: https://typebase.io
+INFO     2026-08-29 14:56:51 [scraper.py:174] ✅ [HN #4] Done ✅
+ERROR    2026-08-29 14:56:51 [scraper.py:180] ❌ [HN] Failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
