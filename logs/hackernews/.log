@@ -39235,3 +39235,36 @@ INFO     2026-08-30 10:25:02 [scraper.py:171] 🔗 [HN #10] URL: https://zackbar
 INFO     2026-08-30 10:25:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-30 10:25:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-30 14:43:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-30 14:43:10 [scraper.py:170] 📥 [HN #1] Hacking IKEA Furniture
+INFO     2026-08-30 14:43:10 [scraper.py:171] 🔗 [HN #1] URL: https://greenlightning.eu/diy/hacking-ikea-furniture/
+INFO     2026-08-30 14:43:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-30 14:43:10 [scraper.py:170] 📥 [HN #2] What my dad taught me about AI coding in the 90s
+INFO     2026-08-30 14:43:10 [scraper.py:171] 🔗 [HN #2] URL: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
+INFO     2026-08-30 14:43:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-30 14:43:10 [scraper.py:170] 📥 [HN #3] No AI Fridays
+INFO     2026-08-30 14:43:10 [scraper.py:171] 🔗 [HN #3] URL: https://noaifridays.com/
+INFO     2026-08-30 14:43:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-30 14:43:11 [scraper.py:170] 📥 [HN #4] Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]
+INFO     2026-08-30 14:43:11 [scraper.py:171] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=hpj6r6CjJf8
+INFO     2026-08-30 14:43:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-30 14:43:11 [scraper.py:170] 📥 [HN #5] Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+INFO     2026-08-30 14:43:11 [scraper.py:171] 🔗 [HN #5] URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/
+INFO     2026-08-30 14:43:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-30 14:43:11 [scraper.py:170] 📥 [HN #6] Creepy Crawlies
+INFO     2026-08-30 14:43:11 [scraper.py:171] 🔗 [HN #6] URL: https://people.kernel.org/monsieuricon/creepy-crawlies
+INFO     2026-08-30 14:43:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-30 14:43:11 [scraper.py:170] 📥 [HN #7] Longest Straight Line Paths on Water or Land on the Earth (2018)
+INFO     2026-08-30 14:43:11 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/1804.07389
+INFO     2026-08-30 14:43:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-30 14:43:11 [scraper.py:170] 📥 [HN #8] An implementation of Conway's Game of Life for Windows 3.1x and later
+INFO     2026-08-30 14:43:11 [scraper.py:171] 🔗 [HN #8] URL: https://www.muppetlabs.com/~breadbox/software/windows.html
+INFO     2026-08-30 14:43:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-30 14:43:12 [scraper.py:170] 📥 [HN #9] Brits would quite like their private messages to stay private
+INFO     2026-08-30 14:43:12 [scraper.py:171] 🔗 [HN #9] URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
+INFO     2026-08-30 14:43:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-30 14:43:12 [scraper.py:170] 📥 [HN #10] RISC-V is now officially supported by CPython
+INFO     2026-08-30 14:43:12 [scraper.py:171] 🔗 [HN #10] URL: https://blog.python.org/2026/08/riscv-now-officially-supported/
+INFO     2026-08-30 14:43:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-30 14:43:12 [scraper.py:178] 🎉 [HN] All done.
+
