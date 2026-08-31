@@ -39268,3 +39268,36 @@ INFO     2026-08-30 14:43:12 [scraper.py:171] 🔗 [HN #10] URL: https://blog.py
 INFO     2026-08-30 14:43:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-08-30 14:43:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-08-31 05:13:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-08-31 05:13:52 [scraper.py:170] 📥 [HN #1] “I just chose words carefully”
+INFO     2026-08-31 05:13:52 [scraper.py:171] 🔗 [HN #1] URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
+INFO     2026-08-31 05:13:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-08-31 05:13:53 [scraper.py:170] 📥 [HN #2] P99 0 ms* autocomplete for 240M domain names
+INFO     2026-08-31 05:13:53 [scraper.py:171] 🔗 [HN #2] URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
+INFO     2026-08-31 05:13:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-08-31 05:13:53 [scraper.py:170] 📥 [HN #3] Creepy Crawlies
+INFO     2026-08-31 05:13:53 [scraper.py:171] 🔗 [HN #3] URL: https://people.kernel.org/monsieuricon/creepy-crawlies
+INFO     2026-08-31 05:13:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-08-31 05:13:53 [scraper.py:170] 📥 [HN #4] It takes 5 cloud services to hear my doorbell
+INFO     2026-08-31 05:13:53 [scraper.py:171] 🔗 [HN #4] URL: https://blog.vghaisas.com/rube-goldberg-doorbell/
+INFO     2026-08-31 05:13:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-08-31 05:13:53 [scraper.py:170] 📥 [HN #5] The EU has begun enforcing the AI Act: first RFIs to model providers
+INFO     2026-08-31 05:13:53 [scraper.py:171] 🔗 [HN #5] URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis
+INFO     2026-08-31 05:13:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-08-31 05:13:54 [scraper.py:170] 📥 [HN #6] My hobby of building miniatures and taking pretty pictures
+INFO     2026-08-31 05:13:54 [scraper.py:171] 🔗 [HN #6] URL: https://sandyuraz.com/blogs/tiny-cafe/
+INFO     2026-08-31 05:13:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-08-31 05:13:54 [scraper.py:170] 📥 [HN #7] Matrox: Graphics for Professionals
+INFO     2026-08-31 05:13:54 [scraper.py:171] 🔗 [HN #7] URL: https://www.abortretry.fail/p/matrox
+INFO     2026-08-31 05:13:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-08-31 05:13:54 [scraper.py:170] 📥 [HN #8] Haiku R1/beta6 has been released
+INFO     2026-08-31 05:13:54 [scraper.py:171] 🔗 [HN #8] URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+INFO     2026-08-31 05:13:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-08-31 05:13:54 [scraper.py:170] 📥 [HN #9] Understanding ChatGPT Work
+INFO     2026-08-31 05:13:54 [scraper.py:171] 🔗 [HN #9] URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+INFO     2026-08-31 05:13:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-08-31 05:13:55 [scraper.py:170] 📥 [HN #10] Internet centralization and the original sin of NAT
+INFO     2026-08-31 05:13:55 [scraper.py:171] 🔗 [HN #10] URL: https://dreamstation.systems/personal/ntppost.html
+INFO     2026-08-31 05:13:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-08-31 05:13:55 [scraper.py:178] 🎉 [HN] All done.
+
