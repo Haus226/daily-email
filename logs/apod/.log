@@ -5842,3 +5842,8 @@ INFO     2026-08-31 11:29:53 [scraper.py:47] 📥 [APOD] Title: Launch of the Ro
 INFO     2026-08-31 11:29:53 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4
 INFO     2026-08-31 11:29:53 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-08-31 17:25:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-08-31 17:25:18 [scraper.py:47] 📥 [APOD] Title: Launch of the Roman Space Telescope
+INFO     2026-08-31 17:25:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4
+INFO     2026-08-31 17:25:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
