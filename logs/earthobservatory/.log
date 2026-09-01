@@ -18986,3 +18986,24 @@ INFO     2026-09-01 09:51:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-01 09:51:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-01 14:35:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-01 14:35:17 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-01 14:35:17 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-01 14:35:17 [scraper.py:133] 📥 [EO] Title: Ice Island Survives Run-In With Joe Island
+INFO     2026-09-01 14:35:17 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-01 14:35:17 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-01 14:35:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-01 14:35:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-01 14:35:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-01 14:35:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-01 14:35:18 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-01 14:35:18 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-01 14:35:18 [scraper.py:133] 📥 [EO] Title: Ice Island Survives Run-In With Joe Island
+INFO     2026-09-01 14:35:18 [scraper.py:133] 📥 [EO] Title: Ice Island Survives Run-In With Joe Island
+INFO     2026-09-01 14:35:18 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-01 14:35:18 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-01 14:35:18 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-01 14:35:18 [scraper.py:154] ✅ [EO] Successfully fetched.
+

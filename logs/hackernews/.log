@@ -39433,3 +39433,36 @@ INFO     2026-09-01 09:51:43 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-09-01 09:51:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-01 09:51:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-01 14:35:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-01 14:35:18 [scraper.py:170] 📥 [HN #1] AnkiDroid: Google Play no longer allowing Open Collective donation link
+INFO     2026-09-01 14:35:18 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/ankidroid/Anki-Android/issues/21656
+INFO     2026-09-01 14:35:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-01 14:35:18 [scraper.py:170] 📥 [HN #2] 44% on ARC-AGI-1 in 67 cents
+INFO     2026-09-01 14:35:18 [scraper.py:171] 🔗 [HN #2] URL: https://mvakde.github.io/blog/44-on-arc-1/
+INFO     2026-09-01 14:35:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-01 14:35:18 [scraper.py:170] 📥 [HN #3] American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career
+INFO     2026-09-01 14:35:18 [scraper.py:171] 🔗 [HN #3] URL: https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/
+INFO     2026-09-01 14:35:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-01 14:35:19 [scraper.py:170] 📥 [HN #4] Fastpotify
+INFO     2026-09-01 14:35:19 [scraper.py:171] 🔗 [HN #4] URL: https://fastpotify.rocks/
+INFO     2026-09-01 14:35:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-01 14:35:19 [scraper.py:170] 📥 [HN #5] Io_uring Without Readahead
+INFO     2026-09-01 14:35:19 [scraper.py:171] 🔗 [HN #5] URL: https://frn.sh/io-uring/
+INFO     2026-09-01 14:35:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-01 14:35:19 [scraper.py:170] 📥 [HN #6] Tmp.0ut Volume 5
+INFO     2026-09-01 14:35:19 [scraper.py:171] 🔗 [HN #6] URL: https://tmpout.sh/5/
+INFO     2026-09-01 14:35:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-01 14:35:19 [scraper.py:170] 📥 [HN #7] Restroom Archive
+INFO     2026-09-01 14:35:19 [scraper.py:171] 🔗 [HN #7] URL: https://restroomarchive.com
+INFO     2026-09-01 14:35:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-01 14:35:20 [scraper.py:170] 📥 [HN #8] GPU World
+INFO     2026-09-01 14:35:20 [scraper.py:171] 🔗 [HN #8] URL: https://www.gpuworld.org/
+INFO     2026-09-01 14:35:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-01 14:35:20 [scraper.py:170] 📥 [HN #9] Playa Phone
+INFO     2026-09-01 14:35:20 [scraper.py:171] 🔗 [HN #9] URL: https://playaphone.com/
+INFO     2026-09-01 14:35:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-01 14:35:20 [scraper.py:170] 📥 [HN #10] Fractal Jittered Voronoi Partitions
+INFO     2026-09-01 14:35:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/
+INFO     2026-09-01 14:35:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-01 14:35:20 [scraper.py:178] 🎉 [HN] All done.
+
