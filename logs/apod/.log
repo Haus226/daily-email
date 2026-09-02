@@ -5872,3 +5872,8 @@ INFO     2026-09-02 09:23:34 [scraper.py:47] 📥 [APOD] Title: Solar Eclipses a
 INFO     2026-09-02 09:23:34 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg
 INFO     2026-09-02 09:23:34 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-02 14:08:32 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-02 14:08:33 [scraper.py:47] 📥 [APOD] Title: Solar Eclipses and Culture
+INFO     2026-09-02 14:08:33 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg
+INFO     2026-09-02 14:08:33 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
