@@ -39466,3 +39466,36 @@ INFO     2026-09-01 14:35:20 [scraper.py:171] 🔗 [HN #10] URL: https://www.bor
 INFO     2026-09-01 14:35:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-01 14:35:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-02 04:10:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-02 04:10:21 [scraper.py:170] 📥 [HN #1] Claude Fable 5.1 and Claude Mythos 5.1
+INFO     2026-09-02 04:10:21 [scraper.py:171] 🔗 [HN #1] URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
+INFO     2026-09-02 04:10:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-02 04:10:21 [scraper.py:170] 📥 [HN #2] How accurate have Ed Zitron's AI skeptic predictions been?
+INFO     2026-09-02 04:10:21 [scraper.py:171] 🔗 [HN #2] URL: https://danluu.com/zitron/
+INFO     2026-09-02 04:10:21 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-02 04:10:22 [scraper.py:170] 📥 [HN #3] True Rate of Unemployment
+INFO     2026-09-02 04:10:22 [scraper.py:171] 🔗 [HN #3] URL: https://www.lisep.org/tru
+INFO     2026-09-02 04:10:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-02 04:10:22 [scraper.py:170] 📥 [HN #4] WebFPGA
+INFO     2026-09-02 04:10:22 [scraper.py:171] 🔗 [HN #4] URL: https://webfpga.io/
+INFO     2026-09-02 04:10:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-02 04:10:23 [scraper.py:170] 📥 [HN #5] The efficient frontier of LLM inference
+INFO     2026-09-02 04:10:23 [scraper.py:171] 🔗 [HN #5] URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
+INFO     2026-09-02 04:10:23 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-02 04:10:23 [scraper.py:170] 📥 [HN #6] My local model setup on an M4 Pro Mac Mini
+INFO     2026-09-02 04:10:23 [scraper.py:171] 🔗 [HN #6] URL: https://lws.io/blog/my-local-model-setup/
+INFO     2026-09-02 04:10:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-02 04:10:23 [scraper.py:170] 📥 [HN #7] Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+INFO     2026-09-02 04:10:23 [scraper.py:171] 🔗 [HN #7] URL: https://masteranza.github.io/weedout/
+INFO     2026-09-02 04:10:23 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-02 04:10:24 [scraper.py:170] 📥 [HN #8] FBI Probes Service Selling 153M+ Drivers Licenses
+INFO     2026-09-02 04:10:24 [scraper.py:171] 🔗 [HN #8] URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+INFO     2026-09-02 04:10:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-02 04:10:24 [scraper.py:170] 📥 [HN #9] Fine, I'll build my own text editor
+INFO     2026-09-02 04:10:24 [scraper.py:171] 🔗 [HN #9] URL: https://dbushell.com/2026/09/01/text-editor/
+INFO     2026-09-02 04:10:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-02 04:10:24 [scraper.py:170] 📥 [HN #10] Introducing Ad Blocker for Firefox on iOS
+INFO     2026-09-02 04:10:24 [scraper.py:171] 🔗 [HN #10] URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
+INFO     2026-09-02 04:10:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-02 04:10:24 [scraper.py:178] 🎉 [HN] All done.
+

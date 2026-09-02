@@ -5862,3 +5862,8 @@ INFO     2026-09-01 14:35:18 [scraper.py:47] 📥 [APOD] Title: A Plane Lunar Ec
 INFO     2026-09-01 14:35:18 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
 INFO     2026-09-01 14:35:18 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-02 04:10:21 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-02 04:10:21 [scraper.py:47] 📥 [APOD] Title: Solar Eclipses and Culture
+INFO     2026-09-02 04:10:21 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg
+INFO     2026-09-02 04:10:21 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
