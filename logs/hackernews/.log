@@ -39631,3 +39631,36 @@ INFO     2026-09-03 09:33:42 [scraper.py:171] 🔗 [HN #10] URL: https://trellne
 INFO     2026-09-03 09:33:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-03 09:33:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-03 14:11:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-03 14:11:54 [scraper.py:170] 📥 [HN #1] Audacity 4.0
+INFO     2026-09-03 14:11:54 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0
+INFO     2026-09-03 14:11:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-03 14:11:54 [scraper.py:170] 📥 [HN #2] Elevated Errors for Multiple Models
+INFO     2026-09-03 14:11:54 [scraper.py:171] 🔗 [HN #2] URL: https://status.claude.com/incidents/461yvfrzpwtt
+INFO     2026-09-03 14:11:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-03 14:11:54 [scraper.py:170] 📥 [HN #3] Pre-Release of Polars 2.0
+INFO     2026-09-03 14:11:54 [scraper.py:171] 🔗 [HN #3] URL: https://pola.rs/posts/announcing-polars-2/
+INFO     2026-09-03 14:11:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-03 14:11:54 [scraper.py:170] 📥 [HN #4] The Browser's Main Thread Is Expensive
+INFO     2026-09-03 14:11:54 [scraper.py:171] 🔗 [HN #4] URL: https://kciter.so/posts/the-expensive-main-thread/en/
+INFO     2026-09-03 14:11:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-03 14:11:55 [scraper.py:170] 📥 [HN #5] Invisible Companies
+INFO     2026-09-03 14:11:55 [scraper.py:171] 🔗 [HN #5] URL: https://colossus.com/article/invisible-companies/
+INFO     2026-09-03 14:11:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-03 14:11:55 [scraper.py:170] 📥 [HN #6] What I Learned from My Mom (1941-2026)
+INFO     2026-09-03 14:11:55 [scraper.py:171] 🔗 [HN #6] URL: https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026
+INFO     2026-09-03 14:11:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-03 14:11:55 [scraper.py:170] 📥 [HN #7] ICE Has a $2M Contract for Spyware That Can Hack Phones Without a Click
+INFO     2026-09-03 14:11:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.military.com/ice-has-a-2-million-contract-for-spyware-that-can-hack-phones-without-a-click
+INFO     2026-09-03 14:11:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-03 14:11:55 [scraper.py:170] 📥 [HN #8] Intrusive Linked Lists
+INFO     2026-09-03 14:11:55 [scraper.py:171] 🔗 [HN #8] URL: https://www.data-structures-in-practice.com/intrusive-linked-lists/
+INFO     2026-09-03 14:11:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-03 14:11:56 [scraper.py:170] 📥 [HN #9] Gemini 3.8 Flash and 3.8 Flash Cyber
+INFO     2026-09-03 14:11:56 [scraper.py:171] 🔗 [HN #9] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+INFO     2026-09-03 14:11:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-03 14:11:56 [scraper.py:170] 📥 [HN #10] 9 Mothers (YC P26) Is Hiring in Austin, TX
+INFO     2026-09-03 14:11:56 [scraper.py:171] 🔗 [HN #10] URL: https://9mothers.com/careers
+INFO     2026-09-03 14:11:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-03 14:11:56 [scraper.py:178] 🎉 [HN] All done.
+
