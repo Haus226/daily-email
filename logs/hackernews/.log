@@ -39697,3 +39697,36 @@ INFO     2026-09-04 04:13:04 [scraper.py:171] 🔗 [HN #10] URL: https://www.dis
 INFO     2026-09-04 04:13:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-04 04:13:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-04 09:25:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-04 09:25:17 [scraper.py:170] 📥 [HN #1] GPT-6 Astra
+INFO     2026-09-04 09:25:17 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/gpt-6-astra/
+INFO     2026-09-04 09:25:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-04 09:25:17 [scraper.py:170] 📥 [HN #2] .name Termination
+INFO     2026-09-04 09:25:17 [scraper.py:171] 🔗 [HN #2] URL: https://neil.fraser.name/news/2026/09/03/
+INFO     2026-09-04 09:25:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-04 09:25:17 [scraper.py:170] 📥 [HN #3] Carbon-aware electricity pricing, measured daily on 38 grids
+INFO     2026-09-04 09:25:17 [scraper.py:171] 🔗 [HN #3] URL: https://carbonawarepricing.com/
+INFO     2026-09-04 09:25:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-04 09:25:17 [scraper.py:170] 📥 [HN #4] Authorization terminology is a mess: Let's fix it
+INFO     2026-09-04 09:25:17 [scraper.py:171] 🔗 [HN #4] URL: https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/
+INFO     2026-09-04 09:25:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-04 09:25:17 [scraper.py:170] 📥 [HN #5] Qwen 3.8 27B available on Cerebras at 1500 tokens/s
+INFO     2026-09-04 09:25:17 [scraper.py:171] 🔗 [HN #5] URL: https://inference-docs.cerebras.ai/models/overview
+INFO     2026-09-04 09:25:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:170] 📥 [HN #6] The Raspberry Pi Interactive Timeline · 2006–2026
+INFO     2026-09-04 09:25:18 [scraper.py:171] 🔗 [HN #6] URL: https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline
+INFO     2026-09-04 09:25:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:170] 📥 [HN #7] The largest electric aircraft just flew [video]
+INFO     2026-09-04 09:25:18 [scraper.py:171] 🔗 [HN #7] URL: https://www.youtube.com/watch?v=nM86DBOqgPM
+INFO     2026-09-04 09:25:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:170] 📥 [HN #8] Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
+INFO     2026-09-04 09:25:18 [scraper.py:171] 🔗 [HN #8] URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/
+INFO     2026-09-04 09:25:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:170] 📥 [HN #9] Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%
+INFO     2026-09-04 09:25:18 [scraper.py:171] 🔗 [HN #9] URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california
+INFO     2026-09-04 09:25:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:170] 📥 [HN #10] How an MIT research project became the Julia programming language
+INFO     2026-09-04 09:25:18 [scraper.py:171] 🔗 [HN #10] URL: https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831
+INFO     2026-09-04 09:25:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-04 09:25:18 [scraper.py:178] 🎉 [HN] All done.
+
