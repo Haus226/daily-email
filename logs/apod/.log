@@ -5900,3 +5900,8 @@ INFO     2026-09-04 09:25:17 [scraper.py:47] 📥 [APOD] Title: Nā ʻUhane Māh
 INFO     2026-09-04 09:25:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg
 INFO     2026-09-04 09:25:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-04 14:02:46 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-04 14:02:46 [scraper.py:47] 📥 [APOD] Title: Nā ʻUhane Māhoe Huki Pū i ke Ola
+INFO     2026-09-04 14:02:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg
+INFO     2026-09-04 14:02:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
