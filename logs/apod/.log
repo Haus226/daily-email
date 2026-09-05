@@ -5905,3 +5905,8 @@ INFO     2026-09-04 14:02:46 [scraper.py:47] 📥 [APOD] Title: Nā ʻUhane Māh
 INFO     2026-09-04 14:02:46 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg
 INFO     2026-09-04 14:02:46 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-05 04:09:05 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-05 04:09:06 [scraper.py:47] 📥 [APOD] Title: Chasing the Moon's Shadow
+INFO     2026-09-05 04:09:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg
+INFO     2026-09-05 04:09:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
