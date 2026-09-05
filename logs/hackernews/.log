@@ -39829,3 +39829,36 @@ INFO     2026-09-05 08:54:12 [scraper.py:171] 🔗 [HN #10] URL: https://eebench
 INFO     2026-09-05 08:54:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-05 08:54:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-05 13:16:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-05 13:16:43 [scraper.py:170] 📥 [HN #1] Actively exploited sandbox RCE in all Chromium versions
+INFO     2026-09-05 13:16:43 [scraper.py:171] 🔗 [HN #1] URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
+INFO     2026-09-05 13:16:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-05 13:16:43 [scraper.py:170] 📥 [HN #2] Discovery of a new OpenAI agent message board
+INFO     2026-09-05 13:16:43 [scraper.py:171] 🔗 [HN #2] URL: https://collusion.wiki/
+INFO     2026-09-05 13:16:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-05 13:16:43 [scraper.py:170] 📥 [HN #3] Nitter has more working instances than before the takedowns
+INFO     2026-09-05 13:16:43 [scraper.py:171] 🔗 [HN #3] URL: https://codeberg.org/mv12star/shitter/wiki/Instances
+INFO     2026-09-05 13:16:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-05 13:16:43 [scraper.py:170] 📥 [HN #4] Formalizing Fermat's Last Theorem
+INFO     2026-09-05 13:16:43 [scraper.py:171] 🔗 [HN #4] URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+INFO     2026-09-05 13:16:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #5] Statichost.eu – European static site hosting
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #5] URL: https://www.statichost.eu/
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #6] Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #6] URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #7] AI handles incidents, engineers lose touch with their systems
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #7] URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #8] Kale: A Transformation-Safe Spreadsheet System
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2608.26345
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #9] Sky Map 2000 – Star Atlas and Planetarium
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #9] URL: https://skymap2000.com/
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:170] 📥 [HN #10] Can AI design circuit boards yet?
+INFO     2026-09-05 13:16:44 [scraper.py:171] 🔗 [HN #10] URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/
+INFO     2026-09-05 13:16:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-05 13:16:44 [scraper.py:178] 🎉 [HN] All done.
+

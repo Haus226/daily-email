@@ -19238,3 +19238,24 @@ INFO     2026-09-05 08:54:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-05 08:54:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-05 13:16:41 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-05 13:16:42 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-05 13:16:42 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-05 13:16:42 [scraper.py:133] 📥 [EO] Title: A Trio of Tropical Cyclones in the Pacific
+INFO     2026-09-05 13:16:42 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-05 13:16:42 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-05 13:16:42 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-05 13:16:42 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-05 13:16:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-05 13:16:43 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-05 13:16:43 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-05 13:16:43 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-05 13:16:43 [scraper.py:133] 📥 [EO] Title: A Trio of Tropical Cyclones in the Pacific
+INFO     2026-09-05 13:16:43 [scraper.py:133] 📥 [EO] Title: A Trio of Tropical Cyclones in the Pacific
+INFO     2026-09-05 13:16:43 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-05 13:16:43 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-05 13:16:43 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-05 13:16:43 [scraper.py:154] ✅ [EO] Successfully fetched.
+
