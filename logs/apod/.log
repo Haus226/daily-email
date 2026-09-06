@@ -5925,3 +5925,8 @@ INFO     2026-09-06 04:17:06 [scraper.py:47] 📥 [APOD] Title: Pluto in Enhance
 INFO     2026-09-06 04:17:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg
 INFO     2026-09-06 04:17:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-06 09:14:03 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-06 09:14:04 [scraper.py:47] 📥 [APOD] Title: Pluto in Enhanced Color
+INFO     2026-09-06 09:14:04 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg
+INFO     2026-09-06 09:14:04 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

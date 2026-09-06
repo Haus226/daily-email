@@ -39895,3 +39895,36 @@ INFO     2026-09-06 04:17:08 [scraper.py:171] 🔗 [HN #10] URL: https://mm-dev.
 INFO     2026-09-06 04:17:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-06 04:17:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-06 09:14:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #1] Isar Aerospace reaches orbit and deploys payloads on second flight
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #1] URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #2] Cloud in a Bottle: making self-hosting accessible to everyone
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #2] URL: https://cloudinabottle.org/blog/launch-post
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #3] The revolt of the reader
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #3] URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #4] Music Theory for Programmers
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #4] URL: https://runjs.app/blog/music-theory-for-programmers
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #5] Play GTA Vice City in the Browser
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #5] URL: https://quenq.com/apps/vice-city-online/
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-06 09:14:04 [scraper.py:170] 📥 [HN #6] The ColorChecker, photography's most important 24 squares, turns 50
+INFO     2026-09-06 09:14:04 [scraper.py:171] 🔗 [HN #6] URL: https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/
+INFO     2026-09-06 09:14:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-06 09:14:05 [scraper.py:170] 📥 [HN #7] OpenBSD Stories: Strange Medieval Devices
+INFO     2026-09-06 09:14:05 [scraper.py:171] 🔗 [HN #7] URL: http://miod.online.fr/software/openbsd/stories/smd.html
+INFO     2026-09-06 09:14:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-06 09:14:05 [scraper.py:170] 📥 [HN #8] AI, Tools and Transformation
+INFO     2026-09-06 09:14:05 [scraper.py:171] 🔗 [HN #8] URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
+INFO     2026-09-06 09:14:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-06 09:14:05 [scraper.py:170] 📥 [HN #9] Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark
+INFO     2026-09-06 09:14:05 [scraper.py:171] 🔗 [HN #9] URL: https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html
+INFO     2026-09-06 09:14:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-06 09:14:05 [scraper.py:170] 📥 [HN #10] AMD Based FreeBSD Desktop Reloaded
+INFO     2026-09-06 09:14:05 [scraper.py:171] 🔗 [HN #10] URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/
+INFO     2026-09-06 09:14:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-06 09:14:05 [scraper.py:178] 🎉 [HN] All done.
+
