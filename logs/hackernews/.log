@@ -39994,3 +39994,36 @@ INFO     2026-09-07 04:16:20 [scraper.py:171] 🔗 [HN #10] URL: https://babylon
 INFO     2026-09-07 04:16:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-07 04:16:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-07 10:02:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-07 10:02:33 [scraper.py:170] 📥 [HN #1] Keep Our Servers Running
+INFO     2026-09-07 10:02:33 [scraper.py:171] 🔗 [HN #1] URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/
+INFO     2026-09-07 10:02:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-07 10:02:34 [scraper.py:170] 📥 [HN #2] Programming is Art
+INFO     2026-09-07 10:02:34 [scraper.py:171] 🔗 [HN #2] URL: https://orchidfiles.com/programming-is-art/
+INFO     2026-09-07 10:02:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-07 10:02:34 [scraper.py:170] 📥 [HN #3] Live map of public transport in Belgium
+INFO     2026-09-07 10:02:34 [scraper.py:171] 🔗 [HN #3] URL: https://openbaarvervoerbelgie.be/
+INFO     2026-09-07 10:02:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-07 10:02:34 [scraper.py:170] 📥 [HN #4] Making a Python interpreter in 1024 bytes
+INFO     2026-09-07 10:02:34 [scraper.py:171] 🔗 [HN #4] URL: https://austinhenley.com/blog/python1024.html
+INFO     2026-09-07 10:02:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-07 10:02:34 [scraper.py:170] 📥 [HN #5] LG smart TVs caught logging audio with screen off and snooping on local devices
+INFO     2026-09-07 10:02:34 [scraper.py:171] 🔗 [HN #5] URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
+INFO     2026-09-07 10:02:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-07 10:02:34 [scraper.py:170] 📥 [HN #6] Ask HN: How do you manage skills files?
+INFO     2026-09-07 10:02:34 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=49589914
+INFO     2026-09-07 10:02:34 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-07 10:02:35 [scraper.py:170] 📥 [HN #7] It took a year to ship WebAssembly in Anubis
+INFO     2026-09-07 10:02:35 [scraper.py:171] 🔗 [HN #7] URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+INFO     2026-09-07 10:02:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-07 10:02:35 [scraper.py:170] 📥 [HN #8] Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
+INFO     2026-09-07 10:02:35 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/timgordontg/engrim
+INFO     2026-09-07 10:02:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-07 10:02:35 [scraper.py:170] 📥 [HN #9] 'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes
+INFO     2026-09-07 10:02:35 [scraper.py:171] 🔗 [HN #9] URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/
+INFO     2026-09-07 10:02:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-07 10:02:35 [scraper.py:170] 📥 [HN #10] Ask HN: Fable hacked my piano, can I release the results?
+INFO     2026-09-07 10:02:35 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=49577129
+INFO     2026-09-07 10:02:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-07 10:02:35 [scraper.py:178] 🎉 [HN] All done.
+
