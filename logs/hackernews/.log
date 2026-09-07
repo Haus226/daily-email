@@ -40027,3 +40027,36 @@ INFO     2026-09-07 10:02:35 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-09-07 10:02:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-07 10:02:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-07 15:32:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-07 15:32:45 [scraper.py:170] 📥 [HN #1] De-Brainrot Vacations
+INFO     2026-09-07 15:32:45 [scraper.py:171] 🔗 [HN #1] URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
+INFO     2026-09-07 15:32:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-07 15:32:45 [scraper.py:170] 📥 [HN #2] bzip3
+INFO     2026-09-07 15:32:45 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/iczelia/bzip3
+INFO     2026-09-07 15:32:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-07 15:32:45 [scraper.py:170] 📥 [HN #3] Keep Our Servers Running
+INFO     2026-09-07 15:32:45 [scraper.py:171] 🔗 [HN #3] URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/
+INFO     2026-09-07 15:32:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-07 15:32:46 [scraper.py:170] 📥 [HN #4] Caltech Mathathon – first hackathon ever devoted to research level mathematics
+INFO     2026-09-07 15:32:46 [scraper.py:171] 🔗 [HN #4] URL: https://mathathonchallenge.com/index.html
+INFO     2026-09-07 15:32:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-07 15:32:46 [scraper.py:170] 📥 [HN #5] Splash-free urinals (2025)
+INFO     2026-09-07 15:32:46 [scraper.py:171] 🔗 [HN #5] URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
+INFO     2026-09-07 15:32:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-07 15:32:46 [scraper.py:170] 📥 [HN #6] Live map of public transport in Belgium
+INFO     2026-09-07 15:32:46 [scraper.py:171] 🔗 [HN #6] URL: https://openbaarvervoerbelgie.be/
+INFO     2026-09-07 15:32:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-07 15:32:46 [scraper.py:170] 📥 [HN #7] Simple Is Not Small
+INFO     2026-09-07 15:32:46 [scraper.py:171] 🔗 [HN #7] URL: https://jyn.dev/simple-is-not-the-same-as-small/
+INFO     2026-09-07 15:32:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-07 15:32:47 [scraper.py:170] 📥 [HN #8] Smartphone makers don't bother to comply with EU repairability requirements
+INFO     2026-09-07 15:32:47 [scraper.py:171] 🔗 [HN #8] URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
+INFO     2026-09-07 15:32:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-07 15:32:47 [scraper.py:170] 📥 [HN #9] Speculative Decoding in vLLM on AMD GPUs
+INFO     2026-09-07 15:32:47 [scraper.py:171] 🔗 [HN #9] URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
+INFO     2026-09-07 15:32:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-07 15:32:47 [scraper.py:170] 📥 [HN #10] LG smart TVs caught logging audio with screen off and snooping on local devices
+INFO     2026-09-07 15:32:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
+INFO     2026-09-07 15:32:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-07 15:32:47 [scraper.py:178] 🎉 [HN] All done.
+
