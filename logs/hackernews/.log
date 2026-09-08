@@ -40093,3 +40093,36 @@ INFO     2026-09-08 04:17:03 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-09-08 04:17:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-08 04:17:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-08 09:27:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-08 09:27:58 [scraper.py:170] 📥 [HN #1] Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
+INFO     2026-09-08 09:27:58 [scraper.py:171] 🔗 [HN #1] URL: https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten
+INFO     2026-09-08 09:27:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-08 09:27:58 [scraper.py:170] 📥 [HN #2] I've factored the RSA keys of a Certificate Authority from the 90s
+INFO     2026-09-08 09:27:58 [scraper.py:171] 🔗 [HN #2] URL: https://mcpherrin.ca/2026/09/07/rsa.html
+INFO     2026-09-08 09:27:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-08 09:27:58 [scraper.py:170] 📥 [HN #3] We built our house for LAN parties
+INFO     2026-09-08 09:27:58 [scraper.py:171] 🔗 [HN #3] URL: https://lanparty.house/
+INFO     2026-09-08 09:27:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-08 09:27:58 [scraper.py:170] 📥 [HN #4] Mistral raises €3B
+INFO     2026-09-08 09:27:58 [scraper.py:171] 🔗 [HN #4] URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+INFO     2026-09-08 09:27:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-08 09:27:59 [scraper.py:170] 📥 [HN #5] There's a new "Google Jail" for independent wikis
+INFO     2026-09-08 09:27:59 [scraper.py:171] 🔗 [HN #5] URL: https://weirdgloop.org/blog/google-jail
+INFO     2026-09-08 09:27:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-08 09:27:59 [scraper.py:170] 📥 [HN #6] TALA Is Open-Source
+INFO     2026-09-08 09:27:59 [scraper.py:171] 🔗 [HN #6] URL: https://d2lang.com/blog/tala-is-open-source/
+INFO     2026-09-08 09:27:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-08 09:27:59 [scraper.py:170] 📥 [HN #7] Multi-Agents LLM Financial Trading Framework
+INFO     2026-09-08 09:27:59 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/TauricResearch/TradingAgents
+INFO     2026-09-08 09:27:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-08 09:27:59 [scraper.py:170] 📥 [HN #8] Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics
+INFO     2026-09-08 09:27:59 [scraper.py:171] 🔗 [HN #8] URL: https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics
+INFO     2026-09-08 09:27:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-08 09:27:59 [scraper.py:170] 📥 [HN #9] We have a year to fix security everywhere
+INFO     2026-09-08 09:27:59 [scraper.py:171] 🔗 [HN #9] URL: https://jyn.dev/a-year-to-fix-security/
+INFO     2026-09-08 09:27:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-08 09:28:00 [scraper.py:170] 📥 [HN #10] How well do agents use test/verification techniques?
+INFO     2026-09-08 09:28:00 [scraper.py:171] 🔗 [HN #10] URL: https://danluu.com/agentic-testing/
+INFO     2026-09-08 09:28:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-08 09:28:00 [scraper.py:178] 🎉 [HN] All done.
+
