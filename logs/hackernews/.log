@@ -40060,3 +40060,36 @@ INFO     2026-09-07 15:32:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.not
 INFO     2026-09-07 15:32:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-07 15:32:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-08 04:17:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-08 04:17:01 [scraper.py:170] 📥 [HN #1] I've factored the RSA keys of a Certificate Authority from the 90s
+INFO     2026-09-08 04:17:01 [scraper.py:171] 🔗 [HN #1] URL: https://mcpherrin.ca/2026/09/07/rsa.html
+INFO     2026-09-08 04:17:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-08 04:17:01 [scraper.py:170] 📥 [HN #2] TALA Is Open-Source
+INFO     2026-09-08 04:17:01 [scraper.py:171] 🔗 [HN #2] URL: https://d2lang.com/blog/tala-is-open-source/
+INFO     2026-09-08 04:17:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-08 04:17:01 [scraper.py:170] 📥 [HN #3] Jellyfin 12.0
+INFO     2026-09-08 04:17:01 [scraper.py:171] 🔗 [HN #3] URL: https://jellyfin.org/posts/jellyfin-release-12.0/
+INFO     2026-09-08 04:17:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-08 04:17:02 [scraper.py:170] 📥 [HN #4] Watch Los Angeles get built, one building at a time (1880–2026)
+INFO     2026-09-08 04:17:02 [scraper.py:171] 🔗 [HN #4] URL: https://lax-skyline.parcelscope.net/
+INFO     2026-09-08 04:17:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-08 04:17:02 [scraper.py:170] 📥 [HN #5] John Margolies' photographs of roadside America
+INFO     2026-09-08 04:17:02 [scraper.py:171] 🔗 [HN #5] URL: https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/
+INFO     2026-09-08 04:17:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-08 04:17:02 [scraper.py:170] 📥 [HN #6] Leaving VMware just got harder after Broadcom pulled VDDK downloads
+INFO     2026-09-08 04:17:02 [scraper.py:171] 🔗 [HN #6] URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
+INFO     2026-09-08 04:17:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-08 04:17:02 [scraper.py:170] 📥 [HN #7] A Screensaver for LG's Spying Smart TVs
+INFO     2026-09-08 04:17:02 [scraper.py:171] 🔗 [HN #7] URL: https://weowntheglass.com
+INFO     2026-09-08 04:17:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-08 04:17:02 [scraper.py:170] 📥 [HN #8] WeatherNext 3
+INFO     2026-09-08 04:17:02 [scraper.py:171] 🔗 [HN #8] URL: https://deepmind.google/science/weathernext/
+INFO     2026-09-08 04:17:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-08 04:17:03 [scraper.py:170] 📥 [HN #9] Scientists observe Einstein's gravity in the quantum world
+INFO     2026-09-08 04:17:03 [scraper.py:171] 🔗 [HN #9] URL: https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world
+INFO     2026-09-08 04:17:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-08 04:17:03 [scraper.py:170] 📥 [HN #10] Trusting-Trust Attack against an Entire Linux Distribution
+INFO     2026-09-08 04:17:03 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/2607.24888
+INFO     2026-09-08 04:17:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-08 04:17:03 [scraper.py:178] 🎉 [HN] All done.
+

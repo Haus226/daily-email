@@ -19385,3 +19385,24 @@ INFO     2026-09-07 15:32:46 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-07 15:32:46 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-08 04:16:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-08 04:17:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-08 04:17:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-08 04:17:00 [scraper.py:133] 📥 [EO] Title: The Otherworldly Geology of Vasquez Rocks
+INFO     2026-09-08 04:17:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrocks_oli_20260728_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-08 04:17:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-08 04:17:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-08 04:17:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-08 04:17:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-08 04:17:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-08 04:17:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-08 04:17:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-08 04:17:01 [scraper.py:133] 📥 [EO] Title: The Otherworldly Geology of Vasquez Rocks
+INFO     2026-09-08 04:17:01 [scraper.py:133] 📥 [EO] Title: The Otherworldly Geology of Vasquez Rocks
+INFO     2026-09-08 04:17:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrocks_oli_20260728_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-08 04:17:01 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrocks_oli_20260728_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-08 04:17:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-08 04:17:01 [scraper.py:154] ✅ [EO] Successfully fetched.
+
