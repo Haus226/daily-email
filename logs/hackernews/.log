@@ -40159,3 +40159,36 @@ INFO     2026-09-08 14:11:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.oec
 INFO     2026-09-08 14:11:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-08 14:11:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-09 04:22:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-09 04:22:45 [scraper.py:170] 📥 [HN #1] Trees use a "muscle", tension wood, to correct their posture
+INFO     2026-09-09 04:22:45 [scraper.py:171] 🔗 [HN #1] URL: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
+INFO     2026-09-09 04:22:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-09 04:22:46 [scraper.py:170] 📥 [HN #2] Muse – Meta’s personal AI agent
+INFO     2026-09-09 04:22:46 [scraper.py:171] 🔗 [HN #2] URL: https://ai.meta.com/muse/
+INFO     2026-09-09 04:22:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-09 04:22:46 [scraper.py:170] 📥 [HN #3] Navier-Stokes – Tristan Buckmaster [pdf]
+INFO     2026-09-09 04:22:46 [scraper.py:171] 🔗 [HN #3] URL: https://cims.nyu.edu/~tristanb/statement.pdf
+INFO     2026-09-09 04:22:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-09 04:22:46 [scraper.py:170] 📥 [HN #4] How to build a printer
+INFO     2026-09-09 04:22:46 [scraper.py:171] 🔗 [HN #4] URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
+INFO     2026-09-09 04:22:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-09 04:22:47 [scraper.py:170] 📥 [HN #5] AlphaGenome Atlas: a high-resolution map of human DNA
+INFO     2026-09-09 04:22:47 [scraper.py:171] 🔗 [HN #5] URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+INFO     2026-09-09 04:22:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-09 04:22:47 [scraper.py:170] 📥 [HN #6] Large language models develop novel social biases through adaptive exploration
+INFO     2026-09-09 04:22:47 [scraper.py:171] 🔗 [HN #6] URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
+INFO     2026-09-09 04:22:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-09 04:22:47 [scraper.py:170] 📥 [HN #7] Mercury 2.5
+INFO     2026-09-09 04:22:47 [scraper.py:171] 🔗 [HN #7] URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+INFO     2026-09-09 04:22:47 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-09 04:22:47 [scraper.py:170] 📥 [HN #8] An Accidental Blackboard
+INFO     2026-09-09 04:22:47 [scraper.py:171] 🔗 [HN #8] URL: https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html
+INFO     2026-09-09 04:22:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-09 04:22:47 [scraper.py:170] 📥 [HN #9] 27.5KB language-agnostic WebGPU syntax highlighter
+INFO     2026-09-09 04:22:47 [scraper.py:171] 🔗 [HN #9] URL: https://gpu-lexer.vercel.app/
+INFO     2026-09-09 04:22:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-09 04:22:48 [scraper.py:170] 📥 [HN #10] DaVinci Resolve 21.1
+INFO     2026-09-09 04:22:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.blackmagicdesign.com/media/release/20260908-03
+INFO     2026-09-09 04:22:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-09 04:22:48 [scraper.py:178] 🎉 [HN] All done.
+

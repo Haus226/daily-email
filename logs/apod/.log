@@ -5963,3 +5963,8 @@ INFO     2026-09-08 14:11:56 [scraper.py:47] 📥 [APOD] Title: Hubble: Decagon 
 INFO     2026-09-08 14:11:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg
 INFO     2026-09-08 14:11:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-09 04:22:45 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-09 04:22:45 [scraper.py:47] 📥 [APOD] Title: Witness XZ Andromedae Wink
+INFO     2026-09-09 04:22:45 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/xz_and.mp4
+INFO     2026-09-09 04:22:45 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
