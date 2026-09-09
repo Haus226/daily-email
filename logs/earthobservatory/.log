@@ -19490,3 +19490,24 @@ INFO     2026-09-09 09:30:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-09 09:30:33 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-09 14:12:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-09 14:12:51 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-09 14:12:51 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-09 14:12:51 [scraper.py:133] 📥 [EO] Title: Anak Krakatau Rumbles Again
+INFO     2026-09-09 14:12:51 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-09 14:12:51 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-09 14:12:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-09 14:12:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-09 14:12:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-09 14:12:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-09 14:12:53 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-09 14:12:53 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-09 14:12:53 [scraper.py:133] 📥 [EO] Title: Anak Krakatau Rumbles Again
+INFO     2026-09-09 14:12:53 [scraper.py:133] 📥 [EO] Title: Anak Krakatau Rumbles Again
+INFO     2026-09-09 14:12:53 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-09 14:12:53 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-09 14:12:53 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-09 14:12:53 [scraper.py:154] ✅ [EO] Successfully fetched.
+
