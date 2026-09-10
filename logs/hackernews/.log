@@ -40324,3 +40324,36 @@ INFO     2026-09-10 09:29:36 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-09-10 09:29:36 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-10 09:29:36 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-10 14:06:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-10 14:06:42 [scraper.py:170] 📥 [HN #1] Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls
+INFO     2026-09-10 14:06:42 [scraper.py:171] 🔗 [HN #1] URL: https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/
+INFO     2026-09-10 14:06:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-10 14:06:42 [scraper.py:170] 📥 [HN #2] Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
+INFO     2026-09-10 14:06:42 [scraper.py:171] 🔗 [HN #2] URL: https://honestlyranked.com/guides/streaming-price-increases/
+INFO     2026-09-10 14:06:42 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-10 14:06:42 [scraper.py:170] 📥 [HN #3] What algorithm did Windows XP use to choose your initial user picture?
+INFO     2026-09-10 14:06:42 [scraper.py:171] 🔗 [HN #3] URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683
+INFO     2026-09-10 14:06:42 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-10 14:06:43 [scraper.py:170] 📥 [HN #4] List of references on Sony websites to players "owning" their digital games
+INFO     2026-09-10 14:06:43 [scraper.py:171] 🔗 [HN #4] URL: https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
+INFO     2026-09-10 14:06:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-10 14:06:43 [scraper.py:170] 📥 [HN #5] iPhone Duo
+INFO     2026-09-10 14:06:43 [scraper.py:171] 🔗 [HN #5] URL: https://www.apple.com/iphone-duo/
+INFO     2026-09-10 14:06:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-10 14:06:43 [scraper.py:170] 📥 [HN #6] Tell HN: OpenAI keeps re-enabling the 'allow training' setting
+INFO     2026-09-10 14:06:43 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=49643556
+INFO     2026-09-10 14:06:43 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-10 14:06:44 [scraper.py:170] 📥 [HN #7] DeepSeek v4.1 Flash
+INFO     2026-09-10 14:06:44 [scraper.py:171] 🔗 [HN #7] URL: https://twitter.com/deepseek_ai/status/2097930608790167907
+INFO     2026-09-10 14:06:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-10 14:06:44 [scraper.py:170] 📥 [HN #8] To write non-fiction, draw the trunk, then the rest of the tree
+INFO     2026-09-10 14:06:44 [scraper.py:171] 🔗 [HN #8] URL: https://devz.cl/posts/how-to-write/
+INFO     2026-09-10 14:06:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-10 14:06:44 [scraper.py:170] 📥 [HN #9] Show HN: What if the speed of light was 5 km/h?
+INFO     2026-09-10 14:06:44 [scraper.py:171] 🔗 [HN #9] URL: https://rivendell.dmitrybrant.com/relativity/
+INFO     2026-09-10 14:06:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-10 14:06:44 [scraper.py:170] 📥 [HN #10] Another researcher says OpenAI trained on conversations, then claimed breakthrou
+INFO     2026-09-10 14:06:44 [scraper.py:171] 🔗 [HN #10] URL: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d
+INFO     2026-09-10 14:06:44 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-10 14:06:44 [scraper.py:178] 🎉 [HN] All done.
+
