@@ -40258,3 +40258,36 @@ INFO     2026-09-09 14:12:54 [scraper.py:171] 🔗 [HN #10] URL: https://www.yco
 INFO     2026-09-09 14:12:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-09 14:12:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-10 04:20:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-10 04:20:12 [scraper.py:170] 📥 [HN #1] iPhone Duo
+INFO     2026-09-10 04:20:12 [scraper.py:171] 🔗 [HN #1] URL: https://www.apple.com/iphone-duo/
+INFO     2026-09-10 04:20:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-10 04:20:12 [scraper.py:170] 📥 [HN #2] Show HN: What if the speed of light was 5 km/h?
+INFO     2026-09-10 04:20:12 [scraper.py:171] 🔗 [HN #2] URL: https://rivendell.dmitrybrant.com/relativity/
+INFO     2026-09-10 04:20:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-10 04:20:13 [scraper.py:170] 📥 [HN #3] Shopify acquires Tailwind
+INFO     2026-09-10 04:20:13 [scraper.py:171] 🔗 [HN #3] URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+INFO     2026-09-10 04:20:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-10 04:20:13 [scraper.py:170] 📥 [HN #4] What do Visa and Mastercard do? An intro to card networks
+INFO     2026-09-10 04:20:13 [scraper.py:171] 🔗 [HN #4] URL: https://tautology.town/2026/06/01/card-networks.html
+INFO     2026-09-10 04:20:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-10 04:20:13 [scraper.py:170] 📥 [HN #5] Growing proof that autonomous cars save lives
+INFO     2026-09-10 04:20:13 [scraper.py:171] 🔗 [HN #5] URL: https://spectrum.ieee.org/are-self-driving-cars-safe
+INFO     2026-09-10 04:20:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-10 04:20:13 [scraper.py:170] 📥 [HN #6] Show HN: Compute polynomials twice as fast
+INFO     2026-09-10 04:20:13 [scraper.py:171] 🔗 [HN #6] URL: https://thomasahle.com/fast-polynomials/
+INFO     2026-09-10 04:20:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-10 04:20:13 [scraper.py:170] 📥 [HN #7] AirPods 5
+INFO     2026-09-10 04:20:13 [scraper.py:171] 🔗 [HN #7] URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
+INFO     2026-09-10 04:20:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-10 04:20:14 [scraper.py:170] 📥 [HN #8] Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
+INFO     2026-09-10 04:20:14 [scraper.py:171] 🔗 [HN #8] URL: https://hugovergnes.github.io/little-lm-3-8b/
+INFO     2026-09-10 04:20:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-10 04:20:14 [scraper.py:170] 📥 [HN #9] No Man's Sky Cosmos
+INFO     2026-09-10 04:20:14 [scraper.py:171] 🔗 [HN #9] URL: https://www.nomanssky.com/cosmos-update/
+INFO     2026-09-10 04:20:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-10 04:20:14 [scraper.py:170] 📥 [HN #10] iPhone 18 Pro and iPhone 18 Pro Max
+INFO     2026-09-10 04:20:14 [scraper.py:171] 🔗 [HN #10] URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+INFO     2026-09-10 04:20:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-10 04:20:14 [scraper.py:178] 🎉 [HN] All done.
+
