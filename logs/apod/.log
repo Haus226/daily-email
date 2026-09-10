@@ -5983,3 +5983,8 @@ INFO     2026-09-10 04:20:12 [scraper.py:47] 📥 [APOD] Title: LDN 1295: The Gi
 INFO     2026-09-10 04:20:12 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg
 INFO     2026-09-10 04:20:12 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-10 09:29:34 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-10 09:29:35 [scraper.py:47] 📥 [APOD] Title: LDN 1295: The Giraffe Nebula
+INFO     2026-09-10 09:29:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg
+INFO     2026-09-10 09:29:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
