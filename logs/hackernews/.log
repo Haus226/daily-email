@@ -40357,3 +40357,36 @@ INFO     2026-09-10 14:06:44 [scraper.py:171] 🔗 [HN #10] URL: https://bsky.ap
 INFO     2026-09-10 14:06:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-10 14:06:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-11 04:19:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-11 04:19:44 [scraper.py:170] 📥 [HN #1] Shopify is moving from React Native back to Swift and Kotlin
+INFO     2026-09-11 04:19:44 [scraper.py:171] 🔗 [HN #1] URL: https://shopify.engineering/back-to-native
+INFO     2026-09-11 04:19:44 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-11 04:19:44 [scraper.py:170] 📥 [HN #2] Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+INFO     2026-09-11 04:19:44 [scraper.py:171] 🔗 [HN #2] URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/
+INFO     2026-09-11 04:19:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-11 04:19:44 [scraper.py:170] 📥 [HN #3] More questions about whether researchers can trust OpenAI with unpublished math
+INFO     2026-09-11 04:19:44 [scraper.py:171] 🔗 [HN #3] URL: https://mathstodon.xyz/@andreasthom/117240535270608201
+INFO     2026-09-11 04:19:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #4] Don't let anyone take away your big box of cables
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #4] URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #5] OpenAI Agents API
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #5] URL: https://developers.openai.com/api/docs/guides/agents-api/overview
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #6] YuE2 · Frontier Music with Symbolic Planning
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #6] URL: https://map-yue2.github.io/
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #7] Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #7] URL: https://cognition.com/blog/swe-2
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #8] Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #8] URL: https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-11 04:19:45 [scraper.py:170] 📥 [HN #9] The Deathray: A simple way for an untrusted site to freeze a Mac
+INFO     2026-09-11 04:19:45 [scraper.py:171] 🔗 [HN #9] URL: https://auberon.xyz/blog/posts/deathray/
+INFO     2026-09-11 04:19:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-11 04:19:46 [scraper.py:170] 📥 [HN #10] Google will buy half the electricity from one of Finland's nuclear power plants
+INFO     2026-09-11 04:19:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
+INFO     2026-09-11 04:19:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-11 04:19:46 [scraper.py:178] 🎉 [HN] All done.
+
