@@ -40423,3 +40423,36 @@ INFO     2026-09-11 09:27:21 [scraper.py:171] 🔗 [HN #10] URL: https://spinoff
 INFO     2026-09-11 09:27:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-11 09:27:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-11 14:06:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-11 14:06:06 [scraper.py:170] 📥 [HN #1] The Waymo effect: how AI is quietly making research less collaborative
+INFO     2026-09-11 14:06:06 [scraper.py:171] 🔗 [HN #1] URL: https://www.researchagenda.news/articles/the-waymo-effect.html
+INFO     2026-09-11 14:06:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-11 14:06:06 [scraper.py:170] 📥 [HN #2] Houthis 'take control' of key island in global shipping route
+INFO     2026-09-11 14:06:06 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/news/live/cmd683p01eljt
+INFO     2026-09-11 14:06:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-11 14:06:07 [scraper.py:170] 📥 [HN #3] RTK reports token savings, but our cost benchmarks disagree
+INFO     2026-09-11 14:06:07 [scraper.py:171] 🔗 [HN #3] URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/
+INFO     2026-09-11 14:06:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-11 14:06:07 [scraper.py:170] 📥 [HN #4] Diesel prices in U.S. top $6 a gallon for first time
+INFO     2026-09-11 14:06:07 [scraper.py:171] 🔗 [HN #4] URL: https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/
+INFO     2026-09-11 14:06:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-11 14:06:07 [scraper.py:170] 📥 [HN #5] Cherenkov Radiation - traveling faster than light
+INFO     2026-09-11 14:06:07 [scraper.py:171] 🔗 [HN #5] URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation
+INFO     2026-09-11 14:06:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-11 14:06:07 [scraper.py:170] 📥 [HN #6] So you want to use OpenRouter?
+INFO     2026-09-11 14:06:07 [scraper.py:171] 🔗 [HN #6] URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/
+INFO     2026-09-11 14:06:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-11 14:06:08 [scraper.py:170] 📥 [HN #7] Chamilo 3.0 – open-source LMS with native MCP server (PAuth2.1)
+INFO     2026-09-11 14:06:08 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0
+INFO     2026-09-11 14:06:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-11 14:06:08 [scraper.py:170] 📥 [HN #8] Shopify is moving from React Native back to Swift and Kotlin
+INFO     2026-09-11 14:06:08 [scraper.py:171] 🔗 [HN #8] URL: https://shopify.engineering/back-to-native
+INFO     2026-09-11 14:06:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-11 14:06:08 [scraper.py:170] 📥 [HN #9] Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you
+INFO     2026-09-11 14:06:08 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/Field-Logic-Ltd/ClaudeStatsBar
+INFO     2026-09-11 14:06:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-11 14:06:08 [scraper.py:170] 📥 [HN #10] If coding is solved, what now?: Measuring the sloppiness of code
+INFO     2026-09-11 14:06:08 [scraper.py:171] 🔗 [HN #10] URL: https://earendil.com/posts/measuring-code-sloppiness/
+INFO     2026-09-11 14:06:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-11 14:06:08 [scraper.py:178] 🎉 [HN] All done.
+
