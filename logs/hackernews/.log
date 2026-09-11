@@ -40390,3 +40390,36 @@ INFO     2026-09-11 04:19:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc
 INFO     2026-09-11 04:19:46 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-11 04:19:46 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-11 09:27:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-11 09:27:19 [scraper.py:170] 📥 [HN #1] Cherenkov Radiation - traveling faster than light
+INFO     2026-09-11 09:27:19 [scraper.py:171] 🔗 [HN #1] URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation
+INFO     2026-09-11 09:27:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-11 09:27:19 [scraper.py:170] 📥 [HN #2] Shopify is moving from React Native back to Swift and Kotlin
+INFO     2026-09-11 09:27:19 [scraper.py:171] 🔗 [HN #2] URL: https://shopify.engineering/back-to-native
+INFO     2026-09-11 09:27:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-11 09:27:20 [scraper.py:170] 📥 [HN #3] Don't let anyone take away your big box of cables
+INFO     2026-09-11 09:27:20 [scraper.py:171] 🔗 [HN #3] URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/
+INFO     2026-09-11 09:27:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-11 09:27:20 [scraper.py:170] 📥 [HN #4] Working with Git Worktrees in Magit
+INFO     2026-09-11 09:27:20 [scraper.py:171] 🔗 [HN #4] URL: https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/
+INFO     2026-09-11 09:27:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-11 09:27:20 [scraper.py:170] 📥 [HN #5] OpenAI Agents API
+INFO     2026-09-11 09:27:20 [scraper.py:171] 🔗 [HN #5] URL: https://developers.openai.com/api/docs/guides/agents-api/overview
+INFO     2026-09-11 09:27:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-11 09:27:20 [scraper.py:170] 📥 [HN #6] The Deathray: A simple way for an untrusted site to freeze a Mac
+INFO     2026-09-11 09:27:20 [scraper.py:171] 🔗 [HN #6] URL: https://auberon.xyz/blog/posts/deathray/
+INFO     2026-09-11 09:27:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-11 09:27:21 [scraper.py:170] 📥 [HN #7] Stop making swap partitions–use swap files instead
+INFO     2026-09-11 09:27:21 [scraper.py:171] 🔗 [HN #7] URL: https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43
+INFO     2026-09-11 09:27:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-11 09:27:21 [scraper.py:170] 📥 [HN #8] The Gemini app is now available for Windows
+INFO     2026-09-11 09:27:21 [scraper.py:171] 🔗 [HN #8] URL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/
+INFO     2026-09-11 09:27:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-11 09:27:21 [scraper.py:170] 📥 [HN #9] Nine coding harnesses vs. your laptop
+INFO     2026-09-11 09:27:21 [scraper.py:171] 🔗 [HN #9] URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74
+INFO     2026-09-11 09:27:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-11 09:27:21 [scraper.py:170] 📥 [HN #10] Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
+INFO     2026-09-11 09:27:21 [scraper.py:171] 🔗 [HN #10] URL: https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images
+INFO     2026-09-11 09:27:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-11 09:27:21 [scraper.py:178] 🎉 [HN] All done.
+
