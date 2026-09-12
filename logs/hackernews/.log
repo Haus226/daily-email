@@ -40489,3 +40489,36 @@ INFO     2026-09-12 04:18:09 [scraper.py:171] 🔗 [HN #10] URL: https://blinken
 INFO     2026-09-12 04:18:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-12 04:18:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-12 09:08:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-12 09:08:45 [scraper.py:170] 📥 [HN #1] Retrospectively Reverse-Engineering Apple's Neural Engine
+INFO     2026-09-12 09:08:45 [scraper.py:171] 🔗 [HN #1] URL: https://eiln.github.io/posts/ane.html
+INFO     2026-09-12 09:08:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-12 09:08:45 [scraper.py:170] 📥 [HN #2] A misalignment of AI in mathematics
+INFO     2026-09-12 09:08:45 [scraper.py:171] 🔗 [HN #2] URL: https://mathandai.org/
+INFO     2026-09-12 09:08:45 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-12 09:08:45 [scraper.py:170] 📥 [HN #3] IKEA made a mod for Skyrim [video]
+INFO     2026-09-12 09:08:45 [scraper.py:171] 🔗 [HN #3] URL: https://www.youtube.com/watch?v=iZODN0QUgjI
+INFO     2026-09-12 09:08:45 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-12 09:08:46 [scraper.py:170] 📥 [HN #4] I spent $220 on Google app ads and 60% of the installs were robots
+INFO     2026-09-12 09:08:46 [scraper.py:171] 🔗 [HN #4] URL: https://dayzlegame.com/blog/google-ads-bot-farm/
+INFO     2026-09-12 09:08:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-12 09:08:46 [scraper.py:170] 📥 [HN #5] google.com/goto: Google's anti-scraping update
+INFO     2026-09-12 09:08:46 [scraper.py:171] 🔗 [HN #5] URL: https://www.autom.dev/blog/google-search-goto-links
+INFO     2026-09-12 09:08:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-12 09:08:46 [scraper.py:170] 📥 [HN #6] Usenet rewind archive search engine
+INFO     2026-09-12 09:08:46 [scraper.py:171] 🔗 [HN #6] URL: https://www.usenet-rewind.com/
+INFO     2026-09-12 09:08:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-12 09:08:46 [scraper.py:170] 📥 [HN #7] Navier-Stokes Announcement
+INFO     2026-09-12 09:08:46 [scraper.py:171] 🔗 [HN #7] URL: https://www.claymath.org/news/navier-stokes-announcement/
+INFO     2026-09-12 09:08:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-12 09:08:47 [scraper.py:170] 📥 [HN #8] Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them
+INFO     2026-09-12 09:08:47 [scraper.py:171] 🔗 [HN #8] URL: https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250
+INFO     2026-09-12 09:08:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-12 09:08:47 [scraper.py:170] 📥 [HN #9] A Design Space Exploration of Async/Await
+INFO     2026-09-12 09:08:47 [scraper.py:171] 🔗 [HN #9] URL: https://cel.cs.brown.edu/blog/design-space-async-await/
+INFO     2026-09-12 09:08:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-12 09:08:47 [scraper.py:170] 📥 [HN #10] Inverse Kinematics and Foot Locking
+INFO     2026-09-12 09:08:47 [scraper.py:171] 🔗 [HN #10] URL: https://theorangeduck.com/page/inverse-kinematics-foot-locking
+INFO     2026-09-12 09:08:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-12 09:08:47 [scraper.py:178] 🎉 [HN] All done.
+
