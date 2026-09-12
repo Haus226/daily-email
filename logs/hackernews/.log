@@ -40522,3 +40522,36 @@ INFO     2026-09-12 09:08:47 [scraper.py:171] 🔗 [HN #10] URL: https://theoran
 INFO     2026-09-12 09:08:47 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-12 09:08:47 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-12 13:23:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-12 13:23:17 [scraper.py:170] 📥 [HN #1] Fuck it, make it anyway
+INFO     2026-09-12 13:23:17 [scraper.py:171] 🔗 [HN #1] URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/
+INFO     2026-09-12 13:23:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-12 13:23:17 [scraper.py:170] 📥 [HN #2] IKEA made a mod for Skyrim [video]
+INFO     2026-09-12 13:23:17 [scraper.py:171] 🔗 [HN #2] URL: https://www.youtube.com/watch?v=iZODN0QUgjI
+INFO     2026-09-12 13:23:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #3] Retrospectively Reverse-Engineering Apple's Neural Engine
+INFO     2026-09-12 13:23:18 [scraper.py:171] 🔗 [HN #3] URL: https://eiln.github.io/posts/ane.html
+INFO     2026-09-12 13:23:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #4] The Worst Spam Emails: Inside iLands' AI Agent Hustle
+INFO     2026-09-12 13:23:18 [scraper.py:171] 🔗 [HN #4] URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
+INFO     2026-09-12 13:23:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #5] A misalignment of AI in mathematics
+INFO     2026-09-12 13:23:18 [scraper.py:171] 🔗 [HN #5] URL: https://mathandai.org/
+INFO     2026-09-12 13:23:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #6] I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold
+INFO     2026-09-12 13:23:18 [scraper.py:171] 🔗 [HN #6] URL: https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/
+INFO     2026-09-12 13:23:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #7] I spent $220 on Google app ads and 60% of the installs were robots
+INFO     2026-09-12 13:23:18 [scraper.py:171] 🔗 [HN #7] URL: https://dayzlegame.com/blog/google-ads-bot-farm/
+INFO     2026-09-12 13:23:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-12 13:23:18 [scraper.py:170] 📥 [HN #8] Finding Slow Code with Wrapture
+INFO     2026-09-12 13:23:19 [scraper.py:171] 🔗 [HN #8] URL: https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/
+INFO     2026-09-12 13:23:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-12 13:23:19 [scraper.py:170] 📥 [HN #9] LRU is harder to beat than the KV-cache papers suggest
+INFO     2026-09-12 13:23:19 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/gauravapiscean/agentic-kv-cache
+INFO     2026-09-12 13:23:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-12 13:23:19 [scraper.py:170] 📥 [HN #10] Forgotten Woodlands
+INFO     2026-09-12 13:23:19 [scraper.py:171] 🔗 [HN #10] URL: https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49
+INFO     2026-09-12 13:23:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-12 13:23:19 [scraper.py:178] 🎉 [HN] All done.
+
