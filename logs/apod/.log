@@ -6008,3 +6008,6 @@ INFO     2026-09-11 14:06:06 [scraper.py:47] 📥 [APOD] Title: M83: The Souther
 INFO     2026-09-11 14:06:06 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg
 INFO     2026-09-11 14:06:06 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-12 04:18:07 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-09-12 04:18:17 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by NewConnectionError("HTTPSConnection(host='apod.nasa.gov', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+
