@@ -6021,3 +6021,8 @@ INFO     2026-09-12 13:23:17 [scraper.py:47] 📥 [APOD] Title: Apollo 11: Catch
 INFO     2026-09-12 13:23:17 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg
 INFO     2026-09-12 13:23:17 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-13 04:31:22 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-13 04:31:23 [scraper.py:47] 📥 [APOD] Title: Comet NEOWISE Rising over the Adriatic Sea
+INFO     2026-09-13 04:31:23 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4
+INFO     2026-09-13 04:31:23 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
