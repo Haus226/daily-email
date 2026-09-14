@@ -40654,3 +40654,36 @@ INFO     2026-09-13 14:07:26 [scraper.py:171] 🔗 [HN #10] URL: https://chipsan
 INFO     2026-09-13 14:07:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-13 14:07:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-14 04:37:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-14 04:37:26 [scraper.py:170] 📥 [HN #1] Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+INFO     2026-09-14 04:37:26 [scraper.py:171] 🔗 [HN #1] URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+INFO     2026-09-14 04:37:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-14 04:37:26 [scraper.py:170] 📥 [HN #2] Spaceships (Reverse Asteroid)
+INFO     2026-09-14 04:37:26 [scraper.py:171] 🔗 [HN #2] URL: https://spaceships.treybastian.com/
+INFO     2026-09-14 04:37:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-14 04:37:26 [scraper.py:170] 📥 [HN #3] Why is Google still serving dodgy ads?
+INFO     2026-09-14 04:37:27 [scraper.py:171] 🔗 [HN #3] URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
+INFO     2026-09-14 04:37:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-14 04:37:27 [scraper.py:170] 📥 [HN #4] Registration without a phone number on Signal will use zero-knowledge proofs
+INFO     2026-09-14 04:37:27 [scraper.py:171] 🔗 [HN #4] URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
+INFO     2026-09-14 04:37:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-14 04:37:27 [scraper.py:170] 📥 [HN #5] The case against JPEG XL
+INFO     2026-09-14 04:37:27 [scraper.py:171] 🔗 [HN #5] URL: https://giannirosato.com/blog/post/case-against-jxl/
+INFO     2026-09-14 04:37:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-14 04:37:27 [scraper.py:170] 📥 [HN #6] Open-Source AI and Open Models Reading List
+INFO     2026-09-14 04:37:27 [scraper.py:171] 🔗 [HN #6] URL: https://www.interconnects.ai/p/open-source-ai-reading-list
+INFO     2026-09-14 04:37:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-14 04:37:28 [scraper.py:170] 📥 [HN #7] Astra and Fable still hack on simple variants of alignment evals from 2025
+INFO     2026-09-14 04:37:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment
+INFO     2026-09-14 04:37:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-14 04:37:28 [scraper.py:170] 📥 [HN #8] Apple's Dimensional Drawings
+INFO     2026-09-14 04:37:28 [scraper.py:171] 🔗 [HN #8] URL: https://developer.apple.com/accessories/dimensional-drawings/
+INFO     2026-09-14 04:37:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-14 04:37:28 [scraper.py:170] 📥 [HN #9] Julia 1.13 highlights
+INFO     2026-09-14 04:37:28 [scraper.py:171] 🔗 [HN #9] URL: https://julialang.org/blog/2026/09/julia-1.13-highlights/
+INFO     2026-09-14 04:37:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-14 04:37:28 [scraper.py:170] 📥 [HN #10] The Malicious Use of Artificial Intelligence
+INFO     2026-09-14 04:37:28 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/1802.07228
+INFO     2026-09-14 04:37:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-14 04:37:28 [scraper.py:178] 🎉 [HN] All done.
+
