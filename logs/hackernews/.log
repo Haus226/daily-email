@@ -40687,3 +40687,36 @@ INFO     2026-09-14 04:37:28 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-09-14 04:37:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-14 04:37:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-14 10:29:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-14 10:29:11 [scraper.py:170] 📥 [HN #1] EuroBirdPortal – Live bird movements across Europe
+INFO     2026-09-14 10:29:11 [scraper.py:171] 🔗 [HN #1] URL: https://www.eurobirdportal.org/ebp/en/
+INFO     2026-09-14 10:29:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-14 10:29:11 [scraper.py:170] 📥 [HN #2] Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+INFO     2026-09-14 10:29:11 [scraper.py:171] 🔗 [HN #2] URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+INFO     2026-09-14 10:29:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-14 10:29:12 [scraper.py:170] 📥 [HN #3] A 386 PC for Your RP2350
+INFO     2026-09-14 10:29:12 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/rh1tech/frank-386
+INFO     2026-09-14 10:29:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-14 10:29:12 [scraper.py:170] 📥 [HN #4] XCancel Taken Down Again
+INFO     2026-09-14 10:29:12 [scraper.py:171] 🔗 [HN #4] URL: https://xcancel.com/#
+INFO     2026-09-14 10:29:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-14 10:29:12 [scraper.py:170] 📥 [HN #5] Spaceships (Reverse Asteroid)
+INFO     2026-09-14 10:29:12 [scraper.py:171] 🔗 [HN #5] URL: https://spaceships.treybastian.com/
+INFO     2026-09-14 10:29:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-14 10:29:12 [scraper.py:170] 📥 [HN #6] Registration without a phone number on Signal will use zero-knowledge proofs
+INFO     2026-09-14 10:29:12 [scraper.py:171] 🔗 [HN #6] URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
+INFO     2026-09-14 10:29:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-14 10:29:13 [scraper.py:170] 📥 [HN #7] Apple's Dimensional Drawings
+INFO     2026-09-14 10:29:13 [scraper.py:171] 🔗 [HN #7] URL: https://developer.apple.com/accessories/dimensional-drawings/
+INFO     2026-09-14 10:29:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-14 10:29:13 [scraper.py:170] 📥 [HN #8] Show HN: 1080p is 920px tall – 1k real browser viewports
+INFO     2026-09-14 10:29:13 [scraper.py:171] 🔗 [HN #8] URL: https://screensize.net/reports/viewport-stats
+INFO     2026-09-14 10:29:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-14 10:29:13 [scraper.py:170] 📥 [HN #9] The case against JPEG XL
+INFO     2026-09-14 10:29:13 [scraper.py:171] 🔗 [HN #9] URL: https://giannirosato.com/blog/post/case-against-jxl/
+INFO     2026-09-14 10:29:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-14 10:29:13 [scraper.py:170] 📥 [HN #10] An atlas of periodic solutions to the three-body problem
+INFO     2026-09-14 10:29:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.threebodyorbits.com/
+INFO     2026-09-14 10:29:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-14 10:29:13 [scraper.py:178] 🎉 [HN] All done.
+

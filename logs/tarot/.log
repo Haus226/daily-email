@@ -6143,3 +6143,8 @@ INFO     2026-09-14 04:37:25 [scraper.py:390] 📥 [TAROT] Card: The Magician
 INFO     2026-09-14 04:37:26 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-09-14 04:37:26 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-09-14 10:29:11 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-09-14 10:29:11 [scraper.py:390] 📥 [TAROT] Card: The Magician
+INFO     2026-09-14 10:29:11 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-09-14 10:29:11 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
