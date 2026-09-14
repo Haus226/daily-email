@@ -40720,3 +40720,36 @@ INFO     2026-09-14 10:29:13 [scraper.py:171] 🔗 [HN #10] URL: https://www.thr
 INFO     2026-09-14 10:29:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-14 10:29:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-14 16:11:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-14 16:11:43 [scraper.py:170] 📥 [HN #1] Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama
+INFO     2026-09-14 16:11:43 [scraper.py:171] 🔗 [HN #1] URL: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/
+INFO     2026-09-14 16:11:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-14 16:11:44 [scraper.py:170] 📥 [HN #2] RubyGems Open Source Supply Chain Security and OpenAI
+INFO     2026-09-14 16:11:44 [scraper.py:171] 🔗 [HN #2] URL: https://rietta.com/blog/rubygems-supply-chain-openai/
+INFO     2026-09-14 16:11:44 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-14 16:11:44 [scraper.py:170] 📥 [HN #3] Jabber/XMPP: How Do We Gain Traction?
+INFO     2026-09-14 16:11:44 [scraper.py:171] 🔗 [HN #3] URL: https://gultsch.de/posts/how-do-we-gain-traction/
+INFO     2026-09-14 16:11:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-14 16:11:44 [scraper.py:170] 📥 [HN #4] Where has Construction Automation been successful?
+INFO     2026-09-14 16:11:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.construction-physics.com/p/where-has-construction-automation
+INFO     2026-09-14 16:11:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-14 16:11:44 [scraper.py:170] 📥 [HN #5] Foundation Model Engineering: From Theory to Production
+INFO     2026-09-14 16:11:44 [scraper.py:171] 🔗 [HN #5] URL: https://sungeuns.github.io/foundation-model-engineering/
+INFO     2026-09-14 16:11:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-14 16:11:45 [scraper.py:170] 📥 [HN #6] EuroBirdPortal – Live bird movements across Europe
+INFO     2026-09-14 16:11:45 [scraper.py:171] 🔗 [HN #6] URL: https://www.eurobirdportal.org/ebp/en/
+INFO     2026-09-14 16:11:45 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-14 16:11:45 [scraper.py:170] 📥 [HN #7] An atlas of periodic solutions to the three-body problem
+INFO     2026-09-14 16:11:45 [scraper.py:171] 🔗 [HN #7] URL: https://www.threebodyorbits.com/
+INFO     2026-09-14 16:11:45 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-14 16:11:45 [scraper.py:170] 📥 [HN #8] A 386 PC for Your RP2350
+INFO     2026-09-14 16:11:45 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/rh1tech/frank-386
+INFO     2026-09-14 16:11:45 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-14 16:11:45 [scraper.py:170] 📥 [HN #9] Trying to Make a Loop Auto-Vectorize
+INFO     2026-09-14 16:11:45 [scraper.py:171] 🔗 [HN #9] URL: https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/
+INFO     2026-09-14 16:11:45 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-14 16:11:46 [scraper.py:170] 📥 [HN #10] Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row
+INFO     2026-09-14 16:11:46 [scraper.py:171] 🔗 [HN #10] URL: https://www.sciencedaily.com/releases/2026/09/260909005152.htm
+INFO     2026-09-14 16:11:46 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-14 16:11:46 [scraper.py:178] 🎉 [HN] All done.
+

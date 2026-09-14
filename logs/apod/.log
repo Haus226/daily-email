@@ -6046,3 +6046,8 @@ INFO     2026-09-14 10:29:11 [scraper.py:47] 📥 [APOD] Title: Where Your Eleme
 INFO     2026-09-14 10:29:11 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg
 INFO     2026-09-14 10:29:11 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-14 16:11:43 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-14 16:11:43 [scraper.py:47] 📥 [APOD] Title: Where Your Elements Came From
+INFO     2026-09-14 16:11:43 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg
+INFO     2026-09-14 16:11:43 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
