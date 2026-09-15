@@ -40819,3 +40819,36 @@ INFO     2026-09-15 09:54:22 [scraper.py:171] 🔗 [HN #10] URL: https://lingo.d
 INFO     2026-09-15 09:54:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-15 09:54:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-15 14:40:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-15 14:40:14 [scraper.py:170] 📥 [HN #1] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+INFO     2026-09-15 14:40:14 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/arnegiacomo/fugleramme
+INFO     2026-09-15 14:40:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-15 14:40:14 [scraper.py:170] 📥 [HN #2] Java 27 Released
+INFO     2026-09-15 14:40:14 [scraper.py:171] 🔗 [HN #2] URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/
+INFO     2026-09-15 14:40:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-15 14:40:14 [scraper.py:170] 📥 [HN #3] Show HN: Hacking a $20 4G wireless hotspot into a texting device
+INFO     2026-09-15 14:40:14 [scraper.py:171] 🔗 [HN #3] URL: https://bkovac.github.io/modem-thing/
+INFO     2026-09-15 14:40:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #4] I can't stop thinking about Papua New Guinea
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #4] URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #5] Show HN: Capsule – Single-file web apps that save their data into SQLite
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #5] URL: https://withcapsule.app/
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #6] 25 Years of Mass Surveillance Is Enough
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #6] URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #7] Alternatives to MinIO for single-node local S3
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #7] URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #8] Show HN: Panel – A research workspace where the agent can build its own panes
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/greentfrapp/panel
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-15 14:40:15 [scraper.py:170] 📥 [HN #9] CSS-Tricks in Limbo
+INFO     2026-09-15 14:40:15 [scraper.py:171] 🔗 [HN #9] URL: https://vale.rocks/micros/20260915-0135
+INFO     2026-09-15 14:40:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-15 14:40:16 [scraper.py:170] 📥 [HN #10] Suspected sabotage causes major Netherlands rail disruption
+INFO     2026-09-15 14:40:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc.com/news/articles/c8ly49w9g1edo
+INFO     2026-09-15 14:40:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-15 14:40:16 [scraper.py:178] 🎉 [HN] All done.
+
