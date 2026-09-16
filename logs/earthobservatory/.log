@@ -19910,3 +19910,24 @@ INFO     2026-09-16 04:33:28 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-16 04:33:28 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-16 09:47:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-16 09:47:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-16 09:47:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-16 09:47:20 [scraper.py:133] 📥 [EO] Title: Purple Haze Aurora
+INFO     2026-09-16 09:47:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/purple-haze-aurora/ISS075-E-88592_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-16 09:47:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-16 09:47:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-16 09:47:20 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-16 09:47:21 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-16 09:47:21 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-16 09:47:21 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-16 09:47:21 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-16 09:47:21 [scraper.py:133] 📥 [EO] Title: Purple Haze Aurora
+INFO     2026-09-16 09:47:21 [scraper.py:133] 📥 [EO] Title: Purple Haze Aurora
+INFO     2026-09-16 09:47:21 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/purple-haze-aurora/ISS075-E-88592_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-16 09:47:21 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/purple-haze-aurora/ISS075-E-88592_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-16 09:47:21 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-16 09:47:21 [scraper.py:154] ✅ [EO] Successfully fetched.
+
