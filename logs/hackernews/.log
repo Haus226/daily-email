@@ -40852,3 +40852,36 @@ INFO     2026-09-15 14:40:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.bbc
 INFO     2026-09-15 14:40:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-15 14:40:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-16 04:33:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-16 04:33:28 [scraper.py:170] 📥 [HN #1] Introducing System One Models and Jev
+INFO     2026-09-16 04:33:28 [scraper.py:171] 🔗 [HN #1] URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+INFO     2026-09-16 04:33:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-16 04:33:28 [scraper.py:170] 📥 [HN #2] Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+INFO     2026-09-16 04:33:28 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/arnegiacomo/fugleramme
+INFO     2026-09-16 04:33:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-16 04:33:28 [scraper.py:170] 📥 [HN #3] Apple Reference Image: A New Approach for Verified Photography
+INFO     2026-09-16 04:33:28 [scraper.py:171] 🔗 [HN #3] URL: https://security.apple.com/blog/apple-reference-image/
+INFO     2026-09-16 04:33:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-16 04:33:28 [scraper.py:170] 📥 [HN #4] Negativland, Culture Jamming, and the Art of Making Something New
+INFO     2026-09-16 04:33:28 [scraper.py:171] 🔗 [HN #4] URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/
+INFO     2026-09-16 04:33:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-16 04:33:29 [scraper.py:170] 📥 [HN #5] An update on Wayback Machine access
+INFO     2026-09-16 04:33:29 [scraper.py:171] 🔗 [HN #5] URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
+INFO     2026-09-16 04:33:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-16 04:33:29 [scraper.py:170] 📥 [HN #6] Gemini 3.8 Live and 3.8 Live Extended Thinking
+INFO     2026-09-16 04:33:29 [scraper.py:171] 🔗 [HN #6] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
+INFO     2026-09-16 04:33:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-16 04:33:29 [scraper.py:170] 📥 [HN #7] German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+INFO     2026-09-16 04:33:29 [scraper.py:171] 🔗 [HN #7] URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
+INFO     2026-09-16 04:33:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-16 04:33:29 [scraper.py:170] 📥 [HN #8] Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+INFO     2026-09-16 04:33:29 [scraper.py:171] 🔗 [HN #8] URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/
+INFO     2026-09-16 04:33:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-16 04:33:29 [scraper.py:170] 📥 [HN #9] Show HN: I made a flight simulator, except you're just a passenger
+INFO     2026-09-16 04:33:29 [scraper.py:171] 🔗 [HN #9] URL: https://inflightsimulator.com
+INFO     2026-09-16 04:33:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-16 04:33:30 [scraper.py:170] 📥 [HN #10] Building a Linux GPU Driver for the M4 Mac Mini in One Month
+INFO     2026-09-16 04:33:30 [scraper.py:171] 🔗 [HN #10] URL: https://codyho.dev/blog/gpu-driver/
+INFO     2026-09-16 04:33:30 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-16 04:33:30 [scraper.py:178] 🎉 [HN] All done.
+
