@@ -40984,3 +40984,36 @@ INFO     2026-09-17 04:38:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.ama
 INFO     2026-09-17 04:38:52 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-17 04:38:52 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-17 09:54:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-17 09:54:35 [scraper.py:170] 📥 [HN #1] One Year of Sponsored Servo Development
+INFO     2026-09-17 09:54:35 [scraper.py:171] 🔗 [HN #1] URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
+INFO     2026-09-17 09:54:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-17 09:54:35 [scraper.py:170] 📥 [HN #2] I didn't sign the Fields medallists' letter
+INFO     2026-09-17 09:54:35 [scraper.py:171] 🔗 [HN #2] URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/
+INFO     2026-09-17 09:54:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-17 09:54:35 [scraper.py:170] 📥 [HN #3] Nvidia announces native GPU programming in Rust
+INFO     2026-09-17 09:54:35 [scraper.py:171] 🔗 [HN #3] URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+INFO     2026-09-17 09:54:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-17 09:54:35 [scraper.py:170] 📥 [HN #4] Keys Not Included: recovering the signing keys for US driver's license barcodes
+INFO     2026-09-17 09:54:35 [scraper.py:171] 🔗 [HN #4] URL: https://ryan.science/blog/keys-not-included
+INFO     2026-09-17 09:54:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-17 09:54:36 [scraper.py:170] 📥 [HN #5] The Relation Between Mathematics and Physics by Paul Dirac
+INFO     2026-09-17 09:54:36 [scraper.py:171] 🔗 [HN #5] URL: https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html
+INFO     2026-09-17 09:54:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-17 09:54:36 [scraper.py:170] 📥 [HN #6] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
+INFO     2026-09-17 09:54:36 [scraper.py:171] 🔗 [HN #6] URL: https://jakeasmith.com/blog/http-build-url/
+INFO     2026-09-17 09:54:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-17 09:54:36 [scraper.py:170] 📥 [HN #7] Training a 4B model to produce 81% faster query plans than Postgres
+INFO     2026-09-17 09:54:36 [scraper.py:171] 🔗 [HN #7] URL: https://rohanbansal.com/qorl
+INFO     2026-09-17 09:54:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-17 09:54:37 [scraper.py:170] 📥 [HN #8] GLM Built Its Own Inference Infrastructure
+INFO     2026-09-17 09:54:37 [scraper.py:171] 🔗 [HN #8] URL: https://z.ai/blog/glm-built-its-inference-infrastructure
+INFO     2026-09-17 09:54:37 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-17 09:54:37 [scraper.py:170] 📥 [HN #9] Lucasart's Afterlife
+INFO     2026-09-17 09:54:37 [scraper.py:171] 🔗 [HN #9] URL: https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/
+INFO     2026-09-17 09:54:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-17 09:54:37 [scraper.py:170] 📥 [HN #10] Xiaomi Mimo 2.6 live post-training dashboard
+INFO     2026-09-17 09:54:37 [scraper.py:171] 🔗 [HN #10] URL: https://mimo.xiaomi.com/rl/
+INFO     2026-09-17 09:54:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-17 09:54:37 [scraper.py:178] 🎉 [HN] All done.
+
