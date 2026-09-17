@@ -40951,3 +40951,36 @@ INFO     2026-09-16 14:40:06 [scraper.py:171] 🔗 [HN #10] URL: https://stale.j
 INFO     2026-09-16 14:40:06 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-16 14:40:06 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-17 04:38:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-17 04:38:50 [scraper.py:170] 📥 [HN #1] Keys Not Included: recovering the signing keys for US driver's license barcodes
+INFO     2026-09-17 04:38:50 [scraper.py:171] 🔗 [HN #1] URL: https://ryan.science/blog/keys-not-included
+INFO     2026-09-17 04:38:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-17 04:38:50 [scraper.py:170] 📥 [HN #2] Nvidia announces native GPU programming in Rust
+INFO     2026-09-17 04:38:50 [scraper.py:171] 🔗 [HN #2] URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+INFO     2026-09-17 04:38:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-17 04:38:51 [scraper.py:170] 📥 [HN #3] The Painful Truth: The RAM Crisis Is Only Just the Beginning
+INFO     2026-09-17 04:38:51 [scraper.py:171] 🔗 [HN #3] URL: https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/
+INFO     2026-09-17 04:38:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-17 04:38:51 [scraper.py:170] 📥 [HN #4] Training a 4B model to produce 81% faster query plans than Postgres
+INFO     2026-09-17 04:38:51 [scraper.py:171] 🔗 [HN #4] URL: https://rohanbansal.com/qorl
+INFO     2026-09-17 04:38:51 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-17 04:38:51 [scraper.py:170] 📥 [HN #5] DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression
+INFO     2026-09-17 04:38:51 [scraper.py:171] 🔗 [HN #5] URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html
+INFO     2026-09-17 04:38:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-17 04:38:51 [scraper.py:170] 📥 [HN #6] Xiaomi Mimo 2.6 live post-training dashboard
+INFO     2026-09-17 04:38:51 [scraper.py:171] 🔗 [HN #6] URL: https://mimo.xiaomi.com/rl/
+INFO     2026-09-17 04:38:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-17 04:38:51 [scraper.py:170] 📥 [HN #7] Backups Aren't Simple
+INFO     2026-09-17 04:38:51 [scraper.py:171] 🔗 [HN #7] URL: https://filipovski.net/2026/09/16/backups-arent-simple.html
+INFO     2026-09-17 04:38:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-17 04:38:52 [scraper.py:170] 📥 [HN #8] Breaking the 1.58-bit Barrier for Ternary LLMs
+INFO     2026-09-17 04:38:52 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2609.16338
+INFO     2026-09-17 04:38:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-17 04:38:52 [scraper.py:170] 📥 [HN #9] Small programming tricks
+INFO     2026-09-17 04:38:52 [scraper.py:171] 🔗 [HN #9] URL: https://will-keleher.com/posts/small-programming-tricks-matter/
+INFO     2026-09-17 04:38:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-17 04:38:52 [scraper.py:170] 📥 [HN #10] Developing provably correct Rust code with Verus
+INFO     2026-09-17 04:38:52 [scraper.py:171] 🔗 [HN #10] URL: https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
+INFO     2026-09-17 04:38:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-17 04:38:52 [scraper.py:178] 🎉 [HN] All done.
+
