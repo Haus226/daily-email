@@ -41017,3 +41017,36 @@ INFO     2026-09-17 09:54:37 [scraper.py:171] 🔗 [HN #10] URL: https://mimo.xi
 INFO     2026-09-17 09:54:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-17 09:54:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-17 14:44:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-17 14:44:12 [scraper.py:170] 📥 [HN #1] Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA
+INFO     2026-09-17 14:44:12 [scraper.py:171] 🔗 [HN #1] URL: https://global.fujitsu/en-global/pr/news/2026/09/14-02
+INFO     2026-09-17 14:44:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-17 14:44:12 [scraper.py:170] 📥 [HN #2] Show HN: I built a new version of my fun spatial 3D online meeting app
+INFO     2026-09-17 14:44:12 [scraper.py:171] 🔗 [HN #2] URL: https://flat.social
+INFO     2026-09-17 14:44:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-17 14:44:12 [scraper.py:170] 📥 [HN #3] One Year of Sponsored Servo Development
+INFO     2026-09-17 14:44:12 [scraper.py:171] 🔗 [HN #3] URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
+INFO     2026-09-17 14:44:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-17 14:44:13 [scraper.py:170] 📥 [HN #4] Canada welcomes EU proposal to become 'associate member'
+INFO     2026-09-17 14:44:13 [scraper.py:171] 🔗 [HN #4] URL: https://www.bbc.com/news/articles/cwly7vkke4jxo
+INFO     2026-09-17 14:44:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-17 14:44:13 [scraper.py:170] 📥 [HN #5] I had Gemini train its own replacement for $9
+INFO     2026-09-17 14:44:13 [scraper.py:171] 🔗 [HN #5] URL: https://www.petervijeh.com/projects/reddit-ner
+INFO     2026-09-17 14:44:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-17 14:44:14 [scraper.py:170] 📥 [HN #6] Nvidia announces native GPU programming in Rust
+INFO     2026-09-17 14:44:14 [scraper.py:171] 🔗 [HN #6] URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+INFO     2026-09-17 14:44:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-17 14:44:14 [scraper.py:170] 📥 [HN #7] CCC invites all model citizens to 40C3
+INFO     2026-09-17 14:44:14 [scraper.py:171] 🔗 [HN #7] URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
+INFO     2026-09-17 14:44:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-17 14:44:14 [scraper.py:170] 📥 [HN #8] My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it
+INFO     2026-09-17 14:44:14 [scraper.py:171] 🔗 [HN #8] URL: https://jakeasmith.com/blog/http-build-url/
+INFO     2026-09-17 14:44:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-17 14:44:14 [scraper.py:170] 📥 [HN #9] Better Vector Search for Long Documents: Chunking Inside Manticore Search
+INFO     2026-09-17 14:44:14 [scraper.py:171] 🔗 [HN #9] URL: https://manticoresearch.com/blog/auto-chunking/
+INFO     2026-09-17 14:44:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-17 14:44:15 [scraper.py:170] 📥 [HN #10] Keys Not Included: recovering the signing keys for US driver's license barcodes
+INFO     2026-09-17 14:44:15 [scraper.py:171] 🔗 [HN #10] URL: https://ryan.science/blog/keys-not-included
+INFO     2026-09-17 14:44:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-17 14:44:15 [scraper.py:178] 🎉 [HN] All done.
+
