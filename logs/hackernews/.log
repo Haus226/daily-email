@@ -41083,3 +41083,36 @@ INFO     2026-09-18 04:24:02 [scraper.py:171] 🔗 [HN #10] URL: https://linguis
 INFO     2026-09-18 04:24:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-18 04:24:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-18 09:31:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-18 09:31:49 [scraper.py:170] 📥 [HN #1] Jemalloc 5.4.0
+INFO     2026-09-18 09:31:49 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0
+INFO     2026-09-18 09:31:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-18 09:31:50 [scraper.py:170] 📥 [HN #2] The scourge of x86 emulation
+INFO     2026-09-18 09:31:50 [scraper.py:171] 🔗 [HN #2] URL: https://fex-emu.com/Scourge-of-emulation/
+INFO     2026-09-18 09:31:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-18 09:31:50 [scraper.py:170] 📥 [HN #3] Astra for Law
+INFO     2026-09-18 09:31:50 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/astra-for-law/
+INFO     2026-09-18 09:31:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-18 09:31:50 [scraper.py:170] 📥 [HN #4] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+INFO     2026-09-18 09:31:50 [scraper.py:171] 🔗 [HN #4] URL: https://prismml.com/news/bonsai-2-27b
+INFO     2026-09-18 09:31:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-18 09:31:50 [scraper.py:170] 📥 [HN #5] Bend – A language that blocks AI mistakes via proof, on CPU and GPU
+INFO     2026-09-18 09:31:50 [scraper.py:171] 🔗 [HN #5] URL: https://bend-lang.com/
+INFO     2026-09-18 09:31:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:170] 📥 [HN #6] Qwen 3.8 Omni Flash
+INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #6] URL: https://qwen.ai/blog?id=qwen3.8-omni-flash
+INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:170] 📥 [HN #7] When the fractional part of a float fixes your shader
+INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #7] URL: https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/
+INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:170] 📥 [HN #8] Hister: A private search engine for the pages you visit and the files you keep
+INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/asciimoo/hister
+INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:170] 📥 [HN #9] Wax motor
+INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #9] URL: https://en.wikipedia.org/wiki/Wax_motor
+INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:170] 📥 [HN #10] Pre-Greek: The lost language hidden within Ancient Greek
+INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #10] URL: https://linguisticdiscovery.com/posts/pre-greek/
+INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-18 09:31:51 [scraper.py:178] 🎉 [HN] All done.
+
