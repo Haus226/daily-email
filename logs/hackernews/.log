@@ -41116,3 +41116,36 @@ INFO     2026-09-18 09:31:51 [scraper.py:171] 🔗 [HN #10] URL: https://linguis
 INFO     2026-09-18 09:31:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-18 09:31:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-18 14:08:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-18 14:08:55 [scraper.py:170] 📥 [HN #1] Bend 2 and the Vibe-Coding Trap
+INFO     2026-09-18 14:08:55 [scraper.py:171] 🔗 [HN #1] URL: https://blog.liampwll.com/posts/bend_vibe_coding/
+INFO     2026-09-18 14:08:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-18 14:08:55 [scraper.py:170] 📥 [HN #2] An Empirical Study of Harness Design for Coding Agents
+INFO     2026-09-18 14:08:55 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2609.20804
+INFO     2026-09-18 14:08:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-18 14:08:56 [scraper.py:170] 📥 [HN #3] ZCode, the GLM coding agent, silently uploads your Git history
+INFO     2026-09-18 14:08:56 [scraper.py:171] 🔗 [HN #3] URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload
+INFO     2026-09-18 14:08:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-18 14:08:56 [scraper.py:170] 📥 [HN #4] OpenJev
+INFO     2026-09-18 14:08:56 [scraper.py:171] 🔗 [HN #4] URL: https://openjev.com/
+INFO     2026-09-18 14:08:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-18 14:08:56 [scraper.py:170] 📥 [HN #5] I don't like passkeys
+INFO     2026-09-18 14:08:56 [scraper.py:171] 🔗 [HN #5] URL: https://hawksley.dev/blog/i-dont-like-passkeys
+INFO     2026-09-18 14:08:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-18 14:08:56 [scraper.py:170] 📥 [HN #6] AI chatbots becoming experts at changing people's minds. What's their secret?
+INFO     2026-09-18 14:08:56 [scraper.py:171] 🔗 [HN #6] URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret
+INFO     2026-09-18 14:08:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-18 14:08:57 [scraper.py:170] 📥 [HN #7] The Shadows Lurking in the Equations – Underwater Islands
+INFO     2026-09-18 14:08:57 [scraper.py:171] 🔗 [HN #7] URL: https://gods.art/articles/equation_shadows
+INFO     2026-09-18 14:08:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-18 14:08:57 [scraper.py:170] 📥 [HN #8] Subnormal floating-point numbers are expensive on Intel processors
+INFO     2026-09-18 14:08:57 [scraper.py:171] 🔗 [HN #8] URL: https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/
+INFO     2026-09-18 14:08:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-18 14:08:57 [scraper.py:170] 📥 [HN #9] Jemalloc 5.4.0
+INFO     2026-09-18 14:08:57 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0
+INFO     2026-09-18 14:08:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-18 14:08:57 [scraper.py:170] 📥 [HN #10] Cekura (YC F24) Is Hiring
+INFO     2026-09-18 14:08:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+INFO     2026-09-18 14:08:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-18 14:08:57 [scraper.py:178] 🎉 [HN] All done.
+
