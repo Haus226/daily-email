@@ -20120,3 +20120,24 @@ INFO     2026-09-19 09:18:43 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-19 09:18:43 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-19 13:43:34 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-19 13:43:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-19 13:43:37 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-19 13:43:37 [scraper.py:133] 📥 [EO] Title: Lake Powell Drops to Record-Low Levels
+INFO     2026-09-19 13:43:37 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-19 13:43:37 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-19 13:43:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-19 13:43:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-19 13:43:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-19 13:43:37 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-19 13:43:38 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-19 13:43:38 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-19 13:43:38 [scraper.py:133] 📥 [EO] Title: Lake Powell Drops to Record-Low Levels
+INFO     2026-09-19 13:43:38 [scraper.py:133] 📥 [EO] Title: Lake Powell Drops to Record-Low Levels
+INFO     2026-09-19 13:43:38 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-19 13:43:38 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-19 13:43:38 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-19 13:43:38 [scraper.py:154] ✅ [EO] Successfully fetched.
+
