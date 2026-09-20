@@ -6136,3 +6136,8 @@ INFO     2026-09-20 09:40:41 [scraper.py:47] 📥 [APOD] Title: Analemma over th
 INFO     2026-09-20 09:40:41 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg
 INFO     2026-09-20 09:40:41 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-20 13:59:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-20 13:59:09 [scraper.py:47] 📥 [APOD] Title: Analemma over the Callanish Stones
+INFO     2026-09-20 13:59:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg
+INFO     2026-09-20 13:59:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
