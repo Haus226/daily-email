@@ -6126,3 +6126,8 @@ INFO     2026-09-19 13:43:37 [scraper.py:47] 📥 [APOD] Title: A Zodiacal Night
 INFO     2026-09-19 13:43:37 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg
 INFO     2026-09-19 13:43:37 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-20 04:39:30 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-20 04:39:30 [scraper.py:47] 📥 [APOD] Title: Analemma over the Callanish Stones
+INFO     2026-09-20 04:39:31 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg
+INFO     2026-09-20 04:39:31 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

