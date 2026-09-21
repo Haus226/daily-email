@@ -41413,3 +41413,36 @@ INFO     2026-09-21 10:33:55 [scraper.py:171] 🔗 [HN #10] URL: https://amigaux
 INFO     2026-09-21 10:33:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-21 10:33:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-21 16:16:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-21 16:16:11 [scraper.py:170] 📥 [HN #1] What Sun Got Wrong
+INFO     2026-09-21 16:16:11 [scraper.py:171] 🔗 [HN #1] URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+INFO     2026-09-21 16:16:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-21 16:16:11 [scraper.py:170] 📥 [HN #2] Attention is all you have
+INFO     2026-09-21 16:16:11 [scraper.py:171] 🔗 [HN #2] URL: https://alicegg.tech/2026/09/21/attention
+INFO     2026-09-21 16:16:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-21 16:16:11 [scraper.py:170] 📥 [HN #3] Disney+: New user agreement allows ads before movies in all subscriptions
+INFO     2026-09-21 16:16:11 [scraper.py:171] 🔗 [HN #3] URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change
+INFO     2026-09-21 16:16:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-21 16:16:12 [scraper.py:170] 📥 [HN #4] Uber arbitration award over Emily Normandin-Parker's death
+INFO     2026-09-21 16:16:12 [scraper.py:171] 🔗 [HN #4] URL: https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death
+INFO     2026-09-21 16:16:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-21 16:16:12 [scraper.py:170] 📥 [HN #5] Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+INFO     2026-09-21 16:16:12 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/jaredpalmer/kev/tree/main
+INFO     2026-09-21 16:16:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-21 16:16:12 [scraper.py:170] 📥 [HN #6] Good people refuse to do bad things
+INFO     2026-09-21 16:16:12 [scraper.py:171] 🔗 [HN #6] URL: https://carette.xyz/posts/good_people_refuse_to_do_bad_things/
+INFO     2026-09-21 16:16:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-21 16:16:12 [scraper.py:170] 📥 [HN #7] Jev-Leftpad
+INFO     2026-09-21 16:16:12 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/f/jev-leftpad
+INFO     2026-09-21 16:16:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-21 16:16:13 [scraper.py:170] 📥 [HN #8] Grim Fandango Puzzle Document (1996) [pdf]
+INFO     2026-09-21 16:16:13 [scraper.py:171] 🔗 [HN #8] URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
+INFO     2026-09-21 16:16:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-21 16:16:13 [scraper.py:170] 📥 [HN #9] M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
+INFO     2026-09-21 16:16:13 [scraper.py:171] 🔗 [HN #9] URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/
+INFO     2026-09-21 16:16:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-21 16:16:13 [scraper.py:170] 📥 [HN #10] Whirlpool Washer Transmission Repair (2007)
+INFO     2026-09-21 16:16:13 [scraper.py:171] 🔗 [HN #10] URL: https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/
+INFO     2026-09-21 16:16:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-21 16:16:13 [scraper.py:178] 🎉 [HN] All done.
+
