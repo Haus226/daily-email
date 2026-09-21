@@ -41380,3 +41380,36 @@ INFO     2026-09-21 04:37:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.gad
 INFO     2026-09-21 04:37:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-21 04:37:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-21 10:33:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-21 10:33:52 [scraper.py:170] 📥 [HN #1] Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+INFO     2026-09-21 10:33:52 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/jaredpalmer/kev/tree/main
+INFO     2026-09-21 10:33:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-21 10:33:52 [scraper.py:170] 📥 [HN #2] Grim Fandango Puzzle Document (1996) [pdf]
+INFO     2026-09-21 10:33:52 [scraper.py:171] 🔗 [HN #2] URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf
+INFO     2026-09-21 10:33:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-21 10:33:53 [scraper.py:170] 📥 [HN #3] Jev-Leftpad
+INFO     2026-09-21 10:33:53 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/f/jev-leftpad
+INFO     2026-09-21 10:33:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-21 10:33:53 [scraper.py:170] 📥 [HN #4] AX – Google’s Open Agentic Orchestrator
+INFO     2026-09-21 10:33:53 [scraper.py:171] 🔗 [HN #4] URL: https://agentexecutor.io
+INFO     2026-09-21 10:33:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-21 10:33:54 [scraper.py:170] 📥 [HN #5] Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+INFO     2026-09-21 10:33:54 [scraper.py:171] 🔗 [HN #5] URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
+INFO     2026-09-21 10:33:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-21 10:33:54 [scraper.py:170] 📥 [HN #6] Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
+INFO     2026-09-21 10:33:54 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/volotat/mini-AGI/
+INFO     2026-09-21 10:33:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-21 10:33:54 [scraper.py:170] 📥 [HN #7] Qwen Image 2.1
+INFO     2026-09-21 10:33:54 [scraper.py:171] 🔗 [HN #7] URL: https://qwen.ai/blog?id=qwen-image-2.1
+INFO     2026-09-21 10:33:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-21 10:33:54 [scraper.py:170] 📥 [HN #8] What happened to the Snowden archive
+INFO     2026-09-21 10:33:54 [scraper.py:171] 🔗 [HN #8] URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
+INFO     2026-09-21 10:33:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-21 10:33:55 [scraper.py:170] 📥 [HN #9] The Effect of CRTs on Pixel Art (2024)
+INFO     2026-09-21 10:33:55 [scraper.py:171] 🔗 [HN #9] URL: https://datagubbe.se/crt/
+INFO     2026-09-21 10:33:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-21 10:33:55 [scraper.py:170] 📥 [HN #10] Amiga Unix, Again
+INFO     2026-09-21 10:33:55 [scraper.py:171] 🔗 [HN #10] URL: https://amigaux.org/
+INFO     2026-09-21 10:33:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-21 10:33:55 [scraper.py:178] 🎉 [HN] All done.
+

@@ -6146,3 +6146,8 @@ INFO     2026-09-21 04:37:56 [scraper.py:47] 📥 [APOD] Title: Cocoon Nebula Wi
 INFO     2026-09-21 04:37:56 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg
 INFO     2026-09-21 04:37:56 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-21 10:33:51 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-21 10:33:51 [scraper.py:47] 📥 [APOD] Title: Cocoon Nebula Wide Field
+INFO     2026-09-21 10:33:51 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg
+INFO     2026-09-21 10:33:51 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
