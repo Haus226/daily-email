@@ -41479,3 +41479,36 @@ INFO     2026-09-22 04:34:02 [scraper.py:171] 🔗 [HN #10] URL: https://status.
 INFO     2026-09-22 04:34:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-22 04:34:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-22 09:46:35 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-22 09:46:35 [scraper.py:170] 📥 [HN #1] I said no and Apple said yes
+INFO     2026-09-22 09:46:35 [scraper.py:171] 🔗 [HN #1] URL: https://dbushell.com/2026/09/22/apple-intelligence/
+INFO     2026-09-22 09:46:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-22 09:46:35 [scraper.py:170] 📥 [HN #2] Can gzip be a language model?
+INFO     2026-09-22 09:46:35 [scraper.py:171] 🔗 [HN #2] URL: https://nathan.rs/posts/gzip-lm/
+INFO     2026-09-22 09:46:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-22 09:46:36 [scraper.py:170] 📥 [HN #3] MiMo v2.6
+INFO     2026-09-22 09:46:36 [scraper.py:171] 🔗 [HN #3] URL: https://mimo.xiaomi.com/mimo-v2-6
+INFO     2026-09-22 09:46:36 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-22 09:46:36 [scraper.py:170] 📥 [HN #4] Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+INFO     2026-09-22 09:46:36 [scraper.py:171] 🔗 [HN #4] URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/
+INFO     2026-09-22 09:46:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-22 09:46:36 [scraper.py:170] 📥 [HN #5] Spymarks, Not Watermarks
+INFO     2026-09-22 09:46:36 [scraper.py:171] 🔗 [HN #5] URL: https://brand.io/article/spymarks/
+INFO     2026-09-22 09:46:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:170] 📥 [HN #6] Transformers Explained Visually
+INFO     2026-09-22 09:46:37 [scraper.py:171] 🔗 [HN #6] URL: https://poloclub.github.io/transformer-explainer/
+INFO     2026-09-22 09:46:37 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:170] 📥 [HN #7] Attention is all you have
+INFO     2026-09-22 09:46:37 [scraper.py:171] 🔗 [HN #7] URL: https://alicegg.tech/2026/09/21/attention
+INFO     2026-09-22 09:46:37 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:170] 📥 [HN #8] MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
+INFO     2026-09-22 09:46:37 [scraper.py:171] 🔗 [HN #8] URL: https://artificialanalysis.ai/models/mimo-v2-6-pro
+INFO     2026-09-22 09:46:37 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:170] 📥 [HN #9] What Sun got wrong
+INFO     2026-09-22 09:46:37 [scraper.py:171] 🔗 [HN #9] URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+INFO     2026-09-22 09:46:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:170] 📥 [HN #10] I don't want to read what you didn't write
+INFO     2026-09-22 09:46:37 [scraper.py:171] 🔗 [HN #10] URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+INFO     2026-09-22 09:46:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-22 09:46:37 [scraper.py:178] 🎉 [HN] All done.
+

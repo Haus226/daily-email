@@ -6161,3 +6161,8 @@ INFO     2026-09-22 04:33:59 [scraper.py:47] 📥 [APOD] Title: Chance Triple Al
 INFO     2026-09-22 04:33:59 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg
 INFO     2026-09-22 04:33:59 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-22 09:46:35 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-22 09:46:35 [scraper.py:47] 📥 [APOD] Title: Chance Triple Alignment: Plane, Space Station, Sun
+INFO     2026-09-22 09:46:35 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg
+INFO     2026-09-22 09:46:35 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
