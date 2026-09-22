@@ -41446,3 +41446,36 @@ INFO     2026-09-21 16:16:13 [scraper.py:171] 🔗 [HN #10] URL: https://k0lee.c
 INFO     2026-09-21 16:16:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-21 16:16:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-22 04:33:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-22 04:33:59 [scraper.py:170] 📥 [HN #1] MiMo v2.6
+INFO     2026-09-22 04:33:59 [scraper.py:171] 🔗 [HN #1] URL: https://mimo.xiaomi.com/mimo-v2-6
+INFO     2026-09-22 04:33:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-22 04:34:00 [scraper.py:170] 📥 [HN #2] Spymarks, Not Watermarks
+INFO     2026-09-22 04:34:00 [scraper.py:171] 🔗 [HN #2] URL: https://brand.io/article/spymarks/
+INFO     2026-09-22 04:34:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-22 04:34:00 [scraper.py:170] 📥 [HN #3] I don't want to read what you didn't write
+INFO     2026-09-22 04:34:00 [scraper.py:171] 🔗 [HN #3] URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+INFO     2026-09-22 04:34:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-22 04:34:00 [scraper.py:170] 📥 [HN #4] What Sun got wrong
+INFO     2026-09-22 04:34:00 [scraper.py:171] 🔗 [HN #4] URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+INFO     2026-09-22 04:34:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-22 04:34:01 [scraper.py:170] 📥 [HN #5] Transformers Explained Visually
+INFO     2026-09-22 04:34:01 [scraper.py:171] 🔗 [HN #5] URL: https://poloclub.github.io/transformer-explainer/
+INFO     2026-09-22 04:34:01 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-22 04:34:01 [scraper.py:170] 📥 [HN #6] Attention is all you have
+INFO     2026-09-22 04:34:01 [scraper.py:171] 🔗 [HN #6] URL: https://alicegg.tech/2026/09/21/attention
+INFO     2026-09-22 04:34:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-22 04:34:01 [scraper.py:170] 📥 [HN #7] NASA’s Mars Sample Return mission is dead
+INFO     2026-09-22 04:34:01 [scraper.py:171] 🔗 [HN #7] URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
+INFO     2026-09-22 04:34:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-22 04:34:01 [scraper.py:170] 📥 [HN #8] PDF Forgeries Are Surprisingly Rare (2022)
+INFO     2026-09-22 04:34:01 [scraper.py:171] 🔗 [HN #8] URL: https://gwern.net/blog/2022/pdf-forgery
+INFO     2026-09-22 04:34:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-22 04:34:01 [scraper.py:170] 📥 [HN #9] AI coding has made CI a bottleneck, so we reworked ours to keep up
+INFO     2026-09-22 04:34:01 [scraper.py:171] 🔗 [HN #9] URL: https://linear.app/now/ci-bottleneck-reworked
+INFO     2026-09-22 04:34:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-22 04:34:02 [scraper.py:170] 📥 [HN #10] Claude Status – Elevated errors for multiple models
+INFO     2026-09-22 04:34:02 [scraper.py:171] 🔗 [HN #10] URL: https://status.claude.com/incidents/7g1qpkyz5gxh
+INFO     2026-09-22 04:34:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-22 04:34:02 [scraper.py:178] 🎉 [HN] All done.
+

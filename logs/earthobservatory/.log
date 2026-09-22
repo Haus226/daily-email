@@ -20267,3 +20267,24 @@ INFO     2026-09-21 16:16:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-21 16:16:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-22 04:33:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-22 04:33:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-22 04:33:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-22 04:33:59 [scraper.py:133] 📥 [EO] Title: Arctic Melt Season Length Levels Off
+INFO     2026-09-22 04:33:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20102023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-22 04:33:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-22 04:33:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-22 04:33:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-22 04:34:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-22 04:34:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-22 04:34:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-22 04:34:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-22 04:34:00 [scraper.py:133] 📥 [EO] Title: Arctic Melt Season Length Levels Off
+INFO     2026-09-22 04:34:00 [scraper.py:133] 📥 [EO] Title: Arctic Melt Season Length Levels Off
+INFO     2026-09-22 04:34:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20102023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-22 04:34:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20102023_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-22 04:34:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-22 04:34:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
