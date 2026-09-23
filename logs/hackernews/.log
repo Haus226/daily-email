@@ -41578,3 +41578,36 @@ INFO     2026-09-23 04:30:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.kqe
 INFO     2026-09-23 04:30:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-23 04:30:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-23 09:50:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-23 09:50:26 [scraper.py:170] 📥 [HN #1] Jev in 25 Lines of Python
+INFO     2026-09-23 09:50:26 [scraper.py:171] 🔗 [HN #1] URL: https://www.nobodywho.ai/posts/jev-in-25-lines/
+INFO     2026-09-23 09:50:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-23 09:50:26 [scraper.py:170] 📥 [HN #2] Abandoning Scientific Linux Was a Mistake
+INFO     2026-09-23 09:50:26 [scraper.py:171] 🔗 [HN #2] URL: https://blog.melashri.net/posts/scientific-linux-mistake/
+INFO     2026-09-23 09:50:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-23 09:50:26 [scraper.py:170] 📥 [HN #3] GPT-6 Sol and Luna
+INFO     2026-09-23 09:50:26 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+INFO     2026-09-23 09:50:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-23 09:50:26 [scraper.py:170] 📥 [HN #4] Claude Opus 5.5
+INFO     2026-09-23 09:50:26 [scraper.py:171] 🔗 [HN #4] URL: https://www.anthropic.com/claude-opus-5-5
+INFO     2026-09-23 09:50:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-23 09:50:27 [scraper.py:170] 📥 [HN #5] Transit rewards
+INFO     2026-09-23 09:50:27 [scraper.py:171] 🔗 [HN #5] URL: https://waymo.com/blog/2026/09/transit-rewards/
+INFO     2026-09-23 09:50:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-23 09:50:27 [scraper.py:170] 📥 [HN #6] Netherlands bracing for potentially devastating US sanctions against the ICC
+INFO     2026-09-23 09:50:27 [scraper.py:171] 🔗 [HN #6] URL: https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6
+INFO     2026-09-23 09:50:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-23 09:50:27 [scraper.py:170] 📥 [HN #7] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+INFO     2026-09-23 09:50:27 [scraper.py:171] 🔗 [HN #7] URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html
+INFO     2026-09-23 09:50:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-23 09:50:27 [scraper.py:170] 📥 [HN #8] Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+INFO     2026-09-23 09:50:27 [scraper.py:171] 🔗 [HN #8] URL: https://foxscript.org/
+INFO     2026-09-23 09:50:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-23 09:50:28 [scraper.py:170] 📥 [HN #9] Data-only attacks are easier than you think (2024)
+INFO     2026-09-23 09:50:28 [scraper.py:171] 🔗 [HN #9] URL: https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think
+INFO     2026-09-23 09:50:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-23 09:50:28 [scraper.py:170] 📥 [HN #10] ReBarUEFI: Resizable BAR for almost any UEFI system
+INFO     2026-09-23 09:50:28 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/xCuri0/ReBarUEFI
+INFO     2026-09-23 09:50:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-23 09:50:28 [scraper.py:178] 🎉 [HN] All done.
+
