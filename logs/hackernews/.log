@@ -41611,3 +41611,36 @@ INFO     2026-09-23 09:50:28 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-09-23 09:50:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-23 09:50:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-23 14:44:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-23 14:44:46 [scraper.py:170] 📥 [HN #1] Claude Code reads AGENTS.md only when telemetry is on
+INFO     2026-09-23 14:44:46 [scraper.py:171] 🔗 [HN #1] URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
+INFO     2026-09-23 14:44:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-23 14:44:46 [scraper.py:170] 📥 [HN #2] I Don't Want the Details
+INFO     2026-09-23 14:44:46 [scraper.py:171] 🔗 [HN #2] URL: https://michaelheap.com/i-dont-want-the-details/
+INFO     2026-09-23 14:44:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-23 14:44:46 [scraper.py:170] 📥 [HN #3] Jev in 25 Lines of Python
+INFO     2026-09-23 14:44:46 [scraper.py:171] 🔗 [HN #3] URL: https://www.nobodywho.ai/posts/jev-in-25-lines/
+INFO     2026-09-23 14:44:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-23 14:44:47 [scraper.py:170] 📥 [HN #4] Stripe built its internal AI platform
+INFO     2026-09-23 14:44:47 [scraper.py:171] 🔗 [HN #4] URL: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
+INFO     2026-09-23 14:44:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-23 14:44:47 [scraper.py:170] 📥 [HN #5] Z80 REPL
+INFO     2026-09-23 14:44:47 [scraper.py:171] 🔗 [HN #5] URL: https://abagames.github.io/z80-repl/index.html
+INFO     2026-09-23 14:44:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-23 14:44:47 [scraper.py:170] 📥 [HN #6] GPT-6 Sol and Luna
+INFO     2026-09-23 14:44:47 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+INFO     2026-09-23 14:44:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-23 14:44:48 [scraper.py:170] 📥 [HN #7] OpenAI is enlisting an influencer army to make it look 'good for the world'
+INFO     2026-09-23 14:44:48 [scraper.py:171] 🔗 [HN #7] URL: https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9
+INFO     2026-09-23 14:44:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-23 14:44:48 [scraper.py:170] 📥 [HN #8] Claude Opus 5.5
+INFO     2026-09-23 14:44:48 [scraper.py:171] 🔗 [HN #8] URL: https://www.anthropic.com/claude-opus-5-5
+INFO     2026-09-23 14:44:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-23 14:44:48 [scraper.py:170] 📥 [HN #9] Jev in practice: typed decisions, scoped authority
+INFO     2026-09-23 14:44:48 [scraper.py:171] 🔗 [HN #9] URL: https://tenuo.ai/blog/jev-scoped-authority
+INFO     2026-09-23 14:44:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-23 14:44:48 [scraper.py:170] 📥 [HN #10] Samsung accidentally freezes its smart fridges with a software update
+INFO     2026-09-23 14:44:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/
+INFO     2026-09-23 14:44:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-23 14:44:48 [scraper.py:178] 🎉 [HN] All done.
+
