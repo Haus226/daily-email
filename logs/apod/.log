@@ -6196,3 +6196,8 @@ INFO     2026-09-24 09:48:42 [scraper.py:47] 📥 [APOD] Title: The Ghosts of Fi
 INFO     2026-09-24 09:48:42 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg
 INFO     2026-09-24 09:48:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-24 14:40:47 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-24 14:40:47 [scraper.py:47] 📥 [APOD] Title: The Ghosts of Five Supernovas
+INFO     2026-09-24 14:40:47 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg
+INFO     2026-09-24 14:40:47 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
