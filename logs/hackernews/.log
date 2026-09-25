@@ -41809,3 +41809,36 @@ INFO     2026-09-25 10:05:33 [scraper.py:171] 🔗 [HN #10] URL: https://dynomig
 INFO     2026-09-25 10:05:33 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-25 10:05:33 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-25 15:02:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-25 15:02:09 [scraper.py:170] 📥 [HN #1] Dutch governments builds alternative for Microsoft based on NixOS
+INFO     2026-09-25 15:02:09 [scraper.py:171] 🔗 [HN #1] URL: https://www.dawo.community/en/
+INFO     2026-09-25 15:02:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-25 15:02:09 [scraper.py:170] 📥 [HN #2] Allow Carriers on Planes
+INFO     2026-09-25 15:02:09 [scraper.py:171] 🔗 [HN #2] URL: https://www.jefftk.com/p/allow-carriers-on-planes
+INFO     2026-09-25 15:02:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-25 15:02:10 [scraper.py:170] 📥 [HN #3] Platform-Independent SIMD in Go
+INFO     2026-09-25 15:02:10 [scraper.py:171] 🔗 [HN #3] URL: https://go.dev/blog/simd-experiment
+INFO     2026-09-25 15:02:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-25 15:02:10 [scraper.py:170] 📥 [HN #4] Git-bug: Distributed, offline-first bug tracker embedded in Git
+INFO     2026-09-25 15:02:10 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/git-bug/git-bug
+INFO     2026-09-25 15:02:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-25 15:02:11 [scraper.py:170] 📥 [HN #5] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+INFO     2026-09-25 15:02:11 [scraper.py:171] 🔗 [HN #5] URL: https://nyaa.sh/reviews/mac-mini-m6-emulation
+INFO     2026-09-25 15:02:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-25 15:02:11 [scraper.py:170] 📥 [HN #6] Ink and Switch Interactive Homepage
+INFO     2026-09-25 15:02:11 [scraper.py:171] 🔗 [HN #6] URL: https://www.inkandswitch.com/
+INFO     2026-09-25 15:02:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-25 15:02:12 [scraper.py:170] 📥 [HN #7] First Principles Thinking
+INFO     2026-09-25 15:02:12 [scraper.py:171] 🔗 [HN #7] URL: https://sunilsadasivan.com/writing/first-principles-thinking/
+INFO     2026-09-25 15:02:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-25 15:02:12 [scraper.py:170] 📥 [HN #8] F-Droid 2.0
+INFO     2026-09-25 15:02:12 [scraper.py:171] 🔗 [HN #8] URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+INFO     2026-09-25 15:02:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-25 15:02:13 [scraper.py:170] 📥 [HN #9] Boards of Casio
+INFO     2026-09-25 15:02:13 [scraper.py:171] 🔗 [HN #9] URL: https://www.ambionix.com/blog/boards-of-casio/
+INFO     2026-09-25 15:02:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-25 15:02:13 [scraper.py:170] 📥 [HN #10] Show HN: Make cursed fonts like Times New Bastard
+INFO     2026-09-25 15:02:13 [scraper.py:171] 🔗 [HN #10] URL: https://bastardica.mitpit.com
+INFO     2026-09-25 15:02:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-25 15:02:13 [scraper.py:178] 🎉 [HN] All done.
+
