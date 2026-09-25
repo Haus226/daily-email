@@ -41776,3 +41776,36 @@ INFO     2026-09-25 04:38:56 [scraper.py:171] 🔗 [HN #10] URL: https://ahmedho
 INFO     2026-09-25 04:38:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-25 04:38:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-25 10:05:31 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-25 10:05:31 [scraper.py:170] 📥 [HN #1] Dutch governments builds alternative for Microsoft based on NixOS
+INFO     2026-09-25 10:05:31 [scraper.py:171] 🔗 [HN #1] URL: https://www.dawo.community/en/
+INFO     2026-09-25 10:05:31 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-25 10:05:31 [scraper.py:170] 📥 [HN #2] Tech Needs Humanists More
+INFO     2026-09-25 10:05:31 [scraper.py:171] 🔗 [HN #2] URL: https://passo.uno/tech-needs-humanists-more-than-ever/
+INFO     2026-09-25 10:05:31 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-25 10:05:31 [scraper.py:170] 📥 [HN #3] Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+INFO     2026-09-25 10:05:31 [scraper.py:171] 🔗 [HN #3] URL: https://nyaa.sh/reviews/mac-mini-m6-emulation
+INFO     2026-09-25 10:05:31 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-25 10:05:32 [scraper.py:170] 📥 [HN #4] F-Droid 2.0
+INFO     2026-09-25 10:05:32 [scraper.py:171] 🔗 [HN #4] URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+INFO     2026-09-25 10:05:32 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-25 10:05:32 [scraper.py:170] 📥 [HN #5] CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
+INFO     2026-09-25 10:05:32 [scraper.py:171] 🔗 [HN #5] URL: https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2
+INFO     2026-09-25 10:05:32 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-25 10:05:32 [scraper.py:170] 📥 [HN #6] Special Projects (2016)
+INFO     2026-09-25 10:05:32 [scraper.py:171] 🔗 [HN #6] URL: https://openai.com/index/special-projects/
+INFO     2026-09-25 10:05:32 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-25 10:05:33 [scraper.py:170] 📥 [HN #7] Ink and Switch Interactive Homepage
+INFO     2026-09-25 10:05:33 [scraper.py:171] 🔗 [HN #7] URL: https://www.inkandswitch.com/
+INFO     2026-09-25 10:05:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-25 10:05:33 [scraper.py:170] 📥 [HN #8] Show HN: Make cursed fonts like Times New Bastard
+INFO     2026-09-25 10:05:33 [scraper.py:171] 🔗 [HN #8] URL: https://bastardica.mitpit.com
+INFO     2026-09-25 10:05:33 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-25 10:05:33 [scraper.py:170] 📥 [HN #9] Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
+INFO     2026-09-25 10:05:33 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/devdotfast/whiteboard
+INFO     2026-09-25 10:05:33 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-25 10:05:33 [scraper.py:170] 📥 [HN #10] Why is the liver so weirdly regenerative?
+INFO     2026-09-25 10:05:33 [scraper.py:171] 🔗 [HN #10] URL: https://dynomight.substack.com/p/liver
+INFO     2026-09-25 10:05:33 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-25 10:05:33 [scraper.py:178] 🎉 [HN] All done.
+
