@@ -20515,3 +20515,24 @@ INFO     2026-09-25 15:02:09 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-09-25 15:02:09 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-09-26 04:42:25 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-26 04:42:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-26 04:42:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-26 04:42:26 [scraper.py:133] 📥 [EO] Title: Explosive Intensification for Hurricane Polo
+INFO     2026-09-26 04:42:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-26 04:42:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-26 04:42:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-26 04:42:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-09-26 04:42:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-26 04:42:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-09-26 04:42:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-26 04:42:27 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-09-26 04:42:27 [scraper.py:133] 📥 [EO] Title: Explosive Intensification for Hurricane Polo
+INFO     2026-09-26 04:42:27 [scraper.py:133] 📥 [EO] Title: Explosive Intensification for Hurricane Polo
+INFO     2026-09-26 04:42:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-26 04:42:27 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-09-26 04:42:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-09-26 04:42:27 [scraper.py:154] ✅ [EO] Successfully fetched.
+

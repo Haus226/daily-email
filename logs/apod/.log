@@ -6216,3 +6216,8 @@ INFO     2026-09-25 15:02:09 [scraper.py:47] 📥 [APOD] Title: Globular Cluster
 INFO     2026-09-25 15:02:09 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg
 INFO     2026-09-25 15:02:09 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-26 04:42:26 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-26 04:42:26 [scraper.py:47] 📥 [APOD] Title: Mirrored Meteor and Milky Way
+INFO     2026-09-26 04:42:26 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg
+INFO     2026-09-26 04:42:26 [scraper.py:69] ✅ [APOD] Successfully fetched.
+
