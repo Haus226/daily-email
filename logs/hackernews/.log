@@ -41875,3 +41875,36 @@ INFO     2026-09-26 04:42:29 [scraper.py:171] 🔗 [HN #10] URL: https://tracydu
 INFO     2026-09-26 04:42:29 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-26 04:42:29 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-26 09:46:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-26 09:46:37 [scraper.py:170] 📥 [HN #1] Revealing the details of how OpenAI agents hacked Hugging Face
+INFO     2026-09-26 09:46:37 [scraper.py:171] 🔗 [HN #1] URL: https://swarmtraces.org/
+INFO     2026-09-26 09:46:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-26 09:46:37 [scraper.py:170] 📥 [HN #2] A single function Jev-like wrapper for LLMs, including vision models
+INFO     2026-09-26 09:46:37 [scraper.py:171] 🔗 [HN #2] URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
+INFO     2026-09-26 09:46:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-26 09:46:37 [scraper.py:170] 📥 [HN #3] We're gonna need a lot more mathematicians
+INFO     2026-09-26 09:46:37 [scraper.py:171] 🔗 [HN #3] URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/
+INFO     2026-09-26 09:46:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-26 09:46:38 [scraper.py:170] 📥 [HN #4] Plan mode is dead
+INFO     2026-09-26 09:46:38 [scraper.py:171] 🔗 [HN #4] URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html
+INFO     2026-09-26 09:46:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-26 09:46:38 [scraper.py:170] 📥 [HN #5] Ollaya – Ollama for open-source, Jev-style decision models
+INFO     2026-09-26 09:46:38 [scraper.py:171] 🔗 [HN #5] URL: https://ollaya.dev/
+INFO     2026-09-26 09:46:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-26 09:46:38 [scraper.py:170] 📥 [HN #6] Is your Postgres migration safe or not safe?
+INFO     2026-09-26 09:46:38 [scraper.py:171] 🔗 [HN #6] URL: https://safenotsafe.dev/
+INFO     2026-09-26 09:46:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-26 09:46:38 [scraper.py:170] 📥 [HN #7] Show HN: Jev Plays Pokémon Red
+INFO     2026-09-26 09:46:38 [scraper.py:171] 🔗 [HN #7] URL: https://jev-pokemon.vercel.app/
+INFO     2026-09-26 09:46:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-26 09:46:39 [scraper.py:170] 📥 [HN #8] What even is an OS now?
+INFO     2026-09-26 09:46:39 [scraper.py:171] 🔗 [HN #8] URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/
+INFO     2026-09-26 09:46:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-26 09:46:39 [scraper.py:170] 📥 [HN #9] Floci: Locally emulating any cloud service
+INFO     2026-09-26 09:46:39 [scraper.py:171] 🔗 [HN #9] URL: https://floci.io
+INFO     2026-09-26 09:46:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-26 09:46:39 [scraper.py:170] 📥 [HN #10] The Murky History of Soviet-Born Tetris
+INFO     2026-09-26 09:46:39 [scraper.py:171] 🔗 [HN #10] URL: https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/
+INFO     2026-09-26 09:46:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-26 09:46:39 [scraper.py:178] 🎉 [HN] All done.
+
