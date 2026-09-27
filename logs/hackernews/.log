@@ -41974,3 +41974,36 @@ INFO     2026-09-27 05:03:02 [scraper.py:171] 🔗 [HN #10] URL: https://francis
 INFO     2026-09-27 05:03:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-27 05:03:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-27 10:27:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-27 10:27:07 [scraper.py:170] 📥 [HN #1] Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+INFO     2026-09-27 10:27:07 [scraper.py:171] 🔗 [HN #1] URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/
+INFO     2026-09-27 10:27:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-27 10:27:07 [scraper.py:170] 📥 [HN #2] OpenAI Feared "Optics" of what might appear on Hacker News
+INFO     2026-09-27 10:27:07 [scraper.py:171] 🔗 [HN #2] URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/
+INFO     2026-09-27 10:27:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-27 10:27:07 [scraper.py:170] 📥 [HN #3] Flip Fluid on Flip Dots
+INFO     2026-09-27 10:27:07 [scraper.py:171] 🔗 [HN #3] URL: https://mitxela.com/projects/flipflip
+INFO     2026-09-27 10:27:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-27 10:27:07 [scraper.py:170] 📥 [HN #4] Does Georgism work? Five years later
+INFO     2026-09-27 10:27:07 [scraper.py:171] 🔗 [HN #4] URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later
+INFO     2026-09-27 10:27:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-27 10:27:07 [scraper.py:170] 📥 [HN #5] Go Concurrency Distilled
+INFO     2026-09-27 10:27:07 [scraper.py:171] 🔗 [HN #5] URL: https://antonz.org/go-concurrency-distilled/
+INFO     2026-09-27 10:27:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-27 10:27:08 [scraper.py:170] 📥 [HN #6] PipePipe: NewPipe hard fork implementing SponsorBlock
+INFO     2026-09-27 10:27:08 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/InfinityLoop1308/PipePipe
+INFO     2026-09-27 10:27:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-27 10:27:08 [scraper.py:170] 📥 [HN #7] DeepSeek Elastic Compute (DSec)
+INFO     2026-09-27 10:27:08 [scraper.py:171] 🔗 [HN #7] URL: https://arxiv.org/abs/2609.22978
+INFO     2026-09-27 10:27:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-27 10:27:08 [scraper.py:170] 📥 [HN #8] Show HN: Reladraw – A diagram language where you decide where to place things
+INFO     2026-09-27 10:27:08 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/reladraw/reladraw
+INFO     2026-09-27 10:27:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-27 10:27:08 [scraper.py:170] 📥 [HN #9] Improving site performance by shipping more CSS
+INFO     2026-09-27 10:27:08 [scraper.py:171] 🔗 [HN #9] URL: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
+INFO     2026-09-27 10:27:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-27 10:27:09 [scraper.py:170] 📥 [HN #10] C's Flexible Integer Sizes Were Not a Design Mistake
+INFO     2026-09-27 10:27:09 [scraper.py:171] 🔗 [HN #10] URL: https://pikuma.com/blog/c-integer-sizes-not-a-mistake
+INFO     2026-09-27 10:27:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-27 10:27:09 [scraper.py:178] 🎉 [HN] All done.
+
