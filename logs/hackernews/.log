@@ -42106,3 +42106,36 @@ INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.ink
 INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-28 11:35:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-28 17:59:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-28 17:59:04 [scraper.py:170] 📥 [HN #1] Pirating the Pirates
+INFO     2026-09-28 17:59:04 [scraper.py:171] 🔗 [HN #1] URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+INFO     2026-09-28 17:59:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-28 17:59:05 [scraper.py:170] 📥 [HN #2] Hijacking the PS5's RTMP Stream
+INFO     2026-09-28 17:59:05 [scraper.py:171] 🔗 [HN #2] URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/
+INFO     2026-09-28 17:59:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-28 17:59:05 [scraper.py:170] 📥 [HN #3] Show HN: HN.watch – Videos of all Hacker News posts
+INFO     2026-09-28 17:59:05 [scraper.py:171] 🔗 [HN #3] URL: https://hn.watch/
+INFO     2026-09-28 17:59:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-28 17:59:05 [scraper.py:170] 📥 [HN #4] Parley: Federated, decentralised chat that speaks plain IRC
+INFO     2026-09-28 17:59:05 [scraper.py:171] 🔗 [HN #4] URL: https://git.mills.io/prologic/parley
+INFO     2026-09-28 17:59:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-28 17:59:05 [scraper.py:170] 📥 [HN #5] What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
+INFO     2026-09-28 17:59:05 [scraper.py:171] 🔗 [HN #5] URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/
+INFO     2026-09-28 17:59:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-28 17:59:06 [scraper.py:170] 📥 [HN #6] I made a visual workspace for AI Automations
+INFO     2026-09-28 17:59:06 [scraper.py:171] 🔗 [HN #6] URL: https://www.biom.dev/
+INFO     2026-09-28 17:59:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-28 17:59:06 [scraper.py:170] 📥 [HN #7] MongoDB CEO resigns to join Meta
+INFO     2026-09-28 17:59:06 [scraper.py:171] 🔗 [HN #7] URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/
+INFO     2026-09-28 17:59:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-28 17:59:06 [scraper.py:170] 📥 [HN #8] Launch HN: Vespper (YC F24) – SOTA Docx MCP
+INFO     2026-09-28 17:59:06 [scraper.py:171] 🔗 [HN #8] URL: https://www.vespper.com/blog/launching-vespper-docx-mcp
+INFO     2026-09-28 17:59:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-28 17:59:07 [scraper.py:170] 📥 [HN #9] The problem is not AI code, but not knowing about system architecture or intent
+INFO     2026-09-28 17:59:07 [scraper.py:171] 🔗 [HN #9] URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
+INFO     2026-09-28 17:59:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-28 17:59:07 [scraper.py:170] 📥 [HN #10] Cf: The Agentic CLI for the Cloudflare API
+INFO     2026-09-28 17:59:07 [scraper.py:171] 🔗 [HN #10] URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/
+INFO     2026-09-28 17:59:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-28 17:59:07 [scraper.py:178] 🎉 [HN] All done.
+
