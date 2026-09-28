@@ -6251,3 +6251,8 @@ INFO     2026-09-28 05:04:58 [scraper.py:47] 📥 [APOD] Title: Cosmic Latte: Th
 INFO     2026-09-28 05:04:58 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg
 INFO     2026-09-28 05:04:58 [scraper.py:69] ✅ [APOD] Successfully fetched.
 
+INFO     2026-09-28 11:35:09 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+INFO     2026-09-28 11:35:10 [scraper.py:47] 📥 [APOD] Title: Cosmic Latte: The Average Color of the Universe
+INFO     2026-09-28 11:35:10 [scraper.py:48] 🖼️ [APOD] Media URL: https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg
+INFO     2026-09-28 11:35:10 [scraper.py:69] ✅ [APOD] Successfully fetched.
+

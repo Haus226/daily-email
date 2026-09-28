@@ -42073,3 +42073,36 @@ INFO     2026-09-28 05:05:00 [scraper.py:171] 🔗 [HN #10] URL: https://iain.ro
 INFO     2026-09-28 05:05:00 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-28 05:05:00 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-28 11:35:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-28 11:35:10 [scraper.py:170] 📥 [HN #1] Parley: Federated, decentralised chat that speaks plain IRC
+INFO     2026-09-28 11:35:11 [scraper.py:171] 🔗 [HN #1] URL: https://git.mills.io/prologic/parley
+INFO     2026-09-28 11:35:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-28 11:35:11 [scraper.py:170] 📥 [HN #2] AI companies in race to demonstrate their model most threatening to humanity
+INFO     2026-09-28 11:35:11 [scraper.py:171] 🔗 [HN #2] URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/
+INFO     2026-09-28 11:35:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-28 11:35:11 [scraper.py:170] 📥 [HN #3] Owed a billion dollars in Nvidia stock
+INFO     2026-09-28 11:35:11 [scraper.py:171] 🔗 [HN #3] URL: https://colo.to/nvidia-stock-narrative.html
+INFO     2026-09-28 11:35:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-28 11:35:11 [scraper.py:170] 📥 [HN #4] Footguns with Postgres "at time zone 'UTC'"
+INFO     2026-09-28 11:35:11 [scraper.py:171] 🔗 [HN #4] URL: https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does
+INFO     2026-09-28 11:35:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-28 11:35:11 [scraper.py:170] 📥 [HN #5] Thinking fast and slow in AI: The role of metacognition (2021)
+INFO     2026-09-28 11:35:11 [scraper.py:171] 🔗 [HN #5] URL: https://arxiv.org/abs/2110.01834
+INFO     2026-09-28 11:35:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:170] 📥 [HN #6] Ember-1
+INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #6] URL: https://fireworks.ai/blog/ember-1
+INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:170] 📥 [HN #7] When did Google get so weird?
+INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #7] URL: https://sancho.bearblog.dev/google-weird/
+INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:170] 📥 [HN #8] SpaceX's Starship launching to orbit for first time ever today
+INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #8] URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live
+INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:170] 📥 [HN #9] Nissan's third generation e-POWER powertrain
+INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #9] URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
+INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:170] 📥 [HN #10] Malleable software: Restoring user agency in a world of locked-down apps (2025)
+INFO     2026-09-28 11:35:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.inkandswitch.com/essay/malleable-software/
+INFO     2026-09-28 11:35:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-28 11:35:12 [scraper.py:178] 🎉 [HN] All done.
+
