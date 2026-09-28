@@ -42040,3 +42040,36 @@ INFO     2026-09-27 15:01:03 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-09-27 15:01:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-27 15:01:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-28 05:04:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-28 05:04:58 [scraper.py:170] 📥 [HN #1] Owed a billion dollars in Nvidia stock
+INFO     2026-09-28 05:04:58 [scraper.py:171] 🔗 [HN #1] URL: https://colo.to/nvidia-stock-narrative.html
+INFO     2026-09-28 05:04:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-28 05:04:58 [scraper.py:170] 📥 [HN #2] Thinking Fast and Slow in AI: The Role of Metacognition
+INFO     2026-09-28 05:04:58 [scraper.py:171] 🔗 [HN #2] URL: https://arxiv.org/abs/2110.01834
+INFO     2026-09-28 05:04:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-28 05:04:58 [scraper.py:170] 📥 [HN #3] Ember-1
+INFO     2026-09-28 05:04:58 [scraper.py:171] 🔗 [HN #3] URL: https://fireworks.ai/blog/ember-1
+INFO     2026-09-28 05:04:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-28 05:04:58 [scraper.py:170] 📥 [HN #4] Nissan's third generation e-POWER powertrain
+INFO     2026-09-28 05:04:59 [scraper.py:171] 🔗 [HN #4] URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
+INFO     2026-09-28 05:04:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-28 05:04:59 [scraper.py:170] 📥 [HN #5] When did Google get so weird?
+INFO     2026-09-28 05:04:59 [scraper.py:171] 🔗 [HN #5] URL: https://sancho.bearblog.dev/google-weird/
+INFO     2026-09-28 05:04:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-28 05:04:59 [scraper.py:170] 📥 [HN #6] Alan Kay's answer to “Did the ENIAC have a BIOS”?
+INFO     2026-09-28 05:04:59 [scraper.py:171] 🔗 [HN #6] URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11
+INFO     2026-09-28 05:04:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-28 05:04:59 [scraper.py:170] 📥 [HN #7] There is more to code review than (automatable) detection
+INFO     2026-09-28 05:04:59 [scraper.py:171] 🔗 [HN #7] URL: https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/
+INFO     2026-09-28 05:04:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-28 05:04:59 [scraper.py:170] 📥 [HN #8] The state of SIMD in Rust in 2026
+INFO     2026-09-28 05:04:59 [scraper.py:171] 🔗 [HN #8] URL: https://shnatsel.github.io/state-of-simd-rust-2026/
+INFO     2026-09-28 05:04:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-28 05:05:00 [scraper.py:170] 📥 [HN #9] Malleable software: Restoring user agency in a world of locked-down apps (2025)
+INFO     2026-09-28 05:05:00 [scraper.py:171] 🔗 [HN #9] URL: https://www.inkandswitch.com/essay/malleable-software/
+INFO     2026-09-28 05:05:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-28 05:05:00 [scraper.py:170] 📥 [HN #10] Don't couple your Go code to GitHub
+INFO     2026-09-28 05:05:00 [scraper.py:171] 🔗 [HN #10] URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github
+INFO     2026-09-28 05:05:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-28 05:05:00 [scraper.py:178] 🎉 [HN] All done.
+
