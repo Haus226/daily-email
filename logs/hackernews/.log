@@ -42139,3 +42139,36 @@ INFO     2026-09-28 17:59:07 [scraper.py:171] 🔗 [HN #10] URL: https://blog.cl
 INFO     2026-09-28 17:59:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-28 17:59:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-29 05:29:23 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #1] Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/firelex/jeff
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #2] Phyllotaxis: An audio-reactive LED display
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #2] URL: https://jagi.studio/posts/phyllotaxis/
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #3] Pirating the Pirates
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #3] URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #4] 1996 chat room simulator connected to Win95 and System 7 web desktops
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #4] URL: https://lolchat.rip/
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #5] MicroLLM Lab – Try 7 tiny LLM's in the browser
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #5] URL: https://stateofutopia.com/experiments/microllmlab/
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-29 05:29:24 [scraper.py:170] 📥 [HN #6] Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?
+INFO     2026-09-29 05:29:24 [scraper.py:171] 🔗 [HN #6] URL: https://jonclegg.github.io/pacman-bakeoff/
+INFO     2026-09-29 05:29:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-29 05:29:25 [scraper.py:170] 📥 [HN #7] Tank Body Problem
+INFO     2026-09-29 05:29:25 [scraper.py:171] 🔗 [HN #7] URL: http://www.jimsitu.com
+INFO     2026-09-29 05:29:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-29 05:29:25 [scraper.py:170] 📥 [HN #8] 12,000-year-old Göbeklitepe burials explain scattered bones
+INFO     2026-09-29 05:29:25 [scraper.py:171] 🔗 [HN #8] URL: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/
+INFO     2026-09-29 05:29:25 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-29 05:29:25 [scraper.py:170] 📥 [HN #9] ESP32S3 cluster running 1.58-bit (BitNet) Language model
+INFO     2026-09-29 05:29:25 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
+INFO     2026-09-29 05:29:25 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-29 05:29:25 [scraper.py:170] 📥 [HN #10] California farmers are struggling to sell grapes as demand for wine drops
+INFO     2026-09-29 05:29:25 [scraper.py:171] 🔗 [HN #10] URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+INFO     2026-09-29 05:29:25 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-29 05:29:25 [scraper.py:178] 🎉 [HN] All done.
+
