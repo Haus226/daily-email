@@ -42172,3 +42172,36 @@ INFO     2026-09-29 05:29:25 [scraper.py:171] 🔗 [HN #10] URL: https://www.kqe
 INFO     2026-09-29 05:29:25 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-29 05:29:25 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-29 11:13:32 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-29 11:13:32 [scraper.py:170] 📥 [HN #1] AI companies leak data to advertisers [pdf]
+INFO     2026-09-29 11:13:32 [scraper.py:171] 🔗 [HN #1] URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+INFO     2026-09-29 11:13:32 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-29 11:13:32 [scraper.py:170] 📥 [HN #2] Using any C++ library in Godot
+INFO     2026-09-29 11:13:32 [scraper.py:171] 🔗 [HN #2] URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+INFO     2026-09-29 11:13:32 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-29 11:13:33 [scraper.py:170] 📥 [HN #3] Phyllotaxis: An audio-reactive LED display
+INFO     2026-09-29 11:13:33 [scraper.py:171] 🔗 [HN #3] URL: https://jagi.studio/posts/phyllotaxis/
+INFO     2026-09-29 11:13:33 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-29 11:13:33 [scraper.py:170] 📥 [HN #4] The systems that no one will test
+INFO     2026-09-29 11:13:33 [scraper.py:171] 🔗 [HN #4] URL: https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/
+INFO     2026-09-29 11:13:33 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-29 11:13:33 [scraper.py:170] 📥 [HN #5] Booted up in 1993, this server still runs – but not for much longer (2017)
+INFO     2026-09-29 11:13:33 [scraper.py:171] 🔗 [HN #5] URL: https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html
+INFO     2026-09-29 11:13:33 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-29 11:13:33 [scraper.py:170] 📥 [HN #6] California farmers are struggling to sell grapes as demand for wine drops
+INFO     2026-09-29 11:13:33 [scraper.py:171] 🔗 [HN #6] URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+INFO     2026-09-29 11:13:33 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-29 11:13:33 [scraper.py:170] 📥 [HN #7] Software occlusion culling in Block Game
+INFO     2026-09-29 11:13:33 [scraper.py:171] 🔗 [HN #7] URL: https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/
+INFO     2026-09-29 11:13:33 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-29 11:13:34 [scraper.py:170] 📥 [HN #8] Pirating the Pirates
+INFO     2026-09-29 11:13:34 [scraper.py:171] 🔗 [HN #8] URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+INFO     2026-09-29 11:13:34 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-29 11:13:34 [scraper.py:170] 📥 [HN #9] Tank Body Problem
+INFO     2026-09-29 11:13:34 [scraper.py:171] 🔗 [HN #9] URL: http://www.jimsitu.com
+INFO     2026-09-29 11:13:34 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-29 11:13:34 [scraper.py:170] 📥 [HN #10] MicroLLM Lab – Try 7 tiny LLM's in the browser
+INFO     2026-09-29 11:13:34 [scraper.py:171] 🔗 [HN #10] URL: https://stateofutopia.com/experiments/microllmlab/
+INFO     2026-09-29 11:13:34 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-29 11:13:34 [scraper.py:178] 🎉 [HN] All done.
+
