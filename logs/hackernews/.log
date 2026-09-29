@@ -42205,3 +42205,36 @@ INFO     2026-09-29 11:13:34 [scraper.py:171] 🔗 [HN #10] URL: https://stateof
 INFO     2026-09-29 11:13:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-29 11:13:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-29 16:21:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-29 16:21:42 [scraper.py:170] 📥 [HN #1] How Delhi cut electricity loss from 50 to 5 percent
+INFO     2026-09-29 16:21:42 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/delhi-electricity-loss
+INFO     2026-09-29 16:21:42 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-29 16:21:43 [scraper.py:170] 📥 [HN #2] A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]
+INFO     2026-09-29 16:21:43 [scraper.py:171] 🔗 [HN #2] URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
+INFO     2026-09-29 16:21:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-29 16:21:43 [scraper.py:170] 📥 [HN #3] Jeeves. Reasoning improves Jev-like decision models
+INFO     2026-09-29 16:21:43 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/PostHog/jeeves
+INFO     2026-09-29 16:21:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-29 16:21:43 [scraper.py:170] 📥 [HN #4] Without the Hot Air
+INFO     2026-09-29 16:21:43 [scraper.py:171] 🔗 [HN #4] URL: https://www.withouthotair.com/
+INFO     2026-09-29 16:21:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-29 16:21:43 [scraper.py:170] 📥 [HN #5] Walking Men
+INFO     2026-09-29 16:21:43 [scraper.py:171] 🔗 [HN #5] URL: https://bookofjoe2.blogspot.com/2026/09/walking-men.html
+INFO     2026-09-29 16:21:43 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-29 16:21:44 [scraper.py:170] 📥 [HN #6] You are no longer invited to dinner
+INFO     2026-09-29 16:21:44 [scraper.py:171] 🔗 [HN #6] URL: https://www.derekthompson.org/p/the-death-of-the-american-host
+INFO     2026-09-29 16:21:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-29 16:21:44 [scraper.py:170] 📥 [HN #7] Why Doesn't Anyone Want to Fix One of America's Scariest Roads?
+INFO     2026-09-29 16:21:44 [scraper.py:171] 🔗 [HN #7] URL: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads
+INFO     2026-09-29 16:21:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-29 16:21:44 [scraper.py:170] 📥 [HN #8] Using any C++ library in Godot
+INFO     2026-09-29 16:21:44 [scraper.py:171] 🔗 [HN #8] URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html
+INFO     2026-09-29 16:21:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-29 16:21:44 [scraper.py:170] 📥 [HN #9] Digital Audio on the ZX Spectrum's 1-Bit Beeper
+INFO     2026-09-29 16:21:44 [scraper.py:171] 🔗 [HN #9] URL: https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/
+INFO     2026-09-29 16:21:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-29 16:21:45 [scraper.py:170] 📥 [HN #10] Phyllotaxis: An audio-reactive LED display
+INFO     2026-09-29 16:21:45 [scraper.py:171] 🔗 [HN #10] URL: https://jagi.studio/posts/phyllotaxis/
+INFO     2026-09-29 16:21:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-29 16:21:45 [scraper.py:178] 🎉 [HN] All done.
+
