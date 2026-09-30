@@ -42304,3 +42304,36 @@ INFO     2026-09-30 11:02:15 [scraper.py:171] 🔗 [HN #10] URL: https://america
 INFO     2026-09-30 11:02:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-30 11:02:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-30 16:17:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-30 16:17:14 [scraper.py:170] 📥 [HN #1] The AI Race Just Got Awkward
+INFO     2026-09-30 16:17:14 [scraper.py:171] 🔗 [HN #1] URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/
+INFO     2026-09-30 16:17:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-30 16:17:14 [scraper.py:170] 📥 [HN #2] Pi.dev: You Said No MCP
+INFO     2026-09-30 16:17:14 [scraper.py:171] 🔗 [HN #2] URL: https://earendil.com/posts/you-said-no-mcp/
+INFO     2026-09-30 16:17:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-30 16:17:15 [scraper.py:170] 📥 [HN #3] SDF vs. MSDF vs. Slug: GPU Text Rendering
+INFO     2026-09-30 16:17:15 [scraper.py:171] 🔗 [HN #3] URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/
+INFO     2026-09-30 16:17:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-30 16:17:15 [scraper.py:170] 📥 [HN #4] I Could've Accessed 17T Microsoft Records
+INFO     2026-09-30 16:17:15 [scraper.py:171] 🔗 [HN #4] URL: https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records
+INFO     2026-09-30 16:17:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-30 16:17:15 [scraper.py:170] 📥 [HN #5] A Brief History of the Bloomberg Terminal
+INFO     2026-09-30 16:17:15 [scraper.py:171] 🔗 [HN #5] URL: https://spectrum.ieee.org/bloomberg-terminal
+INFO     2026-09-30 16:17:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-30 16:17:15 [scraper.py:170] 📥 [HN #6] Show HN: JBR-001 – An open-source 3D printable desktop robot
+INFO     2026-09-30 16:17:15 [scraper.py:171] 🔗 [HN #6] URL: https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96
+INFO     2026-09-30 16:17:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-30 16:17:16 [scraper.py:170] 📥 [HN #7] Livenerf: Has Opus 5.5 been nerfed yet?
+INFO     2026-09-30 16:17:16 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/ninjahawk/livenerf
+INFO     2026-09-30 16:17:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-30 16:17:16 [scraper.py:170] 📥 [HN #8] Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management
+INFO     2026-09-30 16:17:16 [scraper.py:171] 🔗 [HN #8] URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603
+INFO     2026-09-30 16:17:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-30 16:17:16 [scraper.py:170] 📥 [HN #9] Mathematical Origami
+INFO     2026-09-30 16:17:16 [scraper.py:171] 🔗 [HN #9] URL: https://mathigon.org/origami
+INFO     2026-09-30 16:17:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-30 16:17:16 [scraper.py:170] 📥 [HN #10] Getting out of the way: my robotics crash course
+INFO     2026-09-30 16:17:16 [scraper.py:171] 🔗 [HN #10] URL: https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/
+INFO     2026-09-30 16:17:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-30 16:17:16 [scraper.py:178] 🎉 [HN] All done.
+
