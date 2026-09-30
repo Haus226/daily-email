@@ -42271,3 +42271,36 @@ INFO     2026-09-30 05:17:11 [scraper.py:171] 🔗 [HN #10] URL: https://space.b
 INFO     2026-09-30 05:17:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-09-30 05:17:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-09-30 11:02:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-09-30 11:02:13 [scraper.py:170] 📥 [HN #1] Pi.dev: You Said No MCP
+INFO     2026-09-30 11:02:13 [scraper.py:171] 🔗 [HN #1] URL: https://earendil.com/posts/you-said-no-mcp/
+INFO     2026-09-30 11:02:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-09-30 11:02:13 [scraper.py:170] 📥 [HN #2] GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
+INFO     2026-09-30 11:02:13 [scraper.py:171] 🔗 [HN #2] URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence
+INFO     2026-09-30 11:02:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-09-30 11:02:13 [scraper.py:170] 📥 [HN #3] Livenerf: Has Opus 5.5 been nerfed yet?
+INFO     2026-09-30 11:02:13 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/ninjahawk/livenerf
+INFO     2026-09-30 11:02:13 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-09-30 11:02:13 [scraper.py:170] 📥 [HN #4] Solving Factorio Quality
+INFO     2026-09-30 11:02:13 [scraper.py:171] 🔗 [HN #4] URL: https://exyr.org/2026/solving-factorio-quality/
+INFO     2026-09-30 11:02:13 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-09-30 11:02:13 [scraper.py:170] 📥 [HN #5] Built Dental Scope
+INFO     2026-09-30 11:02:13 [scraper.py:171] 🔗 [HN #5] URL: https://dental-scope.com/
+INFO     2026-09-30 11:02:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-09-30 11:02:14 [scraper.py:170] 📥 [HN #6] September 2026: The world today, as seen by one Polish guy
+INFO     2026-09-30 11:02:14 [scraper.py:171] 🔗 [HN #6] URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
+INFO     2026-09-30 11:02:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-09-30 11:02:14 [scraper.py:170] 📥 [HN #7] Dots: Always-on agents
+INFO     2026-09-30 11:02:14 [scraper.py:171] 🔗 [HN #7] URL: https://openai.com/index/introducing-dots/
+INFO     2026-09-30 11:02:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-09-30 11:02:14 [scraper.py:170] 📥 [HN #8] Vermont replacing power plants with home batteries
+INFO     2026-09-30 11:02:14 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms
+INFO     2026-09-30 11:02:14 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-09-30 11:02:14 [scraper.py:170] 📥 [HN #9] U.S. postal inspectors shut down website selling counterfeit postage labels
+INFO     2026-09-30 11:02:14 [scraper.py:171] 🔗 [HN #9] URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+INFO     2026-09-30 11:02:14 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-09-30 11:02:15 [scraper.py:170] 📥 [HN #10] America.gov
+INFO     2026-09-30 11:02:15 [scraper.py:171] 🔗 [HN #10] URL: https://america.gov/
+INFO     2026-09-30 11:02:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-09-30 11:02:15 [scraper.py:178] 🎉 [HN] All done.
+

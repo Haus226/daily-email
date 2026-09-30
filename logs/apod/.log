@@ -6279,3 +6279,6 @@ INFO     2026-09-29 16:21:42 [scraper.py:69] ✅ [APOD] Successfully fetched.
 INFO     2026-09-30 05:17:08 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-09-30 05:17:08 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'apod.nasa.gov'. (_ssl.c:1017)")))
 
+INFO     2026-09-30 11:02:12 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-09-30 11:02:13 [scraper.py:71] ❌ [APOD] Failed to fetch: HTTPSConnectionPool(host='apod.nasa.gov', port=443): Max retries exceeded with url: /apod/astropix.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'apod.nasa.gov'. (_ssl.c:1017)")))
+
