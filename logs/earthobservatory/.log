@@ -20872,3 +20872,24 @@ INFO     2026-10-01 11:28:49 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-01 11:28:49 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-01 16:54:52 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-01 16:54:53 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-01 16:54:54 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-01 16:54:54 [scraper.py:133] 📥 [EO] Title: An Agricultural “Island” in the Saskatchewan River Delta
+INFO     2026-10-01 16:54:54 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli_20260921_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-01 16:54:54 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-01 16:54:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-01 16:54:54 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-01 16:54:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-01 16:54:55 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-01 16:54:55 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-01 16:54:55 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-01 16:54:55 [scraper.py:133] 📥 [EO] Title: An Agricultural “Island” in the Saskatchewan River Delta
+INFO     2026-10-01 16:54:55 [scraper.py:133] 📥 [EO] Title: An Agricultural “Island” in the Saskatchewan River Delta
+INFO     2026-10-01 16:54:55 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli_20260921_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-01 16:54:55 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli_20260921_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-01 16:54:55 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-01 16:54:55 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -42403,3 +42403,36 @@ INFO     2026-10-01 11:28:51 [scraper.py:171] 🔗 [HN #10] URL: https://unsung.
 INFO     2026-10-01 11:28:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-01 11:28:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-01 16:54:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-01 16:54:54 [scraper.py:170] 📥 [HN #1] Clef: our open-source decision models
+INFO     2026-10-01 16:54:54 [scraper.py:171] 🔗 [HN #1] URL: https://blog.cloudflare.com/clef-decision-models/
+INFO     2026-10-01 16:54:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-01 16:54:54 [scraper.py:170] 📥 [HN #2] RIP, vector database
+INFO     2026-10-01 16:54:54 [scraper.py:171] 🔗 [HN #2] URL: https://turbopuffer.com/blog/rip-vector-database
+INFO     2026-10-01 16:54:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-01 16:54:54 [scraper.py:170] 📥 [HN #3] StreetComplete on iOS is now in public beta
+INFO     2026-10-01 16:54:54 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/streetcomplete/StreetComplete/issues/5421
+INFO     2026-10-01 16:54:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-01 16:54:54 [scraper.py:170] 📥 [HN #4] How to speed up the Rust compiler in September 2026
+INFO     2026-10-01 16:54:54 [scraper.py:171] 🔗 [HN #4] URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
+INFO     2026-10-01 16:54:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-01 16:54:55 [scraper.py:170] 📥 [HN #5] RacketCon Is Saturday
+INFO     2026-10-01 16:54:55 [scraper.py:171] 🔗 [HN #5] URL: https://con.racket-lang.org/
+INFO     2026-10-01 16:54:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-01 16:54:55 [scraper.py:170] 📥 [HN #6] OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)
+INFO     2026-10-01 16:54:55 [scraper.py:171] 🔗 [HN #6] URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
+INFO     2026-10-01 16:54:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-01 16:54:55 [scraper.py:170] 📥 [HN #7] Cloudflare K2: serverless event streams
+INFO     2026-10-01 16:54:55 [scraper.py:171] 🔗 [HN #7] URL: https://blog.cloudflare.com/cloudflare-k2-streams/
+INFO     2026-10-01 16:54:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-01 16:54:56 [scraper.py:170] 📥 [HN #8] Polyedergarten: Garden of Paper Polyhedron Models
+INFO     2026-10-01 16:54:56 [scraper.py:171] 🔗 [HN #8] URL: https://www.polyedergarten.de/e_index.htm
+INFO     2026-10-01 16:54:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-01 16:54:56 [scraper.py:170] 📥 [HN #9] GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design
+INFO     2026-10-01 16:54:56 [scraper.py:171] 🔗 [HN #9] URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
+INFO     2026-10-01 16:54:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-01 16:54:56 [scraper.py:170] 📥 [HN #10] Figma restricts MCP access to whitelisted clients, excluding Pi
+INFO     2026-10-01 16:54:56 [scraper.py:171] 🔗 [HN #10] URL: https://twitter.com/GayaniFigma/status/2105295629941350454
+INFO     2026-10-01 16:54:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-01 16:54:56 [scraper.py:178] 🎉 [HN] All done.
+
