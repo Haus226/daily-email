@@ -6398,3 +6398,8 @@ INFO     2026-10-01 05:32:15 [scraper.py:390] 📥 [TAROT] Card: Justice
 INFO     2026-10-01 05:32:15 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-10-01 05:32:15 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-10-01 11:28:48 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-10-01 11:28:48 [scraper.py:390] 📥 [TAROT] Card: Justice
+INFO     2026-10-01 11:28:48 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-10-01 11:28:48 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+
