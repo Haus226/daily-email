@@ -42502,3 +42502,36 @@ INFO     2026-10-02 10:58:38 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-10-02 10:58:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-02 10:58:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-02 16:07:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-02 16:07:50 [scraper.py:170] 📥 [HN #1] Big Tech ruined the cloud, so we're renaming ours
+INFO     2026-10-02 16:07:50 [scraper.py:171] 🔗 [HN #1] URL: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/
+INFO     2026-10-02 16:07:50 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-02 16:07:50 [scraper.py:170] 📥 [HN #2] The Legend of von Neumann [pdf]
+INFO     2026-10-02 16:07:50 [scraper.py:171] 🔗 [HN #2] URL: https://gwern.net/doc/math/1973-halmos.pdf
+INFO     2026-10-02 16:07:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-02 16:07:50 [scraper.py:170] 📥 [HN #3] Supabase Is Acquiring Turso
+INFO     2026-10-02 16:07:50 [scraper.py:171] 🔗 [HN #3] URL: https://supabase.com/blog/supabase-is-acquiring-turso
+INFO     2026-10-02 16:07:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-02 16:07:50 [scraper.py:170] 📥 [HN #4] Mozilla shutting down Solo AI website creator
+INFO     2026-10-02 16:07:50 [scraper.py:171] 🔗 [HN #4] URL: https://support.soloist.ai/doc/solo-shutdown-faq
+INFO     2026-10-02 16:07:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-02 16:07:51 [scraper.py:170] 📥 [HN #5] Pi 1.0
+INFO     2026-10-02 16:07:51 [scraper.py:171] 🔗 [HN #5] URL: https://earendil.com/posts/pi-1-0/
+INFO     2026-10-02 16:07:51 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-02 16:07:51 [scraper.py:170] 📥 [HN #6] Giving friends custom text buzzes based on Morse code
+INFO     2026-10-02 16:07:51 [scraper.py:171] 🔗 [HN #6] URL: https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/
+INFO     2026-10-02 16:07:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-02 16:07:51 [scraper.py:170] 📥 [HN #7] Shimano Bicycle Museum Review
+INFO     2026-10-02 16:07:51 [scraper.py:171] 🔗 [HN #7] URL: https://inrng.com/2026/10/shimano-bicycle-museum/
+INFO     2026-10-02 16:07:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-02 16:07:51 [scraper.py:170] 📥 [HN #8] AI Makes Me Sad
+INFO     2026-10-02 16:07:51 [scraper.py:171] 🔗 [HN #8] URL: https://mondobe.com/ai-makes-me-sad
+INFO     2026-10-02 16:07:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-02 16:07:52 [scraper.py:170] 📥 [HN #9] Several vulnerabilities have been discovered in the Linux kernel
+INFO     2026-10-02 16:07:52 [scraper.py:171] 🔗 [HN #9] URL: https://lwn.net/Articles/1097401/
+INFO     2026-10-02 16:07:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-02 16:07:52 [scraper.py:170] 📥 [HN #10] Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+INFO     2026-10-02 16:07:52 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/kvoltmer/Audionaut
+INFO     2026-10-02 16:07:52 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-02 16:07:52 [scraper.py:178] 🎉 [HN] All done.
+
