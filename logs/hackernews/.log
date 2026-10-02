@@ -42436,3 +42436,36 @@ INFO     2026-10-01 16:54:56 [scraper.py:171] 🔗 [HN #10] URL: https://twitter
 INFO     2026-10-01 16:54:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-01 16:54:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-02 05:19:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-02 05:19:26 [scraper.py:170] 📥 [HN #1] Pi 1.0
+INFO     2026-10-02 05:19:26 [scraper.py:171] 🔗 [HN #1] URL: https://earendil.com/posts/pi-1-0/
+INFO     2026-10-02 05:19:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-02 05:19:26 [scraper.py:170] 📥 [HN #2] DeepSeek Harness
+INFO     2026-10-02 05:19:26 [scraper.py:171] 🔗 [HN #2] URL: https://www.deepseek.com/en/harness/
+INFO     2026-10-02 05:19:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-02 05:19:26 [scraper.py:170] 📥 [HN #3] How Singapore's government-run dating service works
+INFO     2026-10-02 05:19:26 [scraper.py:171] 🔗 [HN #3] URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
+INFO     2026-10-02 05:19:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-02 05:19:27 [scraper.py:170] 📥 [HN #4] Clef: Open-weight decision models, and new RL fine-tuning platform
+INFO     2026-10-02 05:19:27 [scraper.py:171] 🔗 [HN #4] URL: https://blog.cloudflare.com/clef-decision-models/
+INFO     2026-10-02 05:19:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-02 05:19:27 [scraper.py:170] 📥 [HN #5] Meta's Muse is fantastic for web scraping
+INFO     2026-10-02 05:19:27 [scraper.py:171] 🔗 [HN #5] URL: https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/
+INFO     2026-10-02 05:19:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-02 05:19:27 [scraper.py:170] 📥 [HN #6] Several vulnerabilities have been discovered in the Linux kernel
+INFO     2026-10-02 05:19:27 [scraper.py:171] 🔗 [HN #6] URL: https://lwn.net/Articles/1097401/
+INFO     2026-10-02 05:19:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-02 05:19:28 [scraper.py:170] 📥 [HN #7] Automatic Transmission – a data-privacy study of connected vehicles
+INFO     2026-10-02 05:19:28 [scraper.py:171] 🔗 [HN #7] URL: https://automatictransmission.khoury.northeastern.edu/index.html
+INFO     2026-10-02 05:19:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-02 05:19:28 [scraper.py:170] 📥 [HN #8] SvelteKit 3
+INFO     2026-10-02 05:19:28 [scraper.py:171] 🔗 [HN #8] URL: https://svelte.dev/blog/sveltekit-3-is-here
+INFO     2026-10-02 05:19:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-02 05:19:28 [scraper.py:170] 📥 [HN #9] Pi Durable
+INFO     2026-10-02 05:19:28 [scraper.py:171] 🔗 [HN #9] URL: https://earendil.com/posts/pi-durable/
+INFO     2026-10-02 05:19:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-02 05:19:28 [scraper.py:170] 📥 [HN #10] Ask HN: Who is hiring? (October 2026)
+INFO     2026-10-02 05:19:28 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=49922569
+INFO     2026-10-02 05:19:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-02 05:19:28 [scraper.py:178] 🎉 [HN] All done.
+
