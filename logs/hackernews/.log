@@ -42700,3 +42700,36 @@ INFO     2026-10-04 11:02:19 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-10-04 11:02:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-04 11:02:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-04 15:10:49 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-04 15:10:49 [scraper.py:170] 📥 [HN #1] Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
+INFO     2026-10-04 15:10:49 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/Niko1221/Strata
+INFO     2026-10-04 15:10:49 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-04 15:10:50 [scraper.py:170] 📥 [HN #2] Glashütte Trash Clock – A 30-minute pendulum clock made from trash
+INFO     2026-10-04 15:10:50 [scraper.py:171] 🔗 [HN #2] URL: https://niklasroy.com/gtc/
+INFO     2026-10-04 15:10:50 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-04 15:10:50 [scraper.py:170] 📥 [HN #3] Tell HN: Bob Cringely has died
+INFO     2026-10-04 15:10:50 [scraper.py:171] 🔗 [HN #3] URL: https://news.ycombinator.com/item?id=49949438
+INFO     2026-10-04 15:10:50 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-04 15:10:50 [scraper.py:170] 📥 [HN #4] Show HN: AI search for every photo and every frame of video on macOS
+INFO     2026-10-04 15:10:50 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/allenv0/SCM
+INFO     2026-10-04 15:10:50 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-04 15:10:50 [scraper.py:170] 📥 [HN #5] VGHF Digital Archive passes 5000 magazines. Here's what's next
+INFO     2026-10-04 15:10:50 [scraper.py:171] 🔗 [HN #5] URL: https://gamehistory.org/5k-magazines/
+INFO     2026-10-04 15:10:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:170] 📥 [HN #6] Why don't more developers “use the platform”?
+INFO     2026-10-04 15:10:51 [scraper.py:171] 🔗 [HN #6] URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
+INFO     2026-10-04 15:10:51 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:170] 📥 [HN #7] The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
+INFO     2026-10-04 15:10:51 [scraper.py:171] 🔗 [HN #7] URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+INFO     2026-10-04 15:10:51 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:170] 📥 [HN #8] Emitting metadata early makes building/checking Rust up to twice as fast
+INFO     2026-10-04 15:10:51 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/PowderworksCode/headstart
+INFO     2026-10-04 15:10:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:170] 📥 [HN #9] The Heilbronn Problem
+INFO     2026-10-04 15:10:51 [scraper.py:171] 🔗 [HN #9] URL: https://math.tejstead.com/heilbronn/
+INFO     2026-10-04 15:10:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:170] 📥 [HN #10] gpuvis: GPU Trace Visualizer
+INFO     2026-10-04 15:10:51 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/mikesart/gpuvis
+INFO     2026-10-04 15:10:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-04 15:10:51 [scraper.py:178] 🎉 [HN] All done.
+
