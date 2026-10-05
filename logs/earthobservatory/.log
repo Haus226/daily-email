@@ -21082,3 +21082,24 @@ INFO     2026-10-04 15:10:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-04 15:10:50 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-05 05:18:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-05 05:18:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-05 05:18:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-05 05:18:33 [scraper.py:133] 📥 [EO] Title: Moon-Like Madagascar
+INFO     2026-10-05 05:18:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-05 05:18:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-05 05:18:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-05 05:18:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-05 05:18:34 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-05 05:18:34 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-05 05:18:34 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-05 05:18:34 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-05 05:18:34 [scraper.py:133] 📥 [EO] Title: Moon-Like Madagascar
+INFO     2026-10-05 05:18:34 [scraper.py:133] 📥 [EO] Title: Moon-Like Madagascar
+INFO     2026-10-05 05:18:34 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-05 05:18:34 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-05 05:18:34 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-05 05:18:34 [scraper.py:154] ✅ [EO] Successfully fetched.
+
