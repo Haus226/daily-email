@@ -42898,3 +42898,36 @@ INFO     2026-10-06 11:53:32 [scraper.py:171] 🔗 [HN #10] URL: https://www.val
 INFO     2026-10-06 11:53:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-06 11:53:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-06 16:32:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-06 16:32:25 [scraper.py:170] 📥 [HN #1] Mistral Large 4
+INFO     2026-10-06 16:32:25 [scraper.py:171] 🔗 [HN #1] URL: https://docs.mistral.ai/models/mistral-large-4-0
+INFO     2026-10-06 16:32:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-06 16:32:25 [scraper.py:170] 📥 [HN #2] Mistral Large 4: "Le Chonk"
+INFO     2026-10-06 16:32:25 [scraper.py:171] 🔗 [HN #2] URL: https://mistral.ai/news/mistral-large-4/
+INFO     2026-10-06 16:32:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-06 16:32:25 [scraper.py:170] 📥 [HN #3] Release of Polars 2.0
+INFO     2026-10-06 16:32:25 [scraper.py:171] 🔗 [HN #3] URL: https://pola.rs/posts/release-polars-2/
+INFO     2026-10-06 16:32:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-06 16:32:25 [scraper.py:170] 📥 [HN #4] Nobel Prize in Physics goes to Francis Halzen
+INFO     2026-10-06 16:32:25 [scraper.py:171] 🔗 [HN #4] URL: https://www.nobelprize.org/prizes/physics/2026/
+INFO     2026-10-06 16:32:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-06 16:32:26 [scraper.py:170] 📥 [HN #5] Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
+INFO     2026-10-06 16:32:26 [scraper.py:171] 🔗 [HN #5] URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/
+INFO     2026-10-06 16:32:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-06 16:32:26 [scraper.py:170] 📥 [HN #6] The Early History of Smalltalk (1993)
+INFO     2026-10-06 16:32:26 [scraper.py:171] 🔗 [HN #6] URL: https://worrydream.com/EarlyHistoryOfSmalltalk/
+INFO     2026-10-06 16:32:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-06 16:32:26 [scraper.py:170] 📥 [HN #7] JetBrains reported a net financial loss first time in its tracked history
+INFO     2026-10-06 16:32:26 [scraper.py:171] 🔗 [HN #7] URL: https://www.helgilibrary.com/companies/jetbrains
+INFO     2026-10-06 16:32:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-06 16:32:26 [scraper.py:170] 📥 [HN #8] Benchmark in Milliseconds
+INFO     2026-10-06 16:32:26 [scraper.py:171] 🔗 [HN #8] URL: https://matklad.github.io/2026/10/05/benchmark-milliseconds.html
+INFO     2026-10-06 16:32:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-06 16:32:27 [scraper.py:170] 📥 [HN #9] Meta's Muse Is an Adorable Privacy and Security Dumpster Fire
+INFO     2026-10-06 16:32:27 [scraper.py:171] 🔗 [HN #9] URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
+INFO     2026-10-06 16:32:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-06 16:32:27 [scraper.py:170] 📥 [HN #10] Gleam doesn't compile to Erlang source anymore
+INFO     2026-10-06 16:32:27 [scraper.py:171] 🔗 [HN #10] URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/
+INFO     2026-10-06 16:32:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-06 16:32:27 [scraper.py:178] 🎉 [HN] All done.
+
