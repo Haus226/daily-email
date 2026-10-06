@@ -42865,3 +42865,36 @@ INFO     2026-10-06 06:02:28 [scraper.py:171] 🔗 [HN #10] URL: https://develop
 INFO     2026-10-06 06:02:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-06 06:02:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-06 11:53:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-06 11:53:30 [scraper.py:170] 📥 [HN #1] Nobel Prize in Physics goes to Francis Halzen
+INFO     2026-10-06 11:53:30 [scraper.py:171] 🔗 [HN #1] URL: https://www.nobelprize.org/prizes/physics/2026/
+INFO     2026-10-06 11:53:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-06 11:53:30 [scraper.py:170] 📥 [HN #2] Gleam doesn't compile to Erlang source anymore
+INFO     2026-10-06 11:53:30 [scraper.py:171] 🔗 [HN #2] URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/
+INFO     2026-10-06 11:53:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-06 11:53:30 [scraper.py:170] 📥 [HN #3] Beam: Reflection's 501B open-weight model
+INFO     2026-10-06 11:53:30 [scraper.py:171] 🔗 [HN #3] URL: https://reflection.ai/blog/introducing-beam
+INFO     2026-10-06 11:53:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-06 11:53:30 [scraper.py:170] 📥 [HN #4] Find the flattest route between any two points in SF
+INFO     2026-10-06 11:53:30 [scraper.py:171] 🔗 [HN #4] URL: https://flattensf.com/
+INFO     2026-10-06 11:53:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-06 11:53:31 [scraper.py:170] 📥 [HN #5] Dust: Pretraining Transformers Without Backpropagation
+INFO     2026-10-06 11:53:31 [scraper.py:171] 🔗 [HN #5] URL: https://qlabs.sh/research/dust
+INFO     2026-10-06 11:53:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-06 11:53:31 [scraper.py:170] 📥 [HN #6] Friendship ended with Deno, now Node is my best friend
+INFO     2026-10-06 11:53:31 [scraper.py:171] 🔗 [HN #6] URL: https://dbushell.com/2026/10/03/deno-to-node/
+INFO     2026-10-06 11:53:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-06 11:53:31 [scraper.py:170] 📥 [HN #7] Accountability mechanisms can be joyful (2024)
+INFO     2026-10-06 11:53:31 [scraper.py:171] 🔗 [HN #7] URL: https://liquidbrain.net/blog/accountability-and-joy/
+INFO     2026-10-06 11:53:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-06 11:53:31 [scraper.py:170] 📥 [HN #8] Web Search API
+INFO     2026-10-06 11:53:31 [scraper.py:171] 🔗 [HN #8] URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/
+INFO     2026-10-06 11:53:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-06 11:53:31 [scraper.py:170] 📥 [HN #9] ASOS app users receive push notifications apparently sent by hackers
+INFO     2026-10-06 11:53:31 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o
+INFO     2026-10-06 11:53:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-06 11:53:32 [scraper.py:170] 📥 [HN #10] Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+INFO     2026-10-06 11:53:32 [scraper.py:171] 🔗 [HN #10] URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
+INFO     2026-10-06 11:53:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-06 11:53:32 [scraper.py:178] 🎉 [HN] All done.
+
