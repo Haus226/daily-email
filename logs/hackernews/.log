@@ -43096,3 +43096,36 @@ INFO     2026-10-08 11:53:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.404
 INFO     2026-10-08 11:53:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-08 11:53:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-08 17:14:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-08 17:14:16 [scraper.py:170] 📥 [HN #1] Tell HN: I've been paying for a rural Tanzanian's education for 10 years
+INFO     2026-10-08 17:14:16 [scraper.py:171] 🔗 [HN #1] URL: https://news.ycombinator.com/item?id=50006366
+INFO     2026-10-08 17:14:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-08 17:14:16 [scraper.py:170] 📥 [HN #2] Trump administration is suspending Microsoft from a green card program
+INFO     2026-10-08 17:14:16 [scraper.py:171] 🔗 [HN #2] URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+INFO     2026-10-08 17:14:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-08 17:14:16 [scraper.py:170] 📥 [HN #3] Beauty in DVD Menus
+INFO     2026-10-08 17:14:16 [scraper.py:171] 🔗 [HN #3] URL: https://vale.rocks/posts/dvd-menus
+INFO     2026-10-08 17:14:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-08 17:14:16 [scraper.py:170] 📥 [HN #4] “Math 2.0” will need to value mathematical progress more holistically
+INFO     2026-10-08 17:14:16 [scraper.py:171] 🔗 [HN #4] URL: https://mathstodon.xyz/@tao/117395269325940185
+INFO     2026-10-08 17:14:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-08 17:14:17 [scraper.py:170] 📥 [HN #5] Orkut.com
+INFO     2026-10-08 17:14:17 [scraper.py:171] 🔗 [HN #5] URL: https://orkut.com/
+INFO     2026-10-08 17:14:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-08 17:14:17 [scraper.py:170] 📥 [HN #6] The Slow Formation of Durable Software
+INFO     2026-10-08 17:14:17 [scraper.py:171] 🔗 [HN #6] URL: https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/
+INFO     2026-10-08 17:14:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-08 17:14:18 [scraper.py:170] 📥 [HN #7] Whistle: Speech to Text in 16.9 MB
+INFO     2026-10-08 17:14:18 [scraper.py:171] 🔗 [HN #7] URL: https://cactuscompute.com/blog/whistle
+INFO     2026-10-08 17:14:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-08 17:14:18 [scraper.py:170] 📥 [HN #8] 4-hour battery storage is cheaper to install than gas turbines all across globe
+INFO     2026-10-08 17:14:18 [scraper.py:171] 🔗 [HN #8] URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/
+INFO     2026-10-08 17:14:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-08 17:14:18 [scraper.py:170] 📥 [HN #9] Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age
+INFO     2026-10-08 17:14:18 [scraper.py:171] 🔗 [HN #9] URL: https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/
+INFO     2026-10-08 17:14:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-08 17:14:18 [scraper.py:170] 📥 [HN #10] Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
+INFO     2026-10-08 17:14:18 [scraper.py:171] 🔗 [HN #10] URL: https://openrouter.ai/stepfun/step-5-preview
+INFO     2026-10-08 17:14:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-08 17:14:18 [scraper.py:178] 🎉 [HN] All done.
+
