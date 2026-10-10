@@ -43261,3 +43261,36 @@ INFO     2026-10-10 05:33:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.gro
 INFO     2026-10-10 05:33:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-10 05:33:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-10 11:02:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-10 11:02:53 [scraper.py:170] 📥 [HN #1] `123456' password used in Danish CPR data breach
+INFO     2026-10-10 11:02:53 [scraper.py:171] 🔗 [HN #1] URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
+INFO     2026-10-10 11:02:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-10 11:02:53 [scraper.py:170] 📥 [HN #2] REA Reverse – Engineer Anything
+INFO     2026-10-10 11:02:53 [scraper.py:171] 🔗 [HN #2] URL: https://rea.tools/
+INFO     2026-10-10 11:02:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-10 11:02:53 [scraper.py:170] 📥 [HN #3] Telegram Desktop vulnerability allowed any user's file to be stolen
+INFO     2026-10-10 11:02:53 [scraper.py:171] 🔗 [HN #3] URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
+INFO     2026-10-10 11:02:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-10 11:02:53 [scraper.py:170] 📥 [HN #4] Cloudflare acquires Deno
+INFO     2026-10-10 11:02:53 [scraper.py:171] 🔗 [HN #4] URL: https://deno.com/blog/cloudflare
+INFO     2026-10-10 11:02:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-10 11:02:54 [scraper.py:170] 📥 [HN #5] Triple-A Minesweeper
+INFO     2026-10-10 11:02:54 [scraper.py:171] 🔗 [HN #5] URL: https://minesweeper.mikelacher.com/
+INFO     2026-10-10 11:02:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-10 11:02:54 [scraper.py:170] 📥 [HN #6] WSL3 Performance is about 5-60% faster than WSL2 depending on the workload
+INFO     2026-10-10 11:02:54 [scraper.py:171] 🔗 [HN #6] URL: https://tonym.us/wsl2-vs-wsl3-benchmarks.html
+INFO     2026-10-10 11:02:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-10 11:02:55 [scraper.py:170] 📥 [HN #7] Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)
+INFO     2026-10-10 11:02:55 [scraper.py:171] 🔗 [HN #7] URL: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo
+INFO     2026-10-10 11:02:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-10 11:02:55 [scraper.py:170] 📥 [HN #8] Food processing influences metabolism and brain activity
+INFO     2026-10-10 11:02:55 [scraper.py:171] 🔗 [HN #8] URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html
+INFO     2026-10-10 11:02:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-10 11:02:55 [scraper.py:170] 📥 [HN #9] Computers Cannot Make Decisions
+INFO     2026-10-10 11:02:55 [scraper.py:171] 🔗 [HN #9] URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions
+INFO     2026-10-10 11:02:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-10 11:02:55 [scraper.py:170] 📥 [HN #10] Cube Type – Isometric Typography Generator
+INFO     2026-10-10 11:02:55 [scraper.py:171] 🔗 [HN #10] URL: https://typeincube.com/
+INFO     2026-10-10 11:02:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-10 11:02:55 [scraper.py:178] 🎉 [HN] All done.
+
