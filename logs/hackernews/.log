@@ -43294,3 +43294,36 @@ INFO     2026-10-10 11:02:55 [scraper.py:171] 🔗 [HN #10] URL: https://typeinc
 INFO     2026-10-10 11:02:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-10 11:02:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-10 15:45:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-10 15:45:48 [scraper.py:170] 📥 [HN #1] Bitwarden Dual License Model
+INFO     2026-10-10 15:45:48 [scraper.py:171] 🔗 [HN #1] URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750
+INFO     2026-10-10 15:45:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-10 15:45:49 [scraper.py:170] 📥 [HN #2] Talorys – A self-hosted personal AI agent on Cloudflare's free tier
+INFO     2026-10-10 15:45:49 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/rociiu/talorys
+INFO     2026-10-10 15:45:49 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-10 15:45:49 [scraper.py:170] 📥 [HN #3] Rampart: Browser native on-device PII radaction
+INFO     2026-10-10 15:45:49 [scraper.py:171] 🔗 [HN #3] URL: https://ndstudio.gov/posts/say-hello-to-rampart
+INFO     2026-10-10 15:45:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-10 15:45:49 [scraper.py:170] 📥 [HN #4] REA Reverse – Engineer Anything
+INFO     2026-10-10 15:45:49 [scraper.py:171] 🔗 [HN #4] URL: https://rea.tools/
+INFO     2026-10-10 15:45:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-10 15:45:50 [scraper.py:170] 📥 [HN #5] Telegram Desktop vulnerability allowed any user's file to be stolen
+INFO     2026-10-10 15:45:50 [scraper.py:171] 🔗 [HN #5] URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
+INFO     2026-10-10 15:45:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-10 15:45:50 [scraper.py:170] 📥 [HN #6] Cloudflare acquires Deno
+INFO     2026-10-10 15:45:50 [scraper.py:171] 🔗 [HN #6] URL: https://deno.com/blog/cloudflare
+INFO     2026-10-10 15:45:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-10 15:45:50 [scraper.py:170] 📥 [HN #7] Triple-A Minesweeper
+INFO     2026-10-10 15:45:50 [scraper.py:171] 🔗 [HN #7] URL: https://minesweeper.mikelacher.com/
+INFO     2026-10-10 15:45:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-10 15:45:51 [scraper.py:170] 📥 [HN #8] `123456' password used in Danish CPR data breach
+INFO     2026-10-10 15:45:51 [scraper.py:171] 🔗 [HN #8] URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/
+INFO     2026-10-10 15:45:51 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-10 15:45:51 [scraper.py:170] 📥 [HN #9] Mxc: Microsoft Execution Containers version 1.0.0
+INFO     2026-10-10 15:45:51 [scraper.py:171] 🔗 [HN #9] URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
+INFO     2026-10-10 15:45:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-10 15:45:51 [scraper.py:170] 📥 [HN #10] My personal AI agent posted my bank details on company Slack
+INFO     2026-10-10 15:45:51 [scraper.py:171] 🔗 [HN #10] URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
+INFO     2026-10-10 15:45:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-10 15:45:51 [scraper.py:178] 🎉 [HN] All done.
+
