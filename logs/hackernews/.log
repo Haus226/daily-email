@@ -43228,3 +43228,36 @@ INFO     2026-10-09 16:50:54 [scraper.py:171] 🔗 [HN #10] URL: https://cactusc
 INFO     2026-10-09 16:50:54 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-09 16:50:54 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-10 05:33:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-10 05:33:14 [scraper.py:170] 📥 [HN #1] Lobbying
+INFO     2026-10-10 05:33:14 [scraper.py:171] 🔗 [HN #1] URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html
+INFO     2026-10-10 05:33:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-10 05:33:14 [scraper.py:170] 📥 [HN #2] REA Reverse – Engineer Anything
+INFO     2026-10-10 05:33:14 [scraper.py:171] 🔗 [HN #2] URL: https://rea.tools/
+INFO     2026-10-10 05:33:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-10 05:33:15 [scraper.py:170] 📥 [HN #3] Cloudflare acquires Deno
+INFO     2026-10-10 05:33:15 [scraper.py:171] 🔗 [HN #3] URL: https://deno.com/blog/cloudflare
+INFO     2026-10-10 05:33:15 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-10 05:33:15 [scraper.py:170] 📥 [HN #4] Triple-A Minesweeper
+INFO     2026-10-10 05:33:15 [scraper.py:171] 🔗 [HN #4] URL: https://minesweeper.mikelacher.com/
+INFO     2026-10-10 05:33:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-10 05:33:15 [scraper.py:170] 📥 [HN #5] Eye of Sauron: Long-Range Hidden Spy Camera Detection
+INFO     2026-10-10 05:33:15 [scraper.py:171] 🔗 [HN #5] URL: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo
+INFO     2026-10-10 05:33:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-10 05:33:16 [scraper.py:170] 📥 [HN #6] Telegram Desktop vulnerability allowed any user's file to be stolen
+INFO     2026-10-10 05:33:16 [scraper.py:171] 🔗 [HN #6] URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
+INFO     2026-10-10 05:33:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-10 05:33:16 [scraper.py:170] 📥 [HN #7] Can you use autoregressive diffusion to generate market data?
+INFO     2026-10-10 05:33:16 [scraper.py:171] 🔗 [HN #7] URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/
+INFO     2026-10-10 05:33:16 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-10 05:33:16 [scraper.py:170] 📥 [HN #8] Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
+INFO     2026-10-10 05:33:16 [scraper.py:171] 🔗 [HN #8] URL: https://carrierexplode.com/
+INFO     2026-10-10 05:33:16 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-10 05:33:16 [scraper.py:170] 📥 [HN #9] Typesafe AI raises $870M at $7.5B
+INFO     2026-10-10 05:33:16 [scraper.py:171] 🔗 [HN #9] URL: https://typesafe.ai/blog/series-ai
+INFO     2026-10-10 05:33:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-10 05:33:17 [scraper.py:170] 📥 [HN #10] If AI is conscient, then we are making slaves
+INFO     2026-10-10 05:33:17 [scraper.py:171] 🔗 [HN #10] URL: https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi
+INFO     2026-10-10 05:33:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-10 05:33:17 [scraper.py:178] 🎉 [HN] All done.
+
