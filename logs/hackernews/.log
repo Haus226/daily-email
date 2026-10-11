@@ -43327,3 +43327,36 @@ INFO     2026-10-10 15:45:51 [scraper.py:171] 🔗 [HN #10] URL: https://www.bus
 INFO     2026-10-10 15:45:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-10 15:45:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-11 05:28:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-11 05:28:56 [scraper.py:170] 📥 [HN #1] WallHop – 12ft.io is gone, so I built a replacement
+INFO     2026-10-11 05:28:56 [scraper.py:171] 🔗 [HN #1] URL: https://wallhop.io/
+INFO     2026-10-11 05:28:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-11 05:28:56 [scraper.py:170] 📥 [HN #2] Build your own decision model
+INFO     2026-10-11 05:28:56 [scraper.py:171] 🔗 [HN #2] URL: https://nishtahir.com/build-your-own-decision-model/
+INFO     2026-10-11 05:28:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-11 05:28:56 [scraper.py:170] 📥 [HN #3] CIA World Facebook Is Dead – Here Is an Attempt at Recreation
+INFO     2026-10-11 05:28:56 [scraper.py:171] 🔗 [HN #3] URL: https://worldfacts.app
+INFO     2026-10-11 05:28:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-11 05:28:56 [scraper.py:170] 📥 [HN #4] 2D Vehicles
+INFO     2026-10-11 05:28:56 [scraper.py:171] 🔗 [HN #4] URL: https://patkerr.co.uk/2d-vehicles/
+INFO     2026-10-11 05:28:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-11 05:28:57 [scraper.py:170] 📥 [HN #5] A city-building game in which the city would prefer you didn't
+INFO     2026-10-11 05:28:57 [scraper.py:171] 🔗 [HN #5] URL: https://housing.over.pizza/
+INFO     2026-10-11 05:28:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-11 05:28:57 [scraper.py:170] 📥 [HN #6] PSPi 6 – Raspberry Pi in a PSP
+INFO     2026-10-11 05:28:57 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/othermod/PSPi-Version-6
+INFO     2026-10-11 05:28:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-11 05:28:57 [scraper.py:170] 📥 [HN #7] AI agents in a stand-up call
+INFO     2026-10-11 05:28:57 [scraper.py:171] 🔗 [HN #7] URL: https://atoll92.github.io/agent-standup/
+INFO     2026-10-11 05:28:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-11 05:28:57 [scraper.py:170] 📥 [HN #8] The Lightbulb Computer
+INFO     2026-10-11 05:28:57 [scraper.py:171] 🔗 [HN #8] URL: https://lightbulbcomputer.com/
+INFO     2026-10-11 05:28:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-11 05:28:57 [scraper.py:170] 📥 [HN #9] Nix wrote half of my debugger
+INFO     2026-10-11 05:28:57 [scraper.py:171] 🔗 [HN #9] URL: https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger
+INFO     2026-10-11 05:28:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-11 05:28:58 [scraper.py:170] 📥 [HN #10] Retrofitting language models to operate over bytes
+INFO     2026-10-11 05:28:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.nature.com/articles/s41586-026-11111-4
+INFO     2026-10-11 05:28:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-11 05:28:58 [scraper.py:178] 🎉 [HN] All done.
+
