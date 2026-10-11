@@ -43360,3 +43360,36 @@ INFO     2026-10-11 05:28:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.nat
 INFO     2026-10-11 05:28:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-11 05:28:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-11 11:19:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-11 11:19:53 [scraper.py:170] 📥 [HN #1] IRCv3
+INFO     2026-10-11 11:19:53 [scraper.py:171] 🔗 [HN #1] URL: https://ircv3.net/
+INFO     2026-10-11 11:19:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-11 11:19:54 [scraper.py:170] 📥 [HN #2] Nitter: Update Oct 10th seeking funding and legal help
+INFO     2026-10-11 11:19:54 [scraper.py:171] 🔗 [HN #2] URL: https://nitter.net
+INFO     2026-10-11 11:19:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-11 11:19:54 [scraper.py:170] 📥 [HN #3] LineageOS 24.0
+INFO     2026-10-11 11:19:54 [scraper.py:171] 🔗 [HN #3] URL: https://lineageos.org/Changelog-32/
+INFO     2026-10-11 11:19:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-11 11:19:54 [scraper.py:170] 📥 [HN #4] Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things
+INFO     2026-10-11 11:19:54 [scraper.py:171] 🔗 [HN #4] URL: https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things
+INFO     2026-10-11 11:19:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-11 11:19:55 [scraper.py:170] 📥 [HN #5] Build your own decision model
+INFO     2026-10-11 11:19:55 [scraper.py:171] 🔗 [HN #5] URL: https://nishtahir.com/build-your-own-decision-model/
+INFO     2026-10-11 11:19:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-11 11:19:55 [scraper.py:170] 📥 [HN #6] 2D Vehicles
+INFO     2026-10-11 11:19:55 [scraper.py:171] 🔗 [HN #6] URL: https://patkerr.co.uk/2d-vehicles/
+INFO     2026-10-11 11:19:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-11 11:19:56 [scraper.py:170] 📥 [HN #7] A city-building game in which the city would prefer you didn't
+INFO     2026-10-11 11:19:56 [scraper.py:171] 🔗 [HN #7] URL: https://housing.over.pizza/
+INFO     2026-10-11 11:19:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-11 11:19:56 [scraper.py:170] 📥 [HN #8] The Lightbulb Computer
+INFO     2026-10-11 11:19:56 [scraper.py:171] 🔗 [HN #8] URL: https://lightbulbcomputer.com/
+INFO     2026-10-11 11:19:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-11 11:19:56 [scraper.py:170] 📥 [HN #9] How big is a Git commit?
+INFO     2026-10-11 11:19:56 [scraper.py:171] 🔗 [HN #9] URL: https://ratfactor.com/cards/git-commit-size
+INFO     2026-10-11 11:19:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-11 11:19:57 [scraper.py:170] 📥 [HN #10] PSPi 6 – Raspberry Pi in a PSP
+INFO     2026-10-11 11:19:57 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/othermod/PSPi-Version-6
+INFO     2026-10-11 11:19:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-11 11:19:57 [scraper.py:178] 🎉 [HN] All done.
+
