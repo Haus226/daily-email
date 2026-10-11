@@ -43393,3 +43393,36 @@ INFO     2026-10-11 11:19:57 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-10-11 11:19:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-11 11:19:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-11 16:10:16 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-11 16:10:16 [scraper.py:170] 📥 [HN #1] Internal files add to evidence of an ExxonMobil climate deception campaign
+INFO     2026-10-11 16:10:16 [scraper.py:171] 🔗 [HN #1] URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/
+INFO     2026-10-11 16:10:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-11 16:10:17 [scraper.py:170] 📥 [HN #2] I paid people to try and follow my README
+INFO     2026-10-11 16:10:17 [scraper.py:171] 🔗 [HN #2] URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
+INFO     2026-10-11 16:10:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-11 16:10:17 [scraper.py:170] 📥 [HN #3] The tilde in your PATH may not be your HOME
+INFO     2026-10-11 16:10:17 [scraper.py:171] 🔗 [HN #3] URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
+INFO     2026-10-11 16:10:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-11 16:10:18 [scraper.py:170] 📥 [HN #4] LineageOS 24.0
+INFO     2026-10-11 16:10:18 [scraper.py:171] 🔗 [HN #4] URL: https://lineageos.org/Changelog-32/
+INFO     2026-10-11 16:10:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-11 16:10:18 [scraper.py:170] 📥 [HN #5] Valen's Memory Safety: A New Kind of Borrow Checking
+INFO     2026-10-11 16:10:18 [scraper.py:171] 🔗 [HN #5] URL: https://verdagon.dev/blog/valen-group-borrowing
+INFO     2026-10-11 16:10:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-11 16:10:18 [scraper.py:170] 📥 [HN #6] Show HN: BetterWispr – Free, open-source dictation for Mac
+INFO     2026-10-11 16:10:18 [scraper.py:171] 🔗 [HN #6] URL: https://betterwispr.com/
+INFO     2026-10-11 16:10:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-11 16:10:18 [scraper.py:170] 📥 [HN #7] Nitter: Update Oct 10th seeking funding and legal help
+INFO     2026-10-11 16:10:18 [scraper.py:171] 🔗 [HN #7] URL: https://nitter.net
+INFO     2026-10-11 16:10:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-11 16:10:18 [scraper.py:170] 📥 [HN #8] Why Texas Is Making Data Centers Wait
+INFO     2026-10-11 16:10:18 [scraper.py:171] 🔗 [HN #8] URL: https://a16z.com/why-texas-is-making-data-centers-wait/
+INFO     2026-10-11 16:10:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-11 16:10:19 [scraper.py:170] 📥 [HN #9] How I reverse engineering a commercial spatial audio effect
+INFO     2026-10-11 16:10:19 [scraper.py:171] 🔗 [HN #9] URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/
+INFO     2026-10-11 16:10:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-11 16:10:19 [scraper.py:170] 📥 [HN #10] The RAM shortage is bringing back DDR4
+INFO     2026-10-11 16:10:19 [scraper.py:171] 🔗 [HN #10] URL: https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback
+INFO     2026-10-11 16:10:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-11 16:10:19 [scraper.py:178] 🎉 [HN] All done.
+
