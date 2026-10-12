@@ -21553,3 +21553,24 @@ ERROR    2026-10-12 12:56:15 [scraper.py:156] ❌ [EO] Failed to fetch: 'NoneTyp
 
 ERROR    2026-10-12 12:56:15 [scraper.py:156] ❌ [EO] Failed to fetch: 'NoneType' object has no attribute 'select_one'
 
+INFO     2026-10-12 19:39:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-12 19:39:30 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-12 19:39:31 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-12 19:39:31 [scraper.py:133] 📥 [EO] Title: Antarctic Sea Ice Grows to Its 2026 Maximum
+INFO     2026-10-12 19:39:31 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-12 19:39:31 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-12 19:39:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-12 19:39:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-12 19:39:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-12 19:39:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-12 19:39:31 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-12 19:39:31 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-12 19:39:31 [scraper.py:133] 📥 [EO] Title: Antarctic Sea Ice Grows to Its 2026 Maximum
+INFO     2026-10-12 19:39:31 [scraper.py:133] 📥 [EO] Title: Antarctic Sea Ice Grows to Its 2026 Maximum
+INFO     2026-10-12 19:39:31 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-12 19:39:31 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300
+INFO     2026-10-12 19:39:31 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-12 19:39:31 [scraper.py:154] ✅ [EO] Successfully fetched.
+
