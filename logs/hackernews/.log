@@ -43459,3 +43459,36 @@ INFO     2026-10-12 05:39:31 [scraper.py:171] 🔗 [HN #10] URL: https://sebsite
 INFO     2026-10-12 05:39:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-12 05:39:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-12 12:56:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-12 12:56:15 [scraper.py:170] 📥 [HN #1] QGIS bans AI assisted contributions
+INFO     2026-10-12 12:56:15 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387
+INFO     2026-10-12 12:56:15 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-12 12:56:16 [scraper.py:170] 📥 [HN #2] Deloitte falsified documents to evade tax on Abramovich's wealth
+INFO     2026-10-12 12:56:16 [scraper.py:171] 🔗 [HN #2] URL: https://www.bbc.com/news/articles/c64g1l5389kvo
+INFO     2026-10-12 12:56:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-12 12:56:16 [scraper.py:170] 📥 [HN #3] The Making Of Super Mario 64 – full Giles Goddard interview (2001)
+INFO     2026-10-12 12:56:16 [scraper.py:171] 🔗 [HN #3] URL: https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/
+INFO     2026-10-12 12:56:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-12 12:56:16 [scraper.py:170] 📥 [HN #4] Secret of Orange Cats Revealed After 60-Year Search
+INFO     2026-10-12 12:56:16 [scraper.py:171] 🔗 [HN #4] URL: https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search
+INFO     2026-10-12 12:56:16 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-12 12:56:16 [scraper.py:170] 📥 [HN #5] Fingerprints are the new cookies
+INFO     2026-10-12 12:56:16 [scraper.py:171] 🔗 [HN #5] URL: https://royfish.dev/fingerprints-are-the-new-cookies
+INFO     2026-10-12 12:56:16 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-12 12:56:16 [scraper.py:170] 📥 [HN #6] Type-safe HTML templating in Zig
+INFO     2026-10-12 12:56:16 [scraper.py:171] 🔗 [HN #6] URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html
+INFO     2026-10-12 12:56:16 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-12 12:56:17 [scraper.py:170] 📥 [HN #7] Hackers activate automatic defrosting accross European supermarket fridges
+INFO     2026-10-12 12:56:17 [scraper.py:171] 🔗 [HN #7] URL: https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+INFO     2026-10-12 12:56:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-12 12:56:17 [scraper.py:170] 📥 [HN #8] Show HN: PS2 games statically recompiled to WebAssembly
+INFO     2026-10-12 12:56:17 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/snuri00/ps2-web-recomp
+INFO     2026-10-12 12:56:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-12 12:56:17 [scraper.py:170] 📥 [HN #9] Total Annihilation, rebuilt for modern computers
+INFO     2026-10-12 12:56:17 [scraper.py:171] 🔗 [HN #9] URL: https://nanolathe.gg
+INFO     2026-10-12 12:56:17 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-12 12:56:17 [scraper.py:170] 📥 [HN #10] Calculus with Julia
+INFO     2026-10-12 12:56:17 [scraper.py:171] 🔗 [HN #10] URL: https://jverzani.github.io/CalculusWithJuliaNotes.jl/
+INFO     2026-10-12 12:56:17 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-12 12:56:17 [scraper.py:178] 🎉 [HN] All done.
+
