@@ -43558,3 +43558,36 @@ INFO     2026-10-13 06:35:38 [scraper.py:171] 🔗 [HN #10] URL: https://blog.ji
 INFO     2026-10-13 06:35:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-13 06:35:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-13 12:33:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-13 12:33:07 [scraper.py:170] 📥 [HN #1] 11 year old unsoundness bugs found in Rust borrow checker
+INFO     2026-10-13 12:33:07 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/rust-lang/rust/issues/164250
+INFO     2026-10-13 12:33:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-13 12:33:07 [scraper.py:170] 📥 [HN #2] An hour of audio transcribed in about 13s on MacBook Air
+INFO     2026-10-13 12:33:07 [scraper.py:171] 🔗 [HN #2] URL: https://eg2.haku.sh/
+INFO     2026-10-13 12:33:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-13 12:33:07 [scraper.py:170] 📥 [HN #3] Show HN: Use your OpenAI subscription to create audiobooks
+INFO     2026-10-13 12:33:07 [scraper.py:171] 🔗 [HN #3] URL: https://pdftomp3.com/connect-ai/
+INFO     2026-10-13 12:33:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-13 12:33:07 [scraper.py:170] 📥 [HN #4] Hittite royal archive found in Turkey
+INFO     2026-10-13 12:33:07 [scraper.py:171] 🔗 [HN #4] URL: https://www.thehistoryblog.com/archives/77107
+INFO     2026-10-13 12:33:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-13 12:33:07 [scraper.py:170] 📥 [HN #5] CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades
+INFO     2026-10-13 12:33:07 [scraper.py:171] 🔗 [HN #5] URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran
+INFO     2026-10-13 12:33:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:170] 📥 [HN #6] The baffling intelligence of a single cell (2024)
+INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #6] URL: https://jsomers.net/e-coli-chemotaxis/
+INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:170] 📥 [HN #7] GLM-Legal
+INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #7] URL: https://z.ai/blog/glm-legal
+INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:170] 📥 [HN #8] Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #8] URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
+INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:170] 📥 [HN #9] Hackers activate automatic defrosting in supermarket fridges across Europe
+INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #9] URL: https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:170] 📥 [HN #10] A Modern Web App in C
+INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #10] URL: https://prophitt.me/writing/a-modern-web-app-in-c
+INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-13 12:33:08 [scraper.py:178] 🎉 [HN] All done.
+
