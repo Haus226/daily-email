@@ -43591,3 +43591,36 @@ INFO     2026-10-13 12:33:08 [scraper.py:171] 🔗 [HN #10] URL: https://prophit
 INFO     2026-10-13 12:33:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-13 12:33:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-13 17:24:13 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-13 17:24:13 [scraper.py:170] 📥 [HN #1] Gemini 4 Argon
+INFO     2026-10-13 17:24:13 [scraper.py:171] 🔗 [HN #1] URL: https://deepmind.google/models/gemini/
+INFO     2026-10-13 17:24:13 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-13 17:24:13 [scraper.py:170] 📥 [HN #2] Apple HomeView
+INFO     2026-10-13 17:24:13 [scraper.py:171] 🔗 [HN #2] URL: https://www.apple.com/apple-homeview/
+INFO     2026-10-13 17:24:13 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-13 17:24:13 [scraper.py:170] 📥 [HN #3] Thunderbird for iOS
+INFO     2026-10-13 17:24:14 [scraper.py:171] 🔗 [HN #3] URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/
+INFO     2026-10-13 17:24:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-13 17:24:14 [scraper.py:170] 📥 [HN #4] Cyberattack halts construction of tunnel between Denmark and Germany
+INFO     2026-10-13 17:24:14 [scraper.py:171] 🔗 [HN #4] URL: https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24
+INFO     2026-10-13 17:24:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-13 17:24:14 [scraper.py:170] 📥 [HN #5] 11 year old unsoundness bugs found in Rust borrow checker
+INFO     2026-10-13 17:24:14 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/rust-lang/rust/issues/164250
+INFO     2026-10-13 17:24:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-13 17:24:14 [scraper.py:170] 📥 [HN #6] We turned EmbeddingGemma 2 into a speech-to-text model
+INFO     2026-10-13 17:24:14 [scraper.py:171] 🔗 [HN #6] URL: https://eg2.haku.sh/
+INFO     2026-10-13 17:24:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-13 17:24:15 [scraper.py:170] 📥 [HN #7] Coris (YC S22) Is Hiring Back End Engineer
+INFO     2026-10-13 17:24:15 [scraper.py:171] 🔗 [HN #7] URL: https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations
+INFO     2026-10-13 17:24:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-13 17:24:15 [scraper.py:170] 📥 [HN #8] I posted to HN, and then my website was flooded with AI bot traffic
+INFO     2026-10-13 17:24:15 [scraper.py:171] 🔗 [HN #8] URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+INFO     2026-10-13 17:24:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-13 17:24:15 [scraper.py:170] 📥 [HN #9] A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices
+INFO     2026-10-13 17:24:15 [scraper.py:171] 🔗 [HN #9] URL: https://machinelearning.apple.com/research/distributed-gpu-cloud
+INFO     2026-10-13 17:24:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-13 17:24:16 [scraper.py:170] 📥 [HN #10] New Apple TV 4K
+INFO     2026-10-13 17:24:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/
+INFO     2026-10-13 17:24:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-13 17:24:16 [scraper.py:178] 🎉 [HN] All done.
+
