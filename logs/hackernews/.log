@@ -43690,3 +43690,36 @@ INFO     2026-10-14 10:00:27 [scraper.py:171] 🔗 [HN #10] URL: https://felixri
 INFO     2026-10-14 10:00:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-14 10:00:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-14 14:54:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-14 14:54:52 [scraper.py:170] 📥 [HN #1] Iosevka is an open-source, sans-serif and slab-serif, monospace font
+INFO     2026-10-14 14:54:52 [scraper.py:171] 🔗 [HN #1] URL: https://typeof.net/Iosevka/
+INFO     2026-10-14 14:54:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-14 14:54:52 [scraper.py:170] 📥 [HN #2] Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW
+INFO     2026-10-14 14:54:52 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/timescale/pg_vectorsearch
+INFO     2026-10-14 14:54:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-14 14:54:52 [scraper.py:170] 📥 [HN #3] Amazon pushes up prices across the Internet
+INFO     2026-10-14 14:54:52 [scraper.py:171] 🔗 [HN #3] URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
+INFO     2026-10-14 14:54:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-14 14:54:53 [scraper.py:170] 📥 [HN #4] TV4 postpones show after AI agent erases edited material
+INFO     2026-10-14 14:54:53 [scraper.py:171] 🔗 [HN #4] URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
+INFO     2026-10-14 14:54:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-14 14:54:53 [scraper.py:170] 📥 [HN #5] Pulsar at ESUG 2026 (new Smalltalk IDE)
+INFO     2026-10-14 14:54:53 [scraper.py:171] 🔗 [HN #5] URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/
+INFO     2026-10-14 14:54:53 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-14 14:54:54 [scraper.py:170] 📥 [HN #6] Sound – Bartosz Ciechanowski (2022)
+INFO     2026-10-14 14:54:54 [scraper.py:171] 🔗 [HN #6] URL: https://ciechanow.ski/sound/
+INFO     2026-10-14 14:54:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-14 14:54:54 [scraper.py:170] 📥 [HN #7] ASML's strong orders ease fears AI spending boom is running out of steam
+INFO     2026-10-14 14:54:54 [scraper.py:171] 🔗 [HN #7] URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/
+INFO     2026-10-14 14:54:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-14 14:54:54 [scraper.py:170] 📥 [HN #8] The Aaronson Oracle
+INFO     2026-10-14 14:54:54 [scraper.py:171] 🔗 [HN #8] URL: https://aaronsonoracle.com/
+INFO     2026-10-14 14:54:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-14 14:54:54 [scraper.py:170] 📥 [HN #9] The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)
+INFO     2026-10-14 14:54:54 [scraper.py:171] 🔗 [HN #9] URL: https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html
+INFO     2026-10-14 14:54:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-14 14:54:55 [scraper.py:170] 📥 [HN #10] The Origin Story of Kid Pix
+INFO     2026-10-14 14:54:55 [scraper.py:171] 🔗 [HN #10] URL: http://red-green-blue.com/kid-pix-the-early-years
+INFO     2026-10-14 14:54:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-14 14:54:55 [scraper.py:178] 🎉 [HN] All done.
+
