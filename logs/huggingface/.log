@@ -271004,3 +271004,229 @@ INFO     2026-10-13 17:24:20 [scraper.py:292] 📄 [HF_TRENDING #15] Done🧾
 INFO     2026-10-13 17:24:20 [scraper.py:293] 🎉 [HF_TRENDING] All done - 14 papers found.
 INFO     2026-10-13 17:24:20 [scraper.py:366] ✅ [HF] Successfully fetched (49) Hugging Face papers.
 
+INFO     2026-10-14 04:36:35 [scraper.py:191] 🚀 [HF_DAILY] Starting to fetch Hugging Face Daily Papers
+INFO     2026-10-14 04:36:35 [scraper.py:194] 🚀 [HF_WEEKLY] Starting to fetch Hugging Face Weekly Papers
+INFO     2026-10-14 04:36:35 [scraper.py:197] 🚀 [HF_MONTHLY] Starting to fetch Hugging Face Monthly Papers
+INFO     2026-10-14 04:36:35 [scraper.py:200] 🚀 [HF_TRENDING] Starting to fetch Hugging Face Trending Papers
+INFO     2026-10-14 04:36:36 [scraper.py:234] 📥 [HF_DAILY #1] Vela: User Behavior as Supervision Sparks LLM Intelligence
+INFO     2026-10-14 04:36:36 [scraper.py:235] 🔗 [HF_DAILY #1] Page URL: https://huggingface.co/papers/2610.14709
+INFO     2026-10-14 04:36:36 [scraper.py:234] 📥 [HF_WEEKLY #1] S-Space: Exploring Spatial Workspace in Multimodal Language Models
+INFO     2026-10-14 04:36:36 [scraper.py:235] 🔗 [HF_WEEKLY #1] Page URL: https://huggingface.co/papers/2610.13527
+INFO     2026-10-14 04:36:36 [scraper.py:234] 📥 [HF_MONTHLY #1] False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents
+INFO     2026-10-14 04:36:36 [scraper.py:235] 🔗 [HF_MONTHLY #1] Page URL: https://huggingface.co/papers/2609.39102
+INFO     2026-10-14 04:36:36 [scraper.py:234] 📥 [HF_TRENDING #1] AutoDev: Automated AI-Driven Development
+INFO     2026-10-14 04:36:36 [scraper.py:235] 🔗 [HF_TRENDING #1] Page URL: https://huggingface.co/papers/2403.08299
+INFO     2026-10-14 04:36:36 [scraper.py:238] 🔗 [HF_DAILY #1] Fetching paper details...
+INFO     2026-10-14 04:36:36 [scraper.py:261] 🔗 [HF_DAILY #1] GitHub: https://github.com/AllSpark-Research/Vela
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_DAILY #2] DoSA: Dots Sparse Attention
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_DAILY #2] Page URL: https://huggingface.co/papers/2610.13990
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_MONTHLY #1] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_MONTHLY #2] The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_MONTHLY #2] Page URL: https://huggingface.co/papers/2609.36484
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_TRENDING #1] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_TRENDING #1] GitHub: https://github.com/vxcontrol/pentagi
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_TRENDING #2] RSI-Anything: Unlocking Recursive Self-Improvement with World Models
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_TRENDING #2] Page URL: https://huggingface.co/papers/2610.13912
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_DAILY #2] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_DAILY #2] GitHub: https://github.com/llm-sys/flash-indexer
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_DAILY #3] UltraBERT: Beyond the Limit of BERT Pre-Training
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_DAILY #3] Page URL: https://huggingface.co/papers/2610.15028
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_WEEKLY #1] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_WEEKLY #1] GitHub: https://github.com/mirros-lab/s-space
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_WEEKLY #2] GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_WEEKLY #2] Page URL: https://huggingface.co/papers/2609.39601
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_MONTHLY #2] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_MONTHLY #2] GitHub: https://github.com/xixixixixxxx/RIDE
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_MONTHLY #3] LoopVL: Recurrent Visual Intelligence
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_MONTHLY #3] Page URL: https://huggingface.co/papers/2609.38426
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_DAILY #3] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_DAILY #4] LeWAM: End-to-End World and Action Modeling with JEPAs
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_DAILY #4] Page URL: https://huggingface.co/papers/2610.12818
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_TRENDING #2] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_TRENDING #2] GitHub: https://github.com/Gen-Verse/RSI-Anything
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_TRENDING #3] PyTorch Distributed: Experiences on Accelerating Data Parallel Training
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_TRENDING #3] Page URL: https://huggingface.co/papers/2006.15704
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_WEEKLY #2] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_WEEKLY #2] GitHub: https://github.com/groundingpi/GroundingPI
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_WEEKLY #3] DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_WEEKLY #3] Page URL: https://huggingface.co/papers/2610.12572
+INFO     2026-10-14 04:36:37 [scraper.py:238] 🔗 [HF_MONTHLY #3] Fetching paper details...
+INFO     2026-10-14 04:36:37 [scraper.py:261] 🔗 [HF_MONTHLY #3] GitHub: https://github.com/Tier-Flow/LoopVL
+INFO     2026-10-14 04:36:37 [scraper.py:234] 📥 [HF_MONTHLY #4] RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations
+INFO     2026-10-14 04:36:37 [scraper.py:235] 🔗 [HF_MONTHLY #4] Page URL: https://huggingface.co/papers/2610.01780
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_TRENDING #3] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_TRENDING #3] GitHub: https://github.com/pytorch/pytorch
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_TRENDING #4] TradingAgents: Multi-Agents LLM Financial Trading Framework
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_TRENDING #4] Page URL: https://huggingface.co/papers/2412.20138
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_DAILY #4] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_DAILY #4] GitHub: https://github.com/MinghaoFu/lewam
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_DAILY #5] Harness^2: Recursive Agent Harnessing for an Open World
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_DAILY #5] Page URL: https://huggingface.co/papers/2610.14224
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_MONTHLY #4] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_MONTHLY #5] AgentGarten: Code Worlds for Evolving Agents
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_MONTHLY #5] Page URL: https://huggingface.co/papers/2610.12374
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_DAILY #5] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_DAILY #5] GitHub: https://github.com/google-research/harness2
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_DAILY #6] Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_DAILY #6] Page URL: https://huggingface.co/papers/2609.38847
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_WEEKLY #3] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_WEEKLY #3] GitHub: https://github.com/vanzll/DiffusionART
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_WEEKLY #4] Thinking Inertia: LLMs Keep Thinking When Told Not To
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_WEEKLY #4] Page URL: https://huggingface.co/papers/2610.11765
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_TRENDING #4] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_TRENDING #4] GitHub: https://github.com/tauricresearch/tradingagents
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_TRENDING #5] YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_TRENDING #5] Page URL: https://huggingface.co/papers/2609.33757
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_MONTHLY #5] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_MONTHLY #5] GitHub: https://github.com/MirroS-Lab/AgentGarten
+INFO     2026-10-14 04:36:38 [scraper.py:219] 🔁 [HF_MONTHLY #6] Skipping already visited paper: S-Space: Exploring Spatial Workspace in Multimodal Language Models
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_MONTHLY #7] UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_MONTHLY #7] Page URL: https://huggingface.co/papers/2609.38721
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_DAILY #6] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_DAILY #7] CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_DAILY #7] Page URL: https://huggingface.co/papers/2610.16577
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_WEEKLY #4] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_WEEKLY #4] GitHub: https://github.com/thinking-inertia/code
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_TRENDING #5] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_WEEKLY #5] AgentSWE: Can Coding Agents Build the Agent You Actually Want?
+INFO     2026-10-14 04:36:38 [scraper.py:261] 🔗 [HF_TRENDING #5] GitHub: https://github.com/multimodal-art-projection/YuE
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_WEEKLY #5] Page URL: https://huggingface.co/papers/2610.13361
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_TRENDING #6] Bitnet.cpp: Efficient Edge Inference for Ternary LLMs
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_TRENDING #6] Page URL: https://huggingface.co/papers/2502.11880
+INFO     2026-10-14 04:36:38 [scraper.py:238] 🔗 [HF_MONTHLY #7] Fetching paper details...
+INFO     2026-10-14 04:36:38 [scraper.py:219] 🔁 [HF_MONTHLY #8] Skipping already visited paper: GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
+INFO     2026-10-14 04:36:38 [scraper.py:219] 🔁 [HF_MONTHLY #9] Skipping already visited paper: DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models
+INFO     2026-10-14 04:36:38 [scraper.py:234] 📥 [HF_MONTHLY #10] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction
+INFO     2026-10-14 04:36:38 [scraper.py:235] 🔗 [HF_MONTHLY #10] Page URL: https://huggingface.co/papers/2610.01762
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_DAILY #7] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_DAILY #7] GitHub: https://github.com/Unc1eW4ng/CineRecon
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_DAILY #8] ClawLoop: Self-Improving Agents via Harness-Native Training Loop
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_DAILY #8] Page URL: https://huggingface.co/papers/2610.14118
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_TRENDING #6] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_TRENDING #6] GitHub: https://github.com/microsoft/BitNet
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_TRENDING #7] The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_TRENDING #7] Page URL: https://huggingface.co/papers/2609.18063
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_WEEKLY #5] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_WEEKLY #5] GitHub: https://github.com/VectorSpaceLab/AgentSWE
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_WEEKLY #6] Reflex: Visually Grounded Reactive Humanoid Control
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_WEEKLY #6] Page URL: https://huggingface.co/papers/2610.12772
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_MONTHLY #10] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_MONTHLY #10] GitHub: https://github.com/MCG-NJU/OneStreamer
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_MONTHLY #11] Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_MONTHLY #11] Page URL: https://huggingface.co/papers/2609.34563
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_DAILY #8] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_DAILY #9] PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_DAILY #9] Page URL: https://huggingface.co/papers/2609.38377
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_TRENDING #7] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_TRENDING #7] GitHub: https://github.com/Edge0-AI/edge0
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_TRENDING #8] nanoMuse: An Open-Source Personal Agent for Every Device You Own
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_TRENDING #8] Page URL: https://huggingface.co/papers/2610.08699
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_WEEKLY #6] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_WEEKLY #6] GitHub: https://github.com/ToberJ/reflex
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_WEEKLY #7] Scaling Agentic Data for Long-Horizon Terminal Intelligence
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_WEEKLY #7] Page URL: https://huggingface.co/papers/2610.13166
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_MONTHLY #11] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_MONTHLY #11] GitHub: https://github.com/xixiaouab/ReaLVR-code
+INFO     2026-10-14 04:36:39 [scraper.py:219] 🔁 [HF_MONTHLY #12] Skipping already visited paper: Thinking Inertia: LLMs Keep Thinking When Told Not To
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_MONTHLY #13] Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_MONTHLY #13] Page URL: https://huggingface.co/papers/2610.08448
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_TRENDING #8] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_DAILY #9] Fetching paper details...
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_TRENDING #8] GitHub: https://github.com/nano-muse/nanoMuse
+INFO     2026-10-14 04:36:39 [scraper.py:261] 🔗 [HF_DAILY #9] GitHub: https://github.com/vinesmsuic/PhyProbe
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_TRENDING #9] HuggingFace's Transformers: State-of-the-art Natural Language Processing
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_TRENDING #9] Page URL: https://huggingface.co/papers/1910.03771
+INFO     2026-10-14 04:36:39 [scraper.py:234] 📥 [HF_DAILY #10] PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces
+INFO     2026-10-14 04:36:39 [scraper.py:235] 🔗 [HF_DAILY #10] Page URL: https://huggingface.co/papers/2610.15208
+INFO     2026-10-14 04:36:39 [scraper.py:238] 🔗 [HF_WEEKLY #7] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_WEEKLY #8] SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_WEEKLY #8] Page URL: https://huggingface.co/papers/2610.12611
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_MONTHLY #13] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_MONTHLY #14] On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_MONTHLY #14] Page URL: https://huggingface.co/papers/2609.35259
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_DAILY #10] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_DAILY #11] DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_DAILY #11] Page URL: https://huggingface.co/papers/2610.17666
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_TRENDING #9] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_TRENDING #9] GitHub: https://github.com/huggingface/transformers
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_TRENDING #10] Unlimited OCR Works
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_TRENDING #10] Page URL: https://huggingface.co/papers/2606.23050
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_WEEKLY #8] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_WEEKLY #8] GitHub: https://github.com/MrKiing-Jin/SoftwareGym
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_WEEKLY #9] VIS-Ground: Video Interactive Storytelling with Contextual Grounding
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_WEEKLY #9] Page URL: https://huggingface.co/papers/2610.09326
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_MONTHLY #14] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:219] 🔁 [HF_MONTHLY #15] Skipping already visited paper: AgentSWE: Can Coding Agents Build the Agent You Actually Want?
+INFO     2026-10-14 04:36:40 [scraper.py:292] 📄 [HF_MONTHLY #15] Done🧾
+INFO     2026-10-14 04:36:40 [scraper.py:293] 🎉 [HF_MONTHLY] All done - 10 papers found.
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_DAILY #11] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_DAILY #11] GitHub: https://github.com/Xuyan923r/DeltaTTG
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_DAILY #12] GeoFix: Geometry Fixing for 4D Consistent Generation
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_DAILY #12] Page URL: https://huggingface.co/papers/2610.14293
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_WEEKLY #9] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_WEEKLY #9] GitHub: https://github.com/vis-ground/code
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_WEEKLY #10] GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_WEEKLY #10] Page URL: https://huggingface.co/papers/2609.39600
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_TRENDING #10] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_TRENDING #10] GitHub: https://github.com/baidu/Unlimited-OCR
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_TRENDING #11] OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_TRENDING #11] Page URL: https://huggingface.co/papers/2407.16741
+INFO     2026-10-14 04:36:40 [scraper.py:238] 🔗 [HF_WEEKLY #10] Fetching paper details...
+INFO     2026-10-14 04:36:40 [scraper.py:261] 🔗 [HF_WEEKLY #10] GitHub: https://github.com/groundingpi/GroundAnything
+INFO     2026-10-14 04:36:40 [scraper.py:234] 📥 [HF_WEEKLY #11] EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents
+INFO     2026-10-14 04:36:40 [scraper.py:235] 🔗 [HF_WEEKLY #11] Page URL: https://huggingface.co/papers/2610.13021
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_DAILY #12] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_DAILY #13] TPPO: Tracking-Value PPO For Language Model Reasoning
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_DAILY #13] Page URL: https://huggingface.co/papers/2610.16794
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_TRENDING #11] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_TRENDING #11] GitHub: https://github.com/opendevin/opendevin
+INFO     2026-10-14 04:36:41 [scraper.py:219] 🔁 [HF_TRENDING #12] Skipping already visited paper: DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_TRENDING #13] Efficient Memory Management for Large Language Model Serving with
+  PagedAttention
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_TRENDING #13] Page URL: https://huggingface.co/papers/2309.06180
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_WEEKLY #11] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_WEEKLY #11] GitHub: https://github.com/PKU-VaLuE-Lab/EmbodiedCLBench
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_WEEKLY #12] VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_WEEKLY #12] Page URL: https://huggingface.co/papers/2610.07987
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_DAILY #13] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_DAILY #13] GitHub: https://github.com/LINs-lab/TPPO
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_DAILY #14] Spectral-Driven Adaptive-Rank Optimizer for Large Language Model Reinforcement Learning with Verifiable Rewards
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_DAILY #14] Page URL: https://huggingface.co/papers/2610.16533
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_TRENDING #13] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_TRENDING #13] GitHub: https://github.com/vllm-project/vllm
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_TRENDING #14] Geometric Context Transformer for Streaming 3D Reconstruction
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_TRENDING #14] Page URL: https://huggingface.co/papers/2604.14141
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_WEEKLY #12] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_WEEKLY #12] GitHub: https://github.com/FFY0/VisionWeave
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_WEEKLY #13] Hear the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_WEEKLY #13] Page URL: https://huggingface.co/papers/2609.38748
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_DAILY #14] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_DAILY #15] RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_DAILY #15] Page URL: https://huggingface.co/papers/2610.15772
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_TRENDING #14] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_TRENDING #14] GitHub: https://github.com/robbyant/lingbot-map
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_TRENDING #15] Kronos: A Foundation Model for the Language of Financial Markets
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_TRENDING #15] Page URL: https://huggingface.co/papers/2508.02739
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_WEEKLY #13] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_WEEKLY #13] GitHub: https://github.com/vivoCameraResearch/StereoBind
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_WEEKLY #14] ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_WEEKLY #14] Page URL: https://huggingface.co/papers/2610.13395
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_DAILY #15] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_DAILY #15] GitHub: https://github.com/zfkarl/RSIPO
+INFO     2026-10-14 04:36:41 [scraper.py:292] 📄 [HF_DAILY #15] Done🧾
+INFO     2026-10-14 04:36:41 [scraper.py:293] 🎉 [HF_DAILY] All done - 15 papers found.
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_TRENDING #15] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_TRENDING #15] GitHub: https://github.com/shiyu-coder/Kronos
+INFO     2026-10-14 04:36:41 [scraper.py:292] 📄 [HF_TRENDING #15] Done🧾
+INFO     2026-10-14 04:36:41 [scraper.py:293] 🎉 [HF_TRENDING] All done - 14 papers found.
+INFO     2026-10-14 04:36:41 [scraper.py:238] 🔗 [HF_WEEKLY #14] Fetching paper details...
+INFO     2026-10-14 04:36:41 [scraper.py:261] 🔗 [HF_WEEKLY #14] GitHub: https://github.com/Acm1011/ProgramGym
+INFO     2026-10-14 04:36:41 [scraper.py:234] 📥 [HF_WEEKLY #15] Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction
+INFO     2026-10-14 04:36:41 [scraper.py:235] 🔗 [HF_WEEKLY #15] Page URL: https://huggingface.co/papers/2610.12984
+INFO     2026-10-14 04:36:42 [scraper.py:238] 🔗 [HF_WEEKLY #15] Fetching paper details...
+INFO     2026-10-14 04:36:42 [scraper.py:261] 🔗 [HF_WEEKLY #15] GitHub: https://github.com/china-qijizhifeng/Work2Skill
+INFO     2026-10-14 04:36:42 [scraper.py:292] 📄 [HF_WEEKLY #15] Done🧾
+INFO     2026-10-14 04:36:42 [scraper.py:293] 🎉 [HF_WEEKLY] All done - 15 papers found.
+INFO     2026-10-14 04:36:42 [scraper.py:366] ✅ [HF] Successfully fetched (54) Hugging Face papers.
+

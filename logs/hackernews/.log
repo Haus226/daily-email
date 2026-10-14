@@ -43624,3 +43624,36 @@ INFO     2026-10-13 17:24:16 [scraper.py:171] 🔗 [HN #10] URL: https://www.app
 INFO     2026-10-13 17:24:16 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-13 17:24:16 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-14 04:36:35 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-14 04:36:36 [scraper.py:170] 📥 [HN #1] Gemini 4 Argon
+INFO     2026-10-14 04:36:36 [scraper.py:171] 🔗 [HN #1] URL: https://deepmind.google/models/gemini/
+INFO     2026-10-14 04:36:36 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-14 04:36:36 [scraper.py:170] 📥 [HN #2] Ledger confirms spy chip implant behind wallet crypto thefts
+INFO     2026-10-14 04:36:36 [scraper.py:171] 🔗 [HN #2] URL: https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
+INFO     2026-10-14 04:36:36 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-14 04:36:36 [scraper.py:170] 📥 [HN #3] Grace Hopper Celebration Cancelled
+INFO     2026-10-14 04:36:36 [scraper.py:171] 🔗 [HN #3] URL: https://anitab.org/press-release
+INFO     2026-10-14 04:36:36 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-14 04:36:37 [scraper.py:170] 📥 [HN #4] Show HN: Guitoro, a virtual guitar you strum with your keyboard
+INFO     2026-10-14 04:36:37 [scraper.py:171] 🔗 [HN #4] URL: https://guitoro.com/
+INFO     2026-10-14 04:36:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-14 04:36:37 [scraper.py:170] 📥 [HN #5] Sound – Bartosz Ciechanowski
+INFO     2026-10-14 04:36:37 [scraper.py:171] 🔗 [HN #5] URL: https://ciechanow.ski/sound/
+INFO     2026-10-14 04:36:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-14 04:36:37 [scraper.py:170] 📥 [HN #6] Redesigning source control at Anthropic
+INFO     2026-10-14 04:36:37 [scraper.py:171] 🔗 [HN #6] URL: https://www.anthropic.com/engineering/redesigning-source-control
+INFO     2026-10-14 04:36:37 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-14 04:36:37 [scraper.py:170] 📥 [HN #7] 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
+INFO     2026-10-14 04:36:37 [scraper.py:171] 🔗 [HN #7] URL: https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html
+INFO     2026-10-14 04:36:37 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-14 04:36:37 [scraper.py:170] 📥 [HN #8] I built a tool to track what AI leaders say and how their views change on video
+INFO     2026-10-14 04:36:37 [scraper.py:171] 🔗 [HN #8] URL: https://blumify.io/people
+INFO     2026-10-14 04:36:37 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-14 04:36:38 [scraper.py:170] 📥 [HN #9] Thunderbird for iOS
+INFO     2026-10-14 04:36:38 [scraper.py:171] 🔗 [HN #9] URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/
+INFO     2026-10-14 04:36:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-14 04:36:38 [scraper.py:170] 📥 [HN #10] Is 'Attention' the Essence of Intelligence?
+INFO     2026-10-14 04:36:38 [scraper.py:171] 🔗 [HN #10] URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
+INFO     2026-10-14 04:36:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-14 04:36:38 [scraper.py:178] 🎉 [HN] All done.
+
