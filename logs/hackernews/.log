@@ -43756,3 +43756,36 @@ INFO     2026-10-15 04:19:01 [scraper.py:171] 🔗 [HN #10] URL: https://blog.de
 INFO     2026-10-15 04:19:02 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-15 04:19:02 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-15 09:42:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-15 09:42:10 [scraper.py:170] 📥 [HN #1] Things to know when you get cancer
+INFO     2026-10-15 09:42:10 [scraper.py:171] 🔗 [HN #1] URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+INFO     2026-10-15 09:42:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-15 09:42:10 [scraper.py:170] 📥 [HN #2] Wanted to download an ISO, ended up writing a kernel exploit
+INFO     2026-10-15 09:42:10 [scraper.py:171] 🔗 [HN #2] URL: https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
+INFO     2026-10-15 09:42:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-15 09:42:11 [scraper.py:170] 📥 [HN #3] Creating a Garmin "MCP"
+INFO     2026-10-15 09:42:11 [scraper.py:171] 🔗 [HN #3] URL: https://jackantico.io/garmin-mcp
+INFO     2026-10-15 09:42:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-15 09:42:11 [scraper.py:170] 📥 [HN #4] OpenCode 2.0
+INFO     2026-10-15 09:42:11 [scraper.py:171] 🔗 [HN #4] URL: https://anoma.ly/notes/opencode-2-0/
+INFO     2026-10-15 09:42:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-15 09:42:11 [scraper.py:170] 📥 [HN #5] Tiny Little Office
+INFO     2026-10-15 09:42:11 [scraper.py:171] 🔗 [HN #5] URL: https://tinylittleoffice.com/
+INFO     2026-10-15 09:42:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-15 09:42:11 [scraper.py:170] 📥 [HN #6] Show HN: Indigene – Native plants for where you stand
+INFO     2026-10-15 09:42:11 [scraper.py:171] 🔗 [HN #6] URL: https://indigene.app/
+INFO     2026-10-15 09:42:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-15 09:42:12 [scraper.py:170] 📥 [HN #7] LFM2.5-24B-A2B: Built for fast on-device agents
+INFO     2026-10-15 09:42:12 [scraper.py:171] 🔗 [HN #7] URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
+INFO     2026-10-15 09:42:12 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-15 09:42:12 [scraper.py:170] 📥 [HN #8] Do dentists know what they're doing?
+INFO     2026-10-15 09:42:12 [scraper.py:171] 🔗 [HN #8] URL: https://mapwriting.substack.com/p/dentists
+INFO     2026-10-15 09:42:12 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-15 09:42:12 [scraper.py:170] 📥 [HN #9] The First Social Network: In rural Argentina residents send messages w AM radio
+INFO     2026-10-15 09:42:12 [scraper.py:171] 🔗 [HN #9] URL: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
+INFO     2026-10-15 09:42:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-15 09:42:12 [scraper.py:170] 📥 [HN #10] Catch a Bird – I made it for my own sanity
+INFO     2026-10-15 09:42:12 [scraper.py:171] 🔗 [HN #10] URL: https://catchabird.com
+INFO     2026-10-15 09:42:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-15 09:42:12 [scraper.py:178] 🎉 [HN] All done.
+
