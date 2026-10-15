@@ -21742,3 +21742,24 @@ INFO     2026-10-15 09:42:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-15 09:42:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-15 14:42:27 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 14:42:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 14:42:29 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 14:42:29 [scraper.py:133] 📥 [EO] Title: Fires Arrive in the Amazon Rainforest
+INFO     2026-10-15 14:42:29 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 14:42:29 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-15 14:42:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 14:42:29 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 14:42:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 14:42:31 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 14:42:31 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 14:42:31 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 14:42:31 [scraper.py:133] 📥 [EO] Title: Fires Arrive in the Amazon Rainforest
+INFO     2026-10-15 14:42:31 [scraper.py:133] 📥 [EO] Title: Fires Arrive in the Amazon Rainforest
+INFO     2026-10-15 14:42:31 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 14:42:31 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 14:42:31 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-15 14:42:31 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -43789,3 +43789,36 @@ INFO     2026-10-15 09:42:12 [scraper.py:171] 🔗 [HN #10] URL: https://catchab
 INFO     2026-10-15 09:42:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-15 09:42:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-15 14:42:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-15 14:42:30 [scraper.py:170] 📥 [HN #1] Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
+INFO     2026-10-15 14:42:30 [scraper.py:171] 🔗 [HN #1] URL: https://libreboot.org/news/libreboot2610.html
+INFO     2026-10-15 14:42:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-15 14:42:30 [scraper.py:170] 📥 [HN #2] Israeli firm's digital ads enabling installation of 'zero-click' spyware
+INFO     2026-10-15 14:42:30 [scraper.py:171] 🔗 [HN #2] URL: https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say
+INFO     2026-10-15 14:42:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-15 14:42:30 [scraper.py:170] 📥 [HN #3] C++26 Contracts: Introduction to Preconditions and Postconditions
+INFO     2026-10-15 14:42:30 [scraper.py:171] 🔗 [HN #3] URL: https://www.cppstories.com/2026/cpp26_contracts/
+INFO     2026-10-15 14:42:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-15 14:42:30 [scraper.py:170] 📥 [HN #4] Things to know when you get cancer
+INFO     2026-10-15 14:42:30 [scraper.py:171] 🔗 [HN #4] URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+INFO     2026-10-15 14:42:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-15 14:42:30 [scraper.py:170] 📥 [HN #5] Wayland desktop for Linux with skeuomorphic design
+INFO     2026-10-15 14:42:30 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/fyzugx/DEsk
+INFO     2026-10-15 14:42:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-15 14:42:31 [scraper.py:170] 📥 [HN #6] Show HN: Unfenced – Land for sale that borders public land
+INFO     2026-10-15 14:42:31 [scraper.py:171] 🔗 [HN #6] URL: https://unfenced.land/
+INFO     2026-10-15 14:42:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-15 14:42:31 [scraper.py:170] 📥 [HN #7] Wanted to download an ISO, ended up writing a kernel exploit
+INFO     2026-10-15 14:42:31 [scraper.py:171] 🔗 [HN #7] URL: https://blog.dfb.sh/blog/eap770-root-for-two-zeros/
+INFO     2026-10-15 14:42:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-15 14:42:31 [scraper.py:170] 📥 [HN #8] The Haunted Toys R Us
+INFO     2026-10-15 14:42:31 [scraper.py:171] 🔗 [HN #8] URL: https://www.retroist.com/p/the-haunted-toys-r-us
+INFO     2026-10-15 14:42:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-15 14:42:31 [scraper.py:170] 📥 [HN #9] Zero-Click Spyware Delivered via Targeted Ads: AdFection
+INFO     2026-10-15 14:42:31 [scraper.py:171] 🔗 [HN #9] URL: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+INFO     2026-10-15 14:42:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-15 14:42:32 [scraper.py:170] 📥 [HN #10] OpenCode 2.0
+INFO     2026-10-15 14:42:32 [scraper.py:171] 🔗 [HN #10] URL: https://anoma.ly/notes/opencode-2-0/
+INFO     2026-10-15 14:42:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-15 14:42:32 [scraper.py:178] 🎉 [HN] All done.
+
