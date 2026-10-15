@@ -21700,3 +21700,24 @@ INFO     2026-10-14 14:54:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-14 14:54:53 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-15 04:18:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 04:18:58 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 04:18:59 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 04:18:59 [scraper.py:133] 📥 [EO] Title: Hurricane Simon Lurks Off the Mexican Coast
+INFO     2026-10-15 04:18:59 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir2_20261011_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 04:18:59 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-15 04:18:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 04:18:59 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-15 04:18:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 04:18:59 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-15 04:19:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 04:19:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-15 04:19:00 [scraper.py:133] 📥 [EO] Title: Hurricane Simon Lurks Off the Mexican Coast
+INFO     2026-10-15 04:19:00 [scraper.py:133] 📥 [EO] Title: Hurricane Simon Lurks Off the Mexican Coast
+INFO     2026-10-15 04:19:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir2_20261011_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 04:19:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir2_20261011_th.jpg?fit=clip&crop=faces%2Cfocalpoint
+INFO     2026-10-15 04:19:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-15 04:19:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -43723,3 +43723,36 @@ INFO     2026-10-14 14:54:55 [scraper.py:171] 🔗 [HN #10] URL: http://red-gree
 INFO     2026-10-14 14:54:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-14 14:54:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-15 04:18:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-15 04:18:59 [scraper.py:170] 📥 [HN #1] Things to know when you get cancer
+INFO     2026-10-15 04:18:59 [scraper.py:171] 🔗 [HN #1] URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+INFO     2026-10-15 04:18:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-15 04:18:59 [scraper.py:170] 📥 [HN #2] Future of Cancer Care Today (FCCT)
+INFO     2026-10-15 04:18:59 [scraper.py:171] 🔗 [HN #2] URL: https://sijbrandijfoundation.org/fcct
+INFO     2026-10-15 04:18:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-15 04:18:59 [scraper.py:170] 📥 [HN #3] OpenCode 2.0
+INFO     2026-10-15 04:18:59 [scraper.py:171] 🔗 [HN #3] URL: https://anoma.ly/notes/opencode-2-0/
+INFO     2026-10-15 04:18:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-15 04:19:00 [scraper.py:170] 📥 [HN #4] Tiny Little Office
+INFO     2026-10-15 04:19:00 [scraper.py:171] 🔗 [HN #4] URL: https://tinylittleoffice.com/
+INFO     2026-10-15 04:19:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-15 04:19:00 [scraper.py:170] 📥 [HN #5] We’re releasing Jev 1.14.0 along with experimental features for dreamers
+INFO     2026-10-15 04:19:00 [scraper.py:171] 🔗 [HN #5] URL: https://typesafe.ai/blog/jev-1-14
+INFO     2026-10-15 04:19:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-15 04:19:00 [scraper.py:170] 📥 [HN #6] LFM2.5-24B-A2B: Built for fast on-device agents
+INFO     2026-10-15 04:19:00 [scraper.py:171] 🔗 [HN #6] URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
+INFO     2026-10-15 04:19:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-15 04:19:00 [scraper.py:170] 📥 [HN #7] One in ten people are older than 65. Three in four live under a leader who is
+INFO     2026-10-15 04:19:00 [scraper.py:171] 🔗 [HN #7] URL: https://hannahritchie.substack.com/p/how-old-are-leaders
+INFO     2026-10-15 04:19:00 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-15 04:19:01 [scraper.py:170] 📥 [HN #8] Do dentists know what they're doing?
+INFO     2026-10-15 04:19:01 [scraper.py:171] 🔗 [HN #8] URL: https://mapwriting.substack.com/p/dentists
+INFO     2026-10-15 04:19:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-15 04:19:01 [scraper.py:170] 📥 [HN #9] Donaldson Futuro House in Idyllwild, California, USA
+INFO     2026-10-15 04:19:01 [scraper.py:171] 🔗 [HN #9] URL: https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/
+INFO     2026-10-15 04:19:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-15 04:19:01 [scraper.py:170] 📥 [HN #10] The Double Headed Stack Allocator
+INFO     2026-10-15 04:19:01 [scraper.py:171] 🔗 [HN #10] URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/
+INFO     2026-10-15 04:19:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-15 04:19:02 [scraper.py:178] 🎉 [HN] All done.
+
