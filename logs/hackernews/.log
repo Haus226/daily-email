@@ -43822,3 +43822,36 @@ INFO     2026-10-15 14:42:32 [scraper.py:171] 🔗 [HN #10] URL: https://anoma.l
 INFO     2026-10-15 14:42:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-15 14:42:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-16 04:14:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-16 04:14:39 [scraper.py:170] 📥 [HN #1] Muse Spark Open
+INFO     2026-10-16 04:14:39 [scraper.py:171] 🔗 [HN #1] URL: https://research.meta.ai/blog/muse-spark-open
+INFO     2026-10-16 04:14:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-16 04:14:39 [scraper.py:170] 📥 [HN #2] RPKI now protects 70% of internet routes
+INFO     2026-10-16 04:14:39 [scraper.py:171] 🔗 [HN #2] URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
+INFO     2026-10-16 04:14:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-16 04:14:39 [scraper.py:170] 📥 [HN #3] Any window from your Mac, on your iPhone and iPad
+INFO     2026-10-16 04:14:39 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/Saffsanity/sill
+INFO     2026-10-16 04:14:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-16 04:14:39 [scraper.py:170] 📥 [HN #4] Business accounts will consent to Meta scraping their websites Starting Oct. 30
+INFO     2026-10-16 04:14:39 [scraper.py:171] 🔗 [HN #4] URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/
+INFO     2026-10-16 04:14:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-16 04:14:40 [scraper.py:170] 📥 [HN #5] Neural networks are clean
+INFO     2026-10-16 04:14:40 [scraper.py:171] 🔗 [HN #5] URL: https://already-clean.goodfire.com/
+INFO     2026-10-16 04:14:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-16 04:14:40 [scraper.py:170] 📥 [HN #6] Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat
+INFO     2026-10-16 04:14:40 [scraper.py:171] 🔗 [HN #6] URL: https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge
+INFO     2026-10-16 04:14:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-16 04:14:40 [scraper.py:170] 📥 [HN #7] What I self-host
+INFO     2026-10-16 04:14:40 [scraper.py:171] 🔗 [HN #7] URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
+INFO     2026-10-16 04:14:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-16 04:14:40 [scraper.py:170] 📥 [HN #8] Wayland desktop for Linux with skeuomorphic design
+INFO     2026-10-16 04:14:40 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/fyzugx/DEsk
+INFO     2026-10-16 04:14:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-16 04:14:40 [scraper.py:170] 📥 [HN #9] Non-Determinism Doesn't Matter
+INFO     2026-10-16 04:14:40 [scraper.py:171] 🔗 [HN #9] URL: https://sklar.rocks/non-determinism-doesnt-matter/
+INFO     2026-10-16 04:14:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-16 04:14:41 [scraper.py:170] 📥 [HN #10] BIPM decides to stop adding leap seconds to UTC
+INFO     2026-10-16 04:14:41 [scraper.py:171] 🔗 [HN #10] URL: https://www.bipm.org/en/cgpm-2026/resolution-5
+INFO     2026-10-16 04:14:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-16 04:14:41 [scraper.py:178] 🎉 [HN] All done.
+
