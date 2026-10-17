@@ -43987,3 +43987,36 @@ INFO     2026-10-17 09:07:04 [scraper.py:171] 🔗 [HN #10] URL: https://bfl.ai/
 INFO     2026-10-17 09:07:04 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-17 09:07:04 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-17 13:29:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-17 13:29:25 [scraper.py:170] 📥 [HN #1] DeepSeek: DeepSeek v4.1 Flash 1017
+INFO     2026-10-17 13:29:25 [scraper.py:171] 🔗 [HN #1] URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+INFO     2026-10-17 13:29:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-17 13:29:26 [scraper.py:170] 📥 [HN #2] Ultramarine 1 Flash
+INFO     2026-10-17 13:29:26 [scraper.py:171] 🔗 [HN #2] URL: https://www.paperinstruments.com/ultramarine
+INFO     2026-10-17 13:29:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-17 13:29:26 [scraper.py:170] 📥 [HN #3] Tesla Roadster
+INFO     2026-10-17 13:29:26 [scraper.py:171] 🔗 [HN #3] URL: https://www.tesla.com/roadster
+INFO     2026-10-17 13:29:26 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-17 13:29:26 [scraper.py:170] 📥 [HN #4] Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+INFO     2026-10-17 13:29:26 [scraper.py:171] 🔗 [HN #4] URL: https://llmspeed.dev/
+INFO     2026-10-17 13:29:26 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-17 13:29:27 [scraper.py:170] 📥 [HN #5] DeepSeek-v4.1-Flash-1017
+INFO     2026-10-17 13:29:27 [scraper.py:171] 🔗 [HN #5] URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+INFO     2026-10-17 13:29:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-17 13:29:27 [scraper.py:170] 📥 [HN #6] Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
+INFO     2026-10-17 13:29:27 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/cobanov/PS5LM
+INFO     2026-10-17 13:29:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-17 13:29:27 [scraper.py:170] 📥 [HN #7] You could have invented transformers from memory
+INFO     2026-10-17 13:29:27 [scraper.py:171] 🔗 [HN #7] URL: https://alexwang.ai/posts/associative-memory/
+INFO     2026-10-17 13:29:27 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-17 13:29:27 [scraper.py:170] 📥 [HN #8] Recipes Are Moving from Maven Central to the Code Genome Project
+INFO     2026-10-17 13:29:27 [scraper.py:171] 🔗 [HN #8] URL: https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module
+INFO     2026-10-17 13:29:27 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-17 13:29:28 [scraper.py:170] 📥 [HN #9] Intuitive concurrent programming in any language
+INFO     2026-10-17 13:29:28 [scraper.py:171] 🔗 [HN #9] URL: https://www.lf-lang.org/
+INFO     2026-10-17 13:29:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-17 13:29:28 [scraper.py:170] 📥 [HN #10] Claude reveals ECDSA curve origins
+INFO     2026-10-17 13:29:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.anthropic.com/research/ecdsa-curve-origins
+INFO     2026-10-17 13:29:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-17 13:29:28 [scraper.py:178] 🎉 [HN] All done.
+
