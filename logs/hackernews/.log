@@ -44086,3 +44086,36 @@ INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #10] URL: https://thebaff
 INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-18 09:25:06 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-18 13:47:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-18 13:47:28 [scraper.py:170] 📥 [HN #1] DeepSeek search and fetch – $0.75 per 1000 successful requests
+INFO     2026-10-18 13:47:28 [scraper.py:171] 🔗 [HN #1] URL: https://api-docs.deepseek.com/guides/search/
+INFO     2026-10-18 13:47:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-18 13:47:28 [scraper.py:170] 📥 [HN #2] Legal experts warn Meta's new terms still grant broad scraping permissions
+INFO     2026-10-18 13:47:28 [scraper.py:171] 🔗 [HN #2] URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/
+INFO     2026-10-18 13:47:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-18 13:47:28 [scraper.py:170] 📥 [HN #3] Open MicroManipulator – A sub-micrometer 3D motion control plattform
+INFO     2026-10-18 13:47:28 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/0x23/MicroManipulatorStepper
+INFO     2026-10-18 13:47:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-18 13:47:28 [scraper.py:170] 📥 [HN #4] Parser Combinators
+INFO     2026-10-18 13:47:28 [scraper.py:171] 🔗 [HN #4] URL: https://t3.at/blog/2026-10-17-parser-combinators/
+INFO     2026-10-18 13:47:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-18 13:47:28 [scraper.py:170] 📥 [HN #5] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving
+INFO     2026-10-18 13:47:28 [scraper.py:171] 🔗 [HN #5] URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything
+INFO     2026-10-18 13:47:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:170] 📥 [HN #6] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping
+INFO     2026-10-18 13:47:29 [scraper.py:171] 🔗 [HN #6] URL: https://sphinx-six-theta.vercel.app/
+INFO     2026-10-18 13:47:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:170] 📥 [HN #7] Bleached corals thrive within days when touching healthy neighbour
+INFO     2026-10-18 13:47:29 [scraper.py:171] 🔗 [HN #7] URL: https://www.nature.com/articles/d41586-026-03266-x
+INFO     2026-10-18 13:47:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:170] 📥 [HN #8] Teal – A statically-typed dialect of Lua
+INFO     2026-10-18 13:47:29 [scraper.py:171] 🔗 [HN #8] URL: https://teal-language.org/
+INFO     2026-10-18 13:47:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:170] 📥 [HN #9] Regex visualized as 3D marble run
+INFO     2026-10-18 13:47:29 [scraper.py:171] 🔗 [HN #9] URL: https://www.regexmarblerun.com/
+INFO     2026-10-18 13:47:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:170] 📥 [HN #10] Lean now ships with verified kernels
+INFO     2026-10-18 13:47:29 [scraper.py:171] 🔗 [HN #10] URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/
+INFO     2026-10-18 13:47:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-18 13:47:29 [scraper.py:178] 🎉 [HN] All done.
+
