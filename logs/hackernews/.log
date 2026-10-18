@@ -44053,3 +44053,36 @@ INFO     2026-10-18 04:12:40 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-10-18 04:12:40 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-18 04:12:40 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-18 09:25:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-18 09:25:04 [scraper.py:170] 📥 [HN #1] DeepSeek search and fetch – $0.75 per 1000 successful requests
+INFO     2026-10-18 09:25:04 [scraper.py:171] 🔗 [HN #1] URL: https://api-docs.deepseek.com/guides/search/
+INFO     2026-10-18 09:25:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-18 09:25:04 [scraper.py:170] 📥 [HN #2] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping
+INFO     2026-10-18 09:25:04 [scraper.py:171] 🔗 [HN #2] URL: https://sphinx-six-theta.vercel.app/
+INFO     2026-10-18 09:25:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-18 09:25:05 [scraper.py:170] 📥 [HN #3] How the Elizabeth Holmes documentary “You Can See Everything” is deceiving
+INFO     2026-10-18 09:25:05 [scraper.py:171] 🔗 [HN #3] URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything
+INFO     2026-10-18 09:25:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-18 09:25:05 [scraper.py:170] 📥 [HN #4] Bleached corals thrive within days when touching healthy neighbour
+INFO     2026-10-18 09:25:05 [scraper.py:171] 🔗 [HN #4] URL: https://www.nature.com/articles/d41586-026-03266-x
+INFO     2026-10-18 09:25:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-18 09:25:05 [scraper.py:170] 📥 [HN #5] Lean now ships with verified kernels
+INFO     2026-10-18 09:25:05 [scraper.py:171] 🔗 [HN #5] URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/
+INFO     2026-10-18 09:25:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:170] 📥 [HN #6] Teal – A statically-typed dialect of Lua
+INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #6] URL: https://teal-language.org/
+INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:170] 📥 [HN #7] Dam removals are bringing fish back across the northeastern United States
+INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #7] URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/
+INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:170] 📥 [HN #8] DeepSeek-v4.1-Flash-1017
+INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #8] URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:170] 📥 [HN #9] Pele – Mermaid diagrams as themeable SVG
+INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #9] URL: https://pele.run/
+INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:170] 📥 [HN #10] Go Piss, Girl: The plight of the public potty
+INFO     2026-10-18 09:25:06 [scraper.py:171] 🔗 [HN #10] URL: https://thebaffler.com/latest/go-piss-girl-wagner
+INFO     2026-10-18 09:25:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-18 09:25:06 [scraper.py:178] 🎉 [HN] All done.
+
