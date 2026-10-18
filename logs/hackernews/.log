@@ -44020,3 +44020,36 @@ INFO     2026-10-17 13:29:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.ant
 INFO     2026-10-17 13:29:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-17 13:29:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-18 04:12:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-18 04:12:38 [scraper.py:170] 📥 [HN #1] Bleached corals thrive within days when touching healthy neighbour
+INFO     2026-10-18 04:12:38 [scraper.py:171] 🔗 [HN #1] URL: https://www.nature.com/articles/d41586-026-03266-x
+INFO     2026-10-18 04:12:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-18 04:12:38 [scraper.py:170] 📥 [HN #2] Lean now ships with verified kernels
+INFO     2026-10-18 04:12:38 [scraper.py:171] 🔗 [HN #2] URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/
+INFO     2026-10-18 04:12:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-18 04:12:38 [scraper.py:170] 📥 [HN #3] Dam removals are bringing fish back across the northeastern United States
+INFO     2026-10-18 04:12:38 [scraper.py:171] 🔗 [HN #3] URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/
+INFO     2026-10-18 04:12:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #4] DeepSeek-v4.1-Flash-1017
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #4] URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #5] Pele – Mermaid diagrams as themeable SVG
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #5] URL: https://pele.run/
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #6] Furifont, a Japanese font that shows furigana
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #6] URL: https://furifont.antfu.me/
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #7] NY announces game ownership bill requiring ownership rather than licensing
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #7] URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #8] Making chicken transparent using Dorito dust
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #8] URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-18 04:12:39 [scraper.py:170] 📥 [HN #9] The Commodore 64 hardware simulator: break chips and pins, see the results
+INFO     2026-10-18 04:12:39 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/antirez/c64-hw-simulator
+INFO     2026-10-18 04:12:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-18 04:12:40 [scraper.py:170] 📥 [HN #10] Custom server to revive neato bots
+INFO     2026-10-18 04:12:40 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/vacuula/vacuula
+INFO     2026-10-18 04:12:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-18 04:12:40 [scraper.py:178] 🎉 [HN] All done.
+
