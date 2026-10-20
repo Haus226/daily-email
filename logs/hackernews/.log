@@ -44284,3 +44284,36 @@ INFO     2026-10-20 09:54:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.min
 INFO     2026-10-20 09:54:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-20 09:54:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-20 14:44:51 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-20 14:44:51 [scraper.py:170] 📥 [HN #1] DeepSeek just open-sourced its inference engine
+INFO     2026-10-20 14:44:51 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/deepseek-ai/DeepInfer
+INFO     2026-10-20 14:44:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-20 14:44:52 [scraper.py:170] 📥 [HN #2] Apple broke an essential presentation feature of iPads
+INFO     2026-10-20 14:44:52 [scraper.py:171] 🔗 [HN #2] URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
+INFO     2026-10-20 14:44:52 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-20 14:44:52 [scraper.py:170] 📥 [HN #3] Publish fake stats, get cited in LLMs
+INFO     2026-10-20 14:44:52 [scraper.py:171] 🔗 [HN #3] URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web
+INFO     2026-10-20 14:44:52 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-20 14:44:52 [scraper.py:170] 📥 [HN #4] NixOS is making me less afraid
+INFO     2026-10-20 14:44:52 [scraper.py:171] 🔗 [HN #4] URL: https://entropicthoughts.com/nixos-is-making-me-less-afraid
+INFO     2026-10-20 14:44:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-20 14:44:52 [scraper.py:170] 📥 [HN #5] EMudhra Intermediate CA Compromise
+INFO     2026-10-20 14:44:52 [scraper.py:171] 🔗 [HN #5] URL: https://emudhra.we-have-a-problem.com/
+INFO     2026-10-20 14:44:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:170] 📥 [HN #6] MicroG: Free-libre re-implementation of Google's proprietary Android user space
+INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/microg/GmsCore/wiki
+INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:170] 📥 [HN #7] Nordwand Mono – A monospace font for coders and adventurers
+INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/tywr/Nordwand-Mono
+INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:170] 📥 [HN #8] Tsrs: A Port of TypeScript to Rust
+INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #8] URL: https://blog.cloudflare.com/typescript-rust-port/
+INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:170] 📥 [HN #9] How I got over 300 Tor exit nodes removed
+INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #9] URL: https://kaba.cx/posts/20261020_Tor/
+INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:170] 📥 [HN #10] OpenBSD 8.0
+INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.openbsd.org/80.html
+INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-20 14:44:53 [scraper.py:178] 🎉 [HN] All done.
+

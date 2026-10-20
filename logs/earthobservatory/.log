@@ -22057,3 +22057,24 @@ INFO     2026-10-20 09:54:38 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-20 09:54:38 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-20 14:44:50 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-20 14:44:51 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-20 14:44:51 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-20 14:44:51 [scraper.py:133] 📥 [EO] Title: The Human Fingerprint on Earth’s Water Cycle
+INFO     2026-10-20 14:44:51 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-20 14:44:51 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-20 14:44:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-20 14:44:51 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-20 14:44:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-20 14:44:52 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-20 14:44:52 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-20 14:44:52 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-20 14:44:53 [scraper.py:133] 📥 [EO] Title: The Human Fingerprint on Earth’s Water Cycle
+INFO     2026-10-20 14:44:53 [scraper.py:133] 📥 [EO] Title: The Human Fingerprint on Earth’s Water Cycle
+INFO     2026-10-20 14:44:53 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-20 14:44:53 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-20 14:44:53 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-20 14:44:53 [scraper.py:154] ✅ [EO] Successfully fetched.
+
