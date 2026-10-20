@@ -44218,3 +44218,36 @@ INFO     2026-10-19 16:49:55 [scraper.py:171] 🔗 [HN #10] URL: https://communi
 INFO     2026-10-19 16:49:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-19 16:49:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-20 04:32:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-20 04:32:18 [scraper.py:170] 📥 [HN #1] OpenBSD 8.0
+INFO     2026-10-20 04:32:18 [scraper.py:171] 🔗 [HN #1] URL: https://www.openbsd.org/80.html
+INFO     2026-10-20 04:32:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-20 04:32:18 [scraper.py:170] 📥 [HN #2] WhatsApp's help pages hid LLM instructions: dont recommend a regulator
+INFO     2026-10-20 04:32:18 [scraper.py:171] 🔗 [HN #2] URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+INFO     2026-10-20 04:32:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-20 04:32:19 [scraper.py:170] 📥 [HN #3] MiniMax M3.1 Flash
+INFO     2026-10-20 04:32:19 [scraper.py:171] 🔗 [HN #3] URL: https://www.minimax.io/blog/minimax-m31f
+INFO     2026-10-20 04:32:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-20 04:32:19 [scraper.py:170] 📥 [HN #4] I built a drone with only one motor [video]
+INFO     2026-10-20 04:32:19 [scraper.py:171] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=Ndftcft6XhU
+INFO     2026-10-20 04:32:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-20 04:32:19 [scraper.py:170] 📥 [HN #5] Weball: Play Katamari on Websites
+INFO     2026-10-20 04:32:19 [scraper.py:171] 🔗 [HN #5] URL: https://www.funwithcomputervision.com/weball/
+INFO     2026-10-20 04:32:19 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-20 04:32:19 [scraper.py:170] 📥 [HN #6] Wine ported to OpenBSD
+INFO     2026-10-20 04:32:19 [scraper.py:171] 🔗 [HN #6] URL: https://marc.info/?l=openbsd-ports&m=179236125692175
+INFO     2026-10-20 04:32:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-20 04:32:20 [scraper.py:170] 📥 [HN #7] Go will reject certificate chains containing eight distrusted SPKIs
+INFO     2026-10-20 04:32:20 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/golang/go/issues/82345
+INFO     2026-10-20 04:32:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-20 04:32:20 [scraper.py:170] 📥 [HN #8] DeepSeek banned from U.S. federal civilian agencies under new DHS order
+INFO     2026-10-20 04:32:20 [scraper.py:171] 🔗 [HN #8] URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/
+INFO     2026-10-20 04:32:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-20 04:32:20 [scraper.py:170] 📥 [HN #9] It's still ok to enjoy programming
+INFO     2026-10-20 04:32:20 [scraper.py:171] 🔗 [HN #9] URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
+INFO     2026-10-20 04:32:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-20 04:32:20 [scraper.py:170] 📥 [HN #10] OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+INFO     2026-10-20 04:32:20 [scraper.py:171] 🔗 [HN #10] URL: https://bsd.network/@brynet/117407035545900963
+INFO     2026-10-20 04:32:20 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-20 04:32:20 [scraper.py:178] 🎉 [HN] All done.
+
