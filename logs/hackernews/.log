@@ -44251,3 +44251,36 @@ INFO     2026-10-20 04:32:20 [scraper.py:171] 🔗 [HN #10] URL: https://bsd.net
 INFO     2026-10-20 04:32:20 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-20 04:32:20 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-20 09:54:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #1] AfD Leak: What 421,179 Hacked Emails Show about the German Far Right
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #1] URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #2] Nordwand Mono – A monospace font for coders and adventurers
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/tywr/Nordwand-Mono
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #3] OpenBSD 8.0
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #3] URL: https://www.openbsd.org/80.html
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #4] WhatsApp's help pages hid LLM instructions: dont recommend a regulator
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #4] URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #5] Restoration of Retinal Regenerative Potential
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #5] URL: https://www.nature.com/articles/s41467-025-58290-8
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-20 09:54:38 [scraper.py:170] 📥 [HN #6] UK Defence Startups Are Being Denied Banking Services Under ESG Rules
+INFO     2026-10-20 09:54:38 [scraper.py:171] 🔗 [HN #6] URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules
+INFO     2026-10-20 09:54:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-20 09:54:39 [scraper.py:170] 📥 [HN #7] MicroG: Free-libre re-implementation of Google's proprietary Android user space
+INFO     2026-10-20 09:54:39 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/microg/GmsCore/wiki
+INFO     2026-10-20 09:54:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-20 09:54:39 [scraper.py:170] 📥 [HN #8] DeepSeek just open-sourced its inference engine
+INFO     2026-10-20 09:54:39 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/deepseek-ai/DeepInfer
+INFO     2026-10-20 09:54:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-20 09:54:39 [scraper.py:170] 📥 [HN #9] DeepSeek banned from U.S. federal civilian agencies under new DHS order
+INFO     2026-10-20 09:54:39 [scraper.py:171] 🔗 [HN #9] URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/
+INFO     2026-10-20 09:54:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-20 09:54:39 [scraper.py:170] 📥 [HN #10] MiniMax M3.1 Flash
+INFO     2026-10-20 09:54:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.minimax.io/blog/minimax-m31f
+INFO     2026-10-20 09:54:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-20 09:54:39 [scraper.py:178] 🎉 [HN] All done.
+
