@@ -44317,3 +44317,36 @@ INFO     2026-10-20 14:44:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.ope
 INFO     2026-10-20 14:44:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-20 14:44:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-21 04:24:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-21 04:24:29 [scraper.py:170] 📥 [HN #1] The Future of CSS
+INFO     2026-10-21 04:24:29 [scraper.py:171] 🔗 [HN #1] URL: https://www.joshwcomeau.com/css/interop-2027/
+INFO     2026-10-21 04:24:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-21 04:24:29 [scraper.py:170] 📥 [HN #2] Show HN: SimCity, but with Permits
+INFO     2026-10-21 04:24:29 [scraper.py:171] 🔗 [HN #2] URL: https://permit.petercai.com/
+INFO     2026-10-21 04:24:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-21 04:24:30 [scraper.py:170] 📥 [HN #3] In Hilbert space, all things are quantumly possible
+INFO     2026-10-21 04:24:30 [scraper.py:171] 🔗 [HN #3] URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/
+INFO     2026-10-21 04:24:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-21 04:24:30 [scraper.py:170] 📥 [HN #4] Feds suspect ransom negotiator ran ShinyHunters extortion site
+INFO     2026-10-21 04:24:30 [scraper.py:171] 🔗 [HN #4] URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+INFO     2026-10-21 04:24:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-21 04:24:31 [scraper.py:170] 📥 [HN #5] Good type against all odds
+INFO     2026-10-21 04:24:31 [scraper.py:171] 🔗 [HN #5] URL: https://unsung.aresluna.org/good-type-against-all-odds/
+INFO     2026-10-21 04:24:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-21 04:24:31 [scraper.py:170] 📥 [HN #6] Voxtral 3
+INFO     2026-10-21 04:24:31 [scraper.py:171] 🔗 [HN #6] URL: https://mistral.ai/news/voxtral-3/
+INFO     2026-10-21 04:24:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-21 04:24:31 [scraper.py:170] 📥 [HN #7] The Other Epidemic: Trying to get off benzodiazepines
+INFO     2026-10-21 04:24:31 [scraper.py:171] 🔗 [HN #7] URL: https://www.thebeliever.net/the-other-epidemic/
+INFO     2026-10-21 04:24:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-21 04:24:31 [scraper.py:170] 📥 [HN #8] eMudhra intermediate CA compromise
+INFO     2026-10-21 04:24:31 [scraper.py:171] 🔗 [HN #8] URL: https://emudhra.we-have-a-problem.com/
+INFO     2026-10-21 04:24:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-21 04:24:32 [scraper.py:170] 📥 [HN #9] Google open-sources TorchTPU, a native PyTorch back end for TPUs
+INFO     2026-10-21 04:24:32 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/google-pytorch/torch_tpu
+INFO     2026-10-21 04:24:32 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-21 04:24:32 [scraper.py:170] 📥 [HN #10] What shall I teach my son?
+INFO     2026-10-21 04:24:32 [scraper.py:171] 🔗 [HN #10] URL: https://stevekrouse.com/ends
+INFO     2026-10-21 04:24:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-21 04:24:32 [scraper.py:178] 🎉 [HN] All done.
+
