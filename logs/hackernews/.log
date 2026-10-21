@@ -44350,3 +44350,36 @@ INFO     2026-10-21 04:24:32 [scraper.py:171] 🔗 [HN #10] URL: https://stevekr
 INFO     2026-10-21 04:24:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-21 04:24:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-21 09:56:10 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-21 09:56:10 [scraper.py:170] 📥 [HN #1] The 1.5°C goal of the Paris Agreement is no longer viable
+INFO     2026-10-21 09:56:10 [scraper.py:171] 🔗 [HN #1] URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
+INFO     2026-10-21 09:56:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-21 09:56:10 [scraper.py:170] 📥 [HN #2] Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
+INFO     2026-10-21 09:56:10 [scraper.py:171] 🔗 [HN #2] URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
+INFO     2026-10-21 09:56:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-21 09:56:10 [scraper.py:170] 📥 [HN #3] The Future of CSS
+INFO     2026-10-21 09:56:10 [scraper.py:171] 🔗 [HN #3] URL: https://www.joshwcomeau.com/css/interop-2027/
+INFO     2026-10-21 09:56:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-21 09:56:11 [scraper.py:170] 📥 [HN #4] Upcoming critical PHP security release (CVE-2026-109618 / -109619)
+INFO     2026-10-21 09:56:11 [scraper.py:171] 🔗 [HN #4] URL: https://news-web.php.net/php.announce/509
+INFO     2026-10-21 09:56:11 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-21 09:56:11 [scraper.py:170] 📥 [HN #5] Show HN: SimCity, but with Permits
+INFO     2026-10-21 09:56:11 [scraper.py:171] 🔗 [HN #5] URL: https://permit.petercai.com/
+INFO     2026-10-21 09:56:11 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-21 09:56:11 [scraper.py:170] 📥 [HN #6] The Decoherence Trap
+INFO     2026-10-21 09:56:11 [scraper.py:171] 🔗 [HN #6] URL: https://maevyn.codes/decoherence
+INFO     2026-10-21 09:56:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-21 09:56:11 [scraper.py:170] 📥 [HN #7] Muse exposes users' personal and business secrets when they share conversations
+INFO     2026-10-21 09:56:11 [scraper.py:171] 🔗 [HN #7] URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/
+INFO     2026-10-21 09:56:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-21 09:56:11 [scraper.py:170] 📥 [HN #8] Voxtral 3
+INFO     2026-10-21 09:56:11 [scraper.py:171] 🔗 [HN #8] URL: https://mistral.ai/news/voxtral-3/
+INFO     2026-10-21 09:56:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-21 09:56:12 [scraper.py:170] 📥 [HN #9] eMudhra intermediate CA compromise
+INFO     2026-10-21 09:56:12 [scraper.py:171] 🔗 [HN #9] URL: https://emudhra.we-have-a-problem.com/
+INFO     2026-10-21 09:56:12 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-21 09:56:12 [scraper.py:170] 📥 [HN #10] Feds suspect ransom negotiator ran ShinyHunters extortion site
+INFO     2026-10-21 09:56:12 [scraper.py:171] 🔗 [HN #10] URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+INFO     2026-10-21 09:56:12 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-21 09:56:12 [scraper.py:178] 🎉 [HN] All done.
+
