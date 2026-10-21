@@ -22120,3 +22120,24 @@ INFO     2026-10-21 09:56:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-21 09:56:12 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-21 14:53:57 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-21 14:54:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-21 14:54:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-21 14:54:00 [scraper.py:133] 📥 [EO] Title: Extratropical Cyclone Whips Past Iceland
+INFO     2026-10-21 14:54:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-21 14:54:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-21 14:54:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-21 14:54:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-21 14:54:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-21 14:54:01 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-21 14:54:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-21 14:54:01 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-21 14:54:01 [scraper.py:133] 📥 [EO] Title: Extratropical Cyclone Whips Past Iceland
+INFO     2026-10-21 14:54:01 [scraper.py:133] 📥 [EO] Title: Extratropical Cyclone Whips Past Iceland
+INFO     2026-10-21 14:54:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-21 14:54:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-21 14:54:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-21 14:54:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
