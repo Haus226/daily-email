@@ -44449,3 +44449,36 @@ INFO     2026-10-22 04:23:31 [scraper.py:171] 🔗 [HN #10] URL: https://www.bor
 INFO     2026-10-22 04:23:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-22 04:23:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-22 09:56:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-22 09:56:54 [scraper.py:170] 📥 [HN #1] CVE-2026-111943: Compromised Intermediate Certificate Authority
+INFO     2026-10-22 09:56:54 [scraper.py:171] 🔗 [HN #1] URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943
+INFO     2026-10-22 09:56:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-22 09:56:54 [scraper.py:170] 📥 [HN #2] WorldTUI: I trained a 360M model to pretend to be a terminal
+INFO     2026-10-22 09:56:54 [scraper.py:171] 🔗 [HN #2] URL: https://simedw.com/2026/10/21/world-model-terminal/
+INFO     2026-10-22 09:56:54 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-22 09:56:54 [scraper.py:170] 📥 [HN #3] The recently proposed o(n log n) integer multiplication algorithm [pdf]
+INFO     2026-10-22 09:56:54 [scraper.py:171] 🔗 [HN #3] URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf
+INFO     2026-10-22 09:56:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-22 09:56:54 [scraper.py:170] 📥 [HN #4] Achieving AI-style reasoning without an LLM
+INFO     2026-10-22 09:56:54 [scraper.py:171] 🔗 [HN #4] URL: https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/
+INFO     2026-10-22 09:56:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-22 09:56:55 [scraper.py:170] 📥 [HN #5] Faster than earcut: triangulating 3.7M map polygons in 489 ms
+INFO     2026-10-22 09:56:55 [scraper.py:171] 🔗 [HN #5] URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/
+INFO     2026-10-22 09:56:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-22 09:56:55 [scraper.py:170] 📥 [HN #6] Security Disclosure
+INFO     2026-10-22 09:56:55 [scraper.py:171] 🔗 [HN #6] URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+INFO     2026-10-22 09:56:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-22 09:56:55 [scraper.py:170] 📥 [HN #7] Claude Duet
+INFO     2026-10-22 09:56:55 [scraper.py:171] 🔗 [HN #7] URL: https://claude.com/product/claude-duet
+INFO     2026-10-22 09:56:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-22 09:56:55 [scraper.py:170] 📥 [HN #8] No more icons in every menu by default
+INFO     2026-10-22 09:56:55 [scraper.py:171] 🔗 [HN #8] URL: https://blog.jim-nielsen.com/2026/icons-in-every-menu/
+INFO     2026-10-22 09:56:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-22 09:56:55 [scraper.py:170] 📥 [HN #9] Using LLM for confidence scoring is a bad idea
+INFO     2026-10-22 09:56:55 [scraper.py:171] 🔗 [HN #9] URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
+INFO     2026-10-22 09:56:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-22 09:56:56 [scraper.py:170] 📥 [HN #10] OpenAI CLI
+INFO     2026-10-22 09:56:56 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/openai/openai-cli
+INFO     2026-10-22 09:56:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-22 09:56:56 [scraper.py:178] 🎉 [HN] All done.
+
