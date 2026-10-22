@@ -44416,3 +44416,36 @@ INFO     2026-10-21 14:54:03 [scraper.py:171] 🔗 [HN #10] URL: https://news-we
 INFO     2026-10-21 14:54:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-21 14:54:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-22 04:23:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-22 04:23:28 [scraper.py:170] 📥 [HN #1] mitmproxy adds --emudhra option
+INFO     2026-10-22 04:23:28 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
+INFO     2026-10-22 04:23:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-22 04:23:29 [scraper.py:170] 📥 [HN #2] Epic Games Inc v Apple Inc
+INFO     2026-10-22 04:23:29 [scraper.py:171] 🔗 [HN #2] URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552
+INFO     2026-10-22 04:23:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-22 04:23:29 [scraper.py:170] 📥 [HN #3] The recently proposed o(n log n) integer multiplication algorithm [pdf]
+INFO     2026-10-22 04:23:29 [scraper.py:171] 🔗 [HN #3] URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf
+INFO     2026-10-22 04:23:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-22 04:23:29 [scraper.py:170] 📥 [HN #4] There isn't an easy exploit for this PHP vulnerability
+INFO     2026-10-22 04:23:29 [scraper.py:171] 🔗 [HN #4] URL: https://eliastaylor.com/noexploit/
+INFO     2026-10-22 04:23:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-22 04:23:30 [scraper.py:170] 📥 [HN #5] Security Disclosure
+INFO     2026-10-22 04:23:30 [scraper.py:171] 🔗 [HN #5] URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+INFO     2026-10-22 04:23:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-22 04:23:30 [scraper.py:170] 📥 [HN #6] Rust Style Guide
+INFO     2026-10-22 04:23:30 [scraper.py:171] 🔗 [HN #6] URL: https://google.github.io/styleguide/rustguide.html
+INFO     2026-10-22 04:23:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-22 04:23:30 [scraper.py:170] 📥 [HN #7] GitLab critical patch release
+INFO     2026-10-22 04:23:30 [scraper.py:171] 🔗 [HN #7] URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/
+INFO     2026-10-22 04:23:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-22 04:23:30 [scraper.py:170] 📥 [HN #8] Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
+INFO     2026-10-22 04:23:30 [scraper.py:171] 🔗 [HN #8] URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+INFO     2026-10-22 04:23:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-22 04:23:30 [scraper.py:170] 📥 [HN #9] Using LLM for confidence scoring is a bad idea
+INFO     2026-10-22 04:23:30 [scraper.py:171] 🔗 [HN #9] URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
+INFO     2026-10-22 04:23:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-22 04:23:31 [scraper.py:170] 📥 [HN #10] Chain of Thought for Humans
+INFO     2026-10-22 04:23:31 [scraper.py:171] 🔗 [HN #10] URL: https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/
+INFO     2026-10-22 04:23:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-22 04:23:31 [scraper.py:178] 🎉 [HN] All done.
+
