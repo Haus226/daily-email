@@ -44647,3 +44647,36 @@ INFO     2026-10-24 04:18:35 [scraper.py:171] 🔗 [HN #10] URL: https://pudding
 INFO     2026-10-24 04:18:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-24 04:18:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-24 09:22:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-24 09:22:11 [scraper.py:170] 📥 [HN #1] OBS Studio 33
+INFO     2026-10-24 09:22:11 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0
+INFO     2026-10-24 09:22:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-24 09:22:11 [scraper.py:170] 📥 [HN #2] Kimi K3.1 Pro and K3.1 Pro Highspeed
+INFO     2026-10-24 09:22:11 [scraper.py:171] 🔗 [HN #2] URL: https://www.kimi.ai/blog/kimi-k3-1-pro
+INFO     2026-10-24 09:22:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-24 09:22:12 [scraper.py:170] 📥 [HN #3] Physicists trap a single antimatter particle for a month
+INFO     2026-10-24 09:22:12 [scraper.py:171] 🔗 [HN #3] URL: https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/
+INFO     2026-10-24 09:22:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-24 09:22:12 [scraper.py:170] 📥 [HN #4] Today, we hacked what we'd set out to hack: the iPhone
+INFO     2026-10-24 09:22:12 [scraper.py:171] 🔗 [HN #4] URL: https://blog.calif.io/p/iphone
+INFO     2026-10-24 09:22:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-24 09:22:12 [scraper.py:170] 📥 [HN #5] Twelve years of distributed SQLite
+INFO     2026-10-24 09:22:12 [scraper.py:171] 🔗 [HN #5] URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/
+INFO     2026-10-24 09:22:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:170] 📥 [HN #6] How close can pure functional programming get to C?
+INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #6] URL: https://rtfeldman.com/fp-vs-c
+INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:170] 📥 [HN #7] Apple Music 404 Not Found
+INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #7] URL: https://music.apple.com/this-url-doesnt-exist
+INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:170] 📥 [HN #8] Local Wikipedia: Wikipedia, but only for things a half hour walk from you
+INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #8] URL: https://edjefferson.com/localwiki/
+INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:170] 📥 [HN #9] A practical guide to AI image generation, from diffusion to agents
+INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #9] URL: https://danielball.com/notes/ai_image_generation.html
+INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:170] 📥 [HN #10] Bringing uv and ty together
+INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #10] URL: https://astral.sh/blog/uv-ty-integration
+INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-24 09:22:13 [scraper.py:178] 🎉 [HN] All done.
+
