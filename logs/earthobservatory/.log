@@ -22267,3 +22267,24 @@ INFO     2026-10-23 14:42:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-23 14:42:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-24 04:18:30 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-24 04:18:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-24 04:18:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-24 04:18:33 [scraper.py:133] 📥 [EO] Title: El Niño Then and Now
+INFO     2026-10-24 04:18:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-24 04:18:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-24 04:18:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-24 04:18:33 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-24 04:18:34 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-24 04:18:34 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-24 04:18:34 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-24 04:18:34 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-24 04:18:34 [scraper.py:133] 📥 [EO] Title: El Niño Then and Now
+INFO     2026-10-24 04:18:34 [scraper.py:133] 📥 [EO] Title: El Niño Then and Now
+INFO     2026-10-24 04:18:34 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-24 04:18:34 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-24 04:18:34 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-24 04:18:34 [scraper.py:154] ✅ [EO] Successfully fetched.
+
