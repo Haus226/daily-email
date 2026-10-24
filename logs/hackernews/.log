@@ -44680,3 +44680,36 @@ INFO     2026-10-24 09:22:13 [scraper.py:171] 🔗 [HN #10] URL: https://astral.
 INFO     2026-10-24 09:22:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-24 09:22:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-24 13:52:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-24 13:52:06 [scraper.py:170] 📥 [HN #1] I Don't Understand Quantum Physics (2018)
+INFO     2026-10-24 13:52:06 [scraper.py:171] 🔗 [HN #1] URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
+INFO     2026-10-24 13:52:06 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-24 13:52:06 [scraper.py:170] 📥 [HN #2] OBS Studio 33
+INFO     2026-10-24 13:52:06 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0
+INFO     2026-10-24 13:52:06 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-24 13:52:07 [scraper.py:170] 📥 [HN #3] Elon Musk Just Gave Europe a Reason to Replace American Technology
+INFO     2026-10-24 13:52:07 [scraper.py:171] 🔗 [HN #3] URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/
+INFO     2026-10-24 13:52:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-24 13:52:07 [scraper.py:170] 📥 [HN #4] Kimi K3.1 Pro and K3.1 Pro Highspeed
+INFO     2026-10-24 13:52:07 [scraper.py:171] 🔗 [HN #4] URL: https://www.kimi.ai/blog/kimi-k3-1-pro
+INFO     2026-10-24 13:52:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-24 13:52:07 [scraper.py:170] 📥 [HN #5] Around a dozen banking apps began specifically permitting GrapheneOS
+INFO     2026-10-24 13:52:07 [scraper.py:171] 🔗 [HN #5] URL: https://grapheneos.social/@GrapheneOS/117492375462459244
+INFO     2026-10-24 13:52:07 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-24 13:52:07 [scraper.py:170] 📥 [HN #6] Physicists trap a single antimatter particle for a month
+INFO     2026-10-24 13:52:07 [scraper.py:171] 🔗 [HN #6] URL: https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/
+INFO     2026-10-24 13:52:07 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-24 13:52:08 [scraper.py:170] 📥 [HN #7] Today, we hacked what we'd set out to hack: the iPhone
+INFO     2026-10-24 13:52:08 [scraper.py:171] 🔗 [HN #7] URL: https://blog.calif.io/p/iphone
+INFO     2026-10-24 13:52:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-24 13:52:08 [scraper.py:170] 📥 [HN #8] Appreciating the beauty of all your body's scars and scratches
+INFO     2026-10-24 13:52:08 [scraper.py:171] 🔗 [HN #8] URL: https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/
+INFO     2026-10-24 13:52:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-24 13:52:08 [scraper.py:170] 📥 [HN #9] Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
+INFO     2026-10-24 13:52:08 [scraper.py:171] 🔗 [HN #9] URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+INFO     2026-10-24 13:52:08 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-24 13:52:08 [scraper.py:170] 📥 [HN #10] Twelve years of distributed SQLite
+INFO     2026-10-24 13:52:08 [scraper.py:171] 🔗 [HN #10] URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/
+INFO     2026-10-24 13:52:08 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-24 13:52:08 [scraper.py:178] 🎉 [HN] All done.
+
