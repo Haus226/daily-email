@@ -44746,3 +44746,36 @@ INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #10] URL: https://www.spe
 INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-25 04:22:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-25 09:40:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-25 09:40:29 [scraper.py:170] 📥 [HN #1] Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism
+INFO     2026-10-25 09:40:29 [scraper.py:171] 🔗 [HN #1] URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order
+INFO     2026-10-25 09:40:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-25 09:40:29 [scraper.py:170] 📥 [HN #2] We should be more ambitious with the software we build
+INFO     2026-10-25 09:40:29 [scraper.py:171] 🔗 [HN #2] URL: https://danluu.com/ambitious/
+INFO     2026-10-25 09:40:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-25 09:40:30 [scraper.py:170] 📥 [HN #3] Cerebras Deploys Trillion-Parameter AI Models
+INFO     2026-10-25 09:40:30 [scraper.py:171] 🔗 [HN #3] URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+INFO     2026-10-25 09:40:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-25 09:40:30 [scraper.py:170] 📥 [HN #4] How Japanese Dried Bonito Is Made
+INFO     2026-10-25 09:40:30 [scraper.py:171] 🔗 [HN #4] URL: https://kottke.org/26/10/how-japanese-dried-bonito-is-made
+INFO     2026-10-25 09:40:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-25 09:40:30 [scraper.py:170] 📥 [HN #5] The Goose Programming Language
+INFO     2026-10-25 09:40:30 [scraper.py:171] 🔗 [HN #5] URL: https://aardappel.github.io/goose/
+INFO     2026-10-25 09:40:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-25 09:40:30 [scraper.py:170] 📥 [HN #6] SpeedCrunch 1.1
+INFO     2026-10-25 09:40:30 [scraper.py:171] 🔗 [HN #6] URL: https://www.speedcrunch.org/
+INFO     2026-10-25 09:40:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-25 09:40:31 [scraper.py:170] 📥 [HN #7] Small Programs and Languages
+INFO     2026-10-25 09:40:31 [scraper.py:171] 🔗 [HN #7] URL: https://ratfactor.com/cards/pl-small
+INFO     2026-10-25 09:40:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-25 09:40:31 [scraper.py:170] 📥 [HN #8] Why Gopher in 2026?
+INFO     2026-10-25 09:40:31 [scraper.py:171] 🔗 [HN #8] URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
+INFO     2026-10-25 09:40:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-25 09:40:31 [scraper.py:170] 📥 [HN #9] America has lost 200k of jobs in media, film and the arts. How much is AI?
+INFO     2026-10-25 09:40:31 [scraper.py:171] 🔗 [HN #9] URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+INFO     2026-10-25 09:40:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-25 09:40:31 [scraper.py:170] 📥 [HN #10] Rewriting a Commercial Engine in Jai
+INFO     2026-10-25 09:40:31 [scraper.py:171] 🔗 [HN #10] URL: https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch
+INFO     2026-10-25 09:40:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-25 09:40:31 [scraper.py:178] 🎉 [HN] All done.
+
