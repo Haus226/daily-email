@@ -44779,3 +44779,36 @@ INFO     2026-10-25 09:40:31 [scraper.py:171] 🔗 [HN #10] URL: https://polygon
 INFO     2026-10-25 09:40:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-25 09:40:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-25 14:08:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-25 14:08:25 [scraper.py:170] 📥 [HN #1] Tool book of a Nuremberg knight from 1505
+INFO     2026-10-25 14:08:25 [scraper.py:171] 🔗 [HN #1] URL: https://loeffelholz-codex.org/en/
+INFO     2026-10-25 14:08:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-25 14:08:25 [scraper.py:170] 📥 [HN #2] Challenge Is Gone
+INFO     2026-10-25 14:08:25 [scraper.py:171] 🔗 [HN #2] URL: https://blog.alxgsv.com/challenge-is-gone/
+INFO     2026-10-25 14:08:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-25 14:08:25 [scraper.py:170] 📥 [HN #3] fheroes2: A recreation of Heroes of Might and Magic II game engine
+INFO     2026-10-25 14:08:25 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/ihhub/fheroes2
+INFO     2026-10-25 14:08:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-25 14:08:25 [scraper.py:170] 📥 [HN #4] Show HN: Farol – a risk map of a pull request for the person who approves it
+INFO     2026-10-25 14:08:25 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/winnin/farol
+INFO     2026-10-25 14:08:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-25 14:08:26 [scraper.py:170] 📥 [HN #5] We should be more ambitious with the software we build
+INFO     2026-10-25 14:08:26 [scraper.py:171] 🔗 [HN #5] URL: https://danluu.com/ambitious/
+INFO     2026-10-25 14:08:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-25 14:08:26 [scraper.py:170] 📥 [HN #6] Cerebras Deploys Trillion-Parameter AI Models
+INFO     2026-10-25 14:08:26 [scraper.py:171] 🔗 [HN #6] URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+INFO     2026-10-25 14:08:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-25 14:08:26 [scraper.py:170] 📥 [HN #7] Samsung running a TensorFlow lite model on 960x540 image to track you
+INFO     2026-10-25 14:08:26 [scraper.py:171] 🔗 [HN #7] URL: https://twitter.com/mike64_t/status/2114150399406202896
+INFO     2026-10-25 14:08:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-25 14:08:26 [scraper.py:170] 📥 [HN #8] How Japanese Dried Bonito Is Made
+INFO     2026-10-25 14:08:26 [scraper.py:171] 🔗 [HN #8] URL: https://kottke.org/26/10/how-japanese-dried-bonito-is-made
+INFO     2026-10-25 14:08:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-25 14:08:26 [scraper.py:170] 📥 [HN #9] The Goose Programming Language
+INFO     2026-10-25 14:08:27 [scraper.py:171] 🔗 [HN #9] URL: https://aardappel.github.io/goose/
+INFO     2026-10-25 14:08:27 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-25 14:08:27 [scraper.py:170] 📥 [HN #10] Rewriting a Commercial Engine in Jai
+INFO     2026-10-25 14:08:27 [scraper.py:171] 🔗 [HN #10] URL: https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch
+INFO     2026-10-25 14:08:27 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-25 14:08:27 [scraper.py:178] 🎉 [HN] All done.
+
