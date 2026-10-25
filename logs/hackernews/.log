@@ -44713,3 +44713,36 @@ INFO     2026-10-24 13:52:08 [scraper.py:171] 🔗 [HN #10] URL: https://philipo
 INFO     2026-10-24 13:52:08 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-24 13:52:08 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-25 04:22:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-25 04:22:09 [scraper.py:170] 📥 [HN #1] Xbox Turns Down Netflix $500M Offer
+INFO     2026-10-25 04:22:09 [scraper.py:171] 🔗 [HN #1] URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/
+INFO     2026-10-25 04:22:09 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-25 04:22:09 [scraper.py:170] 📥 [HN #2] We should be more ambitious with the software we build
+INFO     2026-10-25 04:22:09 [scraper.py:171] 🔗 [HN #2] URL: https://danluu.com/ambitious/
+INFO     2026-10-25 04:22:09 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-25 04:22:09 [scraper.py:170] 📥 [HN #3] Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness
+INFO     2026-10-25 04:22:09 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/slee-persis/GVS5H
+INFO     2026-10-25 04:22:09 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-25 04:22:09 [scraper.py:170] 📥 [HN #4] Cerebras Deploys Trillion-Parameter AI Models
+INFO     2026-10-25 04:22:09 [scraper.py:171] 🔗 [HN #4] URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+INFO     2026-10-25 04:22:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-25 04:22:09 [scraper.py:170] 📥 [HN #5] The Goose Programming Language
+INFO     2026-10-25 04:22:09 [scraper.py:171] 🔗 [HN #5] URL: https://aardappel.github.io/goose/
+INFO     2026-10-25 04:22:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:170] 📥 [HN #6] Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
+INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #6] URL: https://missileer.watch
+INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:170] 📥 [HN #7] America has lost 200k of jobs in media, film and the arts. How much is AI?
+INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #7] URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:170] 📥 [HN #8] Small Programs and Languages
+INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #8] URL: https://ratfactor.com/cards/pl-small
+INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:170] 📥 [HN #9] FindMyWeb: Apple Find My, reverse enginiered
+INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #9] URL: https://codeberg.org/Misom/FindMyWeb
+INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:170] 📥 [HN #10] SpeedCrunch 1.1
+INFO     2026-10-25 04:22:10 [scraper.py:171] 🔗 [HN #10] URL: https://www.speedcrunch.org/
+INFO     2026-10-25 04:22:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-25 04:22:10 [scraper.py:178] 🎉 [HN] All done.
+
