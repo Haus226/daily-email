@@ -44845,3 +44845,36 @@ INFO     2026-10-26 04:25:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-10-26 04:25:39 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-26 04:25:39 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-26 10:53:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-26 10:53:55 [scraper.py:170] 📥 [HN #1] Switzerland. Block by block. At 1:1 scale
+INFO     2026-10-26 10:53:55 [scraper.py:171] 🔗 [HN #1] URL: https://blocks.manifold3d.ch/
+INFO     2026-10-26 10:53:55 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-26 10:53:55 [scraper.py:170] 📥 [HN #2] Show HN: TitleArt – Make text like it's 1997
+INFO     2026-10-26 10:53:55 [scraper.py:171] 🔗 [HN #2] URL: https://titleart.dvy.io/
+INFO     2026-10-26 10:53:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-26 10:53:55 [scraper.py:170] 📥 [HN #3] PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
+INFO     2026-10-26 10:53:55 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/KrushnaVardhanReddy/PaperPilot
+INFO     2026-10-26 10:53:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-26 10:53:55 [scraper.py:170] 📥 [HN #4] Behind the scenes at the NeXT Computer office
+INFO     2026-10-26 10:53:55 [scraper.py:171] 🔗 [HN #4] URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry
+INFO     2026-10-26 10:53:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-26 10:53:55 [scraper.py:170] 📥 [HN #5] Dolly Parton's Imagination Library
+INFO     2026-10-26 10:53:55 [scraper.py:171] 🔗 [HN #5] URL: https://imaginationlibrary.com/
+INFO     2026-10-26 10:53:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:170] 📥 [HN #6] Growing Trees
+INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #6] URL: https://brashandplucky.com/2026/10/15/growing-trees.html
+INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:170] 📥 [HN #7] Birdwatching rewires the brain and slows cognitive decline
+INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline
+INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:170] 📥 [HN #8] Show HN: A Truly Modular Keyboard
+INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/notaroomba/keybytes
+INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:170] 📥 [HN #9] Overgrown, when plants invade your abandoned tabs
+INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #9] URL: https://charliegerard.dev/blog/overgrown-extension/
+INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:170] 📥 [HN #10] Attention Is Not What You Need (2025)
+INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/2512.19428
+INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-26 10:53:56 [scraper.py:178] 🎉 [HN] All done.
+
