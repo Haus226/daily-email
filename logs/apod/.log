@@ -6516,3 +6516,6 @@ ERROR    2026-10-26 04:25:38 [scraper.py:71] ❌ [APOD] Failed to fetch: list in
 INFO     2026-10-26 10:53:54 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
 ERROR    2026-10-26 10:53:55 [scraper.py:71] ❌ [APOD] Failed to fetch: list index out of range
 
+INFO     2026-10-26 16:34:18 [scraper.py:20] 🚀 [APOD] Starting to fetch Astronomy Picture of the Day
+ERROR    2026-10-26 16:34:19 [scraper.py:71] ❌ [APOD] Failed to fetch: list index out of range
+

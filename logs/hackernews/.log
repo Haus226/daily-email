@@ -44878,3 +44878,36 @@ INFO     2026-10-26 10:53:56 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.o
 INFO     2026-10-26 10:53:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-26 10:53:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-26 16:34:18 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-26 16:34:19 [scraper.py:170] 📥 [HN #1] Sebastian Raschka's from-scratch video course on building reasoning models
+INFO     2026-10-26 16:34:19 [scraper.py:171] 🔗 [HN #1] URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
+INFO     2026-10-26 16:34:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-26 16:34:19 [scraper.py:170] 📥 [HN #2] Anthropic S-1
+INFO     2026-10-26 16:34:19 [scraper.py:171] 🔗 [HN #2] URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+INFO     2026-10-26 16:34:19 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-26 16:34:19 [scraper.py:170] 📥 [HN #3] CSS-Tricks has a new owner
+INFO     2026-10-26 16:34:19 [scraper.py:171] 🔗 [HN #3] URL: https://css-tricks.com/css-tricks-has-a-new-owner/
+INFO     2026-10-26 16:34:19 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-26 16:34:19 [scraper.py:170] 📥 [HN #4] Fixing Tool-Call Accuracy in vLLM
+INFO     2026-10-26 16:34:19 [scraper.py:171] 🔗 [HN #4] URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm
+INFO     2026-10-26 16:34:19 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-26 16:34:20 [scraper.py:170] 📥 [HN #5] SIMD-accelerated computer vision on a $2 microcontroller
+INFO     2026-10-26 16:34:20 [scraper.py:171] 🔗 [HN #5] URL: https://shraiwi.com/blog/simd-fast-esp32s3/
+INFO     2026-10-26 16:34:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-26 16:34:20 [scraper.py:170] 📥 [HN #6] Pharo 14
+INFO     2026-10-26 16:34:20 [scraper.py:171] 🔗 [HN #6] URL: https://pharo.org/news/2026-10-26-Pharo14Release.html
+INFO     2026-10-26 16:34:20 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-26 16:34:20 [scraper.py:170] 📥 [HN #7] One of the Greatest Inventions in the History of Human Transport
+INFO     2026-10-26 16:34:20 [scraper.py:171] 🔗 [HN #7] URL: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html
+INFO     2026-10-26 16:34:20 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-26 16:34:20 [scraper.py:170] 📥 [HN #8] Birdwatching rewires the brain and slows cognitive decline
+INFO     2026-10-26 16:34:20 [scraper.py:171] 🔗 [HN #8] URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline
+INFO     2026-10-26 16:34:20 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-26 16:34:20 [scraper.py:170] 📥 [HN #9] Switzerland. Block by block. At 1:1 scale
+INFO     2026-10-26 16:34:20 [scraper.py:171] 🔗 [HN #9] URL: https://blocks.manifold3d.ch/
+INFO     2026-10-26 16:34:20 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-26 16:34:21 [scraper.py:170] 📥 [HN #10] Partyline: A group voice application for Reticulum, built on LXST
+INFO     2026-10-26 16:34:21 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/RFnexus/partyline
+INFO     2026-10-26 16:34:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-26 16:34:21 [scraper.py:178] 🎉 [HN] All done.
+
