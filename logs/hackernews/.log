@@ -44812,3 +44812,36 @@ INFO     2026-10-25 14:08:27 [scraper.py:171] 🔗 [HN #10] URL: https://polygon
 INFO     2026-10-25 14:08:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-25 14:08:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-26 04:25:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-26 04:25:37 [scraper.py:170] 📥 [HN #1] Show HN: TitleArt – Make text like it's 1997
+INFO     2026-10-26 04:25:37 [scraper.py:171] 🔗 [HN #1] URL: https://titleart.dvy.io/
+INFO     2026-10-26 04:25:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-26 04:25:38 [scraper.py:170] 📥 [HN #2] Dolly Parton's Imagination Library
+INFO     2026-10-26 04:25:38 [scraper.py:171] 🔗 [HN #2] URL: https://imaginationlibrary.com/
+INFO     2026-10-26 04:25:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-26 04:25:38 [scraper.py:170] 📥 [HN #3] PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP
+INFO     2026-10-26 04:25:38 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/KrushnaVardhanReddy/PaperPilot
+INFO     2026-10-26 04:25:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-26 04:25:38 [scraper.py:170] 📥 [HN #4] Show HN: A Truly Modular Keyboard
+INFO     2026-10-26 04:25:38 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/notaroomba/keybytes
+INFO     2026-10-26 04:25:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-26 04:25:38 [scraper.py:170] 📥 [HN #5] Overgrown, when plants invade your abandoned tabs
+INFO     2026-10-26 04:25:38 [scraper.py:171] 🔗 [HN #5] URL: https://charliegerard.dev/blog/overgrown-extension/
+INFO     2026-10-26 04:25:38 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-26 04:25:38 [scraper.py:170] 📥 [HN #6] Behind the scenes at the NeXT Computer office
+INFO     2026-10-26 04:25:38 [scraper.py:171] 🔗 [HN #6] URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry
+INFO     2026-10-26 04:25:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-26 04:25:39 [scraper.py:170] 📥 [HN #7] Brazil elections: Lula secures fourth term after dramatic comeback
+INFO     2026-10-26 04:25:39 [scraper.py:171] 🔗 [HN #7] URL: https://www.bbc.com/news/articles/cmvg7p001qj9o
+INFO     2026-10-26 04:25:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-26 04:25:39 [scraper.py:170] 📥 [HN #8] Attention Is Not What You Need (2025)
+INFO     2026-10-26 04:25:39 [scraper.py:171] 🔗 [HN #8] URL: https://arxiv.org/abs/2512.19428
+INFO     2026-10-26 04:25:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-26 04:25:39 [scraper.py:170] 📥 [HN #9] F-Zero X on Nintendo 3DS
+INFO     2026-10-26 04:25:39 [scraper.py:171] 🔗 [HN #9] URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
+INFO     2026-10-26 04:25:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-26 04:25:39 [scraper.py:170] 📥 [HN #10] IBM CEO says open weight models are now irresistibly good and cheap on-prem
+INFO     2026-10-26 04:25:39 [scraper.py:171] 🔗 [HN #10] URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640
+INFO     2026-10-26 04:25:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-26 04:25:39 [scraper.py:178] 🎉 [HN] All done.
+
