@@ -44944,3 +44944,36 @@ INFO     2026-10-27 04:44:59 [scraper.py:171] 🔗 [HN #10] URL: https://css-tri
 INFO     2026-10-27 04:44:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-27 04:44:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-27 10:17:45 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-27 10:17:45 [scraper.py:170] 📥 [HN #1] Three new discoveries in mathematics, computer science, and physics
+INFO     2026-10-27 10:17:45 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/
+INFO     2026-10-27 10:17:45 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #2] The Mythical Man-Month in the Age of AI
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #2] URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #3] The Exponential Time Hypothesis Is False [pdf]
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #4] New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #4] URL: https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #5] AI is ruining haunted houses
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #5] URL: https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #6] Sebastian Raschka's from-scratch video course on building reasoning models
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #6] URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-27 10:17:46 [scraper.py:170] 📥 [HN #7] Show HN: Encarta 95 Web
+INFO     2026-10-27 10:17:46 [scraper.py:171] 🔗 [HN #7] URL: https://benwinding.github.io/encarta_95_web/#/article/Art
+INFO     2026-10-27 10:17:46 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-27 10:17:47 [scraper.py:170] 📥 [HN #8] Oldest GUI application that still runs on Windows 11
+INFO     2026-10-27 10:17:47 [scraper.py:171] 🔗 [HN #8] URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
+INFO     2026-10-27 10:17:47 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-27 10:17:47 [scraper.py:170] 📥 [HN #9] I still teach OpenGL ES 3.0
+INFO     2026-10-27 10:17:47 [scraper.py:171] 🔗 [HN #9] URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html
+INFO     2026-10-27 10:17:47 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-27 10:17:47 [scraper.py:170] 📥 [HN #10] Writing about pratt parsing so I remember it
+INFO     2026-10-27 10:17:47 [scraper.py:171] 🔗 [HN #10] URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html
+INFO     2026-10-27 10:17:47 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-27 10:17:47 [scraper.py:178] 🎉 [HN] All done.
+
