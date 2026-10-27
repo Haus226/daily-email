@@ -44911,3 +44911,36 @@ INFO     2026-10-26 16:34:21 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-10-26 16:34:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-26 16:34:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-27 04:44:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-27 04:44:57 [scraper.py:170] 📥 [HN #1] Three new discoveries in mathematics, computer science, and physics
+INFO     2026-10-27 04:44:57 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/
+INFO     2026-10-27 04:44:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-27 04:44:57 [scraper.py:170] 📥 [HN #2] The Exponential Time Hypothesis Is False [pdf]
+INFO     2026-10-27 04:44:57 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf
+INFO     2026-10-27 04:44:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-27 04:44:57 [scraper.py:170] 📥 [HN #3] Sebastian Raschka's from-scratch video course on building reasoning models
+INFO     2026-10-27 04:44:57 [scraper.py:171] 🔗 [HN #3] URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
+INFO     2026-10-27 04:44:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-27 04:44:57 [scraper.py:170] 📥 [HN #4] Oldest GUI application that still runs on Windows 11
+INFO     2026-10-27 04:44:57 [scraper.py:171] 🔗 [HN #4] URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
+INFO     2026-10-27 04:44:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-27 04:44:58 [scraper.py:170] 📥 [HN #5] 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+INFO     2026-10-27 04:44:58 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/otya128/winevdm
+INFO     2026-10-27 04:44:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-27 04:44:58 [scraper.py:170] 📥 [HN #6] Type Server Protocol
+INFO     2026-10-27 04:44:58 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md
+INFO     2026-10-27 04:44:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-27 04:44:58 [scraper.py:170] 📥 [HN #7] Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+INFO     2026-10-27 04:44:58 [scraper.py:171] 🔗 [HN #7] URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+INFO     2026-10-27 04:44:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-27 04:44:59 [scraper.py:170] 📥 [HN #8] APC says let there be light, with standards to speed up photonics manufacturing
+INFO     2026-10-27 04:44:59 [scraper.py:171] 🔗 [HN #8] URL: https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950
+INFO     2026-10-27 04:44:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-27 04:44:59 [scraper.py:170] 📥 [HN #9] A Printer Printing onto Paper
+INFO     2026-10-27 04:44:59 [scraper.py:171] 🔗 [HN #9] URL: https://twitter.com/macrofying/status/2112904628509528219
+INFO     2026-10-27 04:44:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-27 04:44:59 [scraper.py:170] 📥 [HN #10] CSS-Tricks has a new owner
+INFO     2026-10-27 04:44:59 [scraper.py:171] 🔗 [HN #10] URL: https://css-tricks.com/css-tricks-has-a-new-owner/
+INFO     2026-10-27 04:44:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-27 04:44:59 [scraper.py:178] 🎉 [HN] All done.
+
