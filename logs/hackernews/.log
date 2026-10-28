@@ -45076,3 +45076,36 @@ INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #10] URL: https://healeyc
 INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-28 11:10:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-28 16:27:58 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-28 16:27:59 [scraper.py:170] 📥 [HN #1] Ten days later, Git on macOS still trusts the compromised eMudhra certificates
+INFO     2026-10-28 16:27:59 [scraper.py:171] 🔗 [HN #1] URL: https://emudhra.we-have-a-problem.com/apple.html
+INFO     2026-10-28 16:27:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-28 16:27:59 [scraper.py:170] 📥 [HN #2] CNC Stone Carving
+INFO     2026-10-28 16:27:59 [scraper.py:171] 🔗 [HN #2] URL: https://carmelitegothic.com/cnc-stone-carving/
+INFO     2026-10-28 16:27:59 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-28 16:27:59 [scraper.py:170] 📥 [HN #3] Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
+INFO     2026-10-28 16:27:59 [scraper.py:171] 🔗 [HN #3] URL: https://surgehq.ai/blog/dayjob-tax
+INFO     2026-10-28 16:27:59 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-28 16:28:00 [scraper.py:170] 📥 [HN #4] Start Doing Graph Theory
+INFO     2026-10-28 16:28:00 [scraper.py:171] 🔗 [HN #4] URL: https://vertex.degree/
+INFO     2026-10-28 16:28:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-28 16:28:00 [scraper.py:170] 📥 [HN #5] Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen
+INFO     2026-10-28 16:28:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.circuithub.com/post/unveiling-the-grid
+INFO     2026-10-28 16:28:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-28 16:28:01 [scraper.py:170] 📥 [HN #6] Kentucky man becomes the first humanist granted religious exemption from AI
+INFO     2026-10-28 16:28:01 [scraper.py:171] 🔗 [HN #6] URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/
+INFO     2026-10-28 16:28:01 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-28 16:28:01 [scraper.py:170] 📥 [HN #7] ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History
+INFO     2026-10-28 16:28:01 [scraper.py:171] 🔗 [HN #7] URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+INFO     2026-10-28 16:28:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-28 16:28:01 [scraper.py:170] 📥 [HN #8] Emacs Turns 50
+INFO     2026-10-28 16:28:01 [scraper.py:171] 🔗 [HN #8] URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/
+INFO     2026-10-28 16:28:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-28 16:28:01 [scraper.py:170] 📥 [HN #9] Gaussian Splats part 3: There's always a bigger scene
+INFO     2026-10-28 16:28:01 [scraper.py:171] 🔗 [HN #9] URL: https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene
+INFO     2026-10-28 16:28:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-28 16:28:02 [scraper.py:170] 📥 [HN #10] From confession to conspiracy: How the Wedgewood fake polls story spread
+INFO     2026-10-28 16:28:02 [scraper.py:171] 🔗 [HN #10] URL: https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/
+INFO     2026-10-28 16:28:02 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-28 16:28:02 [scraper.py:178] 🎉 [HN] All done.
+
