@@ -45043,3 +45043,36 @@ INFO     2026-10-28 05:18:44 [scraper.py:171] 🔗 [HN #10] URL: https://bret.dk
 INFO     2026-10-28 05:18:44 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-28 05:18:44 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-28 11:10:33 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-28 11:10:33 [scraper.py:170] 📥 [HN #1] Wealth Inequality in America drawn to scale
+INFO     2026-10-28 11:10:33 [scraper.py:171] 🔗 [HN #1] URL: https://dreamagainusa.org/
+INFO     2026-10-28 11:10:33 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-28 11:10:34 [scraper.py:170] 📥 [HN #2] Start Doing Graph Theory
+INFO     2026-10-28 11:10:34 [scraper.py:171] 🔗 [HN #2] URL: https://vertex.degree/
+INFO     2026-10-28 11:10:34 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-28 11:10:34 [scraper.py:170] 📥 [HN #3] Git for the US Code
+INFO     2026-10-28 11:10:34 [scraper.py:171] 🔗 [HN #3] URL: https://lexifina.com/blog/git-for-the-us-code
+INFO     2026-10-28 11:10:34 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-28 11:10:34 [scraper.py:170] 📥 [HN #4] Genie 4
+INFO     2026-10-28 11:10:34 [scraper.py:171] 🔗 [HN #4] URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+INFO     2026-10-28 11:10:34 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-28 11:10:34 [scraper.py:170] 📥 [HN #5] Ghostty 1.4
+INFO     2026-10-28 11:10:34 [scraper.py:171] 🔗 [HN #5] URL: https://ghostty.org/docs/install/release-notes/1-4-0
+INFO     2026-10-28 11:10:34 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:170] 📥 [HN #6] Ink droplets in motion snag top prize in Nikon Small World contest
+INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #6] URL: https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
+INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:170] 📥 [HN #7] MacOS Extensions Pack for the Apple Network Server v1.0
+INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #7] URL: http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html
+INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:170] 📥 [HN #8] Survival LLM: AI assistant and emergency library that runs on your own computer
+INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #8] URL: https://www.brangus.io/survival-llm
+INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:170] 📥 [HN #9] Tailscale SSH: Investigation and remediation update
+INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #9] URL: https://tailscale.com/ssh-investigation-update
+INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:170] 📥 [HN #10] Decompiling Fast Food Tycoon 2: Drawing the World
+INFO     2026-10-28 11:10:35 [scraper.py:171] 🔗 [HN #10] URL: https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world
+INFO     2026-10-28 11:10:35 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-28 11:10:35 [scraper.py:178] 🎉 [HN] All done.
+
