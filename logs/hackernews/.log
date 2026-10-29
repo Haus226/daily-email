@@ -45175,3 +45175,36 @@ INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #10] URL: https://electre
 INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-29 11:23:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-29 16:40:29 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-29 16:40:30 [scraper.py:170] 📥 [HN #1] We're releasing the weights of Mistral Large 4
+INFO     2026-10-29 16:40:30 [scraper.py:171] 🔗 [HN #1] URL: https://mistral.ai/news/mistral-large-4-oss/
+INFO     2026-10-29 16:40:30 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-29 16:40:30 [scraper.py:170] 📥 [HN #2] H.264 Is Magic (2016)
+INFO     2026-10-29 16:40:30 [scraper.py:171] 🔗 [HN #2] URL: https://sidbala.com/h-264-is-magic/
+INFO     2026-10-29 16:40:30 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-29 16:40:30 [scraper.py:170] 📥 [HN #3] Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks
+INFO     2026-10-29 16:40:30 [scraper.py:171] 🔗 [HN #3] URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler
+INFO     2026-10-29 16:40:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #4] Zombie stats: Where the numbers AI quotes come from
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #4] URL: https://trakkr.ai/trakkr-research/zombie-stats
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #5] DoorDash to Acquire Instacart
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #5] URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #6] Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #6] URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #7] Mexico is a showroom for electric vehicles you can't buy in the U.S.
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #7] URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #8] Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=50291116
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-29 16:40:31 [scraper.py:170] 📥 [HN #9] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+INFO     2026-10-29 16:40:31 [scraper.py:171] 🔗 [HN #9] URL: https://divagr.com/blog/qwenputer
+INFO     2026-10-29 16:40:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-29 16:40:32 [scraper.py:170] 📥 [HN #10] Java's new AOT cache feature is in a rough state
+INFO     2026-10-29 16:40:32 [scraper.py:171] 🔗 [HN #10] URL: https://xpipe.io/blog/java-aot-cache
+INFO     2026-10-29 16:40:32 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-29 16:40:32 [scraper.py:178] 🎉 [HN] All done.
+
