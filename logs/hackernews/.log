@@ -45142,3 +45142,36 @@ INFO     2026-10-29 05:29:23 [scraper.py:171] 🔗 [HN #10] URL: https://blog.go
 INFO     2026-10-29 05:29:23 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-29 05:29:23 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-29 11:23:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-29 11:23:40 [scraper.py:170] 📥 [HN #1] Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+INFO     2026-10-29 11:23:40 [scraper.py:171] 🔗 [HN #1] URL: https://divagr.com/blog/qwenputer
+INFO     2026-10-29 11:23:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-29 11:23:40 [scraper.py:170] 📥 [HN #2] Why is this fingerprinting script creating bioweapons?
+INFO     2026-10-29 11:23:40 [scraper.py:171] 🔗 [HN #2] URL: https://nullpt.rs/fingerprinting-bioweapons
+INFO     2026-10-29 11:23:40 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-29 11:23:41 [scraper.py:170] 📥 [HN #3] Zero click, silent, remote Android DoS
+INFO     2026-10-29 11:23:41 [scraper.py:171] 🔗 [HN #3] URL: https://smsofdeath.com/
+INFO     2026-10-29 11:23:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-29 11:23:41 [scraper.py:170] 📥 [HN #4] Getting debug access on a Brother printer over Telnet
+INFO     2026-10-29 11:23:41 [scraper.py:171] 🔗 [HN #4] URL: https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/
+INFO     2026-10-29 11:23:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-29 11:23:41 [scraper.py:170] 📥 [HN #5] Forging a Microsoft Edge Full Chain with Logic Bugs Only
+INFO     2026-10-29 11:23:41 [scraper.py:171] 🔗 [HN #5] URL: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+INFO     2026-10-29 11:23:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:170] 📥 [HN #6] MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark
+INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #6] URL: https://dmux.github.io/minilake/
+INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:170] 📥 [HN #7] OpenAI's agents talked to each other through the CPU Cache
+INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #7] URL: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
+INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:170] 📥 [HN #8] A Health Update
+INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #8] URL: https://furbo.org/2026/10/28/a-health-update/
+INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:170] 📥 [HN #9] StackOverflow now gets fewer than 1000 questions a month
+INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #9] URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
+INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:170] 📥 [HN #10] The US added a record 20.2 GWh of battery storage in just 3 months
+INFO     2026-10-29 11:23:42 [scraper.py:171] 🔗 [HN #10] URL: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/
+INFO     2026-10-29 11:23:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-29 11:23:42 [scraper.py:178] 🎉 [HN] All done.
+

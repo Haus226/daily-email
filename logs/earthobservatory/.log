@@ -22603,3 +22603,24 @@ INFO     2026-10-29 05:29:23 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-10-29 05:29:23 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-10-29 11:23:39 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-29 11:23:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-29 11:23:40 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-29 11:23:40 [scraper.py:133] 📥 [EO] Title: Arnab Strikes India
+INFO     2026-10-29 11:23:40 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-29 11:23:40 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-29 11:23:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-29 11:23:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-10-29 11:23:41 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-29 11:23:41 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-10-29 11:23:41 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-29 11:23:41 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-10-29 11:23:41 [scraper.py:133] 📥 [EO] Title: Arnab Strikes India
+INFO     2026-10-29 11:23:41 [scraper.py:133] 📥 [EO] Title: Arnab Strikes India
+INFO     2026-10-29 11:23:41 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-29 11:23:41 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-10-29 11:23:41 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-10-29 11:23:41 [scraper.py:154] ✅ [EO] Successfully fetched.
+
