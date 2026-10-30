@@ -45274,3 +45274,36 @@ INFO     2026-10-30 11:15:37 [scraper.py:171] 🔗 [HN #10] URL: https://labs.yc
 INFO     2026-10-30 11:15:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-30 11:15:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-30 16:33:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-30 16:33:24 [scraper.py:170] 📥 [HN #1] AI Isn't Replacing SREs. It's Deskilling Them
+INFO     2026-10-30 16:33:24 [scraper.py:171] 🔗 [HN #1] URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
+INFO     2026-10-30 16:33:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-30 16:33:25 [scraper.py:170] 📥 [HN #2] Northflank Breached
+INFO     2026-10-30 16:33:25 [scraper.py:171] 🔗 [HN #2] URL: https://status.northflank.com
+INFO     2026-10-30 16:33:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-30 16:33:25 [scraper.py:170] 📥 [HN #3] Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+INFO     2026-10-30 16:33:25 [scraper.py:171] 🔗 [HN #3] URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+INFO     2026-10-30 16:33:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-30 16:33:25 [scraper.py:170] 📥 [HN #4] Azure's Weakest Link – Five Full Cross-Tenant Compromises
+INFO     2026-10-30 16:33:25 [scraper.py:171] 🔗 [HN #4] URL: https://www.binarysecurity.no/posts/2026/10/one-root-case
+INFO     2026-10-30 16:33:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-30 16:33:25 [scraper.py:170] 📥 [HN #5] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech
+INFO     2026-10-30 16:33:25 [scraper.py:171] 🔗 [HN #5] URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead
+INFO     2026-10-30 16:33:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:170] 📥 [HN #6] The Federated Code Forge
+INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #6] URL: https://tangled.org/blog/forge/
+INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:170] 📥 [HN #7] Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It
+INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #7] URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no
+INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:170] 📥 [HN #8] Binance-hacker-1029 – $5.6B stolen from Binance
+INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #8] URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:170] 📥 [HN #9] I didn't know I was lacking in Vitamin D until I collapsed at work
+INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #9] URL: https://www.bbc.com/news/articles/cm78pxxe55v0o
+INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:170] 📥 [HN #10] The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes
+INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-30 16:33:26 [scraper.py:178] 🎉 [HN] All done.
+
