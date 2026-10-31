@@ -45307,3 +45307,36 @@ INFO     2026-10-30 16:33:26 [scraper.py:171] 🔗 [HN #10] URL: https://www.wir
 INFO     2026-10-30 16:33:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-30 16:33:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-31 05:15:42 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-31 05:15:43 [scraper.py:170] 📥 [HN #1] Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+INFO     2026-10-31 05:15:43 [scraper.py:171] 🔗 [HN #1] URL: https://tng.episodle.com/
+INFO     2026-10-31 05:15:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-31 05:15:43 [scraper.py:170] 📥 [HN #2] Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+INFO     2026-10-31 05:15:43 [scraper.py:171] 🔗 [HN #2] URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+INFO     2026-10-31 05:15:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-31 05:15:43 [scraper.py:170] 📥 [HN #3] Cloudflare Turnstile solver library (no headless browser required)
+INFO     2026-10-31 05:15:43 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/chris124567/cfsolve
+INFO     2026-10-31 05:15:43 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-31 05:15:43 [scraper.py:170] 📥 [HN #4] My favourite PowerMac is a Nintendo Wii
+INFO     2026-10-31 05:15:43 [scraper.py:171] 🔗 [HN #4] URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+INFO     2026-10-31 05:15:43 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-31 05:15:44 [scraper.py:170] 📥 [HN #5] Tell HN: Scribd Breached
+INFO     2026-10-31 05:15:44 [scraper.py:171] 🔗 [HN #5] URL: https://news.ycombinator.com/item?id=50312756
+INFO     2026-10-31 05:15:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-31 05:15:44 [scraper.py:170] 📥 [HN #6] Northflank Breached
+INFO     2026-10-31 05:15:44 [scraper.py:171] 🔗 [HN #6] URL: https://status.northflank.com
+INFO     2026-10-31 05:15:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-31 05:15:44 [scraper.py:170] 📥 [HN #7] The $6.3B Binance hack was pulled off in just 20 minutes
+INFO     2026-10-31 05:15:44 [scraper.py:171] 🔗 [HN #7] URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+INFO     2026-10-31 05:15:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-31 05:15:44 [scraper.py:170] 📥 [HN #8] Breaking the open web won't stop the bad bots
+INFO     2026-10-31 05:15:44 [scraper.py:171] 🔗 [HN #8] URL: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/
+INFO     2026-10-31 05:15:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-31 05:15:44 [scraper.py:170] 📥 [HN #9] Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death
+INFO     2026-10-31 05:15:44 [scraper.py:171] 🔗 [HN #9] URL: https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397
+INFO     2026-10-31 05:15:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-31 05:15:45 [scraper.py:170] 📥 [HN #10] Show HN: A working Nintendo in ~1GB of Qwen weights
+INFO     2026-10-31 05:15:45 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/dbreunig/nesformer
+INFO     2026-10-31 05:15:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-31 05:15:45 [scraper.py:178] 🎉 [HN] All done.
+
