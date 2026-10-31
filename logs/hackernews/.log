@@ -45340,3 +45340,36 @@ INFO     2026-10-31 05:15:45 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-10-31 05:15:45 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-31 05:15:45 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-31 10:48:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-31 10:48:29 [scraper.py:170] 📥 [HN #1] Serbia just elected the world's brainiest parliament
+INFO     2026-10-31 10:48:29 [scraper.py:171] 🔗 [HN #1] URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
+INFO     2026-10-31 10:48:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-31 10:48:29 [scraper.py:170] 📥 [HN #2] Switch Lowering in GCC
+INFO     2026-10-31 10:48:29 [scraper.py:171] 🔗 [HN #2] URL: https://xoranth.net/gcc-switch/
+INFO     2026-10-31 10:48:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-31 10:48:29 [scraper.py:170] 📥 [HN #3] Digital Minimalism
+INFO     2026-10-31 10:48:29 [scraper.py:171] 🔗 [HN #3] URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
+INFO     2026-10-31 10:48:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-31 10:48:29 [scraper.py:170] 📥 [HN #4] Show HN: Marelleo, an open-source story box I built for my kids using ESP32
+INFO     2026-10-31 10:48:29 [scraper.py:171] 🔗 [HN #4] URL: https://zebra.rodeo/en/blog/marelleo/
+INFO     2026-10-31 10:48:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-31 10:48:30 [scraper.py:170] 📥 [HN #5] My favourite PowerMac is a Nintendo Wii
+INFO     2026-10-31 10:48:30 [scraper.py:171] 🔗 [HN #5] URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+INFO     2026-10-31 10:48:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-31 10:48:30 [scraper.py:170] 📥 [HN #6] Cloudflare Turnstile solver library (no headless browser required)
+INFO     2026-10-31 10:48:30 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/chris124567/cfsolve
+INFO     2026-10-31 10:48:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-31 10:48:30 [scraper.py:170] 📥 [HN #7] The $6.3B Binance hack was pulled off in just 20 minutes
+INFO     2026-10-31 10:48:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+INFO     2026-10-31 10:48:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-31 10:48:30 [scraper.py:170] 📥 [HN #8] Northflank Breached
+INFO     2026-10-31 10:48:30 [scraper.py:171] 🔗 [HN #8] URL: https://status.northflank.com
+INFO     2026-10-31 10:48:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-31 10:48:31 [scraper.py:170] 📥 [HN #9] Tell HN: Scribd Breached
+INFO     2026-10-31 10:48:31 [scraper.py:171] 🔗 [HN #9] URL: https://news.ycombinator.com/item?id=50312756
+INFO     2026-10-31 10:48:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-31 10:48:31 [scraper.py:170] 📥 [HN #10] AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
+INFO     2026-10-31 10:48:31 [scraper.py:171] 🔗 [HN #10] URL: https://thedataexchange.media/leo-de-moura-lean-aws/
+INFO     2026-10-31 10:48:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-31 10:48:31 [scraper.py:178] 🎉 [HN] All done.
+
