@@ -45373,3 +45373,36 @@ INFO     2026-10-31 10:48:31 [scraper.py:171] 🔗 [HN #10] URL: https://thedata
 INFO     2026-10-31 10:48:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-31 10:48:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-10-31 15:37:37 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-10-31 15:37:38 [scraper.py:170] 📥 [HN #1] Molly(Signal fork) has not been updated since 3 months and is vulnerable
+INFO     2026-10-31 15:37:38 [scraper.py:171] 🔗 [HN #1] URL: https://piefed.world/post/1503394
+INFO     2026-10-31 15:37:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-10-31 15:37:38 [scraper.py:170] 📥 [HN #2] We Took over ChatGPT Accounts
+INFO     2026-10-31 15:37:38 [scraper.py:171] 🔗 [HN #2] URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai
+INFO     2026-10-31 15:37:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-10-31 15:37:38 [scraper.py:170] 📥 [HN #3] Switch Lowering in GCC
+INFO     2026-10-31 15:37:38 [scraper.py:171] 🔗 [HN #3] URL: https://xoranth.net/gcc-switch/
+INFO     2026-10-31 15:37:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-10-31 15:37:38 [scraper.py:170] 📥 [HN #4] Serbia just elected the world's brainiest parliament
+INFO     2026-10-31 15:37:38 [scraper.py:171] 🔗 [HN #4] URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
+INFO     2026-10-31 15:37:38 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-10-31 15:37:39 [scraper.py:170] 📥 [HN #5] Simple circuits can create complex behaviors
+INFO     2026-10-31 15:37:39 [scraper.py:171] 🔗 [HN #5] URL: https://aatishb.com/myriad/lets-build-a-brain/
+INFO     2026-10-31 15:37:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-10-31 15:37:39 [scraper.py:170] 📥 [HN #6] Digital minimalism
+INFO     2026-10-31 15:37:39 [scraper.py:171] 🔗 [HN #6] URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
+INFO     2026-10-31 15:37:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-10-31 15:37:39 [scraper.py:170] 📥 [HN #7] Prospero: A new coding harness for a more civilized age
+INFO     2026-10-31 15:37:39 [scraper.py:171] 🔗 [HN #7] URL: https://nullprogram.com/blog/2026/10/31/
+INFO     2026-10-31 15:37:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-10-31 15:37:39 [scraper.py:170] 📥 [HN #8] Show HN: Marelleo, an open-source story box I built for my kids using ESP32
+INFO     2026-10-31 15:37:39 [scraper.py:171] 🔗 [HN #8] URL: https://zebra.rodeo/en/blog/marelleo/
+INFO     2026-10-31 15:37:39 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-10-31 15:37:40 [scraper.py:170] 📥 [HN #9] Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
+INFO     2026-10-31 15:37:40 [scraper.py:171] 🔗 [HN #9] URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/
+INFO     2026-10-31 15:37:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-10-31 15:37:40 [scraper.py:170] 📥 [HN #10] AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
+INFO     2026-10-31 15:37:40 [scraper.py:171] 🔗 [HN #10] URL: https://thedataexchange.media/leo-de-moura-lean-aws/
+INFO     2026-10-31 15:37:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-10-31 15:37:40 [scraper.py:178] 🎉 [HN] All done.
+
