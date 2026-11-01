@@ -45439,3 +45439,36 @@ INFO     2026-11-01 05:44:14 [scraper.py:171] 🔗 [HN #10] URL: https://spectru
 INFO     2026-11-01 05:44:14 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-01 05:44:14 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-01 11:45:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-01 11:45:25 [scraper.py:170] 📥 [HN #1] Norway makes shithouses great again
+INFO     2026-11-01 11:45:25 [scraper.py:171] 🔗 [HN #1] URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/
+INFO     2026-11-01 11:45:25 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-01 11:45:25 [scraper.py:170] 📥 [HN #2] HackerTube: YouTube built from videos recommended by HN
+INFO     2026-11-01 11:45:25 [scraper.py:171] 🔗 [HN #2] URL: https://karpathy.bearblog.dev/hacker-tube/
+INFO     2026-11-01 11:45:25 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-01 11:45:25 [scraper.py:170] 📥 [HN #3] A tiny Pacific country rolls out universal basic income
+INFO     2026-11-01 11:45:25 [scraper.py:171] 🔗 [HN #3] URL: https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income
+INFO     2026-11-01 11:45:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-01 11:45:25 [scraper.py:170] 📥 [HN #4] No AI, 52 min. Build all Linux Files utils in C by Hand [video]
+INFO     2026-11-01 11:45:25 [scraper.py:171] 🔗 [HN #4] URL: https://www.youtube.com/watch?v=gQRmSlcTq9c
+INFO     2026-11-01 11:45:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #5] An Italian farmer found some unknown seeds in his attic and planted them
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #5] URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #6] Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #6] URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #7] Running a bootstrapped SaaS for 20 years with my brother
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #7] URL: https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #8] TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #8] URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #9] The AI cost of JavaScript frameworks
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #9] URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:170] 📥 [HN #10] Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-01 11:45:26 [scraper.py:178] 🎉 [HN] All done.
+
