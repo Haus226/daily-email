@@ -45472,3 +45472,36 @@ INFO     2026-11-01 11:45:26 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-11-01 11:45:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-01 11:45:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-01 16:36:55 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-01 16:36:56 [scraper.py:170] 📥 [HN #1] Show HN: HackerBooks – HackerTube, but for books recommended on HN
+INFO     2026-11-01 16:36:56 [scraper.py:171] 🔗 [HN #1] URL: https://hackerbooks.org
+INFO     2026-11-01 16:36:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-01 16:36:56 [scraper.py:170] 📥 [HN #2] HackerTube: YouTube built from videos recommended by HN
+INFO     2026-11-01 16:36:56 [scraper.py:171] 🔗 [HN #2] URL: https://karpathy.bearblog.dev/hacker-tube/
+INFO     2026-11-01 16:36:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-01 16:36:56 [scraper.py:170] 📥 [HN #3] Proving and improving the Platonic Representation Hypothesis with JEPAs
+INFO     2026-11-01 16:36:56 [scraper.py:171] 🔗 [HN #3] URL: https://arxiv.org/abs/2610.39302
+INFO     2026-11-01 16:36:56 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-01 16:36:56 [scraper.py:170] 📥 [HN #4] Novellas with Groff
+INFO     2026-11-01 16:36:56 [scraper.py:171] 🔗 [HN #4] URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
+INFO     2026-11-01 16:36:56 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-01 16:36:56 [scraper.py:170] 📥 [HN #5] Police chief unplugs Flock cameras after company ignores contract cancellation
+INFO     2026-11-01 16:36:56 [scraper.py:171] 🔗 [HN #5] URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies
+INFO     2026-11-01 16:36:56 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:170] 📥 [HN #6] Bidirectional Charging During Grid Outages
+INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #6] URL: https://www.jefftk.com/p/bidirectional-charging-during-grid-outages
+INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:170] 📥 [HN #7] Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #7] URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
+INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:170] 📥 [HN #8] An Italian farmer found some unknown seeds in his attic and planted them
+INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #8] URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:170] 📥 [HN #9] Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
+INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #9] URL: https://kevs3d.co.uk/phoria2/
+INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:170] 📥 [HN #10] One-minute frequency disturbances from synchronization in power systems
+INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.nature.com/articles/s41560-026-02144-0
+INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-01 16:36:57 [scraper.py:178] 🎉 [HN] All done.
+
