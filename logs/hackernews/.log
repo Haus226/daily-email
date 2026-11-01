@@ -45406,3 +45406,36 @@ INFO     2026-10-31 15:37:40 [scraper.py:171] 🔗 [HN #10] URL: https://thedata
 INFO     2026-10-31 15:37:40 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-10-31 15:37:40 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-01 05:44:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-01 05:44:12 [scraper.py:170] 📥 [HN #1] HackerTube: YouTube built from videos recommended by HN
+INFO     2026-11-01 05:44:12 [scraper.py:171] 🔗 [HN #1] URL: https://karpathy.bearblog.dev/hacker-tube/
+INFO     2026-11-01 05:44:12 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-01 05:44:12 [scraper.py:170] 📥 [HN #2] An Italian farmer found some unknown seeds in his attic and planted them
+INFO     2026-11-01 05:44:12 [scraper.py:171] 🔗 [HN #2] URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+INFO     2026-11-01 05:44:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-01 05:44:12 [scraper.py:170] 📥 [HN #3] Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+INFO     2026-11-01 05:44:12 [scraper.py:171] 🔗 [HN #3] URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
+INFO     2026-11-01 05:44:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-01 05:44:12 [scraper.py:170] 📥 [HN #4] TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+INFO     2026-11-01 05:44:12 [scraper.py:171] 🔗 [HN #4] URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
+INFO     2026-11-01 05:44:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-01 05:44:13 [scraper.py:170] 📥 [HN #5] Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+INFO     2026-11-01 05:44:13 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+INFO     2026-11-01 05:44:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-01 05:44:13 [scraper.py:170] 📥 [HN #6] Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM
+INFO     2026-11-01 05:44:13 [scraper.py:171] 🔗 [HN #6] URL: https://arxiv.org/abs/2409.02292
+INFO     2026-11-01 05:44:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-01 05:44:13 [scraper.py:170] 📥 [HN #7] Altoids Project
+INFO     2026-11-01 05:44:13 [scraper.py:171] 🔗 [HN #7] URL: https://uvdn7.github.io/altoids-project/
+INFO     2026-11-01 05:44:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-01 05:44:13 [scraper.py:170] 📥 [HN #8] Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020
+INFO     2026-11-01 05:44:13 [scraper.py:171] 🔗 [HN #8] URL: https://maketecheasier.com/arecibo-zinc-creep-collapse/
+INFO     2026-11-01 05:44:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-01 05:44:13 [scraper.py:170] 📥 [HN #9] It's the memory latency, stupid
+INFO     2026-11-01 05:44:13 [scraper.py:171] 🔗 [HN #9] URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/
+INFO     2026-11-01 05:44:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-01 05:44:14 [scraper.py:170] 📥 [HN #10] When electric cars were for women
+INFO     2026-11-01 05:44:14 [scraper.py:171] 🔗 [HN #10] URL: https://spectrum.ieee.org/early-electric-vehicles
+INFO     2026-11-01 05:44:14 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-01 05:44:14 [scraper.py:178] 🎉 [HN] All done.
+
