@@ -45505,3 +45505,36 @@ INFO     2026-11-01 16:36:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.nat
 INFO     2026-11-01 16:36:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-01 16:36:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-02 05:42:27 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #1] Show HN: HackerBooks – HackerTube, but for books mentioned on HN
+INFO     2026-11-02 05:42:28 [scraper.py:171] 🔗 [HN #1] URL: https://hackerbooks.org
+INFO     2026-11-02 05:42:28 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #2] F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+INFO     2026-11-02 05:42:28 [scraper.py:171] 🔗 [HN #2] URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/
+INFO     2026-11-02 05:42:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #3] Postgres 19 is late because so many more bugs are being found now
+INFO     2026-11-02 05:42:28 [scraper.py:171] 🔗 [HN #3] URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
+INFO     2026-11-02 05:42:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #4] HackerTube: YouTube built from videos recommended by HN
+INFO     2026-11-02 05:42:28 [scraper.py:171] 🔗 [HN #4] URL: https://karpathy.bearblog.dev/hacker-tube/
+INFO     2026-11-02 05:42:28 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #5] Mystery of 60-Second Fluctuations in Power Grids Solved
+INFO     2026-11-02 05:42:28 [scraper.py:171] 🔗 [HN #5] URL: https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved
+INFO     2026-11-02 05:42:28 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-02 05:42:28 [scraper.py:170] 📥 [HN #6] Ask HN: Which TV do you recommend for privacy?
+INFO     2026-11-02 05:42:29 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=50328896
+INFO     2026-11-02 05:42:29 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-02 05:42:29 [scraper.py:170] 📥 [HN #7] Trigger.dev customer environment variables exposed
+INFO     2026-11-02 05:42:29 [scraper.py:171] 🔗 [HN #7] URL: https://trigger.dev/blog/security-incident-nov-2026
+INFO     2026-11-02 05:42:29 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-02 05:42:29 [scraper.py:170] 📥 [HN #8] Nibnib: Image compression with extreme decompression speed
+INFO     2026-11-02 05:42:29 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/raphlinus/nibnib
+INFO     2026-11-02 05:42:29 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-02 05:42:29 [scraper.py:170] 📥 [HN #9] Tips for more effective fuzz testing with AFL++
+INFO     2026-11-02 05:42:29 [scraper.py:171] 🔗 [HN #9] URL: https://nullprogram.com/blog/2025/02/05/
+INFO     2026-11-02 05:42:29 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-02 05:42:29 [scraper.py:170] 📥 [HN #10] Copper – A minimal low-level programming language with OOP and generics
+INFO     2026-11-02 05:42:29 [scraper.py:171] 🔗 [HN #10] URL: https://tibleiz.net/copper/
+INFO     2026-11-02 05:42:29 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-02 05:42:29 [scraper.py:178] 🎉 [HN] All done.
+
