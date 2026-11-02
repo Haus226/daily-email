@@ -45571,3 +45571,36 @@ INFO     2026-11-02 13:17:32 [scraper.py:171] 🔗 [HN #10] URL: https://www.fz-
 INFO     2026-11-02 13:17:32 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-02 13:17:32 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-02 20:00:12 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #1] Astra can read and write weights to improve Qwen
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #1] URL: https://rikiyat.github.io/blog/weight-space-programming/
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #2] Show HN: Subvocal – Talk to your computer without making noise
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #2] URL: https://news.ycombinator.com/item?id=50340088
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #3] Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #3] URL: https://momentic.ai/
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #4] US boy names that became girl names and vice versa
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #4] URL: https://namedaisy.com/blog/boy-names-that-became-girl-names
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #5] Egoless Mathematics in the AI Era
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #5] URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #6] Show HN: Warsaw in voxels – An interactive 3D map of the city centre
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #6] URL: https://p.migdal.pl/warsaw-vibe-voxel/
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-02 20:00:14 [scraper.py:170] 📥 [HN #7] If you love a website, back it up
+INFO     2026-11-02 20:00:14 [scraper.py:171] 🔗 [HN #7] URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+INFO     2026-11-02 20:00:14 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-02 20:00:15 [scraper.py:170] 📥 [HN #8] Ask HN: Who is hiring? (November 2026)
+INFO     2026-11-02 20:00:15 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=50338728
+INFO     2026-11-02 20:00:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-02 20:00:15 [scraper.py:170] 📥 [HN #9] SOML – A Config Format for Humans
+INFO     2026-11-02 20:00:15 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/soml-lang/soml
+INFO     2026-11-02 20:00:15 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-02 20:00:15 [scraper.py:170] 📥 [HN #10] Let Me Ch...
+INFO     2026-11-02 20:00:15 [scraper.py:171] 🔗 [HN #10] URL: https://blog.alxgsv.com/let-me-check/
+INFO     2026-11-02 20:00:15 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-02 20:00:15 [scraper.py:178] 🎉 [HN] All done.
+
