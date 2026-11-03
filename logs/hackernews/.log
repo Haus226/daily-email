@@ -45604,3 +45604,36 @@ INFO     2026-11-02 20:00:15 [scraper.py:171] 🔗 [HN #10] URL: https://blog.al
 INFO     2026-11-02 20:00:15 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-02 20:00:15 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-03 06:23:14 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-03 06:23:14 [scraper.py:170] 📥 [HN #1] Astra can read and write weights to improve Qwen
+INFO     2026-11-03 06:23:14 [scraper.py:171] 🔗 [HN #1] URL: https://rikiyat.github.io/blog/weight-space-programming/
+INFO     2026-11-03 06:23:14 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-03 06:23:14 [scraper.py:170] 📥 [HN #2] Show HN: Hacker Times, a New York Times-inspired version of Hacker News
+INFO     2026-11-03 06:23:14 [scraper.py:171] 🔗 [HN #2] URL: https://hackertimes.ca/
+INFO     2026-11-03 06:23:14 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-03 06:23:14 [scraper.py:170] 📥 [HN #3] DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
+INFO     2026-11-03 06:23:14 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+INFO     2026-11-03 06:23:14 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-03 06:23:15 [scraper.py:170] 📥 [HN #4] European RISC-V Industrial Computing Initiative
+INFO     2026-11-03 06:23:15 [scraper.py:171] 🔗 [HN #4] URL: https://erici.eu
+INFO     2026-11-03 06:23:15 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-03 06:23:15 [scraper.py:170] 📥 [HN #5] Scaling Git at OpenAI
+INFO     2026-11-03 06:23:15 [scraper.py:171] 🔗 [HN #5] URL: https://openai.com/index/scaling-git-at-openai/
+INFO     2026-11-03 06:23:15 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-03 06:23:15 [scraper.py:170] 📥 [HN #6] Show HN: Subvocal – Talk to your computer without making noise
+INFO     2026-11-03 06:23:15 [scraper.py:171] 🔗 [HN #6] URL: https://news.ycombinator.com/item?id=50340088
+INFO     2026-11-03 06:23:15 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-03 06:23:15 [scraper.py:170] 📥 [HN #7] US boy names that became girl names and vice versa
+INFO     2026-11-03 06:23:15 [scraper.py:171] 🔗 [HN #7] URL: https://namedaisy.com/blog/boy-names-that-became-girl-names
+INFO     2026-11-03 06:23:15 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-03 06:23:15 [scraper.py:170] 📥 [HN #8] Resisting Cognitive Surrender
+INFO     2026-11-03 06:23:15 [scraper.py:171] 🔗 [HN #8] URL: https://knlb.dev/essays/surrender
+INFO     2026-11-03 06:23:15 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-03 06:23:16 [scraper.py:170] 📥 [HN #9] If you love a website, back it up
+INFO     2026-11-03 06:23:16 [scraper.py:171] 🔗 [HN #9] URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+INFO     2026-11-03 06:23:16 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-03 06:23:16 [scraper.py:170] 📥 [HN #10] Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities
+INFO     2026-11-03 06:23:16 [scraper.py:171] 🔗 [HN #10] URL: https://arxiv.org/abs/2608.25820
+INFO     2026-11-03 06:23:16 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-03 06:23:16 [scraper.py:178] 🎉 [HN] All done.
+
