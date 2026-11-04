@@ -45769,3 +45769,36 @@ INFO     2026-11-04 12:52:07 [scraper.py:171] 🔗 [HN #10] URL: https://blog.nn
 INFO     2026-11-04 12:52:07 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-04 12:52:07 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-04 17:48:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-04 17:48:36 [scraper.py:170] 📥 [HN #1] AI is forcing us to pay off 40 years of technical debt
+INFO     2026-11-04 17:48:37 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+INFO     2026-11-04 17:48:37 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-04 17:48:37 [scraper.py:170] 📥 [HN #2] Progress on provable inference for large language models
+INFO     2026-11-04 17:48:37 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/research/provable-inference
+INFO     2026-11-04 17:48:37 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-04 17:48:37 [scraper.py:170] 📥 [HN #3] Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
+INFO     2026-11-04 17:48:37 [scraper.py:171] 🔗 [HN #3] URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/
+INFO     2026-11-04 17:48:37 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-04 17:48:37 [scraper.py:170] 📥 [HN #4] Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+INFO     2026-11-04 17:48:37 [scraper.py:171] 🔗 [HN #4] URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+INFO     2026-11-04 17:48:37 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-04 17:48:37 [scraper.py:170] 📥 [HN #5] North Korean fake job interview led to $6.3B Binance heist
+INFO     2026-11-04 17:48:37 [scraper.py:171] 🔗 [HN #5] URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
+INFO     2026-11-04 17:48:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-04 17:48:38 [scraper.py:170] 📥 [HN #6] AMD expects to outsell Intel in Q4 for the first time in history
+INFO     2026-11-04 17:48:38 [scraper.py:171] 🔗 [HN #6] URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
+INFO     2026-11-04 17:48:38 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-04 17:48:38 [scraper.py:170] 📥 [HN #7] Show HN: I built a tool that prices a prebuilt PC part by part
+INFO     2026-11-04 17:48:38 [scraper.py:171] 🔗 [HN #7] URL: https://pcdealcheck.com/
+INFO     2026-11-04 17:48:38 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-04 17:48:38 [scraper.py:170] 📥 [HN #8] Launch HN: Kino AI (YC S23) – AI media manager and video editor
+INFO     2026-11-04 17:48:38 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=50368804
+INFO     2026-11-04 17:48:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-04 17:48:39 [scraper.py:170] 📥 [HN #9] Verification Is Not Knowledge: Science needs more than answers
+INFO     2026-11-04 17:48:39 [scraper.py:171] 🔗 [HN #9] URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge
+INFO     2026-11-04 17:48:39 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-04 17:48:39 [scraper.py:170] 📥 [HN #10] An end to buggy web apps
+INFO     2026-11-04 17:48:39 [scraper.py:171] 🔗 [HN #10] URL: https://replay.io/blog/an-end-to-buggy-web-apps
+INFO     2026-11-04 17:48:39 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-04 17:48:39 [scraper.py:178] 🎉 [HN] All done.
+
