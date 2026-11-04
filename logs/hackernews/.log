@@ -45736,3 +45736,36 @@ INFO     2026-11-04 05:56:53 [scraper.py:171] 🔗 [HN #10] URL: https://arstech
 INFO     2026-11-04 05:56:53 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-04 05:56:53 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-04 12:52:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-04 12:52:05 [scraper.py:170] 📥 [HN #1] AI is forcing us to pay off 40 years of technical debt
+INFO     2026-11-04 12:52:05 [scraper.py:171] 🔗 [HN #1] URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+INFO     2026-11-04 12:52:05 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-04 12:52:05 [scraper.py:170] 📥 [HN #2] Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+INFO     2026-11-04 12:52:05 [scraper.py:171] 🔗 [HN #2] URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+INFO     2026-11-04 12:52:05 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-04 12:52:06 [scraper.py:170] 📥 [HN #3] Incident with Pull Requests, Git Operations and Issues
+INFO     2026-11-04 12:52:06 [scraper.py:171] 🔗 [HN #3] URL: https://www.githubstatus.com/incidents/smtdswd1h2w4
+INFO     2026-11-04 12:52:06 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-04 12:52:06 [scraper.py:170] 📥 [HN #4] Verification Is Not Knowledge: Science needs more than answers
+INFO     2026-11-04 12:52:06 [scraper.py:171] 🔗 [HN #4] URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge
+INFO     2026-11-04 12:52:06 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-04 12:52:06 [scraper.py:170] 📥 [HN #5] Kitty 0.50
+INFO     2026-11-04 12:52:06 [scraper.py:171] 🔗 [HN #5] URL: https://sw.kovidgoyal.net/kitty/changelog/#
+INFO     2026-11-04 12:52:06 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-04 12:52:06 [scraper.py:170] 📥 [HN #6] A map of 5000+ midterm ads
+INFO     2026-11-04 12:52:06 [scraper.py:171] 🔗 [HN #6] URL: https://admap.org/
+INFO     2026-11-04 12:52:06 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-04 12:52:07 [scraper.py:170] 📥 [HN #7] Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+INFO     2026-11-04 12:52:07 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=50363461
+INFO     2026-11-04 12:52:07 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-04 12:52:07 [scraper.py:170] 📥 [HN #8] Jelly Sheet
+INFO     2026-11-04 12:52:07 [scraper.py:171] 🔗 [HN #8] URL: https://mrdoob.github.io/codevember-2026/01/
+INFO     2026-11-04 12:52:07 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-04 12:52:07 [scraper.py:170] 📥 [HN #9] Hackers hit French national blood bank
+INFO     2026-11-04 12:52:07 [scraper.py:171] 🔗 [HN #9] URL: https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/
+INFO     2026-11-04 12:52:07 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-04 12:52:07 [scraper.py:170] 📥 [HN #10] Jailbreaking my car's navigation system just so I can change the time
+INFO     2026-11-04 12:52:07 [scraper.py:171] 🔗 [HN #10] URL: https://blog.nns.ee/2026/11/02/renault-hack/
+INFO     2026-11-04 12:52:07 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-04 12:52:07 [scraper.py:178] 🎉 [HN] All done.
+
