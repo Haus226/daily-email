@@ -6928,3 +6928,8 @@ INFO     2026-11-05 13:00:08 [scraper.py:390] 📥 [TAROT] Card: Temperance
 INFO     2026-11-05 13:00:08 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
 INFO     2026-11-05 13:00:08 [scraper.py:454] ✅ [TAROT] Successfully fetched.
 
+INFO     2026-11-05 17:53:00 [scraper.py:375] 🚀 [TAROT] Starting to fetch Tarot Card of the Day
+INFO     2026-11-05 17:53:00 [scraper.py:390] 📥 [TAROT] Card: Temperance
+INFO     2026-11-05 17:53:00 [scraper.py:415] 🤖 [TAROT] Guidance generated successfully
+INFO     2026-11-05 17:53:00 [scraper.py:454] ✅ [TAROT] Successfully fetched.
+

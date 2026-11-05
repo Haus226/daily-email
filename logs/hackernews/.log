@@ -45868,3 +45868,36 @@ INFO     2026-11-05 13:00:10 [scraper.py:171] 🔗 [HN #10] URL: https://www.ric
 INFO     2026-11-05 13:00:10 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-05 13:00:10 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-05 17:53:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-05 17:53:00 [scraper.py:170] 📥 [HN #1] sshole
+INFO     2026-11-05 17:53:00 [scraper.py:171] 🔗 [HN #1] URL: https://sshhole.com
+INFO     2026-11-05 17:53:00 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-05 17:53:01 [scraper.py:170] 📥 [HN #2] Alpine Linux Security Advisory: OpenSSH-server password authentication bypass
+INFO     2026-11-05 17:53:01 [scraper.py:171] 🔗 [HN #2] URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
+INFO     2026-11-05 17:53:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-05 17:53:01 [scraper.py:170] 📥 [HN #3] Motorola Signature 27 with GrapheneOS support
+INFO     2026-11-05 17:53:01 [scraper.py:171] 🔗 [HN #3] URL: https://motorolanews.com/motorola-signature-27-2/
+INFO     2026-11-05 17:53:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-05 17:53:01 [scraper.py:170] 📥 [HN #4] Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
+INFO     2026-11-05 17:53:01 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/rivet-dev/rivet
+INFO     2026-11-05 17:53:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-05 17:53:02 [scraper.py:170] 📥 [HN #5] The Lisp curse, now coming to your ecosystem
+INFO     2026-11-05 17:53:02 [scraper.py:171] 🔗 [HN #5] URL: https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html
+INFO     2026-11-05 17:53:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-05 17:53:02 [scraper.py:170] 📥 [HN #6] September in Servo: <progress>, rounded rectangles, and more
+INFO     2026-11-05 17:53:02 [scraper.py:171] 🔗 [HN #6] URL: https://servo.org/blog/2026/11/05/september-in-servo/
+INFO     2026-11-05 17:53:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-05 17:53:02 [scraper.py:170] 📥 [HN #7] My psychophysics as a bilateral cochlear implant user
+INFO     2026-11-05 17:53:02 [scraper.py:171] 🔗 [HN #7] URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf
+INFO     2026-11-05 17:53:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-05 17:53:02 [scraper.py:170] 📥 [HN #8] Bild AI (YC W25) Is Hiring Founding Product Engineers
+INFO     2026-11-05 17:53:02 [scraper.py:171] 🔗 [HN #8] URL: https://www.ycombinator.com/companies/bild-ai/jobs
+INFO     2026-11-05 17:53:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-05 17:53:03 [scraper.py:170] 📥 [HN #9] Window Sweaters
+INFO     2026-11-05 17:53:03 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/saragordic/window-sweaters
+INFO     2026-11-05 17:53:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-05 17:53:03 [scraper.py:170] 📥 [HN #10] Download your favourite YouTube videos
+INFO     2026-11-05 17:53:03 [scraper.py:171] 🔗 [HN #10] URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/
+INFO     2026-11-05 17:53:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-05 17:53:03 [scraper.py:178] 🎉 [HN] All done.
+

@@ -23065,3 +23065,24 @@ INFO     2026-11-05 13:00:09 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-05 13:00:09 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-05 17:52:58 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-05 17:53:00 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-05 17:53:00 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-05 17:53:00 [scraper.py:133] 📥 [EO] Title: Cyprus: Island of Snakes, Cats, and Ophiolites
+INFO     2026-11-05 17:53:00 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-05 17:53:00 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-05 17:53:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-05 17:53:00 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-05 17:53:02 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-05 17:53:02 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-05 17:53:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-05 17:53:02 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-05 17:53:02 [scraper.py:133] 📥 [EO] Title: Cyprus: Island of Snakes, Cats, and Ophiolites
+INFO     2026-11-05 17:53:02 [scraper.py:133] 📥 [EO] Title: Cyprus: Island of Snakes, Cats, and Ophiolites
+INFO     2026-11-05 17:53:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-05 17:53:02 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-05 17:53:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-05 17:53:02 [scraper.py:154] ✅ [EO] Successfully fetched.
+
