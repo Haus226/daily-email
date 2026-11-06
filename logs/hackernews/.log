@@ -45967,3 +45967,36 @@ INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #10] URL: https://theread
 INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-06 12:47:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-06 17:14:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-06 17:14:04 [scraper.py:170] 📥 [HN #1] Deus Ex
+INFO     2026-11-06 17:14:04 [scraper.py:171] 🔗 [HN #1] URL: https://www.filfre.net/2026/11/deus-ex/
+INFO     2026-11-06 17:14:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-06 17:14:04 [scraper.py:170] 📥 [HN #2] Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+INFO     2026-11-06 17:14:04 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105
+INFO     2026-11-06 17:14:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-06 17:14:04 [scraper.py:170] 📥 [HN #3] FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control
+INFO     2026-11-06 17:14:04 [scraper.py:171] 🔗 [HN #3] URL: https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air
+INFO     2026-11-06 17:14:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-06 17:14:05 [scraper.py:170] 📥 [HN #4] Gemini Omni 1.2 Flash
+INFO     2026-11-06 17:14:05 [scraper.py:171] 🔗 [HN #4] URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+INFO     2026-11-06 17:14:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-06 17:14:05 [scraper.py:170] 📥 [HN #5] Blender's UI and Runtime: Much Faster Than GPUI
+INFO     2026-11-06 17:14:05 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/ppmpreetham/BUI
+INFO     2026-11-06 17:14:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-06 17:14:05 [scraper.py:170] 📥 [HN #6] UpCodes (YC S17) is hiring SDR's to sell AI compliance software
+INFO     2026-11-06 17:14:05 [scraper.py:171] 🔗 [HN #6] URL: https://up.codes/careers?utm_source=HN
+INFO     2026-11-06 17:14:05 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-06 17:14:06 [scraper.py:170] 📥 [HN #7] RIP Cybertruck
+INFO     2026-11-06 17:14:06 [scraper.py:171] 🔗 [HN #7] URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/
+INFO     2026-11-06 17:14:06 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-06 17:14:06 [scraper.py:170] 📥 [HN #8] Claude Code sends your email address to websites
+INFO     2026-11-06 17:14:06 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/anthropics/claude-code/issues/107757
+INFO     2026-11-06 17:14:06 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-06 17:14:06 [scraper.py:170] 📥 [HN #9] First steps in bare-metal programming using UEFI
+INFO     2026-11-06 17:14:06 [scraper.py:171] 🔗 [HN #9] URL: https://kevinboone.me/efitest_index.html
+INFO     2026-11-06 17:14:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-06 17:14:06 [scraper.py:170] 📥 [HN #10] Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)
+INFO     2026-11-06 17:14:06 [scraper.py:171] 🔗 [HN #10] URL: https://www.laphamsquarterly.org/roundtable/zero-hour
+INFO     2026-11-06 17:14:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-06 17:14:06 [scraper.py:178] 🎉 [HN] All done.
+
