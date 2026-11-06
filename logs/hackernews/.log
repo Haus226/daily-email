@@ -45901,3 +45901,36 @@ INFO     2026-11-05 17:53:03 [scraper.py:171] 🔗 [HN #10] URL: https://crimina
 INFO     2026-11-05 17:53:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-05 17:53:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-06 06:15:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-06 06:15:02 [scraper.py:170] 📥 [HN #1] Claude Code sends your email address to websites
+INFO     2026-11-06 06:15:02 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/anthropics/claude-code/issues/107757
+INFO     2026-11-06 06:15:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-06 06:15:02 [scraper.py:170] 📥 [HN #2] sshole
+INFO     2026-11-06 06:15:02 [scraper.py:171] 🔗 [HN #2] URL: https://sshhole.com
+INFO     2026-11-06 06:15:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-06 06:15:02 [scraper.py:170] 📥 [HN #3] MS Paint Remote Code Execution Vulnerability
+INFO     2026-11-06 06:15:02 [scraper.py:171] 🔗 [HN #3] URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+INFO     2026-11-06 06:15:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-06 06:15:02 [scraper.py:170] 📥 [HN #4] Nvidia Kubernetes Engine (NVKE)
+INFO     2026-11-06 06:15:02 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/dsx-ai-factory/nvke
+INFO     2026-11-06 06:15:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-06 06:15:02 [scraper.py:170] 📥 [HN #5] Pwn.college
+INFO     2026-11-06 06:15:02 [scraper.py:171] 🔗 [HN #5] URL: https://pwn.college/
+INFO     2026-11-06 06:15:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:170] 📥 [HN #6] Inkling 2 Small
+INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #6] URL: https://thinkingmachines.ai/news/inkling-2-small/
+INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:170] 📥 [HN #7] The Hackintosh Reborn
+INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #7] URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
+INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:170] 📥 [HN #8] How accurately did science fiction stories predict AI?
+INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #8] URL: https://jamesyu.org/science-fiction-predictions-of-ai/
+INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:170] 📥 [HN #9] Window Sweaters
+INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/saragordic/window-sweaters
+INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:170] 📥 [HN #10] Closed AI models dominate the price-performance frontier
+INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #10] URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
+INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-06 06:15:03 [scraper.py:178] 🎉 [HN] All done.
+
