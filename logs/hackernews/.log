@@ -45934,3 +45934,36 @@ INFO     2026-11-06 06:15:03 [scraper.py:171] 🔗 [HN #10] URL: https://village
 INFO     2026-11-06 06:15:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-06 06:15:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-06 12:47:53 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-06 12:47:53 [scraper.py:170] 📥 [HN #1] Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+INFO     2026-11-06 12:47:53 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105
+INFO     2026-11-06 12:47:53 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-06 12:47:53 [scraper.py:170] 📥 [HN #2] Blender's UI and Runtime: Much Faster Than GPUI
+INFO     2026-11-06 12:47:53 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/ppmpreetham/BUI
+INFO     2026-11-06 12:47:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-06 12:47:54 [scraper.py:170] 📥 [HN #3] Claude Code sends your email address to websites
+INFO     2026-11-06 12:47:54 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/anthropics/claude-code/issues/107757
+INFO     2026-11-06 12:47:54 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-06 12:47:54 [scraper.py:170] 📥 [HN #4] Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
+INFO     2026-11-06 12:47:54 [scraper.py:171] 🔗 [HN #4] URL: https://jhr.pensoft.net/articles.php?id=9096
+INFO     2026-11-06 12:47:54 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-06 12:47:54 [scraper.py:170] 📥 [HN #5] sshole
+INFO     2026-11-06 12:47:54 [scraper.py:171] 🔗 [HN #5] URL: https://sshhole.com
+INFO     2026-11-06 12:47:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:170] 📥 [HN #6] Kugelblitz – Mac-Native Google Earth Alternative
+INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #6] URL: https://apps.metaebene.me/en/kugelblitz
+INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:170] 📥 [HN #7] We've built an open-source feature flag server for 11 years
+INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/Unleash/unleash
+INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:170] 📥 [HN #8] Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers
+INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #8] URL: https://www.ycombinator.com/companies/mbodi-ai/jobs
+INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:170] 📥 [HN #9] MS Paint Remote Code Execution Vulnerability
+INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #9] URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:170] 📥 [HN #10] From Linux to Wikipedia: How Volunteers Build the Internet
+INFO     2026-11-06 12:47:55 [scraper.py:171] 🔗 [HN #10] URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/
+INFO     2026-11-06 12:47:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-06 12:47:55 [scraper.py:178] 🎉 [HN] All done.
+
