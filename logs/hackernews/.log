@@ -46033,3 +46033,36 @@ INFO     2026-11-07 05:42:27 [scraper.py:171] 🔗 [HN #10] URL: https://www.reu
 INFO     2026-11-07 05:42:27 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-07 05:42:27 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-07 11:36:38 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-07 11:36:38 [scraper.py:170] 📥 [HN #1] Upload Your RAM
+INFO     2026-11-07 11:36:38 [scraper.py:171] 🔗 [HN #1] URL: https://uploadyourram.org
+INFO     2026-11-07 11:36:38 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-07 11:36:38 [scraper.py:170] 📥 [HN #2] Libghostty 1.0
+INFO     2026-11-07 11:36:38 [scraper.py:171] 🔗 [HN #2] URL: https://mitchellh.com/writing/libghostty-1-0
+INFO     2026-11-07 11:36:38 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-07 11:36:38 [scraper.py:170] 📥 [HN #3] Every Mac comes with an (undocumented) family member classifier
+INFO     2026-11-07 11:36:38 [scraper.py:171] 🔗 [HN #3] URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+INFO     2026-11-07 11:36:38 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-07 11:36:39 [scraper.py:170] 📥 [HN #4] Need for Speed Underground 2 online in the browser
+INFO     2026-11-07 11:36:39 [scraper.py:171] 🔗 [HN #4] URL: https://nfsu2.xyz/
+INFO     2026-11-07 11:36:39 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-07 11:36:39 [scraper.py:170] 📥 [HN #5] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+INFO     2026-11-07 11:36:39 [scraper.py:171] 🔗 [HN #5] URL: https://hightouch.com/blog/llm-judges-identity-resolution
+INFO     2026-11-07 11:36:39 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-07 11:36:39 [scraper.py:170] 📥 [HN #6] Tesla to wind down Cybertruck production
+INFO     2026-11-07 11:36:39 [scraper.py:171] 🔗 [HN #6] URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+INFO     2026-11-07 11:36:39 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-07 11:36:39 [scraper.py:170] 📥 [HN #7] A barbarian tribe's mythic origin story is true, ancient DNA reveals
+INFO     2026-11-07 11:36:39 [scraper.py:171] 🔗 [HN #7] URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals
+INFO     2026-11-07 11:36:39 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-07 11:36:40 [scraper.py:170] 📥 [HN #8] The Components of Agent Memory
+INFO     2026-11-07 11:36:40 [scraper.py:171] 🔗 [HN #8] URL: https://www.anthropic.com/research/components-of-agent-memory
+INFO     2026-11-07 11:36:40 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-07 11:36:40 [scraper.py:170] 📥 [HN #9] Enterprise Brain – Memory that learns from work
+INFO     2026-11-07 11:36:40 [scraper.py:171] 🔗 [HN #9] URL: https://www.ampup.ai/companybrain
+INFO     2026-11-07 11:36:40 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-07 11:36:40 [scraper.py:170] 📥 [HN #10] RealPage rent-pricing case wraps with nearly $360M to renters
+INFO     2026-11-07 11:36:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
+INFO     2026-11-07 11:36:40 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-07 11:36:40 [scraper.py:178] 🎉 [HN] All done.
+
