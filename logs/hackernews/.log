@@ -46066,3 +46066,36 @@ INFO     2026-11-07 11:36:40 [scraper.py:171] 🔗 [HN #10] URL: https://www.mul
 INFO     2026-11-07 11:36:40 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-07 11:36:40 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-07 16:07:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-07 16:07:35 [scraper.py:170] 📥 [HN #1] The $8 Linux Computer (2022)
+INFO     2026-11-07 16:07:35 [scraper.py:171] 🔗 [HN #1] URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
+INFO     2026-11-07 16:07:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-07 16:07:35 [scraper.py:170] 📥 [HN #2] Need for Speed Underground 2 online in the browser
+INFO     2026-11-07 16:07:35 [scraper.py:171] 🔗 [HN #2] URL: https://nfsu2.xyz/
+INFO     2026-11-07 16:07:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-07 16:07:35 [scraper.py:170] 📥 [HN #3] Libghostty 1.0
+INFO     2026-11-07 16:07:35 [scraper.py:171] 🔗 [HN #3] URL: https://mitchellh.com/writing/libghostty-1-0
+INFO     2026-11-07 16:07:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-07 16:07:35 [scraper.py:170] 📥 [HN #4] Running a law firm on Free software
+INFO     2026-11-07 16:07:35 [scraper.py:171] 🔗 [HN #4] URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/
+INFO     2026-11-07 16:07:35 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-07 16:07:35 [scraper.py:170] 📥 [HN #5] British Library Legal deposit and web archiving
+INFO     2026-11-07 16:07:35 [scraper.py:171] 🔗 [HN #5] URL: https://www.bl.uk/services/legal-deposit/web-archiving
+INFO     2026-11-07 16:07:35 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:170] 📥 [HN #6] Every Mac comes with an (undocumented) family member classifier
+INFO     2026-11-07 16:07:36 [scraper.py:171] 🔗 [HN #6] URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+INFO     2026-11-07 16:07:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:170] 📥 [HN #7] Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5
+INFO     2026-11-07 16:07:36 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/hyphatech/spindle
+INFO     2026-11-07 16:07:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:170] 📥 [HN #8] Tesla to wind down Cybertruck production
+INFO     2026-11-07 16:07:36 [scraper.py:171] 🔗 [HN #8] URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+INFO     2026-11-07 16:07:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:170] 📥 [HN #9] Building the NBC News Big Board
+INFO     2026-11-07 16:07:36 [scraper.py:171] 🔗 [HN #9] URL: https://ejfox.com/projects/nbc-big-board
+INFO     2026-11-07 16:07:36 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:170] 📥 [HN #10] A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+INFO     2026-11-07 16:07:36 [scraper.py:171] 🔗 [HN #10] URL: https://hightouch.com/blog/llm-judges-identity-resolution
+INFO     2026-11-07 16:07:36 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-07 16:07:36 [scraper.py:178] 🎉 [HN] All done.
+
