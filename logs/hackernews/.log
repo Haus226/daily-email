@@ -46132,3 +46132,36 @@ INFO     2026-11-08 05:45:01 [scraper.py:171] 🔗 [HN #10] URL: https://maxxben
 INFO     2026-11-08 05:45:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-08 05:45:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-08 11:48:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-08 11:48:29 [scraper.py:170] 📥 [HN #1] Person of Interest
+INFO     2026-11-08 11:48:29 [scraper.py:171] 🔗 [HN #1] URL: https://krthr.co/person-of-interest/
+INFO     2026-11-08 11:48:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-08 11:48:29 [scraper.py:170] 📥 [HN #2] Petered (what happens after the Peter Principle)
+INFO     2026-11-08 11:48:29 [scraper.py:171] 🔗 [HN #2] URL: https://aworkinglibrary.com/writing/petered
+INFO     2026-11-08 11:48:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-08 11:48:30 [scraper.py:170] 📥 [HN #3] Goodbye Claude, Hello Pi
+INFO     2026-11-08 11:48:30 [scraper.py:171] 🔗 [HN #3] URL: https://caleb.software/posts/claude-to-pi.html
+INFO     2026-11-08 11:48:30 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-08 11:48:30 [scraper.py:170] 📥 [HN #4] Agent memory needs its OpenTelemetry moment
+INFO     2026-11-08 11:48:30 [scraper.py:171] 🔗 [HN #4] URL: https://www.lorekit.io/blog/open-agent-memory-format
+INFO     2026-11-08 11:48:30 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-08 11:48:30 [scraper.py:170] 📥 [HN #5] Clj.rs – a Clojure dialect implemented in Rust
+INFO     2026-11-08 11:48:30 [scraper.py:171] 🔗 [HN #5] URL: https://clj.rs/
+INFO     2026-11-08 11:48:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:170] 📥 [HN #6] What I run on my $10 USD OpenStick homelab
+INFO     2026-11-08 11:48:31 [scraper.py:171] 🔗 [HN #6] URL: https://blog.bosscher.ch/posts/openstick/
+INFO     2026-11-08 11:48:31 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:170] 📥 [HN #7] JIT bitmap text rendering for microcontrollers
+INFO     2026-11-08 11:48:31 [scraper.py:171] 🔗 [HN #7] URL: https://linebender.org/blog/jit-bitmap-text/
+INFO     2026-11-08 11:48:31 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:170] 📥 [HN #8] Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+INFO     2026-11-08 11:48:31 [scraper.py:171] 🔗 [HN #8] URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+INFO     2026-11-08 11:48:31 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:170] 📥 [HN #9] Finding Xanadu: Inside a JRPG classic translation 15 years in the making
+INFO     2026-11-08 11:48:31 [scraper.py:171] 🔗 [HN #9] URL: https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/
+INFO     2026-11-08 11:48:31 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:170] 📥 [HN #10] New typeface using intricate designs from Shakespeare's First Folio (2023)
+INFO     2026-11-08 11:48:31 [scraper.py:171] 🔗 [HN #10] URL: https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323
+INFO     2026-11-08 11:48:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-08 11:48:31 [scraper.py:178] 🎉 [HN] All done.
+
