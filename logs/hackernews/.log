@@ -46231,3 +46231,36 @@ INFO     2026-11-09 05:55:55 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-11-09 05:55:55 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-09 05:55:55 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-09 13:43:34 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-09 13:43:35 [scraper.py:170] 📥 [HN #1] Fold Epic Paper Airplanes
+INFO     2026-11-09 13:43:35 [scraper.py:171] 🔗 [HN #1] URL: https://www.foldableflight.com
+INFO     2026-11-09 13:43:35 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-09 13:43:35 [scraper.py:170] 📥 [HN #2] Humans will never again create a project like Wikipedia
+INFO     2026-11-09 13:43:35 [scraper.py:171] 🔗 [HN #2] URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia
+INFO     2026-11-09 13:43:35 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-09 13:43:35 [scraper.py:170] 📥 [HN #3] 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here
+INFO     2026-11-09 13:43:35 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/samir-sarwar/samir-vllm
+INFO     2026-11-09 13:43:35 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-09 13:43:36 [scraper.py:170] 📥 [HN #4] Fun things to do with your VM/370 CE machine – Fun with big computers
+INFO     2026-11-09 13:43:36 [scraper.py:171] 🔗 [HN #4] URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/
+INFO     2026-11-09 13:43:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-09 13:43:36 [scraper.py:170] 📥 [HN #5] Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
+INFO     2026-11-09 13:43:36 [scraper.py:171] 🔗 [HN #5] URL: https://arxiv.org/abs/2610.14162
+INFO     2026-11-09 13:43:36 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-09 13:43:36 [scraper.py:170] 📥 [HN #6] What is malloc doing, anyway?
+INFO     2026-11-09 13:43:36 [scraper.py:171] 🔗 [HN #6] URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway
+INFO     2026-11-09 13:43:36 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-09 13:43:36 [scraper.py:170] 📥 [HN #7] Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering
+INFO     2026-11-09 13:43:36 [scraper.py:171] 🔗 [HN #7] URL: https://zenodo.org/records/23682548
+INFO     2026-11-09 13:43:36 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-09 13:43:36 [scraper.py:170] 📥 [HN #8] Burying the Evidence: nine out of every 10 time capsules go missing
+INFO     2026-11-09 13:43:36 [scraper.py:171] 🔗 [HN #8] URL: https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/
+INFO     2026-11-09 13:43:36 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-09 13:43:37 [scraper.py:170] 📥 [HN #9] KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+INFO     2026-11-09 13:43:37 [scraper.py:171] 🔗 [HN #9] URL: https://ketchup3d.github.io/app/
+INFO     2026-11-09 13:43:37 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-09 13:43:37 [scraper.py:170] 📥 [HN #10] How Australia played the first music on a computer
+INFO     2026-11-09 13:43:37 [scraper.py:171] 🔗 [HN #10] URL: https://www.pearcey.org.au/heritage/csirac/how-australia-played-the-worlds-first-music-on-a-computer/
+INFO     2026-11-09 13:43:37 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-09 13:43:37 [scraper.py:178] 🎉 [HN] All done.
+
