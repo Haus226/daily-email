@@ -46198,3 +46198,36 @@ INFO     2026-11-08 16:31:17 [scraper.py:171] 🔗 [HN #10] URL: https://lineben
 INFO     2026-11-08 16:31:17 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-08 16:31:17 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-09 05:55:52 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-09 05:55:52 [scraper.py:170] 📥 [HN #1] RIP, Harvest
+INFO     2026-11-09 05:55:52 [scraper.py:171] 🔗 [HN #1] URL: https://aphyr.com/posts/427-rip-harvest
+INFO     2026-11-09 05:55:52 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-09 05:55:53 [scraper.py:170] 📥 [HN #2] A Critique of GPUI
+INFO     2026-11-09 05:55:53 [scraper.py:171] 🔗 [HN #2] URL: https://blog.zortax.de/posts/a-critique-of-gpui
+INFO     2026-11-09 05:55:53 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-09 05:55:53 [scraper.py:170] 📥 [HN #3] KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+INFO     2026-11-09 05:55:53 [scraper.py:171] 🔗 [HN #3] URL: https://ketchup3d.github.io/app/
+INFO     2026-11-09 05:55:53 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-09 05:55:53 [scraper.py:170] 📥 [HN #4] Unlocking any car from X brand in most of the world
+INFO     2026-11-09 05:55:53 [scraper.py:171] 🔗 [HN #4] URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+INFO     2026-11-09 05:55:53 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-09 05:55:54 [scraper.py:170] 📥 [HN #5] Chimera Vocal Synth
+INFO     2026-11-09 05:55:54 [scraper.py:171] 🔗 [HN #5] URL: https://chimera-vocal-synth.vercel.app/
+INFO     2026-11-09 05:55:54 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-09 05:55:54 [scraper.py:170] 📥 [HN #6] Declarative Dragging
+INFO     2026-11-09 05:55:54 [scraper.py:171] 🔗 [HN #6] URL: https://declarative-dragging.github.io/
+INFO     2026-11-09 05:55:54 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-09 05:55:54 [scraper.py:170] 📥 [HN #7] I'm not convinced the AI bubble exists
+INFO     2026-11-09 05:55:54 [scraper.py:171] 🔗 [HN #7] URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+INFO     2026-11-09 05:55:54 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-09 05:55:54 [scraper.py:170] 📥 [HN #8] Dux: Free, open-source Wayland desktop shell with file manager and theming
+INFO     2026-11-09 05:55:54 [scraper.py:171] 🔗 [HN #8] URL: https://duxlabs.dev/
+INFO     2026-11-09 05:55:54 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-09 05:55:54 [scraper.py:170] 📥 [HN #9] Outlook.com is rejecting email from domains without DMARC
+INFO     2026-11-09 05:55:54 [scraper.py:171] 🔗 [HN #9] URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+INFO     2026-11-09 05:55:54 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-09 05:55:55 [scraper.py:170] 📥 [HN #10] Ask HN: What are you working on? (November 2026)
+INFO     2026-11-09 05:55:55 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=50417407
+INFO     2026-11-09 05:55:55 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-09 05:55:55 [scraper.py:178] 🎉 [HN] All done.
+
