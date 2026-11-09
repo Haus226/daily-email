@@ -46264,3 +46264,36 @@ INFO     2026-11-09 13:43:37 [scraper.py:171] 🔗 [HN #10] URL: https://www.pea
 INFO     2026-11-09 13:43:37 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-09 13:43:37 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-09 20:28:50 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-09 20:28:51 [scraper.py:170] 📥 [HN #1] Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+INFO     2026-11-09 20:28:51 [scraper.py:171] 🔗 [HN #1] URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+INFO     2026-11-09 20:28:51 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-09 20:28:51 [scraper.py:170] 📥 [HN #2] Claude Fable 5.2 and Mythos 5.2
+INFO     2026-11-09 20:28:51 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+INFO     2026-11-09 20:28:51 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-09 20:28:51 [scraper.py:170] 📥 [HN #3] CUI – Native UI components for C
+INFO     2026-11-09 20:28:51 [scraper.py:171] 🔗 [HN #3] URL: https://yappologistic.github.io/CUI/
+INFO     2026-11-09 20:28:51 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #4] Our Smallest, Most Efficient Model: Muse Ember
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #4] URL: https://research.meta.ai/blog/muse-ember
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #5] E-means: 10x faster k-means at equal loss
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #5] URL: https://e-means.github.io/
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #6] USPS now offers official ZIP Code boundary polygons
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #6] URL: https://postalpro.usps.com/zcb
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #7] DeepX claims inference up to 100B parameters at less than 5 W
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #7] URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #8] Infineon marks innovation milestone with 300mm power silicon carbide wafer
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #8] URL: https://www.infineon.com/press-release/2026/infpr202611-028
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-09 20:28:52 [scraper.py:170] 📥 [HN #9] Fold Epic Paper Airplanes
+INFO     2026-11-09 20:28:52 [scraper.py:171] 🔗 [HN #9] URL: https://www.foldableflight.com
+INFO     2026-11-09 20:28:52 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-09 20:28:53 [scraper.py:170] 📥 [HN #10] Magenta solar panels may be agrivoltaics' cleverest trick yet
+INFO     2026-11-09 20:28:53 [scraper.py:171] 🔗 [HN #10] URL: https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/
+INFO     2026-11-09 20:28:53 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-09 20:28:53 [scraper.py:178] 🎉 [HN] All done.
+
