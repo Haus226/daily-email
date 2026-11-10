@@ -46363,3 +46363,36 @@ INFO     2026-11-10 13:21:24 [scraper.py:171] 🔗 [HN #10] URL: https://www.not
 INFO     2026-11-10 13:21:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-10 13:21:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-10 17:31:28 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-10 17:31:29 [scraper.py:170] 📥 [HN #1] Blender 5.3 released with Gaussian Splat support
+INFO     2026-11-10 17:31:29 [scraper.py:171] 🔗 [HN #1] URL: https://www.blender.org/download/releases/5-3/
+INFO     2026-11-10 17:31:29 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-10 17:31:29 [scraper.py:170] 📥 [HN #2] .name Grandfathered
+INFO     2026-11-10 17:31:29 [scraper.py:171] 🔗 [HN #2] URL: https://neil.fraser.name/news/2026/11/10/
+INFO     2026-11-10 17:31:29 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-10 17:31:29 [scraper.py:170] 📥 [HN #3] AlphaProof Code
+INFO     2026-11-10 17:31:29 [scraper.py:171] 🔗 [HN #3] URL: https://deepmind.google/blog/introducing-alphaproof-code/
+INFO     2026-11-10 17:31:29 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-10 17:31:29 [scraper.py:170] 📥 [HN #4] Smart home devices should work without the internet
+INFO     2026-11-10 17:31:29 [scraper.py:171] 🔗 [HN #4] URL: https://docodethatmatters.com/home-automation-overnight-success/
+INFO     2026-11-10 17:31:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-10 17:31:30 [scraper.py:170] 📥 [HN #5] Gemini 4 Carbon is now available
+INFO     2026-11-10 17:31:30 [scraper.py:171] 🔗 [HN #5] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+INFO     2026-11-10 17:31:30 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-10 17:31:30 [scraper.py:170] 📥 [HN #6] The Hardest Tarball?
+INFO     2026-11-10 17:31:30 [scraper.py:171] 🔗 [HN #6] URL: https://stoppels.ch/2026/11/07/the-hardest-tarball.html
+INFO     2026-11-10 17:31:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-10 17:31:30 [scraper.py:170] 📥 [HN #7] Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+INFO     2026-11-10 17:31:30 [scraper.py:171] 🔗 [HN #7] URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+INFO     2026-11-10 17:31:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-10 17:31:30 [scraper.py:170] 📥 [HN #8] Show HN: Valencia, Spain in Sim City/Isometric View
+INFO     2026-11-10 17:31:30 [scraper.py:171] 🔗 [HN #8] URL: https://tinyvalencia.com/
+INFO     2026-11-10 17:31:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-10 17:31:30 [scraper.py:170] 📥 [HN #9] What's new in the .NET 11 runtime
+INFO     2026-11-10 17:31:30 [scraper.py:171] 🔗 [HN #9] URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime
+INFO     2026-11-10 17:31:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-10 17:31:31 [scraper.py:170] 📥 [HN #10] NetBSD 11 desktop on a Raspberry Pi 4
+INFO     2026-11-10 17:31:31 [scraper.py:171] 🔗 [HN #10] URL: https://neongd.com/articles/netbsd11-rpi4.gmi
+INFO     2026-11-10 17:31:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-10 17:31:31 [scraper.py:178] 🎉 [HN] All done.
+
