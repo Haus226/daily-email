@@ -46330,3 +46330,36 @@ INFO     2026-11-10 06:59:12 [scraper.py:171] 🔗 [HN #10] URL: https://www.ult
 INFO     2026-11-10 06:59:12 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-10 06:59:12 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-10 13:21:21 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-10 13:21:21 [scraper.py:170] 📥 [HN #1] AlphaProof Code
+INFO     2026-11-10 13:21:21 [scraper.py:171] 🔗 [HN #1] URL: https://deepmind.google/blog/introducing-alphaproof-code/
+INFO     2026-11-10 13:21:21 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-10 13:21:22 [scraper.py:170] 📥 [HN #2] Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
+INFO     2026-11-10 13:21:22 [scraper.py:171] 🔗 [HN #2] URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+INFO     2026-11-10 13:21:22 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-10 13:21:22 [scraper.py:170] 📥 [HN #3] Show HN: A 15 MB self-hosted Netflix and Spotify for your media server
+INFO     2026-11-10 13:21:22 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/HolyArrs/HolyArrs
+INFO     2026-11-10 13:21:22 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-10 13:21:22 [scraper.py:170] 📥 [HN #4] Fossil CO2 emissions decrease by 0.4% in 2026
+INFO     2026-11-10 13:21:22 [scraper.py:171] 🔗 [HN #4] URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/
+INFO     2026-11-10 13:21:22 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-10 13:21:22 [scraper.py:170] 📥 [HN #5] Claude Fable 5.2 and Mythos 5.2
+INFO     2026-11-10 13:21:22 [scraper.py:171] 🔗 [HN #5] URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+INFO     2026-11-10 13:21:22 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-10 13:21:23 [scraper.py:170] 📥 [HN #6] USPS now offers official ZIP Code boundary polygons
+INFO     2026-11-10 13:21:23 [scraper.py:171] 🔗 [HN #6] URL: https://postalpro.usps.com/zcb
+INFO     2026-11-10 13:21:23 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-10 13:21:23 [scraper.py:170] 📥 [HN #7] Queens Public library under ransomware attack e-borrowing suspended
+INFO     2026-11-10 13:21:23 [scraper.py:171] 🔗 [HN #7] URL: https://connect.queenslibrary.org/
+INFO     2026-11-10 13:21:23 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-10 13:21:23 [scraper.py:170] 📥 [HN #8] Your TV can see through walls
+INFO     2026-11-10 13:21:23 [scraper.py:171] 🔗 [HN #8] URL: https://maurycyz.com/projects/fading/
+INFO     2026-11-10 13:21:23 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-10 13:21:23 [scraper.py:170] 📥 [HN #9] Show HN: Ghanaian street games you can play in the browser
+INFO     2026-11-10 13:21:23 [scraper.py:171] 🔗 [HN #9] URL: https://www.ghanastreetgames.com/
+INFO     2026-11-10 13:21:23 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-10 13:21:24 [scraper.py:170] 📥 [HN #10] Fireworks AI security breach impacts Notion and their customers
+INFO     2026-11-10 13:21:24 [scraper.py:171] 🔗 [HN #10] URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor
+INFO     2026-11-10 13:21:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-10 13:21:24 [scraper.py:178] 🎉 [HN] All done.
+
