@@ -46396,3 +46396,36 @@ INFO     2026-11-10 17:31:31 [scraper.py:171] 🔗 [HN #10] URL: https://neongd.
 INFO     2026-11-10 17:31:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-10 17:31:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-11 05:51:15 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-11 05:51:16 [scraper.py:170] 📥 [HN #1] Protecting SSH Keys with macOS Secure Enclave
+INFO     2026-11-11 05:51:16 [scraper.py:171] 🔗 [HN #1] URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
+INFO     2026-11-11 05:51:16 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-11 05:51:16 [scraper.py:170] 📥 [HN #2] Greg Kurtzer's Ginux is now a userspace kernel
+INFO     2026-11-11 05:51:16 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/gmkurtzer/ginux
+INFO     2026-11-11 05:51:16 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-11 05:51:16 [scraper.py:170] 📥 [HN #3] Scion is back and is going to sell a kei truck in America
+INFO     2026-11-11 05:51:16 [scraper.py:171] 🔗 [HN #3] URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+INFO     2026-11-11 05:51:16 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-11 05:51:17 [scraper.py:170] 📥 [HN #4] .name Grandfathered
+INFO     2026-11-11 05:51:17 [scraper.py:171] 🔗 [HN #4] URL: https://neil.fraser.name/news/2026/11/10/
+INFO     2026-11-11 05:51:17 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-11 05:51:17 [scraper.py:170] 📥 [HN #5] Smart home devices should work without the internet
+INFO     2026-11-11 05:51:17 [scraper.py:171] 🔗 [HN #5] URL: https://docodethatmatters.com/home-automation-overnight-success/
+INFO     2026-11-11 05:51:17 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-11 05:51:17 [scraper.py:170] 📥 [HN #6] A great old-timey game-programming hack (2013)
+INFO     2026-11-11 05:51:17 [scraper.py:171] 🔗 [HN #6] URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+INFO     2026-11-11 05:51:17 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-11 05:51:17 [scraper.py:170] 📥 [HN #7] To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
+INFO     2026-11-11 05:51:17 [scraper.py:171] 🔗 [HN #7] URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
+INFO     2026-11-11 05:51:17 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-11 05:51:17 [scraper.py:170] 📥 [HN #8] Six Math Essentials
+INFO     2026-11-11 05:51:17 [scraper.py:171] 🔗 [HN #8] URL: https://teorth.github.io/tao-web/six-math-essentials.html
+INFO     2026-11-11 05:51:17 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-11 05:51:18 [scraper.py:170] 📥 [HN #9] Starlink Mini 2
+INFO     2026-11-11 05:51:18 [scraper.py:171] 🔗 [HN #9] URL: https://starlink.com/mini-2
+INFO     2026-11-11 05:51:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-11 05:51:18 [scraper.py:170] 📥 [HN #10] Tracking Anthropic-discovered vulnerabilities
+INFO     2026-11-11 05:51:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+INFO     2026-11-11 05:51:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-11 05:51:18 [scraper.py:178] 🎉 [HN] All done.
+
