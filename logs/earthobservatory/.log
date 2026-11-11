@@ -23443,3 +23443,24 @@ INFO     2026-11-11 12:33:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-11 12:33:11 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-11 17:44:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-11 17:44:28 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-11 17:44:28 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-11 17:44:28 [scraper.py:133] 📥 [EO] Title: Water Surges Into Navajo Reservoir
+INFO     2026-11-11 17:44:28 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-11 17:44:28 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-11 17:44:28 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-11 17:44:28 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-11 17:44:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-11 17:44:29 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-11 17:44:30 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-11 17:44:30 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-11 17:44:30 [scraper.py:133] 📥 [EO] Title: Water Surges Into Navajo Reservoir
+INFO     2026-11-11 17:44:30 [scraper.py:133] 📥 [EO] Title: Water Surges Into Navajo Reservoir
+INFO     2026-11-11 17:44:30 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-11 17:44:30 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300&h=200
+INFO     2026-11-11 17:44:30 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-11 17:44:30 [scraper.py:154] ✅ [EO] Successfully fetched.
+
