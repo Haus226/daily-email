@@ -23506,3 +23506,24 @@ INFO     2026-11-12 13:37:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-12 13:37:42 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-12 17:57:03 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-12 17:57:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-12 17:57:04 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-12 17:57:04 [scraper.py:133] 📥 [EO] Title: Scotland’s Flow Country
+INFO     2026-11-12 17:57:04 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304_th.jpg?w=300
+INFO     2026-11-12 17:57:04 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-12 17:57:04 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-12 17:57:04 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-12 17:57:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-12 17:57:04 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-12 17:57:05 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-12 17:57:05 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-12 17:57:05 [scraper.py:133] 📥 [EO] Title: Scotland’s Flow Country
+INFO     2026-11-12 17:57:05 [scraper.py:133] 📥 [EO] Title: Scotland’s Flow Country
+INFO     2026-11-12 17:57:05 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304_th.jpg?w=300
+INFO     2026-11-12 17:57:05 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304_th.jpg?w=300
+INFO     2026-11-12 17:57:05 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-12 17:57:05 [scraper.py:154] ✅ [EO] Successfully fetched.
+

@@ -46561,3 +46561,36 @@ INFO     2026-11-12 13:37:43 [scraper.py:171] 🔗 [HN #10] URL: http://blog.noz
 INFO     2026-11-12 13:37:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-12 13:37:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-12 17:57:04 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-12 17:57:04 [scraper.py:170] 📥 [HN #1] NVIDIA Announces CEO Transition
+INFO     2026-11-12 17:57:04 [scraper.py:171] 🔗 [HN #1] URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+INFO     2026-11-12 17:57:04 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-12 17:57:04 [scraper.py:170] 📥 [HN #2] Anthropic IPO
+INFO     2026-11-12 17:57:04 [scraper.py:171] 🔗 [HN #2] URL: https://ipo.anthropic.com/us/
+INFO     2026-11-12 17:57:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #3] Abandoned Quake 4 expansion finished by modders and now playable
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #3] URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #4] I'm making LLMs work on small and old devices
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/hyperionaidev/smolmaxxing/
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #5] Talking Zen 6 with Mike Clark at AMD In-Depth
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #5] URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #6] ExcalidrawZ: Local Native Excalidraw on macOS/iOS
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/chocoford/ExcalidrawZ
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #7] Why Writing Correct Software Is Hard
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #7] URL: https://pron.github.io/posts/correctness-and-complexity
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-12 17:57:05 [scraper.py:170] 📥 [HN #8] Libreagi – Save OSS Models
+INFO     2026-11-12 17:57:05 [scraper.py:171] 🔗 [HN #8] URL: https://libreagi.com/
+INFO     2026-11-12 17:57:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-12 17:57:06 [scraper.py:170] 📥 [HN #9] Running web sites makes me not want to
+INFO     2026-11-12 17:57:06 [scraper.py:171] 🔗 [HN #9] URL: https://lowkey.party/running-web-sites-makes-me-not-want-to
+INFO     2026-11-12 17:57:06 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-12 17:57:06 [scraper.py:170] 📥 [HN #10] Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep
+INFO     2026-11-12 17:57:06 [scraper.py:171] 🔗 [HN #10] URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep
+INFO     2026-11-12 17:57:06 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-12 17:57:06 [scraper.py:178] 🎉 [HN] All done.
+
