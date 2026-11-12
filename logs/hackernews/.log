@@ -46495,3 +46495,36 @@ INFO     2026-11-11 17:44:31 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-11-11 17:44:31 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-11 17:44:31 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-12 06:56:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-12 06:56:11 [scraper.py:170] 📥 [HN #1] 93% of paint splatters are valid Perl programs (2019)
+INFO     2026-11-12 06:56:11 [scraper.py:171] 🔗 [HN #1] URL: https://www.mcmillen.dev/sigbovik/
+INFO     2026-11-12 06:56:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-12 06:56:12 [scraper.py:170] 📥 [HN #2] Tim Peters has died
+INFO     2026-11-12 06:56:12 [scraper.py:171] 🔗 [HN #2] URL: https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028
+INFO     2026-11-12 06:56:12 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-12 06:56:12 [scraper.py:170] 📥 [HN #3] AWS emulator
+INFO     2026-11-12 06:56:12 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/aws/aws-emulator
+INFO     2026-11-12 06:56:12 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-12 06:56:12 [scraper.py:170] 📥 [HN #4] Critical RCE Vulnerability in Apache HTTP Server
+INFO     2026-11-12 06:56:12 [scraper.py:171] 🔗 [HN #4] URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability
+INFO     2026-11-12 06:56:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #5] Nvidia is preparing to oust Jensen Huang
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #5] URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #6] A false smoke alarm almost drowned Jane Street's only NYC datacenter
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #6] URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #7] Gemini Decisions API
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #7] URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #8] Jane Street: Socratic Tutor
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #9] United Airlines bans AI agents from booking flights on behalf of travelers
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #9] URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:170] 📥 [HN #10] Lock Your GitHub Actions
+INFO     2026-11-12 06:56:13 [scraper.py:171] 🔗 [HN #10] URL: https://hugovk.dev/blog/2026/lock-github-actions/
+INFO     2026-11-12 06:56:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-12 06:56:13 [scraper.py:178] 🎉 [HN] All done.
+
