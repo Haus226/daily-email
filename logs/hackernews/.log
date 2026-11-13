@@ -46594,3 +46594,36 @@ INFO     2026-11-12 17:57:06 [scraper.py:171] 🔗 [HN #10] URL: https://www.ign
 INFO     2026-11-12 17:57:06 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-12 17:57:06 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-13 06:18:01 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-13 06:18:01 [scraper.py:170] 📥 [HN #1] Jensen Huang resigns
+INFO     2026-11-13 06:18:01 [scraper.py:171] 🔗 [HN #1] URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
+INFO     2026-11-13 06:18:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-13 06:18:02 [scraper.py:170] 📥 [HN #2] IceWM
+INFO     2026-11-13 06:18:02 [scraper.py:171] 🔗 [HN #2] URL: https://ice-wm.org/
+INFO     2026-11-13 06:18:02 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-13 06:18:02 [scraper.py:170] 📥 [HN #3] Rust 1.100
+INFO     2026-11-13 06:18:02 [scraper.py:171] 🔗 [HN #3] URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+INFO     2026-11-13 06:18:02 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-13 06:18:02 [scraper.py:170] 📥 [HN #4] Switcher (2004)
+INFO     2026-11-13 06:18:02 [scraper.py:171] 🔗 [HN #4] URL: https://folklore.org/Switcher.html
+INFO     2026-11-13 06:18:02 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-13 06:18:02 [scraper.py:170] 📥 [HN #5] Gemini 4 Hydrogen and Orchestrator
+INFO     2026-11-13 06:18:02 [scraper.py:171] 🔗 [HN #5] URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+INFO     2026-11-13 06:18:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-13 06:18:02 [scraper.py:170] 📥 [HN #6] Show HN: My $300 embroidery machine needed a subscription, so I built my own app
+INFO     2026-11-13 06:18:02 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/simpsoka/zigzag
+INFO     2026-11-13 06:18:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-13 06:18:03 [scraper.py:170] 📥 [HN #7] Edge0-145B: Frontier AI Capabilities on Your Own Computer
+INFO     2026-11-13 06:18:03 [scraper.py:171] 🔗 [HN #7] URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+INFO     2026-11-13 06:18:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-13 06:18:03 [scraper.py:170] 📥 [HN #8] Brave Search API now accepts agentic payments via the x402 protocol
+INFO     2026-11-13 06:18:03 [scraper.py:171] 🔗 [HN #8] URL: https://brave.com/blog/search-api-agentic-payments/
+INFO     2026-11-13 06:18:03 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-13 06:18:03 [scraper.py:170] 📥 [HN #9] Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+INFO     2026-11-13 06:18:03 [scraper.py:171] 🔗 [HN #9] URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/
+INFO     2026-11-13 06:18:03 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-13 06:18:03 [scraper.py:170] 📥 [HN #10] Nvidia employees petition to bring back Jensen Huang
+INFO     2026-11-13 06:18:03 [scraper.py:171] 🔗 [HN #10] URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+INFO     2026-11-13 06:18:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-13 06:18:03 [scraper.py:178] 🎉 [HN] All done.
+
