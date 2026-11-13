@@ -46660,3 +46660,36 @@ INFO     2026-11-13 12:56:35 [scraper.py:171] 🔗 [HN #10] URL: https://www.smi
 INFO     2026-11-13 12:56:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-13 12:56:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-13 17:31:43 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-13 17:31:43 [scraper.py:170] 📥 [HN #1] Reverse engineering my Coway air purifier to ditch the cloud
+INFO     2026-11-13 17:31:43 [scraper.py:171] 🔗 [HN #1] URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/
+INFO     2026-11-13 17:31:43 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-13 17:31:43 [scraper.py:170] 📥 [HN #2] "LibreOffice works 365 days a year. Just saying."
+INFO     2026-11-13 17:31:43 [scraper.py:171] 🔗 [HN #2] URL: https://twitter.com/LibreOffice/status/2121205272479998268
+INFO     2026-11-13 17:31:43 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #3] A technical vision for the Haskell ecosystem
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #3] URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #4] Why Zig over C for Systems Programming
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #4] URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #5] Jensen Huang resigns
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #5] URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #6] Doomsday: Friday, 13 November, A.D. 2026 (1960)
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #6] URL: https://www.science.org/doi/10.1126/science.132.3436.1291
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #7] Lonewolf 0.3 – A standalone XMPP server written in Rust
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #8] Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #8] URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-13 17:31:44 [scraper.py:170] 📥 [HN #9] Palmfrets, Minnesota guitarist's invention, strikes a new chord
+INFO     2026-11-13 17:31:44 [scraper.py:171] 🔗 [HN #9] URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord
+INFO     2026-11-13 17:31:44 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-13 17:31:45 [scraper.py:170] 📥 [HN #10] IceWM
+INFO     2026-11-13 17:31:45 [scraper.py:171] 🔗 [HN #10] URL: https://ice-wm.org/
+INFO     2026-11-13 17:31:45 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-13 17:31:45 [scraper.py:178] 🎉 [HN] All done.
+
