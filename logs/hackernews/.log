@@ -46759,3 +46759,36 @@ INFO     2026-11-14 11:59:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.you
 INFO     2026-11-14 11:59:58 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-14 11:59:58 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-14 16:24:36 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-14 16:24:36 [scraper.py:170] 📥 [HN #1] PyPI's redesigned project pages with clearer security signals are now live
+INFO     2026-11-14 16:24:36 [scraper.py:171] 🔗 [HN #1] URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
+INFO     2026-11-14 16:24:36 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-14 16:24:36 [scraper.py:170] 📥 [HN #2] KDE: The Documentary on Free Software [video]
+INFO     2026-11-14 16:24:36 [scraper.py:171] 🔗 [HN #2] URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
+INFO     2026-11-14 16:24:36 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-14 16:24:36 [scraper.py:170] 📥 [HN #3] Why get an expensive Pi when I have an old phone?
+INFO     2026-11-14 16:24:36 [scraper.py:171] 🔗 [HN #3] URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
+INFO     2026-11-14 16:24:36 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-14 16:24:36 [scraper.py:170] 📥 [HN #4] Advancing science and engineering with Antigravity's /teamwork
+INFO     2026-11-14 16:24:36 [scraper.py:171] 🔗 [HN #4] URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/
+INFO     2026-11-14 16:24:36 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-14 16:24:37 [scraper.py:170] 📥 [HN #5] Show HN: A terminal-native idle factory game, written in Rust with ratatui
+INFO     2026-11-14 16:24:37 [scraper.py:171] 🔗 [HN #5] URL: https://gitlab.com/snipedbywifi/terminactory
+INFO     2026-11-14 16:24:37 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-14 16:24:37 [scraper.py:170] 📥 [HN #6] Generative AI uses more energy on non-English text
+INFO     2026-11-14 16:24:37 [scraper.py:171] 🔗 [HN #6] URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/
+INFO     2026-11-14 16:24:37 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-14 16:24:37 [scraper.py:170] 📥 [HN #7] Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)
+INFO     2026-11-14 16:24:37 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/FURSOY/fursoy-cpu
+INFO     2026-11-14 16:24:37 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-14 16:24:38 [scraper.py:170] 📥 [HN #8] Show HN: Agweb – a browser for agents that stays out of your way
+INFO     2026-11-14 16:24:38 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/paul-nameless/agweb
+INFO     2026-11-14 16:24:38 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-14 16:24:38 [scraper.py:170] 📥 [HN #9] Tech Companies Are Trying to Shift the Concept of Privacy (Again)
+INFO     2026-11-14 16:24:38 [scraper.py:171] 🔗 [HN #9] URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again
+INFO     2026-11-14 16:24:38 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-14 16:24:38 [scraper.py:170] 📥 [HN #10] Ggml v1.0.0
+INFO     2026-11-14 16:24:38 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+INFO     2026-11-14 16:24:38 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-14 16:24:38 [scraper.py:178] 🎉 [HN] All done.
+
