@@ -46726,3 +46726,36 @@ INFO     2026-11-14 05:59:57 [scraper.py:171] 🔗 [HN #10] URL: https://www.nat
 INFO     2026-11-14 05:59:57 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-14 05:59:57 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-14 11:59:56 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-14 11:59:56 [scraper.py:170] 📥 [HN #1] Why get an expensive Pi when I have an old phone?
+INFO     2026-11-14 11:59:56 [scraper.py:171] 🔗 [HN #1] URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
+INFO     2026-11-14 11:59:56 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-14 11:59:56 [scraper.py:170] 📥 [HN #2] Ggml v1.0.0
+INFO     2026-11-14 11:59:56 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+INFO     2026-11-14 11:59:56 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-14 11:59:57 [scraper.py:170] 📥 [HN #3] Monkey Island: all 13 versions side by side
+INFO     2026-11-14 11:59:57 [scraper.py:171] 🔗 [HN #3] URL: https://monkeyisland.pages.dev/
+INFO     2026-11-14 11:59:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-14 11:59:57 [scraper.py:170] 📥 [HN #4] Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+INFO     2026-11-14 11:59:57 [scraper.py:171] 🔗 [HN #4] URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+INFO     2026-11-14 11:59:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-14 11:59:57 [scraper.py:170] 📥 [HN #5] Terminal borders that don't cost a cell
+INFO     2026-11-14 11:59:57 [scraper.py:171] 🔗 [HN #5] URL: https://www.joshka.net/cell-borders/
+INFO     2026-11-14 11:59:57 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-14 11:59:57 [scraper.py:170] 📥 [HN #6] Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update
+INFO     2026-11-14 11:59:57 [scraper.py:171] 🔗 [HN #6] URL: https://unsloth.ai/docs/models/qwen3.8
+INFO     2026-11-14 11:59:57 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-14 11:59:58 [scraper.py:170] 📥 [HN #7] FAA issues national ground stop – lifted 4.5 hours later
+INFO     2026-11-14 11:59:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+INFO     2026-11-14 11:59:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-14 11:59:58 [scraper.py:170] 📥 [HN #8] Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop
+INFO     2026-11-14 11:59:58 [scraper.py:171] 🔗 [HN #8] URL: https://grounds.top/
+INFO     2026-11-14 11:59:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-14 11:59:58 [scraper.py:170] 📥 [HN #9] What happened to 3Com?
+INFO     2026-11-14 11:59:58 [scraper.py:171] 🔗 [HN #9] URL: https://dfarq.homeip.net/what-happened-to-3com/
+INFO     2026-11-14 11:59:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-14 11:59:58 [scraper.py:170] 📥 [HN #10] Jonathan Blow – If AI solved coding, why is my software still the same? [video]
+INFO     2026-11-14 11:59:58 [scraper.py:171] 🔗 [HN #10] URL: https://www.youtube.com/watch?v=IRK8h67ol7Q
+INFO     2026-11-14 11:59:58 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-14 11:59:58 [scraper.py:178] 🎉 [HN] All done.
+
