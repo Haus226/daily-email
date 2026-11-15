@@ -46825,3 +46825,36 @@ INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.qua
 INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-15 06:03:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-15 12:36:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-15 12:36:02 [scraper.py:170] 📥 [HN #1] SpaceX catches the Starship to end Flight 15
+INFO     2026-11-15 12:36:02 [scraper.py:171] 🔗 [HN #1] URL: https://www.spacex.com/launches/starship-flight-15
+INFO     2026-11-15 12:36:02 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #2] Why did some Apollo missions carry a grenade launcher?
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #2] URL: https://space.stackexchange.com/questions/37775
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #3] Lovable apps expose passport details and more than 200K private messages
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #3] URL: https://www.crissyfield.de/research/lovable-en/
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #4] Court denies motion to dismiss DRAM price fixing case
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #4] URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #5] Strictly monotonic timestamps and gapless sequences in Rust
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #5] URL: https://tsoracle.rs/
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #6] Handwritten 200-year-old dismissal notice found on roof tile
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #6] URL: https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-15 12:36:03 [scraper.py:170] 📥 [HN #7] How did Woz write the Apple 1 BASIC before building the computer?
+INFO     2026-11-15 12:36:03 [scraper.py:171] 🔗 [HN #7] URL: https://retrocomputing.stackexchange.com/questions/17957
+INFO     2026-11-15 12:36:03 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-15 12:36:04 [scraper.py:170] 📥 [HN #8] Disk encryption on NetBSD – achieving secrecy
+INFO     2026-11-15 12:36:04 [scraper.py:171] 🔗 [HN #8] URL: https://netbsd.org/~nia/disk-encrypt/
+INFO     2026-11-15 12:36:04 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-15 12:36:04 [scraper.py:170] 📥 [HN #9] My favourite modern NES games
+INFO     2026-11-15 12:36:04 [scraper.py:171] 🔗 [HN #9] URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/
+INFO     2026-11-15 12:36:04 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-15 12:36:04 [scraper.py:170] 📥 [HN #10] Semicircle Packing
+INFO     2026-11-15 12:36:04 [scraper.py:171] 🔗 [HN #10] URL: https://rorz.io/writing/semicircle-packing
+INFO     2026-11-15 12:36:04 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-15 12:36:04 [scraper.py:178] 🎉 [HN] All done.
+
