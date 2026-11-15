@@ -46792,3 +46792,36 @@ INFO     2026-11-14 16:24:38 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-11-14 16:24:38 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-14 16:24:38 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-15 06:03:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-15 06:03:19 [scraper.py:170] 📥 [HN #1] SpaceX catches the Starship to end Flight 15
+INFO     2026-11-15 06:03:19 [scraper.py:171] 🔗 [HN #1] URL: https://www.spacex.com/launches/starship-flight-15
+INFO     2026-11-15 06:03:19 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-15 06:03:20 [scraper.py:170] 📥 [HN #2] Lovable apps expose passport details and more than 200K private messages
+INFO     2026-11-15 06:03:20 [scraper.py:171] 🔗 [HN #2] URL: https://www.crissyfield.de/research/lovable-en/
+INFO     2026-11-15 06:03:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-15 06:03:20 [scraper.py:170] 📥 [HN #3] Show HN: Gawain – Require type hints on all Python variables
+INFO     2026-11-15 06:03:20 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/matheuzgomes/gawain
+INFO     2026-11-15 06:03:20 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-15 06:03:20 [scraper.py:170] 📥 [HN #4] Memory Safety Bugs in Rust Standard Library
+INFO     2026-11-15 06:03:20 [scraper.py:171] 🔗 [HN #4] URL: https://forge-blog.github.io/posts/rust-std-memory-safety/
+INFO     2026-11-15 06:03:20 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-15 06:03:20 [scraper.py:170] 📥 [HN #5] How did Woz write the Apple 1 BASIC before building the computer?
+INFO     2026-11-15 06:03:20 [scraper.py:171] 🔗 [HN #5] URL: https://retrocomputing.stackexchange.com/questions/17957
+INFO     2026-11-15 06:03:20 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:170] 📥 [HN #6] Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP
+INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/Tthanh2k6/turbo-browser-mcp
+INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:170] 📥 [HN #7] Osint Case Studies
+INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #7] URL: https://osintsearch.org/blog/osint-case-studies
+INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:170] 📥 [HN #8] We're Asking an Appeals Court to Require a Warrant for ALPR Searches
+INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #8] URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
+INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:170] 📥 [HN #9] A family tree of software job titles
+INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #9] URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:170] 📥 [HN #10] The Evolving Story of How Chemistry Became Biology
+INFO     2026-11-15 06:03:21 [scraper.py:171] 🔗 [HN #10] URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
+INFO     2026-11-15 06:03:21 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-15 06:03:21 [scraper.py:178] 🎉 [HN] All done.
+
