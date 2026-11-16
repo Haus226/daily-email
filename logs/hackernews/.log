@@ -46924,3 +46924,36 @@ INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #10] URL: https://ductus.
 INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-16 06:01:49 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-16 13:27:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-16 13:27:54 [scraper.py:170] 📥 [HN #1] Coffeehouses and the Rise of Science [pdf]
+INFO     2026-11-16 13:27:54 [scraper.py:171] 🔗 [HN #1] URL: https://www.monirbounadi.com/Bounadi_JMP.pdf
+INFO     2026-11-16 13:27:54 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-16 13:27:55 [scraper.py:170] 📥 [HN #2] How to make almost anything
+INFO     2026-11-16 13:27:55 [scraper.py:171] 🔗 [HN #2] URL: https://pub.cba.mit.edu/863.26/site/
+INFO     2026-11-16 13:27:55 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-16 13:27:55 [scraper.py:170] 📥 [HN #3] The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
+INFO     2026-11-16 13:27:55 [scraper.py:171] 🔗 [HN #3] URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/
+INFO     2026-11-16 13:27:55 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-16 13:27:55 [scraper.py:170] 📥 [HN #4] Universal XSS in uBlock Origin from website-driven element picker
+INFO     2026-11-16 13:27:55 [scraper.py:171] 🔗 [HN #4] URL: https://iter.ca/post/ubo-uxss/
+INFO     2026-11-16 13:27:55 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-16 13:27:55 [scraper.py:170] 📥 [HN #5] Researchers track whole body movement with just a smartwatch
+INFO     2026-11-16 13:27:55 [scraper.py:171] 🔗 [HN #5] URL: https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch
+INFO     2026-11-16 13:27:55 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-16 13:27:55 [scraper.py:170] 📥 [HN #6] OOS – an open operating system for the Rigol Scopes
+INFO     2026-11-16 13:27:55 [scraper.py:171] 🔗 [HN #6] URL: https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/
+INFO     2026-11-16 13:27:55 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-16 13:27:56 [scraper.py:170] 📥 [HN #7] Qwen4-Max
+INFO     2026-11-16 13:27:56 [scraper.py:171] 🔗 [HN #7] URL: https://qwen.ai/blog?id=qwen4-max
+INFO     2026-11-16 13:27:56 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-16 13:27:56 [scraper.py:170] 📥 [HN #8] Old Bitly links are being hijacked
+INFO     2026-11-16 13:27:56 [scraper.py:171] 🔗 [HN #8] URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/
+INFO     2026-11-16 13:27:56 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-16 13:27:56 [scraper.py:170] 📥 [HN #9] What's Next for Nvidia?
+INFO     2026-11-16 13:27:56 [scraper.py:171] 🔗 [HN #9] URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/
+INFO     2026-11-16 13:27:56 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-16 13:27:56 [scraper.py:170] 📥 [HN #10] Exact Gradients Through a BRep Kernel
+INFO     2026-11-16 13:27:56 [scraper.py:171] 🔗 [HN #10] URL: https://muni.works/research/vcad
+INFO     2026-11-16 13:27:56 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-16 13:27:56 [scraper.py:178] 🎉 [HN] All done.
+
