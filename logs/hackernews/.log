@@ -46891,3 +46891,36 @@ INFO     2026-11-15 16:50:43 [scraper.py:171] 🔗 [HN #10] URL: https://litnews
 INFO     2026-11-15 16:50:43 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-15 16:50:43 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-16 06:01:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-16 06:01:48 [scraper.py:170] 📥 [HN #1] Universal XSS in uBlock Origin from website-driven element picker
+INFO     2026-11-16 06:01:48 [scraper.py:171] 🔗 [HN #1] URL: https://iter.ca/post/ubo-uxss/
+INFO     2026-11-16 06:01:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-16 06:01:48 [scraper.py:170] 📥 [HN #2] Qwen4-Max
+INFO     2026-11-16 06:01:48 [scraper.py:171] 🔗 [HN #2] URL: https://qwen.ai/blog?id=qwen4-max
+INFO     2026-11-16 06:01:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-16 06:01:48 [scraper.py:170] 📥 [HN #3] Old Bitly links are being hijacked
+INFO     2026-11-16 06:01:48 [scraper.py:171] 🔗 [HN #3] URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/
+INFO     2026-11-16 06:01:48 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #4] What's Next for Nvidia?
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #4] URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #5] Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #5] URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #6] Preserving 30 years of Salon journalism
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #6] URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #7] Protomaps: Self-hosting map tiles has gotten cheap and easy
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #7] URL: https://bruceroettgers.eu/blog/protomaps/
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #8] The Miracle Cure: In 1977, a drug rejected by doctors became a sensation
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #8] URL: https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #9] A short explainer on how El Niño works [video]
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #9] URL: https://www.youtube.com/watch?v=7_JF3etiAv8
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:170] 📥 [HN #10] Handwriting, as a Font
+INFO     2026-11-16 06:01:49 [scraper.py:171] 🔗 [HN #10] URL: https://ductus.sorenblank.com
+INFO     2026-11-16 06:01:49 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-16 06:01:49 [scraper.py:178] 🎉 [HN] All done.
+
