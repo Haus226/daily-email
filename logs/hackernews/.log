@@ -46957,3 +46957,36 @@ INFO     2026-11-16 13:27:56 [scraper.py:171] 🔗 [HN #10] URL: https://muni.wo
 INFO     2026-11-16 13:27:56 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-16 13:27:56 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-16 20:01:25 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-16 20:01:27 [scraper.py:170] 📥 [HN #1] Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
+INFO     2026-11-16 20:01:27 [scraper.py:171] 🔗 [HN #1] URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda
+INFO     2026-11-16 20:01:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-16 20:01:28 [scraper.py:170] 📥 [HN #2] Grazing sheep in fields with solar arrays
+INFO     2026-11-16 20:01:28 [scraper.py:171] 🔗 [HN #2] URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
+INFO     2026-11-16 20:01:28 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-16 20:01:28 [scraper.py:170] 📥 [HN #3] Jiff 1.0: A datetime library for Rust
+INFO     2026-11-16 20:01:28 [scraper.py:171] 🔗 [HN #3] URL: https://burntsushi.net/jiff/
+INFO     2026-11-16 20:01:28 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-16 20:01:29 [scraper.py:170] 📥 [HN #4] Software is breaking down at a systemic level
+INFO     2026-11-16 20:01:29 [scraper.py:171] 🔗 [HN #4] URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
+INFO     2026-11-16 20:01:29 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-16 20:01:29 [scraper.py:170] 📥 [HN #5] Frame – 31.5" color ePaper display
+INFO     2026-11-16 20:01:29 [scraper.py:171] 🔗 [HN #5] URL: https://trmnl.com/blog/introducing-frame
+INFO     2026-11-16 20:01:29 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-16 20:01:30 [scraper.py:170] 📥 [HN #6] The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
+INFO     2026-11-16 20:01:30 [scraper.py:171] 🔗 [HN #6] URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/
+INFO     2026-11-16 20:01:30 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-16 20:01:30 [scraper.py:170] 📥 [HN #7] Aristotle Expands into Rust
+INFO     2026-11-16 20:01:30 [scraper.py:171] 🔗 [HN #7] URL: https://www.harmonic.fun/news/aristotle-rust-verification/
+INFO     2026-11-16 20:01:30 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-16 20:01:30 [scraper.py:170] 📥 [HN #8] Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself
+INFO     2026-11-16 20:01:30 [scraper.py:171] 🔗 [HN #8] URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/
+INFO     2026-11-16 20:01:30 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-16 20:01:30 [scraper.py:170] 📥 [HN #9] How to Intercept HTTP/3 Traffic: QUIC and Qpack
+INFO     2026-11-16 20:01:30 [scraper.py:171] 🔗 [HN #9] URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/
+INFO     2026-11-16 20:01:30 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-16 20:01:31 [scraper.py:170] 📥 [HN #10] Jolt – Clojure that speaks C
+INFO     2026-11-16 20:01:31 [scraper.py:171] 🔗 [HN #10] URL: https://jolt-lang.net/
+INFO     2026-11-16 20:01:31 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-16 20:01:31 [scraper.py:178] 🎉 [HN] All done.
+
