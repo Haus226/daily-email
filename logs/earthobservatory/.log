@@ -23800,3 +23800,24 @@ INFO     2026-11-17 07:39:59 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-17 07:39:59 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-17 14:13:37 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 14:13:39 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 14:13:40 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 14:13:40 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 14:13:40 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+INFO     2026-11-17 14:13:40 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-17 14:13:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 14:13:40 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 14:13:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 14:13:40 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 14:13:40 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 14:13:40 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 14:13:40 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 14:13:40 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 14:13:40 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+INFO     2026-11-17 14:13:40 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg
+INFO     2026-11-17 14:13:40 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-17 14:13:40 [scraper.py:154] ✅ [EO] Successfully fetched.
+

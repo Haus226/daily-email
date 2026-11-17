@@ -47023,3 +47023,36 @@ INFO     2026-11-17 07:40:01 [scraper.py:171] 🔗 [HN #10] URL: https://chillph
 INFO     2026-11-17 07:40:01 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-17 07:40:01 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-17 14:13:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-17 14:13:40 [scraper.py:170] 📥 [HN #1] Regulatory Capture by Anthropic Through METR
+INFO     2026-11-17 14:13:40 [scraper.py:171] 🔗 [HN #1] URL: https://nitter.cf/kevinnbass/status/2099621874279817638
+INFO     2026-11-17 14:13:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-17 14:13:40 [scraper.py:170] 📥 [HN #2] Carnegie Mellon is putting computer science courses on YouTube for free
+INFO     2026-11-17 14:13:40 [scraper.py:171] 🔗 [HN #2] URL: https://www.cs.cmu.edu/learn/
+INFO     2026-11-17 14:13:40 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-17 14:13:40 [scraper.py:170] 📥 [HN #3] New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+INFO     2026-11-17 14:13:40 [scraper.py:171] 🔗 [HN #3] URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html
+INFO     2026-11-17 14:13:40 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-17 14:13:40 [scraper.py:170] 📥 [HN #4] VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012
+INFO     2026-11-17 14:13:40 [scraper.py:171] 🔗 [HN #4] URL: https://visualbasic.world/
+INFO     2026-11-17 14:13:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #5] Rows vs. Columns: How different are they, really?
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #5] URL: https://spiraldb.com/blog/rows-vs-columns
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #6] Turbo Pascal Compiler Written in Turbo Pascal
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #6] URL: https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #7] Optimizely compromised, served malware on Zoom, GitLab
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #7] URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #8] BugMeNot has closed
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #8] URL: https://www.bugmenot.com/
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #9] Why sending notifications is a nightmare for engineers
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #9] URL: https://notifkit.dev/articles/why-notification-systems-are-a-nightmare
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:170] 📥 [HN #10] Nimony: A New Compiler for Nim
+INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #10] URL: https://nimony.org/
+INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-17 14:13:41 [scraper.py:178] 🎉 [HN] All done.
+
