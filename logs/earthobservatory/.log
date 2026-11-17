@@ -23821,3 +23821,24 @@ INFO     2026-11-17 14:13:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-17 14:13:40 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-17 18:58:23 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 18:58:26 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 18:58:26 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 18:58:26 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 18:58:26 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-17 18:58:26 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-17 18:58:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 18:58:26 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-17 18:58:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 18:58:27 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-17 18:58:28 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 18:58:28 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-17 18:58:28 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 18:58:28 [scraper.py:133] 📥 [EO] Title: Tossing Fireworks from Cloud to Cloud
+INFO     2026-11-17 18:58:28 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-17 18:58:28 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-17 18:58:28 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-17 18:58:28 [scraper.py:154] ✅ [EO] Successfully fetched.
+

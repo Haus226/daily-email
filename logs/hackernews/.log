@@ -47056,3 +47056,36 @@ INFO     2026-11-17 14:13:41 [scraper.py:171] 🔗 [HN #10] URL: https://nimony.
 INFO     2026-11-17 14:13:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-17 14:13:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-17 18:58:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-17 18:58:27 [scraper.py:170] 📥 [HN #1] GPT‑6.2 Astra and Sol
+INFO     2026-11-17 18:58:27 [scraper.py:171] 🔗 [HN #1] URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+INFO     2026-11-17 18:58:27 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-17 18:58:27 [scraper.py:170] 📥 [HN #2] MAI Code 2 and Code 2 Flash
+INFO     2026-11-17 18:58:27 [scraper.py:171] 🔗 [HN #2] URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+INFO     2026-11-17 18:58:27 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-17 18:58:27 [scraper.py:170] 📥 [HN #3] What is the best harness for each model?
+INFO     2026-11-17 18:58:27 [scraper.py:171] 🔗 [HN #3] URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/
+INFO     2026-11-17 18:58:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-17 18:58:27 [scraper.py:170] 📥 [HN #4] Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off
+INFO     2026-11-17 18:58:27 [scraper.py:171] 🔗 [HN #4] URL: https://alloyhtml.com/example.html
+INFO     2026-11-17 18:58:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-17 18:58:27 [scraper.py:170] 📥 [HN #5] Apple Services Down
+INFO     2026-11-17 18:58:27 [scraper.py:171] 🔗 [HN #5] URL: https://downdetector.com/status/apple-support/
+INFO     2026-11-17 18:58:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:170] 📥 [HN #6] Carnegie Mellon is putting computer science courses on YouTube for free
+INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #6] URL: https://www.cs.cmu.edu/learn/
+INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:170] 📥 [HN #7] New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #7] URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html
+INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:170] 📥 [HN #8] NSA Internal Network Down
+INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #8] URL: https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/
+INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:170] 📥 [HN #9] First Photos of the Poles of a Rod-Shaped Bacterium
+INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #9] URL: https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664
+INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:170] 📥 [HN #10] YC wrote software to run our internship expo – and an 8-bit SIM to show it off
+INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=50534429
+INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-17 18:58:28 [scraper.py:178] 🎉 [HN] All done.
+
