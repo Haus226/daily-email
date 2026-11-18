@@ -47089,3 +47089,36 @@ INFO     2026-11-17 18:58:28 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-11-17 18:58:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-17 18:58:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-18 07:01:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-18 07:01:58 [scraper.py:170] 📥 [HN #1] Java4Shell: RCE in OpenJDK when processing Base64
+INFO     2026-11-18 07:01:58 [scraper.py:171] 🔗 [HN #1] URL: https://calif.io/java4shell/
+INFO     2026-11-18 07:01:58 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-18 07:01:58 [scraper.py:170] 📥 [HN #2] ID.me terms required for IRS sign-in
+INFO     2026-11-18 07:01:58 [scraper.py:171] 🔗 [HN #2] URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+INFO     2026-11-18 07:01:58 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-18 07:01:58 [scraper.py:170] 📥 [HN #3] GPT‑6.2 Astra and Sol
+INFO     2026-11-18 07:01:58 [scraper.py:171] 🔗 [HN #3] URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+INFO     2026-11-18 07:01:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #4] Quad9's withdrawal from France: A canary in the coal mine
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #4] URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+INFO     2026-11-18 07:01:59 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #5] Google's AI answers reducing search traffic by 40%
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #5] URL: https://revscope.co/blog/search-seo-geo-2026/
+INFO     2026-11-18 07:01:59 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #6] Interviewed at a YC startup, found out they used my LinkedIn without permission
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #6] URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/
+INFO     2026-11-18 07:01:59 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #7] Nvidia stopped disclosing Singapore sales as revenues hit $104B
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #7] URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
+INFO     2026-11-18 07:01:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #8] Microsoft's ONNX Runtime has disappeared from GitHub
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/microsoft/onnxruntime
+INFO     2026-11-18 07:01:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-18 07:01:59 [scraper.py:170] 📥 [HN #9] Why Fibonacci?
+INFO     2026-11-18 07:01:59 [scraper.py:171] 🔗 [HN #9] URL: https://www.evilgeniuslabs.org/why-fibonacci
+INFO     2026-11-18 07:02:00 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-18 07:02:00 [scraper.py:170] 📥 [HN #10] Why is Gemini 4 Carbon taking so long?
+INFO     2026-11-18 07:02:00 [scraper.py:171] 🔗 [HN #10] URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
+INFO     2026-11-18 07:02:00 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-18 07:02:00 [scraper.py:178] 🎉 [HN] All done.
+
