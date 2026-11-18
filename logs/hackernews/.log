@@ -47155,3 +47155,36 @@ INFO     2026-11-18 13:44:34 [scraper.py:171] 🔗 [HN #10] URL: https://www.ft.
 INFO     2026-11-18 13:44:34 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-18 13:44:34 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-18 18:41:09 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-18 18:41:10 [scraper.py:170] 📥 [HN #1] Pre-auth RCE in Nginx HTTP/2 handling
+INFO     2026-11-18 18:41:10 [scraper.py:171] 🔗 [HN #1] URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+INFO     2026-11-18 18:41:10 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-18 18:41:10 [scraper.py:170] 📥 [HN #2] Seven new models at scalable price-performance
+INFO     2026-11-18 18:41:10 [scraper.py:171] 🔗 [HN #2] URL: https://microsoft.ai/news/microsoft-ignite-2026/
+INFO     2026-11-18 18:41:10 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-18 18:41:10 [scraper.py:170] 📥 [HN #3] Inside Deutsche Bank
+INFO     2026-11-18 18:41:10 [scraper.py:171] 🔗 [HN #3] URL: https://www.inside-db.com/
+INFO     2026-11-18 18:41:10 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-18 18:41:10 [scraper.py:170] 📥 [HN #4] CVE-2026-99312: KVM Guest-to-Host Escape
+INFO     2026-11-18 18:41:10 [scraper.py:171] 🔗 [HN #4] URL: https://www.terra.security/blog/kvm-guest-to-host-escape
+INFO     2026-11-18 18:41:10 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-18 18:41:10 [scraper.py:170] 📥 [HN #5] Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy
+INFO     2026-11-18 18:41:10 [scraper.py:171] 🔗 [HN #5] URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/
+INFO     2026-11-18 18:41:10 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:170] 📥 [HN #6] AI agents ask better questions than KPMG accountants in audit trial
+INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #6] URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
+INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:170] 📥 [HN #7] We asked AI the same 210 buying questions 2 days in a row,84% of answers changed
+INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #7] URL: https://supercite.ai/blog/ai-answers-change-every-day
+INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:170] 📥 [HN #8] Show HN: Take Voyager 1 apart, down to a single memory chip
+INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #8] URL: https://rshekhar.com/voyager/
+INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:170] 📥 [HN #9] 'Human' Is Cambridge Dictionary's Word of the Year 2026
+INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #9] URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026
+INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:170] 📥 [HN #10] U.S. AirForce is looking for old storage Media (CF or PC cards)
+INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #10] URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view
+INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-18 18:41:11 [scraper.py:178] 🎉 [HN] All done.
+
