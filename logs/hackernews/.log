@@ -47254,3 +47254,36 @@ INFO     2026-11-19 14:13:50 [scraper.py:171] 🔗 [HN #10] URL: https://www.kad
 INFO     2026-11-19 14:13:50 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-19 14:13:50 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-19 18:53:54 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-19 18:53:57 [scraper.py:170] 📥 [HN #1] Anthropic hits $2T in Nasdaq debut
+INFO     2026-11-19 18:53:57 [scraper.py:171] 🔗 [HN #1] URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+INFO     2026-11-19 18:53:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-19 18:53:57 [scraper.py:170] 📥 [HN #2] Claude solves two open problems in the physics of black holes
+INFO     2026-11-19 18:53:57 [scraper.py:171] 🔗 [HN #2] URL: https://www.anthropic.com/research/claude-black-hole-physics
+INFO     2026-11-19 18:53:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-19 18:53:57 [scraper.py:170] 📥 [HN #3] Garage Door Spam
+INFO     2026-11-19 18:53:57 [scraper.py:171] 🔗 [HN #3] URL: https://blog.harrison.page/garage-door-spam/
+INFO     2026-11-19 18:53:57 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-19 18:53:57 [scraper.py:170] 📥 [HN #4] Pete warden on local AI, open models, voice interfaces, the future of hardware
+INFO     2026-11-19 18:53:57 [scraper.py:171] 🔗 [HN #4] URL: https://thedataexchange.media/pete-warden-moonshine/
+INFO     2026-11-19 18:53:57 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-19 18:53:58 [scraper.py:170] 📥 [HN #5] Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest
+INFO     2026-11-19 18:53:58 [scraper.py:171] 🔗 [HN #5] URL: https://cornholenews.news
+INFO     2026-11-19 18:53:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-19 18:53:58 [scraper.py:170] 📥 [HN #6] Launch HN: Onlook (YC W25) – An open-source developer tool for designers
+INFO     2026-11-19 18:53:58 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/onlook-dev/onlook/
+INFO     2026-11-19 18:53:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-19 18:53:58 [scraper.py:170] 📥 [HN #7] UK Government Forced to Admit It Issued Apple a Secret Encryption Order
+INFO     2026-11-19 18:53:58 [scraper.py:171] 🔗 [HN #7] URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
+INFO     2026-11-19 18:53:58 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-19 18:53:58 [scraper.py:170] 📥 [HN #8] Someone reported java4shell bug in September 2026
+INFO     2026-11-19 18:53:58 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/openjdk/jdk/pull/32781
+INFO     2026-11-19 18:53:58 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-19 18:53:58 [scraper.py:170] 📥 [HN #9] Making 8-page foldable zines from a single A4 sheet in the browser
+INFO     2026-11-19 18:53:58 [scraper.py:171] 🔗 [HN #9] URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
+INFO     2026-11-19 18:53:58 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-19 18:53:59 [scraper.py:170] 📥 [HN #10] Chile: UFO Sightings by 18th Century Jesuits
+INFO     2026-11-19 18:53:59 [scraper.py:171] 🔗 [HN #10] URL: https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html
+INFO     2026-11-19 18:53:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-19 18:53:59 [scraper.py:178] 🎉 [HN] All done.
+
