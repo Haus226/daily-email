@@ -47188,3 +47188,36 @@ INFO     2026-11-18 18:41:11 [scraper.py:171] 🔗 [HN #10] URL: https://sam.gov
 INFO     2026-11-18 18:41:11 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-18 18:41:11 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-19 07:02:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-19 07:02:08 [scraper.py:170] 📥 [HN #1] Gemini 4 Neon
+INFO     2026-11-19 07:02:08 [scraper.py:171] 🔗 [HN #1] URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+INFO     2026-11-19 07:02:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-19 07:02:08 [scraper.py:170] 📥 [HN #2] Unauthenticated remote code execution in Nginx
+INFO     2026-11-19 07:02:08 [scraper.py:171] 🔗 [HN #2] URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
+INFO     2026-11-19 07:02:08 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-19 07:02:08 [scraper.py:170] 📥 [HN #3] Multiple vulnerabilities in Regexp and String case conversion
+INFO     2026-11-19 07:02:08 [scraper.py:171] 🔗 [HN #3] URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/
+INFO     2026-11-19 07:02:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-19 07:02:09 [scraper.py:170] 📥 [HN #4] 15M web servers on one VM – smoltcp, DPDK, AF_XDP
+INFO     2026-11-19 07:02:09 [scraper.py:171] 🔗 [HN #4] URL: https://kapteko.com/15-million-webservers/
+INFO     2026-11-19 07:02:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-19 07:02:09 [scraper.py:170] 📥 [HN #5] Unreal Tournament 2004 in the Browser
+INFO     2026-11-19 07:02:09 [scraper.py:171] 🔗 [HN #5] URL: https://ut2004.dev/
+INFO     2026-11-19 07:02:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-19 07:02:09 [scraper.py:170] 📥 [HN #6] Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute
+INFO     2026-11-19 07:02:09 [scraper.py:171] 🔗 [HN #6] URL: https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/
+INFO     2026-11-19 07:02:09 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-19 07:02:09 [scraper.py:170] 📥 [HN #7] Seven new models at scalable price-performance
+INFO     2026-11-19 07:02:09 [scraper.py:171] 🔗 [HN #7] URL: https://microsoft.ai/news/microsoft-ignite-2026/
+INFO     2026-11-19 07:02:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-19 07:02:09 [scraper.py:170] 📥 [HN #8] Inside Deutsche Bank
+INFO     2026-11-19 07:02:09 [scraper.py:171] 🔗 [HN #8] URL: https://www.inside-db.com/
+INFO     2026-11-19 07:02:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-19 07:02:10 [scraper.py:170] 📥 [HN #9] Camera Index
+INFO     2026-11-19 07:02:10 [scraper.py:171] 🔗 [HN #9] URL: https://www.cameraindex.co.uk/
+INFO     2026-11-19 07:02:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-19 07:02:10 [scraper.py:170] 📥 [HN #10] LLM assisted reverse engineering
+INFO     2026-11-19 07:02:10 [scraper.py:171] 🔗 [HN #10] URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
+INFO     2026-11-19 07:02:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-19 07:02:10 [scraper.py:178] 🎉 [HN] All done.
+

@@ -23905,3 +23905,24 @@ INFO     2026-11-18 18:41:10 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-18 18:41:10 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-19 07:02:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-19 07:02:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-19 07:02:08 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-19 07:02:08 [scraper.py:133] 📥 [EO] Title: Sierra Snow Season Spins Up
+INFO     2026-11-19 07:02:08 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261114_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-19 07:02:08 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-19 07:02:08 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-19 07:02:08 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-19 07:02:09 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-19 07:02:09 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-19 07:02:09 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-19 07:02:09 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-19 07:02:09 [scraper.py:133] 📥 [EO] Title: El Niño Rains Paint the Atacama
+INFO     2026-11-19 07:02:09 [scraper.py:133] 📥 [EO] Title: El Niño Rains Paint the Atacama
+INFO     2026-11-19 07:02:09 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli2_20261024_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-19 07:02:09 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli2_20261024_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-19 07:02:09 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-19 07:02:09 [scraper.py:154] ✅ [EO] Successfully fetched.
+
