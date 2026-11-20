@@ -47287,3 +47287,36 @@ INFO     2026-11-19 18:53:59 [scraper.py:171] 🔗 [HN #10] URL: https://inexpli
 INFO     2026-11-19 18:53:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-19 18:53:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-20 06:55:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-20 06:55:11 [scraper.py:170] 📥 [HN #1] OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+INFO     2026-11-20 06:55:11 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/openssl/openssl/pull/33652
+INFO     2026-11-20 06:55:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-20 06:55:11 [scraper.py:170] 📥 [HN #2] Google is pushing OEMs against GrapheneOS and bootloader unlocking
+INFO     2026-11-20 06:55:11 [scraper.py:171] 🔗 [HN #2] URL: https://grapheneos.social/@GrapheneOS/117645038299496084
+INFO     2026-11-20 06:55:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-20 06:55:11 [scraper.py:170] 📥 [HN #3] Jujutsu Primer
+INFO     2026-11-20 06:55:11 [scraper.py:171] 🔗 [HN #3] URL: https://ethanlowman.com/posts/jj-primer/
+INFO     2026-11-20 06:55:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-20 06:55:12 [scraper.py:170] 📥 [HN #4] Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup
+INFO     2026-11-20 06:55:12 [scraper.py:171] 🔗 [HN #4] URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/
+INFO     2026-11-20 06:55:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-20 06:55:12 [scraper.py:170] 📥 [HN #5] Bit Shifting in Basic
+INFO     2026-11-20 06:55:12 [scraper.py:171] 🔗 [HN #5] URL: https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/
+INFO     2026-11-20 06:55:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-20 06:55:12 [scraper.py:170] 📥 [HN #6] FFmpeg 9.1 'Gauss'
+INFO     2026-11-20 06:55:12 [scraper.py:171] 🔗 [HN #6] URL: https://ffmpeg.org/download.html#release_9.1
+INFO     2026-11-20 06:55:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-20 06:55:13 [scraper.py:170] 📥 [HN #7] Claude solves two open problems in the physics of black holes
+INFO     2026-11-20 06:55:13 [scraper.py:171] 🔗 [HN #7] URL: https://www.anthropic.com/research/claude-black-hole-physics
+INFO     2026-11-20 06:55:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-20 06:55:13 [scraper.py:170] 📥 [HN #8] Vint Cerf on why TCP/IP was never patented
+INFO     2026-11-20 06:55:13 [scraper.py:171] 🔗 [HN #8] URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never
+INFO     2026-11-20 06:55:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-20 06:55:13 [scraper.py:170] 📥 [HN #9] How to CAD Almost Anything
+INFO     2026-11-20 06:55:13 [scraper.py:171] 🔗 [HN #9] URL: https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/
+INFO     2026-11-20 06:55:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-20 06:55:13 [scraper.py:170] 📥 [HN #10] Garage Door Spam
+INFO     2026-11-20 06:55:13 [scraper.py:171] 🔗 [HN #10] URL: https://blog.harrison.page/garage-door-spam/
+INFO     2026-11-20 06:55:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-20 06:55:13 [scraper.py:178] 🎉 [HN] All done.
+
