@@ -47320,3 +47320,36 @@ INFO     2026-11-20 06:55:13 [scraper.py:171] 🔗 [HN #10] URL: https://blog.ha
 INFO     2026-11-20 06:55:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-20 06:55:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-20 13:55:08 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-20 13:55:08 [scraper.py:170] 📥 [HN #1] Frostbite: A new CPU architecture discovered, designed and verified by AI
+INFO     2026-11-20 13:55:08 [scraper.py:171] 🔗 [HN #1] URL: https://architectlabs.com/blog/frostbite
+INFO     2026-11-20 13:55:08 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-20 13:55:08 [scraper.py:170] 📥 [HN #2] If you can't explain something in simple terms, you don't understand it (2017)
+INFO     2026-11-20 13:55:08 [scraper.py:171] 🔗 [HN #2] URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+INFO     2026-11-20 13:55:08 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-20 13:55:08 [scraper.py:170] 📥 [HN #3] The Making of Oxygene
+INFO     2026-11-20 13:55:08 [scraper.py:171] 🔗 [HN #3] URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene
+INFO     2026-11-20 13:55:08 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-20 13:55:09 [scraper.py:170] 📥 [HN #4] Why the Airbus A321XLR often gets stuck climbing for first few hours of flight
+INFO     2026-11-20 13:55:09 [scraper.py:171] 🔗 [HN #4] URL: https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/
+INFO     2026-11-20 13:55:09 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-20 13:55:09 [scraper.py:170] 📥 [HN #5] Show HN: I made an audio-to-MIDI model 60x more efficient
+INFO     2026-11-20 13:55:09 [scraper.py:171] 🔗 [HN #5] URL: https://kobi.music/research/dettato
+INFO     2026-11-20 13:55:09 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-20 13:55:09 [scraper.py:170] 📥 [HN #6] Show HN: Fast deterministic natural language search for OpenStreetMap data
+INFO     2026-11-20 13:55:09 [scraper.py:171] 🔗 [HN #6] URL: https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935
+INFO     2026-11-20 13:55:09 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-20 13:55:09 [scraper.py:170] 📥 [HN #7] Floppy3.5: A portable 3.5-inch floppy WiFi NAS
+INFO     2026-11-20 13:55:09 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/bigcrimping/floppy3.5
+INFO     2026-11-20 13:55:09 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-20 13:55:09 [scraper.py:170] 📥 [HN #8] What people are building, discovered through new domains
+INFO     2026-11-20 13:55:09 [scraper.py:171] 🔗 [HN #8] URL: https://startups.novumsignals.com/
+INFO     2026-11-20 13:55:09 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-20 13:55:10 [scraper.py:170] 📥 [HN #9] OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+INFO     2026-11-20 13:55:10 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/openssl/openssl/pull/33652
+INFO     2026-11-20 13:55:10 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-20 13:55:10 [scraper.py:170] 📥 [HN #10] Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)
+INFO     2026-11-20 13:55:10 [scraper.py:171] 🔗 [HN #10] URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/
+INFO     2026-11-20 13:55:10 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-20 13:55:10 [scraper.py:178] 🎉 [HN] All done.
+
