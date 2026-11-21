@@ -47419,3 +47419,36 @@ INFO     2026-11-21 06:50:24 [scraper.py:171] 🔗 [HN #10] URL: https://www.esa
 INFO     2026-11-21 06:50:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-21 06:50:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-21 13:18:24 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-21 13:18:24 [scraper.py:170] 📥 [HN #1] Brazil's tax authority open-sources its tax calculator on GitHub under MIT
+INFO     2026-11-21 13:18:24 [scraper.py:171] 🔗 [HN #1] URL: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria
+INFO     2026-11-21 13:18:24 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-21 13:18:24 [scraper.py:170] 📥 [HN #2] Hurried Announcement: Alessandro Masullo GRH
+INFO     2026-11-21 13:18:24 [scraper.py:171] 🔗 [HN #2] URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+INFO     2026-11-21 13:18:24 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-21 13:18:25 [scraper.py:170] 📥 [HN #3] Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+INFO     2026-11-21 13:18:25 [scraper.py:171] 🔗 [HN #3] URL: https://alpo.ge/remark.pdf
+INFO     2026-11-21 13:18:25 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-21 13:18:25 [scraper.py:170] 📥 [HN #4] My Monitor Was Cutting My Download Speed by 75%
+INFO     2026-11-21 13:18:25 [scraper.py:171] 🔗 [HN #4] URL: https://blog.tymscar.com/posts/studiodisplayethernet/
+INFO     2026-11-21 13:18:25 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-21 13:18:25 [scraper.py:170] 📥 [HN #5] Inkling 2 Mini
+INFO     2026-11-21 13:18:25 [scraper.py:171] 🔗 [HN #5] URL: https://thinkingmachines.ai/news/inkling-2-mini/
+INFO     2026-11-21 13:18:25 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-21 13:18:25 [scraper.py:170] 📥 [HN #6] RCE in Gnupg
+INFO     2026-11-21 13:18:25 [scraper.py:171] 🔗 [HN #6] URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html
+INFO     2026-11-21 13:18:25 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-21 13:18:25 [scraper.py:170] 📥 [HN #7] ClawDOS – An AI coding agent for DOS
+INFO     2026-11-21 13:18:25 [scraper.py:171] 🔗 [HN #7] URL: http://ricapar.net/ClawDOS/
+INFO     2026-11-21 13:18:25 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-21 13:18:26 [scraper.py:170] 📥 [HN #8] We promoted developers into architects without informing them
+INFO     2026-11-21 13:18:26 [scraper.py:171] 🔗 [HN #8] URL: https://manidoraisamy.com/developer-to-architect.html
+INFO     2026-11-21 13:18:26 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-21 13:18:26 [scraper.py:170] 📥 [HN #9] Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
+INFO     2026-11-21 13:18:26 [scraper.py:171] 🔗 [HN #9] URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
+INFO     2026-11-21 13:18:26 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-21 13:18:26 [scraper.py:170] 📥 [HN #10] NINLIVE: The Nine Inch Nails live archive
+INFO     2026-11-21 13:18:26 [scraper.py:171] 🔗 [HN #10] URL: https://ninlive.com/
+INFO     2026-11-21 13:18:26 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-21 13:18:26 [scraper.py:178] 🎉 [HN] All done.
+
