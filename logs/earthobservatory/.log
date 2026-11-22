@@ -24094,3 +24094,24 @@ INFO     2026-11-21 17:09:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-21 17:09:22 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-22 06:22:31 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-22 06:22:32 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-22 06:22:32 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-22 06:22:32 [scraper.py:133] 📥 [EO] Title: The Stormy Southwest Pacific
+INFO     2026-11-22 06:22:32 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-22 06:22:32 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-22 06:22:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-22 06:22:32 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-22 06:22:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-22 06:22:33 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-22 06:22:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-22 06:22:33 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-22 06:22:33 [scraper.py:133] 📥 [EO] Title: The Stormy Southwest Pacific
+INFO     2026-11-22 06:22:33 [scraper.py:133] 📥 [EO] Title: The Stormy Southwest Pacific
+INFO     2026-11-22 06:22:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-22 06:22:33 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-22 06:22:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-22 06:22:33 [scraper.py:154] ✅ [EO] Successfully fetched.
+
