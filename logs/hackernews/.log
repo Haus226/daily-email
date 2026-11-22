@@ -47551,3 +47551,36 @@ INFO     2026-11-22 13:10:42 [scraper.py:171] 🔗 [HN #10] URL: https://openrou
 INFO     2026-11-22 13:10:42 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-22 13:10:42 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-22 17:39:11 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-22 17:39:11 [scraper.py:170] 📥 [HN #1] Open Social Web Alliance
+INFO     2026-11-22 17:39:11 [scraper.py:171] 🔗 [HN #1] URL: https://osw-alliance.net/en/
+INFO     2026-11-22 17:39:11 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-22 17:39:11 [scraper.py:170] 📥 [HN #2] Show HN: I built a game where you are an LLM's subagent
+INFO     2026-11-22 17:39:11 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/gulivan/worker755
+INFO     2026-11-22 17:39:11 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-22 17:39:11 [scraper.py:170] 📥 [HN #3] Toyota, Nissan, and Honda to standardize parts to lower costs
+INFO     2026-11-22 17:39:11 [scraper.py:171] 🔗 [HN #3] URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
+INFO     2026-11-22 17:39:11 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-22 17:39:12 [scraper.py:170] 📥 [HN #4] Perplexity and Intelligence
+INFO     2026-11-22 17:39:12 [scraper.py:171] 🔗 [HN #4] URL: https://openai.com/index/perplexity-and-intelligence/
+INFO     2026-11-22 17:39:12 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-22 17:39:12 [scraper.py:170] 📥 [HN #5] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+INFO     2026-11-22 17:39:12 [scraper.py:171] 🔗 [HN #5] URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
+INFO     2026-11-22 17:39:12 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-22 17:39:12 [scraper.py:170] 📥 [HN #6] A Better Vocabulary for Testing
+INFO     2026-11-22 17:39:12 [scraper.py:171] 🔗 [HN #6] URL: https://alperenkeles.com/posts/vocab-for-testing/
+INFO     2026-11-22 17:39:12 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-22 17:39:13 [scraper.py:170] 📥 [HN #7] I joined the NTP Pool, but not with my Stratum 1 Pi
+INFO     2026-11-22 17:39:13 [scraper.py:171] 🔗 [HN #7] URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/
+INFO     2026-11-22 17:39:13 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-22 17:39:13 [scraper.py:170] 📥 [HN #8] Europe weakens chemical rules as science links them to 'lifestyle diseases'
+INFO     2026-11-22 17:39:13 [scraper.py:171] 🔗 [HN #8] URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html
+INFO     2026-11-22 17:39:13 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-22 17:39:13 [scraper.py:170] 📥 [HN #9] Lean verification of the Riemann Hypothesis
+INFO     2026-11-22 17:39:13 [scraper.py:171] 🔗 [HN #9] URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+INFO     2026-11-22 17:39:13 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-22 17:39:13 [scraper.py:170] 📥 [HN #10] Ask HN: Tips for transitioning from web development to embedded/firmware?
+INFO     2026-11-22 17:39:13 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=50555002
+INFO     2026-11-22 17:39:13 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-22 17:39:13 [scraper.py:178] 🎉 [HN] All done.
+
