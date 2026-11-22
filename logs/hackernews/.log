@@ -47518,3 +47518,36 @@ INFO     2026-11-22 06:22:35 [scraper.py:171] 🔗 [HN #10] URL: https://blog.ty
 INFO     2026-11-22 06:22:35 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-22 06:22:35 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-22 13:10:40 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-22 13:10:40 [scraper.py:170] 📥 [HN #1] Toyota, Nissan, and Honda to standardize parts to lower costs
+INFO     2026-11-22 13:10:40 [scraper.py:171] 🔗 [HN #1] URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
+INFO     2026-11-22 13:10:40 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-22 13:10:41 [scraper.py:170] 📥 [HN #2] Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+INFO     2026-11-22 13:10:41 [scraper.py:171] 🔗 [HN #2] URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib
+INFO     2026-11-22 13:10:41 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-22 13:10:41 [scraper.py:170] 📥 [HN #3] A real Linux kernel, compiled to WebAssembly
+INFO     2026-11-22 13:10:41 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/pithings/unkernel
+INFO     2026-11-22 13:10:41 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-22 13:10:41 [scraper.py:170] 📥 [HN #4] Lean verification of the Riemann Hypothesis
+INFO     2026-11-22 13:10:41 [scraper.py:171] 🔗 [HN #4] URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+INFO     2026-11-22 13:10:41 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-22 13:10:41 [scraper.py:170] 📥 [HN #5] Sandwich Simulator
+INFO     2026-11-22 13:10:41 [scraper.py:171] 🔗 [HN #5] URL: https://stulle.app/
+INFO     2026-11-22 13:10:41 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-22 13:10:41 [scraper.py:170] 📥 [HN #6] Self-hosted library branch over public web OPDS
+INFO     2026-11-22 13:10:41 [scraper.py:171] 🔗 [HN #6] URL: https://joinmayberry.com/
+INFO     2026-11-22 13:10:41 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-22 13:10:42 [scraper.py:170] 📥 [HN #7] Inkling-2-Mini in 5.4 GB Memory
+INFO     2026-11-22 13:10:42 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/ShinMegamiBoson/lookatmyquant
+INFO     2026-11-22 13:10:42 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-22 13:10:42 [scraper.py:170] 📥 [HN #8] Detonating a pile of lead azide
+INFO     2026-11-22 13:10:42 [scraper.py:171] 🔗 [HN #8] URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+INFO     2026-11-22 13:10:42 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-22 13:10:42 [scraper.py:170] 📥 [HN #9] Show HN: The Riemann Proof Handbook
+INFO     2026-11-22 13:10:42 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/tamnd/riemann-handbook
+INFO     2026-11-22 13:10:42 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-22 13:10:42 [scraper.py:170] 📥 [HN #10] Data Processing Incidents on Inference Providers
+INFO     2026-11-22 13:10:42 [scraper.py:171] 🔗 [HN #10] URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+INFO     2026-11-22 13:10:42 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-22 13:10:42 [scraper.py:178] 🎉 [HN] All done.
+
