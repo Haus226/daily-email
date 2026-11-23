@@ -47584,3 +47584,36 @@ INFO     2026-11-22 17:39:13 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-11-22 17:39:13 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-22 17:39:13 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-23 07:14:00 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-23 07:14:01 [scraper.py:170] 📥 [HN #1] Free alternative TV network built from the Internet Archive's forgotten videos
+INFO     2026-11-23 07:14:01 [scraper.py:171] 🔗 [HN #1] URL: https://spelunkr.tv
+INFO     2026-11-23 07:14:01 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-23 07:14:01 [scraper.py:170] 📥 [HN #2] XNU Linux: Full OS X GUI Userspace on Linux
+INFO     2026-11-23 07:14:01 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/AFK-surf/xnulinux
+INFO     2026-11-23 07:14:01 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-23 07:14:01 [scraper.py:170] 📥 [HN #3] Masullo on the Riemann Hypothesis
+INFO     2026-11-23 07:14:01 [scraper.py:171] 🔗 [HN #3] URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+INFO     2026-11-23 07:14:01 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-23 07:14:01 [scraper.py:170] 📥 [HN #4] A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+INFO     2026-11-23 07:14:01 [scraper.py:171] 🔗 [HN #4] URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+INFO     2026-11-23 07:14:01 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-23 07:14:02 [scraper.py:170] 📥 [HN #5] A Partial Evaluator for C
+INFO     2026-11-23 07:14:02 [scraper.py:171] 🔗 [HN #5] URL: https://phoenix.labri.fr/software/tempo/
+INFO     2026-11-23 07:14:02 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-23 07:14:02 [scraper.py:170] 📥 [HN #6] CollectWise (YC F24) Is Hiring
+INFO     2026-11-23 07:14:02 [scraper.py:171] 🔗 [HN #6] URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager
+INFO     2026-11-23 07:14:02 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-23 07:14:02 [scraper.py:170] 📥 [HN #7] The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+INFO     2026-11-23 07:14:02 [scraper.py:171] 🔗 [HN #7] URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+INFO     2026-11-23 07:14:02 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-23 07:14:02 [scraper.py:170] 📥 [HN #8] Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
+INFO     2026-11-23 07:14:02 [scraper.py:171] 🔗 [HN #8] URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527
+INFO     2026-11-23 07:14:02 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-23 07:14:02 [scraper.py:170] 📥 [HN #9] GL.iNet Security Notice 2026-11-20
+INFO     2026-11-23 07:14:02 [scraper.py:171] 🔗 [HN #9] URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20
+INFO     2026-11-23 07:14:02 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-23 07:14:03 [scraper.py:170] 📥 [HN #10] A miniature San Francisco with live buses, planes and boats
+INFO     2026-11-23 07:14:03 [scraper.py:171] 🔗 [HN #10] URL: https://smallsf.com/
+INFO     2026-11-23 07:14:03 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-23 07:14:03 [scraper.py:178] 🎉 [HN] All done.
+
