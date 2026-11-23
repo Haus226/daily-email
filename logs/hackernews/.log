@@ -47650,3 +47650,36 @@ INFO     2026-11-23 15:48:09 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.g
 INFO     2026-11-23 15:48:09 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-23 15:48:09 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-23 21:55:26 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-23 21:55:26 [scraper.py:170] 📥 [HN #1] Nvidia Reinstates Jensen Huang as CEO
+INFO     2026-11-23 21:55:26 [scraper.py:171] 🔗 [HN #1] URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+INFO     2026-11-23 21:55:26 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-23 21:55:26 [scraper.py:170] 📥 [HN #2] Ladybird is now in alpha
+INFO     2026-11-23 21:55:26 [scraper.py:171] 🔗 [HN #2] URL: https://ladybird.org/posts/alpha/
+INFO     2026-11-23 21:55:26 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-23 21:55:27 [scraper.py:170] 📥 [HN #3] Per Arm's request, this site will be discontinued on 4 December 2026 :(
+INFO     2026-11-23 21:55:27 [scraper.py:171] 🔗 [HN #3] URL: https://arm.jonpalmisc.com/
+INFO     2026-11-23 21:55:27 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-23 21:55:27 [scraper.py:170] 📥 [HN #4] The horse made the state
+INFO     2026-11-23 21:55:27 [scraper.py:171] 🔗 [HN #4] URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
+INFO     2026-11-23 21:55:27 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-23 21:55:27 [scraper.py:170] 📥 [HN #5] GLM-5.4: Toward generalized coding with our first loop transformer
+INFO     2026-11-23 21:55:27 [scraper.py:171] 🔗 [HN #5] URL: https://z.ai/blog/glm-5.4
+INFO     2026-11-23 21:55:27 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-23 21:55:27 [scraper.py:170] 📥 [HN #6] Dario is hyping the dangers so OSS models are illegal and he stays in control
+INFO     2026-11-23 21:55:27 [scraper.py:171] 🔗 [HN #6] URL: https://twitter.com/ylecun/status/2124550037912920090
+INFO     2026-11-23 21:55:27 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-23 21:55:28 [scraper.py:170] 📥 [HN #7] NariQ: BF16-level Qwen3.8-27B in a 10 GB file
+INFO     2026-11-23 21:55:28 [scraper.py:171] 🔗 [HN #7] URL: https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF
+INFO     2026-11-23 21:55:28 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-23 21:55:28 [scraper.py:170] 📥 [HN #8] Bored.com: Fun, interesting and cool websites to explore when bored
+INFO     2026-11-23 21:55:28 [scraper.py:171] 🔗 [HN #8] URL: https://www.bored.com/
+INFO     2026-11-23 21:55:28 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-23 21:55:28 [scraper.py:170] 📥 [HN #9] Derivative Flipping
+INFO     2026-11-23 21:55:28 [scraper.py:171] 🔗 [HN #9] URL: http://blog.sigfpe.com/2026/11/derivative-flipping.html
+INFO     2026-11-23 21:55:28 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-23 21:55:28 [scraper.py:170] 📥 [HN #10] Spacecraft reaches Mercury on second-ever mission to enter its orbit
+INFO     2026-11-23 21:55:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo
+INFO     2026-11-23 21:55:28 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-23 21:55:28 [scraper.py:178] 🎉 [HN] All done.
+
