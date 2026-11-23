@@ -47617,3 +47617,36 @@ INFO     2026-11-23 07:14:03 [scraper.py:171] 🔗 [HN #10] URL: https://smallsf
 INFO     2026-11-23 07:14:03 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-23 07:14:03 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-23 15:48:06 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-23 15:48:07 [scraper.py:170] 📥 [HN #1] GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+INFO     2026-11-23 15:48:07 [scraper.py:171] 🔗 [HN #1] URL: https://z.ai/blog/glm-5.4
+INFO     2026-11-23 15:48:07 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-23 15:48:07 [scraper.py:170] 📥 [HN #2] Win4wine – Run Windows Shell as the Linux Desktop on Wine
+INFO     2026-11-23 15:48:07 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/mikuta0407/win4wine
+INFO     2026-11-23 15:48:07 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-23 15:48:07 [scraper.py:170] 📥 [HN #3] Jensen Huang Reinstated as Nvidia CEO
+INFO     2026-11-23 15:48:07 [scraper.py:171] 🔗 [HN #3] URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+INFO     2026-11-23 15:48:07 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-23 15:48:07 [scraper.py:170] 📥 [HN #4] Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
+INFO     2026-11-23 15:48:07 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/os6/nospeaker
+INFO     2026-11-23 15:48:07 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-23 15:48:08 [scraper.py:170] 📥 [HN #5] What's the difference between an integer and a pointer? (2018)
+INFO     2026-11-23 15:48:08 [scraper.py:171] 🔗 [HN #5] URL: https://blog.regehr.org/archives/1621
+INFO     2026-11-23 15:48:08 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-23 15:48:08 [scraper.py:170] 📥 [HN #6] Free alternative TV network built from the Internet Archive's forgotten videos
+INFO     2026-11-23 15:48:08 [scraper.py:171] 🔗 [HN #6] URL: https://spelunkr.tv
+INFO     2026-11-23 15:48:08 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-23 15:48:08 [scraper.py:170] 📥 [HN #7] XNU Linux: Full OS X GUI Userspace on Linux
+INFO     2026-11-23 15:48:08 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/AFK-surf/xnulinux
+INFO     2026-11-23 15:48:08 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-23 15:48:08 [scraper.py:170] 📥 [HN #8] Elixir HLS makes FPGA circuits from functions written in Elixir
+INFO     2026-11-23 15:48:08 [scraper.py:171] 🔗 [HN #8] URL: https://github.com/elixir-hls/elixir-hls
+INFO     2026-11-23 15:48:08 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-23 15:48:09 [scraper.py:170] 📥 [HN #9] MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash
+INFO     2026-11-23 15:48:09 [scraper.py:171] 🔗 [HN #9] URL: https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/
+INFO     2026-11-23 15:48:09 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-23 15:48:09 [scraper.py:170] 📥 [HN #10] The next circle of security hell
+INFO     2026-11-23 15:48:09 [scraper.py:171] 🔗 [HN #10] URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/
+INFO     2026-11-23 15:48:09 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-23 15:48:09 [scraper.py:178] 🎉 [HN] All done.
+

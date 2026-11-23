@@ -24178,3 +24178,24 @@ INFO     2026-11-23 07:14:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-23 07:14:02 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-23 15:48:03 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-23 15:48:06 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-23 15:48:06 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-23 15:48:06 [scraper.py:133] 📥 [EO] Title: Laser Focus at the Top of the World
+INFO     2026-11-23 15:48:06 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-23 15:48:06 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-23 15:48:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-23 15:48:06 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-23 15:48:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-23 15:48:07 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-23 15:48:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-23 15:48:07 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-23 15:48:07 [scraper.py:133] 📥 [EO] Title: Laser Focus at the Top of the World
+INFO     2026-11-23 15:48:07 [scraper.py:133] 📥 [EO] Title: Laser Focus at the Top of the World
+INFO     2026-11-23 15:48:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-23 15:48:07 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-23 15:48:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-23 15:48:07 [scraper.py:154] ✅ [EO] Successfully fetched.
+
