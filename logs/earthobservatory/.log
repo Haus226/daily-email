@@ -24241,3 +24241,24 @@ INFO     2026-11-24 09:37:00 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-24 09:37:00 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-24 15:39:44 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-24 15:39:45 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-24 15:39:45 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-24 15:39:45 [scraper.py:133] 📥 [EO] Title: Eruption Extends Iwo Jima’s Beach
+INFO     2026-11-24 15:39:45 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261111_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-24 15:39:45 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-24 15:39:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-24 15:39:45 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-24 15:39:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-24 15:39:46 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-24 15:39:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-24 15:39:46 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-24 15:39:46 [scraper.py:133] 📥 [EO] Title: Eruption Extends Iwo Jima’s Beach
+INFO     2026-11-24 15:39:46 [scraper.py:133] 📥 [EO] Title: Eruption Extends Iwo Jima’s Beach
+INFO     2026-11-24 15:39:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261111_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-24 15:39:46 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261111_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-24 15:39:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-24 15:39:46 [scraper.py:154] ✅ [EO] Successfully fetched.
+
