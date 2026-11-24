@@ -47749,3 +47749,36 @@ INFO     2026-11-24 15:39:48 [scraper.py:171] 🔗 [HN #10] URL: https://www.msn
 INFO     2026-11-24 15:39:48 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-24 15:39:48 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-24 20:30:44 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-24 20:30:46 [scraper.py:170] 📥 [HN #1] Active intrusion campaign against Check Point security management servers
+INFO     2026-11-24 20:30:46 [scraper.py:171] 🔗 [HN #1] URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
+INFO     2026-11-24 20:30:46 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-24 20:30:46 [scraper.py:170] 📥 [HN #2] Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)
+INFO     2026-11-24 20:30:46 [scraper.py:171] 🔗 [HN #2] URL: https://grafana.com/grafana/download
+INFO     2026-11-24 20:30:46 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-24 20:30:47 [scraper.py:170] 📥 [HN #3] Jetty Pro
+INFO     2026-11-24 20:30:47 [scraper.py:171] 🔗 [HN #3] URL: http://hypercritical.co/2026/11/23/jetty-pro
+INFO     2026-11-24 20:30:47 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-24 20:30:47 [scraper.py:170] 📥 [HN #4] Mechanical Pencil: Spray Bottle
+INFO     2026-11-24 20:30:47 [scraper.py:171] 🔗 [HN #4] URL: https://mechanical-pencil.com/products/spray-bottle
+INFO     2026-11-24 20:30:47 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-24 20:30:47 [scraper.py:170] 📥 [HN #5] 2035 came early
+INFO     2026-11-24 20:30:47 [scraper.py:171] 🔗 [HN #5] URL: https://fzakaria.com/2026/11/23/2035-came-early
+INFO     2026-11-24 20:30:47 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-24 20:30:47 [scraper.py:170] 📥 [HN #6] Compiling Web Applications into Verified Operations for AI Agents
+INFO     2026-11-24 20:30:47 [scraper.py:171] 🔗 [HN #6] URL: https://protocolis.co/paper/
+INFO     2026-11-24 20:30:47 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-24 20:30:48 [scraper.py:170] 📥 [HN #7] Cloudflare hides shortcomings of the underlying infrastructure
+INFO     2026-11-24 20:30:48 [scraper.py:171] 🔗 [HN #7] URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/
+INFO     2026-11-24 20:30:48 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-24 20:30:48 [scraper.py:170] 📥 [HN #8] An Italian Folding Bicycle Design That Fits into a Suitcase
+INFO     2026-11-24 20:30:48 [scraper.py:171] 🔗 [HN #8] URL: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase
+INFO     2026-11-24 20:30:48 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-24 20:30:48 [scraper.py:170] 📥 [HN #9] Splitting USB-C: USB 3 and USB 2 on one port
+INFO     2026-11-24 20:30:48 [scraper.py:171] 🔗 [HN #9] URL: https://www.frankchiarulli.com/blog/splitting-usb-c/
+INFO     2026-11-24 20:30:48 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-24 20:30:48 [scraper.py:170] 📥 [HN #10] A training engine for your local model, using your idle compute
+INFO     2026-11-24 20:30:48 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/sous-labs/songe
+INFO     2026-11-24 20:30:48 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-24 20:30:48 [scraper.py:178] 🎉 [HN] All done.
+
