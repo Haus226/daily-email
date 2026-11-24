@@ -47683,3 +47683,36 @@ INFO     2026-11-23 21:55:28 [scraper.py:171] 🔗 [HN #10] URL: https://www.the
 INFO     2026-11-23 21:55:28 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-23 21:55:28 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-24 09:36:59 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-24 09:36:59 [scraper.py:170] 📥 [HN #1] 2035 Came Early
+INFO     2026-11-24 09:36:59 [scraper.py:171] 🔗 [HN #1] URL: https://fzakaria.com/2026/11/23/2035-came-early
+INFO     2026-11-24 09:36:59 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-24 09:37:00 [scraper.py:170] 📥 [HN #2] Ladybird is now in alpha
+INFO     2026-11-24 09:37:00 [scraper.py:171] 🔗 [HN #2] URL: https://ladybird.org/posts/alpha/
+INFO     2026-11-24 09:37:00 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-24 09:37:00 [scraper.py:170] 📥 [HN #3] Stalwart is now a drop-in replacement for Microsoft Exchange
+INFO     2026-11-24 09:37:00 [scraper.py:171] 🔗 [HN #3] URL: https://stalw.art/blog/microsoft-exchange-replacement/
+INFO     2026-11-24 09:37:00 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-24 09:37:00 [scraper.py:170] 📥 [HN #4] AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years
+INFO     2026-11-24 09:37:00 [scraper.py:171] 🔗 [HN #4] URL: https://www.phoronix.com/review/amd-epyc-9006-7601
+INFO     2026-11-24 09:37:00 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-24 09:37:00 [scraper.py:170] 📥 [HN #5] Nvidia Reinstates Jensen Huang as CEO
+INFO     2026-11-24 09:37:00 [scraper.py:171] 🔗 [HN #5] URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+INFO     2026-11-24 09:37:00 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-24 09:37:00 [scraper.py:170] 📥 [HN #6] Drone Maps of Salvage Yards
+INFO     2026-11-24 09:37:00 [scraper.py:171] 🔗 [HN #6] URL: https://salvageyarddrone.wordpress.com/
+INFO     2026-11-24 09:37:00 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-24 09:37:01 [scraper.py:170] 📥 [HN #7] Modernizing iperf/iperf3 and introducing fireperf
+INFO     2026-11-24 09:37:01 [scraper.py:171] 🔗 [HN #7] URL: https://blog.daniel-baumann.ch/posts/20261122-1.html
+INFO     2026-11-24 09:37:01 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-24 09:37:01 [scraper.py:170] 📥 [HN #8] Arctic: A Practical Lock-Free Adaptive Radix Tree
+INFO     2026-11-24 09:37:01 [scraper.py:171] 🔗 [HN #8] URL: https://www.usenix.org/conference/osdi26/presentation/ni
+INFO     2026-11-24 09:37:01 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-24 09:37:01 [scraper.py:170] 📥 [HN #9] Ride the SQL curve from basics to mastery
+INFO     2026-11-24 09:37:01 [scraper.py:171] 🔗 [HN #9] URL: https://sqlride.com/
+INFO     2026-11-24 09:37:01 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-24 09:37:01 [scraper.py:170] 📥 [HN #10] Lowering Perplexity Without Scaling
+INFO     2026-11-24 09:37:01 [scraper.py:171] 🔗 [HN #10] URL: https://micjm.com/blog/lowering-perplexity-without-scaling/
+INFO     2026-11-24 09:37:01 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-24 09:37:01 [scraper.py:178] 🎉 [HN] All done.
+
