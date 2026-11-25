@@ -24283,3 +24283,24 @@ INFO     2026-11-24 20:30:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-24 20:30:45 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-25 08:08:17 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-25 08:08:18 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-25 08:08:18 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-25 08:08:18 [scraper.py:133] 📥 [EO] Title: Georgia’s Pecan Belt
+INFO     2026-11-25 08:08:18 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-25 08:08:18 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-25 08:08:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-25 08:08:18 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-25 08:08:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-25 08:08:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-25 08:08:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-25 08:08:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-25 08:08:20 [scraper.py:133] 📥 [EO] Title: Georgia’s Pecan Belt
+INFO     2026-11-25 08:08:20 [scraper.py:133] 📥 [EO] Title: Georgia’s Pecan Belt
+INFO     2026-11-25 08:08:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-25 08:08:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-25 08:08:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-25 08:08:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
