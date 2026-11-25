@@ -47815,3 +47815,36 @@ INFO     2026-11-25 08:08:21 [scraper.py:171] 🔗 [HN #10] URL: https://openai.
 INFO     2026-11-25 08:08:21 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-25 08:08:21 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-25 15:23:57 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-25 15:23:57 [scraper.py:170] 📥 [HN #1] Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More
+INFO     2026-11-25 15:23:57 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+INFO     2026-11-25 15:23:57 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-25 15:23:57 [scraper.py:170] 📥 [HN #2] Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+INFO     2026-11-25 15:23:57 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/xoxorwr/pw-loudness-eq
+INFO     2026-11-25 15:23:57 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-25 15:23:58 [scraper.py:170] 📥 [HN #3] Button Sounds – collection of professionally-recorded button clicks and presses
+INFO     2026-11-25 15:23:58 [scraper.py:171] 🔗 [HN #3] URL: https://buttons.joshwcomeau.com/
+INFO     2026-11-25 15:23:58 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-25 15:23:58 [scraper.py:170] 📥 [HN #4] Matrix Multiplication is Θ(n^2.25) [pdf]
+INFO     2026-11-25 15:23:58 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+INFO     2026-11-25 15:23:58 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-25 15:23:58 [scraper.py:170] 📥 [HN #5] The short age of dragon riders
+INFO     2026-11-25 15:23:58 [scraper.py:171] 🔗 [HN #5] URL: https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/
+INFO     2026-11-25 15:23:58 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-25 15:23:58 [scraper.py:170] 📥 [HN #6] U.S. jury convicts Huawei of fraud, Iran sanctions violations
+INFO     2026-11-25 15:23:58 [scraper.py:171] 🔗 [HN #6] URL: https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/
+INFO     2026-11-25 15:23:58 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-25 15:23:58 [scraper.py:170] 📥 [HN #7] Models Can Communicate via Inference Servers Despite Being Sandboxed
+INFO     2026-11-25 15:23:58 [scraper.py:171] 🔗 [HN #7] URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+INFO     2026-11-25 15:23:59 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-25 15:23:59 [scraper.py:170] 📥 [HN #8] Getting old Java phones online again
+INFO     2026-11-25 15:23:59 [scraper.py:171] 🔗 [HN #8] URL: https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html
+INFO     2026-11-25 15:23:59 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-25 15:23:59 [scraper.py:170] 📥 [HN #9] Show HN: Old Nvidia and ATI tech demos, running again in the browser
+INFO     2026-11-25 15:23:59 [scraper.py:171] 🔗 [HN #9] URL: https://gpu-demo-gallery.pages.dev/
+INFO     2026-11-25 15:23:59 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-25 15:23:59 [scraper.py:170] 📥 [HN #10] Pinocchio at 200: a tale of hunger, greed and Italy's culinary history
+INFO     2026-11-25 15:23:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/
+INFO     2026-11-25 15:23:59 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-25 15:23:59 [scraper.py:178] 🎉 [HN] All done.
+
