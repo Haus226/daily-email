@@ -47848,3 +47848,36 @@ INFO     2026-11-25 15:23:59 [scraper.py:171] 🔗 [HN #10] URL: https://www.rep
 INFO     2026-11-25 15:23:59 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-25 15:23:59 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-25 19:47:48 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-25 19:47:48 [scraper.py:170] 📥 [HN #1] 1Password Security Incident
+INFO     2026-11-25 19:47:48 [scraper.py:171] 🔗 [HN #1] URL: https://1password.com/blog/update-on-nov-2026-security-incident
+INFO     2026-11-25 19:47:48 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-25 19:47:48 [scraper.py:170] 📥 [HN #2] A few questions for the guy who went snorkeling in a Home Depot retention pond
+INFO     2026-11-25 19:47:48 [scraper.py:171] 🔗 [HN #2] URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+INFO     2026-11-25 19:47:48 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-25 19:47:49 [scraper.py:170] 📥 [HN #3] Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]
+INFO     2026-11-25 19:47:49 [scraper.py:171] 🔗 [HN #3] URL: https://scottaaronson.blog/?p=10379
+INFO     2026-11-25 19:47:49 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-25 19:47:49 [scraper.py:170] 📥 [HN #4] Google releases Cogentic papers on integer factorization, discrete logs and more
+INFO     2026-11-25 19:47:49 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers
+INFO     2026-11-25 19:47:49 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-25 19:47:50 [scraper.py:170] 📥 [HN #5] Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+INFO     2026-11-25 19:47:50 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/xoxorwr/pw-loudness-eq
+INFO     2026-11-25 19:47:50 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-25 19:47:50 [scraper.py:170] 📥 [HN #6] Predicting LoRA size for any dataset
+INFO     2026-11-25 19:47:50 [scraper.py:171] 🔗 [HN #6] URL: https://engram.com/blog/lora-size
+INFO     2026-11-25 19:47:50 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-25 19:47:50 [scraper.py:170] 📥 [HN #7] Britain's ghost stations
+INFO     2026-11-25 19:47:50 [scraper.py:171] 🔗 [HN #7] URL: https://spectator.com/article/britains-ghost-stations-are-fascinating/
+INFO     2026-11-25 19:47:50 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-25 19:47:50 [scraper.py:170] 📥 [HN #8] I checked Clojure's core with Lean and found unreported bugs
+INFO     2026-11-25 19:47:50 [scraper.py:171] 🔗 [HN #8] URL: https://s.conao3.com/blog/2026/e4f733
+INFO     2026-11-25 19:47:50 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-25 19:47:51 [scraper.py:170] 📥 [HN #9] Deriving Black-Scholes
+INFO     2026-11-25 19:47:51 [scraper.py:171] 🔗 [HN #9] URL: https://david.alvarezrosa.com/posts/deriving-black-scholes/
+INFO     2026-11-25 19:47:51 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-25 19:47:51 [scraper.py:170] 📥 [HN #10] Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs
+INFO     2026-11-25 19:47:51 [scraper.py:171] 🔗 [HN #10] URL: https://jayd.ml/2026/11/14/rockbox-on-yp3.html
+INFO     2026-11-25 19:47:51 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-25 19:47:51 [scraper.py:178] 🎉 [HN] All done.
+
