@@ -47881,3 +47881,36 @@ INFO     2026-11-25 19:47:51 [scraper.py:171] 🔗 [HN #10] URL: https://jayd.ml
 INFO     2026-11-25 19:47:51 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-25 19:47:51 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-26 07:57:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-26 07:57:18 [scraper.py:170] 📥 [HN #1] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+INFO     2026-11-26 07:57:18 [scraper.py:171] 🔗 [HN #1] URL: https://scottaaronson.blog/?p=10379
+INFO     2026-11-26 07:57:18 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-26 07:57:18 [scraper.py:170] 📥 [HN #2] 1Password Security Incident
+INFO     2026-11-26 07:57:18 [scraper.py:171] 🔗 [HN #2] URL: https://1password.com/blog/update-on-nov-2026-security-incident
+INFO     2026-11-26 07:57:18 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-26 07:57:18 [scraper.py:170] 📥 [HN #3] Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
+INFO     2026-11-26 07:57:18 [scraper.py:171] 🔗 [HN #3] URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
+INFO     2026-11-26 07:57:18 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-26 07:57:18 [scraper.py:170] 📥 [HN #4] Mirror life is dangerous. Regulators must act before it becomes real
+INFO     2026-11-26 07:57:18 [scraper.py:171] 🔗 [HN #4] URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real
+INFO     2026-11-26 07:57:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-26 07:57:18 [scraper.py:170] 📥 [HN #5] Much shorter version of GRH Lean verification from Anthropic
+INFO     2026-11-26 07:57:18 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/lsernau/grh-lean
+INFO     2026-11-26 07:57:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:170] 📥 [HN #6] The New York Times warns photographers not to update Photoshop over AI features
+INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #6] URL: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:170] 📥 [HN #7] Minipg: PostgreSQL as a Single Executable
+INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #7] URL: https://progrium.github.io/minipg/
+INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:170] 📥 [HN #8] Tell HN: Lots of Ask HNs again
+INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #8] URL: https://news.ycombinator.com/item?id=50649864
+INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:170] 📥 [HN #9] Collection of preserved UI style guides
+INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #9] URL: https://aresluna.org/ui-style-guides/
+INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:170] 📥 [HN #10] Show HN: Synth Patch Hero
+INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #10] URL: https://swarkentin.github.io/synth-patch-hero/
+INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-26 07:57:19 [scraper.py:178] 🎉 [HN] All done.
+
