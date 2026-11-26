@@ -47914,3 +47914,36 @@ INFO     2026-11-26 07:57:19 [scraper.py:171] 🔗 [HN #10] URL: https://swarken
 INFO     2026-11-26 07:57:19 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-26 07:57:19 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-26 14:53:19 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-26 14:53:20 [scraper.py:170] 📥 [HN #1] Euro-Office comes to your desktop with the Nextcloud Office Desktop app
+INFO     2026-11-26 14:53:20 [scraper.py:171] 🔗 [HN #1] URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/
+INFO     2026-11-26 14:53:20 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-26 14:53:20 [scraper.py:170] 📥 [HN #2] Intel One Mono font
+INFO     2026-11-26 14:53:20 [scraper.py:171] 🔗 [HN #2] URL: https://github.com/intel/intel-one-mono
+INFO     2026-11-26 14:53:20 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #3] Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #3] URL: https://scottaaronson.blog/?p=10379
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #4] 1Password Security Incident
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #4] URL: https://1password.com/blog/update-on-nov-2026-security-incident
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #5] Discovery of curse ritual in trash dump surprises Egyptologist
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #5] URL: https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #6] Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #6] URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #7] The New York Times warns photographers not to update Photoshop over AI features
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #7] URL: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #8] Minipg: PostgreSQL as a Single Executable
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #8] URL: https://progrium.github.io/minipg/
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-26 14:53:21 [scraper.py:170] 📥 [HN #9] Collection of preserved UI style guides
+INFO     2026-11-26 14:53:21 [scraper.py:171] 🔗 [HN #9] URL: https://aresluna.org/ui-style-guides/
+INFO     2026-11-26 14:53:21 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-26 14:53:22 [scraper.py:170] 📥 [HN #10] Tell HN: Happy Thanksgiving
+INFO     2026-11-26 14:53:22 [scraper.py:171] 🔗 [HN #10] URL: https://news.ycombinator.com/item?id=50655664
+INFO     2026-11-26 14:53:22 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-26 14:53:22 [scraper.py:178] 🎉 [HN] All done.
+

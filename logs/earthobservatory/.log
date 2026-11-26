@@ -24367,3 +24367,24 @@ INFO     2026-11-26 07:57:19 [scraper.py:154] ✅ [EO] Successfully fetched.
 
 INFO     2026-11-26 07:57:19 [scraper.py:154] ✅ [EO] Successfully fetched.
 
+INFO     2026-11-26 14:53:16 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-26 14:53:19 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-26 14:53:19 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-26 14:53:19 [scraper.py:133] 📥 [EO] Title: Seeking Refuge on Resolution Island
+INFO     2026-11-26 14:53:19 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-26 14:53:19 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-26 14:53:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-26 14:53:19 [scraper.py:111] 🚀 [EO] Starting to fetch Earth Observatory Image of the Day
+INFO     2026-11-26 14:53:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-26 14:53:20 [scraper.py:76] 🚀 [EO] Starting to fetch LLM Summary
+INFO     2026-11-26 14:53:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-26 14:53:20 [scraper.py:97] 🤖 [EO] LLM Summary fetched successfully: No summary available
+INFO     2026-11-26 14:53:20 [scraper.py:133] 📥 [EO] Title: Seeking Refuge on Resolution Island
+INFO     2026-11-26 14:53:20 [scraper.py:133] 📥 [EO] Title: Seeking Refuge on Resolution Island
+INFO     2026-11-26 14:53:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-26 14:53:20 [scraper.py:134] 🖼️ [EO] Image URL: https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212_th.jpg?fit=clip&w=300&h=200
+INFO     2026-11-26 14:53:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
+INFO     2026-11-26 14:53:20 [scraper.py:154] ✅ [EO] Successfully fetched.
+
