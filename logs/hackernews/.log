@@ -47947,3 +47947,36 @@ INFO     2026-11-26 14:53:22 [scraper.py:171] 🔗 [HN #10] URL: https://news.yc
 INFO     2026-11-26 14:53:22 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-26 14:53:22 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-26 19:26:22 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-26 19:26:22 [scraper.py:170] 📥 [HN #1] AMD Specific Patches for Llama.cpp
+INFO     2026-11-26 19:26:22 [scraper.py:171] 🔗 [HN #1] URL: https://devnull.land/amd-specific-llama-cpp
+INFO     2026-11-26 19:26:22 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-26 19:26:23 [scraper.py:170] 📥 [HN #2] CTO of 'RansomwareHelp' Indicted for Wire Fraud
+INFO     2026-11-26 19:26:23 [scraper.py:171] 🔗 [HN #2] URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+INFO     2026-11-26 19:26:23 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-26 19:26:23 [scraper.py:170] 📥 [HN #3] DeepSeekMath: Pushing the Limits of Mathematical Reasoning
+INFO     2026-11-26 19:26:23 [scraper.py:171] 🔗 [HN #3] URL: https://github.com/deepseek-ai/deepseek-math
+INFO     2026-11-26 19:26:23 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-26 19:26:23 [scraper.py:170] 📥 [HN #4] Intel One Mono font (2023)
+INFO     2026-11-26 19:26:23 [scraper.py:171] 🔗 [HN #4] URL: https://github.com/intel/intel-one-mono
+INFO     2026-11-26 19:26:23 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #5] Show HN: Three Linux VMs in a browser tab, each running a different browser
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #5] URL: https://michidk.github.io/sidebyside/
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #6] NP_R ≠ PAR_R
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #6] URL: https://github.com/samueleverett01/bss-permanent-separations
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #7] Tell HN: Happy Thanksgiving
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #7] URL: https://news.ycombinator.com/item?id=50655664
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #8] Nextcloud Office Desktop app
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #8] URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #9] Curiosity Is No Solo Act
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #9] URL: https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:170] 📥 [HN #10] Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar
+INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/rxliuli/sim-drop
+INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-26 19:26:24 [scraper.py:178] 🎉 [HN] All done.
+
