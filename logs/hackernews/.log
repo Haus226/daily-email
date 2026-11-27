@@ -47980,3 +47980,36 @@ INFO     2026-11-26 19:26:24 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-11-26 19:26:24 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-26 19:26:24 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-27 07:59:02 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-27 07:59:03 [scraper.py:170] 📥 [HN #1] The group chat where your AI talks behind your back
+INFO     2026-11-27 07:59:03 [scraper.py:171] 🔗 [HN #1] URL: https://construct22.com/
+INFO     2026-11-27 07:59:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-27 07:59:03 [scraper.py:170] 📥 [HN #2] The need for a formally verifiable mainstream programming language
+INFO     2026-11-27 07:59:03 [scraper.py:171] 🔗 [HN #2] URL: https://blainehansen.me/post/mainstream-verifiable-language/
+INFO     2026-11-27 07:59:03 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-27 07:59:04 [scraper.py:170] 📥 [HN #3] AI made self-hosting fun again
+INFO     2026-11-27 07:59:04 [scraper.py:171] 🔗 [HN #3] URL: https://janlukas.blog/posts/ai-self-hosting
+INFO     2026-11-27 07:59:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-27 07:59:04 [scraper.py:170] 📥 [HN #4] Hard Drive pricing has gotten bad
+INFO     2026-11-27 07:59:04 [scraper.py:171] 🔗 [HN #4] URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
+INFO     2026-11-27 07:59:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-27 07:59:04 [scraper.py:170] 📥 [HN #5] YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+INFO     2026-11-27 07:59:04 [scraper.py:171] 🔗 [HN #5] URL: https://github.com/antonpictures/youtube-punisher
+INFO     2026-11-27 07:59:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:170] 📥 [HN #6] Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #6] URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:170] 📥 [HN #7] AMD-specific fork of llama.cpp
+INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #7] URL: https://devnull.land/amd-specific-llama-cpp
+INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:170] 📥 [HN #8] CTO of 'RansomwareHelp' indicted for wire fraud
+INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #8] URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:170] 📥 [HN #9] Company Culture = Slack Emoji ÷ √Headcount
+INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #9] URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
+INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:170] 📥 [HN #10] Intel One Mono font (2023)
+INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #10] URL: https://github.com/intel/intel-one-mono
+INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-27 07:59:05 [scraper.py:178] 🎉 [HN] All done.
+
