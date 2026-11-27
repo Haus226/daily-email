@@ -48013,3 +48013,36 @@ INFO     2026-11-27 07:59:05 [scraper.py:171] 🔗 [HN #10] URL: https://github.
 INFO     2026-11-27 07:59:05 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-27 07:59:05 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-27 14:51:03 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-27 14:51:03 [scraper.py:170] 📥 [HN #1] A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]
+INFO     2026-11-27 14:51:03 [scraper.py:171] 🔗 [HN #1] URL: https://eprint.iacr.org/2026/3020.pdf
+INFO     2026-11-27 14:51:03 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-27 14:51:04 [scraper.py:170] 📥 [HN #2] Kimi for Science: More scientific ideas, made possible
+INFO     2026-11-27 14:51:04 [scraper.py:171] 🔗 [HN #2] URL: https://www.kimi.ai/news/kimi-for-science-program
+INFO     2026-11-27 14:51:04 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-27 14:51:04 [scraper.py:170] 📥 [HN #3] European spacecraft finds chaotic scene after asteroid deflection experiment
+INFO     2026-11-27 14:51:04 [scraper.py:171] 🔗 [HN #3] URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/
+INFO     2026-11-27 14:51:04 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-27 14:51:04 [scraper.py:170] 📥 [HN #4] The group chat where your AI talks behind your back
+INFO     2026-11-27 14:51:04 [scraper.py:171] 🔗 [HN #4] URL: https://construct22.com/
+INFO     2026-11-27 14:51:04 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-27 14:51:04 [scraper.py:170] 📥 [HN #5] AI made self-hosting fun again
+INFO     2026-11-27 14:51:04 [scraper.py:171] 🔗 [HN #5] URL: https://janlukas.blog/posts/ai-self-hosting
+INFO     2026-11-27 14:51:04 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-27 14:51:04 [scraper.py:170] 📥 [HN #6] US Air Force's cloud computing platform hacked
+INFO     2026-11-27 14:51:04 [scraper.py:171] 🔗 [HN #6] URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+INFO     2026-11-27 14:51:04 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-27 14:51:05 [scraper.py:170] 📥 [HN #7] New York and California Age Gating Rules Go into Effect in the New Year
+INFO     2026-11-27 14:51:05 [scraper.py:171] 🔗 [HN #7] URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year
+INFO     2026-11-27 14:51:05 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-27 14:51:05 [scraper.py:170] 📥 [HN #8] Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+INFO     2026-11-27 14:51:05 [scraper.py:171] 🔗 [HN #8] URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+INFO     2026-11-27 14:51:05 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-27 14:51:05 [scraper.py:170] 📥 [HN #9] YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+INFO     2026-11-27 14:51:05 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/antonpictures/youtube-punisher
+INFO     2026-11-27 14:51:05 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-27 14:51:05 [scraper.py:170] 📥 [HN #10] AMD-specific fork of llama.cpp
+INFO     2026-11-27 14:51:05 [scraper.py:171] 🔗 [HN #10] URL: https://devnull.land/amd-specific-llama-cpp
+INFO     2026-11-27 14:51:05 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-27 14:51:05 [scraper.py:178] 🎉 [HN] All done.
+
