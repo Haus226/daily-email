@@ -48145,3 +48145,36 @@ INFO     2026-11-28 13:59:41 [scraper.py:171] 🔗 [HN #10] URL: https://www.fil
 INFO     2026-11-28 13:59:41 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-28 13:59:41 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-28 17:59:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-28 17:59:39 [scraper.py:170] 📥 [HN #1] Audible removes download option for purchased audiobooks
+INFO     2026-11-28 17:59:39 [scraper.py:171] 🔗 [HN #1] URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks
+INFO     2026-11-28 17:59:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-28 17:59:39 [scraper.py:170] 📥 [HN #2] Claude Code sabotage: preliminary benchmarking
+INFO     2026-11-28 17:59:39 [scraper.py:171] 🔗 [HN #2] URL: https://xinyadu.github.io/blog/claude-code-sabotage.html
+INFO     2026-11-28 17:59:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-28 17:59:39 [scraper.py:170] 📥 [HN #3] Computer Disease
+INFO     2026-11-28 17:59:39 [scraper.py:171] 🔗 [HN #3] URL: https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/
+INFO     2026-11-28 17:59:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-28 17:59:40 [scraper.py:170] 📥 [HN #4] Silently degrading the model's capabilities IS sabotage
+INFO     2026-11-28 17:59:40 [scraper.py:171] 🔗 [HN #4] URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063
+INFO     2026-11-28 17:59:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-28 17:59:40 [scraper.py:170] 📥 [HN #5] GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims
+INFO     2026-11-28 17:59:40 [scraper.py:171] 🔗 [HN #5] URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/
+INFO     2026-11-28 17:59:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-28 17:59:40 [scraper.py:170] 📥 [HN #6] Physics Breakthrough Simulator
+INFO     2026-11-28 17:59:40 [scraper.py:171] 🔗 [HN #6] URL: https://pages.ethanmdavidson.com/ai-physics-breakthrough
+INFO     2026-11-28 17:59:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-28 17:59:41 [scraper.py:170] 📥 [HN #7] Farewell
+INFO     2026-11-28 17:59:41 [scraper.py:171] 🔗 [HN #7] URL: https://github.com/p-e-w/heretic/issues/601
+INFO     2026-11-28 17:59:41 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-28 17:59:41 [scraper.py:170] 📥 [HN #8] Show HN: Luciole Mono – terminal font designed for legibility
+INFO     2026-11-28 17:59:41 [scraper.py:171] 🔗 [HN #8] URL: https://scriptor-pro.github.io/luciole-mono/
+INFO     2026-11-28 17:59:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-28 17:59:41 [scraper.py:170] 📥 [HN #9] Donald Knuth suspends error bounties due to an influx of AI-generated reports
+INFO     2026-11-28 17:59:41 [scraper.py:171] 🔗 [HN #9] URL: https://cs.stanford.edu/~knuth/moratorium.html
+INFO     2026-11-28 17:59:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-28 17:59:41 [scraper.py:170] 📥 [HN #10] Essential Reading in the Age of Math 2.0
+INFO     2026-11-28 17:59:41 [scraper.py:171] 🔗 [HN #10] URL: https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/
+INFO     2026-11-28 17:59:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-28 17:59:41 [scraper.py:178] 🎉 [HN] All done.
+
