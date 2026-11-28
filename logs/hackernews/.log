@@ -48112,3 +48112,36 @@ INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.cit
 INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-28 07:28:18 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-28 13:59:39 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-28 13:59:39 [scraper.py:170] 📥 [HN #1] Farewell
+INFO     2026-11-28 13:59:39 [scraper.py:171] 🔗 [HN #1] URL: https://github.com/p-e-w/heretic/issues/601
+INFO     2026-11-28 13:59:39 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-28 13:59:39 [scraper.py:170] 📥 [HN #2] Claude Code sabotage: preliminary benchmarking
+INFO     2026-11-28 13:59:39 [scraper.py:171] 🔗 [HN #2] URL: https://xinyadu.github.io/blog/claude-code-sabotage.html
+INFO     2026-11-28 13:59:39 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-28 13:59:39 [scraper.py:170] 📥 [HN #3] Show HN: Luciole Mono – terminal font designed for legibility
+INFO     2026-11-28 13:59:39 [scraper.py:171] 🔗 [HN #3] URL: https://scriptor-pro.github.io/luciole-mono/
+INFO     2026-11-28 13:59:39 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-28 13:59:40 [scraper.py:170] 📥 [HN #4] Audible removes download option for purchased audiobooks
+INFO     2026-11-28 13:59:40 [scraper.py:171] 🔗 [HN #4] URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks
+INFO     2026-11-28 13:59:40 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-28 13:59:40 [scraper.py:170] 📥 [HN #5] Unkernel: Real Linux kernel, compiled to WebAssembly
+INFO     2026-11-28 13:59:40 [scraper.py:171] 🔗 [HN #5] URL: https://unkernel.dev
+INFO     2026-11-28 13:59:40 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-28 13:59:40 [scraper.py:170] 📥 [HN #6] GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims
+INFO     2026-11-28 13:59:40 [scraper.py:171] 🔗 [HN #6] URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/
+INFO     2026-11-28 13:59:40 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-28 13:59:40 [scraper.py:170] 📥 [HN #7] Loom seamlessly combines weaving, knitting and braiding
+INFO     2026-11-28 13:59:40 [scraper.py:171] 🔗 [HN #7] URL: https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding
+INFO     2026-11-28 13:59:40 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-28 13:59:41 [scraper.py:170] 📥 [HN #8] Knuth: Moratorium on Error Reports
+INFO     2026-11-28 13:59:41 [scraper.py:171] 🔗 [HN #8] URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html
+INFO     2026-11-28 13:59:41 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-28 13:59:41 [scraper.py:170] 📥 [HN #9] Google's DeepCrossAttention achieves comparable model quality up to 3x faster
+INFO     2026-11-28 13:59:41 [scraper.py:171] 🔗 [HN #9] URL: https://research.google/blog/supercharging-transformer-residual-connections/
+INFO     2026-11-28 13:59:41 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-28 13:59:41 [scraper.py:170] 📥 [HN #10] Diablo II
+INFO     2026-11-28 13:59:41 [scraper.py:171] 🔗 [HN #10] URL: https://www.filfre.net/2026/11/diablo-ii/
+INFO     2026-11-28 13:59:41 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-28 13:59:41 [scraper.py:178] 🎉 [HN] All done.
+
