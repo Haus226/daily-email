@@ -48079,3 +48079,36 @@ INFO     2026-11-27 19:22:26 [scraper.py:171] 🔗 [HN #10] URL: https://blaineh
 INFO     2026-11-27 19:22:26 [scraper.py:174] ✅ [HN #10] Done ✅
 INFO     2026-11-27 19:22:26 [scraper.py:178] 🎉 [HN] All done.
 
+INFO     2026-11-28 07:28:17 [scraper.py:161] 🚀 [HN] Starting to fetch Hacker News
+INFO     2026-11-28 07:28:17 [scraper.py:170] 📥 [HN #1] Unkernel: Real Linux kernel, compiled to WebAssembly
+INFO     2026-11-28 07:28:17 [scraper.py:171] 🔗 [HN #1] URL: https://unkernel.dev
+INFO     2026-11-28 07:28:17 [scraper.py:174] ✅ [HN #1] Done ✅
+INFO     2026-11-28 07:28:17 [scraper.py:170] 📥 [HN #2] Loom seamlessly combines weaving, knitting and braiding
+INFO     2026-11-28 07:28:17 [scraper.py:171] 🔗 [HN #2] URL: https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding
+INFO     2026-11-28 07:28:17 [scraper.py:174] ✅ [HN #2] Done ✅
+INFO     2026-11-28 07:28:17 [scraper.py:170] 📥 [HN #3] Google's DeepCrossAttention achieves comparable model quality up to 3x faster
+INFO     2026-11-28 07:28:17 [scraper.py:171] 🔗 [HN #3] URL: https://research.google/blog/supercharging-transformer-residual-connections/
+INFO     2026-11-28 07:28:17 [scraper.py:174] ✅ [HN #3] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #4] The Balatro Timeline
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #4] URL: https://localthunk.com/blog/balatro-timeline-3aarh
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #4] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #5] GPT 6.2 Astra Solves a Historical Mystery
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #5] URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #5] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #6] Paolo Soleri built a utopian eco-city in the Arizona desert
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #6] URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #6] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #7] Credit card skimming scripts using WebRTC found on popular shopping sites
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #7] URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #7] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #8] Sydney Fire Ant Infestation
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #8] URL: https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #8] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #9] Convex skills send the user's app idea to a remote server without telling them
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #9] URL: https://github.com/convex/convex-backend-skill/issues/64
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #9] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:170] 📥 [HN #10] Citroën Hydraulic System
+INFO     2026-11-28 07:28:18 [scraper.py:171] 🔗 [HN #10] URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html
+INFO     2026-11-28 07:28:18 [scraper.py:174] ✅ [HN #10] Done ✅
+INFO     2026-11-28 07:28:18 [scraper.py:178] 🎉 [HN] All done.
+
